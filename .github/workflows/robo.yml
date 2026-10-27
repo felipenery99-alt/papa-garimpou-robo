@@ -30,7 +30,7 @@ on:
         description: "normal = postar; verificar = só confere o bot, não posta"
         default: "normal"
         type: choice
-        options: [normal, verificar, story_teste]
+        options: [normal, verificar, story_teste, reels_teste]
 
 permissions:
   contents: write
@@ -64,6 +64,7 @@ jobs:
           case "${{ github.event.inputs.modo }}" in
             verificar) python principal.py --verificar ;;
             story_teste) python principal.py --story-teste ;;
+            reels_teste) python principal.py --reels-teste ;;
             *) python principal.py ;;
           esac
       - name: Guardar histórico (evita repetir produto)

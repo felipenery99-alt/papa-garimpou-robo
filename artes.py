@@ -167,6 +167,20 @@ def story_top4(ofertas: list[dict]) -> bytes:
     return _jpeg(img)
 
 
+def capa_reel(linhas=("ACHADOS", "DO PAPA"), sub="Só marca boa, com desconto de verdade") -> bytes:
+    """Primeiro quadro do Reels: o Papa grande e a chamada."""
+    tema = TEMAS["achadinhos"]
+    img = _gradiente(1080, 1920, *tema["fundo"]).convert("RGBA")
+    d = ImageDraw.Draw(img)
+    img.alpha_composite(_selo(560), (252, 330))
+    y = 960
+    for linha in linhas:
+        _centro(d, y, linha, _fonte(140), tema["texto"])
+        y += 150
+    _centro(d, y + 20, sub, _fonte(52, "Bold"), (255, 255, 255))
+    return _jpeg(img)
+
+
 def story_convite() -> bytes:
     """Story fixo de convite para os canais (o mesmo todo dia)."""
     tema = TEMAS["achadinhos"]

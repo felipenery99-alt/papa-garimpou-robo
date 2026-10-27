@@ -104,6 +104,19 @@ def carrossel(imagens: list[bytes], prefixo: str, legenda: str) -> str:
     return _publicar(c["ig_id"], _criar(c["ig_id"], media_type="CAROUSEL", children=",".join(filhos), caption=legenda))
 
 
+def reels(video: bytes, legenda: str) -> str:
+    """Publica um Reels (também vai para o feed). O vídeo sobe direto para a Meta
+    (upload resumable), sem passar pelo repositório, para não inchar o git."""
+    c = conta()
+    cont = _criar(c["ig_id"], media_type="REELS", upload_type="resumable", caption=legenda, share_to_feed="true")
+    r = requests.post(f"https://rupload.facebook.com/ig-api-upload/v21.0/{cont}", data=video, timeout=300,
+                      headers={"Authorization": f"OAuth {_token()}", "offset": "0", "file_size": str(len(video))}).json()
+    if not r.get("success"):
+        raise RuntimeError(f"Instagram recusou o envio do vídeo: {r}")
+    _esperar(cont, limite=300)
+    return _publicar(c["ig_id"], cont)
+
+
 def stories_ativos() -> int:
     """Quantos stories estão no ar agora (últimas 24 h)."""
     c = conta()

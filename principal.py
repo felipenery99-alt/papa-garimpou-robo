@@ -162,6 +162,27 @@ def rodar_instagram(h: dict, agora: datetime) -> None:
                 leg = f"😎💎 Achado do dia: {o['nome']}\n\nDe {post._brl(o['preco_antigo'])} por {post._brl(o['preco'])} ({o['desconto']}% OFF)" if o.get("preco_antigo") else f"😎💎 Achado do dia: {o['nome']} por {post._brl(o['preco'])}"
                 instagram.foto(artes.post_oferta(o, o["canal"]), f"{tag}-post-{o['id']}.jpg", leg + LEGENDA_CTA)
                 usadas.append(o["id"])
+            elif tipo == "reels":
+                import video
+                top = sorted((o for o in h.get("ofertas_dia", []) if o.get("dia") == hoje),
+                             key=qualidade.pontuar, reverse=True)[:5]
+                if len(top) >= 3:
+                    quadros = ([artes.capa_reel(("ACHADOS", "DO PAPA"), "Os melhores de hoje")]
+                               + [artes.story_oferta(o, o["canal"]) for o in top] + [artes.story_convite()])
+                    lista = "\n".join(f"{i+1}. {o['nome'][:60]} — {post._brl(o['preco'])}" for i, o in enumerate(top))
+                    leg = "😎💎 Os achados do Papa hoje\n\n" + lista + LEGENDA_CTA
+                else:
+                    # sem ofertas: Reels fixo do Papa, no máximo a cada 2 dias (não cansar quem segue)
+                    ultimo = h.get("ig_ultimo_reel", "")
+                    if ultimo and (agora.date() - datetime.fromisoformat(ultimo).date()).days < 2:
+                        feitos.append(chave)
+                        continue
+                    i = agora.toordinal() % 3
+                    quadros = ([artes.capa_reel(("O PAPA", "GARIMPOU"), "Réplica? Aqui não.")]
+                               + [artes.story_institucional(k) for k in range(3)] + [artes.story_convite()])
+                    leg = artes.LEGENDAS_INSTITUCIONAIS[i] + LEGENDA_CTA
+                instagram.reels(video.reel(quadros), leg)
+                h["ig_ultimo_reel"] = agora.isoformat()
             elif tipo == "carrossel_top5":
                 top = sorted(h.get("ofertas_dia", []), key=qualidade.pontuar, reverse=True)
                 top = [o for o in top if o.get("dia") == hoje][:5]
@@ -171,7 +192,7 @@ def rodar_instagram(h: dict, agora: datetime) -> None:
                 slides = [artes.capa_top5()] + [artes.post_oferta(o, o["canal"]) for o in top]
                 lista = "\n".join(f"{i+1}. {o['nome'][:60]} — {post._brl(o['preco'])}" for i, o in enumerate(top))
                 instagram.carrossel(slides, f"{tag}-top5", "😎💎 TOP 5 do Papa hoje\n\n" + lista + LEGENDA_CTA)
-            if tipo in ("post_achado", "carrossel_top5"):
+            if tipo in ("post_achado", "carrossel_top5", "reels"):
                 feitos.append(f"{hoje} feed")
             feitos.append(chave)
             print(f"[ig] publicado {chave}")
@@ -217,6 +238,7 @@ def main() -> int:
     ap.add_argument("--testar-shopee", action="store_true")
     ap.add_argument("--verificar", action="store_true")
     ap.add_argument("--story-teste", action="store_true")
+    ap.add_argument("--reels-teste", action="store_true")
     args = ap.parse_args()
     sys.stdout.reconfigure(encoding="utf-8")
     agora = datetime.now(FUSO)
@@ -232,6 +254,20 @@ def main() -> int:
         import instagram
         sid = instagram.story(artes.story_convite(), f"{agora:%Y%m%d}-convite-teste.jpg")
         print("story publicado:", sid)
+        return 0
+
+    if args.reels_teste:
+        # Publica agora o Reels fixo do Papa (teste real da cadeia de vídeo) e grava no histórico.
+        import artes
+        import instagram
+        import video
+        quadros = ([artes.capa_reel(("O PAPA", "GARIMPOU"), "Réplica? Aqui não.")]
+                   + [artes.story_institucional(k) for k in range(3)] + [artes.story_convite()])
+        rid = instagram.reels(video.reel(quadros), artes.LEGENDAS_INSTITUCIONAIS[0] + LEGENDA_CTA)
+        h = carregar_hist()
+        h["ig_ultimo_reel"] = agora.isoformat()
+        salvar_hist(h)
+        print("reels publicado:", rid)
         return 0
 
     if args.verificar:
