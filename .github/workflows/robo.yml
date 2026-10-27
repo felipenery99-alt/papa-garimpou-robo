@@ -1,0 +1,49 @@
+name: Robô Papa Garimpou
+
+on:
+  # Só 10 execuções por dia (1 post em cada canal por execução) = ~300 min/mês do grátis.
+  # Horários em UTC; em Brasília (UTC-3): 08:13 09:41 11:07 12:23 13:17 15:03 17:47 18:39 20:11 21:29
+  schedule:
+    - cron: "13 11 * * *"
+    - cron: "41 12 * * *"
+    - cron: "7 14 * * *"
+    - cron: "23 15 * * *"
+    - cron: "17 16 * * *"
+    - cron: "3 18 * * *"
+    - cron: "47 20 * * *"
+    - cron: "39 21 * * *"
+    - cron: "11 23 * * *"
+    - cron: "29 0 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: robo-papa
+  cancel-in-progress: false
+
+jobs:
+  postar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 6
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt
+      - name: Rodar robô
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          SHOPEE_APP_ID: ${{ secrets.SHOPEE_APP_ID }}
+          SHOPEE_SECRET: ${{ secrets.SHOPEE_SECRET }}
+          ALERTA_CHAT_ID: ${{ secrets.ALERTA_CHAT_ID }}
+        run: python principal.py
+      - name: Guardar histórico (evita repetir produto)
+        if: always()
+        run: |
+          git config user.name "robo-papa"
+          git config user.email "robo-papa@users.noreply.github.com"
+          git add dados/historico.json 2>/dev/null || true
+          git diff --cached --quiet || (git commit -m "histórico" && git push)

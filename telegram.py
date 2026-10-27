@@ -1,0 +1,51 @@
+"""Envio para o Telegram via Bot API, com trava de destino."""
+import os
+
+import requests
+
+import config
+
+API = "https://api.telegram.org/bot{token}/{metodo}"
+
+
+class DestinoProibido(Exception):
+    pass
+
+
+def _token() -> str:
+    t = os.environ.get("TELEGRAM_BOT_TOKEN", "")
+    if not t:
+        raise RuntimeError("TELEGRAM_BOT_TOKEN não configurado")
+    return t
+
+
+def postar_foto(destino: str, foto: bytes, legenda: str) -> dict:
+    if destino not in config.DESTINOS_PERMITIDOS:
+        raise DestinoProibido(f"destino recusado: {destino}")
+    r = requests.post(
+        API.format(token=_token(), metodo="sendPhoto"),
+        data={"chat_id": destino, "caption": legenda[:1024]},
+        files={"photo": ("oferta.jpg", foto, "image/jpeg")},
+        timeout=60,
+    )
+    dados = r.json()
+    if not dados.get("ok"):
+        raise RuntimeError(f"Telegram recusou: {dados}")
+    return dados["result"]
+
+
+def avisar_felipe(texto: str) -> None:
+    """Aviso de problema. Vai só para o chat do Felipe com o robô (ALERTA_CHAT_ID).
+    Nunca para os canais. Se não houver chat configurado, só registra no log."""
+    chat = os.environ.get("ALERTA_CHAT_ID", "").strip()
+    print(f"[ALERTA] {texto}")
+    if not chat or not os.environ.get("TELEGRAM_BOT_TOKEN"):
+        return
+    try:
+        requests.post(
+            API.format(token=_token(), metodo="sendMessage"),
+            data={"chat_id": chat, "text": f"⚠️ Robô Papa Garimpou: {texto}"},
+            timeout=30,
+        )
+    except Exception as e:  # o aviso nunca pode derrubar o robô
+        print(f"[ALERTA] falhou ao avisar: {e}")
