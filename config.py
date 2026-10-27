@@ -14,6 +14,17 @@ DESTINOS_PERMITIDOS = frozenset(CANAIS.values())
 # conta logada é exatamente esta; se não for, NÃO postar e avisar.
 INSTAGRAM_PERMITIDO = "papa.garimpou"
 
+# Agenda diária do Instagram (horário de Brasília, "HH:MM", tipo). Cada tarefa roda na
+# primeira execução do robô depois do horário (até 50 min). Escolhidos logo antes das
+# execuções do robo.yml. Total: 8 stories + 2 posts por dia.
+STORIES_MINIMOS = 3   # o robô nunca deixa menos de 3 stories no ar (regra do Felipe)
+INSTAGRAM_AGENDA = [
+    ("08:45", "story_oferta"), ("10:20", "story_oferta"), ("11:50", "carrossel_top5"),
+    ("12:15", "story_oferta"), ("13:20", "story_convite"), ("15:00", "story_oferta"),
+    ("18:05", "story_oferta"), ("19:15", "post_achado"), ("20:35", "story_oferta"),
+    ("21:20", "story_convite"),
+]
+
 # ---------------------------------------------------------------------------
 # RITMO
 # ---------------------------------------------------------------------------

@@ -37,6 +37,8 @@ def salvar_hist(h: dict) -> None:
     limite = (datetime.now(FUSO) - timedelta(days=30)).date().isoformat()
     h["slots_feitos"] = [s for s in h["slots_feitos"] if s[:10] >= limite]
     h["postados"] = {k: v for k, v in h["postados"].items() if v[:10] >= limite}
+    dois_dias = (datetime.now(FUSO) - timedelta(days=2)).date().isoformat()
+    h["ofertas_dia"] = [o for o in h.get("ofertas_dia", []) if o.get("dia", "") >= dois_dias]
     HIST.parent.mkdir(exist_ok=True)
     HIST.write_text(json.dumps(h, ensure_ascii=False, indent=1), encoding="utf-8")
 
@@ -70,6 +72,101 @@ def garimpar(canal: str, fonte, h: dict, agora: datetime, rodada: int) -> dict |
     return None
 
 
+LEGENDA_CTA = ("\n\nComenta QUERO que o Papa te manda o link no direct 💎\n"
+               "Todo dia 20 achados de marca boa, só loja oficial, grátis no Telegram (link na bio).\n\n"
+               "#publi link de afiliado")
+
+
+def rodar_instagram(h: dict, agora: datetime) -> None:
+    """Executa as tarefas do Instagram que venceram e responde comentários."""
+    import os
+    if not os.environ.get("META_TOKEN"):
+        return
+    import artes
+    import instagram
+    import telegram
+    hoje = agora.date().isoformat()
+    tag = agora.strftime("%Y%m%d")
+    feitos = h.setdefault("ig_feitos", [])
+    usadas = h.setdefault("ig_ofertas_usadas", [])
+    ofertas = [o for o in h.get("ofertas_dia", []) if o.get("dia") == hoje and o["id"] not in usadas]
+    for hora, tipo in config.INSTAGRAM_AGENDA:
+        chave = f"{hoje} {hora} {tipo}"
+        hh, mm = map(int, hora.split(":"))
+        momento = agora.replace(hour=hh, minute=mm, second=0, microsecond=0)
+        if chave in feitos or not (momento <= agora <= momento + timedelta(minutes=50)):
+            continue
+        try:
+            if tipo == "story_convite":
+                instagram.story(artes.story_convite(), f"{tag}-convite-{hh}.jpg")
+            elif tipo == "story_oferta":
+                if not ofertas:
+                    # sem oferta: story fixo do Papa (gira entre os modelos), nunca deixa buraco
+                    n = h.get("ig_giro", 0)
+                    h["ig_giro"] = n + 1
+                    instagram.story(artes.story_institucional(n % 3), f"{tag}-fixo-{hh}.jpg")
+                else:
+                    o = ofertas.pop(0)
+                    instagram.story(artes.story_oferta(o, o["canal"]), f"{tag}-story-{o['id']}.jpg")
+                    usadas.append(o["id"])
+            elif tipo == "post_achado":
+                if not ofertas:
+                    # feed todo dia: sem oferta, entra o post fixo do dia
+                    if not any(f.startswith(hoje) and ("feed" in f) for f in feitos):
+                        i = agora.toordinal() % 3
+                        instagram.foto(artes.feed_institucional(i), f"{tag}-feed-fixo.jpg",
+                                       artes.LEGENDAS_INSTITUCIONAIS[i] + LEGENDA_CTA)
+                        feitos.append(f"{hoje} feed")
+                    feitos.append(chave)
+                    continue
+                o = max(ofertas, key=qualidade.pontuar)
+                ofertas.remove(o)
+                leg = f"😎💎 Achado do dia: {o['nome']}\n\nDe {post._brl(o['preco_antigo'])} por {post._brl(o['preco'])} ({o['desconto']}% OFF)" if o.get("preco_antigo") else f"😎💎 Achado do dia: {o['nome']} por {post._brl(o['preco'])}"
+                instagram.foto(artes.post_oferta(o, o["canal"]), f"{tag}-post-{o['id']}.jpg", leg + LEGENDA_CTA)
+                usadas.append(o["id"])
+            elif tipo == "carrossel_top5":
+                top = sorted(h.get("ofertas_dia", []), key=qualidade.pontuar, reverse=True)
+                top = [o for o in top if o.get("dia") == hoje][:5]
+                if len(top) < 3:
+                    feitos.append(chave)
+                    continue
+                slides = [artes.capa_top5()] + [artes.post_oferta(o, o["canal"]) for o in top]
+                lista = "\n".join(f"{i+1}. {o['nome'][:60]} — {post._brl(o['preco'])}" for i, o in enumerate(top))
+                instagram.carrossel(slides, f"{tag}-top5", "😎💎 TOP 5 do Papa hoje\n\n" + lista + LEGENDA_CTA)
+            if tipo in ("post_achado", "carrossel_top5"):
+                feitos.append(f"{hoje} feed")
+            feitos.append(chave)
+            print(f"[ig] publicado {chave}")
+        except instagram.ContaErrada as e:
+            telegram.avisar_felipe(f"INSTAGRAM BLOQUEADO (conta errada): {e}")
+            return
+        except Exception as e:
+            telegram.avisar_felipe(f"Instagram {chave} falhou: {e}. Não publiquei.")
+            feitos.append(chave)
+    # Vigia: sempre pelo menos 3 stories no ar
+    try:
+        ativos = instagram.stories_ativos()
+        faltam = max(0, config.STORIES_MINIMOS - ativos)
+        for k in range(min(faltam, 3)):
+            n = h.get("ig_giro", 0)
+            h["ig_giro"] = n + 1
+            instagram.story(artes.story_institucional(n % 4 - 1), f"{tag}-vigia-{agora:%H%M}-{k}.jpg")
+        if faltam:
+            print(f"[ig] vigia: havia {ativos} stories no ar, publiquei {min(faltam, 3)}")
+    except Exception as e:
+        print(f"[ig] vigia de stories: {e}")
+    try:
+        resp = instagram.responder_comentarios(set(h.setdefault("ig_comentarios", [])))
+        h["ig_comentarios"] += resp
+        if resp:
+            print(f"[ig] respondi {len(resp)} comentário(s)")
+    except Exception as e:
+        print(f"[ig] comentários: {e}")
+    instagram.limpar_midia(hoje)
+    h["ig_feitos"] = [f for f in feitos if f[:10] >= (agora.date() - timedelta(days=3)).isoformat()]
+    h["ig_ofertas_usadas"] = usadas[-200:]
+
+
 def ofertas_exemplo(termo: str) -> list[dict]:
     exemplo = json.loads((PASTA / "dados" / "exemplo_ofertas.json").read_text(encoding="utf-8"))
     return exemplo
@@ -81,6 +178,7 @@ def main() -> int:
     ap.add_argument("--agenda", action="store_true")
     ap.add_argument("--testar-shopee", action="store_true")
     ap.add_argument("--verificar", action="store_true")
+    ap.add_argument("--story-teste", action="store_true")
     args = ap.parse_args()
     sys.stdout.reconfigure(encoding="utf-8")
     agora = datetime.now(FUSO)
@@ -89,6 +187,14 @@ def main() -> int:
     if args.agenda:
         for canal, hs in agenda.items():
             print(canal, " ".join(x.strftime("%H:%M") for x in hs))
+        return 0
+
+    if args.story_teste:
+        # Publica agora o story convite (teste real da cadeia Instagram) e responde comentários.
+        import artes
+        import instagram
+        sid = instagram.story(artes.story_convite(), f"{agora:%Y%m%d}-convite-teste.jpg")
+        print("story publicado:", sid)
         return 0
 
     if args.verificar:
@@ -152,13 +258,17 @@ def main() -> int:
     import os
     import telegram
     import shopee
-    if not (os.environ.get("SHOPEE_APP_ID") and os.environ.get("SHOPEE_SECRET") and os.environ.get("TELEGRAM_BOT_TOKEN")):
-        print("chaves ainda não configuradas (Shopee/Telegram) — robô em espera, nada postado")
-        return 0
     import random
-    import time as _time
     h = carregar_hist()
     hoje = agora.date().isoformat()
+    try:
+        rodar_instagram(h, agora)
+    except Exception as e:
+        telegram.avisar_felipe(f"Instagram: erro geral {e}")
+    if not (os.environ.get("SHOPEE_APP_ID") and os.environ.get("SHOPEE_SECRET") and os.environ.get("TELEGRAM_BOT_TOKEN")):
+        print("chaves da Shopee ainda não configuradas — Telegram em espera, nada postado")
+        salvar_hist(h)
+        return 0
     # Cada execução (20 por dia, horários no robo.yml) posta em 1 canal: o que tiver
     # menos posts hoje (empate = sorteio). Assim cada canal fica com 10 horários próprios.
     contagem = {c: sum(1 for s in h["slots_feitos"] if s.startswith(f"{hoje} {c}")) for c in config.CANAIS}
@@ -179,6 +289,7 @@ def main() -> int:
                 telegram.postar_foto(config.CANAIS[canal], post.foto_com_selo(oferta["imagem"]),
                                      post.legenda(oferta, canal))
                 h["postados"][oferta["id"]] = agora.isoformat()
+                h.setdefault("ofertas_dia", []).append({**oferta, "canal": canal, "dia": hoje})
                 print(f"postado {chave}: {oferta['nome'][:60]}")
             h["slots_feitos"].append(chave)
         except telegram.DestinoProibido as e:
