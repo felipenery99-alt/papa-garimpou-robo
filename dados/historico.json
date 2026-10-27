@@ -9,5 +9,12 @@
  "ig_ofertas_usadas": [],
  "ig_giro": 2,
  "ig_comentarios": [],
- "ig_ultimo_reel": "2026-10-27T19:35:37.318438-03:00"
+ "ig_ultimo_reel": "2026-10-27T19:35:37.318438-03:00",
+ "pecas_usadas": {
+  "ac-preco-inflado": "2026-10-27",
+  "dc-7-dias": "2026-10-27",
+  "mv-afiliado": "2026-10-27",
+  "hu-3h": "2026-10-27",
+  "bs-criterios": "2026-10-27"
+ }
 }
