@@ -34,11 +34,25 @@ def postar_foto(destino: str, foto: bytes, legenda: str) -> dict:
     return dados["result"]
 
 
+ERROS: list[str] = []   # vai para o relatório diário (lido pelo CEO na nuvem)
+
+
+def membros(destino: str) -> int | None:
+    if destino not in config.DESTINOS_PERMITIDOS or not os.environ.get("TELEGRAM_BOT_TOKEN"):
+        return None
+    try:
+        r = requests.get(API.format(token=_token(), metodo="getChatMemberCount"), params={"chat_id": destino}, timeout=30).json()
+        return r.get("result")
+    except Exception:
+        return None
+
+
 def avisar_felipe(texto: str) -> None:
     """Aviso de problema. Vai só para o chat do Felipe com o robô (ALERTA_CHAT_ID).
     Nunca para os canais. Se não houver chat configurado, só registra no log."""
     chat = os.environ.get("ALERTA_CHAT_ID", "").strip()
     print(f"[ALERTA] {texto}")
+    ERROS.append(texto[:300])
     if not chat or not os.environ.get("TELEGRAM_BOT_TOKEN"):
         return
     try:

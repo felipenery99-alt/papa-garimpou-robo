@@ -110,7 +110,18 @@ def stories_ativos() -> int:
     return len(r.get("data", []))
 
 
-PALAVRAS_CHAVE =("quero", "link", "eu", "manda", "eu quero")
+def metricas() -> dict:
+    """Seguidores, posts e alcance do dia (para o relatório)."""
+    c = conta()
+    perfil = requests.get(f"{G}/{c['ig_id']}", params={"access_token": _token(),
+                          "fields": "followers_count,media_count"}, timeout=30).json()
+    ins = requests.get(f"{G}/{c['ig_id']}/insights", params={"access_token": _token(), "metric": "reach,profile_views,website_clicks",
+                       "period": "day", "metric_type": "total_value"}, timeout=30).json()
+    alcance = {d["name"]: d.get("total_value", {}).get("value") for d in ins.get("data", [])}
+    return {"seguidores": perfil.get("followers_count"), "posts": perfil.get("media_count"), **alcance}
+
+
+PALAVRAS_CHAVE = ("quero", "link", "eu", "manda", "eu quero")
 RESPOSTA_DM = ("Oi! Aqui é o Papa 😎💎\n\nTodo dia eu garimpo 20 achados de marca boa, só em loja oficial, "
                "e posto grátis no Telegram:\n\n🛒 Achadinhos: https://t.me/papagarimpou\n"
                "👕 Marcas e esporte: https://t.me/papagarimpoumarcas\n\nÉ só entrar e ativar as notificações!")

@@ -43,6 +43,36 @@ def salvar_hist(h: dict) -> None:
     HIST.write_text(json.dumps(h, ensure_ascii=False, indent=1), encoding="utf-8")
 
 
+RELATORIO = PASTA / "dados" / "relatorio.json"
+
+
+def gravar_relatorio(h: dict, agora: datetime) -> None:
+    """Resumo do dia para o 'CEO do Papa' (rotina na nuvem) analisar e decidir.
+    Só números e textos de erro — nunca tokens."""
+    import os
+    import telegram
+    hoje = agora.date().isoformat()
+    rel = json.loads(RELATORIO.read_text(encoding="utf-8")) if RELATORIO.exists() else {}
+    dia = rel.setdefault(hoje, {"erros": []})
+    dia["ultima_execucao"] = agora.strftime("%H:%M")
+    dia["execucoes"] = dia.get("execucoes", 0) + 1
+    dia["telegram_posts"] = {c: sum(1 for s in h["slots_feitos"] if s.startswith(f"{hoje} {c}")) for c in config.CANAIS}
+    dia["telegram_membros"] = {c: telegram.membros(d) for c, d in config.CANAIS.items()}
+    dia["instagram_feito"] = [f[11:] for f in h.get("ig_feitos", []) if f.startswith(hoje)]
+    dia["shopee_ligada"] = bool(os.environ.get("SHOPEE_APP_ID"))
+    if os.environ.get("META_TOKEN"):
+        try:
+            import instagram
+            dia["instagram"] = instagram.metricas()
+            dia["instagram"]["stories_ativos"] = instagram.stories_ativos()
+        except Exception as e:
+            dia["instagram"] = {"erro": str(e)[:200]}
+    dia["erros"] = (dia.get("erros", []) + telegram.ERROS)[-30:]
+    for velho in sorted(rel)[:-14]:
+        rel.pop(velho)
+    RELATORIO.write_text(json.dumps(rel, ensure_ascii=False, indent=1), encoding="utf-8")
+
+
 def ja_postado_recente(h: dict, oferta_id: str, agora: datetime) -> bool:
     quando = h["postados"].get(oferta_id)
     if not quando:
@@ -268,6 +298,7 @@ def main() -> int:
     if not (os.environ.get("SHOPEE_APP_ID") and os.environ.get("SHOPEE_SECRET") and os.environ.get("TELEGRAM_BOT_TOKEN")):
         print("chaves da Shopee ainda não configuradas — Telegram em espera, nada postado")
         salvar_hist(h)
+        gravar_relatorio(h, agora)
         return 0
     # Cada execução (20 por dia, horários no robo.yml) posta em 1 canal: o que tiver
     # menos posts hoje (empate = sorteio). Assim cada canal fica com 10 horários próprios.
@@ -275,6 +306,8 @@ def main() -> int:
     abertos = [c for c, n in contagem.items() if n < config.POSTS_POR_CANAL_DIA]
     if not abertos:
         print("cota do dia já cumprida")
+        salvar_hist(h)
+        gravar_relatorio(h, agora)
         return 0
     menor = min(contagem[c] for c in abertos)
     canal_da_vez = random.choice([c for c in abertos if contagem[c] == menor])
@@ -300,6 +333,7 @@ def main() -> int:
             h["slots_feitos"].append(chave)
             erros += 1
     salvar_hist(h)
+    gravar_relatorio(h, agora)
     return 1 if erros else 0
 
 
