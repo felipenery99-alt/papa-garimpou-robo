@@ -260,6 +260,7 @@ def main() -> int:
     ap.add_argument("--story-teste", action="store_true")
     ap.add_argument("--reels-teste", action="store_true")
     ap.add_argument("--mosaico", action="store_true")
+    ap.add_argument("--destaques", action="store_true")
     args = ap.parse_args()
     sys.stdout.reconfigure(encoding="utf-8")
     agora = datetime.now(FUSO)
@@ -275,6 +276,20 @@ def main() -> int:
         import instagram
         sid = instagram.story(artes.story_convite(), f"{agora:%Y%m%d}-convite-teste.jpg")
         print("story publicado:", sid)
+        return 0
+
+    if args.destaques:
+        # 1 story de cada tema (para montar os destaques do perfil), sem repetir peça já usada.
+        import artes
+        import instagram
+        h = carregar_hist()
+        usadas = h.setdefault("pecas_usadas", {})
+        for pilar in ("anticilada", "dica", "mito", "humor", "bastidor"):
+            pc = next(p for p in sorted(conteudo.PECAS, key=lambda p: usadas.get(p["id"], ""))
+                      if p["pilar"] == pilar and not p.get("so_feed"))
+            usadas[pc["id"]] = agora.date().isoformat()
+            print(pilar, instagram.story(artes.peca(pc), f"{agora:%Y%m%d}-destaque-{pc['id']}.jpg"))
+        salvar_hist(h)
         return 0
 
     if args.mosaico:
