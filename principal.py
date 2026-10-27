@@ -247,6 +247,11 @@ def main() -> int:
         privados = {u["message"]["chat"]["id"]: u["message"]["chat"].get("first_name", "")
                     for u in up.get("result", []) if u.get("message", {}).get("chat", {}).get("type") == "private"}
         print("chats privados com o bot (para ALERTA_CHAT_ID):", privados or "nenhum — mande /start para o bot")
+        alerta = os.environ.get("ALERTA_CHAT_ID", "").strip()
+        if alerta:
+            r = requests.post(f"{api}/sendMessage", data={"chat_id": alerta, "text":
+                              "✅ Robô Papa Garimpou: verificação ok. Se algo der errado, eu te aviso por aqui."}, timeout=30).json()
+            print("aviso de teste enviado:", r.get("ok"))
         mt = os.environ.get("META_TOKEN", "")
         if mt:
             g = "https://graph.facebook.com/v21.0"
