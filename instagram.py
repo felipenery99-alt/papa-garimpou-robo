@@ -75,10 +75,15 @@ def _esperar(container: str, limite=60):
 
 def _publicar(ig_id: str, container: str) -> str:
     _esperar(container)
-    r = requests.post(f"{G}/{ig_id}/media_publish", data={"access_token": _token(), "creation_id": container}, timeout=60).json()
-    if "id" not in r:
-        raise RuntimeError(f"Instagram não publicou: {r}")
-    return r["id"]
+    for tentativa in range(6):
+        r = requests.post(f"{G}/{ig_id}/media_publish", data={"access_token": _token(), "creation_id": container}, timeout=60).json()
+        if "id" in r:
+            return r["id"]
+        # 2207027 = "mídia não está pronta": a Meta ainda está processando; espera e tenta de novo
+        if r.get("error", {}).get("error_subcode") != 2207027:
+            break
+        time.sleep(10)
+    raise RuntimeError(f"Instagram não publicou: {r}")
 
 
 def story(imagem: bytes, nome: str) -> str:
