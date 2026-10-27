@@ -49,10 +49,12 @@ def hospedar(nome: str, conteudo: bytes) -> str:
     (MIDIA / nome).write_bytes(conteudo)
     if os.environ.get("GITHUB_ACTIONS"):
         subprocess.run(["git", "add", f"midia/{nome}"], cwd=PASTA, check=True)
-        subprocess.run(["git", "commit", "-m", f"mídia {nome}"], cwd=PASTA, check=True)
-        subprocess.run(["git", "pull", "--rebase", "-q"], cwd=PASTA, check=True)
-        subprocess.run(["git", "push", "-q"], cwd=PASTA, check=True)
-        time.sleep(5)
+        # mesma imagem já publicada antes (ex.: nova tentativa): nada a gravar, segue com o link que já existe
+        if subprocess.run(["git", "diff", "--cached", "--quiet"], cwd=PASTA).returncode != 0:
+            subprocess.run(["git", "commit", "-m", f"mídia {nome}"], cwd=PASTA, check=True)
+            subprocess.run(["git", "pull", "--rebase", "-q"], cwd=PASTA, check=True)
+            subprocess.run(["git", "push", "-q"], cwd=PASTA, check=True)
+            time.sleep(5)
     return REPO_RAW + nome
 
 

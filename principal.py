@@ -289,7 +289,7 @@ def main() -> int:
                       if p["pilar"] == pilar and not p.get("so_feed"))
             usadas[pc["id"]] = agora.date().isoformat()
             print(pilar, instagram.story(artes.peca(pc), f"{agora:%Y%m%d}-destaque-{pc['id']}.jpg"))
-        salvar_hist(h)
+            salvar_hist(h)   # grava a cada story: se cair no meio, não repete o que já saiu
         return 0
 
     if args.mosaico:
