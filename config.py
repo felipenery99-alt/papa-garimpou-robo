@@ -54,6 +54,7 @@ MARCAS_ACHADINHOS = [
     "panasonic", "intelbras", "tp-link", "kingston", "sandisk", "edifier", "havit",
     "rayovac", "duracell", "3m", "stanley", "vonder", "tefal", "rochedo", "oxford",
     "dove", "rexona", "colgate", "sensodyne", "wella", "elseve", "salon line", "eudora",
+    "taiff",
 ]
 
 MARCAS_MARCAS = [
