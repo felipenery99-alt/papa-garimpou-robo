@@ -55,6 +55,7 @@ jobs:
           SHOPEE_APP_ID: ${{ secrets.SHOPEE_APP_ID }}
           SHOPEE_SECRET: ${{ secrets.SHOPEE_SECRET }}
           ALERTA_CHAT_ID: ${{ secrets.ALERTA_CHAT_ID }}
+          META_TOKEN: ${{ secrets.META_TOKEN }}
         run: |
           if [ "${{ github.event.inputs.modo }}" = "verificar" ]; then python principal.py --verificar; else python principal.py; fi
       - name: Guardar histórico (evita repetir produto)

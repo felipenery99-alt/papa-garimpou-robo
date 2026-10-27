@@ -111,6 +111,20 @@ def main() -> int:
         privados = {u["message"]["chat"]["id"]: u["message"]["chat"].get("first_name", "")
                     for u in up.get("result", []) if u.get("message", {}).get("chat", {}).get("type") == "private"}
         print("chats privados com o bot (para ALERTA_CHAT_ID):", privados or "nenhum — mande /start para o bot")
+        mt = os.environ.get("META_TOKEN", "")
+        if mt:
+            g = "https://graph.facebook.com/v21.0"
+            me = requests.get(f"{g}/me", params={"access_token": mt}, timeout=30).json()
+            print("meta me:", me.get("name"), me.get("id"), me.get("error", {}).get("message", ""))
+            contas = requests.get(f"{g}/me/accounts", params={"access_token": mt, "fields": "name,instagram_business_account{id,username}"}, timeout=30).json()
+            for p in contas.get("data", []):
+                ig = p.get("instagram_business_account") or {}
+                print("pagina:", p.get("name"), "| instagram:", ig.get("username"), ig.get("id"))
+                if ig.get("id"):
+                    lim = requests.get(f"{g}/{ig['id']}/content_publishing_limit", params={"access_token": mt, "fields": "config,quota_usage"}, timeout=30).json()
+                    print("limite de publicação:", lim.get("data", lim))
+            if contas.get("error"):
+                print("erro contas:", contas["error"].get("message"))
         return 0
 
     if args.testar_shopee:
