@@ -143,11 +143,11 @@ def story_convite() -> bytes:
     d = ImageDraw.Draw(img)
     img.alpha_composite(_selo(520), (270, 300))
     y = 880
-    for linha, tam in (("O PAPA GARIMPA", 96), ("20 ACHADOS", 120), ("POR DIA", 120)):
+    for linha, tam in (("O PAPA GARIMPA", 96), ("SÓ MARCA", 120), ("BOA", 120)):
         _centro(d, y, linha, _fonte(tam), tema["texto"])
         y += tam + 10
     y += 30
-    for linha in ("Só marca boa. Só loja oficial.", "Grátis, no Telegram."):
+    for linha in ("Achou, postou. Só loja oficial.", "Grátis, no Telegram."):
         _centro(d, y, linha, _fonte(54, "Bold"), (255, 255, 255))
         y += 70
     y += 40
@@ -210,7 +210,7 @@ def feed_institucional(i: int) -> bytes:
 LEGENDAS_INSTITUCIONAIS = [
     "😎💎 Réplica? Aqui não.\n\nO Papa só garimpa produto original, de marca boa e em loja oficial. Desconto de verdade, sem cilada.",
     "😎💎 Como funciona o Papa Garimpou:\n\n1. Entra no canal do Telegram (link na bio)\n2. Ativa as notificações\n3. Pega o achado antes de acabar",
-    "😎💎 Lacoste, Nike, Lupo, Calvin Klein, JBL, Growth...\n\nO Papa garimpa marca boa com desconto todo dia, das 8h às 22h.",
+    "😎💎 Lacoste, Nike, Lupo, Calvin Klein, JBL, Growth...\n\nAchou marca boa com desconto de verdade, o Papa posta na hora no Telegram.",
 ]
 
 

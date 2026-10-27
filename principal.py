@@ -18,7 +18,6 @@ from pathlib import Path
 from zoneinfo import ZoneInfo
 
 import config
-import horarios
 import post
 import qualidade
 
@@ -80,30 +79,34 @@ def ja_postado_recente(h: dict, oferta_id: str, agora: datetime) -> bool:
     return datetime.fromisoformat(quando) > agora - timedelta(days=config.NAO_REPETIR_DIAS)
 
 
-def garimpar(canal: str, fonte, h: dict, agora: datetime, rodada: int) -> dict | None:
-    termos = config.BUSCAS[canal]
-    inicio = rodada % len(termos)
+def garimpar_todas(canal: str, fonte, h: dict, agora: datetime) -> list[dict]:
+    """Todas as ofertas boas e não postadas de todas as buscas do canal, melhores primeiro.
+    Sem cota: o único filtro é a qualidade (regra do Felipe: achou coisa boa, posta)."""
     reprovados = {}
-    for termo in termos[inicio:] + termos[:inicio]:
+    boas = {}
+    for termo in config.BUSCAS[canal]:
         try:
             ofertas = fonte(termo)
         except Exception as e:
             raise RuntimeError(f"busca '{termo}' falhou: {e}") from e
-        boas = []
         for o in ofertas:
             ok, motivo = qualidade.avaliar(o, canal)
             if ok and not ja_postado_recente(h, o["id"], agora):
-                boas.append(o)
+                boas[o["id"]] = o
             elif not ok:
                 reprovados[motivo] = reprovados.get(motivo, 0) + 1
-        if boas:
-            return max(boas, key=qualidade.pontuar)
-    print(f"[{canal}] nenhuma oferta boa. Reprovações: {reprovados}")
-    return None
+    if not boas:
+        print(f"[{canal}] nenhuma oferta boa. Reprovações: {reprovados}")
+    return sorted(boas.values(), key=qualidade.pontuar, reverse=True)
+
+
+def garimpar(canal: str, fonte, h: dict, agora: datetime, rodada: int = 0) -> dict | None:
+    todas = garimpar_todas(canal, fonte, h, agora)
+    return todas[0] if todas else None
 
 
 LEGENDA_CTA = ("\n\nComenta QUERO que o Papa te manda o link no direct 💎\n"
-               "Todo dia 20 achados de marca boa, só loja oficial, grátis no Telegram (link na bio).\n\n"
+               "Achou coisa boa de marca, o Papa posta na hora. Só loja oficial, grátis no Telegram (link na bio).\n\n"
                "#publi link de afiliado")
 
 
@@ -212,11 +215,10 @@ def main() -> int:
     args = ap.parse_args()
     sys.stdout.reconfigure(encoding="utf-8")
     agora = datetime.now(FUSO)
-    agenda = horarios.agenda_do_dia(agora.date())
-
     if args.agenda:
-        for canal, hs in agenda.items():
-            print(canal, " ".join(x.strftime("%H:%M") for x in hs))
+        # Telegram não tem agenda (posta na hora que acha); só o Instagram tem horários fixos.
+        for hora, tipo in config.INSTAGRAM_AGENDA:
+            print("instagram", hora, tipo)
         return 0
 
     if args.story_teste:
@@ -293,7 +295,6 @@ def main() -> int:
     import os
     import telegram
     import shopee
-    import random
     h = carregar_hist()
     hoje = agora.date().isoformat()
     try:
@@ -305,38 +306,35 @@ def main() -> int:
         salvar_hist(h)
         gravar_relatorio(h, agora)
         return 0
-    # Cada execução (20 por dia, horários no robo.yml) posta em 1 canal: o que tiver
-    # menos posts hoje (empate = sorteio). Assim cada canal fica com 10 horários próprios.
-    contagem = {c: sum(1 for s in h["slots_feitos"] if s.startswith(f"{hoje} {c}")) for c in config.CANAIS}
-    abertos = [c for c, n in contagem.items() if n < config.POSTS_POR_CANAL_DIA]
-    if not abertos:
-        print("cota do dia já cumprida")
-        salvar_hist(h)
-        gravar_relatorio(h, agora)
-        return 0
-    menor = min(contagem[c] for c in abertos)
-    canal_da_vez = random.choice([c for c in abertos if contagem[c] == menor])
-    pendentes = [(canal_da_vez, f"{hoje} {canal_da_vez} {agora:%H:%M}")]
+    # Sem cota diária: a cada execução garimpa os 2 canais e posta TODA oferta boa nova
+    # (regra do Felipe, 27/10: "ofertar sempre que acharmos algo bom, não tem limite").
+    # A qualidade (config/qualidade.py) é o único filtro; o histórico impede repetir em 7 dias.
+    import time as _time
     erros = 0
-    for canal, chave in pendentes:
+    for canal in config.CANAIS:
         try:
-            oferta = garimpar(canal, shopee.buscar, h, agora, len(h["slots_feitos"]))
-            if not oferta:
-                telegram.avisar_felipe(f"sem oferta boa para {canal} em {chave}; pulei o horário.")
-            else:
+            ofertas = garimpar_todas(canal, shopee.buscar, h, agora)
+        except Exception as e:
+            telegram.avisar_felipe(f"garimpo de {canal} falhou: {e}. Não postei.")
+            erros += 1
+            continue
+        for oferta in ofertas:
+            chave = f"{hoje} {canal} {agora:%H:%M} {oferta['id']}"
+            try:
                 telegram.postar_foto(config.CANAIS[canal], post.foto_com_selo(oferta["imagem"]),
                                      post.legenda(oferta, canal))
                 h["postados"][oferta["id"]] = agora.isoformat()
                 h.setdefault("ofertas_dia", []).append({**oferta, "canal": canal, "dia": hoje})
+                h["slots_feitos"].append(chave)
                 print(f"postado {chave}: {oferta['nome'][:60]}")
-            h["slots_feitos"].append(chave)
-        except telegram.DestinoProibido as e:
-            telegram.avisar_felipe(f"BLOQUEADO destino errado: {e}")
-            erros += 1
-        except Exception as e:
-            telegram.avisar_felipe(f"erro em {chave}: {e}. Não postei.")
-            h["slots_feitos"].append(chave)
-            erros += 1
+                _time.sleep(config.PAUSA_ENTRE_POSTS_S)
+            except telegram.DestinoProibido as e:
+                telegram.avisar_felipe(f"BLOQUEADO destino errado: {e}")
+                erros += 1
+                break
+            except Exception as e:
+                telegram.avisar_felipe(f"erro em {chave}: {e}. Não postei.")
+                erros += 1
     salvar_hist(h)
     gravar_relatorio(h, agora)
     return 1 if erros else 0

@@ -28,7 +28,8 @@ INSTAGRAM_AGENDA = [
 # ---------------------------------------------------------------------------
 # RITMO
 # ---------------------------------------------------------------------------
-POSTS_POR_CANAL_DIA = 10
+# Sem cota diária (Felipe, 27/10): toda oferta boa encontrada é postada na hora.
+PAUSA_ENTRE_POSTS_S = 20  # respiro entre posts seguidos (limite do Telegram e leitura)
 JANELA_INICIO = (8, 0)    # 08:00
 JANELA_FIM = (22, 0)      # 22:00
 INTERVALO_MIN_MIN = 45    # mínimo entre posts do mesmo canal
