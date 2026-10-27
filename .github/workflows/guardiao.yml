@@ -1,0 +1,52 @@
+name: Guardião do robô
+
+# Reserva do agendamento: o "schedule" do GitHub às vezes atrasa ou pula horários.
+# O guardião fica de olho nos mesmos horários do robo.yml; se 10 min depois o robô
+# não rodou, ele dispara o robô. Cada volta dura ~5h45 e, no fim, chama a próxima.
+# Repositório público = minutos do Actions grátis.
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "5 */6 * * *"   # re-arma o guardião se a corrente parar
+
+permissions:
+  actions: write
+  contents: read
+
+concurrency:
+  group: guardiao
+  cancel-in-progress: true
+
+jobs:
+  vigiar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 355
+    steps:
+      - name: Vigiar horários do robô
+        env:
+          GH_TOKEN: ${{ github.token }}
+          REPO: ${{ github.repository }}
+        run: |
+          # Mesmos horários (UTC, HHMM) do robo.yml
+          SLOTS="1107 1152 1238 1324 1411 1456 1519 1547 1622 1708 1803 1851 1944 2036 2109 2142 2217 2303 2338 0024"
+          fim=$(( $(date +%s) + 340*60 ))
+          while [ "$(date +%s)" -lt "$fim" ]; do
+            agora=$(date -u +%H%M)
+            for s in $SLOTS; do
+              if [ "$agora" = "$s" ]; then
+                sleep 600
+                ult=$(gh api "repos/$REPO/actions/workflows/robo.yml/runs?per_page=1" --jq '.workflow_runs[0].created_at')
+                if [ $(( $(date +%s) - $(date -d "$ult" +%s) )) -gt 900 ]; then
+                  gh workflow run robo.yml -R "$REPO" -f modo=normal && echo "$s: agendamento falhou, disparei o robô"
+                else
+                  echo "$s: robô já rodou"
+                fi
+              fi
+            done
+            sleep 50
+          done
+      - name: Passar o bastão para a próxima volta
+        if: ${{ !cancelled() }}   # se foi cancelado por outra volta, não duplica a corrente
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run guardiao.yml -R "${{ github.repository }}"
