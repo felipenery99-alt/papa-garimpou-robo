@@ -136,6 +136,37 @@ def story_oferta(oferta: dict, canal: str) -> bytes:
     return _jpeg(img)
 
 
+def story_top4(ofertas: list[dict]) -> bytes:
+    """Story com os 4 melhores achados juntos (formato que as contas grandes de achados usam).
+    Preços sempre os reais da loja; o "de" só aparece se a loja informou."""
+    tema = TEMAS["achadinhos"]
+    img = _gradiente(1080, 1920, *tema["fundo"]).convert("RGBA")
+    d = ImageDraw.Draw(img)
+    _cabecalho(img, tema)
+    _centro(d, 415, "OS 4 MELHORES ACHADOS", _fonte(66), tema["texto"])
+    lado, gap, x0, y0 = 380, 60, 130, 510
+    for i, o in enumerate(ofertas[:4]):
+        x = x0 + (i % 2) * (lado + gap)
+        y = y0 + (i // 2) * (lado + 180)
+        img.alpha_composite(_foto_produto(o["imagem"], lado), (x, y))
+        if o.get("desconto"):
+            txt, f = f"-{o['desconto']}%", _fonte(48)
+            w = d.textlength(txt, font=f) + 40
+            d.rounded_rectangle((x + lado - w - 10, y - 20, x + lado + 10, y + 60), radius=40, fill=(225, 29, 72))
+            d.text((x + lado - w + 10, y - 14), txt, font=f, fill=(255, 255, 255))
+        nome = _quebrar(d, o["nome"], _fonte(34, "Bold"), lado, max_linhas=1)[0]
+        d.text((x + (lado - d.textlength(nome, font=_fonte(34, "Bold"))) / 2, y + lado + 12), nome,
+               font=_fonte(34, "Bold"), fill=tema["texto"])
+        por, f = _brl(o["preco"]), _fonte(54)
+        w = d.textlength(por, font=f) + 50
+        d.rounded_rectangle((x + (lado - w) / 2, y + lado + 62, x + (lado + w) / 2, y + lado + 142), radius=40,
+                            fill=tema["destaque"])
+        d.text((x + (lado - w) / 2 + 25, y + lado + 66), por, font=f, fill=tema["destaque_txt"])
+    _centro(d, 1610, "Links no Telegram, grátis:", _fonte(44, "SemiBold"), tema["texto"])
+    _centro(d, 1660, "@papagarimpou", _fonte(58), tema["texto"])
+    return _jpeg(img)
+
+
 def story_convite() -> bytes:
     """Story fixo de convite para os canais (o mesmo todo dia)."""
     tema = TEMAS["achadinhos"]

@@ -17,6 +17,11 @@ O dono **não quer aprovar nada nem ficar online**: você decide, corrige e melh
 ## Meta número 1: PESSOAS
 O lucro vem de gente: quanto mais membros nos canais e seguidores no Instagram, mais venda. Toda revisão precisa buscar **mais formas de crescer**: mais canais (por nicho, se fizer sentido), mais membros e mais seguidores. Exemplos de alavanca que você pode mexer sozinho: chamadas para entrar nos canais nas legendas e stories, story de convite, troca de link entre os 2 canais, resposta automática do QUERO, datas sazonais, termos de busca que dão oferta mais "compartilhável". O que depende do dono (criar canal novo, conta nova, parceria paga, impulsionamento com valor sugerido) vai como pedido curto em `decisoes.md`.
 
+## Copiar e melhorar quem é grande
+O dono quer que você acompanhe as contas grandes de achados e ofertas (Instagram e Telegram, Brasil) e traga para cá o que funciona: formatos de story (ex.: "4 melhores achados" num story só — já existe em `artes.story_top4`), chamadas, horários, frequência. Uma vez por semana (domingo), se tiver busca na web disponível, pesquise e registre em `decisoes.md` 1 ou 2 ideias copiadas e como melhorou. Melhoria tem que caber nas regras abaixo.
+
+**Nunca preço falso.** Muita conta grande posta "PS5 por R$ 2.600" ou "tênis de R$ 2.000 por R$ 899" que não existe ou é golpe. Aqui não: todo preço, "de" e % OFF vêm da loja, no momento do post. Oferta-isca derruba a credibilidade, é propaganda enganosa (CDC art. 37) e faz a Shopee/ML cortarem a conta de afiliado. Se aparecer uma oferta real muito forte (ex.: console ou tênis de marca com desconto grande e loja oficial), aí sim destaque ao máximo.
+
 ## Sua rotina (todo dia)
 1. Leia `dados/relatorio.json` (últimos 14 dias), `dados/historico.json` e `git log -30`.
 2. Avalie como dono:

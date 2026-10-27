@@ -132,7 +132,12 @@ def rodar_instagram(h: dict, agora: datetime) -> None:
         try:
             if tipo == "story_convite":
                 instagram.story(artes.story_convite(), f"{tag}-convite-{hh}.jpg")
-            elif tipo == "story_oferta":
+            elif tipo == "story_top4" and len([o for o in h.get("ofertas_dia", []) if o.get("dia") == hoje]) >= 4:
+                # 4 melhores achados do dia num story só (maior desconto primeiro); preço sempre o real
+                top = sorted((o for o in h["ofertas_dia"] if o.get("dia") == hoje),
+                             key=lambda o: (o.get("desconto") or 0, qualidade.pontuar(o)), reverse=True)[:4]
+                instagram.story(artes.story_top4(top), f"{tag}-top4-{hh}.jpg")
+            elif tipo in ("story_oferta", "story_top4"):
                 if not ofertas:
                     # sem oferta: story fixo do Papa (gira entre os modelos), nunca deixa buraco
                     n = h.get("ig_giro", 0)
