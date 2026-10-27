@@ -17,7 +17,8 @@ import config
 G = "https://graph.facebook.com/v21.0"
 PASTA = Path(__file__).parent
 MIDIA = PASTA / "midia"
-REPO_RAW = "https://raw.githubusercontent.com/felipenery99-alt/papa-garimpou-robo/main/midia/"
+# GITHUB_REPOSITORY vem do próprio GitHub Actions ("dono/repo"); nada de nome fixo no código.
+REPO_RAW = f"https://raw.githubusercontent.com/{os.environ.get('GITHUB_REPOSITORY', '')}/main/midia/"
 
 
 class ContaErrada(Exception):

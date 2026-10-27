@@ -47,8 +47,8 @@ def membros(destino: str) -> int | None:
         return None
 
 
-def avisar_felipe(texto: str) -> None:
-    """Aviso de problema. Vai só para o chat do Felipe com o robô (ALERTA_CHAT_ID).
+def avisar_dono(texto: str) -> None:
+    """Aviso de problema. Vai só para o chat do dono com o robô (ALERTA_CHAT_ID).
     Nunca para os canais. Se não houver chat configurado, só registra no log."""
     chat = os.environ.get("ALERTA_CHAT_ID", "").strip()
     print(f"[ALERTA] {texto}")

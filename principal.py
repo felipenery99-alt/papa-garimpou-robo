@@ -81,7 +81,7 @@ def ja_postado_recente(h: dict, oferta_id: str, agora: datetime) -> bool:
 
 def garimpar_todas(canal: str, fonte, h: dict, agora: datetime) -> list[dict]:
     """Todas as ofertas boas e não postadas de todas as buscas do canal, melhores primeiro.
-    Sem cota: o único filtro é a qualidade (regra do Felipe: achou coisa boa, posta)."""
+    Sem cota: o único filtro é a qualidade (regra do dono: achou coisa boa, posta)."""
     reprovados = {}
     boas = {}
     for termo in config.BUSCAS[canal]:
@@ -171,10 +171,10 @@ def rodar_instagram(h: dict, agora: datetime) -> None:
             feitos.append(chave)
             print(f"[ig] publicado {chave}")
         except instagram.ContaErrada as e:
-            telegram.avisar_felipe(f"INSTAGRAM BLOQUEADO (conta errada): {e}")
+            telegram.avisar_dono(f"INSTAGRAM BLOQUEADO (conta errada): {e}")
             return
         except Exception as e:
-            telegram.avisar_felipe(f"Instagram {chave} falhou: {e}. Não publiquei.")
+            telegram.avisar_dono(f"Instagram {chave} falhou: {e}. Não publiquei.")
             feitos.append(chave)
     # Vigia: sempre pelo menos 3 stories no ar
     try:
@@ -300,14 +300,14 @@ def main() -> int:
     try:
         rodar_instagram(h, agora)
     except Exception as e:
-        telegram.avisar_felipe(f"Instagram: erro geral {e}")
+        telegram.avisar_dono(f"Instagram: erro geral {e}")
     if not (os.environ.get("SHOPEE_APP_ID") and os.environ.get("SHOPEE_SECRET") and os.environ.get("TELEGRAM_BOT_TOKEN")):
         print("chaves da Shopee ainda não configuradas — Telegram em espera, nada postado")
         salvar_hist(h)
         gravar_relatorio(h, agora)
         return 0
     # Sem cota diária: a cada execução garimpa os 2 canais e posta TODA oferta boa nova
-    # (regra do Felipe, 27/10: "ofertar sempre que acharmos algo bom, não tem limite").
+    # (regra do dono, 27/10: "ofertar sempre que acharmos algo bom, não tem limite").
     # A qualidade (config/qualidade.py) é o único filtro; o histórico impede repetir em 7 dias.
     import time as _time
     erros = 0
@@ -315,7 +315,7 @@ def main() -> int:
         try:
             ofertas = garimpar_todas(canal, shopee.buscar, h, agora)
         except Exception as e:
-            telegram.avisar_felipe(f"garimpo de {canal} falhou: {e}. Não postei.")
+            telegram.avisar_dono(f"garimpo de {canal} falhou: {e}. Não postei.")
             erros += 1
             continue
         for oferta in ofertas:
@@ -329,11 +329,11 @@ def main() -> int:
                 print(f"postado {chave}: {oferta['nome'][:60]}")
                 _time.sleep(config.PAUSA_ENTRE_POSTS_S)
             except telegram.DestinoProibido as e:
-                telegram.avisar_felipe(f"BLOQUEADO destino errado: {e}")
+                telegram.avisar_dono(f"BLOQUEADO destino errado: {e}")
                 erros += 1
                 break
             except Exception as e:
-                telegram.avisar_felipe(f"erro em {chave}: {e}. Não postei.")
+                telegram.avisar_dono(f"erro em {chave}: {e}. Não postei.")
                 erros += 1
     salvar_hist(h)
     gravar_relatorio(h, agora)
