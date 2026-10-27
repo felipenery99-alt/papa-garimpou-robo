@@ -1,8 +1,8 @@
 {
  "2026-10-27": {
   "erros": [],
-  "ultima_execucao": "19:08",
-  "execucoes": 1,
+  "ultima_execucao": "19:27",
+  "execucoes": 2,
   "telegram_posts": {
    "achadinhos": 0,
    "marcas": 0
@@ -11,11 +11,14 @@
    "achadinhos": 2,
    "marcas": 2
   },
-  "instagram_feito": [],
+  "instagram_feito": [
+   "feed",
+   "19:15 post_achado"
+  ],
   "shopee_ligada": false,
   "instagram": {
    "seguidores": 1,
-   "posts": 0,
+   "posts": 1,
    "reach": 1,
    "profile_views": 1,
    "website_clicks": 0,
