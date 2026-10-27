@@ -30,7 +30,7 @@ on:
         description: "normal = postar; verificar = só confere o bot, não posta"
         default: "normal"
         type: choice
-        options: [normal, verificar, story_teste, reels_teste]
+        options: [normal, verificar, story_teste, reels_teste, mosaico]
 
 permissions:
   contents: write
@@ -65,6 +65,7 @@ jobs:
             verificar) python principal.py --verificar ;;
             story_teste) python principal.py --story-teste ;;
             reels_teste) python principal.py --reels-teste ;;
+            mosaico) python principal.py --mosaico ;;
             *) python principal.py ;;
           esac
       - name: Guardar histórico (evita repetir produto)

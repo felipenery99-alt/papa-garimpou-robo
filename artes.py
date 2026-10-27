@@ -203,62 +203,6 @@ def story_convite() -> bytes:
     return _jpeg(img)
 
 
-INSTITUCIONAIS = [
-    # (título linhas, subtítulo linhas) — histórias fixas do Papa, sem oferta
-    (("RÉPLICA?", "AQUI NÃO."), ("O Papa só garimpa marca boa", "e loja oficial.")),
-    (("COMO", "FUNCIONA"), ("1. Entre no canal do Papa", "2. Ative as notificações", "3. Compre com desconto")),
-    (("O PAPA", "GARIMPOU"), ("Lacoste, Nike, Lupo, JBL...", "tudo com desconto de verdade.")),
-]
-
-
-def story_institucional(i: int) -> bytes:
-    """Stories fixos que giram quando não há oferta (o convite é o índice -1)."""
-    if i < 0:
-        return story_convite()
-    tema = TEMAS["marcas"] if i % 2 else TEMAS["achadinhos"]
-    titulo, sub = INSTITUCIONAIS[i % len(INSTITUCIONAIS)]
-    img = _gradiente(1080, 1920, *tema["fundo"]).convert("RGBA")
-    d = ImageDraw.Draw(img)
-    img.alpha_composite(_selo(440), (310, 300))
-    y = 820
-    for linha in titulo:
-        _centro(d, y, linha, _fonte(120), tema["texto"])
-        y += 130
-    y += 30
-    for linha in sub:
-        _centro(d, y, linha, _fonte(54, "Bold"), (255, 255, 255))
-        y += 72
-    _centro(d, 1560, "Telegram grátis: @papagarimpou", _fonte(50), tema["texto"])
-    _centro(d, 1625, "link na bio", _fonte(44, "SemiBold"), tema["texto"])
-    return _jpeg(img)
-
-
-def feed_institucional(i: int) -> bytes:
-    """Post de feed fixo 1080x1350, para nunca passar um dia sem feed."""
-    tema = TEMAS["marcas"] if i % 2 else TEMAS["achadinhos"]
-    titulo, sub = INSTITUCIONAIS[i % len(INSTITUCIONAIS)]
-    img = _gradiente(1080, 1350, *tema["fundo"]).convert("RGBA")
-    d = ImageDraw.Draw(img)
-    img.alpha_composite(_selo(400), (330, 110))
-    y = 580
-    for linha in titulo:
-        _centro(d, y, linha, _fonte(118), tema["texto"])
-        y += 125
-    y += 20
-    for linha in sub:
-        _centro(d, y, linha, _fonte(50, "Bold"), (255, 255, 255))
-        y += 66
-    _centro(d, 1230, "Telegram grátis: @papagarimpou · link na bio", _fonte(40, "SemiBold"), tema["texto"])
-    return _jpeg(img)
-
-
-LEGENDAS_INSTITUCIONAIS = [
-    "😎💎 Réplica? Aqui não.\n\nO Papa só garimpa produto original, de marca boa e em loja oficial. Desconto de verdade, sem cilada.",
-    "😎💎 Como funciona o Papa Garimpou:\n\n1. Entra no canal do Telegram (link na bio)\n2. Ativa as notificações\n3. Pega o achado antes de acabar",
-    "😎💎 Lacoste, Nike, Lupo, Calvin Klein, JBL, Growth...\n\nAchou marca boa com desconto de verdade, o Papa posta na hora no Telegram.",
-]
-
-
 def post_oferta(oferta: dict, canal: str) -> bytes:
     """Post de feed 1080x1350 ('Achado do dia')."""
     tema = TEMAS[canal]
@@ -287,4 +231,152 @@ def capa_top5() -> bytes:
     _centro(d, 850, "DO PAPA HOJE", _fonte(96), tema["texto"])
     _centro(d, 1010, "Só marca boa, com desconto de verdade", _fonte(46, "Bold"), (255, 255, 255))
     _centro(d, 1160, "arrasta pro lado 👉".replace("👉", "→"), _fonte(56, "Bold"), tema["texto"])
+    return _jpeg(img)
+
+
+# ---------------------------------------------------------------------------
+# Peças do banco de conteúdo (conteudo.py): cada layout tem cara própria,
+# para o perfil não parecer o mesmo post repetido.
+# ---------------------------------------------------------------------------
+ESTILOS = {
+    "dica": {"fundo": ((30, 27, 75), (12, 11, 38)), "titulo": (255, 255, 255), "card": (255, 255, 255),
+             "card_txt": (30, 27, 75), "selo_bg": (255, 176, 0), "selo_txt": (30, 27, 75), "rodape": (255, 176, 0)},
+    "meme": {"fundo": ((18, 18, 18), (0, 0, 0)), "titulo": (255, 255, 255), "card": None,
+             "card_txt": (245, 197, 66), "selo_bg": None, "selo_txt": None, "rodape": (160, 160, 160)},
+    "checklist": {"fundo": ((255, 248, 232), (255, 236, 200)), "titulo": (30, 27, 75), "card": None,
+                  "card_txt": (30, 27, 75), "selo_bg": (30, 27, 75), "selo_txt": (255, 255, 255), "rodape": (30, 27, 75)},
+    "frase": {"fundo": ((42, 42, 42), (0, 0, 0)), "titulo": (245, 197, 66), "card": None,
+              "card_txt": (255, 255, 255), "selo_bg": None, "selo_txt": None, "rodape": (245, 197, 66)},
+    "mito": {"fundo": ((237, 242, 255), (210, 222, 255)), "titulo": (30, 27, 75), "card": (255, 255, 255),
+             "card_txt": (30, 27, 75), "selo_bg": (30, 27, 75), "selo_txt": (255, 255, 255), "rodape": (30, 27, 75)},
+    "contagem": {"fundo": ((225, 29, 72), (120, 10, 40)), "titulo": (255, 255, 255), "card": None,
+                 "card_txt": (255, 255, 255), "selo_bg": (0, 0, 0), "selo_txt": (255, 255, 255), "rodape": (255, 220, 120)},
+}
+
+
+# Variações de cor por layout (escolhida pelo id da peça: fixa para a peça, variada no perfil)
+VARIANTES = {
+    "dica": [{}, {"fundo": ((0, 92, 75), (0, 48, 40)), "selo_bg": (255, 210, 63), "rodape": (255, 210, 63)},
+             {"fundo": ((88, 28, 135), (40, 10, 70)), "selo_bg": (255, 122, 0), "selo_txt": (255, 255, 255),
+              "rodape": (255, 176, 0)}],
+    "meme": [{}, {"fundo": ((255, 176, 0), (242, 92, 0)), "titulo": (30, 27, 75), "card_txt": (255, 255, 255),
+                  "rodape": (30, 27, 75)}],
+    "frase": [{}, {"fundo": ((14, 116, 144), (8, 51, 68)), "titulo": (255, 255, 255), "card_txt": (186, 230, 253),
+                   "rodape": (186, 230, 253)}],
+    "checklist": [{}, {"fundo": ((220, 252, 231), (187, 247, 208)), "selo_bg": (22, 101, 52)}],
+}
+
+
+def _estilo(p: dict) -> dict:
+    e = dict(ESTILOS[p["layout"]])
+    var = VARIANTES.get(p["layout"])
+    if var:
+        e.update(var[sum(map(ord, p["id"])) % len(var)])
+    return e
+
+
+def mosaico(linhas_meio=("ACHADOS DE MARCA", "COM DESCONTO", "DE VERDADE")) -> list[bytes]:
+    """Painel de 3 posts que formam uma imagem só no perfil (esquerda, meio, direita).
+    Publicar na ordem direita → meio → esquerda, para ficar certo na grade."""
+    W, H = 3240, 1350
+    img = _gradiente(W, H, (255, 176, 0), (242, 92, 0)).convert("RGBA")
+    d = ImageDraw.Draw(img)
+    d.rectangle((2160, 0, W, H), fill=(30, 27, 75))
+    img.alpha_composite(_selo(760), (150, 260))
+    _centro(d, 1110, "O PAPA GARIMPOU", _fonte(92), (30, 27, 75), w=2160 - 1080)  # centrado no 1º quadro
+    y = 380
+    for linha in linhas_meio:
+        x = 1080 + (1080 - d.textlength(linha, font=_fonte(96))) / 2
+        d.text((x, y), linha, font=_fonte(96), fill=(30, 27, 75))
+        y += 116
+    x = 1080 + (1080 - d.textlength("Só loja oficial. Nada de réplica.", font=_fonte(52, "Bold"))) / 2
+    d.text((x, y + 40), "Só loja oficial. Nada de réplica.", font=_fonte(52, "Bold"), fill=(255, 255, 255))
+    for k, (linha, tam, cor) in enumerate((("TELEGRAM", 120, (255, 176, 0)), ("GRÁTIS", 120, (255, 255, 255)),
+                                           ("@papagarimpou", 70, (255, 255, 255)), ("link na bio", 56, (255, 176, 0)))):
+        f = _fonte(tam)
+        d.text((2160 + (1080 - d.textlength(linha, font=f)) / 2, 380 + k * 150), linha, font=f, fill=cor)
+    return [_jpeg(img.crop((i * 1080, 0, (i + 1) * 1080, H))) for i in range(3)]
+
+
+def _pill(d, y, texto, bg, cor, tam=46, w=1080):
+    f = _fonte(tam)
+    largura = d.textlength(texto, font=f) + 70
+    x = (w - largura) / 2
+    d.rounded_rectangle((x, y, x + largura, y + tam + 34), radius=(tam + 34) // 2, fill=bg)
+    d.text((x + 35, y + 10), texto, font=f, fill=cor)
+
+
+def peca(p: dict, story: bool = True) -> bytes:
+    """Arte de uma peça do banco: story 1080x1920 ou feed 1080x1350."""
+    H = 1920 if story else 1350
+    e = _estilo(p)
+    img = _gradiente(1080, H, *e["fundo"]).convert("RGBA")
+    d = ImageDraw.Draw(img)
+    topo = 270 if story else 80          # zona segura do story
+    lay = p["layout"]
+    y = topo
+    if lay in ("meme", "frase"):
+        lado = 420 if story else 300
+        if lay == "meme":
+            for linha in p["titulo"]:
+                _centro(d, y, linha, _fonte(100 if story else 88), e["titulo"])
+                y += 110 if story else 96
+            y += 30
+            img.alpha_composite(_selo(lado), ((1080 - lado - 16) // 2, y))
+            y += lado + 60
+            for linha in p["corpo"]:
+                _centro(d, y, linha, _fonte(70 if story else 60), e["card_txt"])
+                y += 82 if story else 70
+        else:
+            img.alpha_composite(_selo(lado), ((1080 - lado - 16) // 2, y))
+            y += lado + 70
+            for linha in p["titulo"]:
+                _centro(d, y, linha, _fonte(96 if story else 84), e["titulo"])
+                y += 108 if story else 94
+            y += 30
+            for linha in p["corpo"]:
+                _centro(d, y, linha, _fonte(58 if story else 52, "Bold"), e["card_txt"])
+                y += 72 if story else 64
+    elif lay == "contagem":
+        _pill(d, y, "BLACK FRIDAY DO PAPA", e["selo_bg"], e["selo_txt"])
+        y += 140
+        grande = _fonte(520 if story else 400) if p["titulo"][0].isdigit() else _fonte(170)
+        _centro(d, y, p["titulo"][0], grande, e["titulo"])
+        y += (600 if story else 450) if p["titulo"][0].isdigit() else 230
+        for linha in p["corpo"]:
+            _centro(d, y, linha, _fonte(58, "Bold"), e["card_txt"])
+            y += 74
+        lado = 230
+        img.alpha_composite(_selo(lado), ((1080 - lado - 16) // 2, H - (640 if story else 300)))
+    else:   # dica, checklist, mito
+        rotulo = "MITO OU VERDADE?" if lay == "mito" else p.get("selo", "DICA DO PAPA")
+        _pill(d, y, rotulo, e["selo_bg"], e["selo_txt"])
+        y += 140
+        for linha in p["titulo"]:
+            _centro(d, y, linha, _fonte(92 if story else 80), e["titulo"])
+            y += 104 if story else 90
+        y += 40
+        if lay == "mito":
+            verdade = p["veredito"] == "VERDADE"
+            _pill(d, y, p["veredito"], (22, 163, 74) if verdade else (225, 29, 72), (255, 255, 255), tam=80)
+            y += 160
+        if lay == "checklist":
+            for item in p["corpo"]:
+                d.ellipse((150, y, 220, y + 70), fill=(22, 163, 74))
+                d.line((168, y + 36, 182, y + 50, 204, y + 22), fill=(255, 255, 255), width=9)
+                d.text((250, y - 2), item, font=_fonte(58, "Bold"), fill=e["card_txt"])
+                y += 105
+        else:
+            linhas = p["corpo"]
+            alto = len(linhas) * 70 + 70
+            d.rounded_rectangle((90, y, 990, y + alto), radius=44, fill=e["card"])
+            yy = y + 35
+            for linha in linhas:
+                _centro(d, yy, linha, _fonte(54, "Bold"), e["card_txt"])
+                yy += 70
+            y += alto
+        lado = 200 if story else 150
+        img.alpha_composite(_selo(lado), ((1080 - lado - 16) // 2, min(y + 50, H - (560 if story else 230))))
+    rod = H - (330 if story else 70)
+    _centro(d, rod, "Achados grátis no Telegram: @papagarimpou", _fonte(42, "SemiBold"), e["rodape"])
     return _jpeg(img)

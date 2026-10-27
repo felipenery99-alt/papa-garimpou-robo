@@ -19,6 +19,7 @@ from zoneinfo import ZoneInfo
 
 import config
 import post
+import conteudo
 import qualidade
 
 PASTA = Path(__file__).parent
@@ -110,6 +111,31 @@ LEGENDA_CTA = ("\n\nComenta QUERO que o Papa te manda o link no direct 💎\n"
                "#publi link de afiliado")
 
 
+def reels_do_banco(h: dict, agora: datetime) -> tuple[list[bytes], str]:
+    """Reels sem oferta: capa + 3 peças de pilares diferentes do banco + convite."""
+    import artes
+    pcs = conteudo.escolher(h, agora.date(), n=3)
+    quadros = [artes.capa_reel(("O PAPA", "ENSINA"), "3 coisas antes de comprar")] + [artes.peca(p) for p in pcs]
+    quadros.append(artes.story_convite())
+    leg = "😎💎 " + " / ".join(p["titulo"][0].title() for p in pcs) + "\n\n" + pcs[0]["legenda"].replace("😎💎 ", "")
+    return quadros, leg + LEGENDA_CTA
+
+
+def post_do_banco(h: dict, agora: datetime, chave: str) -> None:
+    """Post de feed com peça do banco de conteúdo (até 2 por dia quando não há ofertas)."""
+    import artes
+    import instagram
+    hoje = agora.date().isoformat()
+    cont = h.setdefault("feed_dia", {})
+    if cont.get(hoje, 0) >= 2:
+        return
+    for pc in conteudo.escolher(h, agora.date(), para_story=False):
+        instagram.foto(artes.peca(pc, story=False), f"{agora:%Y%m%d}-feed-{pc['id']}.jpg", pc["legenda"] + LEGENDA_CTA)
+        h["feed_dia"] = {hoje: cont.get(hoje, 0) + 1}
+        h.setdefault("ig_feitos", []).append(f"{hoje} feed")
+        print(f"[ig] publicado {chave} (post do banco {pc['id']})")
+
+
 def rodar_instagram(h: dict, agora: datetime) -> None:
     """Executa as tarefas do Instagram que venceram e responde comentários."""
     import os
@@ -139,22 +165,21 @@ def rodar_instagram(h: dict, agora: datetime) -> None:
                 instagram.story(artes.story_top4(top), f"{tag}-top4-{hh}.jpg")
             elif tipo in ("story_oferta", "story_top4"):
                 if not ofertas:
-                    # sem oferta: story fixo do Papa (gira entre os modelos), nunca deixa buraco
-                    n = h.get("ig_giro", 0)
-                    h["ig_giro"] = n + 1
-                    instagram.story(artes.story_institucional(n % 3), f"{tag}-fixo-{hh}.jpg")
+                    # sem oferta: peça do banco de conteúdo (tema diferente, sem repetir), até 3 por dia
+                    cont = h.setdefault("pecas_dia", {})
+                    if cont.get(hoje, 0) >= conteudo.PECAS_STORY_DIA:
+                        feitos.append(chave)
+                        continue
+                    h["pecas_dia"] = {hoje: cont.get(hoje, 0) + 1}
+                    for pc in conteudo.escolher(h, agora.date()):
+                        instagram.story(artes.peca(pc), f"{tag}-{pc['id']}.jpg")
                 else:
                     o = ofertas.pop(0)
                     instagram.story(artes.story_oferta(o, o["canal"]), f"{tag}-story-{o['id']}.jpg")
                     usadas.append(o["id"])
             elif tipo == "post_achado":
                 if not ofertas:
-                    # feed todo dia: sem oferta, entra o post fixo do dia
-                    if not any(f.startswith(hoje) and ("feed" in f) for f in feitos):
-                        i = agora.toordinal() % 3
-                        instagram.foto(artes.feed_institucional(i), f"{tag}-feed-fixo.jpg",
-                                       artes.LEGENDAS_INSTITUCIONAIS[i] + LEGENDA_CTA)
-                        feitos.append(f"{hoje} feed")
+                    post_do_banco(h, agora, chave)
                     feitos.append(chave)
                     continue
                 o = max(ofertas, key=qualidade.pontuar)
@@ -172,21 +197,16 @@ def rodar_instagram(h: dict, agora: datetime) -> None:
                     lista = "\n".join(f"{i+1}. {o['nome'][:60]} — {post._brl(o['preco'])}" for i, o in enumerate(top))
                     leg = "😎💎 Os achados do Papa hoje\n\n" + lista + LEGENDA_CTA
                 else:
-                    # sem ofertas: Reels fixo do Papa, no máximo a cada 2 dias (não cansar quem segue)
-                    ultimo = h.get("ig_ultimo_reel", "")
-                    if ultimo and (agora.date() - datetime.fromisoformat(ultimo).date()).days < 2:
-                        feitos.append(chave)
-                        continue
-                    i = agora.toordinal() % 3
-                    quadros = ([artes.capa_reel(("O PAPA", "GARIMPOU"), "Réplica? Aqui não.")]
-                               + [artes.story_institucional(k) for k in range(3)] + [artes.story_convite()])
-                    leg = artes.LEGENDAS_INSTITUCIONAIS[i] + LEGENDA_CTA
+                    # sem ofertas não tem Reels (foco em post e story, decisão de 27/10)
+                    feitos.append(chave)
+                    continue
                 instagram.reels(video.reel(quadros), leg)
                 h["ig_ultimo_reel"] = agora.isoformat()
             elif tipo == "carrossel_top5":
                 top = sorted(h.get("ofertas_dia", []), key=qualidade.pontuar, reverse=True)
                 top = [o for o in top if o.get("dia") == hoje][:5]
                 if len(top) < 3:
+                    post_do_banco(h, agora, chave)   # sem ofertas: post do banco no lugar do carrossel
                     feitos.append(chave)
                     continue
                 slides = [artes.capa_top5()] + [artes.post_oferta(o, o["canal"]) for o in top]
@@ -207,9 +227,9 @@ def rodar_instagram(h: dict, agora: datetime) -> None:
         ativos = instagram.stories_ativos()
         faltam = max(0, config.STORIES_MINIMOS - ativos)
         for k in range(min(faltam, 3)):
-            n = h.get("ig_giro", 0)
-            h["ig_giro"] = n + 1
-            instagram.story(artes.story_institucional(n % 4 - 1), f"{tag}-vigia-{agora:%H%M}-{k}.jpg")
+            pcs = conteudo.escolher(h, agora.date())
+            img = artes.peca(pcs[0]) if pcs else artes.story_convite()
+            instagram.story(img, f"{tag}-vigia-{agora:%H%M}-{k}.jpg")
         if faltam:
             print(f"[ig] vigia: havia {ativos} stories no ar, publiquei {min(faltam, 3)}")
     except Exception as e:
@@ -239,6 +259,7 @@ def main() -> int:
     ap.add_argument("--verificar", action="store_true")
     ap.add_argument("--story-teste", action="store_true")
     ap.add_argument("--reels-teste", action="store_true")
+    ap.add_argument("--mosaico", action="store_true")
     args = ap.parse_args()
     sys.stdout.reconfigure(encoding="utf-8")
     agora = datetime.now(FUSO)
@@ -256,15 +277,26 @@ def main() -> int:
         print("story publicado:", sid)
         return 0
 
+    if args.mosaico:
+        # Painel de 3 posts que formam uma imagem só na grade do perfil (direita primeiro).
+        import artes
+        import instagram
+        partes = artes.mosaico()
+        legs = ["😎💎 Telegram grátis: @papagarimpou e @papagarimpoumarcas. Link na bio.",
+                "😎💎 Achados de marca com desconto de verdade. Só loja oficial, nada de réplica.",
+                "😎💎 Prazer, o Papa. Eu garimpo, você economiza."]
+        for i in (2, 1, 0):
+            print("mosaico", i, instagram.foto(partes[i], f"{agora:%Y%m%d}-mosaico-{i}.jpg", legs[2 - i] + LEGENDA_CTA))
+        return 0
+
     if args.reels_teste:
         # Publica agora o Reels fixo do Papa (teste real da cadeia de vídeo) e grava no histórico.
         import artes
         import instagram
         import video
-        quadros = ([artes.capa_reel(("O PAPA", "GARIMPOU"), "Réplica? Aqui não.")]
-                   + [artes.story_institucional(k) for k in range(3)] + [artes.story_convite()])
-        rid = instagram.reels(video.reel(quadros), artes.LEGENDAS_INSTITUCIONAIS[0] + LEGENDA_CTA)
         h = carregar_hist()
+        quadros, leg = reels_do_banco(h, agora)
+        rid = instagram.reels(video.reel(quadros), leg)
         h["ig_ultimo_reel"] = agora.isoformat()
         salvar_hist(h)
         print("reels publicado:", rid)

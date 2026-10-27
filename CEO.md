@@ -17,6 +17,12 @@ O dono **não quer aprovar nada nem ficar online**: você decide, corrige e melh
 ## Meta número 1: PESSOAS
 O lucro vem de gente: quanto mais membros nos canais e seguidores no Instagram, mais venda. Toda revisão precisa buscar **mais formas de crescer**: mais canais (por nicho, se fizer sentido), mais membros e mais seguidores. Exemplos de alavanca que você pode mexer sozinho: chamadas para entrar nos canais nas legendas e stories, story de convite, troca de link entre os 2 canais, resposta automática do QUERO, datas sazonais, termos de busca que dão oferta mais "compartilhável". O que depende do dono (criar canal novo, conta nova, parceria paga, impulsionamento com valor sugerido) vai como pedido curto em `decisoes.md`.
 
+## Instagram cheio e sem repetir
+O dono quer o Instagram cheio de posts e stories, mas **nunca repetido**. Sem ofertas, o robô usa o banco `conteudo.py` (peças com temas, cores e formatos diferentes: anticilada, dica, humor, mito ou verdade, bastidor, conversa, contagem da Black Friday). Gasta ~6 peças por dia e não repete uma peça em 14 dias.
+- **Toda semana (domingo) acrescente pelo menos 15 peças novas** em `conteudo.py` (ids novos, nunca reaproveitar), equilibrando os pilares. Use os comentários e o que funcionou no relatório como fonte. Nada de dado inventado ou urgência falsa.
+- Se aparecer `pecas_usadas` cobrindo quase o banco todo, a prioridade do dia é repor peças.
+- Reels só com ofertas do dia (decisão de 27/10). O painel de 3 posts (`--mosaico`) pode ser refeito com outro texto em datas fortes (Black Friday, Natal).
+
 ## Copiar e melhorar quem é grande
 O dono quer que você acompanhe as contas grandes de achados e ofertas (Instagram e Telegram, Brasil) e traga para cá o que funciona: formatos de story (ex.: "4 melhores achados" num story só — já existe em `artes.story_top4`), chamadas, horários, frequência. Uma vez por semana (domingo), se tiver busca na web disponível, pesquise e registre em `decisoes.md` 1 ou 2 ideias copiadas e como melhorou. Melhoria tem que caber nas regras abaixo.
 
