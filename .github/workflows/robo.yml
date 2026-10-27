@@ -24,7 +24,13 @@ on:
     - cron: "3 23 * * *"
     - cron: "38 23 * * *"
     - cron: "24 0 * * *"
-  workflow_dispatch: {}
+  workflow_dispatch:
+    inputs:
+      modo:
+        description: "normal = postar; verificar = só confere o bot, não posta"
+        default: "normal"
+        type: choice
+        options: [normal, verificar]
 
 permissions:
   contents: write
@@ -49,7 +55,8 @@ jobs:
           SHOPEE_APP_ID: ${{ secrets.SHOPEE_APP_ID }}
           SHOPEE_SECRET: ${{ secrets.SHOPEE_SECRET }}
           ALERTA_CHAT_ID: ${{ secrets.ALERTA_CHAT_ID }}
-        run: python principal.py
+        run: |
+          if [ "${{ github.event.inputs.modo }}" = "verificar" ]; then python principal.py --verificar; else python principal.py; fi
       - name: Guardar histórico (evita repetir produto)
         if: always()
         run: |

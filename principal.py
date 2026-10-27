@@ -80,6 +80,7 @@ def main() -> int:
     ap.add_argument("--ensaio", action="store_true")
     ap.add_argument("--agenda", action="store_true")
     ap.add_argument("--testar-shopee", action="store_true")
+    ap.add_argument("--verificar", action="store_true")
     args = ap.parse_args()
     sys.stdout.reconfigure(encoding="utf-8")
     agora = datetime.now(FUSO)
@@ -88,6 +89,28 @@ def main() -> int:
     if args.agenda:
         for canal, hs in agenda.items():
             print(canal, " ".join(x.strftime("%H:%M") for x in hs))
+        return 0
+
+    if args.verificar:
+        # Confere o bot sem postar nada: identidade, permissão nos 2 canais e chats privados que deram /start.
+        import os
+        import requests
+        tk = os.environ.get("TELEGRAM_BOT_TOKEN", "")
+        if not tk:
+            print("sem TELEGRAM_BOT_TOKEN")
+            return 1
+        api = f"https://api.telegram.org/bot{tk}"
+        eu = requests.get(f"{api}/getMe", timeout=30).json()
+        print("bot:", eu.get("ok"), eu.get("result", {}).get("username"))
+        bot_id = eu.get("result", {}).get("id")
+        for canal, destino in config.CANAIS.items():
+            m = requests.get(f"{api}/getChatMember", params={"chat_id": destino, "user_id": bot_id}, timeout=30).json()
+            r = m.get("result", {})
+            print(f"{canal} {destino}: status={r.get('status')} pode_postar={r.get('can_post_messages')} {'' if m.get('ok') else m}")
+        up = requests.get(f"{api}/getUpdates", timeout=30).json()
+        privados = {u["message"]["chat"]["id"]: u["message"]["chat"].get("first_name", "")
+                    for u in up.get("result", []) if u.get("message", {}).get("chat", {}).get("type") == "private"}
+        print("chats privados com o bot (para ALERTA_CHAT_ID):", privados or "nenhum — mande /start para o bot")
         return 0
 
     if args.testar_shopee:
