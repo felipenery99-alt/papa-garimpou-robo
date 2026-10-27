@@ -122,21 +122,18 @@ def main() -> int:
     import time as _time
     h = carregar_hist()
     hoje = agora.date().isoformat()
-    # Cada execução (10 por dia, horários no robo.yml) posta 1 em cada canal, ordem sorteada.
-    canais = list(config.CANAIS)
-    random.shuffle(canais)
-    pendentes = []
-    for canal in canais:
-        feitos_hoje = sum(1 for s in h["slots_feitos"] if s.startswith(f"{hoje} {canal}"))
-        if feitos_hoje < config.POSTS_POR_CANAL_DIA:
-            pendentes.append((canal, f"{hoje} {canal} {agora:%H:%M}"))
-    if not pendentes:
+    # Cada execução (20 por dia, horários no robo.yml) posta em 1 canal: o que tiver
+    # menos posts hoje (empate = sorteio). Assim cada canal fica com 10 horários próprios.
+    contagem = {c: sum(1 for s in h["slots_feitos"] if s.startswith(f"{hoje} {c}")) for c in config.CANAIS}
+    abertos = [c for c, n in contagem.items() if n < config.POSTS_POR_CANAL_DIA]
+    if not abertos:
         print("cota do dia já cumprida")
         return 0
+    menor = min(contagem[c] for c in abertos)
+    canal_da_vez = random.choice([c for c in abertos if contagem[c] == menor])
+    pendentes = [(canal_da_vez, f"{hoje} {canal_da_vez} {agora:%H:%M}")]
     erros = 0
-    for i, (canal, chave) in enumerate(pendentes):
-        if i:
-            _time.sleep(random.randint(40, 140))  # os dois canais não postam no mesmo minuto
+    for canal, chave in pendentes:
         try:
             oferta = garimpar(canal, shopee.buscar, h, agora, len(h["slots_feitos"]))
             if not oferta:

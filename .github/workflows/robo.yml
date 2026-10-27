@@ -1,19 +1,29 @@
 name: Robô Papa Garimpou
 
 on:
-  # Só 10 execuções por dia (1 post em cada canal por execução) = ~300 min/mês do grátis.
-  # Horários em UTC; em Brasília (UTC-3): 08:13 09:41 11:07 12:23 13:17 15:03 17:47 18:39 20:11 21:29
+  # 20 execuções por dia; cada uma posta em 1 canal (o que tiver menos posts hoje) = ~600 min/mês do grátis (2.000/mês).
+  # Horários em UTC; em Brasília (UTC-3): 08:07 08:52 09:38 10:24 11:11 11:56 12:19 12:47 13:22 14:08 15:03 15:51 16:44 17:36 18:09 18:42 19:17 20:03 20:38 21:24
   schedule:
-    - cron: "13 11 * * *"
-    - cron: "41 12 * * *"
-    - cron: "7 14 * * *"
-    - cron: "23 15 * * *"
-    - cron: "17 16 * * *"
+    - cron: "7 11 * * *"
+    - cron: "52 11 * * *"
+    - cron: "38 12 * * *"
+    - cron: "24 13 * * *"
+    - cron: "11 14 * * *"
+    - cron: "56 14 * * *"
+    - cron: "19 15 * * *"
+    - cron: "47 15 * * *"
+    - cron: "22 16 * * *"
+    - cron: "8 17 * * *"
     - cron: "3 18 * * *"
-    - cron: "47 20 * * *"
-    - cron: "39 21 * * *"
-    - cron: "11 23 * * *"
-    - cron: "29 0 * * *"
+    - cron: "51 18 * * *"
+    - cron: "44 19 * * *"
+    - cron: "36 20 * * *"
+    - cron: "9 21 * * *"
+    - cron: "42 21 * * *"
+    - cron: "17 22 * * *"
+    - cron: "3 23 * * *"
+    - cron: "38 23 * * *"
+    - cron: "24 0 * * *"
   workflow_dispatch: {}
 
 permissions:
