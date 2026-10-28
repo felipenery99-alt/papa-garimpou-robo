@@ -22,10 +22,7 @@
   "2026-10-28 achadinhos 15:40 amz-B0D98VWP2V",
   "2026-10-28 achadinhos 15:46 amz-B0DJPJM5ZF",
   "2026-10-28 achadinhos 16:40 amz-B07CTN7X2Y",
-  "2026-10-28 achadinhos 16:56 amz-B076YFJVT6",
-  "2026-10-28 marcas 17:05 amz-B0FFTQ49FQ",
-  "2026-10-28 tech 17:13 amz-B0GM1PSWPD",
-  "2026-10-28 achadinhos 17:23 amz-B0BT26M491"
+  "2026-10-28 achadinhos 17:27 amz-B076YFJVT6"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -61,10 +58,7 @@
   "amz-B0D98VWP2V": "2026-10-28T15:40:06.938103-03:00",
   "amz-B0DJPJM5ZF": "2026-10-28T15:46:46.993455-03:00",
   "amz-B07CTN7X2Y": "2026-10-28T16:40:23.262486-03:00",
-  "amz-B076YFJVT6": "2026-10-28T16:56:17.491763-03:00",
-  "amz-B0FFTQ49FQ": "2026-10-28T17:05:08.927548-03:00",
-  "amz-B0GM1PSWPD": "2026-10-28T17:13:12.880261-03:00",
-  "amz-B0BT26M491": "2026-10-28T17:23:34.476788-03:00"
+  "amz-B076YFJVT6": "2026-10-28T17:27:52.797284-03:00"
  },
  "ofertas_dia": [
   {
@@ -413,53 +407,7 @@
    "loja": "Vendido e entregue pela Amazon",
    "plataforma": "Amazon",
    "valida_ate": "2026-10-28T23:59:00-03:00",
-   "entrou": "2026-10-28T16:54:44.724521-03:00",
-   "dia": "2026-10-28"
-  },
-  {
-   "id": "amz-B0FFTQ49FQ",
-   "canal": "marcas",
-   "nome": "Tênis Mizuno Neo Vortex",
-   "preco_antigo": 699.99,
-   "preco": 299.9,
-   "desconto": 57,
-   "link": "https://www.amazon.com.br/dp/B0FFTQ49FQ?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61Rt2bAuzML._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-10-28T23:59:00-03:00",
-   "extra": "Preço pode variar conforme o tamanho",
-   "entrou": "2026-10-28T16:37:42.853528-03:00",
-   "dia": "2026-10-28"
-  },
-  {
-   "id": "amz-B0GM1PSWPD",
-   "canal": "tech",
-   "nome": "Fone Bluetooth JBL Tune 530BT Over-Ear, até 76h de bateria",
-   "preco_antigo": 299.0,
-   "preco": 180.39,
-   "desconto": 40,
-   "link": "https://www.amazon.com.br/dp/B0GM1PSWPD?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61rGUHFQFiL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-10-28T23:59:00-03:00",
-   "entrou": "2026-10-28T16:37:42.853528-03:00",
-   "dia": "2026-10-28"
-  },
-  {
-   "id": "amz-B0BT26M491",
-   "canal": "achadinhos",
-   "nome": "Aspirador Vertical WAP Silent Speed Max 3 em 1 1350W (127V)",
-   "preco_antigo": 277.49,
-   "preco": 169.9,
-   "desconto": 39,
-   "link": "https://www.amazon.com.br/dp/B0BT26M491?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61m5wUE9XzL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-10-28T23:59:00-03:00",
-   "entrou": "2026-10-28T16:54:44.724521-03:00",
+   "entrou": "2026-10-28T17:23:55.125681-03:00",
    "dia": "2026-10-28"
   }
  ],
@@ -559,6 +507,20 @@
    "entrou": "2026-10-28T16:37:42.853528-03:00"
   },
   {
+   "id": "amz-B0BT26M491",
+   "canal": "achadinhos",
+   "nome": "Aspirador Vertical WAP Silent Speed Max 3 em 1 1350W (127V)",
+   "preco_antigo": 277.49,
+   "preco": 169.9,
+   "desconto": 39,
+   "link": "https://www.amazon.com.br/dp/B0BT26M491?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61m5wUE9XzL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-28T23:59:00-03:00",
+   "entrou": "2026-10-28T17:23:55.125681-03:00"
+  },
+  {
    "id": "amz-B09V1SM8QB",
    "canal": "achadinhos",
    "nome": "Parafusadeira e Furadeira à Bateria WAP 12V BPF-12K3 + 13 Acessórios",
@@ -571,7 +533,7 @@
    "plataforma": "Amazon",
    "valida_ate": "2026-10-28T23:59:00-03:00",
    "extra": "Vem com maleta",
-   "entrou": "2026-10-28T16:54:44.724521-03:00"
+   "entrou": "2026-10-28T17:23:55.125681-03:00"
   },
   {
    "id": "amz-B0F7Y7BRLZ",
@@ -585,7 +547,7 @@
    "loja": "Vendido e entregue pela Amazon",
    "plataforma": "Amazon",
    "valida_ate": "2026-10-28T23:59:00-03:00",
-   "entrou": "2026-10-28T16:54:44.724521-03:00"
+   "entrou": "2026-10-28T17:23:55.125681-03:00"
   },
   {
    "id": "amz-B09BY1FTF7",
@@ -599,7 +561,7 @@
    "loja": "Vendido por parceiro · entregue pela Amazon",
    "plataforma": "Amazon",
    "valida_ate": "2026-10-28T23:59:00-03:00",
-   "entrou": "2026-10-28T16:54:44.724521-03:00"
+   "entrou": "2026-10-28T17:23:55.125681-03:00"
   }
  ],
  "menus_fixados": [
