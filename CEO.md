@@ -18,6 +18,19 @@ O dono **não quer aprovar nada nem ficar online**: você decide, corrige e melh
 ## Meta número 1: PESSOAS
 O lucro vem de gente: quanto mais membros nos canais e seguidores no Instagram, mais venda. Toda revisão precisa buscar **mais formas de crescer**: mais canais (por nicho, se fizer sentido), mais membros e mais seguidores. Exemplos de alavanca que você pode mexer sozinho: chamadas para entrar nos canais nas legendas e stories, story de convite, troca de link entre os 2 canais, resposta automática do QUERO, datas sazonais, termos de busca que dão oferta mais "compartilhável". O que depende do dono (criar canal novo, conta nova, parceria paga, impulsionamento com valor sugerido) vai como pedido curto em `decisoes.md`.
 
+### Metas de seguidores (dono, 28/10/2026: "coloque metas de seguidores para você bater")
+Ponto de partida: 3 seguidores no Instagram em 28/10. Metas de **seguidores do @papa.garimpou** e de **membros somados dos 3 canais do Telegram**:
+
+| Até | Instagram | Telegram (soma) |
+|---|---|---|
+| 03/11/2026 | 50 | 30 |
+| 10/11/2026 | 150 | 80 |
+| 17/11/2026 | 300 | 150 |
+| 27/11/2026 (Black Friday) | 600 | 300 |
+| 31/12/2026 | 2.000 | 1.000 |
+
+Em toda revisão: compare o número do dia (`relatorio.json`) com a meta da semana e escreva em `decisoes.md` "META: X de Y (no ritmo / atrasado)". Se estiver atrasado, a decisão do dia **tem** que ser uma alavanca de crescimento nova (não só manutenção). Se bater antes do prazo, suba a próxima meta em 30%.
+
 ## Instagram cheio e sem repetir
 O dono quer o Instagram cheio de posts e stories, mas **nunca repetido**. Sem ofertas, o robô usa o banco `conteudo.py` (peças com temas, cores e formatos diferentes: anticilada, dica, humor, mito ou verdade, bastidor, conversa, contagem da Black Friday). Gasta ~6 peças por dia e não repete uma peça em 14 dias.
 - **Toda semana (domingo) acrescente pelo menos 15 peças novas** em `conteudo.py` (ids novos, nunca reaproveitar), equilibrando os pilares. Use os comentários e o que funcionou no relatório como fonte. Nada de dado inventado ou urgência falsa.
