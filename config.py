@@ -68,7 +68,7 @@ MARCAS_MARCAS = [
     "growth", "max titanium", "integralmédica", "integralmedica", "dux", "probiótica",
     "probiotica", "black skull", "blenderbottle", "garmin", "mormaii", "speedo", "colcci",
     "aramis", "richards", "levi's", "levis", "ellus", "osklen", "diesel", "armani",
-    "emporio armani", "guess", "dudalina", "vr", "foxton", "selene", "mash", "zorba",
+    "emporio armani", "guess", "dudalina", "vr collezioni", "foxton", "selene", "mash", "zorba",
 ]
 
 # Palavras que denunciam produto ruim / réplica → descarte imediato
