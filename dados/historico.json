@@ -8,7 +8,10 @@
   "2026-10-28 achadinhos 12:11 amz-B0CCX78R2N",
   "2026-10-28 achadinhos 12:33 amz-B07FFRJSJ4",
   "2026-10-28 achadinhos 13:00 amz-B07VKQKHVK",
-  "2026-10-28 tech 13:13 amz-B0H1282J24"
+  "2026-10-28 tech 13:13 amz-B0H1282J24",
+  "2026-10-28 marcas 13:35 amz-B0FH4KMP42",
+  "2026-10-28 tech 13:43 amz-B0CVCLGV1W",
+  "2026-10-28 marcas 13:58 amz-B0H1FY5N9W"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -30,7 +33,10 @@
   "amz-B0GHS7QRB5": "2026-10-28T09:45:00-03:00",
   "amz-B07FFRJSJ4": "2026-10-28T12:33:17.407108-03:00",
   "amz-B07VKQKHVK": "2026-10-28T13:00:09.466449-03:00",
-  "amz-B0H1282J24": "2026-10-28T13:13:16.536016-03:00"
+  "amz-B0H1282J24": "2026-10-28T13:13:16.536016-03:00",
+  "amz-B0FH4KMP42": "2026-10-28T13:35:28.222615-03:00",
+  "amz-B0CVCLGV1W": "2026-10-28T13:43:43.209376-03:00",
+  "amz-B0H1FY5N9W": "2026-10-28T13:58:47.678870-03:00"
  },
  "ofertas_dia": [
   {
@@ -168,6 +174,52 @@
    "valida_ate": "2026-10-28T23:59:00-03:00",
    "entrou": "2026-10-28T11:21:52.124329-03:00",
    "dia": "2026-10-28"
+  },
+  {
+   "id": "amz-B0FH4KMP42",
+   "canal": "marcas",
+   "nome": "Tênis Fila Comet 2 Masculino",
+   "preco_antigo": 399.99,
+   "preco": 246.9,
+   "desconto": 38,
+   "link": "https://www.amazon.com.br/dp/B0FH4KMP42?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51mII3LDrfL._AC_SL1000_.jpg",
+   "loja": "Vendido por parceiro · entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-28T23:59:00-03:00",
+   "entrou": "2026-10-28T11:21:52.124329-03:00",
+   "dia": "2026-10-28"
+  },
+  {
+   "id": "amz-B0CVCLGV1W",
+   "canal": "tech",
+   "nome": "Smartwatch Samsung Galaxy Fit3 Tela 1,6\"",
+   "preco_antigo": 549.0,
+   "preco": 199.4,
+   "desconto": 64,
+   "link": "https://www.amazon.com.br/dp/B0CVCLGV1W?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61o3-pf41tL._AC_SL1500_.jpg",
+   "loja": "Vendido por parceiro · entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-28T23:59:00-03:00",
+   "entrou": "2026-10-28T11:21:52.124329-03:00",
+   "dia": "2026-10-28"
+  },
+  {
+   "id": "amz-B0H1FY5N9W",
+   "canal": "marcas",
+   "nome": "Kit 6 Cuecas Boxer Lupo Microfibra Sem Costura",
+   "preco_antigo": 257.99,
+   "preco": 142.49,
+   "desconto": 45,
+   "link": "https://www.amazon.com.br/dp/B0H1FY5N9W?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71rB2-l1JRL._AC_SL1500_.jpg",
+   "loja": "Vendido por parceiro · entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-28T23:59:00-03:00",
+   "extra": "Sai R$ 23,75 cada",
+   "entrou": "2026-10-28T12:06:52.535622-03:00",
+   "dia": "2026-10-28"
   }
  ],
  "ig_feitos": [
@@ -187,12 +239,15 @@
   "2026-10-28 11:56 story_oferta",
   "2026-10-28 12:15 story_top4",
   "2026-10-28 12:19 story_oferta",
-  "2026-10-28 12:47 story_oferta"
+  "2026-10-28 12:47 story_oferta",
+  "2026-10-28 13:20 story_convite",
+  "2026-10-28 13:22 story_oferta"
  ],
  "ig_ofertas_usadas": [
   "amz-B0GP7KDZRJ",
   "amz-B0HF1LQFDD",
-  "amz-B0FDX5NC1G"
+  "amz-B0FDX5NC1G",
+  "amz-B086YK7M5Y"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
@@ -224,34 +279,6 @@
  "ultimo_pilar": "dica",
  "fila": [
   {
-   "id": "amz-B0FH4KMP42",
-   "canal": "marcas",
-   "nome": "Tênis Fila Comet 2 Masculino",
-   "preco_antigo": 399.99,
-   "preco": 246.9,
-   "desconto": 38,
-   "link": "https://www.amazon.com.br/dp/B0FH4KMP42?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51mII3LDrfL._AC_SL1000_.jpg",
-   "loja": "Vendido por parceiro · entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-10-28T23:59:00-03:00",
-   "entrou": "2026-10-28T11:21:52.124329-03:00"
-  },
-  {
-   "id": "amz-B0CVCLGV1W",
-   "canal": "tech",
-   "nome": "Smartwatch Samsung Galaxy Fit3 Tela 1,6\"",
-   "preco_antigo": 549.0,
-   "preco": 199.4,
-   "desconto": 64,
-   "link": "https://www.amazon.com.br/dp/B0CVCLGV1W?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61o3-pf41tL._AC_SL1500_.jpg",
-   "loja": "Vendido por parceiro · entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-10-28T23:59:00-03:00",
-   "entrou": "2026-10-28T11:21:52.124329-03:00"
-  },
-  {
    "id": "amz-B0FPNXM7TF",
    "canal": "tech",
    "nome": "Caixa de Som JBL Go Essential 2 Bluetooth",
@@ -264,21 +291,6 @@
    "plataforma": "Amazon",
    "valida_ate": "2026-10-28T23:59:00-03:00",
    "entrou": "2026-10-28T11:21:52.124329-03:00"
-  },
-  {
-   "id": "amz-B0H1FY5N9W",
-   "canal": "marcas",
-   "nome": "Kit 6 Cuecas Boxer Lupo Microfibra Sem Costura",
-   "preco_antigo": 257.99,
-   "preco": 142.49,
-   "desconto": 45,
-   "link": "https://www.amazon.com.br/dp/B0H1FY5N9W?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/71rB2-l1JRL._AC_SL1500_.jpg",
-   "loja": "Vendido por parceiro · entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-10-28T23:59:00-03:00",
-   "extra": "Sai R$ 23,75 cada",
-   "entrou": "2026-10-28T12:06:52.535622-03:00"
   },
   {
    "id": "amz-B0G5BMM9SQ",
