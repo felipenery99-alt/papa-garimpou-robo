@@ -27,7 +27,8 @@
   "2026-10-28 marcas 17:52 amz-B0H5XX1XFG",
   "2026-10-28 tech 18:03 amz-B0CRTR3PMF",
   "2026-10-28 achadinhos 18:16 amz-B09V1SM8QB",
-  "2026-10-28 tech 18:27 amz-B09BY1FTF7"
+  "2026-10-28 tech 18:27 amz-B09BY1FTF7",
+  "2026-10-28 marcas 18:38 amz-B0F7Y7BRLZ"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -68,7 +69,8 @@
   "amz-B0H5XX1XFG": "2026-10-28T17:52:28.023644-03:00",
   "amz-B0CRTR3PMF": "2026-10-28T18:03:36.812412-03:00",
   "amz-B09V1SM8QB": "2026-10-28T18:16:01.141066-03:00",
-  "amz-B09BY1FTF7": "2026-10-28T18:27:13.218255-03:00"
+  "amz-B09BY1FTF7": "2026-10-28T18:27:13.218255-03:00",
+  "amz-B0F7Y7BRLZ": "2026-10-28T18:38:01.080908-03:00"
  },
  "ofertas_dia": [
   {
@@ -496,6 +498,21 @@
    "valida_ate": "2026-10-28T23:59:00-03:00",
    "entrou": "2026-10-28T17:23:55.125681-03:00",
    "dia": "2026-10-28"
+  },
+  {
+   "id": "amz-B0F7Y7BRLZ",
+   "canal": "marcas",
+   "nome": "Tênis de Corrida Puma Darter Pro 2",
+   "preco_antigo": 549.99,
+   "preco": 224.4,
+   "desconto": 59,
+   "link": "https://www.amazon.com.br/dp/B0F7Y7BRLZ?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71njNzpDnPL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-28T23:59:00-03:00",
+   "entrou": "2026-10-28T17:23:55.125681-03:00",
+   "dia": "2026-10-28"
   }
  ],
  "ig_feitos": [
@@ -572,20 +589,6 @@
  },
  "ultimo_pilar": "dica",
  "fila": [
-  {
-   "id": "amz-B0F7Y7BRLZ",
-   "canal": "marcas",
-   "nome": "Tênis de Corrida Puma Darter Pro 2",
-   "preco_antigo": 549.99,
-   "preco": 224.4,
-   "desconto": 59,
-   "link": "https://www.amazon.com.br/dp/B0F7Y7BRLZ?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/71njNzpDnPL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-10-28T23:59:00-03:00",
-   "entrou": "2026-10-28T17:23:55.125681-03:00"
-  },
   {
    "id": "amz-B0FFTQ49FQ",
    "canal": "marcas",
