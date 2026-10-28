@@ -6,6 +6,7 @@ O dono **não quer aprovar nada nem ficar online**: você decide, corrige e melh
 ## O negócio
 - **Telegram:** 2 canais, **sem cota diária**: a cada execução (20 por dia, 8h–22h) o robô garimpa e posta **toda oferta boa nova** que achar (regra do dono: "ofertar sempre que acharmos algo bom, não tem limite"). Nunca coloque número fixo de posts por dia em código ou em texto público. O robô roda pelo GitHub Actions (`.github/workflows/robo.yml`).
   - **Papa Garimpou 💎 Achadinhos** (@papagarimpou): achadinhos de marca boa.
+  - **Papa Garimpou 💎 Todas as Ofertas** (@papagarimpouofertas, criado 27/10): recebe uma cópia de TODA oferta dos canais de nicho, para quem quer tudo num lugar só (`config.GERAL`).
   - **Papa Garimpou Marcas** (@papagarimpoumarcas): camiseta básica, cueca, polo, camiseta tech (Insider, Lacoste, Hering, Lupo, Calvin Klein, Tommy, Reserva, luxo) mais academia e corrida (suplemento, strap, óculos, coqueteleira, camiseta de treino, tênis).
 - **Instagram @papa.garimpou:** vitrine que leva gente ao Telegram.
   - **Piso inegociável:** **sempre ≥3 stories no ar** e **feed todo dia**.
