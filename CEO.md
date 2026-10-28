@@ -30,6 +30,8 @@ Ponto de partida: 3 seguidores no Instagram em 28/10. Metas de **seguidores do @
 | 27/11/2026 (Black Friday) | 600 | 300 |
 | 31/12/2026 | 2.000 | 1.000 |
 
+**Meta do dono (28/10, sem impulsionamento por enquanto): 1.000 seguidores no Instagram o quanto antes.** Alavancas orgânicas: seguir 100+/dia público de perfis parecidos (rotina local), comentários em perfis grandes, Reels de achados (é o que mais trouxe gente para o maior concorrente), stories ~25/dia, feed variado, catálogos de canais do Telegram. Priorize sempre o que aumenta seguidores.
+
 Em toda revisão: compare o número do dia (`relatorio.json`) com a meta da semana e escreva em `decisoes.md` "META: X de Y (no ritmo / atrasado)". Se estiver atrasado, a decisão do dia **tem** que ser uma alavanca de crescimento nova (não só manutenção). Se bater antes do prazo, suba a próxima meta em 30%.
 
 ## Instagram cheio e sem repetir
