@@ -25,7 +25,9 @@
   "2026-10-28 achadinhos 17:27 amz-B076YFJVT6",
   "2026-10-28 achadinhos 17:37 amz-B0BT26M491",
   "2026-10-28 marcas 17:52 amz-B0H5XX1XFG",
-  "2026-10-28 tech 18:03 amz-B0CRTR3PMF"
+  "2026-10-28 tech 18:03 amz-B0CRTR3PMF",
+  "2026-10-28 achadinhos 18:16 amz-B09V1SM8QB",
+  "2026-10-28 tech 18:27 amz-B09BY1FTF7"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -64,7 +66,9 @@
   "amz-B076YFJVT6": "2026-10-28T17:27:52.797284-03:00",
   "amz-B0BT26M491": "2026-10-28T17:37:18.585678-03:00",
   "amz-B0H5XX1XFG": "2026-10-28T17:52:28.023644-03:00",
-  "amz-B0CRTR3PMF": "2026-10-28T18:03:36.812412-03:00"
+  "amz-B0CRTR3PMF": "2026-10-28T18:03:36.812412-03:00",
+  "amz-B09V1SM8QB": "2026-10-28T18:16:01.141066-03:00",
+  "amz-B09BY1FTF7": "2026-10-28T18:27:13.218255-03:00"
  },
  "ofertas_dia": [
   {
@@ -461,6 +465,37 @@
    "valida_ate": "2026-10-28T23:59:00-03:00",
    "entrou": "2026-10-28T16:37:42.853528-03:00",
    "dia": "2026-10-28"
+  },
+  {
+   "id": "amz-B09V1SM8QB",
+   "canal": "achadinhos",
+   "nome": "Parafusadeira e Furadeira à Bateria WAP 12V BPF-12K3 + 13 Acessórios",
+   "preco_antigo": 359.9,
+   "preco": 140.91,
+   "desconto": 61,
+   "link": "https://www.amazon.com.br/dp/B09V1SM8QB?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/81hJD-odFeL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-28T23:59:00-03:00",
+   "extra": "Vem com maleta",
+   "entrou": "2026-10-28T17:23:55.125681-03:00",
+   "dia": "2026-10-28"
+  },
+  {
+   "id": "amz-B09BY1FTF7",
+   "canal": "tech",
+   "nome": "Controle Sem Fio Xbox Shock Blue",
+   "preco_antigo": 599.0,
+   "preco": 389.4,
+   "desconto": 35,
+   "link": "https://www.amazon.com.br/dp/B09BY1FTF7?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61beNMz9m2L._AC_SL1500_.jpg",
+   "loja": "Vendido por parceiro · entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-28T23:59:00-03:00",
+   "entrou": "2026-10-28T17:23:55.125681-03:00",
+   "dia": "2026-10-28"
   }
  ],
  "ig_feitos": [
@@ -489,7 +524,10 @@
   "2026-10-28 15:51 story_oferta",
   "2026-10-28 16:44 story_oferta",
   "2026-10-28 feed",
-  "2026-10-28 17:30 reels"
+  "2026-10-28 17:30 reels",
+  "2026-10-28 18:05 story_oferta",
+  "2026-10-28 17:36 story_oferta",
+  "2026-10-28 18:09 story_oferta"
  ],
  "ig_ofertas_usadas": [
   "amz-B0GP7KDZRJ",
@@ -500,7 +538,10 @@
   "amz-B0CCX78R2N",
   "amz-B07FFRJSJ4",
   "amz-B07VKQKHVK",
-  "amz-B0H1282J24"
+  "amz-B0H1282J24",
+  "amz-B0FH4KMP42",
+  "amz-B0CVCLGV1W",
+  "amz-B0H1FY5N9W"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
@@ -532,21 +573,6 @@
  "ultimo_pilar": "dica",
  "fila": [
   {
-   "id": "amz-B09V1SM8QB",
-   "canal": "achadinhos",
-   "nome": "Parafusadeira e Furadeira à Bateria WAP 12V BPF-12K3 + 13 Acessórios",
-   "preco_antigo": 359.9,
-   "preco": 140.91,
-   "desconto": 61,
-   "link": "https://www.amazon.com.br/dp/B09V1SM8QB?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/81hJD-odFeL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-10-28T23:59:00-03:00",
-   "extra": "Vem com maleta",
-   "entrou": "2026-10-28T17:23:55.125681-03:00"
-  },
-  {
    "id": "amz-B0F7Y7BRLZ",
    "canal": "marcas",
    "nome": "Tênis de Corrida Puma Darter Pro 2",
@@ -556,20 +582,6 @@
    "link": "https://www.amazon.com.br/dp/B0F7Y7BRLZ?tag=papagarimpou-20",
    "imagem": "https://m.media-amazon.com/images/I/71njNzpDnPL._AC_SL1500_.jpg",
    "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-10-28T23:59:00-03:00",
-   "entrou": "2026-10-28T17:23:55.125681-03:00"
-  },
-  {
-   "id": "amz-B09BY1FTF7",
-   "canal": "tech",
-   "nome": "Controle Sem Fio Xbox Shock Blue",
-   "preco_antigo": 599.0,
-   "preco": 389.4,
-   "desconto": 35,
-   "link": "https://www.amazon.com.br/dp/B09BY1FTF7?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61beNMz9m2L._AC_SL1500_.jpg",
-   "loja": "Vendido por parceiro · entregue pela Amazon",
    "plataforma": "Amazon",
    "valida_ate": "2026-10-28T23:59:00-03:00",
    "entrou": "2026-10-28T17:23:55.125681-03:00"
@@ -602,6 +614,34 @@
    "plataforma": "Amazon",
    "valida_ate": "2026-10-28T23:59:00-03:00",
    "entrou": "2026-10-28T17:35:14.566909-03:00"
+  },
+  {
+   "id": "amz-B0BTHRMZV4",
+   "canal": "marcas",
+   "nome": "Copo Térmico Stanley Quencher Rose Quartz 887ml",
+   "preco_antigo": 319.0,
+   "preco": 183.53,
+   "desconto": 42,
+   "link": "https://www.amazon.com.br/dp/B0BTHRMZV4?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/31PXkRODYdL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-28T23:59:00-03:00",
+   "entrou": "2026-10-28T18:12:02.863261-03:00"
+  },
+  {
+   "id": "amz-B08GMB1PWV",
+   "canal": "tech",
+   "nome": "Pendrive SanDisk Cruzer Blade 64GB USB",
+   "preco_antigo": 92.66,
+   "preco": 55.94,
+   "desconto": 40,
+   "link": "https://www.amazon.com.br/dp/B08GMB1PWV?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61pLnjhcV9L._AC_SL1372_.jpg",
+   "loja": "Vendido por parceiro · entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-28T23:59:00-03:00",
+   "entrou": "2026-10-28T18:12:02.863261-03:00"
   }
  ],
  "menus_fixados": [
