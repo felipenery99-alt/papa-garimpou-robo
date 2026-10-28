@@ -9,7 +9,9 @@
   "2026-10-27 21:20 story_oferta",
   "2026-10-28 08:07 story_oferta",
   "2026-10-28 08:45 story_oferta",
-  "2026-10-28 08:52 story_oferta"
+  "2026-10-28 08:52 story_oferta",
+  "2026-10-28 10:20 story_oferta",
+  "2026-10-28 10:24 story_oferta"
  ],
  "ig_ofertas_usadas": [],
  "ig_giro": 2,
@@ -31,10 +33,12 @@
   "dc-lista": "2026-10-27",
   "ac-frete": "2026-10-28",
   "dc-notificacao": "2026-10-28",
-  "ac-pix": "2026-10-28"
+  "ac-pix": "2026-10-28",
+  "dc-garantia": "2026-10-28",
+  "hu-imperdivel": "2026-10-28"
  },
  "pecas_dia": {
-  "2026-10-28": 3
+  "2026-10-28": 5
  },
- "ultimo_pilar": "anticilada"
+ "ultimo_pilar": "humor"
 }
