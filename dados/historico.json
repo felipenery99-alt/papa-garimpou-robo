@@ -16,7 +16,11 @@
   "2026-10-28 tech 14:17 amz-B0FPNXM7TF",
   "2026-10-28 marcas 14:33 amz-B09KYCNZHM",
   "2026-10-28 tech 14:39 amz-B07GPRWFC5",
-  "2026-10-28 tech 14:48 amz-B087CT8PWY"
+  "2026-10-28 tech 14:48 amz-B087CT8PWY",
+  "2026-10-28 achadinhos 15:18 amz-B083V5LJPF",
+  "2026-10-28 achadinhos 15:28 amz-B0777VGVXD",
+  "2026-10-28 achadinhos 15:40 amz-B0D98VWP2V",
+  "2026-10-28 achadinhos 15:46 amz-B0DJPJM5ZF"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -46,7 +50,11 @@
   "amz-B0FPNXM7TF": "2026-10-28T14:17:59.665231-03:00",
   "amz-B09KYCNZHM": "2026-10-28T14:33:16.857304-03:00",
   "amz-B07GPRWFC5": "2026-10-28T14:39:53.061252-03:00",
-  "amz-B087CT8PWY": "2026-10-28T14:48:49.879935-03:00"
+  "amz-B087CT8PWY": "2026-10-28T14:48:49.879935-03:00",
+  "amz-B083V5LJPF": "2026-10-28T15:18:13.973562-03:00",
+  "amz-B0777VGVXD": "2026-10-28T15:28:25.203278-03:00",
+  "amz-B0D98VWP2V": "2026-10-28T15:40:06.938103-03:00",
+  "amz-B0DJPJM5ZF": "2026-10-28T15:46:46.993455-03:00"
  },
  "ofertas_dia": [
   {
@@ -306,6 +314,67 @@
    "valida_ate": "2026-10-28T23:59:00-03:00",
    "entrou": "2026-10-28T12:06:52.535622-03:00",
    "dia": "2026-10-28"
+  },
+  {
+   "id": "amz-B083V5LJPF",
+   "canal": "achadinhos",
+   "nome": "Parafusadeira Bosch GSB 12V-30 Brushless com 2 baterias",
+   "preco_antigo": 1026.99,
+   "preco": 699.9,
+   "desconto": 32,
+   "link": "https://www.amazon.com.br/dp/B083V5LJPF?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71f1Wc9zeZL._AC_SL1200_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-28T23:59:00-03:00",
+   "extra": "Vem com 2 baterias, carregador e maleta",
+   "entrou": "2026-10-28T15:13:44.964870-03:00",
+   "dia": "2026-10-28"
+  },
+  {
+   "id": "amz-B0777VGVXD",
+   "canal": "achadinhos",
+   "nome": "Panela Tramontina Turim antiaderente Starflon",
+   "preco_antigo": 97.89,
+   "preco": 61.06,
+   "desconto": 38,
+   "link": "https://www.amazon.com.br/dp/B0777VGVXD?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/41JCK4gqpnL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-28T23:59:00-03:00",
+   "entrou": "2026-10-28T15:13:44.964870-03:00",
+   "dia": "2026-10-28"
+  },
+  {
+   "id": "amz-B0D98VWP2V",
+   "canal": "achadinhos",
+   "nome": "Airfryer Philips Walita Série 2000 6,2L painel touch (110V)",
+   "preco_antigo": 699.9,
+   "preco": 414.0,
+   "desconto": 41,
+   "link": "https://www.amazon.com.br/dp/B0D98VWP2V?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51EASto3heL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-28T23:59:00-03:00",
+   "entrou": "2026-10-28T15:13:44.964870-03:00",
+   "dia": "2026-10-28"
+  },
+  {
+   "id": "amz-B0DJPJM5ZF",
+   "canal": "achadinhos",
+   "nome": "Air Fryer Mondial Digital 5L 2000W (110V)",
+   "preco_antigo": 899.9,
+   "preco": 368.99,
+   "desconto": 59,
+   "link": "https://www.amazon.com.br/dp/B0DJPJM5ZF?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/716V02lqAmL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-28T23:59:00-03:00",
+   "entrou": "2026-10-28T15:13:44.964870-03:00",
+   "dia": "2026-10-28"
   }
  ],
  "ig_feitos": [
@@ -328,14 +397,18 @@
   "2026-10-28 12:47 story_oferta",
   "2026-10-28 13:20 story_convite",
   "2026-10-28 13:22 story_oferta",
-  "2026-10-28 14:08 story_oferta"
+  "2026-10-28 14:08 story_oferta",
+  "2026-10-28 15:00 story_oferta",
+  "2026-10-28 15:03 story_oferta"
  ],
  "ig_ofertas_usadas": [
   "amz-B0GP7KDZRJ",
   "amz-B0HF1LQFDD",
   "amz-B0FDX5NC1G",
   "amz-B086YK7M5Y",
-  "amz-B07M79GTYK"
+  "amz-B07M79GTYK",
+  "amz-B0CCX78R2N",
+  "amz-B07FFRJSJ4"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
@@ -365,7 +438,22 @@
   "2026-10-28": 6
  },
  "ultimo_pilar": "dica",
- "fila": [],
+ "fila": [
+  {
+   "id": "amz-B07CTN7X2Y",
+   "canal": "achadinhos",
+   "nome": "Kit de Pontas e Brocas Bosch X-Line 33 peças",
+   "preco_antigo": 169.9,
+   "preco": 68.49,
+   "desconto": 60,
+   "link": "https://www.amazon.com.br/dp/B07CTN7X2Y?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61dkAeB2rXL._SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-28T23:59:00-03:00",
+   "entrou": "2026-10-28T15:13:44.964870-03:00"
+  }
+ ],
  "menus_fixados": [
   "v1 @papagarimpou",
   "v1 @papagarimpoumarcas",
