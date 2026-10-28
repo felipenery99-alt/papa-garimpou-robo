@@ -30,12 +30,12 @@
  },
  "2026-10-28": {
   "erros": [],
-  "ultima_execucao": "15:13",
-  "execucoes": 11,
+  "ultima_execucao": "16:24",
+  "execucoes": 12,
   "telegram_posts": {
-   "achadinhos": 9,
+   "achadinhos": 10,
    "marcas": 6,
-   "tech": 6
+   "tech": 7
   },
   "telegram_membros": {
    "achadinhos": 2,
@@ -60,7 +60,8 @@
    "13:22 story_oferta",
    "14:08 story_oferta",
    "15:00 story_oferta",
-   "15:03 story_oferta"
+   "15:03 story_oferta",
+   "15:51 story_oferta"
   ],
   "shopee_ligada": false,
   "instagram": {
