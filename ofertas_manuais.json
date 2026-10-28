@@ -262,5 +262,71 @@
   "loja": "Vendido e entregue pela Amazon",
   "plataforma": "Amazon",
   "valida_ate": "2026-10-28T23:59:00-03:00"
+ },
+ {
+  "id": "amz-B083V5LJPF",
+  "canal": "achadinhos",
+  "nome": "Parafusadeira Bosch GSB 12V-30 Brushless com 2 baterias",
+  "preco_antigo": 1026.99,
+  "preco": 699.9,
+  "desconto": 32,
+  "link": "https://www.amazon.com.br/dp/B083V5LJPF?tag=papagarimpou-20",
+  "imagem": "https://m.media-amazon.com/images/I/71f1Wc9zeZL._AC_SL1200_.jpg",
+  "loja": "Vendido e entregue pela Amazon",
+  "plataforma": "Amazon",
+  "valida_ate": "2026-10-28T23:59:00-03:00",
+  "extra": "Vem com 2 baterias, carregador e maleta"
+ },
+ {
+  "id": "amz-B0777VGVXD",
+  "canal": "achadinhos",
+  "nome": "Panela Tramontina Turim antiaderente Starflon",
+  "preco_antigo": 97.89,
+  "preco": 61.06,
+  "desconto": 38,
+  "link": "https://www.amazon.com.br/dp/B0777VGVXD?tag=papagarimpou-20",
+  "imagem": "https://m.media-amazon.com/images/I/41JCK4gqpnL._AC_SL1000_.jpg",
+  "loja": "Vendido e entregue pela Amazon",
+  "plataforma": "Amazon",
+  "valida_ate": "2026-10-28T23:59:00-03:00"
+ },
+ {
+  "id": "amz-B0D98VWP2V",
+  "canal": "achadinhos",
+  "nome": "Airfryer Philips Walita Série 2000 6,2L painel touch (110V)",
+  "preco_antigo": 699.9,
+  "preco": 414.0,
+  "desconto": 41,
+  "link": "https://www.amazon.com.br/dp/B0D98VWP2V?tag=papagarimpou-20",
+  "imagem": "https://m.media-amazon.com/images/I/51EASto3heL._AC_SL1000_.jpg",
+  "loja": "Vendido e entregue pela Amazon",
+  "plataforma": "Amazon",
+  "valida_ate": "2026-10-28T23:59:00-03:00"
+ },
+ {
+  "id": "amz-B0DJPJM5ZF",
+  "canal": "achadinhos",
+  "nome": "Air Fryer Mondial Digital 5L 2000W (110V)",
+  "preco_antigo": 899.9,
+  "preco": 368.99,
+  "desconto": 59,
+  "link": "https://www.amazon.com.br/dp/B0DJPJM5ZF?tag=papagarimpou-20",
+  "imagem": "https://m.media-amazon.com/images/I/716V02lqAmL._AC_SL1500_.jpg",
+  "loja": "Vendido e entregue pela Amazon",
+  "plataforma": "Amazon",
+  "valida_ate": "2026-10-28T23:59:00-03:00"
+ },
+ {
+  "id": "amz-B07CTN7X2Y",
+  "canal": "achadinhos",
+  "nome": "Kit de Pontas e Brocas Bosch X-Line 33 peças",
+  "preco_antigo": 169.9,
+  "preco": 68.49,
+  "desconto": 60,
+  "link": "https://www.amazon.com.br/dp/B07CTN7X2Y?tag=papagarimpou-20",
+  "imagem": "https://m.media-amazon.com/images/I/61dkAeB2rXL._SL1000_.jpg",
+  "loja": "Vendido e entregue pela Amazon",
+  "plataforma": "Amazon",
+  "valida_ate": "2026-10-28T23:59:00-03:00"
  }
 ]
