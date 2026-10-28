@@ -435,5 +435,32 @@
   "loja": "Vendido e entregue pela Amazon",
   "plataforma": "Amazon",
   "valida_ate": "2026-10-28T23:59:00-03:00"
+ },
+ {
+  "id": "amz-B09KYFKPJQ",
+  "canal": "marcas",
+  "nome": "Kit 3 Camisetas Hering Básicas Femininas",
+  "preco_antigo": 139.99,
+  "preco": 55.89,
+  "desconto": 60,
+  "link": "https://www.amazon.com.br/dp/B09KYFKPJQ?tag=papagarimpou-20",
+  "imagem": "https://m.media-amazon.com/images/I/51fZYkXtL8L._AC_SL1500_.jpg",
+  "loja": "Vendido e entregue pela Amazon",
+  "plataforma": "Amazon",
+  "valida_ate": "2026-10-28T23:59:00-03:00",
+  "extra": "Sai R$ 18,63 cada"
+ },
+ {
+  "id": "amz-B07JHH3WJB",
+  "canal": "marcas",
+  "nome": "Creatina Dux Creapure Monohidratada 300g",
+  "preco_antigo": 282.21,
+  "preco": 123.4,
+  "desconto": 56,
+  "link": "https://www.amazon.com.br/dp/B07JHH3WJB?tag=papagarimpou-20",
+  "imagem": "https://m.media-amazon.com/images/I/612UedWyQSL._AC_SL1500_.jpg",
+  "loja": "Vendido por parceiro · entregue pela Amazon",
+  "plataforma": "Amazon",
+  "valida_ate": "2026-10-28T23:59:00-03:00"
  }
 ]
