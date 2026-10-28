@@ -30,12 +30,12 @@
  },
  "2026-10-28": {
   "erros": [],
-  "ultima_execucao": "19:27",
+  "ultima_execucao": "19:57",
   "execucoes": 18,
   "telegram_posts": {
-   "achadinhos": 13,
-   "marcas": 12,
-   "tech": 11
+   "achadinhos": 14,
+   "marcas": 10,
+   "tech": 9
   },
   "telegram_membros": {
    "achadinhos": 2,
@@ -76,7 +76,7 @@
   "shopee_ligada": false,
   "instagram": {
    "seguidores": 17,
-   "posts": 8,
+   "posts": 9,
    "reach": 20,
    "profile_views": 50,
    "website_clicks": 2,
