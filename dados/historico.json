@@ -5,7 +5,8 @@
   "2026-10-28 tech 11:36 amz-B0FDX5NC1G",
   "2026-10-28 achadinhos 11:43 amz-B086YK7M5Y",
   "2026-10-28 marcas 11:50 amz-B07M79GTYK",
-  "2026-10-28 achadinhos 12:11 amz-B0CCX78R2N"
+  "2026-10-28 achadinhos 12:11 amz-B0CCX78R2N",
+  "2026-10-28 achadinhos 12:33 amz-B07FFRJSJ4"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -24,7 +25,8 @@
   "amz-B002DYIZEE": "2026-10-28T09:45:00-03:00",
   "amz-B0C159GHW1": "2026-10-28T09:45:00-03:00",
   "amz-B0F7Y5MCGK": "2026-10-28T09:45:00-03:00",
-  "amz-B0GHS7QRB5": "2026-10-28T09:45:00-03:00"
+  "amz-B0GHS7QRB5": "2026-10-28T09:45:00-03:00",
+  "amz-B07FFRJSJ4": "2026-10-28T12:33:17.407108-03:00"
  },
  "ofertas_dia": [
   {
@@ -117,6 +119,21 @@
    "valida_ate": "2026-10-28T23:59:00-03:00",
    "entrou": "2026-10-28T12:06:52.535622-03:00",
    "dia": "2026-10-28"
+  },
+  {
+   "id": "amz-B07FFRJSJ4",
+   "canal": "achadinhos",
+   "nome": "Escova Elétrica Oral-B PRO Series 1",
+   "preco_antigo": 252.17,
+   "preco": 109.99,
+   "desconto": 56,
+   "link": "https://www.amazon.com.br/dp/B07FFRJSJ4?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61XWKdF5SzL._AC_SL1200_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-28T23:59:00-03:00",
+   "entrou": "2026-10-28T12:06:52.535622-03:00",
+   "dia": "2026-10-28"
   }
  ],
  "ig_feitos": [
@@ -133,10 +150,13 @@
   "especial top5-20261028",
   "2026-10-28 feed",
   "2026-10-28 11:50 carrossel_top5",
-  "2026-10-28 11:56 story_oferta"
+  "2026-10-28 11:56 story_oferta",
+  "2026-10-28 12:15 story_top4",
+  "2026-10-28 12:19 story_oferta"
  ],
  "ig_ofertas_usadas": [
-  "amz-B0GP7KDZRJ"
+  "amz-B0GP7KDZRJ",
+  "amz-B0HF1LQFDD"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
@@ -224,20 +244,6 @@
    "entrou": "2026-10-28T11:21:52.124329-03:00"
   },
   {
-   "id": "amz-B07FFRJSJ4",
-   "canal": "achadinhos",
-   "nome": "Escova Elétrica Oral-B PRO Series 1",
-   "preco_antigo": 252.17,
-   "preco": 109.99,
-   "desconto": 56,
-   "link": "https://www.amazon.com.br/dp/B07FFRJSJ4?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61XWKdF5SzL._AC_SL1200_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-10-28T23:59:00-03:00",
-   "entrou": "2026-10-28T12:06:52.535622-03:00"
-  },
-  {
    "id": "amz-B07VKQKHVK",
    "canal": "achadinhos",
    "nome": "Secador de Cabelo Taiff Black Ion 2000W 127V",
@@ -323,5 +329,11 @@
    "valida_ate": "2026-10-28T23:59:00-03:00",
    "entrou": "2026-10-28T12:06:52.535622-03:00"
   }
+ ],
+ "menus_fixados": [
+  "v1 @papagarimpou",
+  "v1 @papagarimpoumarcas",
+  "v1 @papagarimpoutech",
+  "v1 @papagarimpouofertas"
  ]
 }
