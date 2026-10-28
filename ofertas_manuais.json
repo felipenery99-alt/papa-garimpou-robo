@@ -328,5 +328,72 @@
   "loja": "Vendido e entregue pela Amazon",
   "plataforma": "Amazon",
   "valida_ate": "2026-10-28T23:59:00-03:00"
+ },
+ {
+  "id": "amz-B0FFTQ49FQ",
+  "canal": "marcas",
+  "nome": "Tênis Mizuno Neo Vortex",
+  "preco_antigo": 699.99,
+  "preco": 299.9,
+  "desconto": 57,
+  "link": "https://www.amazon.com.br/dp/B0FFTQ49FQ?tag=papagarimpou-20",
+  "imagem": "https://m.media-amazon.com/images/I/61Rt2bAuzML._AC_SL1500_.jpg",
+  "loja": "Vendido e entregue pela Amazon",
+  "plataforma": "Amazon",
+  "valida_ate": "2026-10-28T23:59:00-03:00",
+  "extra": "Preço pode variar conforme o tamanho"
+ },
+ {
+  "id": "amz-B0FP8T2RDC",
+  "canal": "tech",
+  "nome": "Fone Samsung Galaxy Buds Core sem fio com cancelamento de ruído",
+  "preco_antigo": 399.0,
+  "preco": 224.4,
+  "desconto": 44,
+  "link": "https://www.amazon.com.br/dp/B0FP8T2RDC?tag=papagarimpou-20",
+  "imagem": "https://m.media-amazon.com/images/I/31zLQOfTQ2L._AC_SL1000_.jpg",
+  "loja": "Vendido e entregue pela Amazon",
+  "plataforma": "Amazon",
+  "valida_ate": "2026-10-28T23:59:00-03:00"
+ },
+ {
+  "id": "amz-B0GM1PSWPD",
+  "canal": "tech",
+  "nome": "Fone Bluetooth JBL Tune 530BT Over-Ear, até 76h de bateria",
+  "preco_antigo": 299.0,
+  "preco": 180.39,
+  "desconto": 40,
+  "link": "https://www.amazon.com.br/dp/B0GM1PSWPD?tag=papagarimpou-20",
+  "imagem": "https://m.media-amazon.com/images/I/61rGUHFQFiL._AC_SL1500_.jpg",
+  "loja": "Vendido e entregue pela Amazon",
+  "plataforma": "Amazon",
+  "valida_ate": "2026-10-28T23:59:00-03:00"
+ },
+ {
+  "id": "amz-B0CRTR3PMF",
+  "canal": "tech",
+  "nome": "Fone Bluetooth Anker Soundcore P30i com cancelamento de ruído",
+  "preco_antigo": 369.0,
+  "preco": 186.67,
+  "desconto": 49,
+  "link": "https://www.amazon.com.br/dp/B0CRTR3PMF?tag=papagarimpou-20",
+  "imagem": "https://m.media-amazon.com/images/I/518zpITOCHL._AC_SL1500_.jpg",
+  "loja": "Loja oficial AnkerDirect BR",
+  "plataforma": "Amazon",
+  "valida_ate": "2026-10-28T23:59:00-03:00"
+ },
+ {
+  "id": "amz-B0H5XX1XFG",
+  "canal": "marcas",
+  "nome": "Tênis Mizuno Enigma 3",
+  "preco_antigo": 499.99,
+  "preco": 269.9,
+  "desconto": 46,
+  "link": "https://www.amazon.com.br/dp/B0H5XX1XFG?tag=papagarimpou-20",
+  "imagem": "https://m.media-amazon.com/images/I/61YWk58m5YL._AC_SL1000_.jpg",
+  "loja": "Vendido e entregue pela Amazon",
+  "plataforma": "Amazon",
+  "valida_ate": "2026-10-28T23:59:00-03:00",
+  "extra": "Preço pode variar conforme o tamanho"
  }
 ]
