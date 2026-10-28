@@ -1,4 +1,4 @@
-"""Robô do Papa Garimpou — roda a cada 15 min (GitHub Actions).
+"""Robô do Papa Garimpou — 20 execuções por dia (GitHub Actions), com fila contínua entre elas.
 
 Em cada execução: vê se algum horário sorteado do dia chegou; se sim, garimpa,
 filtra (marca boa, loja oficial, nota, vendas, desconto), escolhe a melhor oferta
@@ -104,6 +104,72 @@ def garimpar_todas(canal: str, fonte, h: dict, agora: datetime) -> list[dict]:
 def garimpar(canal: str, fonte, h: dict, agora: datetime, rodada: int = 0) -> dict | None:
     todas = garimpar_todas(canal, fonte, h, agora)
     return todas[0] if todas else None
+
+
+def entrar_na_fila(h: dict, canal: str, ofertas: list[dict], agora: datetime) -> None:
+    """Põe as ofertas novas na fila (sem duplicar) e tira as que ficaram velhas."""
+    corte = (agora - timedelta(hours=config.FILA_VALIDADE_H)).isoformat()
+    fila = [f for f in h.get("fila", []) if f["entrou"] >= corte]
+    na_fila = {f["id"] for f in fila}
+    fila += [{**o, "canal": canal, "entrou": agora.isoformat()} for o in ofertas if o["id"] not in na_fila]
+    h["fila"] = fila
+
+
+def ate_proxima_execucao(agora: datetime) -> datetime:
+    """A fila corre até 3 min antes da próxima execução do robo.yml (nunca depois das 22h)."""
+    fim = agora.replace(hour=config.JANELA_FIM[0], minute=config.JANELA_FIM[1], second=0, microsecond=0)
+    for hm in config.EXECUCOES:
+        prox = agora.replace(hour=int(hm[:2]), minute=int(hm[3:]), second=0, microsecond=0)
+        if prox > agora + timedelta(minutes=5):
+            fim = min(fim, prox - timedelta(minutes=3))
+            break
+    return min(fim, agora + timedelta(minutes=45))
+
+
+def soltar_fila(h: dict, telegram, limite: datetime) -> int:
+    """Posta uma oferta por vez, alternando os canais de nicho (cada uma também vai para o
+    canal geral), com intervalo sorteado. O que sobrar fica na fila para a próxima execução."""
+    import random
+    import time as _time
+    erros = 0
+    vez = 0
+    while h.get("fila"):
+        agora = datetime.now(FUSO)
+        canais = [c for c in config.CANAIS if any(f["canal"] == c for f in h["fila"])]
+        canal = canais[vez % len(canais)]
+        vez += 1
+        oferta = next(f for f in h["fila"] if f["canal"] == canal)
+        h["fila"].remove(oferta)
+        if ja_postado_recente(h, oferta["id"], agora):
+            continue
+        hoje = agora.date().isoformat()
+        chave = f"{hoje} {canal} {agora:%H:%M} {oferta['id']}"
+        try:
+            foto, leg = post.foto_com_selo(oferta["imagem"]), post.legenda(oferta, canal)
+            telegram.postar_foto(config.CANAIS[canal], foto, leg)
+            try:   # cópia no canal geral; se falhar, não atrapalha o canal do nicho
+                telegram.postar_foto(config.GERAL, foto, leg)
+            except Exception as e:
+                telegram.avisar_dono(f"canal geral não recebeu {oferta['id']}: {e}")
+            h["postados"][oferta["id"]] = agora.isoformat()
+            h.setdefault("ofertas_dia", []).append({**oferta, "canal": canal, "dia": hoje})
+            h["slots_feitos"].append(chave)
+            salvar_hist(h)   # grava a cada post: se o job cair, não repete
+            print(f"postado {chave}: {oferta['nome'][:60]}")
+        except telegram.DestinoProibido as e:
+            telegram.avisar_dono(f"BLOQUEADO destino errado: {e}")
+            return erros + 1
+        except Exception as e:
+            telegram.avisar_dono(f"erro em {chave}: {e}. Não postei.")
+            erros += 1
+            if erros >= 3:
+                return erros
+        espera = random.uniform(*config.INTERVALO_POSTS_MIN) * 60
+        if not h["fila"] or datetime.now(FUSO) + timedelta(seconds=espera) > limite:
+            break
+        _time.sleep(espera)
+    print(f"fila: {len(h.get('fila', []))} oferta(s) esperando a próxima execução")
+    return erros
 
 
 LEGENDA_CTA = ("\n\nComenta QUERO que o Papa te manda o link no direct 💎\n"
@@ -394,10 +460,8 @@ def main() -> int:
         salvar_hist(h)
         gravar_relatorio(h, agora)
         return 0
-    # Sem cota diária: a cada execução garimpa os 2 canais e posta TODA oferta boa nova
-    # (regra do dono, 27/10: "ofertar sempre que acharmos algo bom, não tem limite").
-    # A qualidade (config/qualidade.py) é o único filtro; o histórico impede repetir em 7 dias.
-    import time as _time
+    # Sem cota diária (dono, 27/10): toda oferta boa entra. Fila contínua (dono, 28/10): em vez de
+    # despejar tudo de uma vez, solta uma oferta a cada poucos minutos até perto da próxima execução.
     erros = 0
     for canal in config.CANAIS:
         try:
@@ -406,27 +470,8 @@ def main() -> int:
             telegram.avisar_dono(f"garimpo de {canal} falhou: {e}. Não postei.")
             erros += 1
             continue
-        for oferta in ofertas:
-            chave = f"{hoje} {canal} {agora:%H:%M} {oferta['id']}"
-            try:
-                foto, leg = post.foto_com_selo(oferta["imagem"]), post.legenda(oferta, canal)
-                telegram.postar_foto(config.CANAIS[canal], foto, leg)
-                try:   # cópia no canal geral; se falhar, não atrapalha o canal do nicho
-                    telegram.postar_foto(config.GERAL, foto, leg)
-                except Exception as e:
-                    telegram.avisar_dono(f"canal geral não recebeu {oferta['id']}: {e}")
-                h["postados"][oferta["id"]] = agora.isoformat()
-                h.setdefault("ofertas_dia", []).append({**oferta, "canal": canal, "dia": hoje})
-                h["slots_feitos"].append(chave)
-                print(f"postado {chave}: {oferta['nome'][:60]}")
-                _time.sleep(config.PAUSA_ENTRE_POSTS_S)
-            except telegram.DestinoProibido as e:
-                telegram.avisar_dono(f"BLOQUEADO destino errado: {e}")
-                erros += 1
-                break
-            except Exception as e:
-                telegram.avisar_dono(f"erro em {chave}: {e}. Não postei.")
-                erros += 1
+        entrar_na_fila(h, canal, ofertas, agora)
+    erros += soltar_fila(h, telegram, ate_proxima_execucao(agora))
     salvar_hist(h)
     gravar_relatorio(h, agora)
     return 1 if erros else 0

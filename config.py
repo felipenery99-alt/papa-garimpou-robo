@@ -32,10 +32,17 @@ INSTAGRAM_AGENDA = [
 # RITMO
 # ---------------------------------------------------------------------------
 # Sem cota diária (dono, 27/10): toda oferta boa encontrada é postada na hora.
-PAUSA_ENTRE_POSTS_S = 20  # respiro entre posts seguidos (limite do Telegram e leitura)
+
 JANELA_INICIO = (8, 0)    # 08:00
 JANELA_FIM = (22, 0)      # 22:00
-INTERVALO_MIN_MIN = 45    # mínimo entre posts do mesmo canal
+# Fila contínua (28/10, dono: "o cara manda coisa a cada 10 minutos"): cada execução garimpa,
+# põe as ofertas boas numa fila e solta UMA de cada vez, alternando os canais de nicho, até
+# perto da próxima execução. Cada nicho recebe ~1 a cada 15 min; o canal geral, ~1 a cada 7.
+INTERVALO_POSTS_MIN = (6, 8)   # minutos entre um post e o próximo (sorteado, alternando canais)
+FILA_VALIDADE_H = 4            # oferta parada na fila há mais que isso sai (o preço pode ter mudado)
+# Horários das execuções do robo.yml em Brasília (para a fila parar antes da próxima)
+EXECUCOES = ["08:07", "08:52", "09:38", "10:24", "11:11", "11:56", "12:19", "12:47", "13:22", "14:08",
+             "15:03", "15:51", "16:44", "17:36", "18:09", "18:42", "19:17", "20:03", "20:38", "21:24"]
 FUSO = "America/Sao_Paulo"
 # Picos (peso maior no sorteio): almoço, fim de tarde, noite
 PICOS = [((12, 0), (13, 30)), ((18, 0), (19, 30)), ((20, 30), (22, 0))]
@@ -86,11 +93,27 @@ BUSCAS = {
         "cueca boxer puma", "tênis corrida mizuno", "tênis olympikus", "tênis asics",
         "creatina growth", "whey protein max titanium", "coqueteleira blenderbottle",
         "óculos oakley", "camiseta dry fit nike", "meia nike", "camisa polo hugo boss",
+        # lote 28/10: mais buscas = fila cheia o dia todo
+        "tênis nike", "tênis adidas", "tênis puma", "tênis new balance", "chinelo nike",
+        "bermuda nike", "shorts adidas", "jaqueta adidas", "moletom nike", "mochila nike",
+        "boné nike", "camiseta adidas", "legging lupo", "top fitness lupo", "meia lupo",
+        "cueca tommy hilfiger", "camiseta calvin klein", "camisa polo ralph lauren",
+        "camiseta levis", "relógio garmin", "sunga speedo", "whey growth", "creatina max titanium",
+        "pré treino integralmedica", "barra de proteína", "garrafa térmica stanley",
     ],
     "achadinhos": [
         "fone jbl", "air fryer mondial", "aspirador wap", "mouse logitech", "carregador anker",
         "power bank baseus", "panela tramontina", "liquidificador oster", "ssd kingston",
         "caixa de som jbl", "aparador philips", "secador taiff", "escova oral-b",
         "kit ferramentas bosch", "smartwatch xiaomi", "cafeteira electrolux",
+        # lote 28/10
+        "fone samsung galaxy buds", "redmi buds", "caixa de som jbl go", "fone sony",
+        "teclado logitech", "headset logitech", "webcam logitech", "pendrive sandisk",
+        "cartão de memória sandisk", "roteador tp-link", "câmera intelbras", "carregador baseus",
+        "cabo usb c anker", "smart tv samsung", "monitor lg", "notebook lenovo",
+        "furadeira bosch", "parafusadeira black decker", "jogo de panelas tramontina",
+        "faqueiro tramontina", "batedeira mondial", "ventilador mondial", "sanduicheira britania",
+        "chapinha taiff", "barbeador philips", "perfume boticário", "kit natura",
+        "protetor solar nivea", "escova elétrica oral-b", "creme wella",
     ],
 }
