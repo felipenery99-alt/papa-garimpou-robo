@@ -32,7 +32,9 @@
   "2026-10-28 marcas 18:55 amz-B0FFTQ49FQ",
   "2026-10-28 tech 19:04 amz-B0GM1PSWPD",
   "2026-10-28 marcas 19:11 amz-B0BTHRMZV4",
-  "2026-10-28 achadinhos 19:59 amz-B0C51C4ZTZ"
+  "2026-10-28 achadinhos 19:59 amz-B0C51C4ZTZ",
+  "2026-10-28 achadinhos 20:17 amz-B076JL87T3",
+  "2026-10-28 marcas 20:28 amz-B09KYFKPJQ"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -78,7 +80,9 @@
   "amz-B0FFTQ49FQ": "2026-10-28T18:55:46.904476-03:00",
   "amz-B0GM1PSWPD": "2026-10-28T19:04:57.871815-03:00",
   "amz-B0BTHRMZV4": "2026-10-28T19:11:30.043118-03:00",
-  "amz-B0C51C4ZTZ": "2026-10-28T19:59:56.252471-03:00"
+  "amz-B0C51C4ZTZ": "2026-10-28T19:59:56.252471-03:00",
+  "amz-B076JL87T3": "2026-10-28T20:17:19.013568-03:00",
+  "amz-B09KYFKPJQ": "2026-10-28T20:28:58.439279-03:00"
  },
  "ofertas_dia": [
   {
@@ -583,6 +587,37 @@
    "extra": "Versão 127V",
    "entrou": "2026-10-28T19:57:06.957091-03:00",
    "dia": "2026-10-28"
+  },
+  {
+   "id": "amz-B076JL87T3",
+   "canal": "achadinhos",
+   "nome": "Jogo de Panelas Tramontina Allegra Aço Inox Fundo Triplo 4 Peças",
+   "preco_antigo": 739.1,
+   "preco": 382.76,
+   "desconto": 48,
+   "link": "https://www.amazon.com.br/dp/B076JL87T3?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61iE107hC1L._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-28T23:59:00-03:00",
+   "entrou": "2026-10-28T19:57:06.957091-03:00",
+   "dia": "2026-10-28"
+  },
+  {
+   "id": "amz-B09KYFKPJQ",
+   "canal": "marcas",
+   "nome": "Kit 3 Camisetas Hering Básicas Femininas",
+   "preco_antigo": 139.99,
+   "preco": 55.89,
+   "desconto": 60,
+   "link": "https://www.amazon.com.br/dp/B09KYFKPJQ?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51fZYkXtL8L._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-28T23:59:00-03:00",
+   "extra": "Sai R$ 18,63 cada",
+   "entrou": "2026-10-28T20:13:50.239670-03:00",
+   "dia": "2026-10-28"
   }
  ],
  "ig_feitos": [
@@ -618,7 +653,8 @@
   "2026-10-28 18:42 story_oferta",
   "2026-10-28 feed",
   "2026-10-28 19:15 post_achado",
-  "2026-10-28 19:17 story_oferta"
+  "2026-10-28 19:17 story_oferta",
+  "2026-10-28 20:03 story_oferta"
  ],
  "ig_ofertas_usadas": [
   "amz-B0GP7KDZRJ",
@@ -635,7 +671,8 @@
   "amz-B0H1FY5N9W",
   "amz-B0G5BMM9SQ",
   "amz-B09V1SM8QB",
-  "amz-B0FPNXM7TF"
+  "amz-B0FPNXM7TF",
+  "amz-B09KYCNZHM"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
@@ -709,20 +746,6 @@
    "entrou": "2026-10-28T18:52:18.520253-03:00"
   },
   {
-   "id": "amz-B076JL87T3",
-   "canal": "achadinhos",
-   "nome": "Jogo de Panelas Tramontina Allegra Aço Inox Fundo Triplo 4 Peças",
-   "preco_antigo": 739.1,
-   "preco": 382.76,
-   "desconto": 48,
-   "link": "https://www.amazon.com.br/dp/B076JL87T3?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61iE107hC1L._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-10-28T23:59:00-03:00",
-   "entrou": "2026-10-28T19:57:06.957091-03:00"
-  },
-  {
    "id": "amz-B0756KXRLB",
    "canal": "achadinhos",
    "nome": "Aspirador de Pó e Água WAP GTW Inox 12 Litros",
@@ -735,6 +758,48 @@
    "plataforma": "Amazon",
    "valida_ate": "2026-10-28T23:59:00-03:00",
    "entrou": "2026-10-28T19:57:06.957091-03:00"
+  },
+  {
+   "id": "amz-B07JHH3WJB",
+   "canal": "marcas",
+   "nome": "Creatina Dux Creapure Monohidratada 300g",
+   "preco_antigo": 282.21,
+   "preco": 123.4,
+   "desconto": 56,
+   "link": "https://www.amazon.com.br/dp/B07JHH3WJB?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/612UedWyQSL._AC_SL1500_.jpg",
+   "loja": "Vendido por parceiro · entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-28T23:59:00-03:00",
+   "entrou": "2026-10-28T20:13:50.239670-03:00"
+  },
+  {
+   "id": "amz-B08GMB1PWV",
+   "canal": "tech",
+   "nome": "Pendrive SanDisk Cruzer Blade 64GB USB",
+   "preco_antigo": 92.66,
+   "preco": 55.94,
+   "desconto": 40,
+   "link": "https://www.amazon.com.br/dp/B08GMB1PWV?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61pLnjhcV9L._AC_SL1372_.jpg",
+   "loja": "Vendido por parceiro · entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-28T23:59:00-03:00",
+   "entrou": "2026-10-28T20:13:50.239670-03:00"
+  },
+  {
+   "id": "amz-B0D8DPT7ZY",
+   "canal": "tech",
+   "nome": "Monitor Gamer LG UltraGear 24\" IPS Full HD 180Hz 1ms",
+   "preco_antigo": 1199.0,
+   "preco": 718.15,
+   "desconto": 40,
+   "link": "https://www.amazon.com.br/dp/B0D8DPT7ZY?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61aIuJu0M0L._AC_SL1000_.jpg",
+   "loja": "Vendido por parceiro · entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-28T23:59:00-03:00",
+   "entrou": "2026-10-28T20:13:50.239670-03:00"
   }
  ],
  "menus_fixados": [
