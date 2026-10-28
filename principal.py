@@ -57,7 +57,7 @@ def gravar_relatorio(h: dict, agora: datetime) -> None:
     dia["ultima_execucao"] = agora.strftime("%H:%M")
     dia["execucoes"] = dia.get("execucoes", 0) + 1
     dia["telegram_posts"] = {c: sum(1 for s in h["slots_feitos"] if s.startswith(f"{hoje} {c}")) for c in config.CANAIS}
-    dia["telegram_membros"] = {c: telegram.membros(d) for c, d in config.CANAIS.items()}
+    dia["telegram_membros"] = {c: telegram.membros(d) for c, d in {**config.CANAIS, "geral": config.GERAL}.items()}
     dia["instagram_feito"] = [f[11:] for f in h.get("ig_feitos", []) if f.startswith(hoje)]
     dia["shopee_ligada"] = bool(os.environ.get("SHOPEE_APP_ID"))
     if os.environ.get("META_TOKEN"):
@@ -329,7 +329,7 @@ def main() -> int:
         eu = requests.get(f"{api}/getMe", timeout=30).json()
         print("bot:", eu.get("ok"), eu.get("result", {}).get("username"))
         bot_id = eu.get("result", {}).get("id")
-        for canal, destino in config.CANAIS.items():
+        for canal, destino in {**config.CANAIS, "geral": config.GERAL}.items():
             m = requests.get(f"{api}/getChatMember", params={"chat_id": destino, "user_id": bot_id}, timeout=30).json()
             r = m.get("result", {})
             print(f"{canal} {destino}: status={r.get('status')} pode_postar={r.get('can_post_messages')} {'' if m.get('ok') else m}")
@@ -409,8 +409,12 @@ def main() -> int:
         for oferta in ofertas:
             chave = f"{hoje} {canal} {agora:%H:%M} {oferta['id']}"
             try:
-                telegram.postar_foto(config.CANAIS[canal], post.foto_com_selo(oferta["imagem"]),
-                                     post.legenda(oferta, canal))
+                foto, leg = post.foto_com_selo(oferta["imagem"]), post.legenda(oferta, canal)
+                telegram.postar_foto(config.CANAIS[canal], foto, leg)
+                try:   # cópia no canal geral; se falhar, não atrapalha o canal do nicho
+                    telegram.postar_foto(config.GERAL, foto, leg)
+                except Exception as e:
+                    telegram.avisar_dono(f"canal geral não recebeu {oferta['id']}: {e}")
                 h["postados"][oferta["id"]] = agora.isoformat()
                 h.setdefault("ofertas_dia", []).append({**oferta, "canal": canal, "dia": hoje})
                 h["slots_feitos"].append(chave)

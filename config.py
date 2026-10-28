@@ -8,7 +8,10 @@ CANAIS = {
     "achadinhos": "@papagarimpou",
     "marcas": "@papagarimpoumarcas",
 }
-DESTINOS_PERMITIDOS = frozenset(CANAIS.values())
+# Canal "tudo em um" (27/10): recebe uma cópia de toda oferta postada nos canais de nicho,
+# para quem quer tudo sem entrar em vários canais.
+GERAL = "@papagarimpouofertas"
+DESTINOS_PERMITIDOS = frozenset([*CANAIS.values(), GERAL])
 
 # Único Instagram permitido. Antes de qualquer post no Instagram, conferir que a
 # conta logada é exatamente esta; se não for, NÃO postar e avisar.

@@ -145,7 +145,8 @@ def metricas() -> dict:
 PALAVRAS_CHAVE = ("quero", "link", "eu", "manda", "eu quero")
 RESPOSTA_DM = ("Oi! Aqui é o Papa 😎💎\n\nAchou coisa boa de marca, em loja oficial, "
                "eu posto na hora, grátis no Telegram:\n\n🛒 Achadinhos: https://t.me/papagarimpou\n"
-               "👕 Marcas e esporte: https://t.me/papagarimpoumarcas\n\nÉ só entrar e ativar as notificações!")
+               "👕 Marcas e esporte: https://t.me/papagarimpoumarcas\n"
+               "💎 Quer tudo num lugar só? https://t.me/papagarimpouofertas\n\nÉ só entrar e ativar as notificações!")
 
 
 def responder_comentarios(ja_respondidos: set) -> list[str]:
