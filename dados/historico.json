@@ -11,7 +11,12 @@
   "2026-10-28 tech 13:13 amz-B0H1282J24",
   "2026-10-28 marcas 13:35 amz-B0FH4KMP42",
   "2026-10-28 tech 13:43 amz-B0CVCLGV1W",
-  "2026-10-28 marcas 13:58 amz-B0H1FY5N9W"
+  "2026-10-28 marcas 13:58 amz-B0H1FY5N9W",
+  "2026-10-28 marcas 14:10 amz-B0G5BMM9SQ",
+  "2026-10-28 tech 14:17 amz-B0FPNXM7TF",
+  "2026-10-28 marcas 14:33 amz-B09KYCNZHM",
+  "2026-10-28 tech 14:39 amz-B07GPRWFC5",
+  "2026-10-28 tech 14:48 amz-B087CT8PWY"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -36,7 +41,12 @@
   "amz-B0H1282J24": "2026-10-28T13:13:16.536016-03:00",
   "amz-B0FH4KMP42": "2026-10-28T13:35:28.222615-03:00",
   "amz-B0CVCLGV1W": "2026-10-28T13:43:43.209376-03:00",
-  "amz-B0H1FY5N9W": "2026-10-28T13:58:47.678870-03:00"
+  "amz-B0H1FY5N9W": "2026-10-28T13:58:47.678870-03:00",
+  "amz-B0G5BMM9SQ": "2026-10-28T14:10:49.439107-03:00",
+  "amz-B0FPNXM7TF": "2026-10-28T14:17:59.665231-03:00",
+  "amz-B09KYCNZHM": "2026-10-28T14:33:16.857304-03:00",
+  "amz-B07GPRWFC5": "2026-10-28T14:39:53.061252-03:00",
+  "amz-B087CT8PWY": "2026-10-28T14:48:49.879935-03:00"
  },
  "ofertas_dia": [
   {
@@ -220,6 +230,82 @@
    "extra": "Sai R$ 23,75 cada",
    "entrou": "2026-10-28T12:06:52.535622-03:00",
    "dia": "2026-10-28"
+  },
+  {
+   "id": "amz-B0G5BMM9SQ",
+   "canal": "marcas",
+   "nome": "Tênis ASICS GEL-Excite 11 Masculino",
+   "preco_antigo": 499.99,
+   "preco": 313.49,
+   "desconto": 37,
+   "link": "https://www.amazon.com.br/dp/B0G5BMM9SQ?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61N4H0a6wzL._AC_SL1200_.jpg",
+   "loja": "Vendido e entregue pela Netshoes (loja oficial na Amazon)",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-28T23:59:00-03:00",
+   "entrou": "2026-10-28T12:06:52.535622-03:00",
+   "dia": "2026-10-28"
+  },
+  {
+   "id": "amz-B0FPNXM7TF",
+   "canal": "tech",
+   "nome": "Caixa de Som JBL Go Essential 2 Bluetooth",
+   "preco_antigo": 219.0,
+   "preco": 147.6,
+   "desconto": 33,
+   "link": "https://www.amazon.com.br/dp/B0FPNXM7TF?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71cWjfs8G3L._AC_SL1500_.jpg",
+   "loja": "Vendido por parceiro · entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-28T23:59:00-03:00",
+   "entrou": "2026-10-28T11:21:52.124329-03:00",
+   "dia": "2026-10-28"
+  },
+  {
+   "id": "amz-B09KYCNZHM",
+   "canal": "marcas",
+   "nome": "Kit 3 Camisetas Básicas Masculinas Hering",
+   "preco_antigo": 159.99,
+   "preco": 94.9,
+   "desconto": 41,
+   "link": "https://www.amazon.com.br/dp/B09KYCNZHM?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/6129-PKPgPL._AC_SL1500_.jpg",
+   "loja": "Vendido por parceiro · entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-28T23:59:00-03:00",
+   "extra": "Sai R$ 31,63 cada",
+   "entrou": "2026-10-28T12:06:52.535622-03:00",
+   "dia": "2026-10-28"
+  },
+  {
+   "id": "amz-B07GPRWFC5",
+   "canal": "tech",
+   "nome": "Mouse Gamer Sem Fio Logitech G305 LIGHTSPEED",
+   "preco_antigo": 299.9,
+   "preco": 189.99,
+   "desconto": 37,
+   "link": "https://www.amazon.com.br/dp/B07GPRWFC5?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51sg9BLSMTL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-28T23:59:00-03:00",
+   "entrou": "2026-10-28T12:06:52.535622-03:00",
+   "dia": "2026-10-28"
+  },
+  {
+   "id": "amz-B087CT8PWY",
+   "canal": "tech",
+   "nome": "Mouse Gamer Logitech G203 LIGHTSYNC RGB",
+   "preco_antigo": 169.9,
+   "preco": 104.54,
+   "desconto": 38,
+   "link": "https://www.amazon.com.br/dp/B087CT8PWY?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61oE1NouXuL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-28T23:59:00-03:00",
+   "entrou": "2026-10-28T12:06:52.535622-03:00",
+   "dia": "2026-10-28"
   }
  ],
  "ig_feitos": [
@@ -241,13 +327,15 @@
   "2026-10-28 12:19 story_oferta",
   "2026-10-28 12:47 story_oferta",
   "2026-10-28 13:20 story_convite",
-  "2026-10-28 13:22 story_oferta"
+  "2026-10-28 13:22 story_oferta",
+  "2026-10-28 14:08 story_oferta"
  ],
  "ig_ofertas_usadas": [
   "amz-B0GP7KDZRJ",
   "amz-B0HF1LQFDD",
   "amz-B0FDX5NC1G",
-  "amz-B086YK7M5Y"
+  "amz-B086YK7M5Y",
+  "amz-B07M79GTYK"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
@@ -277,79 +365,7 @@
   "2026-10-28": 6
  },
  "ultimo_pilar": "dica",
- "fila": [
-  {
-   "id": "amz-B0FPNXM7TF",
-   "canal": "tech",
-   "nome": "Caixa de Som JBL Go Essential 2 Bluetooth",
-   "preco_antigo": 219.0,
-   "preco": 147.6,
-   "desconto": 33,
-   "link": "https://www.amazon.com.br/dp/B0FPNXM7TF?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/71cWjfs8G3L._AC_SL1500_.jpg",
-   "loja": "Vendido por parceiro · entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-10-28T23:59:00-03:00",
-   "entrou": "2026-10-28T11:21:52.124329-03:00"
-  },
-  {
-   "id": "amz-B0G5BMM9SQ",
-   "canal": "marcas",
-   "nome": "Tênis ASICS GEL-Excite 11 Masculino",
-   "preco_antigo": 499.99,
-   "preco": 313.49,
-   "desconto": 37,
-   "link": "https://www.amazon.com.br/dp/B0G5BMM9SQ?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61N4H0a6wzL._AC_SL1200_.jpg",
-   "loja": "Vendido e entregue pela Netshoes (loja oficial na Amazon)",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-10-28T23:59:00-03:00",
-   "entrou": "2026-10-28T12:06:52.535622-03:00"
-  },
-  {
-   "id": "amz-B09KYCNZHM",
-   "canal": "marcas",
-   "nome": "Kit 3 Camisetas Básicas Masculinas Hering",
-   "preco_antigo": 159.99,
-   "preco": 94.9,
-   "desconto": 41,
-   "link": "https://www.amazon.com.br/dp/B09KYCNZHM?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/6129-PKPgPL._AC_SL1500_.jpg",
-   "loja": "Vendido por parceiro · entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-10-28T23:59:00-03:00",
-   "extra": "Sai R$ 31,63 cada",
-   "entrou": "2026-10-28T12:06:52.535622-03:00"
-  },
-  {
-   "id": "amz-B07GPRWFC5",
-   "canal": "tech",
-   "nome": "Mouse Gamer Sem Fio Logitech G305 LIGHTSPEED",
-   "preco_antigo": 299.9,
-   "preco": 189.99,
-   "desconto": 37,
-   "link": "https://www.amazon.com.br/dp/B07GPRWFC5?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51sg9BLSMTL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-10-28T23:59:00-03:00",
-   "entrou": "2026-10-28T12:06:52.535622-03:00"
-  },
-  {
-   "id": "amz-B087CT8PWY",
-   "canal": "tech",
-   "nome": "Mouse Gamer Logitech G203 LIGHTSYNC RGB",
-   "preco_antigo": 169.9,
-   "preco": 104.54,
-   "desconto": 38,
-   "link": "https://www.amazon.com.br/dp/B087CT8PWY?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61oE1NouXuL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-10-28T23:59:00-03:00",
-   "entrou": "2026-10-28T12:06:52.535622-03:00"
-  }
- ],
+ "fila": [],
  "menus_fixados": [
   "v1 @papagarimpou",
   "v1 @papagarimpoumarcas",
