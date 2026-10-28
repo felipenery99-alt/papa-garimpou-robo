@@ -13,7 +13,18 @@
   "amz-B0FDX5NC1G": "2026-10-28T11:36:10.480392-03:00",
   "amz-B086YK7M5Y": "2026-10-28T11:43:16.317631-03:00",
   "amz-B07M79GTYK": "2026-10-28T11:50:26.499948-03:00",
-  "amz-B0CCX78R2N": "2026-10-28T12:11:04.520934-03:00"
+  "amz-B0CCX78R2N": "2026-10-28T12:11:04.520934-03:00",
+  "amz-B0DHL63KWK": "2026-10-28T09:45:00-03:00",
+  "amz-B0BJ7KMJKR": "2026-10-28T09:45:00-03:00",
+  "amz-B0FP8T2RDC": "2026-10-28T09:45:00-03:00",
+  "amz-B0BTYDLTM3": "2026-10-28T09:45:00-03:00",
+  "amz-B0C6FT4QYV": "2026-10-28T09:45:00-03:00",
+  "amz-B0D98VK8PP": "2026-10-28T09:45:00-03:00",
+  "amz-B07KX4X8BW": "2026-10-28T09:45:00-03:00",
+  "amz-B002DYIZEE": "2026-10-28T09:45:00-03:00",
+  "amz-B0C159GHW1": "2026-10-28T09:45:00-03:00",
+  "amz-B0F7Y5MCGK": "2026-10-28T09:45:00-03:00",
+  "amz-B0GHS7QRB5": "2026-10-28T09:45:00-03:00"
  },
  "ofertas_dia": [
   {
@@ -227,34 +238,6 @@
    "entrou": "2026-10-28T12:06:52.535622-03:00"
   },
   {
-   "id": "amz-B0C6FT4QYV",
-   "canal": "achadinhos",
-   "nome": "Air Fryer Mondial Dual Duplo Cesto 8L 2200W (110V)",
-   "preco_antigo": 1499.9,
-   "preco": 599.0,
-   "desconto": 60,
-   "link": "https://www.amazon.com.br/dp/B0C6FT4QYV?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/81+27Tn2b+L._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-10-28T23:59:00-03:00",
-   "entrou": "2026-10-28T12:06:52.535622-03:00"
-  },
-  {
-   "id": "amz-B0D98VK8PP",
-   "canal": "achadinhos",
-   "nome": "Air Fryer Philips Walita Série 1000 XL 6,2L",
-   "preco_antigo": 549.9,
-   "preco": 348.0,
-   "desconto": 37,
-   "link": "https://www.amazon.com.br/dp/B0D98VK8PP?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/510Uj5C7LdL._AC_SL1334_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-10-28T23:59:00-03:00",
-   "entrou": "2026-10-28T12:06:52.535622-03:00"
-  },
-  {
    "id": "amz-B07VKQKHVK",
    "canal": "achadinhos",
    "nome": "Secador de Cabelo Taiff Black Ion 2000W 127V",
@@ -281,21 +264,6 @@
    "plataforma": "Amazon",
    "valida_ate": "2026-10-28T23:59:00-03:00",
    "extra": "Sai R$ 23,75 cada",
-   "entrou": "2026-10-28T12:06:52.535622-03:00"
-  },
-  {
-   "id": "amz-B002DYIZEE",
-   "canal": "marcas",
-   "nome": "Creatina Micronizada Optimum Nutrition 300g",
-   "preco_antigo": 135.0,
-   "preco": 84.55,
-   "desconto": 37,
-   "link": "https://www.amazon.com.br/dp/B002DYIZEE?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/712VrHndy5L._AC_SL1500_.jpg",
-   "loja": "Vendido por parceiro · entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-10-28T23:59:00-03:00",
-   "extra": "100 doses",
    "entrou": "2026-10-28T12:06:52.535622-03:00"
   },
   {

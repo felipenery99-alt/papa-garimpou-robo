@@ -226,15 +226,30 @@ def post_oferta(oferta: dict, canal: str) -> bytes:
     return _jpeg(img)
 
 
-def capa_top5() -> bytes:
-    tema = TEMAS["achadinhos"]
+# Capas do carrossel diário: cor e frase mudam a cada dia (dono, 28/10: "o feed tá ficando tudo igual")
+CAPAS_TOP = [
+    ("achadinhos", "TOP 5", "DO PAPA HOJE", "Só marca boa, com desconto de verdade"),
+    ("tech", "5 ACHADOS", "QUE VALEM O PIX", "Preço conferido na loja, nada inventado"),
+    ("marcas", "O PAPA", "SEPAROU 5", "Original, de loja confiável"),
+    ("vermelho", "ACHOU,", "POSTOU", "Os 5 descontos mais fortes do dia"),
+    ("achadinhos", "GARIMPO", "DO DIA", "5 coisas boas pagando menos"),
+    ("tech", "SEM", "CILADA", "5 ofertas de marca que o Papa aprovou"),
+    ("marcas", "5 MOTIVOS", "PRA ABRIR O PIX", "Achados de marca, preço de verdade"),
+]
+TEMAS["vermelho"] = {"fundo": ((255, 77, 94), (159, 18, 57)), "texto": (255, 255, 255), "destaque": (255, 255, 255),
+                     "destaque_txt": (159, 18, 57), "canal": "t.me/papagarimpouofertas"}
+
+
+def capa_top5(variante: int = 0) -> bytes:
+    nome_tema, l1, l2, sub = CAPAS_TOP[variante % len(CAPAS_TOP)]
+    tema = TEMAS[nome_tema]
     img = _gradiente(1080, 1350, *tema["fundo"]).convert("RGBA")
     d = ImageDraw.Draw(img)
     img.alpha_composite(_selo(440), (310, 140))
-    _centro(d, 660, "TOP 5", _fonte(170), tema["texto"])
-    _centro(d, 850, "DO PAPA HOJE", _fonte(96), tema["texto"])
-    _centro(d, 1010, "Só marca boa, com desconto de verdade", _fonte(46, "Bold"), (255, 255, 255))
-    _centro(d, 1160, "arrasta pro lado 👉".replace("👉", "→"), _fonte(56, "Bold"), tema["texto"])
+    _centro(d, 660, l1, _fonte(150 if len(l1) > 6 else 170), tema["texto"])
+    _centro(d, 850, l2, _fonte(90), tema["texto"])
+    _centro(d, 1010, sub, _fonte(46, "Bold"), (255, 255, 255) if nome_tema != "vermelho" else (255, 230, 150))
+    _centro(d, 1160, "arrasta pro lado →", _fonte(56, "Bold"), tema["texto"])
     return _jpeg(img)
 
 

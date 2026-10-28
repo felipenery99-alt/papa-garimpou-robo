@@ -250,7 +250,7 @@ def rodar_instagram(h: dict, agora: datetime) -> None:
             try:
                 por_id = {o["id"]: o for o in json.loads(MANUAIS.read_text(encoding="utf-8"))}
                 top = [por_id[i] for i in esp["ids"] if i in por_id]
-                slides = [artes.capa_top5()] + [artes.post_oferta(o, o["canal"]) for o in top]
+                slides = [artes.capa_top5(agora.timetuple().tm_yday)] + [artes.post_oferta(o, o["canal"]) for o in top]
                 instagram.carrossel(slides, f"{tag}-{esp['id']}", esp["legenda"])
                 print(f"[ig] carrossel especial {esp['id']} publicado")
             except Exception as e:
@@ -316,7 +316,7 @@ def rodar_instagram(h: dict, agora: datetime) -> None:
                     post_do_banco(h, agora, chave)   # sem ofertas: post do banco no lugar do carrossel
                     feitos.append(chave)
                     continue
-                slides = [artes.capa_top5()] + [artes.post_oferta(o, o["canal"]) for o in top]
+                slides = [artes.capa_top5(agora.timetuple().tm_yday)] + [artes.post_oferta(o, o["canal"]) for o in top]
                 lista = "\n".join(f"{i+1}. {o['nome'][:60]} — {post._brl(o['preco'])}" for i, o in enumerate(top))
                 instagram.carrossel(slides, f"{tag}-top5", "😎💎 TOP 5 do Papa hoje\n\n" + lista + LEGENDA_CTA)
             if tipo in ("post_achado", "carrossel_top5", "reels"):
