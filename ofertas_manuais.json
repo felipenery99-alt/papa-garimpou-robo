@@ -344,19 +344,6 @@
   "extra": "Preço pode variar conforme o tamanho"
  },
  {
-  "id": "amz-B0FP8T2RDC",
-  "canal": "tech",
-  "nome": "Fone Samsung Galaxy Buds Core sem fio com cancelamento de ruído",
-  "preco_antigo": 399.0,
-  "preco": 224.4,
-  "desconto": 44,
-  "link": "https://www.amazon.com.br/dp/B0FP8T2RDC?tag=papagarimpou-20",
-  "imagem": "https://m.media-amazon.com/images/I/31zLQOfTQ2L._AC_SL1000_.jpg",
-  "loja": "Vendido e entregue pela Amazon",
-  "plataforma": "Amazon",
-  "valida_ate": "2026-10-28T23:59:00-03:00"
- },
- {
   "id": "amz-B0GM1PSWPD",
   "canal": "tech",
   "nome": "Fone Bluetooth JBL Tune 530BT Over-Ear, até 76h de bateria",
