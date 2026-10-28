@@ -152,10 +152,14 @@ def ate_proxima_execucao(agora: datetime) -> datetime:
 def soltar_fila(h: dict, telegram, limite: datetime) -> int:
     """Posta uma oferta por vez, alternando os canais de nicho (cada uma também vai para o
     canal geral), com intervalo sorteado. O que sobrar fica na fila para a próxima execução."""
+    import os
     import random
     import time as _time
     erros = 0
     vez = 0
+    if h.get("fila") and not os.environ.get("PAPA_SEM_ATRASO"):
+        # 1º post não sai no minuto exato da execução (dono, 28/10: horários aleatórios)
+        _time.sleep(random.uniform(*config.ATRASO_INICIAL_MIN) * 60)
     while h.get("fila"):
         agora = datetime.now(FUSO)
         canais = [c for c in config.CANAIS if any(f["canal"] == c for f in h["fila"])]
@@ -187,7 +191,7 @@ def soltar_fila(h: dict, telegram, limite: datetime) -> int:
             erros += 1
             if erros >= 3:
                 return erros
-        espera = random.uniform(*config.INTERVALO_POSTS_MIN) * 60
+        espera = random.uniform(*config.intervalo_posts(datetime.now(FUSO).hour)) * 60
         if not h["fila"] or datetime.now(FUSO) + timedelta(seconds=espera) > limite:
             break
         _time.sleep(espera)

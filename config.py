@@ -47,6 +47,15 @@ JANELA_FIM = (22, 0)      # 22:00
 # põe as ofertas boas numa fila e solta UMA de cada vez, alternando os canais de nicho, até
 # perto da próxima execução. Cada nicho recebe ~1 a cada 15 min; o canal geral, ~1 a cada 7.
 INTERVALO_POSTS_MIN = (6, 8)   # minutos entre um post e o próximo (sorteado, alternando canais)
+# Meta do dono (28/10): 40–50 posts de manhã (8h–12h) e 50–60 à tarde/noite (12h–22h), em horários
+# irregulares para não parecer robô: faixas largas (média ~5,5 e ~11 min) e atraso aleatório no 1º post.
+INTERVALO_MANHA_MIN = (3, 8)
+INTERVALO_TARDE_MIN = (6, 16)
+ATRASO_INICIAL_MIN = (0.5, 4)
+
+
+def intervalo_posts(hora: int) -> tuple[float, float]:
+    return INTERVALO_MANHA_MIN if hora < 12 else INTERVALO_TARDE_MIN
 FILA_VALIDADE_H = 4            # oferta parada na fila há mais que isso sai (o preço pode ter mudado)
 # Horários das execuções do robo.yml em Brasília (para a fila parar antes da próxima)
 EXECUCOES = ["08:07", "08:52", "09:38", "10:24", "11:11", "11:56", "12:19", "12:47", "13:22", "14:08",
