@@ -106,6 +106,29 @@ def garimpar(canal: str, fonte, h: dict, agora: datetime, rodada: int = 0) -> di
     return todas[0] if todas else None
 
 
+MANUAIS = Path(__file__).parent / "ofertas_manuais.json"
+
+
+def carregar_manuais(h: dict, agora: datetime) -> list[dict]:
+    """Ofertas conferidas à mão (Amazon, Magalu, Awin): entram na fila enquanto não forem postadas
+    e não passarem da validade (`valida_ate`, ISO). Canal desconhecido é ignorado."""
+    if not MANUAIS.exists():
+        return []
+    try:
+        lista = json.loads(MANUAIS.read_text(encoding="utf-8"))
+    except Exception as e:
+        print(f"ofertas_manuais.json inválido: {e}")
+        return []
+    boas = []
+    for o in lista:
+        if o.get("canal") not in config.CANAIS or o["id"] in h.get("postados", {}):
+            continue
+        if o.get("valida_ate") and o["valida_ate"] < agora.isoformat():
+            continue
+        boas.append(o)
+    return boas
+
+
 def entrar_na_fila(h: dict, canal: str, ofertas: list[dict], agora: datetime) -> None:
     """Põe as ofertas novas na fila (sem duplicar) e tira as que ficaram velhas."""
     corte = (agora - timedelta(hours=config.FILA_VALIDADE_H)).isoformat()
@@ -455,15 +478,21 @@ def main() -> int:
         rodar_instagram(h, agora)
     except Exception as e:
         telegram.avisar_dono(f"Instagram: erro geral {e}")
-    if not (os.environ.get("SHOPEE_APP_ID") and os.environ.get("SHOPEE_SECRET") and os.environ.get("TELEGRAM_BOT_TOKEN")):
-        print("chaves da Shopee ainda não configuradas — Telegram em espera, nada postado")
+    if not os.environ.get("TELEGRAM_BOT_TOKEN"):
+        print("TELEGRAM_BOT_TOKEN ausente — nada postado")
         salvar_hist(h)
         gravar_relatorio(h, agora)
         return 0
     # Sem cota diária (dono, 27/10): toda oferta boa entra. Fila contínua (dono, 28/10): em vez de
     # despejar tudo de uma vez, solta uma oferta a cada poucos minutos até perto da próxima execução.
     erros = 0
+    # Ofertas garimpadas fora da Shopee (Amazon etc.), conferidas à mão e gravadas em ofertas_manuais.json
     for canal in config.CANAIS:
+        entrar_na_fila(h, canal, [o for o in carregar_manuais(h, agora) if o["canal"] == canal], agora)
+    shopee_ok = bool(os.environ.get("SHOPEE_APP_ID") and os.environ.get("SHOPEE_SECRET"))
+    if not shopee_ok:
+        print("chaves da Shopee ainda não configuradas — só ofertas manuais")
+    for canal in (config.CANAIS if shopee_ok else []):
         try:
             ofertas = garimpar_todas(canal, shopee.buscar, h, agora)
         except Exception as e:

@@ -26,7 +26,9 @@ def legenda(oferta: dict, canal: str) -> str:
         txt = f"+{v // 1000} mil" if v >= 1000 else f"+{v}"
         linhas.append(f"⭐ {oferta.get('nota', '')} · {txt} vendidos".replace(" ·  ", " "))
     linhas.append("")
-    if canal == "marcas" or oferta.get("loja_oficial"):
+    if oferta.get("loja"):   # ofertas manuais (Amazon etc.) trazem a linha da loja pronta
+        linhas.append(f"🏪 {oferta['loja']}")
+    elif canal == "marcas" or oferta.get("loja_oficial"):
         linhas.append(f"🏪 Loja oficial · {oferta.get('plataforma', 'Shopee')}")
     linhas.append(f"👉 {oferta['link']}")
     linhas += ["", "⏳ Preço pode mudar a qualquer momento", "#publi link de afiliado"]
