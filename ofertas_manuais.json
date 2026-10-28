@@ -514,5 +514,45 @@
   "loja": "Vendido e entregue pela Amazon",
   "plataforma": "Amazon",
   "valida_ate": "2026-10-28T23:59:00-03:00"
+ },
+ {
+  "id": "amz-B0C51C4ZTZ",
+  "canal": "achadinhos",
+  "nome": "Furadeira de Impacto Bosch GSB 13 RE 750W com maleta (127V)",
+  "preco_antigo": 882.0,
+  "preco": 396.23,
+  "desconto": 55,
+  "link": "https://www.amazon.com.br/dp/B0C51C4ZTZ?tag=papagarimpou-20",
+  "imagem": "https://m.media-amazon.com/images/I/61zfwVifj8L._AC_SL1000_.jpg",
+  "loja": "Vendido e entregue pela Amazon",
+  "plataforma": "Amazon",
+  "valida_ate": "2026-10-28T23:59:00-03:00",
+  "extra": "Versão 127V"
+ },
+ {
+  "id": "amz-B076JL87T3",
+  "canal": "achadinhos",
+  "nome": "Jogo de Panelas Tramontina Allegra Aço Inox Fundo Triplo 4 Peças",
+  "preco_antigo": 739.1,
+  "preco": 382.76,
+  "desconto": 48,
+  "link": "https://www.amazon.com.br/dp/B076JL87T3?tag=papagarimpou-20",
+  "imagem": "https://m.media-amazon.com/images/I/61iE107hC1L._AC_SL1500_.jpg",
+  "loja": "Vendido e entregue pela Amazon",
+  "plataforma": "Amazon",
+  "valida_ate": "2026-10-28T23:59:00-03:00"
+ },
+ {
+  "id": "amz-B0756KXRLB",
+  "canal": "achadinhos",
+  "nome": "Aspirador de Pó e Água WAP GTW Inox 12 Litros",
+  "preco_antigo": 599.9,
+  "preco": 313.81,
+  "desconto": 48,
+  "link": "https://www.amazon.com.br/dp/B0756KXRLB?tag=papagarimpou-20",
+  "imagem": "https://m.media-amazon.com/images/I/81vWLw7qFWL._AC_SL1500_.jpg",
+  "loja": "Vendido e entregue pela Amazon",
+  "plataforma": "Amazon",
+  "valida_ate": "2026-10-28T23:59:00-03:00"
  }
 ]
