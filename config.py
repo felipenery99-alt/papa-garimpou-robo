@@ -7,6 +7,8 @@
 CANAIS = {
     "achadinhos": "@papagarimpou",
     "marcas": "@papagarimpoumarcas",
+    # 28/10: canal de eletrônicos e games (Amazon e Magalu são fortes aqui). Regras de qualidade = achadinhos.
+    "tech": "@papagarimpoutech",
 }
 # Canal "tudo em um" (27/10): recebe uma cópia de toda oferta postada nos canais de nicho,
 # para quem quer tudo sem entrar em vários canais.
@@ -71,7 +73,7 @@ MARCAS_ACHADINHOS = [
     "panasonic", "intelbras", "tp-link", "kingston", "sandisk", "edifier", "havit",
     "rayovac", "duracell", "3m", "stanley", "vonder", "tefal", "rochedo", "oxford",
     "dove", "rexona", "colgate", "sensodyne", "wella", "elseve", "salon line", "eudora",
-    "taiff",
+    "taiff", "microsoft", "xbox", "playstation", "kindle", "echo dot", "amazon",
 ]
 
 MARCAS_MARCAS = [
@@ -107,16 +109,19 @@ BUSCAS = {
         "camiseta levis", "relógio garmin", "sunga speedo", "whey growth", "creatina max titanium",
         "pré treino integralmedica", "barra de proteína", "garrafa térmica stanley",
     ],
-    "achadinhos": [
-        "fone jbl", "air fryer mondial", "aspirador wap", "mouse logitech", "carregador anker",
-        "power bank baseus", "panela tramontina", "liquidificador oster", "ssd kingston",
-        "caixa de som jbl", "aparador philips", "secador taiff", "escova oral-b",
-        "kit ferramentas bosch", "smartwatch xiaomi", "cafeteira electrolux",
-        # lote 28/10
-        "fone samsung galaxy buds", "redmi buds", "caixa de som jbl go", "fone sony",
-        "teclado logitech", "headset logitech", "webcam logitech", "pendrive sandisk",
-        "cartão de memória sandisk", "roteador tp-link", "câmera intelbras", "carregador baseus",
+    "tech": [
+        "fone jbl", "mouse logitech", "carregador anker", "power bank baseus", "ssd kingston",
+        "caixa de som jbl", "smartwatch xiaomi", "fone samsung galaxy buds", "redmi buds",
+        "caixa de som jbl go", "fone sony", "teclado logitech", "headset logitech", "webcam logitech",
+        "pendrive sandisk", "cartão de memória sandisk", "roteador tp-link", "carregador baseus",
         "cabo usb c anker", "smart tv samsung", "monitor lg", "notebook lenovo",
+        "headset jbl quantum", "controle xbox", "controle playstation", "kindle", "echo dot",
+        "celular samsung galaxy", "celular motorola", "tablet samsung",
+    ],
+    "achadinhos": [
+        "air fryer mondial", "aspirador wap", "panela tramontina", "liquidificador oster",
+        "aparador philips", "secador taiff", "escova oral-b", "kit ferramentas bosch",
+        "cafeteira electrolux", "câmera intelbras",
         "furadeira bosch", "parafusadeira black decker", "jogo de panelas tramontina",
         "faqueiro tramontina", "batedeira mondial", "ventilador mondial", "sanduicheira britania",
         "chapinha taiff", "barbeador philips", "perfume boticário", "kit natura",

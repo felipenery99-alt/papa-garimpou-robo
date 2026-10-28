@@ -146,6 +146,7 @@ PALAVRAS_CHAVE = ("quero", "link", "eu", "manda", "eu quero")
 RESPOSTA_DM = ("Oi! Aqui é o Papa 😎💎\n\nAchou coisa boa de marca, em loja oficial, "
                "eu posto na hora, grátis no Telegram:\n\n🛒 Achadinhos: https://t.me/papagarimpou\n"
                "👕 Marcas e esporte: https://t.me/papagarimpoumarcas\n"
+               "📱 Eletrônicos e games: https://t.me/papagarimpoutech\n"
                "💎 Quer tudo num lugar só? https://t.me/papagarimpouofertas\n\nÉ só entrar e ativar as notificações!")
 
 

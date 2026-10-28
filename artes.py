@@ -9,6 +9,8 @@ from pathlib import Path
 import requests
 from PIL import Image, ImageDraw, ImageFont, ImageOps
 
+import config
+
 PASTA = Path(__file__).parent / "assets"
 FONTE = PASTA / "Baloo2.ttf"
 SELO = PASTA / "selo-papa.png"
@@ -18,6 +20,8 @@ TEMAS = {
                     "destaque_txt": (255, 255, 255), "canal": "t.me/papagarimpou"},
     "marcas": {"fundo": ((42, 42, 42), (0, 0, 0)), "texto": (245, 197, 66), "destaque": (245, 197, 66),
                "destaque_txt": (18, 18, 18), "canal": "t.me/papagarimpoumarcas"},
+    "tech": {"fundo": ((30, 27, 75), (8, 12, 32)), "texto": (125, 211, 252), "destaque": (125, 211, 252),
+             "destaque_txt": (8, 12, 32), "canal": "t.me/papagarimpoutech"},
 }
 
 
@@ -130,7 +134,7 @@ def story_oferta(oferta: dict, canal: str) -> bytes:
     w = d.textlength(por, font=f) + 80
     d.rounded_rectangle(((1080 - w) / 2, y, (1080 + w) / 2, y + 110), radius=55, fill=tema["destaque"])
     _centro(d, y + 8, por, f, tema["destaque_txt"])
-    arroba = "@papagarimpoumarcas" if canal == "marcas" else "@papagarimpou"
+    arroba = config.CANAIS.get(canal, "@papagarimpou")
     _centro(d, 1610, "Link no Telegram, grátis:", _fonte(44, "SemiBold"), tema["texto"])
     _centro(d, 1660, arroba, _fonte(58), tema["texto"])
     return _jpeg(img)
