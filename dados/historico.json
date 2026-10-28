@@ -4,14 +4,16 @@
   "2026-10-28 marcas 11:29 amz-B0HF1LQFDD",
   "2026-10-28 tech 11:36 amz-B0FDX5NC1G",
   "2026-10-28 achadinhos 11:43 amz-B086YK7M5Y",
-  "2026-10-28 marcas 11:50 amz-B07M79GTYK"
+  "2026-10-28 marcas 11:50 amz-B07M79GTYK",
+  "2026-10-28 achadinhos 12:11 amz-B0CCX78R2N"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
   "amz-B0HF1LQFDD": "2026-10-28T11:29:29.381892-03:00",
   "amz-B0FDX5NC1G": "2026-10-28T11:36:10.480392-03:00",
   "amz-B086YK7M5Y": "2026-10-28T11:43:16.317631-03:00",
-  "amz-B07M79GTYK": "2026-10-28T11:50:26.499948-03:00"
+  "amz-B07M79GTYK": "2026-10-28T11:50:26.499948-03:00",
+  "amz-B0CCX78R2N": "2026-10-28T12:11:04.520934-03:00"
  },
  "ofertas_dia": [
   {
@@ -89,6 +91,21 @@
    "extra": "20g de proteína por dose",
    "entrou": "2026-10-28T11:21:52.124329-03:00",
    "dia": "2026-10-28"
+  },
+  {
+   "id": "amz-B0CCX78R2N",
+   "canal": "achadinhos",
+   "nome": "Escova Elétrica Oral-B iO4 + 2 Refis + Carregador Bivolt",
+   "preco_antigo": 1015.14,
+   "preco": 319.99,
+   "desconto": 68,
+   "link": "https://www.amazon.com.br/dp/B0CCX78R2N?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61Z-ZzSqqpL._AC_SL1200_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-28T23:59:00-03:00",
+   "entrou": "2026-10-28T12:06:52.535622-03:00",
+   "dia": "2026-10-28"
   }
  ],
  "ig_feitos": [
@@ -101,9 +118,15 @@
   "2026-10-28 08:52 story_oferta",
   "2026-10-28 10:20 story_oferta",
   "2026-10-28 10:24 story_oferta",
-  "2026-10-28 11:11 story_oferta"
+  "2026-10-28 11:11 story_oferta",
+  "especial top5-20261028",
+  "2026-10-28 feed",
+  "2026-10-28 11:50 carrossel_top5",
+  "2026-10-28 11:56 story_oferta"
  ],
- "ig_ofertas_usadas": [],
+ "ig_ofertas_usadas": [
+  "amz-B0GP7KDZRJ"
+ ],
  "ig_giro": 2,
  "ig_comentarios": [],
  "ig_ultimo_reel": "2026-10-27T19:35:37.318438-03:00",
@@ -188,6 +211,149 @@
    "plataforma": "Amazon",
    "valida_ate": "2026-10-28T23:59:00-03:00",
    "entrou": "2026-10-28T11:21:52.124329-03:00"
+  },
+  {
+   "id": "amz-B07FFRJSJ4",
+   "canal": "achadinhos",
+   "nome": "Escova Elétrica Oral-B PRO Series 1",
+   "preco_antigo": 252.17,
+   "preco": 109.99,
+   "desconto": 56,
+   "link": "https://www.amazon.com.br/dp/B07FFRJSJ4?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61XWKdF5SzL._AC_SL1200_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-28T23:59:00-03:00",
+   "entrou": "2026-10-28T12:06:52.535622-03:00"
+  },
+  {
+   "id": "amz-B0C6FT4QYV",
+   "canal": "achadinhos",
+   "nome": "Air Fryer Mondial Dual Duplo Cesto 8L 2200W (110V)",
+   "preco_antigo": 1499.9,
+   "preco": 599.0,
+   "desconto": 60,
+   "link": "https://www.amazon.com.br/dp/B0C6FT4QYV?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/81+27Tn2b+L._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-28T23:59:00-03:00",
+   "entrou": "2026-10-28T12:06:52.535622-03:00"
+  },
+  {
+   "id": "amz-B0D98VK8PP",
+   "canal": "achadinhos",
+   "nome": "Air Fryer Philips Walita Série 1000 XL 6,2L",
+   "preco_antigo": 549.9,
+   "preco": 348.0,
+   "desconto": 37,
+   "link": "https://www.amazon.com.br/dp/B0D98VK8PP?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/510Uj5C7LdL._AC_SL1334_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-28T23:59:00-03:00",
+   "entrou": "2026-10-28T12:06:52.535622-03:00"
+  },
+  {
+   "id": "amz-B07VKQKHVK",
+   "canal": "achadinhos",
+   "nome": "Secador de Cabelo Taiff Black Ion 2000W 127V",
+   "preco_antigo": 394.9,
+   "preco": 196.36,
+   "desconto": 50,
+   "link": "https://www.amazon.com.br/dp/B07VKQKHVK?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/41kYKPmwdLL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-28T23:59:00-03:00",
+   "entrou": "2026-10-28T12:06:52.535622-03:00"
+  },
+  {
+   "id": "amz-B0H1FY5N9W",
+   "canal": "marcas",
+   "nome": "Kit 6 Cuecas Boxer Lupo Microfibra Sem Costura",
+   "preco_antigo": 257.99,
+   "preco": 142.49,
+   "desconto": 45,
+   "link": "https://www.amazon.com.br/dp/B0H1FY5N9W?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71rB2-l1JRL._AC_SL1500_.jpg",
+   "loja": "Vendido por parceiro · entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-28T23:59:00-03:00",
+   "extra": "Sai R$ 23,75 cada",
+   "entrou": "2026-10-28T12:06:52.535622-03:00"
+  },
+  {
+   "id": "amz-B002DYIZEE",
+   "canal": "marcas",
+   "nome": "Creatina Micronizada Optimum Nutrition 300g",
+   "preco_antigo": 135.0,
+   "preco": 84.55,
+   "desconto": 37,
+   "link": "https://www.amazon.com.br/dp/B002DYIZEE?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/712VrHndy5L._AC_SL1500_.jpg",
+   "loja": "Vendido por parceiro · entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-28T23:59:00-03:00",
+   "extra": "100 doses",
+   "entrou": "2026-10-28T12:06:52.535622-03:00"
+  },
+  {
+   "id": "amz-B0G5BMM9SQ",
+   "canal": "marcas",
+   "nome": "Tênis ASICS GEL-Excite 11 Masculino",
+   "preco_antigo": 499.99,
+   "preco": 313.49,
+   "desconto": 37,
+   "link": "https://www.amazon.com.br/dp/B0G5BMM9SQ?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61N4H0a6wzL._AC_SL1200_.jpg",
+   "loja": "Vendido e entregue pela Netshoes (loja oficial na Amazon)",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-28T23:59:00-03:00",
+   "entrou": "2026-10-28T12:06:52.535622-03:00"
+  },
+  {
+   "id": "amz-B09KYCNZHM",
+   "canal": "marcas",
+   "nome": "Kit 3 Camisetas Básicas Masculinas Hering",
+   "preco_antigo": 159.99,
+   "preco": 94.9,
+   "desconto": 41,
+   "link": "https://www.amazon.com.br/dp/B09KYCNZHM?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/6129-PKPgPL._AC_SL1500_.jpg",
+   "loja": "Vendido por parceiro · entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-28T23:59:00-03:00",
+   "extra": "Sai R$ 31,63 cada",
+   "entrou": "2026-10-28T12:06:52.535622-03:00"
+  },
+  {
+   "id": "amz-B07GPRWFC5",
+   "canal": "tech",
+   "nome": "Mouse Gamer Sem Fio Logitech G305 LIGHTSPEED",
+   "preco_antigo": 299.9,
+   "preco": 189.99,
+   "desconto": 37,
+   "link": "https://www.amazon.com.br/dp/B07GPRWFC5?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51sg9BLSMTL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-28T23:59:00-03:00",
+   "entrou": "2026-10-28T12:06:52.535622-03:00"
+  },
+  {
+   "id": "amz-B087CT8PWY",
+   "canal": "tech",
+   "nome": "Mouse Gamer Logitech G203 LIGHTSYNC RGB",
+   "preco_antigo": 169.9,
+   "preco": 104.54,
+   "desconto": 38,
+   "link": "https://www.amazon.com.br/dp/B087CT8PWY?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61oE1NouXuL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-28T23:59:00-03:00",
+   "entrou": "2026-10-28T12:06:52.535622-03:00"
   }
  ]
 }
