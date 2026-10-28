@@ -21,8 +21,7 @@
   "2026-10-28 achadinhos 15:28 amz-B0777VGVXD",
   "2026-10-28 achadinhos 15:40 amz-B0D98VWP2V",
   "2026-10-28 achadinhos 15:46 amz-B0DJPJM5ZF",
-  "2026-10-28 achadinhos 16:27 amz-B07CTN7X2Y",
-  "2026-10-28 tech 16:37 amz-B0GM1PSWPD"
+  "2026-10-28 achadinhos 16:40 amz-B07CTN7X2Y"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -57,8 +56,7 @@
   "amz-B0777VGVXD": "2026-10-28T15:28:25.203278-03:00",
   "amz-B0D98VWP2V": "2026-10-28T15:40:06.938103-03:00",
   "amz-B0DJPJM5ZF": "2026-10-28T15:46:46.993455-03:00",
-  "amz-B07CTN7X2Y": "2026-10-28T16:27:16.978625-03:00",
-  "amz-B0GM1PSWPD": "2026-10-28T16:37:16.264251-03:00"
+  "amz-B07CTN7X2Y": "2026-10-28T16:40:23.262486-03:00"
  },
  "ofertas_dia": [
   {
@@ -394,21 +392,6 @@
    "valida_ate": "2026-10-28T23:59:00-03:00",
    "entrou": "2026-10-28T15:13:44.964870-03:00",
    "dia": "2026-10-28"
-  },
-  {
-   "id": "amz-B0GM1PSWPD",
-   "canal": "tech",
-   "nome": "Fone Bluetooth JBL Tune 530BT Over-Ear, até 76h de bateria",
-   "preco_antigo": 299.0,
-   "preco": 180.39,
-   "desconto": 40,
-   "link": "https://www.amazon.com.br/dp/B0GM1PSWPD?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61rGUHFQFiL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-10-28T23:59:00-03:00",
-   "entrou": "2026-10-28T16:24:52.094865-03:00",
-   "dia": "2026-10-28"
   }
  ],
  "ig_feitos": [
@@ -488,7 +471,7 @@
    "plataforma": "Amazon",
    "valida_ate": "2026-10-28T23:59:00-03:00",
    "extra": "Preço pode variar conforme o tamanho",
-   "entrou": "2026-10-28T16:24:52.094865-03:00"
+   "entrou": "2026-10-28T16:37:42.853528-03:00"
   },
   {
    "id": "amz-B0H5XX1XFG",
@@ -503,7 +486,21 @@
    "plataforma": "Amazon",
    "valida_ate": "2026-10-28T23:59:00-03:00",
    "extra": "Preço pode variar conforme o tamanho",
-   "entrou": "2026-10-28T16:24:52.094865-03:00"
+   "entrou": "2026-10-28T16:37:42.853528-03:00"
+  },
+  {
+   "id": "amz-B0GM1PSWPD",
+   "canal": "tech",
+   "nome": "Fone Bluetooth JBL Tune 530BT Over-Ear, até 76h de bateria",
+   "preco_antigo": 299.0,
+   "preco": 180.39,
+   "desconto": 40,
+   "link": "https://www.amazon.com.br/dp/B0GM1PSWPD?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61rGUHFQFiL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-28T23:59:00-03:00",
+   "entrou": "2026-10-28T16:37:42.853528-03:00"
   },
   {
    "id": "amz-B0CRTR3PMF",
@@ -517,7 +514,7 @@
    "loja": "Loja oficial AnkerDirect BR",
    "plataforma": "Amazon",
    "valida_ate": "2026-10-28T23:59:00-03:00",
-   "entrou": "2026-10-28T16:24:52.094865-03:00"
+   "entrou": "2026-10-28T16:37:42.853528-03:00"
   }
  ],
  "menus_fixados": [
