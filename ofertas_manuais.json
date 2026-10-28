@@ -462,5 +462,57 @@
   "loja": "Vendido por parceiro · entregue pela Amazon",
   "plataforma": "Amazon",
   "valida_ate": "2026-10-28T23:59:00-03:00"
+ },
+ {
+  "id": "amz-B0D8DPT7ZY",
+  "canal": "tech",
+  "nome": "Monitor Gamer LG UltraGear 24\" IPS Full HD 180Hz 1ms",
+  "preco_antigo": 1199.0,
+  "preco": 718.15,
+  "desconto": 40,
+  "link": "https://www.amazon.com.br/dp/B0D8DPT7ZY?tag=papagarimpou-20",
+  "imagem": "https://m.media-amazon.com/images/I/61aIuJu0M0L._AC_SL1000_.jpg",
+  "loja": "Vendido por parceiro · entregue pela Amazon",
+  "plataforma": "Amazon",
+  "valida_ate": "2026-10-28T23:59:00-03:00"
+ },
+ {
+  "id": "amz-B0CVCF2J9Q",
+  "canal": "tech",
+  "nome": "Smartwatch Samsung Galaxy Fit3 Tela 1,6\" Rosé",
+  "preco_antigo": 549.0,
+  "preco": 185.25,
+  "desconto": 66,
+  "link": "https://www.amazon.com.br/dp/B0CVCF2J9Q?tag=papagarimpou-20",
+  "imagem": "https://m.media-amazon.com/images/I/61q0Aiz1nXL._AC_SL1500_.jpg",
+  "loja": "Vendido por parceiro · entregue pela Amazon",
+  "plataforma": "Amazon",
+  "valida_ate": "2026-10-28T23:59:00-03:00"
+ },
+ {
+  "id": "amz-B0BXM3QFLV",
+  "canal": "tech",
+  "nome": "Teclado Mecânico Gamer Logitech G413 SE ABNT2",
+  "preco_antigo": 599.9,
+  "preco": 397.35,
+  "desconto": 34,
+  "link": "https://www.amazon.com.br/dp/B0BXM3QFLV?tag=papagarimpou-20",
+  "imagem": "https://m.media-amazon.com/images/I/61uHFEQiOcL._AC_SL1500_.jpg",
+  "loja": "Vendido e entregue pela Amazon",
+  "plataforma": "Amazon",
+  "valida_ate": "2026-10-28T23:59:00-03:00"
+ },
+ {
+  "id": "amz-B07JM7DR7K",
+  "canal": "tech",
+  "nome": "Mouse Gamer Logitech G502 HERO RGB LIGHTSYNC",
+  "preco_antigo": 399.9,
+  "preco": 257.43,
+  "desconto": 36,
+  "link": "https://www.amazon.com.br/dp/B07JM7DR7K?tag=papagarimpou-20",
+  "imagem": "https://m.media-amazon.com/images/I/61drBproFZL._AC_SL1500_.jpg",
+  "loja": "Vendido e entregue pela Amazon",
+  "plataforma": "Amazon",
+  "valida_ate": "2026-10-28T23:59:00-03:00"
  }
 ]
