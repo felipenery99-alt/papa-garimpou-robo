@@ -32,8 +32,8 @@ Ponto de partida: 3 seguidores no Instagram em 28/10. Metas de **seguidores do @
 Em toda revisão: compare o número do dia (`relatorio.json`) com a meta da semana e escreva em `decisoes.md` "META: X de Y (no ritmo / atrasado)". Se estiver atrasado, a decisão do dia **tem** que ser uma alavanca de crescimento nova (não só manutenção). Se bater antes do prazo, suba a próxima meta em 30%.
 
 ## Instagram cheio e sem repetir
-O dono quer o Instagram cheio de posts e stories, mas **nunca repetido**. Sem ofertas, o robô usa o banco `conteudo.py` (peças com temas, cores e formatos diferentes: anticilada, dica, humor, mito ou verdade, bastidor, conversa, contagem da Black Friday). Gasta ~6 peças por dia e não repete uma peça em 14 dias.
-- **Toda semana (domingo) acrescente pelo menos 15 peças novas** em `conteudo.py` (ids novos, nunca reaproveitar), equilibrando os pilares. Use os comentários e o que funcionou no relatório como fonte. Nada de dado inventado ou urgência falsa.
+O dono quer o Instagram cheio de posts e stories, mas **nunca repetido**. Sem ofertas, o robô usa o banco `conteudo.py` (peças com temas, cores e formatos diferentes: anticilada, dica, humor, mito ou verdade, bastidor, conversa, contagem da Black Friday). Sem oferta, gasta ~24 stories por dia (dono, 28/10: o concorrente posta 20+): peça de story volta só depois de 4 dias, post de feed depois de 14.
+- **Toda semana (domingo) acrescente pelo menos 30 peças novas** em `conteudo.py` (ids novos, nunca reaproveitar), equilibrando os pilares. Use os comentários e o que funcionou no relatório como fonte. Nada de dado inventado ou urgência falsa.
 - Se aparecer `pecas_usadas` cobrindo quase o banco todo, a prioridade do dia é repor peças.
 - Reels só com ofertas do dia (decisão de 27/10). O painel de 3 posts (`--mosaico`) pode ser refeito com outro texto em datas fortes (Black Friday, Natal).
 

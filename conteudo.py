@@ -9,7 +9,8 @@ from datetime import date, timedelta
 
 BLACK_FRIDAY = date(2026, 11, 27)
 NAO_REPETIR_DIAS = 14
-PECAS_STORY_DIA = 4   # sem oferta, no máximo 3 stories do banco por dia (o vigia garante o piso)
+PECAS_STORY_DIA = 24  # dono, 28/10: o concorrente posta 20+ stories/dia → sem oferta, o banco cobre todos os horários
+NAO_REPETIR_STORY_DIAS = 4   # story some em 24 h: a mesma peça pode voltar como story depois de 4 dias (feed segue 14)
 
 PECAS = [
     # --- Anti-cilada: o Papa protege o bolso -----------------------------------------
@@ -276,7 +277,7 @@ def black_friday(hoje: date) -> dict | None:
 def escolher(h: dict, hoje: date, n: int = 1, para_story: bool = True) -> list[dict]:
     """Escolhe n peças não usadas nos últimos NAO_REPETIR_DIAS, alternando pilares."""
     usadas = h.setdefault("pecas_usadas", {})
-    limite = (hoje - timedelta(days=NAO_REPETIR_DIAS)).isoformat()
+    limite = (hoje - timedelta(days=NAO_REPETIR_STORY_DIAS if para_story else NAO_REPETIR_DIAS)).isoformat()
     candidatas = []
     bf = black_friday(hoje)
     if bf and bf["id"] not in usadas:

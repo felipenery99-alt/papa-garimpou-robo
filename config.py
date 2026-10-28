@@ -19,7 +19,7 @@ INSTAGRAM_PERMITIDO = "papa.garimpou"
 
 # Agenda diária do Instagram (horário de Brasília, "HH:MM", tipo). Cada tarefa roda na
 # primeira execução do robô depois do horário (até 50 min). Escolhidos logo antes das
-# execuções do robo.yml. Total: 8 stories (2 deles com os 4 melhores achados) + 1 Reels + 2 posts por dia.
+# execuções do robo.yml. Total: ~25 stories (2 deles com os 4 melhores achados) + Reels (só com ofertas) + 2 posts por dia.
 STORIES_MINIMOS = 3   # o robô nunca deixa menos de 3 stories no ar (regra do dono)
 INSTAGRAM_AGENDA = [
     ("08:45", "story_oferta"), ("10:20", "story_oferta"), ("11:50", "carrossel_top5"),
@@ -27,6 +27,12 @@ INSTAGRAM_AGENDA = [
     ("18:05", "story_oferta"), ("19:15", "post_achado"), ("20:35", "story_top4"),
     ("21:20", "story_oferta"),
 ]
+
+# Dono, 28/10: "o Will posta 20 stories por dia pelo menos". Além da agenda acima, cada
+# execução do robo.yml publica 1 story (oferta do dia; sem oferta, peça do banco) → ~25/dia.
+INSTAGRAM_AGENDA += [(hm, "story_oferta") for hm in [
+    "08:07", "08:52", "09:38", "10:24", "11:11", "11:56", "12:19", "12:47", "13:22", "14:08",
+    "15:03", "15:51", "16:44", "17:36", "18:09", "18:42", "19:17", "20:03", "20:38", "21:24"]]
 
 # ---------------------------------------------------------------------------
 # RITMO
