@@ -5,7 +5,8 @@
  "ig_feitos": [
   "2026-10-27 feed",
   "2026-10-27 19:15 post_achado",
-  "2026-10-27 20:35 story_top4"
+  "2026-10-27 20:35 story_top4",
+  "2026-10-27 21:20 story_oferta"
  ],
  "ig_ofertas_usadas": [],
  "ig_giro": 2,
@@ -23,10 +24,11 @@
   "mv-bf-barato": "2026-10-27",
   "hu-carrinho": "2026-10-27",
   "bs-telegram": "2026-10-27",
-  "ac-avaliacao-foto": "2026-10-27"
+  "ac-avaliacao-foto": "2026-10-27",
+  "dc-lista": "2026-10-27"
  },
  "pecas_dia": {
-  "2026-10-27": 1
+  "2026-10-27": 2
  },
- "ultimo_pilar": "anticilada"
+ "ultimo_pilar": "dica"
 }

@@ -1,29 +1,31 @@
 {
  "2026-10-27": {
   "erros": [],
-  "ultima_execucao": "20:57",
-  "execucoes": 3,
+  "ultima_execucao": "21:28",
+  "execucoes": 4,
   "telegram_posts": {
    "achadinhos": 0,
    "marcas": 0
   },
   "telegram_membros": {
    "achadinhos": 2,
-   "marcas": 2
+   "marcas": 2,
+   "geral": 2
   },
   "instagram_feito": [
    "feed",
    "19:15 post_achado",
-   "20:35 story_top4"
+   "20:35 story_top4",
+   "21:20 story_oferta"
   ],
   "shopee_ligada": false,
   "instagram": {
-   "seguidores": 2,
+   "seguidores": 3,
    "posts": 5,
-   "reach": 2,
-   "profile_views": 16,
+   "reach": 3,
+   "profile_views": 18,
    "website_clicks": 2,
-   "stories_ativos": 15
+   "stories_ativos": 16
   }
  }
 }
