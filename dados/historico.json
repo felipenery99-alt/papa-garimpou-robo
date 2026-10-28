@@ -6,7 +6,8 @@
   "2026-10-27 feed",
   "2026-10-27 19:15 post_achado",
   "2026-10-27 20:35 story_top4",
-  "2026-10-27 21:20 story_oferta"
+  "2026-10-27 21:20 story_oferta",
+  "2026-10-28 08:07 story_oferta"
  ],
  "ig_ofertas_usadas": [],
  "ig_giro": 2,
@@ -25,10 +26,11 @@
   "hu-carrinho": "2026-10-27",
   "bs-telegram": "2026-10-27",
   "ac-avaliacao-foto": "2026-10-27",
-  "dc-lista": "2026-10-27"
+  "dc-lista": "2026-10-27",
+  "ac-frete": "2026-10-28"
  },
  "pecas_dia": {
-  "2026-10-27": 2
+  "2026-10-28": 1
  },
- "ultimo_pilar": "dica"
+ "ultimo_pilar": "anticilada"
 }
