@@ -242,6 +242,20 @@ def rodar_instagram(h: dict, agora: datetime) -> None:
     feitos = h.setdefault("ig_feitos", [])
     usadas = h.setdefault("ig_ofertas_usadas", [])
     ofertas = [o for o in h.get("ofertas_dia", []) if o.get("dia") == hoje and o["id"] not in usadas]
+    # Carrossel especial escolhido à mão (ex.: post para impulsionar): sai uma vez, na primeira execução
+    esp_arq = Path(__file__).parent / "instagram_especial.json"
+    if esp_arq.exists():
+        esp = json.loads(esp_arq.read_text(encoding="utf-8"))
+        if f"especial {esp['id']}" not in feitos:
+            try:
+                por_id = {o["id"]: o for o in json.loads(MANUAIS.read_text(encoding="utf-8"))}
+                top = [por_id[i] for i in esp["ids"] if i in por_id]
+                slides = [artes.capa_top5()] + [artes.post_oferta(o, o["canal"]) for o in top]
+                instagram.carrossel(slides, f"{tag}-{esp['id']}", esp["legenda"])
+                print(f"[ig] carrossel especial {esp['id']} publicado")
+            except Exception as e:
+                telegram.avisar_dono(f"Instagram: carrossel especial {esp['id']} falhou: {e}")
+            feitos.append(f"especial {esp['id']}")
     for hora, tipo in config.INSTAGRAM_AGENDA:
         chave = f"{hoje} {hora} {tipo}"
         hh, mm = map(int, hora.split(":"))
