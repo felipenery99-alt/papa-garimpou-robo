@@ -30,12 +30,12 @@
  },
  "2026-10-28": {
   "erros": [],
-  "ultima_execucao": "18:36",
-  "execucoes": 16,
+  "ultima_execucao": "18:52",
+  "execucoes": 17,
   "telegram_posts": {
    "achadinhos": 13,
-   "marcas": 8,
-   "tech": 8
+   "marcas": 10,
+   "tech": 9
   },
   "telegram_membros": {
    "achadinhos": 2,
@@ -67,14 +67,15 @@
    "17:30 reels",
    "18:05 story_oferta",
    "17:36 story_oferta",
-   "18:09 story_oferta"
+   "18:09 story_oferta",
+   "18:42 story_oferta"
   ],
   "shopee_ligada": false,
   "instagram": {
-   "seguidores": 13,
+   "seguidores": 14,
    "posts": 7,
    "reach": 16,
-   "profile_views": 43,
+   "profile_views": 44,
    "website_clicks": 2,
    "stories_ativos": 25
   }
