@@ -116,5 +116,71 @@
   "loja": "Vendido por parceiro · entregue pela Amazon",
   "plataforma": "Amazon",
   "valida_ate": "2026-10-28T23:59:00-03:00"
+ },
+ {
+  "id": "amz-B0CCX78R2N",
+  "canal": "achadinhos",
+  "nome": "Escova Elétrica Oral-B iO4 + 2 Refis + Carregador Bivolt",
+  "preco_antigo": 1015.14,
+  "preco": 319.99,
+  "desconto": 68,
+  "link": "https://www.amazon.com.br/dp/B0CCX78R2N?tag=papagarimpou-20",
+  "imagem": "https://m.media-amazon.com/images/I/61Z-ZzSqqpL._AC_SL1200_.jpg",
+  "loja": "Vendido e entregue pela Amazon",
+  "plataforma": "Amazon",
+  "valida_ate": "2026-10-28T23:59:00-03:00"
+ },
+ {
+  "id": "amz-B07GPRWFC5",
+  "canal": "tech",
+  "nome": "Mouse Gamer Sem Fio Logitech G305 LIGHTSPEED",
+  "preco_antigo": 299.9,
+  "preco": 189.99,
+  "desconto": 37,
+  "link": "https://www.amazon.com.br/dp/B07GPRWFC5?tag=papagarimpou-20",
+  "imagem": "https://m.media-amazon.com/images/I/51sg9BLSMTL._AC_SL1500_.jpg",
+  "loja": "Vendido e entregue pela Amazon",
+  "plataforma": "Amazon",
+  "valida_ate": "2026-10-28T23:59:00-03:00"
+ },
+ {
+  "id": "amz-B0H1FY5N9W",
+  "canal": "marcas",
+  "nome": "Kit 6 Cuecas Boxer Lupo Microfibra Sem Costura",
+  "preco_antigo": 257.99,
+  "preco": 142.49,
+  "desconto": 45,
+  "link": "https://www.amazon.com.br/dp/B0H1FY5N9W?tag=papagarimpou-20",
+  "imagem": "https://m.media-amazon.com/images/I/71rB2-l1JRL._AC_SL1500_.jpg",
+  "loja": "Vendido por parceiro · entregue pela Amazon",
+  "plataforma": "Amazon",
+  "valida_ate": "2026-10-28T23:59:00-03:00",
+  "extra": "Sai R$ 23,75 cada"
+ },
+ {
+  "id": "amz-B07FFRJSJ4",
+  "canal": "achadinhos",
+  "nome": "Escova Elétrica Oral-B PRO Series 1",
+  "preco_antigo": 252.17,
+  "preco": 109.99,
+  "desconto": 56,
+  "link": "https://www.amazon.com.br/dp/B07FFRJSJ4?tag=papagarimpou-20",
+  "imagem": "https://m.media-amazon.com/images/I/61XWKdF5SzL._AC_SL1200_.jpg",
+  "loja": "Vendido e entregue pela Amazon",
+  "plataforma": "Amazon",
+  "valida_ate": "2026-10-28T23:59:00-03:00"
+ },
+ {
+  "id": "amz-B087CT8PWY",
+  "canal": "tech",
+  "nome": "Mouse Gamer Logitech G203 LIGHTSYNC RGB",
+  "preco_antigo": 169.9,
+  "preco": 104.54,
+  "desconto": 38,
+  "link": "https://www.amazon.com.br/dp/B087CT8PWY?tag=papagarimpou-20",
+  "imagem": "https://m.media-amazon.com/images/I/61oE1NouXuL._AC_SL1500_.jpg",
+  "loja": "Vendido e entregue pela Amazon",
+  "plataforma": "Amazon",
+  "valida_ate": "2026-10-28T23:59:00-03:00"
  }
 ]
