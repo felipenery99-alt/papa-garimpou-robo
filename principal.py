@@ -108,6 +108,30 @@ def garimpar(canal: str, fonte, h: dict, agora: datetime, rodada: int = 0) -> di
 
 MANUAIS = Path(__file__).parent / "ofertas_manuais.json"
 
+# Menu fixado com botões para os outros canais (dono, 28/10). Mudar a versão faz o robô postar de novo.
+MENU_VERSAO = "v1"
+MENU_CANAIS = [
+    ("🛒 Achadinhos: casa, cozinha, beleza", "https://t.me/papagarimpou"),
+    ("👕 Marcas: roupa, tênis e esporte", "https://t.me/papagarimpoumarcas"),
+    ("📱 Tech: eletrônicos e games", "https://t.me/papagarimpoutech"),
+    ("💎 Todas as ofertas num lugar só", "https://t.me/papagarimpouofertas"),
+]
+
+
+def publicar_menus(h: dict, telegram) -> None:
+    feitos = h.setdefault("menus_fixados", [])
+    for destino in [*config.CANAIS.values(), config.GERAL]:
+        chave = f"{MENU_VERSAO} {destino}"
+        if chave in feitos:
+            continue
+        outros = [(t, u) for t, u in MENU_CANAIS if not u.endswith("/" + destino.lstrip("@"))]
+        try:
+            telegram.postar_menu_fixado(destino, "💎 Os canais do Papa: toque e entre (é grátis) 👇", outros)
+            feitos.append(chave)
+            salvar_hist(h)
+        except Exception as e:
+            telegram.avisar_dono(f"menu fixado em {destino} falhou: {e}")
+
 
 def carregar_manuais(h: dict, agora: datetime) -> list[dict]:
     """Ofertas conferidas à mão (Amazon, Magalu, Awin): entram na fila enquanto não forem postadas
@@ -504,6 +528,7 @@ def main() -> int:
     # Sem cota diária (dono, 27/10): toda oferta boa entra. Fila contínua (dono, 28/10): em vez de
     # despejar tudo de uma vez, solta uma oferta a cada poucos minutos até perto da próxima execução.
     erros = 0
+    publicar_menus(h, telegram)
     # Ofertas garimpadas fora da Shopee (Amazon etc.), conferidas à mão e gravadas em ofertas_manuais.json
     for canal in config.CANAIS:
         entrar_na_fila(h, canal, [o for o in carregar_manuais(h, agora) if o["canal"] == canal], agora)

@@ -34,6 +34,22 @@ def postar_foto(destino: str, foto: bytes, legenda: str) -> dict:
     return dados["result"]
 
 
+def postar_menu_fixado(destino: str, texto: str, botoes: list[tuple[str, str]]) -> dict:
+    """Mensagem com botões (um por linha) que levam aos outros canais, fixada no topo sem notificar."""
+    if destino not in config.DESTINOS_PERMITIDOS:
+        raise DestinoProibido(f"destino recusado: {destino}")
+    teclado = {"inline_keyboard": [[{"text": t, "url": u}] for t, u in botoes]}
+    r = requests.post(API.format(token=_token(), metodo="sendMessage"),
+                      json={"chat_id": destino, "text": texto, "reply_markup": teclado,
+                            "disable_web_page_preview": True, "disable_notification": True}, timeout=30).json()
+    if not r.get("ok"):
+        raise RuntimeError(f"Telegram recusou o menu: {r}")
+    msg = r["result"]
+    requests.post(API.format(token=_token(), metodo="pinChatMessage"),
+                  json={"chat_id": destino, "message_id": msg["message_id"], "disable_notification": True}, timeout=30)
+    return msg
+
+
 ERROS: list[str] = []   # vai para o relatório diário (lido pelo CEO na nuvem)
 
 
