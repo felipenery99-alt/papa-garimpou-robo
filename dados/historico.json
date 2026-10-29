@@ -104,7 +104,10 @@
   "2026-10-29 marcas 18:37 amz-B0G67DQWZ4",
   "2026-10-29 marcas 18:45 amz-B0FR5D4ZYY",
   "2026-10-29 tech 18:59 amz-B0D9KJHRXN",
-  "2026-10-29 tech 19:12 amz-B0DWQNS8TN"
+  "2026-10-29 tech 19:12 amz-B0DWQNS8TN",
+  "2026-10-29 achadinhos 19:30 amz-B0DKY6272P",
+  "2026-10-29 tech 19:44 amz-B0HCCL1361",
+  "2026-10-29 marcas 19:50 amz-B0CZPSD2SC"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -222,7 +225,10 @@
   "amz-B0G67DQWZ4": "2026-10-29T18:37:46.039340-03:00",
   "amz-B0FR5D4ZYY": "2026-10-29T18:45:17.446468-03:00",
   "amz-B0D9KJHRXN": "2026-10-29T18:59:53.869322-03:00",
-  "amz-B0DWQNS8TN": "2026-10-29T19:12:37.200146-03:00"
+  "amz-B0DWQNS8TN": "2026-10-29T19:12:37.200146-03:00",
+  "amz-B0DKY6272P": "2026-10-29T19:30:23.669210-03:00",
+  "amz-B0HCCL1361": "2026-10-29T19:44:07.165193-03:00",
+  "amz-B0CZPSD2SC": "2026-10-29T19:50:53.729403-03:00"
  },
  "ofertas_dia": [
   {
@@ -1826,6 +1832,52 @@
    "valida_ate": "2026-10-29T23:59:00-03:00",
    "entrou": "2026-10-29T16:55:03.157773-03:00",
    "dia": "2026-10-29"
+  },
+  {
+   "id": "amz-B0DKY6272P",
+   "canal": "achadinhos",
+   "nome": "Air Fryer Oster DiamondTech 6 L com visor (220V)",
+   "preco_antigo": 999.0,
+   "preco": 408.49,
+   "desconto": 59,
+   "link": "https://www.amazon.com.br/dp/B0DKY6272P?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71JwNXJDbrL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-29T23:59:00-03:00",
+   "extra": "Voltagem 220V",
+   "entrou": "2026-10-29T19:27:34.853409-03:00",
+   "dia": "2026-10-29"
+  },
+  {
+   "id": "amz-B0HCCL1361",
+   "canal": "tech",
+   "nome": "NBA 2K27 - PlayStation 5 (mídia física)",
+   "preco_antigo": 349.9,
+   "preco": 232.44,
+   "desconto": 34,
+   "link": "https://www.amazon.com.br/dp/B0HCCL1361?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71c7E7u9KsL._AC_SL1020_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-29T23:59:00-03:00",
+   "entrou": "2026-10-29T18:15:14.697318-03:00",
+   "dia": "2026-10-29"
+  },
+  {
+   "id": "amz-B0CZPSD2SC",
+   "canal": "marcas",
+   "nome": "Garrafa Térmica Stanley Aerolight Transit 591 ml",
+   "preco_antigo": 259.0,
+   "preco": 165.9,
+   "desconto": 36,
+   "link": "https://www.amazon.com.br/dp/B0CZPSD2SC?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/412PpJ67YsL._AC_SL1200_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-29T23:59:00-03:00",
+   "entrou": "2026-10-29T19:27:34.853409-03:00",
+   "dia": "2026-10-29"
   }
  ],
  "ig_feitos": [
@@ -1892,7 +1944,9 @@
   "2026-10-29 17:36 story_oferta",
   "2026-10-29 18:05 story_oferta",
   "2026-10-29 18:09 story_oferta",
-  "2026-10-29 18:42 story_oferta"
+  "2026-10-29 18:42 story_oferta",
+  "2026-10-29 19:15 post_achado",
+  "2026-10-29 19:17 story_oferta"
  ],
  "ig_ofertas_usadas": [
   "amz-B0GP7KDZRJ",
@@ -1933,7 +1987,9 @@
   "amz-B07VPFHSDT",
   "amz-B0FFTRFCDM",
   "amz-B0CP689L59",
-  "amz-B0HF1N8QGR"
+  "amz-B0HF1N8QGR",
+  "amz-B0G67DQWZ4",
+  "amz-B09C4T66X3"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
@@ -1967,20 +2023,6 @@
  "ultimo_pilar": "mito",
  "fila": [
   {
-   "id": "amz-B0HCCL1361",
-   "canal": "tech",
-   "nome": "NBA 2K27 - PlayStation 5 (mídia física)",
-   "preco_antigo": 349.9,
-   "preco": 232.44,
-   "desconto": 34,
-   "link": "https://www.amazon.com.br/dp/B0HCCL1361?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/71c7E7u9KsL._AC_SL1020_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-10-29T23:59:00-03:00",
-   "entrou": "2026-10-29T18:15:14.697318-03:00"
-  },
-  {
    "id": "amz-B0FSGL8YCN",
    "canal": "tech",
    "nome": "Fone Samsung Galaxy Buds3 FE com Galaxy AI - Preto",
@@ -2007,6 +2049,48 @@
    "plataforma": "Amazon",
    "valida_ate": "2026-10-29T23:59:00-03:00",
    "entrou": "2026-10-29T18:15:14.697318-03:00"
+  },
+  {
+   "id": "amz-B0FJHYW5BK",
+   "canal": "tech",
+   "nome": "Soundbar Samsung HW-B400F 2.0 canais com subwoofer integrado",
+   "preco_antigo": 849.0,
+   "preco": 578.68,
+   "desconto": 32,
+   "link": "https://www.amazon.com.br/dp/B0FJHYW5BK?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/31lOjHKQFKL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-29T23:59:00-03:00",
+   "entrou": "2026-10-29T19:27:34.853409-03:00"
+  },
+  {
+   "id": "amz-B0B12DV64Y",
+   "canal": "tech",
+   "nome": "GTA V - PlayStation 5",
+   "preco_antigo": 249.9,
+   "preco": 151.28,
+   "desconto": 39,
+   "link": "https://www.amazon.com.br/dp/B0B12DV64Y?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/718md8Ry+IL._AC_SL1020_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-29T23:59:00-03:00",
+   "entrou": "2026-10-29T19:27:34.853409-03:00"
+  },
+  {
+   "id": "amz-B09743F8P6",
+   "canal": "tech",
+   "nome": "Elden Ring - PlayStation 5 (Bandai Namco)",
+   "preco_antigo": 300.0,
+   "preco": 197.14,
+   "desconto": 34,
+   "link": "https://www.amazon.com.br/dp/B09743F8P6?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/81h2WhI4dtL._AC_SL1500_.jpg",
+   "loja": "Vendido por parceiro · entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-29T23:59:00-03:00",
+   "entrou": "2026-10-29T19:27:34.853409-03:00"
   }
  ],
  "menus_fixados": [
