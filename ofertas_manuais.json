@@ -479,5 +479,83 @@
   "loja": "Vendido e entregue pela Amazon",
   "plataforma": "Amazon",
   "valida_ate": "2026-10-29T23:59:00-03:00"
+ },
+ {
+  "id": "amz-B07DQB7QKD",
+  "canal": "achadinhos",
+  "nome": "Furadeira e Parafusadeira BLACK+DECKER 12V LD12S + 13 acessórios",
+  "preco_antigo": 351.9,
+  "preco": 189.9,
+  "desconto": 46,
+  "link": "https://www.amazon.com.br/dp/B07DQB7QKD?tag=papagarimpou-20",
+  "imagem": "https://m.media-amazon.com/images/I/612O6gMZzLL._AC_SL1500_.jpg",
+  "loja": "Vendido por parceiro · entregue pela Amazon",
+  "plataforma": "Amazon",
+  "valida_ate": "2026-10-29T23:59:00-03:00"
+ },
+ {
+  "id": "amz-B08M141D9N",
+  "canal": "tech",
+  "nome": "Pro Controller Nintendo Switch original",
+  "preco_antigo": 469.0,
+  "preco": 306.81,
+  "desconto": 35,
+  "link": "https://www.amazon.com.br/dp/B08M141D9N?tag=papagarimpou-20",
+  "imagem": "https://m.media-amazon.com/images/I/415igOk3NuL._AC_SL1000_.jpg",
+  "loja": "Vendido e entregue pela Amazon",
+  "plataforma": "Amazon",
+  "valida_ate": "2026-10-29T23:59:00-03:00"
+ },
+ {
+  "id": "amz-B0DD1KD5JP",
+  "canal": "achadinhos",
+  "nome": "Fritadeira Airfryer Forno Philips Walita 12 Litros Preta 110V",
+  "preco_antigo": 999.9,
+  "preco": 604.2,
+  "desconto": 40,
+  "link": "https://www.amazon.com.br/dp/B0DD1KD5JP?tag=papagarimpou-20",
+  "imagem": "https://m.media-amazon.com/images/I/61a0AdTUvPL._AC_SL1500_.jpg",
+  "loja": "Vendido e entregue pela Amazon",
+  "plataforma": "Amazon",
+  "valida_ate": "2026-10-29T23:59:00-03:00"
+ },
+ {
+  "id": "amz-B08KKBSDTY",
+  "canal": "tech",
+  "nome": "Headset Gamer Logitech G335 leve com espuma de memória",
+  "preco_antigo": 599.9,
+  "preco": 289.73,
+  "desconto": 52,
+  "link": "https://www.amazon.com.br/dp/B08KKBSDTY?tag=papagarimpou-20",
+  "imagem": "https://m.media-amazon.com/images/I/71YEF3ZjzkL._AC_SL1500_.jpg",
+  "loja": "Loja oficial Fast Shop · entregue pela Amazon",
+  "plataforma": "Amazon",
+  "valida_ate": "2026-10-29T23:59:00-03:00"
+ },
+ {
+  "id": "amz-B0BQ7KJ9NV",
+  "canal": "tech",
+  "nome": "Monitor Samsung 32\" UHD 4K com HDMI, DisplayPort e FreeSync",
+  "preco_antigo": 2099.0,
+  "preco": 1164.6,
+  "desconto": 45,
+  "link": "https://www.amazon.com.br/dp/B0BQ7KJ9NV?tag=papagarimpou-20",
+  "imagem": "https://m.media-amazon.com/images/I/91XfEXGz9UL._AC_SL1500_.jpg",
+  "loja": "Vendido e entregue pela Amazon",
+  "plataforma": "Amazon",
+  "valida_ate": "2026-10-29T23:59:00-03:00"
+ },
+ {
+  "id": "amz-B081PP4CB6",
+  "canal": "tech",
+  "nome": "Headset Gamer Sem Fio Logitech G PRO X LIGHTSPEED",
+  "preco_antigo": 1699.9,
+  "preco": 1085.0,
+  "desconto": 36,
+  "link": "https://www.amazon.com.br/dp/B081PP4CB6?tag=papagarimpou-20",
+  "imagem": "https://m.media-amazon.com/images/I/51Vqs9NufmL._AC_SL1000_.jpg",
+  "loja": "Vendido e entregue pela Amazon",
+  "plataforma": "Amazon",
+  "valida_ate": "2026-10-29T23:59:00-03:00"
  }
 ]
