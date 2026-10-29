@@ -49,7 +49,13 @@
   "2026-10-29 achadinhos 09:19 amz-B0CD4SCM33",
   "2026-10-29 marcas 09:22 amz-B0CVZ5LZR7",
   "2026-10-29 tech 09:27 amz-B0BCFKG49M",
-  "2026-10-29 achadinhos 09:34 amz-B0FMYSGWLK"
+  "2026-10-29 achadinhos 09:34 amz-B0FMYSGWLK",
+  "2026-10-29 achadinhos 09:50 amz-B01IR0JQMM",
+  "2026-10-29 marcas 09:57 amz-B0DJ985ZLL",
+  "2026-10-29 tech 10:00 amz-B0HBYYN84S",
+  "2026-10-29 achadinhos 10:04 amz-B0B4YPMKMW",
+  "2026-10-29 marcas 10:12 amz-B0GJMKLJ3P",
+  "2026-10-29 tech 10:19 amz-B08QV3XK76"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -112,7 +118,13 @@
   "amz-B0CD4SCM33": "2026-10-29T09:19:43.933722-03:00",
   "amz-B0CVZ5LZR7": "2026-10-29T09:22:54.495387-03:00",
   "amz-B0BCFKG49M": "2026-10-29T09:27:32.437225-03:00",
-  "amz-B0FMYSGWLK": "2026-10-29T09:34:58.156164-03:00"
+  "amz-B0FMYSGWLK": "2026-10-29T09:34:58.156164-03:00",
+  "amz-B01IR0JQMM": "2026-10-29T09:50:47.783725-03:00",
+  "amz-B0DJ985ZLL": "2026-10-29T09:57:41.001929-03:00",
+  "amz-B0HBYYN84S": "2026-10-29T10:00:56.540484-03:00",
+  "amz-B0B4YPMKMW": "2026-10-29T10:04:58.526241-03:00",
+  "amz-B0GJMKLJ3P": "2026-10-29T10:12:48.971491-03:00",
+  "amz-B08QV3XK76": "2026-10-29T10:19:23.535764-03:00"
  },
  "ofertas_dia": [
   {
@@ -877,6 +889,99 @@
    "valida_ate": "2026-10-29T23:59:00-03:00",
    "entrou": "2026-10-29T09:02:55.186528-03:00",
    "dia": "2026-10-29"
+  },
+  {
+   "id": "amz-B01IR0JQMM",
+   "canal": "achadinhos",
+   "nome": "Centrífuga de Sucos Philips Walita Viva 500W 110V",
+   "preco_antigo": 729.9,
+   "preco": 396.9,
+   "desconto": 46,
+   "link": "https://www.amazon.com.br/dp/B01IR0JQMM?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71VNxs5llEL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-29T23:59:00-03:00",
+   "entrou": "2026-10-29T09:02:55.186528-03:00",
+   "dia": "2026-10-29"
+  },
+  {
+   "id": "amz-B0DJ985ZLL",
+   "canal": "marcas",
+   "nome": "Tênis de Corrida Puma Darter Pro",
+   "preco_antigo": 499.99,
+   "preco": 237.49,
+   "desconto": 53,
+   "link": "https://www.amazon.com.br/dp/B0DJ985ZLL?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71-NV05maHL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-29T23:59:00-03:00",
+   "extra": "Preço pode variar por tamanho e cor",
+   "entrou": "2026-10-29T09:02:55.186528-03:00",
+   "dia": "2026-10-29"
+  },
+  {
+   "id": "amz-B0HBYYN84S",
+   "canal": "tech",
+   "nome": "Samsung Smart TV 50\" Crystal UHD 4K U8000H",
+   "preco_antigo": 3049.0,
+   "preco": 2078.46,
+   "desconto": 32,
+   "link": "https://www.amazon.com.br/dp/B0HBYYN84S?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51Sg1BAA14L._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-29T23:59:00-03:00",
+   "extra": "Tem Xbox Cloud Gaming na TV",
+   "entrou": "2026-10-29T08:45:11.581622-03:00",
+   "dia": "2026-10-29"
+  },
+  {
+   "id": "amz-B0B4YPMKMW",
+   "canal": "achadinhos",
+   "nome": "Refil Oral-B iO Ultimate Clean com 2 Unidades",
+   "preco_antigo": 136.24,
+   "preco": 77.99,
+   "desconto": 43,
+   "link": "https://www.amazon.com.br/dp/B0B4YPMKMW?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/616L-KTffEL._AC_SL1200_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-29T23:59:00-03:00",
+   "entrou": "2026-10-29T09:02:55.186528-03:00",
+   "dia": "2026-10-29"
+  },
+  {
+   "id": "amz-B0GJMKLJ3P",
+   "canal": "marcas",
+   "nome": "Tênis Asics Raiden 5",
+   "preco_antigo": 329.89,
+   "preco": 223.99,
+   "desconto": 32,
+   "link": "https://www.amazon.com.br/dp/B0GJMKLJ3P?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51L5bQoxxgL._AC_SL1280_.jpg",
+   "loja": "Vendido por Paquetá Calçados · entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-29T23:59:00-03:00",
+   "extra": "Preço pode variar por tamanho e cor",
+   "entrou": "2026-10-29T09:02:55.186528-03:00",
+   "dia": "2026-10-29"
+  },
+  {
+   "id": "amz-B08QV3XK76",
+   "canal": "tech",
+   "nome": "Marvel's Spider-Man: Miles Morales - PlayStation 5",
+   "preco_antigo": 279.9,
+   "preco": 166.89,
+   "desconto": 40,
+   "link": "https://www.amazon.com.br/dp/B08QV3XK76?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/81FBIrIvLVL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-29T23:59:00-03:00",
+   "entrou": "2026-10-29T08:45:11.581622-03:00",
+   "dia": "2026-10-29"
   }
  ],
  "ig_feitos": [
@@ -920,7 +1025,10 @@
   "2026-10-28 21:24 story_oferta",
   "2026-10-29 08:07 story_oferta",
   "2026-10-29 08:45 story_oferta",
-  "2026-10-29 08:52 story_oferta"
+  "2026-10-29 08:52 story_oferta",
+  "2026-10-29 feed",
+  "2026-10-29 09:35 post_achado",
+  "2026-10-29 09:38 story_oferta"
  ],
  "ig_ofertas_usadas": [
   "amz-B0GP7KDZRJ",
@@ -942,7 +1050,9 @@
   "amz-B07GPRWFC5",
   "amz-B087CT8PWY",
   "amz-B083V5LJPF",
-  "amz-B09JH4PD8Q"
+  "amz-B09JH4PD8Q",
+  "amz-B0FMYSGWLK",
+  "amz-B0CWBJTLF4"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
@@ -975,35 +1085,6 @@
  },
  "ultimo_pilar": "mito",
  "fila": [
-  {
-   "id": "amz-B0HBYYN84S",
-   "canal": "tech",
-   "nome": "Samsung Smart TV 50\" Crystal UHD 4K U8000H",
-   "preco_antigo": 3049.0,
-   "preco": 2078.46,
-   "desconto": 32,
-   "link": "https://www.amazon.com.br/dp/B0HBYYN84S?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51Sg1BAA14L._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-10-29T23:59:00-03:00",
-   "extra": "Tem Xbox Cloud Gaming na TV",
-   "entrou": "2026-10-29T08:45:11.581622-03:00"
-  },
-  {
-   "id": "amz-B08QV3XK76",
-   "canal": "tech",
-   "nome": "Marvel's Spider-Man: Miles Morales - PlayStation 5",
-   "preco_antigo": 279.9,
-   "preco": 166.89,
-   "desconto": 40,
-   "link": "https://www.amazon.com.br/dp/B08QV3XK76?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/81FBIrIvLVL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-10-29T23:59:00-03:00",
-   "entrou": "2026-10-29T08:45:11.581622-03:00"
-  },
   {
    "id": "amz-B0CP689L59",
    "canal": "tech",
@@ -1047,34 +1128,6 @@
    "entrou": "2026-10-29T08:45:11.581622-03:00"
   },
   {
-   "id": "amz-B01IR0JQMM",
-   "canal": "achadinhos",
-   "nome": "Centrífuga de Sucos Philips Walita Viva 500W 110V",
-   "preco_antigo": 729.9,
-   "preco": 396.9,
-   "desconto": 46,
-   "link": "https://www.amazon.com.br/dp/B01IR0JQMM?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/71VNxs5llEL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-10-29T23:59:00-03:00",
-   "entrou": "2026-10-29T09:02:55.186528-03:00"
-  },
-  {
-   "id": "amz-B0B4YPMKMW",
-   "canal": "achadinhos",
-   "nome": "Refil Oral-B iO Ultimate Clean com 2 Unidades",
-   "preco_antigo": 136.24,
-   "preco": 77.99,
-   "desconto": 43,
-   "link": "https://www.amazon.com.br/dp/B0B4YPMKMW?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/616L-KTffEL._AC_SL1200_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-10-29T23:59:00-03:00",
-   "entrou": "2026-10-29T09:02:55.186528-03:00"
-  },
-  {
    "id": "amz-B07VPFHSDT",
    "canal": "achadinhos",
    "nome": "Secador de Cabelo Taiff Black Ion 338 2000W 220V",
@@ -1114,36 +1167,6 @@
    "loja": "Vendido e entregue pela Amazon",
    "plataforma": "Amazon",
    "valida_ate": "2026-10-29T23:59:00-03:00",
-   "entrou": "2026-10-29T09:02:55.186528-03:00"
-  },
-  {
-   "id": "amz-B0DJ985ZLL",
-   "canal": "marcas",
-   "nome": "Tênis de Corrida Puma Darter Pro",
-   "preco_antigo": 499.99,
-   "preco": 237.49,
-   "desconto": 53,
-   "link": "https://www.amazon.com.br/dp/B0DJ985ZLL?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/71-NV05maHL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-10-29T23:59:00-03:00",
-   "extra": "Preço pode variar por tamanho e cor",
-   "entrou": "2026-10-29T09:02:55.186528-03:00"
-  },
-  {
-   "id": "amz-B0GJMKLJ3P",
-   "canal": "marcas",
-   "nome": "Tênis Asics Raiden 5",
-   "preco_antigo": 329.89,
-   "preco": 223.99,
-   "desconto": 32,
-   "link": "https://www.amazon.com.br/dp/B0GJMKLJ3P?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51L5bQoxxgL._AC_SL1280_.jpg",
-   "loja": "Vendido por Paquetá Calçados · entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-10-29T23:59:00-03:00",
-   "extra": "Preço pode variar por tamanho e cor",
    "entrou": "2026-10-29T09:02:55.186528-03:00"
   },
   {
