@@ -88,7 +88,9 @@
   "2026-10-29 achadinhos 16:03 amz-B0BRLBBYLT",
   "2026-10-29 marcas 16:09 amz-B07LCRNJGV",
   "2026-10-29 tech 16:19 amz-B0DZQF2ZX4",
-  "2026-10-29 achadinhos 16:26 amz-B0DFRBWX29"
+  "2026-10-29 achadinhos 16:26 amz-B0DFRBWX29",
+  "2026-10-29 marcas 16:30 amz-B0DXNV5JS1",
+  "2026-10-29 tech 16:36 amz-B0F7TCD2JQ"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -190,7 +192,9 @@
   "amz-B0BRLBBYLT": "2026-10-29T16:03:21.300054-03:00",
   "amz-B07LCRNJGV": "2026-10-29T16:09:45.449526-03:00",
   "amz-B0DZQF2ZX4": "2026-10-29T16:19:51.159680-03:00",
-  "amz-B0DFRBWX29": "2026-10-29T16:26:33.491509-03:00"
+  "amz-B0DFRBWX29": "2026-10-29T16:26:33.491509-03:00",
+  "amz-B0DXNV5JS1": "2026-10-29T16:30:06.172577-03:00",
+  "amz-B0F7TCD2JQ": "2026-10-29T16:36:29.619075-03:00"
  },
  "ofertas_dia": [
   {
@@ -1553,6 +1557,36 @@
    "extra": "Kit com 2 escovas",
    "entrou": "2026-10-29T16:01:39.329492-03:00",
    "dia": "2026-10-29"
+  },
+  {
+   "id": "amz-B0DXNV5JS1",
+   "canal": "marcas",
+   "nome": "Garrafa Térmica Stanley Aerolight Flip Straw 473ml Pomelo",
+   "preco_antigo": 269.0,
+   "preco": 157.84,
+   "desconto": 41,
+   "link": "https://www.amazon.com.br/dp/B0DXNV5JS1?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/41q1HaFCEIL._AC_SL1200_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-29T23:59:00-03:00",
+   "entrou": "2026-10-29T16:01:39.329492-03:00",
+   "dia": "2026-10-29"
+  },
+  {
+   "id": "amz-B0F7TCD2JQ",
+   "canal": "tech",
+   "nome": "Caixa de Som Portátil JBL Flip 7 Bluetooth 25W Branca",
+   "preco_antigo": 899.0,
+   "preco": 530.1,
+   "desconto": 41,
+   "link": "https://www.amazon.com.br/dp/B0F7TCD2JQ?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61-TXy6sRTL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-29T23:59:00-03:00",
+   "entrou": "2026-10-29T16:01:39.329492-03:00",
+   "dia": "2026-10-29"
   }
  ],
  "ig_feitos": [
@@ -1681,34 +1715,6 @@
  },
  "ultimo_pilar": "mito",
  "fila": [
-  {
-   "id": "amz-B0DXNV5JS1",
-   "canal": "marcas",
-   "nome": "Garrafa Térmica Stanley Aerolight Flip Straw 473ml Pomelo",
-   "preco_antigo": 269.0,
-   "preco": 157.84,
-   "desconto": 41,
-   "link": "https://www.amazon.com.br/dp/B0DXNV5JS1?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/41q1HaFCEIL._AC_SL1200_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-10-29T23:59:00-03:00",
-   "entrou": "2026-10-29T16:01:39.329492-03:00"
-  },
-  {
-   "id": "amz-B0F7TCD2JQ",
-   "canal": "tech",
-   "nome": "Caixa de Som Portátil JBL Flip 7 Bluetooth 25W Branca",
-   "preco_antigo": 899.0,
-   "preco": 530.1,
-   "desconto": 41,
-   "link": "https://www.amazon.com.br/dp/B0F7TCD2JQ?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61-TXy6sRTL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-10-29T23:59:00-03:00",
-   "entrou": "2026-10-29T16:01:39.329492-03:00"
-  },
   {
    "id": "amz-B0CHZ18WJW",
    "canal": "tech",
