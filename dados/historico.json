@@ -101,7 +101,10 @@
   "2026-10-29 tech 17:56 amz-B0GFQ2Z3BM",
   "2026-10-29 achadinhos 18:18 amz-B0F677L8R5",
   "2026-10-29 tech 18:29 amz-B0CNWP4C78",
-  "2026-10-29 marcas 18:37 amz-B0G67DQWZ4"
+  "2026-10-29 marcas 18:37 amz-B0G67DQWZ4",
+  "2026-10-29 marcas 18:45 amz-B0FR5D4ZYY",
+  "2026-10-29 tech 18:59 amz-B0D9KJHRXN",
+  "2026-10-29 tech 19:12 amz-B0DWQNS8TN"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -216,7 +219,10 @@
   "amz-B0GFQ2Z3BM": "2026-10-29T17:56:37.278820-03:00",
   "amz-B0F677L8R5": "2026-10-29T18:18:22.929589-03:00",
   "amz-B0CNWP4C78": "2026-10-29T18:29:38.905401-03:00",
-  "amz-B0G67DQWZ4": "2026-10-29T18:37:46.039340-03:00"
+  "amz-B0G67DQWZ4": "2026-10-29T18:37:46.039340-03:00",
+  "amz-B0FR5D4ZYY": "2026-10-29T18:45:17.446468-03:00",
+  "amz-B0D9KJHRXN": "2026-10-29T18:59:53.869322-03:00",
+  "amz-B0DWQNS8TN": "2026-10-29T19:12:37.200146-03:00"
  },
  "ofertas_dia": [
   {
@@ -1775,6 +1781,51 @@
    "extra": "Preço pode variar por tamanho",
    "entrou": "2026-10-29T18:15:14.697318-03:00",
    "dia": "2026-10-29"
+  },
+  {
+   "id": "amz-B0FR5D4ZYY",
+   "canal": "marcas",
+   "nome": "Garrafa Térmica Stanley Aerolight Transit 591ml Black",
+   "preco_antigo": 259.0,
+   "preco": 177.52,
+   "desconto": 31,
+   "link": "https://www.amazon.com.br/dp/B0FR5D4ZYY?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/419es3ZPyCL._AC_SL1200_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-29T23:59:00-03:00",
+   "entrou": "2026-10-29T18:15:14.697318-03:00",
+   "dia": "2026-10-29"
+  },
+  {
+   "id": "amz-B0D9KJHRXN",
+   "canal": "tech",
+   "nome": "Soundbar LG 300W RMS 2.1 Canais Dolby Digital Bluetooth",
+   "preco_antigo": 1399.0,
+   "preco": 845.09,
+   "desconto": 40,
+   "link": "https://www.amazon.com.br/dp/B0D9KJHRXN?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71E+8TlqHUL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-29T23:59:00-03:00",
+   "entrou": "2026-10-29T16:55:03.157773-03:00",
+   "dia": "2026-10-29"
+  },
+  {
+   "id": "amz-B0DWQNS8TN",
+   "canal": "tech",
+   "nome": "Monitor Gamer Samsung Odyssey G5 32\" QHD",
+   "preco_antigo": 1599.0,
+   "preco": 1088.01,
+   "desconto": 32,
+   "link": "https://www.amazon.com.br/dp/B0DWQNS8TN?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/616NYrEQ6QL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-29T23:59:00-03:00",
+   "entrou": "2026-10-29T16:55:03.157773-03:00",
+   "dia": "2026-10-29"
   }
  ],
  "ig_feitos": [
@@ -1840,7 +1891,8 @@
   "2026-10-29 17:30 reels",
   "2026-10-29 17:36 story_oferta",
   "2026-10-29 18:05 story_oferta",
-  "2026-10-29 18:09 story_oferta"
+  "2026-10-29 18:09 story_oferta",
+  "2026-10-29 18:42 story_oferta"
  ],
  "ig_ofertas_usadas": [
   "amz-B0GP7KDZRJ",
@@ -1880,7 +1932,8 @@
   "amz-B08QV3XK76",
   "amz-B07VPFHSDT",
   "amz-B0FFTRFCDM",
-  "amz-B0CP689L59"
+  "amz-B0CP689L59",
+  "amz-B0HF1N8QGR"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
@@ -1913,48 +1966,6 @@
  },
  "ultimo_pilar": "mito",
  "fila": [
-  {
-   "id": "amz-B0D9KJHRXN",
-   "canal": "tech",
-   "nome": "Soundbar LG 300W RMS 2.1 Canais Dolby Digital Bluetooth",
-   "preco_antigo": 1399.0,
-   "preco": 845.09,
-   "desconto": 40,
-   "link": "https://www.amazon.com.br/dp/B0D9KJHRXN?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/71E+8TlqHUL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-10-29T23:59:00-03:00",
-   "entrou": "2026-10-29T16:55:03.157773-03:00"
-  },
-  {
-   "id": "amz-B0DWQNS8TN",
-   "canal": "tech",
-   "nome": "Monitor Gamer Samsung Odyssey G5 32\" QHD",
-   "preco_antigo": 1599.0,
-   "preco": 1088.01,
-   "desconto": 32,
-   "link": "https://www.amazon.com.br/dp/B0DWQNS8TN?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/616NYrEQ6QL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-10-29T23:59:00-03:00",
-   "entrou": "2026-10-29T16:55:03.157773-03:00"
-  },
-  {
-   "id": "amz-B0FR5D4ZYY",
-   "canal": "marcas",
-   "nome": "Garrafa Térmica Stanley Aerolight Transit 591ml Black",
-   "preco_antigo": 259.0,
-   "preco": 177.52,
-   "desconto": 31,
-   "link": "https://www.amazon.com.br/dp/B0FR5D4ZYY?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/419es3ZPyCL._AC_SL1200_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-10-29T23:59:00-03:00",
-   "entrou": "2026-10-29T18:15:14.697318-03:00"
-  },
   {
    "id": "amz-B0HCCL1361",
    "canal": "tech",
