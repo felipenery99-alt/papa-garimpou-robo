@@ -70,7 +70,9 @@
   "2026-10-29 tech 11:48 amz-B0FP8KDP36",
   "2026-10-29 achadinhos 12:10 amz-B0FTP4DM9D",
   "2026-10-29 achadinhos 12:32 amz-B07DQB7QKD",
-  "2026-10-29 marcas 12:43 amz-B0G5YNS137"
+  "2026-10-29 marcas 12:43 amz-B0G5YNS137",
+  "2026-10-29 achadinhos 13:01 amz-B0DD1KD5JP",
+  "2026-10-29 tech 13:12 amz-B0D2LMYM9S"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -154,7 +156,9 @@
   "amz-B0FP8KDP36": "2026-10-29T11:48:02.882156-03:00",
   "amz-B0FTP4DM9D": "2026-10-29T12:10:56.981376-03:00",
   "amz-B07DQB7QKD": "2026-10-29T12:32:54.741459-03:00",
-  "amz-B0G5YNS137": "2026-10-29T12:43:52.325297-03:00"
+  "amz-B0G5YNS137": "2026-10-29T12:43:52.325297-03:00",
+  "amz-B0DD1KD5JP": "2026-10-29T13:01:27.309760-03:00",
+  "amz-B0D2LMYM9S": "2026-10-29T13:12:39.912943-03:00"
  },
  "ofertas_dia": [
   {
@@ -1241,6 +1245,36 @@
    "extra": "Preço pode variar por tamanho",
    "entrou": "2026-10-29T11:21:16.965109-03:00",
    "dia": "2026-10-29"
+  },
+  {
+   "id": "amz-B0DD1KD5JP",
+   "canal": "achadinhos",
+   "nome": "Fritadeira Airfryer Forno Philips Walita 12 Litros Preta 110V",
+   "preco_antigo": 999.9,
+   "preco": 604.2,
+   "desconto": 40,
+   "link": "https://www.amazon.com.br/dp/B0DD1KD5JP?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61a0AdTUvPL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-29T23:59:00-03:00",
+   "entrou": "2026-10-29T12:06:16.750661-03:00",
+   "dia": "2026-10-29"
+  },
+  {
+   "id": "amz-B0D2LMYM9S",
+   "canal": "tech",
+   "nome": "Caixa de Som JBL Xtreme 4 Bluetooth com Powerbank",
+   "preco_antigo": 2777.77,
+   "preco": 1297.67,
+   "desconto": 53,
+   "link": "https://www.amazon.com.br/dp/B0D2LMYM9S?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/713d9kvrUPL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-29T23:59:00-03:00",
+   "entrou": "2026-10-29T09:02:55.186528-03:00",
+   "dia": "2026-10-29"
   }
  ],
  "ig_feitos": [
@@ -1293,7 +1327,8 @@
   "2026-10-29 11:50 carrossel_top5",
   "2026-10-29 11:56 story_oferta",
   "2026-10-29 12:15 story_top4",
-  "2026-10-29 12:19 story_oferta"
+  "2026-10-29 12:19 story_oferta",
+  "2026-10-29 12:47 story_oferta"
  ],
  "ig_ofertas_usadas": [
   "amz-B0GP7KDZRJ",
@@ -1321,7 +1356,8 @@
   "amz-B0G731G5GK",
   "amz-B0G1TS4K54",
   "amz-B0CD4SCM33",
-  "amz-B0CVZ5LZR7"
+  "amz-B0CVZ5LZR7",
+  "amz-B0BCFKG49M"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
@@ -1354,20 +1390,6 @@
  },
  "ultimo_pilar": "mito",
  "fila": [
-  {
-   "id": "amz-B0D2LMYM9S",
-   "canal": "tech",
-   "nome": "Caixa de Som JBL Xtreme 4 Bluetooth com Powerbank",
-   "preco_antigo": 2777.77,
-   "preco": 1297.67,
-   "desconto": 53,
-   "link": "https://www.amazon.com.br/dp/B0D2LMYM9S?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/713d9kvrUPL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-10-29T23:59:00-03:00",
-   "entrou": "2026-10-29T09:02:55.186528-03:00"
-  },
   {
    "id": "amz-B08T68T1T6",
    "canal": "tech",
@@ -1424,20 +1446,6 @@
    "valida_ate": "2026-10-29T23:59:00-03:00",
    "extra": "Dolby Audio e Bluetooth",
    "entrou": "2026-10-29T11:21:16.965109-03:00"
-  },
-  {
-   "id": "amz-B0DD1KD5JP",
-   "canal": "achadinhos",
-   "nome": "Fritadeira Airfryer Forno Philips Walita 12 Litros Preta 110V",
-   "preco_antigo": 999.9,
-   "preco": 604.2,
-   "desconto": 40,
-   "link": "https://www.amazon.com.br/dp/B0DD1KD5JP?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61a0AdTUvPL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-10-29T23:59:00-03:00",
-   "entrou": "2026-10-29T12:06:16.750661-03:00"
   },
   {
    "id": "amz-B08M141D9N",
