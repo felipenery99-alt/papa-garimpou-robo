@@ -61,7 +61,13 @@
   "2026-10-29 tech 10:49 amz-B0CP689L59",
   "2026-10-29 achadinhos 10:54 amz-B0B726S9S3",
   "2026-10-29 marcas 11:01 amz-B0HF1N8QGR",
-  "2026-10-29 tech 11:05 amz-B09C4T66X3"
+  "2026-10-29 tech 11:05 amz-B09C4T66X3",
+  "2026-10-29 achadinhos 11:24 amz-B0CCXLPKPJ",
+  "2026-10-29 marcas 11:28 amz-B0F63BW9RD",
+  "2026-10-29 tech 11:32 amz-B0BH59HP23",
+  "2026-10-29 achadinhos 11:37 amz-B08TLH52PQ",
+  "2026-10-29 marcas 11:41 amz-B0FFTS1355",
+  "2026-10-29 tech 11:48 amz-B0FP8KDP36"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -136,7 +142,13 @@
   "amz-B0CP689L59": "2026-10-29T10:49:54.704108-03:00",
   "amz-B0B726S9S3": "2026-10-29T10:54:00.189552-03:00",
   "amz-B0HF1N8QGR": "2026-10-29T11:01:42.992778-03:00",
-  "amz-B09C4T66X3": "2026-10-29T11:05:23.794368-03:00"
+  "amz-B09C4T66X3": "2026-10-29T11:05:23.794368-03:00",
+  "amz-B0CCXLPKPJ": "2026-10-29T11:24:45.195015-03:00",
+  "amz-B0F63BW9RD": "2026-10-29T11:28:22.558074-03:00",
+  "amz-B0BH59HP23": "2026-10-29T11:32:34.132892-03:00",
+  "amz-B08TLH52PQ": "2026-10-29T11:37:44.358108-03:00",
+  "amz-B0FFTS1355": "2026-10-29T11:41:33.919714-03:00",
+  "amz-B0FP8KDP36": "2026-10-29T11:48:02.882156-03:00"
  },
  "ofertas_dia": [
   {
@@ -1085,6 +1097,98 @@
    "valida_ate": "2026-10-29T23:59:00-03:00",
    "entrou": "2026-10-29T08:45:11.581622-03:00",
    "dia": "2026-10-29"
+  },
+  {
+   "id": "amz-B0CCXLPKPJ",
+   "canal": "achadinhos",
+   "nome": "Escova de Dente Elétrica Oral-B iO6 com Sensor de Pressão",
+   "preco_antigo": 1692.65,
+   "preco": 899.99,
+   "desconto": 47,
+   "link": "https://www.amazon.com.br/dp/B0CCXLPKPJ?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61Dr7W5+eML._AC_SL1200_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-29T23:59:00-03:00",
+   "entrou": "2026-10-29T09:02:55.186528-03:00",
+   "dia": "2026-10-29"
+  },
+  {
+   "id": "amz-B0F63BW9RD",
+   "canal": "marcas",
+   "nome": "Tênis de Corrida Puma Darter Pro 2",
+   "preco_antigo": 549.99,
+   "preco": 231.05,
+   "desconto": 58,
+   "link": "https://www.amazon.com.br/dp/B0F63BW9RD?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71zj9iQ-VSL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-29T23:59:00-03:00",
+   "extra": "Preço pode variar por tamanho",
+   "entrou": "2026-10-29T11:21:16.965109-03:00",
+   "dia": "2026-10-29"
+  },
+  {
+   "id": "amz-B0BH59HP23",
+   "canal": "tech",
+   "nome": "God of War Ragnarök Edição Standard - PlayStation 5",
+   "preco_antigo": 399.9,
+   "preco": 189.05,
+   "desconto": 53,
+   "link": "https://www.amazon.com.br/dp/B0BH59HP23?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/8136lnf0n2L._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-29T23:59:00-03:00",
+   "entrou": "2026-10-29T08:45:11.581622-03:00",
+   "dia": "2026-10-29"
+  },
+  {
+   "id": "amz-B08TLH52PQ",
+   "canal": "achadinhos",
+   "nome": "Liquidificador Philips Walita Série 5000 Jarra Inquebrável 110V",
+   "preco_antigo": 459.9,
+   "preco": 298.0,
+   "desconto": 35,
+   "link": "https://www.amazon.com.br/dp/B08TLH52PQ?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/41z59FDtHHL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-29T23:59:00-03:00",
+   "entrou": "2026-10-29T11:21:16.965109-03:00",
+   "dia": "2026-10-29"
+  },
+  {
+   "id": "amz-B0FFTS1355",
+   "canal": "marcas",
+   "nome": "Tênis Mizuno Virtue 2",
+   "preco_antigo": 349.99,
+   "preco": 239.9,
+   "desconto": 31,
+   "link": "https://www.amazon.com.br/dp/B0FFTS1355?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71g5wDx7++L._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-29T23:59:00-03:00",
+   "extra": "Preço pode variar por tamanho",
+   "entrou": "2026-10-29T11:21:16.965109-03:00",
+   "dia": "2026-10-29"
+  },
+  {
+   "id": "amz-B0FP8KDP36",
+   "canal": "tech",
+   "nome": "Fone sem Fio Samsung Galaxy Buds Core com Cancelamento de Ruído",
+   "preco_antigo": 399.0,
+   "preco": 229.0,
+   "desconto": 43,
+   "link": "https://www.amazon.com.br/dp/B0FP8KDP36?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/31GMcveipGL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-29T23:59:00-03:00",
+   "entrou": "2026-10-29T09:02:55.186528-03:00",
+   "dia": "2026-10-29"
   }
  ],
  "ig_feitos": [
@@ -1131,7 +1235,8 @@
   "2026-10-29 09:35 post_achado",
   "2026-10-29 09:38 story_oferta",
   "2026-10-29 10:20 story_oferta",
-  "2026-10-29 10:24 story_oferta"
+  "2026-10-29 10:24 story_oferta",
+  "2026-10-29 11:11 story_oferta"
  ],
  "ig_ofertas_usadas": [
   "amz-B0GP7KDZRJ",
@@ -1191,48 +1296,6 @@
  "ultimo_pilar": "mito",
  "fila": [
   {
-   "id": "amz-B0BH59HP23",
-   "canal": "tech",
-   "nome": "God of War Ragnarök Edição Standard - PlayStation 5",
-   "preco_antigo": 399.9,
-   "preco": 189.05,
-   "desconto": 53,
-   "link": "https://www.amazon.com.br/dp/B0BH59HP23?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/8136lnf0n2L._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-10-29T23:59:00-03:00",
-   "entrou": "2026-10-29T08:45:11.581622-03:00"
-  },
-  {
-   "id": "amz-B0CCXLPKPJ",
-   "canal": "achadinhos",
-   "nome": "Escova de Dente Elétrica Oral-B iO6 com Sensor de Pressão",
-   "preco_antigo": 1692.65,
-   "preco": 899.99,
-   "desconto": 47,
-   "link": "https://www.amazon.com.br/dp/B0CCXLPKPJ?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61Dr7W5+eML._AC_SL1200_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-10-29T23:59:00-03:00",
-   "entrou": "2026-10-29T09:02:55.186528-03:00"
-  },
-  {
-   "id": "amz-B0FP8KDP36",
-   "canal": "tech",
-   "nome": "Fone sem Fio Samsung Galaxy Buds Core com Cancelamento de Ruído",
-   "preco_antigo": 399.0,
-   "preco": 229.0,
-   "desconto": 43,
-   "link": "https://www.amazon.com.br/dp/B0FP8KDP36?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/31GMcveipGL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-10-29T23:59:00-03:00",
-   "entrou": "2026-10-29T09:02:55.186528-03:00"
-  },
-  {
    "id": "amz-B0D2LMYM9S",
    "canal": "tech",
    "nome": "Caixa de Som JBL Xtreme 4 Bluetooth com Powerbank",
@@ -1287,6 +1350,50 @@
    "plataforma": "Amazon",
    "valida_ate": "2026-10-29T23:59:00-03:00",
    "entrou": "2026-10-29T09:02:55.186528-03:00"
+  },
+  {
+   "id": "amz-B0FTP4DM9D",
+   "canal": "achadinhos",
+   "nome": "Fritadeira Air Fryer WAP Mega Family 9 Litros 1900W 220V",
+   "preco_antigo": 699.9,
+   "preco": 460.94,
+   "desconto": 34,
+   "link": "https://www.amazon.com.br/dp/B0FTP4DM9D?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51oAqd0-u5L._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-29T23:59:00-03:00",
+   "entrou": "2026-10-29T11:21:16.965109-03:00"
+  },
+  {
+   "id": "amz-B0G5YNS137",
+   "canal": "marcas",
+   "nome": "Tênis New Balance 550 Feminino",
+   "preco_antigo": 899.99,
+   "preco": 399.99,
+   "desconto": 56,
+   "link": "https://www.amazon.com.br/dp/B0G5YNS137?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61nd65vENUL._AC_SL1200_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-29T23:59:00-03:00",
+   "extra": "Preço pode variar por tamanho",
+   "entrou": "2026-10-29T11:21:16.965109-03:00"
+  },
+  {
+   "id": "amz-B0FRJC5D97",
+   "canal": "tech",
+   "nome": "Soundbar Samsung HW-B650F 3.1 canais 370W com Subwoofer sem Fio",
+   "preco_antigo": 1799.0,
+   "preco": 1229.0,
+   "desconto": 32,
+   "link": "https://www.amazon.com.br/dp/B0FRJC5D97?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/31Cx8Z5IRdL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-29T23:59:00-03:00",
+   "extra": "Dolby Audio e Bluetooth",
+   "entrou": "2026-10-29T11:21:16.965109-03:00"
   }
  ],
  "menus_fixados": [
