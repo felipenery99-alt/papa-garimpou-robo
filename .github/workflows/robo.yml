@@ -80,6 +80,18 @@ jobs:
           git config user.email "robo-papa@users.noreply.github.com"
           git add dados/historico.json dados/relatorio.json midia 2>/dev/null || true
           git add -u midia 2>/dev/null || true
-          # se alguém gravou no meio (garimpo, ajuste manual), junta e tenta de novo; em conflito vale a versão desta execução
+          # se alguém gravou no meio (garimpo, ajuste manual, outra execução), parte do main novo e
+          # JUNTA os históricos (nunca sobrescreve: sobrescrever apagava posts e o robô repostava)
+          cp dados/historico.json "$RUNNER_TEMP/nosso.json"
           git diff --cached --quiet || git commit -m "histórico"
-          for i in 1 2 3 4; do git push && break; git pull --rebase -X theirs || git rebase --abort; sleep $((i*5)); done
+          for i in 1 2 3 4 5; do
+            git push && break
+            sleep $((i*3))
+            git fetch -q origin main
+            git reset -q --mixed origin/main
+            git show origin/main:dados/historico.json > "$RUNNER_TEMP/remoto.json"
+            python mesclar_historico.py "$RUNNER_TEMP/nosso.json" "$RUNNER_TEMP/remoto.json" dados/historico.json
+            git add dados/historico.json dados/relatorio.json midia 2>/dev/null || true
+            git add -u midia 2>/dev/null || true
+            git diff --cached --quiet || git commit -m "histórico"
+          done
