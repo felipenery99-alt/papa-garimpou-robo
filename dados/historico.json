@@ -68,7 +68,9 @@
   "2026-10-29 achadinhos 11:37 amz-B08TLH52PQ",
   "2026-10-29 marcas 11:41 amz-B0FFTS1355",
   "2026-10-29 tech 11:48 amz-B0FP8KDP36",
-  "2026-10-29 achadinhos 12:10 amz-B0FTP4DM9D"
+  "2026-10-29 achadinhos 12:10 amz-B0FTP4DM9D",
+  "2026-10-29 achadinhos 12:32 amz-B07DQB7QKD",
+  "2026-10-29 marcas 12:43 amz-B0G5YNS137"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -150,7 +152,9 @@
   "amz-B08TLH52PQ": "2026-10-29T11:37:44.358108-03:00",
   "amz-B0FFTS1355": "2026-10-29T11:41:33.919714-03:00",
   "amz-B0FP8KDP36": "2026-10-29T11:48:02.882156-03:00",
-  "amz-B0FTP4DM9D": "2026-10-29T12:10:56.981376-03:00"
+  "amz-B0FTP4DM9D": "2026-10-29T12:10:56.981376-03:00",
+  "amz-B07DQB7QKD": "2026-10-29T12:32:54.741459-03:00",
+  "amz-B0G5YNS137": "2026-10-29T12:43:52.325297-03:00"
  },
  "ofertas_dia": [
   {
@@ -1206,6 +1210,37 @@
    "valida_ate": "2026-10-29T23:59:00-03:00",
    "entrou": "2026-10-29T11:21:16.965109-03:00",
    "dia": "2026-10-29"
+  },
+  {
+   "id": "amz-B07DQB7QKD",
+   "canal": "achadinhos",
+   "nome": "Furadeira e Parafusadeira BLACK+DECKER 12V LD12S + 13 acessórios",
+   "preco_antigo": 351.9,
+   "preco": 189.9,
+   "desconto": 46,
+   "link": "https://www.amazon.com.br/dp/B07DQB7QKD?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/612O6gMZzLL._AC_SL1500_.jpg",
+   "loja": "Vendido por parceiro · entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-29T23:59:00-03:00",
+   "entrou": "2026-10-29T12:06:16.750661-03:00",
+   "dia": "2026-10-29"
+  },
+  {
+   "id": "amz-B0G5YNS137",
+   "canal": "marcas",
+   "nome": "Tênis New Balance 550 Feminino",
+   "preco_antigo": 899.99,
+   "preco": 399.99,
+   "desconto": 56,
+   "link": "https://www.amazon.com.br/dp/B0G5YNS137?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61nd65vENUL._AC_SL1200_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-29T23:59:00-03:00",
+   "extra": "Preço pode variar por tamanho",
+   "entrou": "2026-10-29T11:21:16.965109-03:00",
+   "dia": "2026-10-29"
   }
  ],
  "ig_feitos": [
@@ -1256,7 +1291,9 @@
   "2026-10-29 11:11 story_oferta",
   "2026-10-29 feed",
   "2026-10-29 11:50 carrossel_top5",
-  "2026-10-29 11:56 story_oferta"
+  "2026-10-29 11:56 story_oferta",
+  "2026-10-29 12:15 story_top4",
+  "2026-10-29 12:19 story_oferta"
  ],
  "ig_ofertas_usadas": [
   "amz-B0GP7KDZRJ",
@@ -1283,7 +1320,8 @@
   "amz-B0CWBJTLF4",
   "amz-B0G731G5GK",
   "amz-B0G1TS4K54",
-  "amz-B0CD4SCM33"
+  "amz-B0CD4SCM33",
+  "amz-B0CVZ5LZR7"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
@@ -1373,21 +1411,6 @@
    "entrou": "2026-10-29T09:02:55.186528-03:00"
   },
   {
-   "id": "amz-B0G5YNS137",
-   "canal": "marcas",
-   "nome": "Tênis New Balance 550 Feminino",
-   "preco_antigo": 899.99,
-   "preco": 399.99,
-   "desconto": 56,
-   "link": "https://www.amazon.com.br/dp/B0G5YNS137?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61nd65vENUL._AC_SL1200_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-10-29T23:59:00-03:00",
-   "extra": "Preço pode variar por tamanho",
-   "entrou": "2026-10-29T11:21:16.965109-03:00"
-  },
-  {
    "id": "amz-B0FRJC5D97",
    "canal": "tech",
    "nome": "Soundbar Samsung HW-B650F 3.1 canais 370W com Subwoofer sem Fio",
@@ -1401,20 +1424,6 @@
    "valida_ate": "2026-10-29T23:59:00-03:00",
    "extra": "Dolby Audio e Bluetooth",
    "entrou": "2026-10-29T11:21:16.965109-03:00"
-  },
-  {
-   "id": "amz-B07DQB7QKD",
-   "canal": "achadinhos",
-   "nome": "Furadeira e Parafusadeira BLACK+DECKER 12V LD12S + 13 acessórios",
-   "preco_antigo": 351.9,
-   "preco": 189.9,
-   "desconto": 46,
-   "link": "https://www.amazon.com.br/dp/B07DQB7QKD?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/612O6gMZzLL._AC_SL1500_.jpg",
-   "loja": "Vendido por parceiro · entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-10-29T23:59:00-03:00",
-   "entrou": "2026-10-29T12:06:16.750661-03:00"
   },
   {
    "id": "amz-B0DD1KD5JP",
