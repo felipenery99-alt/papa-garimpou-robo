@@ -41,7 +41,8 @@
   "2026-10-28 tech 21:04 amz-B0BXM3QFLV",
   "2026-10-28 tech 21:19 amz-B07JM7DR7K",
   "2026-10-28 tech 21:23 amz-B08GMB1PWV",
-  "2026-10-28 tech 21:36 amz-B0D8DPT7ZY"
+  "2026-10-28 tech 21:36 amz-B0D8DPT7ZY",
+  "2026-10-29 tech 08:46 amz-B09JH4PD8Q"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -96,7 +97,8 @@
   "amz-B0BXM3QFLV": "2026-10-28T21:04:15.813431-03:00",
   "amz-B07JM7DR7K": "2026-10-28T21:19:09.225667-03:00",
   "amz-B08GMB1PWV": "2026-10-28T21:23:52.754941-03:00",
-  "amz-B0D8DPT7ZY": "2026-10-28T21:36:08.820614-03:00"
+  "amz-B0D8DPT7ZY": "2026-10-28T21:36:08.820614-03:00",
+  "amz-B09JH4PD8Q": "2026-10-29T08:46:16.150036-03:00"
  },
  "ofertas_dia": [
   {
@@ -737,6 +739,22 @@
    "valida_ate": "2026-10-28T23:59:00-03:00",
    "entrou": "2026-10-28T20:13:50.239670-03:00",
    "dia": "2026-10-28"
+  },
+  {
+   "id": "amz-B09JH4PD8Q",
+   "canal": "tech",
+   "nome": "Base de Carregamento DualSense oficial - PlayStation 5",
+   "preco_antigo": 249.9,
+   "preco": 161.1,
+   "desconto": 36,
+   "link": "https://www.amazon.com.br/dp/B09JH4PD8Q?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/41y-G-g+dVL._AC_SL1500_.jpg",
+   "loja": "Vendido por parceiro · entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-29T23:59:00-03:00",
+   "extra": "Carrega 2 controles ao mesmo tempo",
+   "entrou": "2026-10-29T08:45:11.581622-03:00",
+   "dia": "2026-10-29"
   }
  ],
  "ig_feitos": [
@@ -778,7 +796,8 @@
   "2026-10-28 21:20 story_oferta",
   "2026-10-28 20:38 story_oferta",
   "2026-10-28 21:24 story_oferta",
-  "2026-10-29 08:07 story_oferta"
+  "2026-10-29 08:07 story_oferta",
+  "2026-10-29 08:45 story_oferta"
  ],
  "ig_ofertas_usadas": [
   "amz-B0GP7KDZRJ",
@@ -824,13 +843,115 @@
   "dc-garantia": "2026-10-28",
   "hu-imperdivel": "2026-10-28",
   "dc-kit": "2026-10-28",
-  "hu-original": "2026-10-29"
+  "hu-original": "2026-10-29",
+  "mv-oficial-cara": "2026-10-29"
  },
  "pecas_dia": {
-  "2026-10-29": 1
+  "2026-10-29": 2
  },
- "ultimo_pilar": "humor",
- "fila": [],
+ "ultimo_pilar": "mito",
+ "fila": [
+  {
+   "id": "amz-B0G1TS4K54",
+   "canal": "tech",
+   "nome": "Bundle Marvel's Spider-Man 2 + Miles Morales - PS5",
+   "preco_antigo": 679.8,
+   "preco": 241.7,
+   "desconto": 64,
+   "link": "https://www.amazon.com.br/dp/B0G1TS4K54?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61XrAVRWYRL._AC_SL1152_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-29T23:59:00-03:00",
+   "extra": "2 jogos por menos de R$ 121 cada",
+   "entrou": "2026-10-29T08:45:11.581622-03:00"
+  },
+  {
+   "id": "amz-B0BCFKG49M",
+   "canal": "tech",
+   "nome": "Headset Gamer HyperX Cloud Stinger 2 Core",
+   "preco_antigo": 292.9,
+   "preco": 169.99,
+   "desconto": 42,
+   "link": "https://www.amazon.com.br/dp/B0BCFKG49M?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71WXVepOnFL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-29T23:59:00-03:00",
+   "entrou": "2026-10-29T08:45:11.581622-03:00"
+  },
+  {
+   "id": "amz-B0HBYYN84S",
+   "canal": "tech",
+   "nome": "Samsung Smart TV 50\" Crystal UHD 4K U8000H",
+   "preco_antigo": 3049.0,
+   "preco": 2078.46,
+   "desconto": 32,
+   "link": "https://www.amazon.com.br/dp/B0HBYYN84S?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51Sg1BAA14L._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-29T23:59:00-03:00",
+   "extra": "Tem Xbox Cloud Gaming na TV",
+   "entrou": "2026-10-29T08:45:11.581622-03:00"
+  },
+  {
+   "id": "amz-B08QV3XK76",
+   "canal": "tech",
+   "nome": "Marvel's Spider-Man: Miles Morales - PlayStation 5",
+   "preco_antigo": 279.9,
+   "preco": 166.89,
+   "desconto": 40,
+   "link": "https://www.amazon.com.br/dp/B08QV3XK76?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/81FBIrIvLVL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-29T23:59:00-03:00",
+   "entrou": "2026-10-29T08:45:11.581622-03:00"
+  },
+  {
+   "id": "amz-B0CP689L59",
+   "canal": "tech",
+   "nome": "The Last of Us Part II Remastered - PlayStation 5",
+   "preco_antigo": 279.9,
+   "preco": 189.98,
+   "desconto": 32,
+   "link": "https://www.amazon.com.br/dp/B0CP689L59?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61KU9GYqDPL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-29T23:59:00-03:00",
+   "entrou": "2026-10-29T08:45:11.581622-03:00"
+  },
+  {
+   "id": "amz-B09C4T66X3",
+   "canal": "tech",
+   "nome": "Gran Turismo 7 Edição Padrão - PlayStation 5",
+   "preco_antigo": 399.9,
+   "preco": 180.5,
+   "desconto": 55,
+   "link": "https://www.amazon.com.br/dp/B09C4T66X3?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61o3TmIqogL._AC_SL1000_.jpg",
+   "loja": "Vendido por parceiro · entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-29T23:59:00-03:00",
+   "entrou": "2026-10-29T08:45:11.581622-03:00"
+  },
+  {
+   "id": "amz-B0BH59HP23",
+   "canal": "tech",
+   "nome": "God of War Ragnarök Edição Standard - PlayStation 5",
+   "preco_antigo": 399.9,
+   "preco": 189.05,
+   "desconto": 53,
+   "link": "https://www.amazon.com.br/dp/B0BH59HP23?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/8136lnf0n2L._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-29T23:59:00-03:00",
+   "entrou": "2026-10-29T08:45:11.581622-03:00"
+  }
+ ],
  "menus_fixados": [
   "v1 @papagarimpou",
   "v1 @papagarimpoumarcas",
