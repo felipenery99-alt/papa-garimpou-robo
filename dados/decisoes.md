@@ -26,3 +26,8 @@
 - Decidido (alavanca nova): 2º story de convite às 21:20, pico da noite, no lugar de um story de oferta (continua o das 21:24). Ensaio OK.
 - Próximo: medir cliques no link amanhã; se continuar ≤2, mudar o texto do convite (ex.: "4 canais grátis, escolha o seu"). Domingo (01/11): repor peças e pesquisar contas grandes. BF nas BUSCAS a partir de 03/11.
 - Pedido ao dono: divulgar os canais no seu próprio contato/status do WhatsApp uma vez (custo zero) ajudaria a sair dos 2 membros.
+
+## 2026-10-29 (correção: postagem duplicada)
+- Dono avisou: "tá duplicando postagem". Confirmado: em 28/10, 9 ofertas saíram 2 ou 3 vezes no Telegram (ex.: amz-B0GM1PSWPD às 16:37, 17:13 e 19:04).
+- Causa: 3 execuções (19:40, 20:28 e 23:00 UTC) gravaram um histórico velho por cima do da execução anterior. A execução que espera na fila do GitHub (concurrency) fazia checkout do commit da hora em que entrou na fila, sem os posts da anterior, e repostava. Os stories do Instagram repetiam pelo mesmo motivo.
+- Corrigido: o checkout do robo.yml agora pega sempre o main mais novo (`ref: main`). Ensaio OK.

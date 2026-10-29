@@ -45,6 +45,10 @@ jobs:
     timeout-minutes: 55   # a fila solta ofertas por até ~45 min
     steps:
       - uses: actions/checkout@v4
+        with:
+          # 29/10: sem isto, a execução que esperou na fila (concurrency) usava o commit da hora em que
+          # entrou na fila, sem o histórico da execução anterior, e repostava as mesmas ofertas.
+          ref: main
       - name: Identidade do git (para publicar as artes)
         run: |
           git config user.name "robo-papa"
