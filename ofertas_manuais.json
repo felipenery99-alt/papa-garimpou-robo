@@ -927,5 +927,71 @@
   "loja": "Vendido e entregue pela Amazon",
   "plataforma": "Amazon",
   "valida_ate": "2026-10-29T23:59:00-03:00"
+ },
+ {
+  "id": "amz-B0DKY6272P",
+  "canal": "achadinhos",
+  "nome": "Air Fryer Oster DiamondTech 6 L com visor (220V)",
+  "preco_antigo": 999.0,
+  "preco": 408.49,
+  "desconto": 59,
+  "link": "https://www.amazon.com.br/dp/B0DKY6272P?tag=papagarimpou-20",
+  "imagem": "https://m.media-amazon.com/images/I/71JwNXJDbrL._AC_SL1500_.jpg",
+  "loja": "Vendido e entregue pela Amazon",
+  "plataforma": "Amazon",
+  "valida_ate": "2026-10-29T23:59:00-03:00",
+  "extra": "Voltagem 220V"
+ },
+ {
+  "id": "amz-B0FJHYW5BK",
+  "canal": "tech",
+  "nome": "Soundbar Samsung HW-B400F 2.0 canais com subwoofer integrado",
+  "preco_antigo": 849.0,
+  "preco": 578.68,
+  "desconto": 32,
+  "link": "https://www.amazon.com.br/dp/B0FJHYW5BK?tag=papagarimpou-20",
+  "imagem": "https://m.media-amazon.com/images/I/31lOjHKQFKL._AC_SL1000_.jpg",
+  "loja": "Vendido e entregue pela Amazon",
+  "plataforma": "Amazon",
+  "valida_ate": "2026-10-29T23:59:00-03:00"
+ },
+ {
+  "id": "amz-B0B12DV64Y",
+  "canal": "tech",
+  "nome": "GTA V - PlayStation 5",
+  "preco_antigo": 249.9,
+  "preco": 151.28,
+  "desconto": 39,
+  "link": "https://www.amazon.com.br/dp/B0B12DV64Y?tag=papagarimpou-20",
+  "imagem": "https://m.media-amazon.com/images/I/718md8Ry+IL._AC_SL1020_.jpg",
+  "loja": "Vendido e entregue pela Amazon",
+  "plataforma": "Amazon",
+  "valida_ate": "2026-10-29T23:59:00-03:00"
+ },
+ {
+  "id": "amz-B09743F8P6",
+  "canal": "tech",
+  "nome": "Elden Ring - PlayStation 5 (Bandai Namco)",
+  "preco_antigo": 300.0,
+  "preco": 197.14,
+  "desconto": 34,
+  "link": "https://www.amazon.com.br/dp/B09743F8P6?tag=papagarimpou-20",
+  "imagem": "https://m.media-amazon.com/images/I/81h2WhI4dtL._AC_SL1500_.jpg",
+  "loja": "Vendido por parceiro · entregue pela Amazon",
+  "plataforma": "Amazon",
+  "valida_ate": "2026-10-29T23:59:00-03:00"
+ },
+ {
+  "id": "amz-B0CZPSD2SC",
+  "canal": "marcas",
+  "nome": "Garrafa Térmica Stanley Aerolight Transit 591 ml",
+  "preco_antigo": 259.0,
+  "preco": 165.9,
+  "desconto": 36,
+  "link": "https://www.amazon.com.br/dp/B0CZPSD2SC?tag=papagarimpou-20",
+  "imagem": "https://m.media-amazon.com/images/I/412PpJ67YsL._AC_SL1200_.jpg",
+  "loja": "Vendido e entregue pela Amazon",
+  "plataforma": "Amazon",
+  "valida_ate": "2026-10-29T23:59:00-03:00"
  }
 ]
