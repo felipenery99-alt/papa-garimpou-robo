@@ -96,7 +96,9 @@
   "2026-10-29 marcas 17:05 amz-B0CZSBQ57B",
   "2026-10-29 tech 17:13 amz-B0D6HPB6SF",
   "2026-10-29 achadinhos 17:29 amz-B0CH5MMSH5",
-  "2026-10-29 marcas 17:30 amz-B0CZM4765V"
+  "2026-10-29 marcas 17:30 amz-B0CZM4765V",
+  "2026-10-29 tech 17:42 amz-B0FRHSY74T",
+  "2026-10-29 tech 17:56 amz-B0GFQ2Z3BM"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -206,7 +208,9 @@
   "amz-B0CZSBQ57B": "2026-10-29T17:05:11.319685-03:00",
   "amz-B0D6HPB6SF": "2026-10-29T17:13:28.638814-03:00",
   "amz-B0CH5MMSH5": "2026-10-29T17:29:28.132009-03:00",
-  "amz-B0CZM4765V": "2026-10-29T17:30:28.235214-03:00"
+  "amz-B0CZM4765V": "2026-10-29T17:30:28.235214-03:00",
+  "amz-B0FRHSY74T": "2026-10-29T17:42:42.985415-03:00",
+  "amz-B0GFQ2Z3BM": "2026-10-29T17:56:37.278820-03:00"
  },
  "ofertas_dia": [
   {
@@ -1689,6 +1693,36 @@
    "valida_ate": "2026-10-29T23:59:00-03:00",
    "entrou": "2026-10-29T16:55:03.157773-03:00",
    "dia": "2026-10-29"
+  },
+  {
+   "id": "amz-B0FRHSY74T",
+   "canal": "tech",
+   "nome": "Soundbar Samsung HW-B450F 2.1 canais 300W com subwoofer",
+   "preco_antigo": 1399.0,
+   "preco": 899.1,
+   "desconto": 36,
+   "link": "https://www.amazon.com.br/dp/B0FRHSY74T?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/31UgPHRQaLL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-29T23:59:00-03:00",
+   "entrou": "2026-10-29T16:01:39.329492-03:00",
+   "dia": "2026-10-29"
+  },
+  {
+   "id": "amz-B0GFQ2Z3BM",
+   "canal": "tech",
+   "nome": "Controle sem fio PlayStation DualSense – Remix Green",
+   "preco_antigo": 599.9,
+   "preco": 368.1,
+   "desconto": 39,
+   "link": "https://www.amazon.com.br/dp/B0GFQ2Z3BM?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/613JJGbLK-L._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-29T23:59:00-03:00",
+   "entrou": "2026-10-29T16:01:39.329492-03:00",
+   "dia": "2026-10-29"
   }
  ],
  "ig_feitos": [
@@ -1745,14 +1779,14 @@
   "2026-10-29 13:20 story_convite",
   "2026-10-29 13:22 story_oferta",
   "2026-10-29 14:08 story_oferta",
-  "2026-10-29 feed",
   "2026-10-29 14:25 post_achado",
   "2026-10-29 15:00 story_oferta",
   "2026-10-29 15:03 story_oferta",
   "2026-10-29 15:51 story_oferta",
-  "2026-10-29 feed",
   "2026-10-29 16:55 post_achado",
-  "2026-10-29 16:44 story_oferta"
+  "2026-10-29 16:44 story_oferta",
+  "2026-10-29 17:30 reels",
+  "2026-10-29 17:36 story_oferta"
  ],
  "ig_ofertas_usadas": [
   "amz-B0GP7KDZRJ",
@@ -1789,11 +1823,12 @@
   "amz-B0B4YPMKMW",
   "amz-B0GJMKLJ3P",
   "amz-B0F63BW9RD",
-  "amz-B08QV3XK76"
+  "amz-B08QV3XK76",
+  "amz-B07VPFHSDT"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
- "ig_ultimo_reel": "2026-10-28T17:35:14.566909-03:00",
+ "ig_ultimo_reel": "2026-10-29T17:39:53.489567-03:00",
  "pecas_usadas": {
   "ac-preco-inflado": "2026-10-27",
   "dc-7-dias": "2026-10-27",
@@ -1822,34 +1857,6 @@
  },
  "ultimo_pilar": "mito",
  "fila": [
-  {
-   "id": "amz-B0FRHSY74T",
-   "canal": "tech",
-   "nome": "Soundbar Samsung HW-B450F 2.1 canais 300W com subwoofer",
-   "preco_antigo": 1399.0,
-   "preco": 899.1,
-   "desconto": 36,
-   "link": "https://www.amazon.com.br/dp/B0FRHSY74T?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/31UgPHRQaLL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-10-29T23:59:00-03:00",
-   "entrou": "2026-10-29T16:01:39.329492-03:00"
-  },
-  {
-   "id": "amz-B0GFQ2Z3BM",
-   "canal": "tech",
-   "nome": "Controle sem fio PlayStation DualSense – Remix Green",
-   "preco_antigo": 599.9,
-   "preco": 368.1,
-   "desconto": 39,
-   "link": "https://www.amazon.com.br/dp/B0GFQ2Z3BM?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/613JJGbLK-L._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-10-29T23:59:00-03:00",
-   "entrou": "2026-10-29T16:01:39.329492-03:00"
-  },
   {
    "id": "amz-B0CNWP4C78",
    "canal": "tech",
