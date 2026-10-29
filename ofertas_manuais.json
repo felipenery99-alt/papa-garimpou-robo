@@ -1045,5 +1045,70 @@
   "loja": "Vendido e entregue pela Amazon",
   "plataforma": "Amazon",
   "valida_ate": "2026-10-29T23:59:00-03:00"
+ },
+ {
+  "id": "amz-B0CQKK5V35",
+  "canal": "achadinhos",
+  "nome": "Fritadeira Air Fryer Britânia BFR37 4,2L 1500W (127V)",
+  "preco_antigo": 405.82,
+  "preco": 240.21,
+  "desconto": 41,
+  "link": "https://www.amazon.com.br/dp/B0CQKK5V35?tag=papagarimpou-20",
+  "imagem": "https://m.media-amazon.com/images/I/51C2UzVxe9L._AC_SL1200_.jpg",
+  "loja": "Vendido e entregue pela Amazon",
+  "plataforma": "Amazon",
+  "valida_ate": "2026-10-29T23:59:00-03:00"
+ },
+ {
+  "id": "amz-B0FB9KL5JZ",
+  "canal": "marcas",
+  "nome": "Tênis Puma Flyer Lite 3 Masculino",
+  "preco_antigo": 329.99,
+  "preco": 209.9,
+  "desconto": 36,
+  "link": "https://www.amazon.com.br/dp/B0FB9KL5JZ?tag=papagarimpou-20",
+  "imagem": "https://m.media-amazon.com/images/I/514M-QnIAuL._AC_SL1200_.jpg",
+  "loja": "Vendido e entregue pela Amazon",
+  "plataforma": "Amazon",
+  "valida_ate": "2026-10-29T23:59:00-03:00"
+ },
+ {
+  "id": "amz-B0FRH96P1G",
+  "canal": "achadinhos",
+  "nome": "Air Fryer Oven Electrolux por Rita Lobo 12L Digital 1700W",
+  "preco_antigo": 879.9,
+  "preco": 548.51,
+  "desconto": 38,
+  "link": "https://www.amazon.com.br/dp/B0FRH96P1G?tag=papagarimpou-20",
+  "imagem": "https://m.media-amazon.com/images/I/51zqocFSQSL._AC_SL1000_.jpg",
+  "loja": "Vendido e entregue pela Amazon",
+  "plataforma": "Amazon",
+  "valida_ate": "2026-10-29T23:59:00-03:00"
+ },
+ {
+  "id": "amz-B0GX2K3T8K",
+  "canal": "tech",
+  "nome": "Headset Gamer Sem Fio Logitech G Astro A20 X LIGHTSPEED",
+  "preco_antigo": 1499.9,
+  "preco": 999.99,
+  "desconto": 33,
+  "link": "https://www.amazon.com.br/dp/B0GX2K3T8K?tag=papagarimpou-20",
+  "imagem": "https://m.media-amazon.com/images/I/71CZn1Ys8wL._AC_SL1500_.jpg",
+  "loja": "Vendido e entregue pela Amazon",
+  "plataforma": "Amazon",
+  "valida_ate": "2026-10-29T23:59:00-03:00"
+ },
+ {
+  "id": "amz-B08M511L1B",
+  "canal": "tech",
+  "nome": "Mortal Kombat 11 Ultimate - PlayStation 5",
+  "preco_antigo": 209.9,
+  "preco": 143.1,
+  "desconto": 32,
+  "link": "https://www.amazon.com.br/dp/B08M511L1B?tag=papagarimpou-20",
+  "imagem": "https://m.media-amazon.com/images/I/715shzuTe2L._AC_SL1020_.jpg",
+  "loja": "Vendido e entregue pela Amazon",
+  "plataforma": "Amazon",
+  "valida_ate": "2026-10-29T23:59:00-03:00"
  }
 ]
