@@ -39,7 +39,9 @@
   "2026-10-28 tech 20:42 amz-B0CVCF2J9Q",
   "2026-10-28 marcas 20:53 amz-B07JHH3WJB",
   "2026-10-28 tech 21:04 amz-B0BXM3QFLV",
-  "2026-10-28 tech 21:19 amz-B07JM7DR7K"
+  "2026-10-28 tech 21:19 amz-B07JM7DR7K",
+  "2026-10-28 tech 21:23 amz-B08GMB1PWV",
+  "2026-10-28 tech 21:36 amz-B0D8DPT7ZY"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -92,7 +94,9 @@
   "amz-B0CVCF2J9Q": "2026-10-28T20:42:57.230464-03:00",
   "amz-B07JHH3WJB": "2026-10-28T20:53:57.190126-03:00",
   "amz-B0BXM3QFLV": "2026-10-28T21:04:15.813431-03:00",
-  "amz-B07JM7DR7K": "2026-10-28T21:19:09.225667-03:00"
+  "amz-B07JM7DR7K": "2026-10-28T21:19:09.225667-03:00",
+  "amz-B08GMB1PWV": "2026-10-28T21:23:52.754941-03:00",
+  "amz-B0D8DPT7ZY": "2026-10-28T21:36:08.820614-03:00"
  },
  "ofertas_dia": [
   {
@@ -703,6 +707,36 @@
    "valida_ate": "2026-10-28T23:59:00-03:00",
    "entrou": "2026-10-28T18:52:18.520253-03:00",
    "dia": "2026-10-28"
+  },
+  {
+   "id": "amz-B08GMB1PWV",
+   "canal": "tech",
+   "nome": "Pendrive SanDisk Cruzer Blade 64GB USB",
+   "preco_antigo": 92.66,
+   "preco": 55.94,
+   "desconto": 40,
+   "link": "https://www.amazon.com.br/dp/B08GMB1PWV?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61pLnjhcV9L._AC_SL1372_.jpg",
+   "loja": "Vendido por parceiro · entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-28T23:59:00-03:00",
+   "entrou": "2026-10-28T20:13:50.239670-03:00",
+   "dia": "2026-10-28"
+  },
+  {
+   "id": "amz-B0D8DPT7ZY",
+   "canal": "tech",
+   "nome": "Monitor Gamer LG UltraGear 24\" IPS Full HD 180Hz 1ms",
+   "preco_antigo": 1199.0,
+   "preco": 718.15,
+   "desconto": 40,
+   "link": "https://www.amazon.com.br/dp/B0D8DPT7ZY?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61aIuJu0M0L._AC_SL1000_.jpg",
+   "loja": "Vendido por parceiro · entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-28T23:59:00-03:00",
+   "entrou": "2026-10-28T20:13:50.239670-03:00",
+   "dia": "2026-10-28"
   }
  ],
  "ig_feitos": [
@@ -740,7 +774,9 @@
   "2026-10-28 19:15 post_achado",
   "2026-10-28 19:17 story_oferta",
   "2026-10-28 20:03 story_oferta",
-  "2026-10-28 20:35 story_top4"
+  "2026-10-28 20:35 story_top4",
+  "2026-10-28 21:20 story_oferta",
+  "2026-10-28 20:38 story_oferta"
  ],
  "ig_ofertas_usadas": [
   "amz-B0GP7KDZRJ",
@@ -758,7 +794,9 @@
   "amz-B0G5BMM9SQ",
   "amz-B09V1SM8QB",
   "amz-B0FPNXM7TF",
-  "amz-B09KYCNZHM"
+  "amz-B09KYCNZHM",
+  "amz-B07GPRWFC5",
+  "amz-B087CT8PWY"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
@@ -788,36 +826,7 @@
   "2026-10-28": 6
  },
  "ultimo_pilar": "dica",
- "fila": [
-  {
-   "id": "amz-B08GMB1PWV",
-   "canal": "tech",
-   "nome": "Pendrive SanDisk Cruzer Blade 64GB USB",
-   "preco_antigo": 92.66,
-   "preco": 55.94,
-   "desconto": 40,
-   "link": "https://www.amazon.com.br/dp/B08GMB1PWV?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61pLnjhcV9L._AC_SL1372_.jpg",
-   "loja": "Vendido por parceiro · entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-10-28T23:59:00-03:00",
-   "entrou": "2026-10-28T20:13:50.239670-03:00"
-  },
-  {
-   "id": "amz-B0D8DPT7ZY",
-   "canal": "tech",
-   "nome": "Monitor Gamer LG UltraGear 24\" IPS Full HD 180Hz 1ms",
-   "preco_antigo": 1199.0,
-   "preco": 718.15,
-   "desconto": 40,
-   "link": "https://www.amazon.com.br/dp/B0D8DPT7ZY?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61aIuJu0M0L._AC_SL1000_.jpg",
-   "loja": "Vendido por parceiro · entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-10-28T23:59:00-03:00",
-   "entrou": "2026-10-28T20:13:50.239670-03:00"
-  }
- ],
+ "fila": [],
  "menus_fixados": [
   "v1 @papagarimpou",
   "v1 @papagarimpoumarcas",
