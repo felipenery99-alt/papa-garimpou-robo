@@ -105,7 +105,7 @@ def _jpeg(img: Image.Image) -> bytes:
 
 
 def story_oferta(oferta: dict, canal: str) -> bytes:
-    tema = TEMAS[canal]
+    tema = tema_oferta(oferta)
     img = _gradiente(1080, 1920, *tema["fundo"]).convert("RGBA")
     d = ImageDraw.Draw(img)
     _cabecalho(img, tema)
@@ -207,9 +207,28 @@ def story_convite() -> bytes:
     return _jpeg(img)
 
 
+# Dono, 29/10: "você ainda está postando coisa da mesma cor". A cor da arte de oferta não segue
+# mais o canal (num dia só de games saía tudo azul-escuro): gira por estas paletas, pela oferta.
+PALETAS_OFERTA = [
+    {"fundo": ((255, 176, 0), (242, 92, 0)), "texto": (30, 27, 75), "destaque": (30, 27, 75), "destaque_txt": (255, 255, 255)},
+    {"fundo": ((30, 27, 75), (8, 12, 32)), "texto": (125, 211, 252), "destaque": (125, 211, 252), "destaque_txt": (8, 12, 32)},
+    {"fundo": ((42, 42, 42), (0, 0, 0)), "texto": (245, 197, 66), "destaque": (245, 197, 66), "destaque_txt": (18, 18, 18)},
+    {"fundo": ((255, 77, 94), (159, 18, 57)), "texto": (255, 255, 255), "destaque": (255, 255, 255), "destaque_txt": (159, 18, 57)},
+    {"fundo": ((16, 185, 129), (6, 95, 70)), "texto": (255, 255, 255), "destaque": (255, 230, 150), "destaque_txt": (6, 78, 59)},
+    {"fundo": ((139, 92, 246), (76, 29, 149)), "texto": (255, 255, 255), "destaque": (253, 224, 71), "destaque_txt": (59, 7, 100)},
+    {"fundo": ((255, 248, 232), (255, 228, 190)), "texto": (30, 27, 75), "destaque": (225, 29, 72), "destaque_txt": (255, 255, 255)},
+    {"fundo": ((14, 165, 233), (3, 105, 161)), "texto": (255, 255, 255), "destaque": (255, 255, 255), "destaque_txt": (3, 105, 161)},
+]
+
+
+def tema_oferta(oferta: dict) -> dict:
+    import zlib
+    return PALETAS_OFERTA[zlib.crc32(str(oferta.get("id", oferta.get("nome", ""))).encode()) % len(PALETAS_OFERTA)]
+
+
 def post_oferta(oferta: dict, canal: str) -> bytes:
     """Post de feed 1080x1350 ('Achado do dia')."""
-    tema = TEMAS[canal]
+    tema = tema_oferta(oferta)
     img = _gradiente(1080, 1350, *tema["fundo"]).convert("RGBA")
     d = ImageDraw.Draw(img)
     _cabecalho(img, tema, y=90)
