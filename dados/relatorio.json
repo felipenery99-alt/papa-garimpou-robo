@@ -30,16 +30,16 @@
  },
  "2026-10-28": {
   "erros": [],
-  "ultima_execucao": "22:13",
-  "execucoes": 23,
+  "ultima_execucao": "22:47",
+  "execucoes": 24,
   "telegram_posts": {
    "achadinhos": 16,
    "marcas": 12,
    "tech": 14
   },
   "telegram_membros": {
-   "achadinhos": null,
-   "marcas": null,
+   "achadinhos": 2,
+   "marcas": 2,
    "tech": 2,
    "geral": 2
   },
@@ -82,8 +82,8 @@
   "instagram": {
    "seguidores": 24,
    "posts": 9,
-   "reach": 23,
-   "profile_views": 53,
+   "reach": 24,
+   "profile_views": 57,
    "website_clicks": 2,
    "stories_ativos": 25
   }
