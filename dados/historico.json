@@ -67,7 +67,8 @@
   "2026-10-29 tech 11:32 amz-B0BH59HP23",
   "2026-10-29 achadinhos 11:37 amz-B08TLH52PQ",
   "2026-10-29 marcas 11:41 amz-B0FFTS1355",
-  "2026-10-29 tech 11:48 amz-B0FP8KDP36"
+  "2026-10-29 tech 11:48 amz-B0FP8KDP36",
+  "2026-10-29 achadinhos 12:10 amz-B0FTP4DM9D"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -148,7 +149,8 @@
   "amz-B0BH59HP23": "2026-10-29T11:32:34.132892-03:00",
   "amz-B08TLH52PQ": "2026-10-29T11:37:44.358108-03:00",
   "amz-B0FFTS1355": "2026-10-29T11:41:33.919714-03:00",
-  "amz-B0FP8KDP36": "2026-10-29T11:48:02.882156-03:00"
+  "amz-B0FP8KDP36": "2026-10-29T11:48:02.882156-03:00",
+  "amz-B0FTP4DM9D": "2026-10-29T12:10:56.981376-03:00"
  },
  "ofertas_dia": [
   {
@@ -1189,6 +1191,21 @@
    "valida_ate": "2026-10-29T23:59:00-03:00",
    "entrou": "2026-10-29T09:02:55.186528-03:00",
    "dia": "2026-10-29"
+  },
+  {
+   "id": "amz-B0FTP4DM9D",
+   "canal": "achadinhos",
+   "nome": "Fritadeira Air Fryer WAP Mega Family 9 Litros 1900W 220V",
+   "preco_antigo": 699.9,
+   "preco": 460.94,
+   "desconto": 34,
+   "link": "https://www.amazon.com.br/dp/B0FTP4DM9D?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51oAqd0-u5L._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-29T23:59:00-03:00",
+   "entrou": "2026-10-29T11:21:16.965109-03:00",
+   "dia": "2026-10-29"
   }
  ],
  "ig_feitos": [
@@ -1236,7 +1253,10 @@
   "2026-10-29 09:38 story_oferta",
   "2026-10-29 10:20 story_oferta",
   "2026-10-29 10:24 story_oferta",
-  "2026-10-29 11:11 story_oferta"
+  "2026-10-29 11:11 story_oferta",
+  "2026-10-29 feed",
+  "2026-10-29 11:50 carrossel_top5",
+  "2026-10-29 11:56 story_oferta"
  ],
  "ig_ofertas_usadas": [
   "amz-B0GP7KDZRJ",
@@ -1262,7 +1282,8 @@
   "amz-B0FMYSGWLK",
   "amz-B0CWBJTLF4",
   "amz-B0G731G5GK",
-  "amz-B0G1TS4K54"
+  "amz-B0G1TS4K54",
+  "amz-B0CD4SCM33"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
@@ -1352,20 +1373,6 @@
    "entrou": "2026-10-29T09:02:55.186528-03:00"
   },
   {
-   "id": "amz-B0FTP4DM9D",
-   "canal": "achadinhos",
-   "nome": "Fritadeira Air Fryer WAP Mega Family 9 Litros 1900W 220V",
-   "preco_antigo": 699.9,
-   "preco": 460.94,
-   "desconto": 34,
-   "link": "https://www.amazon.com.br/dp/B0FTP4DM9D?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51oAqd0-u5L._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-10-29T23:59:00-03:00",
-   "entrou": "2026-10-29T11:21:16.965109-03:00"
-  },
-  {
    "id": "amz-B0G5YNS137",
    "canal": "marcas",
    "nome": "Tênis New Balance 550 Feminino",
@@ -1394,6 +1401,90 @@
    "valida_ate": "2026-10-29T23:59:00-03:00",
    "extra": "Dolby Audio e Bluetooth",
    "entrou": "2026-10-29T11:21:16.965109-03:00"
+  },
+  {
+   "id": "amz-B07DQB7QKD",
+   "canal": "achadinhos",
+   "nome": "Furadeira e Parafusadeira BLACK+DECKER 12V LD12S + 13 acessórios",
+   "preco_antigo": 351.9,
+   "preco": 189.9,
+   "desconto": 46,
+   "link": "https://www.amazon.com.br/dp/B07DQB7QKD?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/612O6gMZzLL._AC_SL1500_.jpg",
+   "loja": "Vendido por parceiro · entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-29T23:59:00-03:00",
+   "entrou": "2026-10-29T12:06:16.750661-03:00"
+  },
+  {
+   "id": "amz-B0DD1KD5JP",
+   "canal": "achadinhos",
+   "nome": "Fritadeira Airfryer Forno Philips Walita 12 Litros Preta 110V",
+   "preco_antigo": 999.9,
+   "preco": 604.2,
+   "desconto": 40,
+   "link": "https://www.amazon.com.br/dp/B0DD1KD5JP?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61a0AdTUvPL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-29T23:59:00-03:00",
+   "entrou": "2026-10-29T12:06:16.750661-03:00"
+  },
+  {
+   "id": "amz-B08M141D9N",
+   "canal": "tech",
+   "nome": "Pro Controller Nintendo Switch original",
+   "preco_antigo": 469.0,
+   "preco": 306.81,
+   "desconto": 35,
+   "link": "https://www.amazon.com.br/dp/B08M141D9N?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/415igOk3NuL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-29T23:59:00-03:00",
+   "entrou": "2026-10-29T12:06:16.750661-03:00"
+  },
+  {
+   "id": "amz-B08KKBSDTY",
+   "canal": "tech",
+   "nome": "Headset Gamer Logitech G335 leve com espuma de memória",
+   "preco_antigo": 599.9,
+   "preco": 289.73,
+   "desconto": 52,
+   "link": "https://www.amazon.com.br/dp/B08KKBSDTY?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71YEF3ZjzkL._AC_SL1500_.jpg",
+   "loja": "Loja oficial Fast Shop · entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-29T23:59:00-03:00",
+   "entrou": "2026-10-29T12:06:16.750661-03:00"
+  },
+  {
+   "id": "amz-B0BQ7KJ9NV",
+   "canal": "tech",
+   "nome": "Monitor Samsung 32\" UHD 4K com HDMI, DisplayPort e FreeSync",
+   "preco_antigo": 2099.0,
+   "preco": 1164.6,
+   "desconto": 45,
+   "link": "https://www.amazon.com.br/dp/B0BQ7KJ9NV?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/91XfEXGz9UL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-29T23:59:00-03:00",
+   "entrou": "2026-10-29T12:06:16.750661-03:00"
+  },
+  {
+   "id": "amz-B081PP4CB6",
+   "canal": "tech",
+   "nome": "Headset Gamer Sem Fio Logitech G PRO X LIGHTSPEED",
+   "preco_antigo": 1699.9,
+   "preco": 1085.0,
+   "desconto": 36,
+   "link": "https://www.amazon.com.br/dp/B081PP4CB6?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51Vqs9NufmL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-29T23:59:00-03:00",
+   "entrou": "2026-10-29T12:06:16.750661-03:00"
   }
  ],
  "menus_fixados": [
