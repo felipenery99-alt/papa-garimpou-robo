@@ -108,7 +108,11 @@
   "2026-10-29 achadinhos 19:30 amz-B0DKY6272P",
   "2026-10-29 tech 19:44 amz-B0HCCL1361",
   "2026-10-29 marcas 19:50 amz-B0CZPSD2SC",
-  "2026-10-29 marcas 19:54 amz-B0CZMDQ2XJ"
+  "2026-10-29 marcas 19:54 amz-B0CZMDQ2XJ",
+  "2026-10-29 tech 20:05 amz-B0FSGL8YCN",
+  "2026-10-29 tech 20:11 amz-B0CJ9RGJ18",
+  "2026-10-29 tech 20:18 amz-B0FJHYW5BK",
+  "2026-10-29 tech 20:34 amz-B0B12DV64Y"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -230,7 +234,11 @@
   "amz-B0DKY6272P": "2026-10-29T19:30:23.669210-03:00",
   "amz-B0HCCL1361": "2026-10-29T19:44:07.165193-03:00",
   "amz-B0CZPSD2SC": "2026-10-29T19:50:53.729403-03:00",
-  "amz-B0CZMDQ2XJ": "2026-10-29T19:54:57.799978-03:00"
+  "amz-B0CZMDQ2XJ": "2026-10-29T19:54:57.799978-03:00",
+  "amz-B0FSGL8YCN": "2026-10-29T20:05:18.796708-03:00",
+  "amz-B0CJ9RGJ18": "2026-10-29T20:11:40.819771-03:00",
+  "amz-B0FJHYW5BK": "2026-10-29T20:18:43.784050-03:00",
+  "amz-B0B12DV64Y": "2026-10-29T20:34:43.967874-03:00"
  },
  "ofertas_dia": [
   {
@@ -1895,6 +1903,66 @@
    "valida_ate": "2026-10-29T23:59:00-03:00",
    "entrou": "2026-10-29T19:51:19.223614-03:00",
    "dia": "2026-10-29"
+  },
+  {
+   "id": "amz-B0FSGL8YCN",
+   "canal": "tech",
+   "nome": "Fone Samsung Galaxy Buds3 FE com Galaxy AI - Preto",
+   "preco_antigo": 1099.0,
+   "preco": 698.86,
+   "desconto": 36,
+   "link": "https://www.amazon.com.br/dp/B0FSGL8YCN?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/41H9MaEFcTL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-29T23:59:00-03:00",
+   "entrou": "2026-10-29T18:15:14.697318-03:00",
+   "dia": "2026-10-29"
+  },
+  {
+   "id": "amz-B0CJ9RGJ18",
+   "canal": "tech",
+   "nome": "Mouse Gamer sem fio Logitech G PRO X Superlight 2",
+   "preco_antigo": 999.9,
+   "preco": 634.08,
+   "desconto": 37,
+   "link": "https://www.amazon.com.br/dp/B0CJ9RGJ18?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51fBcz6DnTL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-29T23:59:00-03:00",
+   "entrou": "2026-10-29T18:15:14.697318-03:00",
+   "dia": "2026-10-29"
+  },
+  {
+   "id": "amz-B0FJHYW5BK",
+   "canal": "tech",
+   "nome": "Soundbar Samsung HW-B400F 2.0 canais com subwoofer integrado",
+   "preco_antigo": 849.0,
+   "preco": 578.68,
+   "desconto": 32,
+   "link": "https://www.amazon.com.br/dp/B0FJHYW5BK?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/31lOjHKQFKL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-29T23:59:00-03:00",
+   "entrou": "2026-10-29T19:27:34.853409-03:00",
+   "dia": "2026-10-29"
+  },
+  {
+   "id": "amz-B0B12DV64Y",
+   "canal": "tech",
+   "nome": "GTA V - PlayStation 5",
+   "preco_antigo": 249.9,
+   "preco": 151.28,
+   "desconto": 39,
+   "link": "https://www.amazon.com.br/dp/B0B12DV64Y?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/718md8Ry+IL._AC_SL1020_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-29T23:59:00-03:00",
+   "entrou": "2026-10-29T19:27:34.853409-03:00",
+   "dia": "2026-10-29"
   }
  ],
  "ig_feitos": [
@@ -2039,62 +2107,6 @@
  },
  "ultimo_pilar": "mito",
  "fila": [
-  {
-   "id": "amz-B0FSGL8YCN",
-   "canal": "tech",
-   "nome": "Fone Samsung Galaxy Buds3 FE com Galaxy AI - Preto",
-   "preco_antigo": 1099.0,
-   "preco": 698.86,
-   "desconto": 36,
-   "link": "https://www.amazon.com.br/dp/B0FSGL8YCN?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/41H9MaEFcTL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-10-29T23:59:00-03:00",
-   "entrou": "2026-10-29T18:15:14.697318-03:00"
-  },
-  {
-   "id": "amz-B0CJ9RGJ18",
-   "canal": "tech",
-   "nome": "Mouse Gamer sem fio Logitech G PRO X Superlight 2",
-   "preco_antigo": 999.9,
-   "preco": 634.08,
-   "desconto": 37,
-   "link": "https://www.amazon.com.br/dp/B0CJ9RGJ18?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51fBcz6DnTL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-10-29T23:59:00-03:00",
-   "entrou": "2026-10-29T18:15:14.697318-03:00"
-  },
-  {
-   "id": "amz-B0FJHYW5BK",
-   "canal": "tech",
-   "nome": "Soundbar Samsung HW-B400F 2.0 canais com subwoofer integrado",
-   "preco_antigo": 849.0,
-   "preco": 578.68,
-   "desconto": 32,
-   "link": "https://www.amazon.com.br/dp/B0FJHYW5BK?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/31lOjHKQFKL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-10-29T23:59:00-03:00",
-   "entrou": "2026-10-29T19:27:34.853409-03:00"
-  },
-  {
-   "id": "amz-B0B12DV64Y",
-   "canal": "tech",
-   "nome": "GTA V - PlayStation 5",
-   "preco_antigo": 249.9,
-   "preco": 151.28,
-   "desconto": 39,
-   "link": "https://www.amazon.com.br/dp/B0B12DV64Y?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/718md8Ry+IL._AC_SL1020_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-10-29T23:59:00-03:00",
-   "entrou": "2026-10-29T19:27:34.853409-03:00"
-  },
   {
    "id": "amz-B09743F8P6",
    "canal": "tech",
