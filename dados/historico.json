@@ -79,7 +79,8 @@
   "2026-10-29 achadinhos 14:22 amz-B076YH9Q96",
   "2026-10-29 tech 14:30 amz-B0BQ7KJ9NV",
   "2026-10-29 marcas 14:43 amz-B0F7Y681HT",
-  "2026-10-29 tech 14:57 amz-B081PP4CB6"
+  "2026-10-29 tech 14:57 amz-B081PP4CB6",
+  "2026-10-29 marcas 14:59 amz-B0GV1YWR2P"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -172,7 +173,8 @@
   "amz-B076YH9Q96": "2026-10-29T14:22:03.656318-03:00",
   "amz-B0BQ7KJ9NV": "2026-10-29T14:30:10.369931-03:00",
   "amz-B0F7Y681HT": "2026-10-29T14:43:01.467726-03:00",
-  "amz-B081PP4CB6": "2026-10-29T14:57:24.600108-03:00"
+  "amz-B081PP4CB6": "2026-10-29T14:57:24.600108-03:00",
+  "amz-B0GV1YWR2P": "2026-10-29T14:59:22.836130-03:00"
  },
  "ofertas_dia": [
   {
@@ -1396,6 +1398,22 @@
    "valida_ate": "2026-10-29T23:59:00-03:00",
    "entrou": "2026-10-29T12:06:16.750661-03:00",
    "dia": "2026-10-29"
+  },
+  {
+   "id": "amz-B0GV1YWR2P",
+   "canal": "marcas",
+   "nome": "Tênis Mizuno CSD Sport",
+   "preco_antigo": 499.99,
+   "preco": 224.84,
+   "desconto": 55,
+   "link": "https://www.amazon.com.br/dp/B0GV1YWR2P?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71BLT9kSgwL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-29T23:59:00-03:00",
+   "extra": "Preço conferido no tamanho 43; pode variar por tamanho",
+   "entrou": "2026-10-29T14:18:57.017902-03:00",
+   "dia": "2026-10-29"
   }
  ],
  "ig_feitos": [
@@ -1451,7 +1469,9 @@
   "2026-10-29 12:47 story_oferta",
   "2026-10-29 13:20 story_convite",
   "2026-10-29 13:22 story_oferta",
-  "2026-10-29 14:08 story_oferta"
+  "2026-10-29 14:08 story_oferta",
+  "2026-10-29 feed",
+  "2026-10-29 14:25 post_achado"
  ],
  "ig_ofertas_usadas": [
   "amz-B0GP7KDZRJ",
@@ -1482,7 +1502,8 @@
   "amz-B0CVZ5LZR7",
   "amz-B0BCFKG49M",
   "amz-B01IR0JQMM",
-  "amz-B0DJ985ZLL"
+  "amz-B0DJ985ZLL",
+  "amz-B0B726S9S3"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
@@ -1558,21 +1579,6 @@
    "entrou": "2026-10-29T13:32:14.567284-03:00"
   },
   {
-   "id": "amz-B0GV1YWR2P",
-   "canal": "marcas",
-   "nome": "Tênis Mizuno CSD Sport",
-   "preco_antigo": 499.99,
-   "preco": 224.84,
-   "desconto": 55,
-   "link": "https://www.amazon.com.br/dp/B0GV1YWR2P?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/71BLT9kSgwL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-10-29T23:59:00-03:00",
-   "extra": "Preço conferido no tamanho 43; pode variar por tamanho",
-   "entrou": "2026-10-29T14:18:57.017902-03:00"
-  },
-  {
    "id": "amz-B0G8851RTG",
    "canal": "marcas",
    "nome": "Tênis Puma Dasher Lite Unissex",
@@ -1586,6 +1592,20 @@
    "valida_ate": "2026-10-29T23:59:00-03:00",
    "extra": "Preço conferido no tamanho 40; pode variar por tamanho",
    "entrou": "2026-10-29T14:18:57.017902-03:00"
+  },
+  {
+   "id": "amz-B0DZQF2ZX4",
+   "canal": "tech",
+   "nome": "Jogo Death Stranding 2: On the Beach - PlayStation 5",
+   "preco_antigo": 399.9,
+   "preco": 243.0,
+   "desconto": 39,
+   "link": "https://www.amazon.com.br/dp/B0DZQF2ZX4?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/81mex-54PYL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-29T23:59:00-03:00",
+   "entrou": "2026-10-29T14:57:51.349732-03:00"
   }
  ],
  "menus_fixados": [
