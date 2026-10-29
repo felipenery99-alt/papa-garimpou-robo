@@ -777,7 +777,8 @@
   "2026-10-28 20:35 story_top4",
   "2026-10-28 21:20 story_oferta",
   "2026-10-28 20:38 story_oferta",
-  "2026-10-28 21:24 story_oferta"
+  "2026-10-28 21:24 story_oferta",
+  "2026-10-29 08:07 story_oferta"
  ],
  "ig_ofertas_usadas": [
   "amz-B0GP7KDZRJ",
@@ -822,12 +823,13 @@
   "ac-pix": "2026-10-28",
   "dc-garantia": "2026-10-28",
   "hu-imperdivel": "2026-10-28",
-  "dc-kit": "2026-10-28"
+  "dc-kit": "2026-10-28",
+  "hu-original": "2026-10-29"
  },
  "pecas_dia": {
-  "2026-10-28": 6
+  "2026-10-29": 1
  },
- "ultimo_pilar": "dica",
+ "ultimo_pilar": "humor",
  "fila": [],
  "menus_fixados": [
   "v1 @papagarimpou",
