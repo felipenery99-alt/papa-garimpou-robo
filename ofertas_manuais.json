@@ -612,5 +612,18 @@
   "plataforma": "Amazon",
   "valida_ate": "2026-10-29T23:59:00-03:00",
   "extra": "Preço conferido no tamanho 40; pode variar por tamanho"
+ },
+ {
+  "id": "amz-B0DZQF2ZX4",
+  "canal": "tech",
+  "nome": "Jogo Death Stranding 2: On the Beach - PlayStation 5",
+  "preco_antigo": 399.9,
+  "preco": 243.0,
+  "desconto": 39,
+  "link": "https://www.amazon.com.br/dp/B0DZQF2ZX4?tag=papagarimpou-20",
+  "imagem": "https://m.media-amazon.com/images/I/81mex-54PYL._AC_SL1500_.jpg",
+  "loja": "Vendido e entregue pela Amazon",
+  "plataforma": "Amazon",
+  "valida_ate": "2026-10-29T23:59:00-03:00"
  }
 ]
