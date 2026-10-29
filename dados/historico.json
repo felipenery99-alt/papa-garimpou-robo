@@ -83,7 +83,8 @@
   "2026-10-29 marcas 14:59 amz-B0GV1YWR2P",
   "2026-10-29 marcas 15:15 amz-B0G8851RTG",
   "2026-10-29 tech 15:25 amz-B08T68T1T6",
-  "2026-10-29 tech 15:40 amz-B0DHLBLFXQ"
+  "2026-10-29 tech 15:40 amz-B0DHLBLFXQ",
+  "2026-10-29 tech 15:44 amz-B09HZF2NDR"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -180,7 +181,8 @@
   "amz-B0GV1YWR2P": "2026-10-29T14:59:22.836130-03:00",
   "amz-B0G8851RTG": "2026-10-29T15:15:47.499672-03:00",
   "amz-B08T68T1T6": "2026-10-29T15:25:01.887059-03:00",
-  "amz-B0DHLBLFXQ": "2026-10-29T15:40:59.404844-03:00"
+  "amz-B0DHLBLFXQ": "2026-10-29T15:40:59.404844-03:00",
+  "amz-B09HZF2NDR": "2026-10-29T15:44:40.714083-03:00"
  },
  "ofertas_dia": [
   {
@@ -1466,6 +1468,21 @@
    "valida_ate": "2026-10-29T23:59:00-03:00",
    "entrou": "2026-10-29T13:32:14.567284-03:00",
    "dia": "2026-10-29"
+  },
+  {
+   "id": "amz-B09HZF2NDR",
+   "canal": "tech",
+   "nome": "Mouse Gamer sem Fio Logitech G305 LIGHTSPEED 12.000 DPI",
+   "preco_antigo": 349.9,
+   "preco": 227.26,
+   "desconto": 35,
+   "link": "https://www.amazon.com.br/dp/B09HZF2NDR?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51DYDLykzoL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-29T23:59:00-03:00",
+   "entrou": "2026-10-29T13:32:14.567284-03:00",
+   "dia": "2026-10-29"
   }
  ],
  "ig_feitos": [
@@ -1592,20 +1609,6 @@
  },
  "ultimo_pilar": "mito",
  "fila": [
-  {
-   "id": "amz-B09HZF2NDR",
-   "canal": "tech",
-   "nome": "Mouse Gamer sem Fio Logitech G305 LIGHTSPEED 12.000 DPI",
-   "preco_antigo": 349.9,
-   "preco": 227.26,
-   "desconto": 35,
-   "link": "https://www.amazon.com.br/dp/B09HZF2NDR?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51DYDLykzoL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-10-29T23:59:00-03:00",
-   "entrou": "2026-10-29T13:32:14.567284-03:00"
-  },
   {
    "id": "amz-B0DZQF2ZX4",
    "canal": "tech",
