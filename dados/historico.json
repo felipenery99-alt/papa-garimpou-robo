@@ -107,7 +107,8 @@
   "2026-10-29 tech 19:12 amz-B0DWQNS8TN",
   "2026-10-29 achadinhos 19:30 amz-B0DKY6272P",
   "2026-10-29 tech 19:44 amz-B0HCCL1361",
-  "2026-10-29 marcas 19:50 amz-B0CZPSD2SC"
+  "2026-10-29 marcas 19:50 amz-B0CZPSD2SC",
+  "2026-10-29 marcas 19:54 amz-B0CZMDQ2XJ"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -228,7 +229,8 @@
   "amz-B0DWQNS8TN": "2026-10-29T19:12:37.200146-03:00",
   "amz-B0DKY6272P": "2026-10-29T19:30:23.669210-03:00",
   "amz-B0HCCL1361": "2026-10-29T19:44:07.165193-03:00",
-  "amz-B0CZPSD2SC": "2026-10-29T19:50:53.729403-03:00"
+  "amz-B0CZPSD2SC": "2026-10-29T19:50:53.729403-03:00",
+  "amz-B0CZMDQ2XJ": "2026-10-29T19:54:57.799978-03:00"
  },
  "ofertas_dia": [
   {
@@ -1878,6 +1880,21 @@
    "valida_ate": "2026-10-29T23:59:00-03:00",
    "entrou": "2026-10-29T19:27:34.853409-03:00",
    "dia": "2026-10-29"
+  },
+  {
+   "id": "amz-B0CZMDQ2XJ",
+   "canal": "marcas",
+   "nome": "Garrafa Térmica Stanley Flip Straw 500ml Lavender",
+   "preco_antigo": 245.0,
+   "preco": 164.0,
+   "desconto": 33,
+   "link": "https://www.amazon.com.br/dp/B0CZMDQ2XJ?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51Z+foxxYeL._AC_SL1200_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-29T23:59:00-03:00",
+   "entrou": "2026-10-29T19:51:19.223614-03:00",
+   "dia": "2026-10-29"
   }
  ],
  "ig_feitos": [
@@ -2091,6 +2108,48 @@
    "plataforma": "Amazon",
    "valida_ate": "2026-10-29T23:59:00-03:00",
    "entrou": "2026-10-29T19:27:34.853409-03:00"
+  },
+  {
+   "id": "amz-B0DK3RXTW4",
+   "canal": "tech",
+   "nome": "Fone JBL Tune Buds 2 sem fio com cancelamento de ruído (ANC)",
+   "preco_antigo": 599.0,
+   "preco": 341.05,
+   "desconto": 43,
+   "link": "https://www.amazon.com.br/dp/B0DK3RXTW4?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51It8Afd0PL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-29T23:59:00-03:00",
+   "entrou": "2026-10-29T19:51:19.223614-03:00"
+  },
+  {
+   "id": "amz-B0DJ3GHVVD",
+   "canal": "tech",
+   "nome": "LEGO Horizon Adventures Edição Standard - PS5",
+   "preco_antigo": 229.9,
+   "preco": 124.28,
+   "desconto": 46,
+   "link": "https://www.amazon.com.br/dp/B0DJ3GHVVD?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/81wIQCl6K1L._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-29T23:59:00-03:00",
+   "entrou": "2026-10-29T19:51:19.223614-03:00"
+  },
+  {
+   "id": "amz-B074NBSF9N",
+   "canal": "tech",
+   "nome": "Headset Gamer HyperX Cloud Alpha (PC, PS4, Xbox, Switch)",
+   "preco_antigo": 992.89,
+   "preco": 652.21,
+   "desconto": 34,
+   "link": "https://www.amazon.com.br/dp/B074NBSF9N?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71++S+DNJ+L._AC_SL1500_.jpg",
+   "loja": "Vendido por parceiro · entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-29T23:59:00-03:00",
+   "entrou": "2026-10-29T19:51:19.223614-03:00"
   }
  ],
  "menus_fixados": [
