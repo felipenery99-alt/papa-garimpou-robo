@@ -557,5 +557,60 @@
   "loja": "Vendido e entregue pela Amazon",
   "plataforma": "Amazon",
   "valida_ate": "2026-10-29T23:59:00-03:00"
+ },
+ {
+  "id": "amz-B0F7Y681HT",
+  "canal": "marcas",
+  "nome": "Tênis de Corrida Puma Darter Pro 2 Unissex",
+  "preco_antigo": 549.99,
+  "preco": 228.28,
+  "desconto": 58,
+  "link": "https://www.amazon.com.br/dp/B0F7Y681HT?tag=papagarimpou-20",
+  "imagem": "https://m.media-amazon.com/images/I/71m7EW63L1L._AC_SL1500_.jpg",
+  "loja": "Vendido e entregue pela Amazon",
+  "plataforma": "Amazon",
+  "valida_ate": "2026-10-29T23:59:00-03:00",
+  "extra": "Preço conferido no tamanho 39; pode variar por tamanho"
+ },
+ {
+  "id": "amz-B076YH9Q96",
+  "canal": "achadinhos",
+  "nome": "Aspirador de Pó e Água WAP GTW Inox 20 Litros",
+  "preco_antigo": 769.9,
+  "preco": 343.83,
+  "desconto": 55,
+  "link": "https://www.amazon.com.br/dp/B076YH9Q96?tag=papagarimpou-20",
+  "imagem": "https://m.media-amazon.com/images/I/81vv0h8YvZL._AC_SL1500_.jpg",
+  "loja": "Vendido e entregue pela Amazon",
+  "plataforma": "Amazon",
+  "valida_ate": "2026-10-29T23:59:00-03:00"
+ },
+ {
+  "id": "amz-B0GV1YWR2P",
+  "canal": "marcas",
+  "nome": "Tênis Mizuno CSD Sport",
+  "preco_antigo": 499.99,
+  "preco": 224.84,
+  "desconto": 55,
+  "link": "https://www.amazon.com.br/dp/B0GV1YWR2P?tag=papagarimpou-20",
+  "imagem": "https://m.media-amazon.com/images/I/71BLT9kSgwL._AC_SL1500_.jpg",
+  "loja": "Vendido e entregue pela Amazon",
+  "plataforma": "Amazon",
+  "valida_ate": "2026-10-29T23:59:00-03:00",
+  "extra": "Preço conferido no tamanho 43; pode variar por tamanho"
+ },
+ {
+  "id": "amz-B0G8851RTG",
+  "canal": "marcas",
+  "nome": "Tênis Puma Dasher Lite Unissex",
+  "preco_antigo": 399.99,
+  "preco": 183.16,
+  "desconto": 54,
+  "link": "https://www.amazon.com.br/dp/B0G8851RTG?tag=papagarimpou-20",
+  "imagem": "https://m.media-amazon.com/images/I/51RjKXR2FEL._AC_SL1000_.jpg",
+  "loja": "Vendido e entregue pela Amazon",
+  "plataforma": "Amazon",
+  "valida_ate": "2026-10-29T23:59:00-03:00",
+  "extra": "Preço conferido no tamanho 40; pode variar por tamanho"
  }
 ]
