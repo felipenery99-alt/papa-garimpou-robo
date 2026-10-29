@@ -55,7 +55,13 @@
   "2026-10-29 tech 10:00 amz-B0HBYYN84S",
   "2026-10-29 achadinhos 10:04 amz-B0B4YPMKMW",
   "2026-10-29 marcas 10:12 amz-B0GJMKLJ3P",
-  "2026-10-29 tech 10:19 amz-B08QV3XK76"
+  "2026-10-29 tech 10:19 amz-B08QV3XK76",
+  "2026-10-29 achadinhos 10:36 amz-B07VPFHSDT",
+  "2026-10-29 marcas 10:43 amz-B0FFTRFCDM",
+  "2026-10-29 tech 10:49 amz-B0CP689L59",
+  "2026-10-29 achadinhos 10:54 amz-B0B726S9S3",
+  "2026-10-29 marcas 11:01 amz-B0HF1N8QGR",
+  "2026-10-29 tech 11:05 amz-B09C4T66X3"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -124,7 +130,13 @@
   "amz-B0HBYYN84S": "2026-10-29T10:00:56.540484-03:00",
   "amz-B0B4YPMKMW": "2026-10-29T10:04:58.526241-03:00",
   "amz-B0GJMKLJ3P": "2026-10-29T10:12:48.971491-03:00",
-  "amz-B08QV3XK76": "2026-10-29T10:19:23.535764-03:00"
+  "amz-B08QV3XK76": "2026-10-29T10:19:23.535764-03:00",
+  "amz-B07VPFHSDT": "2026-10-29T10:36:35.550652-03:00",
+  "amz-B0FFTRFCDM": "2026-10-29T10:43:47.065046-03:00",
+  "amz-B0CP689L59": "2026-10-29T10:49:54.704108-03:00",
+  "amz-B0B726S9S3": "2026-10-29T10:54:00.189552-03:00",
+  "amz-B0HF1N8QGR": "2026-10-29T11:01:42.992778-03:00",
+  "amz-B09C4T66X3": "2026-10-29T11:05:23.794368-03:00"
  },
  "ofertas_dia": [
   {
@@ -982,6 +994,97 @@
    "valida_ate": "2026-10-29T23:59:00-03:00",
    "entrou": "2026-10-29T08:45:11.581622-03:00",
    "dia": "2026-10-29"
+  },
+  {
+   "id": "amz-B07VPFHSDT",
+   "canal": "achadinhos",
+   "nome": "Secador de Cabelo Taiff Black Ion 338 2000W 220V",
+   "preco_antigo": 394.9,
+   "preco": 229.99,
+   "desconto": 42,
+   "link": "https://www.amazon.com.br/dp/B07VPFHSDT?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/41kYKPmwdLL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-29T23:59:00-03:00",
+   "entrou": "2026-10-29T09:02:55.186528-03:00",
+   "dia": "2026-10-29"
+  },
+  {
+   "id": "amz-B0FFTRFCDM",
+   "canal": "marcas",
+   "nome": "Tênis Mizuno Neo Vortex",
+   "preco_antigo": 699.99,
+   "preco": 319.9,
+   "desconto": 54,
+   "link": "https://www.amazon.com.br/dp/B0FFTRFCDM?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51tsHrBjFOL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-29T23:59:00-03:00",
+   "extra": "Preço pode variar por tamanho e cor",
+   "entrou": "2026-10-29T09:02:55.186528-03:00",
+   "dia": "2026-10-29"
+  },
+  {
+   "id": "amz-B0CP689L59",
+   "canal": "tech",
+   "nome": "The Last of Us Part II Remastered - PlayStation 5",
+   "preco_antigo": 279.9,
+   "preco": 189.98,
+   "desconto": 32,
+   "link": "https://www.amazon.com.br/dp/B0CP689L59?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61KU9GYqDPL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-29T23:59:00-03:00",
+   "entrou": "2026-10-29T08:45:11.581622-03:00",
+   "dia": "2026-10-29"
+  },
+  {
+   "id": "amz-B0B726S9S3",
+   "canal": "achadinhos",
+   "nome": "Fritadeira Oven Fryer Oster 12L 3 em 1 127V",
+   "preco_antigo": 1549.0,
+   "preco": 562.8,
+   "desconto": 64,
+   "link": "https://www.amazon.com.br/dp/B0B726S9S3?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71wvacsxJ2L._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-29T23:59:00-03:00",
+   "entrou": "2026-10-29T09:02:55.186528-03:00",
+   "dia": "2026-10-29"
+  },
+  {
+   "id": "amz-B0HF1N8QGR",
+   "canal": "marcas",
+   "nome": "Garrafa Térmica Stanley Quick Flip Frost 710ml",
+   "preco_antigo": 269.0,
+   "preco": 149.5,
+   "desconto": 44,
+   "link": "https://www.amazon.com.br/dp/B0HF1N8QGR?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51XjLYM-leL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-29T23:59:00-03:00",
+   "entrou": "2026-10-29T09:02:55.186528-03:00",
+   "dia": "2026-10-29"
+  },
+  {
+   "id": "amz-B09C4T66X3",
+   "canal": "tech",
+   "nome": "Gran Turismo 7 Edição Padrão - PlayStation 5",
+   "preco_antigo": 399.9,
+   "preco": 180.5,
+   "desconto": 55,
+   "link": "https://www.amazon.com.br/dp/B09C4T66X3?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61o3TmIqogL._AC_SL1000_.jpg",
+   "loja": "Vendido por parceiro · entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-29T23:59:00-03:00",
+   "entrou": "2026-10-29T08:45:11.581622-03:00",
+   "dia": "2026-10-29"
   }
  ],
  "ig_feitos": [
@@ -1009,13 +1112,11 @@
   "2026-10-28 15:03 story_oferta",
   "2026-10-28 15:51 story_oferta",
   "2026-10-28 16:44 story_oferta",
-  "2026-10-28 feed",
   "2026-10-28 17:30 reels",
   "2026-10-28 18:05 story_oferta",
   "2026-10-28 17:36 story_oferta",
   "2026-10-28 18:09 story_oferta",
   "2026-10-28 18:42 story_oferta",
-  "2026-10-28 feed",
   "2026-10-28 19:15 post_achado",
   "2026-10-28 19:17 story_oferta",
   "2026-10-28 20:03 story_oferta",
@@ -1028,7 +1129,9 @@
   "2026-10-29 08:52 story_oferta",
   "2026-10-29 feed",
   "2026-10-29 09:35 post_achado",
-  "2026-10-29 09:38 story_oferta"
+  "2026-10-29 09:38 story_oferta",
+  "2026-10-29 10:20 story_oferta",
+  "2026-10-29 10:24 story_oferta"
  ],
  "ig_ofertas_usadas": [
   "amz-B0GP7KDZRJ",
@@ -1052,7 +1155,9 @@
   "amz-B083V5LJPF",
   "amz-B09JH4PD8Q",
   "amz-B0FMYSGWLK",
-  "amz-B0CWBJTLF4"
+  "amz-B0CWBJTLF4",
+  "amz-B0G731G5GK",
+  "amz-B0G1TS4K54"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
@@ -1086,34 +1191,6 @@
  "ultimo_pilar": "mito",
  "fila": [
   {
-   "id": "amz-B0CP689L59",
-   "canal": "tech",
-   "nome": "The Last of Us Part II Remastered - PlayStation 5",
-   "preco_antigo": 279.9,
-   "preco": 189.98,
-   "desconto": 32,
-   "link": "https://www.amazon.com.br/dp/B0CP689L59?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61KU9GYqDPL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-10-29T23:59:00-03:00",
-   "entrou": "2026-10-29T08:45:11.581622-03:00"
-  },
-  {
-   "id": "amz-B09C4T66X3",
-   "canal": "tech",
-   "nome": "Gran Turismo 7 Edição Padrão - PlayStation 5",
-   "preco_antigo": 399.9,
-   "preco": 180.5,
-   "desconto": 55,
-   "link": "https://www.amazon.com.br/dp/B09C4T66X3?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61o3TmIqogL._AC_SL1000_.jpg",
-   "loja": "Vendido por parceiro · entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-10-29T23:59:00-03:00",
-   "entrou": "2026-10-29T08:45:11.581622-03:00"
-  },
-  {
    "id": "amz-B0BH59HP23",
    "canal": "tech",
    "nome": "God of War Ragnarök Edição Standard - PlayStation 5",
@@ -1128,34 +1205,6 @@
    "entrou": "2026-10-29T08:45:11.581622-03:00"
   },
   {
-   "id": "amz-B07VPFHSDT",
-   "canal": "achadinhos",
-   "nome": "Secador de Cabelo Taiff Black Ion 338 2000W 220V",
-   "preco_antigo": 394.9,
-   "preco": 229.99,
-   "desconto": 42,
-   "link": "https://www.amazon.com.br/dp/B07VPFHSDT?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/41kYKPmwdLL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-10-29T23:59:00-03:00",
-   "entrou": "2026-10-29T09:02:55.186528-03:00"
-  },
-  {
-   "id": "amz-B0B726S9S3",
-   "canal": "achadinhos",
-   "nome": "Fritadeira Oven Fryer Oster 12L 3 em 1 127V",
-   "preco_antigo": 1549.0,
-   "preco": 562.8,
-   "desconto": 64,
-   "link": "https://www.amazon.com.br/dp/B0B726S9S3?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/71wvacsxJ2L._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-10-29T23:59:00-03:00",
-   "entrou": "2026-10-29T09:02:55.186528-03:00"
-  },
-  {
    "id": "amz-B0CCXLPKPJ",
    "canal": "achadinhos",
    "nome": "Escova de Dente Elétrica Oral-B iO6 com Sensor de Pressão",
@@ -1164,35 +1213,6 @@
    "desconto": 47,
    "link": "https://www.amazon.com.br/dp/B0CCXLPKPJ?tag=papagarimpou-20",
    "imagem": "https://m.media-amazon.com/images/I/61Dr7W5+eML._AC_SL1200_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-10-29T23:59:00-03:00",
-   "entrou": "2026-10-29T09:02:55.186528-03:00"
-  },
-  {
-   "id": "amz-B0FFTRFCDM",
-   "canal": "marcas",
-   "nome": "Tênis Mizuno Neo Vortex",
-   "preco_antigo": 699.99,
-   "preco": 319.9,
-   "desconto": 54,
-   "link": "https://www.amazon.com.br/dp/B0FFTRFCDM?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51tsHrBjFOL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-10-29T23:59:00-03:00",
-   "extra": "Preço pode variar por tamanho e cor",
-   "entrou": "2026-10-29T09:02:55.186528-03:00"
-  },
-  {
-   "id": "amz-B0HF1N8QGR",
-   "canal": "marcas",
-   "nome": "Garrafa Térmica Stanley Quick Flip Frost 710ml",
-   "preco_antigo": 269.0,
-   "preco": 149.5,
-   "desconto": 44,
-   "link": "https://www.amazon.com.br/dp/B0HF1N8QGR?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51XjLYM-leL._AC_SL1500_.jpg",
    "loja": "Vendido e entregue pela Amazon",
    "plataforma": "Amazon",
    "valida_ate": "2026-10-29T23:59:00-03:00",
@@ -1274,5 +1294,6 @@
   "v1 @papagarimpoumarcas",
   "v1 @papagarimpoutech",
   "v1 @papagarimpouofertas"
- ]
+ ],
+ "feed_dia": {}
 }
