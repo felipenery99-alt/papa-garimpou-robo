@@ -27,7 +27,7 @@ INSTAGRAM_AGENDA = [
     ("08:45", "story_oferta"), ("10:20", "story_oferta"), ("11:50", "carrossel_top5"),
     ("12:15", "story_top4"), ("13:20", "story_convite"), ("15:00", "story_oferta"), ("17:30", "reels"),
     ("18:05", "story_oferta"), ("19:15", "post_achado"), ("20:35", "story_top4"),
-    ("21:20", "story_oferta"),
+    ("21:20", "story_convite"),  # 29/10: 2º convite no pico da noite (Telegram parado em 2 membros/canal)
 ]
 
 # Dono, 28/10: "o Will posta 20 stories por dia pelo menos". Além da agenda acima, cada
