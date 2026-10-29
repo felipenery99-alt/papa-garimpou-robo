@@ -80,7 +80,10 @@
   "2026-10-29 tech 14:30 amz-B0BQ7KJ9NV",
   "2026-10-29 marcas 14:43 amz-B0F7Y681HT",
   "2026-10-29 tech 14:57 amz-B081PP4CB6",
-  "2026-10-29 marcas 14:59 amz-B0GV1YWR2P"
+  "2026-10-29 marcas 14:59 amz-B0GV1YWR2P",
+  "2026-10-29 marcas 15:15 amz-B0G8851RTG",
+  "2026-10-29 tech 15:25 amz-B08T68T1T6",
+  "2026-10-29 tech 15:40 amz-B0DHLBLFXQ"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -174,7 +177,10 @@
   "amz-B0BQ7KJ9NV": "2026-10-29T14:30:10.369931-03:00",
   "amz-B0F7Y681HT": "2026-10-29T14:43:01.467726-03:00",
   "amz-B081PP4CB6": "2026-10-29T14:57:24.600108-03:00",
-  "amz-B0GV1YWR2P": "2026-10-29T14:59:22.836130-03:00"
+  "amz-B0GV1YWR2P": "2026-10-29T14:59:22.836130-03:00",
+  "amz-B0G8851RTG": "2026-10-29T15:15:47.499672-03:00",
+  "amz-B08T68T1T6": "2026-10-29T15:25:01.887059-03:00",
+  "amz-B0DHLBLFXQ": "2026-10-29T15:40:59.404844-03:00"
  },
  "ofertas_dia": [
   {
@@ -1414,6 +1420,52 @@
    "extra": "Preço conferido no tamanho 43; pode variar por tamanho",
    "entrou": "2026-10-29T14:18:57.017902-03:00",
    "dia": "2026-10-29"
+  },
+  {
+   "id": "amz-B0G8851RTG",
+   "canal": "marcas",
+   "nome": "Tênis Puma Dasher Lite Unissex",
+   "preco_antigo": 399.99,
+   "preco": 183.16,
+   "desconto": 54,
+   "link": "https://www.amazon.com.br/dp/B0G8851RTG?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51RjKXR2FEL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-29T23:59:00-03:00",
+   "extra": "Preço conferido no tamanho 40; pode variar por tamanho",
+   "entrou": "2026-10-29T14:18:57.017902-03:00",
+   "dia": "2026-10-29"
+  },
+  {
+   "id": "amz-B08T68T1T6",
+   "canal": "tech",
+   "nome": "Mouse Gamer Redragon Predator RGB M612",
+   "preco_antigo": 159.0,
+   "preco": 79.98,
+   "desconto": 50,
+   "link": "https://www.amazon.com.br/dp/B08T68T1T6?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51AVGfhKbOL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-29T23:59:00-03:00",
+   "entrou": "2026-10-29T13:32:14.567284-03:00",
+   "dia": "2026-10-29"
+  },
+  {
+   "id": "amz-B0DHLBLFXQ",
+   "canal": "tech",
+   "nome": "Fone sem Fio JBL Wave Buds 2 Branco",
+   "preco_antigo": 466.66,
+   "preco": 226.8,
+   "desconto": 51,
+   "link": "https://www.amazon.com.br/dp/B0DHLBLFXQ?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/31AilnfwkbL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-29T23:59:00-03:00",
+   "entrou": "2026-10-29T13:32:14.567284-03:00",
+   "dia": "2026-10-29"
   }
  ],
  "ig_feitos": [
@@ -1471,7 +1523,9 @@
   "2026-10-29 13:22 story_oferta",
   "2026-10-29 14:08 story_oferta",
   "2026-10-29 feed",
-  "2026-10-29 14:25 post_achado"
+  "2026-10-29 14:25 post_achado",
+  "2026-10-29 15:00 story_oferta",
+  "2026-10-29 15:03 story_oferta"
  ],
  "ig_ofertas_usadas": [
   "amz-B0GP7KDZRJ",
@@ -1503,7 +1557,9 @@
   "amz-B0BCFKG49M",
   "amz-B01IR0JQMM",
   "amz-B0DJ985ZLL",
-  "amz-B0B726S9S3"
+  "amz-B0B726S9S3",
+  "amz-B0HBYYN84S",
+  "amz-B0B4YPMKMW"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
@@ -1537,34 +1593,6 @@
  "ultimo_pilar": "mito",
  "fila": [
   {
-   "id": "amz-B08T68T1T6",
-   "canal": "tech",
-   "nome": "Mouse Gamer Redragon Predator RGB M612",
-   "preco_antigo": 159.0,
-   "preco": 79.98,
-   "desconto": 50,
-   "link": "https://www.amazon.com.br/dp/B08T68T1T6?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51AVGfhKbOL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-10-29T23:59:00-03:00",
-   "entrou": "2026-10-29T13:32:14.567284-03:00"
-  },
-  {
-   "id": "amz-B0DHLBLFXQ",
-   "canal": "tech",
-   "nome": "Fone sem Fio JBL Wave Buds 2 Branco",
-   "preco_antigo": 466.66,
-   "preco": 226.8,
-   "desconto": 51,
-   "link": "https://www.amazon.com.br/dp/B0DHLBLFXQ?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/31AilnfwkbL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-10-29T23:59:00-03:00",
-   "entrou": "2026-10-29T13:32:14.567284-03:00"
-  },
-  {
    "id": "amz-B09HZF2NDR",
    "canal": "tech",
    "nome": "Mouse Gamer sem Fio Logitech G305 LIGHTSPEED 12.000 DPI",
@@ -1577,21 +1605,6 @@
    "plataforma": "Amazon",
    "valida_ate": "2026-10-29T23:59:00-03:00",
    "entrou": "2026-10-29T13:32:14.567284-03:00"
-  },
-  {
-   "id": "amz-B0G8851RTG",
-   "canal": "marcas",
-   "nome": "Tênis Puma Dasher Lite Unissex",
-   "preco_antigo": 399.99,
-   "preco": 183.16,
-   "desconto": 54,
-   "link": "https://www.amazon.com.br/dp/B0G8851RTG?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51RjKXR2FEL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-10-29T23:59:00-03:00",
-   "extra": "Preço conferido no tamanho 40; pode variar por tamanho",
-   "entrou": "2026-10-29T14:18:57.017902-03:00"
   },
   {
    "id": "amz-B0DZQF2ZX4",
