@@ -95,7 +95,8 @@
   "2026-10-29 achadinhos 16:58 amz-B0874G5TTM",
   "2026-10-29 marcas 17:05 amz-B0CZSBQ57B",
   "2026-10-29 tech 17:13 amz-B0D6HPB6SF",
-  "2026-10-29 achadinhos 17:29 amz-B0CH5MMSH5"
+  "2026-10-29 achadinhos 17:29 amz-B0CH5MMSH5",
+  "2026-10-29 marcas 17:30 amz-B0CZM4765V"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -204,7 +205,8 @@
   "amz-B0874G5TTM": "2026-10-29T16:58:21.173464-03:00",
   "amz-B0CZSBQ57B": "2026-10-29T17:05:11.319685-03:00",
   "amz-B0D6HPB6SF": "2026-10-29T17:13:28.638814-03:00",
-  "amz-B0CH5MMSH5": "2026-10-29T17:29:28.132009-03:00"
+  "amz-B0CH5MMSH5": "2026-10-29T17:29:28.132009-03:00",
+  "amz-B0CZM4765V": "2026-10-29T17:30:28.235214-03:00"
  },
  "ofertas_dia": [
   {
@@ -1672,6 +1674,21 @@
    "valida_ate": "2026-10-29T23:59:00-03:00",
    "entrou": "2026-10-29T16:55:03.157773-03:00",
    "dia": "2026-10-29"
+  },
+  {
+   "id": "amz-B0CZM4765V",
+   "canal": "marcas",
+   "nome": "Stanley Garrafa Térmica Flip Straw Youth 500ml Iris",
+   "preco_antigo": 245.0,
+   "preco": 152.44,
+   "desconto": 38,
+   "link": "https://www.amazon.com.br/dp/B0CZM4765V?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51iUXCiFYsL._AC_SL1200_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-29T23:59:00-03:00",
+   "entrou": "2026-10-29T16:55:03.157773-03:00",
+   "dia": "2026-10-29"
   }
  ],
  "ig_feitos": [
@@ -1832,20 +1849,6 @@
    "plataforma": "Amazon",
    "valida_ate": "2026-10-29T23:59:00-03:00",
    "entrou": "2026-10-29T16:01:39.329492-03:00"
-  },
-  {
-   "id": "amz-B0CZM4765V",
-   "canal": "marcas",
-   "nome": "Stanley Garrafa Térmica Flip Straw Youth 500ml Iris",
-   "preco_antigo": 245.0,
-   "preco": 152.44,
-   "desconto": 38,
-   "link": "https://www.amazon.com.br/dp/B0CZM4765V?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51iUXCiFYsL._AC_SL1200_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-10-29T23:59:00-03:00",
-   "entrou": "2026-10-29T16:55:03.157773-03:00"
   },
   {
    "id": "amz-B0CNWP4C78",
