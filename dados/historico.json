@@ -167,7 +167,12 @@
   "2026-10-30 achadinhos 16:24 amz-B0DK9WK3ZQ",
   "2026-10-30 achadinhos 16:26 shopee-20799892548",
   "2026-10-30 marcas 16:33 amz-B0FJPBWMLC",
-  "2026-10-30 tech 16:40 amz-B0GVP9G4SJ"
+  "2026-10-30 tech 16:40 amz-B0GVP9G4SJ",
+  "2026-10-30 achadinhos 16:48 shopee-20999203046",
+  "2026-10-30 marcas 16:57 ml-MLB3727972293",
+  "2026-10-30 tech 17:06 amz-B0GR11L1VP",
+  "2026-10-30 achadinhos 17:14 shopee-22594312519",
+  "2026-10-30 marcas 17:23 ml-MLB3972494245"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -348,7 +353,12 @@
   "amz-B0DK9WK3ZQ": "2026-10-30T16:24:00.269836-03:00",
   "shopee-20799892548": "2026-10-30T16:26:36.118648-03:00",
   "amz-B0FJPBWMLC": "2026-10-30T16:33:16.136410-03:00",
-  "amz-B0GVP9G4SJ": "2026-10-30T16:40:39.724553-03:00"
+  "amz-B0GVP9G4SJ": "2026-10-30T16:40:39.724553-03:00",
+  "shopee-20999203046": "2026-10-30T16:48:27.084414-03:00",
+  "ml-MLB3727972293": "2026-10-30T16:57:14.024144-03:00",
+  "amz-B0GR11L1VP": "2026-10-30T17:06:02.337517-03:00",
+  "shopee-22594312519": "2026-10-30T17:14:23.189553-03:00",
+  "ml-MLB3972494245": "2026-10-30T17:23:13.096486-03:00"
  },
  "ofertas_dia": [
   {
@@ -2951,6 +2961,90 @@
    "valida_ate": "2026-10-30T23:59:00-03:00",
    "entrou": "2026-10-30T12:29:20.469613-03:00",
    "dia": "2026-10-30"
+  },
+  {
+   "id": "shopee-20999203046",
+   "plataforma": "Shopee",
+   "nome": "Ventilador Mondial 30cm Vsp 30 B 60hz Loi",
+   "loja": "LOI BRASIL",
+   "loja_oficial": true,
+   "preco": 147.99,
+   "preco_antigo": 279.23,
+   "desconto": 47,
+   "vendas": 4213,
+   "nota": 4.9,
+   "comissao_pct": 6.0,
+   "imagem": "https://cf.shopee.com.br/file/br-11134207-820lg-mralqrfevhfp9f",
+   "link": "https://s.shopee.com.br/1W0Mp7xfWZ",
+   "canal": "achadinhos",
+   "entrou": "2026-10-30T15:11:01.432211-03:00",
+   "dia": "2026-10-30"
+  },
+  {
+   "id": "ml-MLB3727972293",
+   "canal": "marcas",
+   "nome": "Tênis Nike Journey Run Masculino",
+   "preco_antigo": 699.99,
+   "preco": 431.57,
+   "desconto": 38,
+   "link": "https://meli.la/1NTRGWf",
+   "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_992622-MLB100379760320_122025-E-tnis-nike-journey-run-masculino.webp",
+   "loja": "Loja oficial Nike · Mercado Livre",
+   "plataforma": "Mercado Livre",
+   "valida_ate": "2026-10-31T13:00:00-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "entrou": "2026-10-30T13:32:39.751069-03:00",
+   "dia": "2026-10-30"
+  },
+  {
+   "id": "amz-B0GR11L1VP",
+   "canal": "tech",
+   "nome": "Fone Bluetooth JBL Tune 730BT Over-Ear (até 76h de bateria)",
+   "preco_antigo": 399.0,
+   "preco": 251.11,
+   "desconto": 37,
+   "link": "https://www.amazon.com.br/dp/B0GR11L1VP?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61dRLHx9tpL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-30T23:59:00-03:00",
+   "entrou": "2026-10-30T15:11:01.432211-03:00",
+   "dia": "2026-10-30"
+  },
+  {
+   "id": "shopee-22594312519",
+   "plataforma": "Shopee",
+   "nome": "Faqueiro Tramontina Original Leme 20 peças com Lâminas em Aço Inox e Cabos de Polipropileno Vermelho Preto Cinza",
+   "loja": "BIG VARIEDADES 2.0",
+   "loja_oficial": false,
+   "preco": 40.98,
+   "preco_antigo": 89.09,
+   "desconto": 54,
+   "vendas": 686,
+   "nota": 4.9,
+   "comissao_pct": 3.0,
+   "imagem": "https://cf.shopee.com.br/file/br-11134207-820mf-moq7ayfa4wlf12",
+   "link": "https://s.shopee.com.br/6L5ca0WkHu",
+   "canal": "achadinhos",
+   "entrou": "2026-10-30T15:11:01.432211-03:00",
+   "dia": "2026-10-30"
+  },
+  {
+   "id": "ml-MLB3972494245",
+   "canal": "marcas",
+   "nome": "Camiseta Nike Dri-FIT Academy Masculina",
+   "preco_antigo": 149.99,
+   "preco": 85.49,
+   "desconto": 43,
+   "link": "https://meli.la/1yXMvQc",
+   "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_738004-MLB100879755061_122025-E-camiseta-nike-dry-fit-academy-masculina.webp",
+   "loja": "Loja oficial Nike · Mercado Livre",
+   "plataforma": "Mercado Livre",
+   "valida_ate": "2026-10-31T13:00:00-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "gancho": "DRI-FIT DA NIKE QUASE PELA METADE",
+   "entrou": "2026-10-30T13:32:39.751069-03:00",
+   "dia": "2026-10-30"
   }
  ],
  "ig_feitos": [
@@ -3044,7 +3138,8 @@
   "2026-10-30 15:00 story_oferta",
   "2026-10-30 14:25 post_achado",
   "2026-10-30 15:03 story_oferta",
-  "2026-10-30 15:51 story_oferta"
+  "2026-10-30 15:51 story_oferta",
+  "2026-10-30 16:44 story_oferta"
  ],
  "ig_ofertas_usadas": [
   "amz-B0GP7KDZRJ",
@@ -3105,7 +3200,8 @@
   "amz-B0FK6N3H12",
   "shopee-9511754133",
   "amz-B0CCSLRZ19",
-  "amz-B09BYL7M6N"
+  "amz-B09BYL7M6N",
+  "amz-B0DTKSNQF3"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
@@ -3138,69 +3234,6 @@
  },
  "ultimo_pilar": "mito",
  "fila": [
-  {
-   "id": "amz-B0GWS55TV6",
-   "canal": "marcas",
-   "nome": "Kit 4 Cuecas Boxer Lupo Algodão",
-   "preco_antigo": 176.99,
-   "preco": 85.4,
-   "desconto": 52,
-   "link": "https://www.amazon.com.br/dp/B0GWS55TV6?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/81bXmPOjkUL._AC_SL1500_.jpg",
-   "loja": "Vendido por parceiro · entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-10-30T23:59:00-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "entrou": "2026-10-30T12:29:20.469613-03:00"
-  },
-  {
-   "id": "shopee-21799856205",
-   "plataforma": "Shopee",
-   "nome": "Carregador Completo Turbo Power Para Xiaomi Cabo USB + Cabo Tipo C 33W Original",
-   "loja": "Ventori",
-   "loja_oficial": false,
-   "preco": 35.79,
-   "preco_antigo": 67.53,
-   "desconto": 47,
-   "vendas": 1559,
-   "nota": 4.8,
-   "comissao_pct": 6.0,
-   "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-megbwl8xxgqq4f",
-   "link": "https://s.shopee.com.br/AUvBfZUtLX",
-   "canal": "tech",
-   "entrou": "2026-10-30T12:29:20.469613-03:00"
-  },
-  {
-   "id": "ml-MLB3727972293",
-   "canal": "marcas",
-   "nome": "Tênis Nike Journey Run Masculino",
-   "preco_antigo": 699.99,
-   "preco": 431.57,
-   "desconto": 38,
-   "link": "https://meli.la/1NTRGWf",
-   "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_992622-MLB100379760320_122025-E-tnis-nike-journey-run-masculino.webp",
-   "loja": "Loja oficial Nike · Mercado Livre",
-   "plataforma": "Mercado Livre",
-   "valida_ate": "2026-10-31T13:00:00-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "entrou": "2026-10-30T13:32:39.751069-03:00"
-  },
-  {
-   "id": "ml-MLB3972494245",
-   "canal": "marcas",
-   "nome": "Camiseta Nike Dri-FIT Academy Masculina",
-   "preco_antigo": 149.99,
-   "preco": 85.49,
-   "desconto": 43,
-   "link": "https://meli.la/1yXMvQc",
-   "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_738004-MLB100879755061_122025-E-camiseta-nike-dry-fit-academy-masculina.webp",
-   "loja": "Loja oficial Nike · Mercado Livre",
-   "plataforma": "Mercado Livre",
-   "valida_ate": "2026-10-31T13:00:00-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "gancho": "DRI-FIT DA NIKE QUASE PELA METADE",
-   "entrou": "2026-10-30T13:32:39.751069-03:00"
-  },
   {
    "id": "ml-MLB2011808343",
    "canal": "marcas",
@@ -3279,20 +3312,6 @@
    "entrou": "2026-10-30T13:32:39.751069-03:00"
   },
   {
-   "id": "amz-B0GR11L1VP",
-   "canal": "tech",
-   "nome": "Fone Bluetooth JBL Tune 730BT Over-Ear (até 76h de bateria)",
-   "preco_antigo": 399.0,
-   "preco": 251.11,
-   "desconto": 37,
-   "link": "https://www.amazon.com.br/dp/B0GR11L1VP?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61dRLHx9tpL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-10-30T23:59:00-03:00",
-   "entrou": "2026-10-30T15:11:01.432211-03:00"
-  },
-  {
    "id": "amz-B08B459R11",
    "canal": "tech",
    "nome": "Mouse Gamer Logitech G203 LIGHTSYNC RGB",
@@ -3304,40 +3323,6 @@
    "loja": "Vendido e entregue pela Amazon",
    "plataforma": "Amazon",
    "valida_ate": "2026-10-30T23:59:00-03:00",
-   "entrou": "2026-10-30T15:11:01.432211-03:00"
-  },
-  {
-   "id": "shopee-20999203046",
-   "plataforma": "Shopee",
-   "nome": "Ventilador Mondial 30cm Vsp 30 B 60hz Loi",
-   "loja": "LOI BRASIL",
-   "loja_oficial": true,
-   "preco": 147.99,
-   "preco_antigo": 279.23,
-   "desconto": 47,
-   "vendas": 4213,
-   "nota": 4.9,
-   "comissao_pct": 6.0,
-   "imagem": "https://cf.shopee.com.br/file/br-11134207-820lg-mralqrfevhfp9f",
-   "link": "https://s.shopee.com.br/1W0Mp7xfWZ",
-   "canal": "achadinhos",
-   "entrou": "2026-10-30T15:11:01.432211-03:00"
-  },
-  {
-   "id": "shopee-22594312519",
-   "plataforma": "Shopee",
-   "nome": "Faqueiro Tramontina Original Leme 20 peças com Lâminas em Aço Inox e Cabos de Polipropileno Vermelho Preto Cinza",
-   "loja": "BIG VARIEDADES 2.0",
-   "loja_oficial": false,
-   "preco": 40.98,
-   "preco_antigo": 89.09,
-   "desconto": 54,
-   "vendas": 686,
-   "nota": 4.9,
-   "comissao_pct": 3.0,
-   "imagem": "https://cf.shopee.com.br/file/br-11134207-820mf-moq7ayfa4wlf12",
-   "link": "https://s.shopee.com.br/6L5ca0WkHu",
-   "canal": "achadinhos",
    "entrou": "2026-10-30T15:11:01.432211-03:00"
   },
   {
@@ -5273,6 +5258,21 @@
    "plataforma": "Amazon",
    "valida_ate": "2026-10-30T23:59:00-03:00",
    "entrou": "2026-10-30T16:24:23.846504-03:00"
+  },
+  {
+   "id": "amz-B0GWS55TV6",
+   "canal": "marcas",
+   "nome": "Kit 4 Cuecas Boxer Lupo Algodão",
+   "preco_antigo": 176.99,
+   "preco": 85.4,
+   "desconto": 52,
+   "link": "https://www.amazon.com.br/dp/B0GWS55TV6?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/81bXmPOjkUL._AC_SL1500_.jpg",
+   "loja": "Vendido por parceiro · entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-30T23:59:00-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "entrou": "2026-10-30T16:44:53.118733-03:00"
   }
  ],
  "menus_fixados": [
@@ -5305,6 +5305,11 @@
   "parafusadeirafuradeiravonderpfv23820v": "2026-10-30T16:24:00.269836-03:00",
   "fritadeiraeletricasemoleoairfryermondial5lgrandfamilyafn50timer1900w": "2026-10-30T16:26:36.118648-03:00",
   "tenisnewbalancefreshfoamarishiv4masculino": "2026-10-30T16:33:16.136410-03:00",
-  "fonebluetoothjbltune780nccomcancelamentoderuido": "2026-10-30T16:40:39.724553-03:00"
+  "fonebluetoothjbltune780nccomcancelamentoderuido": "2026-10-30T16:40:39.724553-03:00",
+  "ventiladormondial30cmvsp30b60hzloi": "2026-10-30T16:48:27.084414-03:00",
+  "tenisnikejourneyrunmasculino": "2026-10-30T16:57:14.024144-03:00",
+  "fonebluetoothjbltune730btoverearate76hdebateria": "2026-10-30T17:06:02.337517-03:00",
+  "faqueirotramontinaoriginalleme20pecascomlaminasemacoinoxecabosdepolipropilenovermelhopretocinza": "2026-10-30T17:14:23.189553-03:00",
+  "camisetanikedrifitacademymasculina": "2026-10-30T17:23:13.096486-03:00"
  }
 }
