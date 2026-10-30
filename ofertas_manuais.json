@@ -455,5 +455,72 @@
   "plataforma": "Mercado Livre",
   "valida_ate": "2026-10-31T13:00:00-03:00",
   "extra": "Sai R$ 21,60 cada · varia por tamanho e cor"
+ },
+ {
+  "id": "amz-B07H3GFJJ2",
+  "canal": "tech",
+  "nome": "Mouse Gamer HyperX Pulsefire Core RGB 6200 DPI",
+  "preco_antigo": 314.0,
+  "preco": 85.0,
+  "desconto": 73,
+  "link": "https://www.amazon.com.br/dp/B07H3GFJJ2?tag=papagarimpou-20",
+  "imagem": "https://m.media-amazon.com/images/I/61rqBrI4PML._AC_SL1500_.jpg",
+  "loja": "Vendido e entregue pela Amazon",
+  "plataforma": "Amazon",
+  "valida_ate": "2026-10-30T23:59:00-03:00",
+  "gancho": "MOUSE HYPERX COM 73% OFF, O PAPA CONFERIU"
+ },
+ {
+  "id": "amz-B0BYK2VCP7",
+  "canal": "achadinhos",
+  "nome": "Air Fryer Forno Electrolux 5 em 1 12L Digital com Espeto",
+  "preco_antigo": 1299.0,
+  "preco": 695.91,
+  "desconto": 46,
+  "link": "https://www.amazon.com.br/dp/B0BYK2VCP7?tag=papagarimpou-20",
+  "imagem": "https://m.media-amazon.com/images/I/5183mlQX54L._AC_SL1000_.jpg",
+  "loja": "Vendido e entregue pela Amazon",
+  "plataforma": "Amazon",
+  "valida_ate": "2026-10-30T23:59:00-03:00",
+  "gancho": "AIR FRYER QUE VIRA FORNO, QUASE METADE DO PREÇO"
+ },
+ {
+  "id": "amz-B0GR11L1VP",
+  "canal": "tech",
+  "nome": "Fone Bluetooth JBL Tune 730BT Over-Ear (até 76h de bateria)",
+  "preco_antigo": 399.0,
+  "preco": 251.11,
+  "desconto": 37,
+  "link": "https://www.amazon.com.br/dp/B0GR11L1VP?tag=papagarimpou-20",
+  "imagem": "https://m.media-amazon.com/images/I/61dRLHx9tpL._AC_SL1500_.jpg",
+  "loja": "Vendido e entregue pela Amazon",
+  "plataforma": "Amazon",
+  "valida_ate": "2026-10-30T23:59:00-03:00"
+ },
+ {
+  "id": "amz-B08B459R11",
+  "canal": "tech",
+  "nome": "Mouse Gamer Logitech G203 LIGHTSYNC RGB",
+  "preco_antigo": 169.9,
+  "preco": 113.63,
+  "desconto": 33,
+  "link": "https://www.amazon.com.br/dp/B08B459R11?tag=papagarimpou-20",
+  "imagem": "https://m.media-amazon.com/images/I/512M0CAOftL._AC_SL1500_.jpg",
+  "loja": "Vendido e entregue pela Amazon",
+  "plataforma": "Amazon",
+  "valida_ate": "2026-10-30T23:59:00-03:00"
+ },
+ {
+  "id": "amz-B0CLSTLZ4W",
+  "canal": "achadinhos",
+  "nome": "Conjunto 4 Potes de Vidro Herméticos Electrolux",
+  "preco_antigo": 119.9,
+  "preco": 56.9,
+  "desconto": 53,
+  "link": "https://www.amazon.com.br/dp/B0CLSTLZ4W?tag=papagarimpou-20",
+  "imagem": "https://m.media-amazon.com/images/I/51NoccuAxfL._AC_SL1200_.jpg",
+  "loja": "Vendido por parceiro · entregue pela Amazon",
+  "plataforma": "Amazon",
+  "valida_ate": "2026-10-30T23:59:00-03:00"
  }
 ]
