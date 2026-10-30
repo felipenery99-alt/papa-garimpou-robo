@@ -30,6 +30,8 @@ INSTAGRAM_AGENDA = [
     ("21:20", "story_convite"),  # 29/10: 2º convite no pico da noite (Telegram parado em 2 membros/canal)
     # 29/10, dono: "alimentar o feed" — mais 4 posts de achado (sem oferta, sai peça do banco)
     ("09:35", "post_achado"), ("14:25", "post_achado"), ("16:55", "post_achado"), ("20:50", "post_achado"),
+    # 30/10 (CEO): Reels é o que alcança quem ainda não segue. 3 por dia nos picos, cada um com ofertas diferentes.
+    ("12:40", "reels"), ("21:05", "reels"),
 ]
 
 # Dono, 28/10: "o Will posta 20 stories por dia pelo menos". Além da agenda acima, cada
