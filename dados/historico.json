@@ -177,7 +177,8 @@
   "2026-10-30 achadinhos 17:51 shopee-44228031982",
   "2026-10-30 marcas 17:57 shopee-42130479011",
   "2026-10-30 achadinhos 18:00 shopee-23499563838",
-  "2026-10-30 achadinhos 18:25 shopee-58262054508"
+  "2026-10-30 achadinhos 18:25 shopee-58262054508",
+  "2026-10-30 achadinhos 18:30 shopee-22299370593"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -368,7 +369,8 @@
   "shopee-44228031982": "2026-10-30T17:51:14.275986-03:00",
   "shopee-42130479011": "2026-10-30T17:57:59.280802-03:00",
   "shopee-23499563838": "2026-10-30T18:00:40.252268-03:00",
-  "shopee-58262054508": "2026-10-30T18:25:04.494548-03:00"
+  "shopee-58262054508": "2026-10-30T18:25:04.494548-03:00",
+  "shopee-22299370593": "2026-10-30T18:30:44.365296-03:00"
  },
  "ofertas_dia": [
   {
@@ -3145,6 +3147,24 @@
    "canal": "achadinhos",
    "entrou": "2026-10-30T15:11:01.432211-03:00",
    "dia": "2026-10-30"
+  },
+  {
+   "id": "shopee-22299370593",
+   "plataforma": "Shopee",
+   "nome": "Hélice Ventilador Mondial 30 cm Ultra Cores",
+   "loja": "Vento Carioca",
+   "loja_oficial": false,
+   "preco": 15.0,
+   "preco_antigo": 30.0,
+   "desconto": 50,
+   "vendas": 818,
+   "nota": 4.8,
+   "comissao_pct": 3.0,
+   "imagem": "https://cf.shopee.com.br/file/sg-11134201-8261q-mkqquv7oi8lhc1",
+   "link": "https://s.shopee.com.br/AKblLMQ2bR",
+   "canal": "achadinhos",
+   "entrou": "2026-10-30T15:11:01.432211-03:00",
+   "dia": "2026-10-30"
   }
  ],
  "ig_feitos": [
@@ -3240,9 +3260,7 @@
   "2026-10-30 15:03 story_oferta",
   "2026-10-30 15:51 story_oferta",
   "2026-10-30 16:44 story_oferta",
-  "2026-10-30 feed",
   "2026-10-30 16:55 post_achado",
-  "2026-10-30 feed",
   "2026-10-30 17:30 reels",
   "2026-10-30 17:36 story_oferta",
   "2026-10-30 18:05 story_oferta",
@@ -3357,23 +3375,6 @@
    "loja": "Vendido e entregue pela Amazon",
    "plataforma": "Amazon",
    "valida_ate": "2026-10-30T23:59:00-03:00",
-   "entrou": "2026-10-30T15:11:01.432211-03:00"
-  },
-  {
-   "id": "shopee-22299370593",
-   "plataforma": "Shopee",
-   "nome": "Hélice Ventilador Mondial 30 cm Ultra Cores",
-   "loja": "Vento Carioca",
-   "loja_oficial": false,
-   "preco": 15.0,
-   "preco_antigo": 30.0,
-   "desconto": 50,
-   "vendas": 818,
-   "nota": 4.8,
-   "comissao_pct": 3.0,
-   "imagem": "https://cf.shopee.com.br/file/sg-11134201-8261q-mkqquv7oi8lhc1",
-   "link": "https://s.shopee.com.br/AKblLMQ2bR",
-   "canal": "achadinhos",
    "entrou": "2026-10-30T15:11:01.432211-03:00"
   },
   {
@@ -5325,6 +5326,7 @@
   "kitprotetorsolar50fps200mlprotetorsolar50fps100mlniveasunniveasun200ml100ml": "2026-10-30T17:51:14.275986-03:00",
   "creatinasabor7belomaxtitanium300gcreatina7belo": "2026-10-30T17:57:59.280802-03:00",
   "kit2botaotimerknobairfryermondialafn40afn50afn60afn80": "2026-10-30T18:00:40.252268-03:00",
-  "promocaokitqueroseneperfumadonaturacleankit2litroslimpezaprofundaconcentrada": "2026-10-30T18:25:04.494548-03:00"
+  "promocaokitqueroseneperfumadonaturacleankit2litroslimpezaprofundaconcentrada": "2026-10-30T18:25:04.494548-03:00",
+  "heliceventiladormondial30cmultracores": "2026-10-30T18:30:44.365296-03:00"
  }
 }
