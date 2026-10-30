@@ -156,12 +156,12 @@
  },
  "2026-10-30": {
   "erros": [],
-  "ultima_execucao": "15:11",
-  "execucoes": 11,
+  "ultima_execucao": "15:48",
+  "execucoes": 12,
   "telegram_posts": {
-   "achadinhos": 15,
-   "marcas": 13,
-   "tech": 8
+   "achadinhos": 17,
+   "marcas": 14,
+   "tech": 9
   },
   "telegram_membros": {
    "achadinhos": 3,
@@ -185,7 +185,6 @@
    "13:22 story_oferta",
    "14:08 story_oferta",
    "15:00 story_oferta",
-   "feed",
    "14:25 post_achado",
    "15:03 story_oferta"
   ],
