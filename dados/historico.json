@@ -185,7 +185,8 @@
   "2026-10-30 marcas 19:25 nike-015654ID",
   "2026-10-30 tech 19:39 amz-B07TV9B7Z3",
   "2026-10-30 achadinhos 19:46 shopee-19161663337",
-  "2026-10-30 marcas 19:57 nike-061909ID"
+  "2026-10-30 marcas 19:57 nike-061909ID",
+  "2026-10-30 marcas 20:00 amz-B0H4M5X1Y2"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -384,7 +385,8 @@
   "nike-015654ID": "2026-10-30T19:25:26.522904-03:00",
   "amz-B07TV9B7Z3": "2026-10-30T19:39:26.311919-03:00",
   "shopee-19161663337": "2026-10-30T19:46:46.432306-03:00",
-  "nike-061909ID": "2026-10-30T19:57:03.447478-03:00"
+  "nike-061909ID": "2026-10-30T19:57:03.447478-03:00",
+  "amz-B0H4M5X1Y2": "2026-10-30T20:00:13.818584-03:00"
  },
  "ofertas_dia": [
   {
@@ -3299,6 +3301,21 @@
    "valida_ate": "2026-10-31T13:00:00-03:00",
    "entrou": "2026-10-30T15:48:01.592039-03:00",
    "dia": "2026-10-30"
+  },
+  {
+   "id": "amz-B0H4M5X1Y2",
+   "canal": "marcas",
+   "nome": "Kit 2 Pares Meia Puma Feminina Antiderrapante",
+   "preco_antigo": 110.99,
+   "preco": 51.29,
+   "desconto": 54,
+   "link": "https://www.amazon.com.br/dp/B0H4M5X1Y2?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61xNeh4IAFL._AC_SL1500_.jpg",
+   "loja": "Vendido por parceiro · entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-30T23:59:00-03:00",
+   "entrou": "2026-10-30T16:24:23.846504-03:00",
+   "dia": "2026-10-30"
   }
  ],
  "ig_feitos": [
@@ -3399,7 +3416,10 @@
   "2026-10-30 17:36 story_oferta",
   "2026-10-30 18:05 story_oferta",
   "2026-10-30 18:09 story_oferta",
-  "2026-10-30 18:42 story_oferta"
+  "2026-10-30 18:42 story_oferta",
+  "2026-10-30 feed",
+  "2026-10-30 19:15 post_achado",
+  "2026-10-30 19:17 story_oferta"
  ],
  "ig_ofertas_usadas": [
   "amz-B0GP7KDZRJ",
@@ -3466,7 +3486,9 @@
   "amz-B0D8QJRBV3",
   "amz-B0BYK2VCP7",
   "amz-B0G455TF9J",
-  "amz-B07FN1MZBH"
+  "amz-B07FN1MZBH",
+  "shopee-42130479011",
+  "amz-B0CLSTLZ4W"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
@@ -3499,109 +3521,6 @@
  },
  "ultimo_pilar": "mito",
  "fila": [
-  {
-   "id": "nike-016269ID",
-   "canal": "marcas",
-   "nome": "Camiseta Nike Sportswear Club Masculina",
-   "preco_antigo": 129.99,
-   "preco": 63.41,
-   "desconto": 51,
-   "link": "https://tidd.ly/4BuYBaB",
-   "imagem": "https://imgnike-a.akamaihd.net/1920x1920/016269ID.jpg",
-   "loja": "Loja oficial Nike · nike.com.br",
-   "plataforma": "Nike",
-   "valida_ate": "2026-10-31T13:00:00-03:00",
-   "gancho": "NIKE NO PEITO POR MENOS DE R$ 65",
-   "entrou": "2026-10-30T15:48:01.592039-03:00"
-  },
-  {
-   "id": "nike-004386ID",
-   "canal": "marcas",
-   "nome": "Camiseta Jordan Sportswear Jumpman Air Masculina",
-   "preco_antigo": 129.99,
-   "preco": 73.67,
-   "desconto": 43,
-   "link": "https://tidd.ly/4ii9VPS",
-   "imagem": "https://imgnike-a.akamaihd.net/1920x1920/004386ID.jpg",
-   "loja": "Loja oficial Nike · nike.com.br",
-   "plataforma": "Nike",
-   "valida_ate": "2026-10-31T13:00:00-03:00",
-   "gancho": "JUMPMAN NO PEITO SEM PESAR NO BOLSO",
-   "entrou": "2026-10-30T15:48:01.592039-03:00"
-  },
-  {
-   "id": "nike-079609MT",
-   "canal": "marcas",
-   "nome": "Camiseta Corinthians Nike 2026 Treino Masculina",
-   "preco_antigo": 279.99,
-   "preco": 150.36,
-   "desconto": 46,
-   "link": "https://tidd.ly/4eBdn5S",
-   "imagem": "https://imgnike-a.akamaihd.net/1920x1920/079609MT.jpg",
-   "loja": "Loja oficial Nike · nike.com.br",
-   "plataforma": "Nike",
-   "valida_ate": "2026-10-31T13:00:00-03:00",
-   "gancho": "PRO TORCEDOR DO TIMÃO TREINAR NO ESTILO",
-   "entrou": "2026-10-30T15:48:01.592039-03:00"
-  },
-  {
-   "id": "nike-014592IE",
-   "canal": "marcas",
-   "nome": "Tênis Nike SB Chron 2 Canvas Unissex",
-   "preco_antigo": 499.99,
-   "preco": 221.04,
-   "desconto": 56,
-   "link": "https://tidd.ly/4ii9Zz6",
-   "imagem": "https://imgnike-a.akamaihd.net/1920x1920/014592IE.jpg",
-   "loja": "Loja oficial Nike · nike.com.br",
-   "plataforma": "Nike",
-   "valida_ate": "2026-10-31T13:00:00-03:00",
-   "gancho": "SB DA NIKE PELA METADE DO PREÇO",
-   "entrou": "2026-10-30T15:48:01.592039-03:00"
-  },
-  {
-   "id": "nike-023968ID",
-   "canal": "marcas",
-   "nome": "Tênis Nike Legend Essential 3 Next Nature Masculino",
-   "preco_antigo": 549.99,
-   "preco": 297.2,
-   "desconto": 46,
-   "link": "https://tidd.ly/4BCcxQf",
-   "imagem": "https://imgnike-a.akamaihd.net/1920x1920/023968ID.jpg",
-   "loja": "Loja oficial Nike · nike.com.br",
-   "plataforma": "Nike",
-   "valida_ate": "2026-10-31T13:00:00-03:00",
-   "entrou": "2026-10-30T15:48:01.592039-03:00"
-  },
-  {
-   "id": "nike-114071IF",
-   "canal": "marcas",
-   "nome": "Nike Dunk Low Retro SE",
-   "preco_antigo": 999.99,
-   "preco": 649.99,
-   "desconto": 35,
-   "link": "https://tidd.ly/4svl57i",
-   "imagem": "https://imgnike-a.akamaihd.net/1920x1920/114071IF.jpg",
-   "loja": "Loja oficial Nike · nike.com.br",
-   "plataforma": "Nike",
-   "valida_ate": "2026-10-31T13:00:00-03:00",
-   "gancho": "DUNK COM 35% OFF? O PAPA PEGOU",
-   "entrou": "2026-10-30T15:48:01.592039-03:00"
-  },
-  {
-   "id": "amz-B0H4M5X1Y2",
-   "canal": "marcas",
-   "nome": "Kit 2 Pares Meia Puma Feminina Antiderrapante",
-   "preco_antigo": 110.99,
-   "preco": 51.29,
-   "desconto": 54,
-   "link": "https://www.amazon.com.br/dp/B0H4M5X1Y2?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61xNeh4IAFL._AC_SL1500_.jpg",
-   "loja": "Vendido por parceiro · entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-10-30T23:59:00-03:00",
-   "entrou": "2026-10-30T16:24:23.846504-03:00"
-  },
   {
    "id": "amz-B0CKJ83V8K",
    "canal": "marcas",
@@ -3794,6 +3713,95 @@
    "plataforma": "Amazon",
    "valida_ate": "2026-10-30T23:59:00-03:00",
    "entrou": "2026-10-30T19:12:37.763270-03:00"
+  },
+  {
+   "id": "nike-016269ID",
+   "canal": "marcas",
+   "nome": "Camiseta Nike Sportswear Club Masculina",
+   "preco_antigo": 129.99,
+   "preco": 63.41,
+   "desconto": 51,
+   "link": "https://tidd.ly/4BuYBaB",
+   "imagem": "https://imgnike-a.akamaihd.net/1920x1920/016269ID.jpg",
+   "loja": "Loja oficial Nike · nike.com.br",
+   "plataforma": "Nike",
+   "valida_ate": "2026-10-31T13:00:00-03:00",
+   "gancho": "NIKE NO PEITO POR MENOS DE R$ 65",
+   "entrou": "2026-10-30T19:57:23.719917-03:00"
+  },
+  {
+   "id": "nike-004386ID",
+   "canal": "marcas",
+   "nome": "Camiseta Jordan Sportswear Jumpman Air Masculina",
+   "preco_antigo": 129.99,
+   "preco": 73.67,
+   "desconto": 43,
+   "link": "https://tidd.ly/4ii9VPS",
+   "imagem": "https://imgnike-a.akamaihd.net/1920x1920/004386ID.jpg",
+   "loja": "Loja oficial Nike · nike.com.br",
+   "plataforma": "Nike",
+   "valida_ate": "2026-10-31T13:00:00-03:00",
+   "gancho": "JUMPMAN NO PEITO SEM PESAR NO BOLSO",
+   "entrou": "2026-10-30T19:57:23.719917-03:00"
+  },
+  {
+   "id": "nike-079609MT",
+   "canal": "marcas",
+   "nome": "Camiseta Corinthians Nike 2026 Treino Masculina",
+   "preco_antigo": 279.99,
+   "preco": 150.36,
+   "desconto": 46,
+   "link": "https://tidd.ly/4eBdn5S",
+   "imagem": "https://imgnike-a.akamaihd.net/1920x1920/079609MT.jpg",
+   "loja": "Loja oficial Nike · nike.com.br",
+   "plataforma": "Nike",
+   "valida_ate": "2026-10-31T13:00:00-03:00",
+   "gancho": "PRO TORCEDOR DO TIMÃO TREINAR NO ESTILO",
+   "entrou": "2026-10-30T19:57:23.719917-03:00"
+  },
+  {
+   "id": "nike-014592IE",
+   "canal": "marcas",
+   "nome": "Tênis Nike SB Chron 2 Canvas Unissex",
+   "preco_antigo": 499.99,
+   "preco": 221.04,
+   "desconto": 56,
+   "link": "https://tidd.ly/4ii9Zz6",
+   "imagem": "https://imgnike-a.akamaihd.net/1920x1920/014592IE.jpg",
+   "loja": "Loja oficial Nike · nike.com.br",
+   "plataforma": "Nike",
+   "valida_ate": "2026-10-31T13:00:00-03:00",
+   "gancho": "SB DA NIKE PELA METADE DO PREÇO",
+   "entrou": "2026-10-30T19:57:23.719917-03:00"
+  },
+  {
+   "id": "nike-023968ID",
+   "canal": "marcas",
+   "nome": "Tênis Nike Legend Essential 3 Next Nature Masculino",
+   "preco_antigo": 549.99,
+   "preco": 297.2,
+   "desconto": 46,
+   "link": "https://tidd.ly/4BCcxQf",
+   "imagem": "https://imgnike-a.akamaihd.net/1920x1920/023968ID.jpg",
+   "loja": "Loja oficial Nike · nike.com.br",
+   "plataforma": "Nike",
+   "valida_ate": "2026-10-31T13:00:00-03:00",
+   "entrou": "2026-10-30T19:57:23.719917-03:00"
+  },
+  {
+   "id": "nike-114071IF",
+   "canal": "marcas",
+   "nome": "Nike Dunk Low Retro SE",
+   "preco_antigo": 999.99,
+   "preco": 649.99,
+   "desconto": 35,
+   "link": "https://tidd.ly/4svl57i",
+   "imagem": "https://imgnike-a.akamaihd.net/1920x1920/114071IF.jpg",
+   "loja": "Loja oficial Nike · nike.com.br",
+   "plataforma": "Nike",
+   "valida_ate": "2026-10-31T13:00:00-03:00",
+   "gancho": "DUNK COM 35% OFF? O PAPA PEGOU",
+   "entrou": "2026-10-30T19:57:23.719917-03:00"
   }
  ],
  "menus_fixados": [
@@ -3844,6 +3852,7 @@
   "meianikeperformancelightweight3pares": "2026-10-30T19:25:26.522904-03:00",
   "tecladogamerhyperxalloycorergbabnt2": "2026-10-30T19:39:26.311919-03:00",
   "camerainteligentefullhdim3cbrancaintelbras": "2026-10-30T19:46:46.432306-03:00",
-  "shortsnikedrifitacademymasculino": "2026-10-30T19:57:03.447478-03:00"
+  "shortsnikedrifitacademymasculino": "2026-10-30T19:57:03.447478-03:00",
+  "kit2paresmeiapumafemininaantiderrapante": "2026-10-30T20:00:13.818584-03:00"
  }
 }
