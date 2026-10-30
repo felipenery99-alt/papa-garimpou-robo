@@ -14,8 +14,49 @@ def _brl(v: float) -> str:
     return f"R$ {s}"
 
 
+# 30/10 (aprendido com grupo grande de achadinhos): 1ª linha em CAIXA ALTA com humor vende mais que
+# só o nome do produto. Oferta manual pode trazer "gancho" próprio; senão sai um do banco pela categoria.
+GANCHOS = [
+    (r"t[êe]nis|chuteira|dunk|jordan", ["O PAPA CALÇOU E APROVOU", "PISANTE DE MARCA SEM PAGAR CARO",
+                                         "PRA ABAIXAR O PACE E O PREÇO", "ESSE AQUI É PRA ANDAR NA ESTICA"]),
+    (r"perfum|eau de|col[ôo]nia|body splash", ["O CHEIRO DE QUEM SABE COMPRAR", "PERFUMASSO COM PREÇO DE AMIGO",
+                                               "ELOGIO GARANTIDO NO ELEVADOR"]),
+    (r"meia|cueca|boxer", ["A GAVETA AGRADECE", "KITZÃO PRA RENOVAR O ESTOQUE", "BÁSICO DE MARCA, PREÇO DE FEIRA"]),
+    (r"camis|regata|polo|bermuda|short|cal[çc]a|moletom|jaqueta", ["BÁSICO DE MARCA, SEM CILADA",
+                                                                    "O GUARDA-ROUPA DO PAPA APROVOU",
+                                                                    "ROUPA BOA NÃO PRECISA SER CARA",
+                                                                    "PRA ANDAR ALINHADO GASTANDO POUCO",
+                                                                    "ETIQUETA DE MARCA, PREÇO DE PROMOÇÃO",
+                                                                    "VESTE BEM E NÃO PESA NO BOLSO",
+                                                                    "O TREINO E O ROLÊ AGRADECEM"]),
+    (r"whey|creatina|suplement|pr[ée]-treino|barra de prote", ["PRA DEIXAR A SUPLEMENTAÇÃO EM DIA",
+                                                              "O SHAPE AGRADECE", "PUMP NO TREINO, ECONOMIA NO BOLSO"]),
+    (r"ps5|playstation|xbox|nintendo|controle|dualsense|game|headset|gamer",
+     ["O SETUP PEDIU, O PAPA ACHOU", "GAMER QUE É GAMER NÃO PAGA CHEIO", "PRA JOGAR SEM DOR NO BOLSO"]),
+    (r"tv |smart tv|monitor|soundbar|fone|caixa de som|jbl|smartwatch|celular|notebook|tablet|kindle|echo",
+     ["TECNOLOGIA BOA COM DESCONTO DE VERDADE", "O PAPA GARIMPOU NA ELETRÔNICA", "BAIXOU E O PAPA VIU"]),
+    (r"air ?fryer|panela|pote|liquidificador|cafeteira|mixer|stanley|garrafa|copo",
+     ["A COZINHA AGRADECE", "ACHADINHO DE CASA QUE PRESTA", "PRA CASA FICAR NO JEITO"]),
+    (r"shampoo|facial|hidrat|protetor|s[ée]rum|maquiagem|cabelo|barbeador|aparador",
+     ["AUTOCUIDADO SEM PESAR NO BOLSO", "A PELE PEDIU, O PAPA ACHOU"]),
+]
+GANCHOS_GERAIS = ["O PAPA GARIMPOU ESSA", "BAIXOU! CORRE QUE É POR TEMPO LIMITADO", "ACHADO DE MARCA COM PREÇO DE AMIGO"]
+
+
+def gancho(oferta: dict) -> str:
+    import re
+    import zlib
+    if oferta.get("gancho"):
+        return oferta["gancho"].strip().upper()
+    nome = oferta.get("nome", "")
+    opcoes = next((g for padrao, g in GANCHOS if re.search(padrao, nome, re.I)), GANCHOS_GERAIS)
+    if (oferta.get("desconto") or 0) >= 50:
+        opcoes = opcoes + [f"{oferta['desconto']}% OFF EM MARCA BOA? O PAPA PEGOU"]
+    return opcoes[zlib.crc32(str(oferta.get("id", nome)).encode()) % len(opcoes)]
+
+
 def legenda(oferta: dict, canal: str) -> str:
-    linhas = ["😎💎 PAPA GARIMPOU", "", oferta["nome"].strip(), ""]
+    linhas = ["😎💎 PAPA GARIMPOU", "", f"🔥 {gancho(oferta)}", "", oferta["nome"].strip(), ""]
     if oferta.get("preco_antigo") and oferta["preco_antigo"] > oferta["preco"]:
         linhas.append(f"❌ De: {_brl(oferta['preco_antigo'])}")
     linhas.append(f"✅ Por: {_brl(oferta['preco'])} ({oferta['desconto']}% OFF)")
