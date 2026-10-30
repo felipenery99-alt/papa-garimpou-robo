@@ -144,7 +144,8 @@
   "2026-10-30 marcas 10:44 amz-B0G455TF9J",
   "2026-10-30 tech 10:52 amz-B07FN1MZBH",
   "2026-10-30 achadinhos 10:58 amz-B0CLSTLZ4W",
-  "2026-10-30 marcas 11:05 amz-B0CVXT26K5"
+  "2026-10-30 marcas 11:05 amz-B0CVXT26K5",
+  "2026-10-30 achadinhos 12:11 shopee-22997647570"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -302,7 +303,8 @@
   "amz-B0G455TF9J": "2026-10-30T10:44:56.704966-03:00",
   "amz-B07FN1MZBH": "2026-10-30T10:52:16.681310-03:00",
   "amz-B0CLSTLZ4W": "2026-10-30T10:58:06.564446-03:00",
-  "amz-B0CVXT26K5": "2026-10-30T11:05:54.188731-03:00"
+  "amz-B0CVXT26K5": "2026-10-30T11:05:54.188731-03:00",
+  "shopee-22997647570": "2026-10-30T12:11:07.361867-03:00"
  },
  "ofertas_dia": [
   {
@@ -2522,6 +2524,24 @@
    "extra": "Preço a partir de: varia por tamanho e cor",
    "entrou": "2026-10-30T08:17:42.137608-03:00",
    "dia": "2026-10-30"
+  },
+  {
+   "id": "shopee-22997647570",
+   "plataforma": "Shopee",
+   "nome": "Escova secador Modeladora Taiff Oval Easy Pink Original",
+   "loja": "Beleza Renovada Oficial",
+   "loja_oficial": true,
+   "preco": 199.99,
+   "preco_antigo": 454.52,
+   "desconto": 56,
+   "vendas": 675,
+   "nota": 4.9,
+   "comissao_pct": 12.0,
+   "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdwk-m1d2ehidujdhf5",
+   "link": "https://s.shopee.com.br/4B1801IifJ",
+   "canal": "achadinhos",
+   "entrou": "2026-10-30T10:34:54.977311-03:00",
+   "dia": "2026-10-30"
   }
  ],
  "ig_feitos": [
@@ -2602,7 +2622,10 @@
   "2026-10-30 08:45 story_oferta",
   "2026-10-30 08:52 story_oferta",
   "2026-10-30 10:20 story_oferta",
-  "2026-10-30 10:24 story_oferta"
+  "2026-10-30 10:24 story_oferta",
+  "2026-10-30 feed",
+  "2026-10-30 11:50 carrossel_top5",
+  "2026-10-30 11:56 story_oferta"
  ],
  "ig_ofertas_usadas": [
   "amz-B0GP7KDZRJ",
@@ -2654,7 +2677,8 @@
   "amz-B0BFT7XG6C",
   "amz-B08R91NTHY",
   "amz-B0G6G4WFQ3",
-  "amz-B0FV4DRRW9"
+  "amz-B0FV4DRRW9",
+  "amz-B0CX1TKC62"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
@@ -2910,23 +2934,6 @@
    "loja": "Vendido e entregue pela Amazon",
    "plataforma": "Amazon",
    "valida_ate": "2026-10-30T23:59:00-03:00",
-   "entrou": "2026-10-30T10:34:54.977311-03:00"
-  },
-  {
-   "id": "shopee-22997647570",
-   "plataforma": "Shopee",
-   "nome": "Escova secador Modeladora Taiff Oval Easy Pink Original",
-   "loja": "Beleza Renovada Oficial",
-   "loja_oficial": true,
-   "preco": 199.99,
-   "preco_antigo": 454.52,
-   "desconto": 56,
-   "vendas": 675,
-   "nota": 4.9,
-   "comissao_pct": 12.0,
-   "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdwk-m1d2ehidujdhf5",
-   "link": "https://s.shopee.com.br/4B1801IifJ",
-   "canal": "achadinhos",
    "entrou": "2026-10-30T10:34:54.977311-03:00"
   },
   {
@@ -4883,6 +4890,254 @@
    "link": "https://s.shopee.com.br/7puQMoqDhe",
    "canal": "tech",
    "entrou": "2026-10-30T10:34:54.977311-03:00"
+  },
+  {
+   "id": "amz-B08CPW5BR2",
+   "canal": "achadinhos",
+   "nome": "Kit 5 Potes de Vidro Gato Panda 640 ml",
+   "preco_antigo": 99.0,
+   "preco": 55.0,
+   "desconto": 44,
+   "link": "https://www.amazon.com.br/dp/B08CPW5BR2?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/814oRtHfLLL._AC_SL1500_.jpg",
+   "loja": "Vendido por parceiro · entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-30T23:59:00-03:00",
+   "entrou": "2026-10-30T12:06:44.296305-03:00"
+  },
+  {
+   "id": "amz-B0CRBJYG6P",
+   "canal": "achadinhos",
+   "nome": "Air Fryer Britânia BFR50 5,5L 1500W 220V",
+   "preco_antigo": 425.0,
+   "preco": 260.0,
+   "desconto": 39,
+   "link": "https://www.amazon.com.br/dp/B0CRBJYG6P?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51hJQRHRUJL._AC_SL1200_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-30T23:59:00-03:00",
+   "extra": "Versão 220V",
+   "entrou": "2026-10-30T12:06:44.296305-03:00"
+  },
+  {
+   "id": "amz-B08DFJRCJB",
+   "canal": "achadinhos",
+   "nome": "Liquidificador Oster 1400 Full 3,2L 220V",
+   "preco_antigo": 319.9,
+   "preco": 156.0,
+   "desconto": 51,
+   "link": "https://www.amazon.com.br/dp/B08DFJRCJB?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51N3Xi4JJML._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-30T23:59:00-03:00",
+   "extra": "Versão 220V",
+   "entrou": "2026-10-30T12:06:44.296305-03:00"
+  },
+  {
+   "id": "amz-B0DK9WK3ZQ",
+   "canal": "achadinhos",
+   "nome": "Parafusadeira/Furadeira Vonder PFV 238 20V",
+   "preco_antigo": 475.22,
+   "preco": 206.05,
+   "desconto": 57,
+   "link": "https://www.amazon.com.br/dp/B0DK9WK3ZQ?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/6137Taup2AL._AC_SL1200_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-30T23:59:00-03:00",
+   "entrou": "2026-10-30T12:06:44.296305-03:00"
+  },
+  {
+   "id": "amz-B0D6TJGDX8",
+   "canal": "marcas",
+   "nome": "Tênis New Balance BB80 Unissex",
+   "preco_antigo": 399.99,
+   "preco": 237.4,
+   "desconto": 41,
+   "link": "https://www.amazon.com.br/dp/B0D6TJGDX8?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/41P94bPe9UL._AC_SL1000_.jpg",
+   "loja": "Vendido por parceiro · entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-30T23:59:00-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "entrou": "2026-10-30T12:06:44.296305-03:00"
+  },
+  {
+   "id": "amz-B0F7V783DV",
+   "canal": "marcas",
+   "nome": "Tênis Fila Racer Fastpace Masculino",
+   "preco_antigo": 499.99,
+   "preco": 219.9,
+   "desconto": 56,
+   "link": "https://www.amazon.com.br/dp/B0F7V783DV?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/517Z6pntJHL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-30T23:59:00-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "entrou": "2026-10-30T12:06:44.296305-03:00"
+  },
+  {
+   "id": "amz-B0H4M5X1Y2",
+   "canal": "marcas",
+   "nome": "Kit 2 Pares Meia Puma Feminina Antiderrapante",
+   "preco_antigo": 110.99,
+   "preco": 51.29,
+   "desconto": 54,
+   "link": "https://www.amazon.com.br/dp/B0H4M5X1Y2?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61xNeh4IAFL._AC_SL1500_.jpg",
+   "loja": "Vendido por parceiro · entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-30T23:59:00-03:00",
+   "entrou": "2026-10-30T12:06:44.296305-03:00"
+  },
+  {
+   "id": "amz-B0CKJ83V8K",
+   "canal": "marcas",
+   "nome": "Tênis Puma Club II Era",
+   "preco_antigo": 449.99,
+   "preco": 206.0,
+   "desconto": 54,
+   "link": "https://www.amazon.com.br/dp/B0CKJ83V8K?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/41q7j21yBrL._AC_SL1200_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-30T23:59:00-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "gancho": "PUMA CLUB II POR MENOS DA METADE",
+   "entrou": "2026-10-30T12:06:44.296305-03:00"
+  },
+  {
+   "id": "amz-B0D8BXW5TD",
+   "canal": "marcas",
+   "nome": "Best Whey Atlhetica Nutrition Achocolatado Toddy",
+   "preco_antigo": 299.0,
+   "preco": 188.91,
+   "desconto": 37,
+   "link": "https://www.amazon.com.br/dp/B0D8BXW5TD?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71p9cXSpGRL._AC_SL1500_.jpg",
+   "loja": "Vendido por parceiro · entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-30T23:59:00-03:00",
+   "entrou": "2026-10-30T12:06:44.296305-03:00"
+  },
+  {
+   "id": "amz-B0F79VDTM4",
+   "canal": "marcas",
+   "nome": "Kit 4 Cuecas Boxer Lupo Algodão",
+   "preco_antigo": 176.99,
+   "preco": 71.24,
+   "desconto": 60,
+   "link": "https://www.amazon.com.br/dp/B0F79VDTM4?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71EU6CMvlIL._AC_SL1500_.jpg",
+   "loja": "Vendido por parceiro · entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-30T23:59:00-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "gancho": "4 CUECAS LUPO E A GAVETA RESOLVIDA",
+   "entrou": "2026-10-30T12:06:44.296305-03:00"
+  },
+  {
+   "id": "amz-B0DX7HNLRM",
+   "canal": "tech",
+   "nome": "Lost Soul Aside – PS5",
+   "preco_antigo": 339.9,
+   "preco": 140.55,
+   "desconto": 59,
+   "link": "https://www.amazon.com.br/dp/B0DX7HNLRM?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/711jV93F-jL._AC_SL1200_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-30T23:59:00-03:00",
+   "entrou": "2026-10-30T12:06:44.296305-03:00"
+  },
+  {
+   "id": "amz-B0GM1LSHQF",
+   "canal": "tech",
+   "nome": "Fone JBL Tune 530BT Bluetooth Over-Ear",
+   "preco_antigo": 299.0,
+   "preco": 168.31,
+   "desconto": 44,
+   "link": "https://www.amazon.com.br/dp/B0GM1LSHQF?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61cnqHlVvEL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-30T23:59:00-03:00",
+   "entrou": "2026-10-30T12:06:44.296305-03:00"
+  },
+  {
+   "id": "amz-B07TV9B7Z3",
+   "canal": "tech",
+   "nome": "Teclado Gamer HyperX Alloy Core RGB ABNT2",
+   "preco_antigo": 419.9,
+   "preco": 119.98,
+   "desconto": 71,
+   "link": "https://www.amazon.com.br/dp/B07TV9B7Z3?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61XRKm0vZaL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-30T23:59:00-03:00",
+   "gancho": "TECLADO HYPERX COM RGB POR MENOS DE 120",
+   "entrou": "2026-10-30T12:06:44.296305-03:00"
+  },
+  {
+   "id": "amz-B0DJQ11WXY",
+   "canal": "tech",
+   "nome": "Monitor Gamer LG UltraGear 32\" QHD 165Hz",
+   "preco_antigo": 1599.0,
+   "preco": 1104.15,
+   "desconto": 31,
+   "link": "https://www.amazon.com.br/dp/B0DJQ11WXY?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71qs7g2gluL._AC_SL1200_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-30T23:59:00-03:00",
+   "entrou": "2026-10-30T12:06:44.296305-03:00"
+  },
+  {
+   "id": "amz-B0FDXB22BL",
+   "canal": "tech",
+   "nome": "Samsung Galaxy Watch8 40mm LTE Grafite",
+   "preco_antigo": 3299.0,
+   "preco": 1331.1,
+   "desconto": 60,
+   "link": "https://www.amazon.com.br/dp/B0FDXB22BL?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61zc3QnQvcL._AC_SL1500_.jpg",
+   "loja": "Vendido por parceiro · entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-30T23:59:00-03:00",
+   "gancho": "GALAXY WATCH8 COM MAIS DA METADE DE DESCONTO",
+   "entrou": "2026-10-30T12:06:44.296305-03:00"
+  },
+  {
+   "id": "amz-B0CVCG6S9C",
+   "canal": "tech",
+   "nome": "Smartwatch Samsung Galaxy Fit3 Prata",
+   "preco_antigo": 549.0,
+   "preco": 213.65,
+   "desconto": 61,
+   "link": "https://www.amazon.com.br/dp/B0CVCG6S9C?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51It6ch5f7L._AC_SL1500_.jpg",
+   "loja": "Vendido por parceiro · entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-30T23:59:00-03:00",
+   "entrou": "2026-10-30T12:06:44.296305-03:00"
+  },
+  {
+   "id": "amz-B0F7T2Y46Y",
+   "canal": "tech",
+   "nome": "Caixa de Som JBL Flip 7 Bluetooth 25W Preta",
+   "preco_antigo": 899.0,
+   "preco": 585.19,
+   "desconto": 35,
+   "link": "https://www.amazon.com.br/dp/B0F7T2Y46Y?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61S6CABfB7L._AC_SL1500_.jpg",
+   "loja": "Vendido por parceiro · entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-30T23:59:00-03:00",
+   "entrou": "2026-10-30T12:06:44.296305-03:00"
   }
  ],
  "menus_fixados": [
@@ -4891,5 +5146,8 @@
   "v1 @papagarimpoutech",
   "v1 @papagarimpouofertas"
  ],
- "feed_dia": {}
+ "feed_dia": {},
+ "postados_nome": {
+  "escovasecadormodeladorataiffovaleasypinkoriginal": "2026-10-30T12:11:07.361867-03:00"
+ }
 }
