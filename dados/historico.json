@@ -173,7 +173,9 @@
   "2026-10-30 tech 17:06 amz-B0GR11L1VP",
   "2026-10-30 achadinhos 17:14 shopee-22594312519",
   "2026-10-30 marcas 17:23 ml-MLB3972494245",
-  "2026-10-30 achadinhos 17:26 shopee-19599030130"
+  "2026-10-30 achadinhos 17:26 shopee-19599030130",
+  "2026-10-30 achadinhos 17:51 shopee-44228031982",
+  "2026-10-30 marcas 17:57 shopee-42130479011"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -360,7 +362,9 @@
   "amz-B0GR11L1VP": "2026-10-30T17:06:02.337517-03:00",
   "shopee-22594312519": "2026-10-30T17:14:23.189553-03:00",
   "ml-MLB3972494245": "2026-10-30T17:23:13.096486-03:00",
-  "shopee-19599030130": "2026-10-30T17:26:08.609606-03:00"
+  "shopee-19599030130": "2026-10-30T17:26:08.609606-03:00",
+  "shopee-44228031982": "2026-10-30T17:51:14.275986-03:00",
+  "shopee-42130479011": "2026-10-30T17:57:59.280802-03:00"
  },
  "ofertas_dia": [
   {
@@ -3065,6 +3069,42 @@
    "canal": "achadinhos",
    "entrou": "2026-10-30T15:11:01.432211-03:00",
    "dia": "2026-10-30"
+  },
+  {
+   "id": "shopee-44228031982",
+   "plataforma": "Shopee",
+   "nome": "Kit Protetor Solar 50 FPS 200 ml + Protetor Solar 50 FPS 100 ml - Nivea Sun - Nivea Sun - 200 ml + 100 ml",
+   "loja": "Essencial Vida",
+   "loja_oficial": false,
+   "preco": 54.0,
+   "preco_antigo": 90.0,
+   "desconto": 40,
+   "vendas": 572,
+   "nota": 5.0,
+   "comissao_pct": 9.0,
+   "imagem": "https://cf.shopee.com.br/file/sg-11134201-8261w-mjhoq8c6g7i8db",
+   "link": "https://s.shopee.com.br/7AejZXtlTo",
+   "canal": "achadinhos",
+   "entrou": "2026-10-30T15:11:01.432211-03:00",
+   "dia": "2026-10-30"
+  },
+  {
+   "id": "shopee-42130479011",
+   "plataforma": "Shopee",
+   "nome": "Creatina Sabor 7Belo Max Titanium 300g Creatina 7 Belo",
+   "loja": "Hard Extreme",
+   "loja_oficial": true,
+   "preco": 51.49,
+   "preco_antigo": 190.7,
+   "desconto": 73,
+   "vendas": 510,
+   "nota": 4.9,
+   "comissao_pct": 7.0,
+   "imagem": "https://cf.shopee.com.br/file/br-11134207-820l5-mnn3go0t0e0x13",
+   "link": "https://s.shopee.com.br/AUvBXhCQkY",
+   "canal": "marcas",
+   "entrou": "2026-10-30T15:11:01.432211-03:00",
+   "dia": "2026-10-30"
   }
  ],
  "ig_feitos": [
@@ -3161,7 +3201,10 @@
   "2026-10-30 15:51 story_oferta",
   "2026-10-30 16:44 story_oferta",
   "2026-10-30 feed",
-  "2026-10-30 16:55 post_achado"
+  "2026-10-30 16:55 post_achado",
+  "2026-10-30 feed",
+  "2026-10-30 17:30 reels",
+  "2026-10-30 17:36 story_oferta"
  ],
  "ig_ofertas_usadas": [
   "amz-B0GP7KDZRJ",
@@ -3224,11 +3267,12 @@
   "amz-B0CCSLRZ19",
   "amz-B09BYL7M6N",
   "amz-B0DTKSNQF3",
-  "shopee-22397314985"
+  "shopee-22397314985",
+  "amz-B0D8QJRBV3"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
- "ig_ultimo_reel": "2026-10-29T17:39:53.489567-03:00",
+ "ig_ultimo_reel": "2026-10-30T17:46:14.484842-03:00",
  "pecas_usadas": {
   "ac-preco-inflado": "2026-10-27",
   "dc-7-dias": "2026-10-27",
@@ -3258,83 +3302,6 @@
  "ultimo_pilar": "mito",
  "fila": [
   {
-   "id": "ml-MLB2011808343",
-   "canal": "marcas",
-   "nome": "Camiseta Nike Sportswear Icon Futura Masculina",
-   "preco_antigo": 129.99,
-   "preco": 69.99,
-   "desconto": 46,
-   "link": "https://meli.la/1pnQMUu",
-   "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_806365-MLB100379818270_122025-E-camiseta-nike-sportswear-tee-icon-futura-masculina.webp",
-   "loja": "Loja oficial Nike · Mercado Livre",
-   "plataforma": "Mercado Livre",
-   "valida_ate": "2026-10-31T13:00:00-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "entrou": "2026-10-30T13:32:39.751069-03:00"
-  },
-  {
-   "id": "ml-MLB5133740898",
-   "canal": "marcas",
-   "nome": "Camiseta Nike Sportswear Club Masculina",
-   "preco_antigo": 129.99,
-   "preco": 79.99,
-   "desconto": 38,
-   "link": "https://meli.la/2mXEX5S",
-   "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_747220-MLB113962997989_062026-E-camiseta-nike-sportswear-club-masculina.webp",
-   "loja": "Loja oficial Nike · Mercado Livre",
-   "plataforma": "Mercado Livre",
-   "valida_ate": "2026-10-31T13:00:00-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "gancho": "NIKE NO PEITO SEM GASTAR MUITO",
-   "entrou": "2026-10-30T13:32:39.751069-03:00"
-  },
-  {
-   "id": "ml-MLB4085597457",
-   "canal": "marcas",
-   "nome": "Camiseta Insider Light T-shirt Masculina",
-   "preco_antigo": 189.0,
-   "preco": 58.65,
-   "desconto": 69,
-   "link": "https://meli.la/1eiUpnx",
-   "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_638890-MLB112361363786_062026-E-camiseta-light-t-shirt-insider-masculino.webp",
-   "loja": "Loja oficial Insider · Mercado Livre",
-   "plataforma": "Mercado Livre",
-   "valida_ate": "2026-10-31T13:00:00-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "gancho": "A CAMISETA QUE A GALERA NÃO TIRA DO CORPO",
-   "entrou": "2026-10-30T13:32:39.751069-03:00"
-  },
-  {
-   "id": "ml-MLBU3757103515",
-   "canal": "marcas",
-   "nome": "Camiseta Insider Tech T-shirt Masculina",
-   "preco_antigo": 175.0,
-   "preco": 109.25,
-   "desconto": 38,
-   "link": "https://meli.la/185r2Gi",
-   "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_990925-MLB85730032338_062025-E--camiseta-insider-tech-t-shirt-masculina-adulto.webp",
-   "loja": "Loja oficial Insider · Mercado Livre",
-   "plataforma": "Mercado Livre",
-   "valida_ate": "2026-10-31T13:00:00-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "entrou": "2026-10-30T13:32:39.751069-03:00"
-  },
-  {
-   "id": "ml-MLBU3221577323",
-   "canal": "marcas",
-   "nome": "Kit 5 Camisetas Básicas Slim Hering",
-   "preco_antigo": 249.99,
-   "preco": 108.0,
-   "desconto": 57,
-   "link": "https://meli.la/22JixN6",
-   "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_881097-MLB88020664835_072025-E--kit-com-5-camisetas-masculinas-basicas-slim-hering-4fv31den.webp",
-   "loja": "Loja oficial Hering · Mercado Livre",
-   "plataforma": "Mercado Livre",
-   "valida_ate": "2026-10-31T13:00:00-03:00",
-   "extra": "Sai R$ 21,60 cada · varia por tamanho e cor",
-   "entrou": "2026-10-30T13:32:39.751069-03:00"
-  },
-  {
    "id": "amz-B08B459R11",
    "canal": "tech",
    "nome": "Mouse Gamer Logitech G203 LIGHTSYNC RGB",
@@ -3346,23 +3313,6 @@
    "loja": "Vendido e entregue pela Amazon",
    "plataforma": "Amazon",
    "valida_ate": "2026-10-30T23:59:00-03:00",
-   "entrou": "2026-10-30T15:11:01.432211-03:00"
-  },
-  {
-   "id": "shopee-44228031982",
-   "plataforma": "Shopee",
-   "nome": "Kit Protetor Solar 50 FPS 200 ml + Protetor Solar 50 FPS 100 ml - Nivea Sun - Nivea Sun - 200 ml + 100 ml",
-   "loja": "Essencial Vida",
-   "loja_oficial": false,
-   "preco": 54.0,
-   "preco_antigo": 90.0,
-   "desconto": 40,
-   "vendas": 572,
-   "nota": 5.0,
-   "comissao_pct": 9.0,
-   "imagem": "https://cf.shopee.com.br/file/sg-11134201-8261w-mjhoq8c6g7i8db",
-   "link": "https://s.shopee.com.br/7AejZXtlTo",
-   "canal": "achadinhos",
    "entrou": "2026-10-30T15:11:01.432211-03:00"
   },
   {
@@ -3652,23 +3602,6 @@
    "imagem": "https://cf.shopee.com.br/file/sg-11134201-825ag-muw81hy8fbi8ed",
    "link": "https://s.shopee.com.br/4LKYCKmsnu",
    "canal": "achadinhos",
-   "entrou": "2026-10-30T15:11:01.432211-03:00"
-  },
-  {
-   "id": "shopee-42130479011",
-   "plataforma": "Shopee",
-   "nome": "Creatina Sabor 7Belo Max Titanium 300g Creatina 7 Belo",
-   "loja": "Hard Extreme",
-   "loja_oficial": true,
-   "preco": 51.49,
-   "preco_antigo": 190.7,
-   "desconto": 73,
-   "vendas": 510,
-   "nota": 4.9,
-   "comissao_pct": 7.0,
-   "imagem": "https://cf.shopee.com.br/file/br-11134207-820l5-mnn3go0t0e0x13",
-   "link": "https://s.shopee.com.br/AUvBXhCQkY",
-   "canal": "marcas",
    "entrou": "2026-10-30T15:11:01.432211-03:00"
   },
   {
@@ -5279,6 +5212,67 @@
    "valida_ate": "2026-10-30T23:59:00-03:00",
    "extra": "Preço a partir de: varia por tamanho e cor",
    "entrou": "2026-10-30T16:44:53.118733-03:00"
+  },
+  {
+   "id": "ml-MLB2011808343",
+   "canal": "marcas",
+   "nome": "Camiseta Nike Sportswear Icon Futura Masculina",
+   "preco_antigo": 129.99,
+   "preco": 69.99,
+   "desconto": 46,
+   "link": "https://meli.la/1pnQMUu",
+   "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_806365-MLB100379818270_122025-E-camiseta-nike-sportswear-tee-icon-futura-masculina.webp",
+   "loja": "Loja oficial Nike · Mercado Livre",
+   "plataforma": "Mercado Livre",
+   "valida_ate": "2026-10-31T13:00:00-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "entrou": "2026-10-30T17:46:14.484842-03:00"
+  },
+  {
+   "id": "ml-MLB4085597457",
+   "canal": "marcas",
+   "nome": "Camiseta Insider Light T-shirt Masculina",
+   "preco_antigo": 189.0,
+   "preco": 58.65,
+   "desconto": 69,
+   "link": "https://meli.la/1eiUpnx",
+   "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_638890-MLB112361363786_062026-E-camiseta-light-t-shirt-insider-masculino.webp",
+   "loja": "Loja oficial Insider · Mercado Livre",
+   "plataforma": "Mercado Livre",
+   "valida_ate": "2026-10-31T13:00:00-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "gancho": "A CAMISETA QUE A GALERA NÃO TIRA DO CORPO",
+   "entrou": "2026-10-30T17:46:14.484842-03:00"
+  },
+  {
+   "id": "ml-MLBU3757103515",
+   "canal": "marcas",
+   "nome": "Camiseta Insider Tech T-shirt Masculina",
+   "preco_antigo": 175.0,
+   "preco": 109.25,
+   "desconto": 38,
+   "link": "https://meli.la/185r2Gi",
+   "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_990925-MLB85730032338_062025-E--camiseta-insider-tech-t-shirt-masculina-adulto.webp",
+   "loja": "Loja oficial Insider · Mercado Livre",
+   "plataforma": "Mercado Livre",
+   "valida_ate": "2026-10-31T13:00:00-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "entrou": "2026-10-30T17:46:14.484842-03:00"
+  },
+  {
+   "id": "ml-MLBU3221577323",
+   "canal": "marcas",
+   "nome": "Kit 5 Camisetas Básicas Slim Hering",
+   "preco_antigo": 249.99,
+   "preco": 108.0,
+   "desconto": 57,
+   "link": "https://meli.la/22JixN6",
+   "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_881097-MLB88020664835_072025-E--kit-com-5-camisetas-masculinas-basicas-slim-hering-4fv31den.webp",
+   "loja": "Loja oficial Hering · Mercado Livre",
+   "plataforma": "Mercado Livre",
+   "valida_ate": "2026-10-31T13:00:00-03:00",
+   "extra": "Sai R$ 21,60 cada · varia por tamanho e cor",
+   "entrou": "2026-10-30T17:46:14.484842-03:00"
   }
  ],
  "menus_fixados": [
@@ -5317,6 +5311,8 @@
   "fonebluetoothjbltune730btoverearate76hdebateria": "2026-10-30T17:06:02.337517-03:00",
   "faqueirotramontinaoriginalleme20pecascomlaminasemacoinoxecabosdepolipropilenovermelhopretocinza": "2026-10-30T17:14:23.189553-03:00",
   "camisetanikedrifitacademymasculina": "2026-10-30T17:23:13.096486-03:00",
-  "heliceparaventiladormondial6pas30cm": "2026-10-30T17:26:08.609606-03:00"
+  "heliceparaventiladormondial6pas30cm": "2026-10-30T17:26:08.609606-03:00",
+  "kitprotetorsolar50fps200mlprotetorsolar50fps100mlniveasunniveasun200ml100ml": "2026-10-30T17:51:14.275986-03:00",
+  "creatinasabor7belomaxtitanium300gcreatina7belo": "2026-10-30T17:57:59.280802-03:00"
  }
 }
