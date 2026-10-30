@@ -172,7 +172,8 @@
   "2026-10-30 marcas 16:57 ml-MLB3727972293",
   "2026-10-30 tech 17:06 amz-B0GR11L1VP",
   "2026-10-30 achadinhos 17:14 shopee-22594312519",
-  "2026-10-30 marcas 17:23 ml-MLB3972494245"
+  "2026-10-30 marcas 17:23 ml-MLB3972494245",
+  "2026-10-30 achadinhos 17:26 shopee-19599030130"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -358,7 +359,8 @@
   "ml-MLB3727972293": "2026-10-30T16:57:14.024144-03:00",
   "amz-B0GR11L1VP": "2026-10-30T17:06:02.337517-03:00",
   "shopee-22594312519": "2026-10-30T17:14:23.189553-03:00",
-  "ml-MLB3972494245": "2026-10-30T17:23:13.096486-03:00"
+  "ml-MLB3972494245": "2026-10-30T17:23:13.096486-03:00",
+  "shopee-19599030130": "2026-10-30T17:26:08.609606-03:00"
  },
  "ofertas_dia": [
   {
@@ -3045,6 +3047,24 @@
    "gancho": "DRI-FIT DA NIKE QUASE PELA METADE",
    "entrou": "2026-10-30T13:32:39.751069-03:00",
    "dia": "2026-10-30"
+  },
+  {
+   "id": "shopee-19599030130",
+   "plataforma": "Shopee",
+   "nome": "Helice Para Ventilador Mondial 6 Pás 30cm",
+   "loja": "LumiAcessorios",
+   "loja_oficial": false,
+   "preco": 17.95,
+   "preco_antigo": 30.95,
+   "desconto": 42,
+   "vendas": 1038,
+   "nota": 4.8,
+   "comissao_pct": 9.0,
+   "imagem": "https://cf.shopee.com.br/file/br-11134207-820m2-mnonqgq2524gac",
+   "link": "https://s.shopee.com.br/8AXGlNYHzy",
+   "canal": "achadinhos",
+   "entrou": "2026-10-30T15:11:01.432211-03:00",
+   "dia": "2026-10-30"
   }
  ],
  "ig_feitos": [
@@ -3139,7 +3159,9 @@
   "2026-10-30 14:25 post_achado",
   "2026-10-30 15:03 story_oferta",
   "2026-10-30 15:51 story_oferta",
-  "2026-10-30 16:44 story_oferta"
+  "2026-10-30 16:44 story_oferta",
+  "2026-10-30 feed",
+  "2026-10-30 16:55 post_achado"
  ],
  "ig_ofertas_usadas": [
   "amz-B0GP7KDZRJ",
@@ -3201,7 +3223,8 @@
   "shopee-9511754133",
   "amz-B0CCSLRZ19",
   "amz-B09BYL7M6N",
-  "amz-B0DTKSNQF3"
+  "amz-B0DTKSNQF3",
+  "shopee-22397314985"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
@@ -3323,23 +3346,6 @@
    "loja": "Vendido e entregue pela Amazon",
    "plataforma": "Amazon",
    "valida_ate": "2026-10-30T23:59:00-03:00",
-   "entrou": "2026-10-30T15:11:01.432211-03:00"
-  },
-  {
-   "id": "shopee-19599030130",
-   "plataforma": "Shopee",
-   "nome": "Helice Para Ventilador Mondial 6 Pás 30cm",
-   "loja": "LumiAcessorios",
-   "loja_oficial": false,
-   "preco": 17.95,
-   "preco_antigo": 30.95,
-   "desconto": 42,
-   "vendas": 1038,
-   "nota": 4.8,
-   "comissao_pct": 9.0,
-   "imagem": "https://cf.shopee.com.br/file/br-11134207-820m2-mnonqgq2524gac",
-   "link": "https://s.shopee.com.br/8AXGlNYHzy",
-   "canal": "achadinhos",
    "entrou": "2026-10-30T15:11:01.432211-03:00"
   },
   {
@@ -5310,6 +5316,7 @@
   "tenisnikejourneyrunmasculino": "2026-10-30T16:57:14.024144-03:00",
   "fonebluetoothjbltune730btoverearate76hdebateria": "2026-10-30T17:06:02.337517-03:00",
   "faqueirotramontinaoriginalleme20pecascomlaminasemacoinoxecabosdepolipropilenovermelhopretocinza": "2026-10-30T17:14:23.189553-03:00",
-  "camisetanikedrifitacademymasculina": "2026-10-30T17:23:13.096486-03:00"
+  "camisetanikedrifitacademymasculina": "2026-10-30T17:23:13.096486-03:00",
+  "heliceparaventiladormondial6pas30cm": "2026-10-30T17:26:08.609606-03:00"
  }
 }
