@@ -152,7 +152,11 @@
   "2026-10-30 marcas 13:11 ml-MLBU4074557041",
   "2026-10-30 achadinhos 13:36 shopee-21897631761",
   "2026-10-30 marcas 13:52 shopee-9511754133",
-  "2026-10-30 achadinhos 14:05 shopee-18797677549"
+  "2026-10-30 achadinhos 14:05 shopee-18797677549",
+  "2026-10-30 achadinhos 14:19 shopee-20299205359",
+  "2026-10-30 marcas 14:33 shopee-22397314985",
+  "2026-10-30 tech 14:43 amz-B07H3GFJJ2",
+  "2026-10-30 achadinhos 14:58 shopee-23694191736"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -318,7 +322,11 @@
   "ml-MLBU4074557041": "2026-10-30T13:11:10.532773-03:00",
   "shopee-21897631761": "2026-10-30T13:36:38.213391-03:00",
   "shopee-9511754133": "2026-10-30T13:52:01.273245-03:00",
-  "shopee-18797677549": "2026-10-30T14:05:13.376756-03:00"
+  "shopee-18797677549": "2026-10-30T14:05:13.376756-03:00",
+  "shopee-20299205359": "2026-10-30T14:19:24.024099-03:00",
+  "shopee-22397314985": "2026-10-30T14:33:24.012715-03:00",
+  "amz-B07H3GFJJ2": "2026-10-30T14:43:25.743445-03:00",
+  "shopee-23694191736": "2026-10-30T14:58:31.163522-03:00"
  },
  "ofertas_dia": [
   {
@@ -2678,6 +2686,76 @@
    "canal": "achadinhos",
    "entrou": "2026-10-30T10:34:54.977311-03:00",
    "dia": "2026-10-30"
+  },
+  {
+   "id": "shopee-20299205359",
+   "plataforma": "Shopee",
+   "nome": "Secador De Cabelo Taiff Black Ion Profissional Original2000W",
+   "loja": "Beleza Renovada Oficial",
+   "loja_oficial": true,
+   "preco": 287.1,
+   "preco_antigo": 495.0,
+   "desconto": 42,
+   "vendas": 659,
+   "nota": 4.9,
+   "comissao_pct": 12.0,
+   "imagem": "https://cf.shopee.com.br/file/sg-11134201-822zv-moe6cpfbjkzt52",
+   "link": "https://s.shopee.com.br/40hhniJM0G",
+   "canal": "achadinhos",
+   "entrou": "2026-10-30T10:34:54.977311-03:00",
+   "dia": "2026-10-30"
+  },
+  {
+   "id": "shopee-22397314985",
+   "plataforma": "Shopee",
+   "nome": "Creatina Pote 100g Max Titanium",
+   "loja": "FIT HOUSE",
+   "loja_oficial": true,
+   "preco": 18.52,
+   "preco_antigo": 80.52,
+   "desconto": 77,
+   "vendas": 659,
+   "nota": 4.9,
+   "comissao_pct": 7.0,
+   "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rat2-ma8ydyay5gaa09",
+   "link": "https://s.shopee.com.br/9fM4YAFbRL",
+   "canal": "marcas",
+   "entrou": "2026-10-30T10:34:54.977311-03:00",
+   "dia": "2026-10-30"
+  },
+  {
+   "id": "amz-B07H3GFJJ2",
+   "canal": "tech",
+   "nome": "Mouse Gamer HyperX Pulsefire Core RGB 6200 DPI",
+   "preco_antigo": 314.0,
+   "preco": 85.0,
+   "desconto": 73,
+   "link": "https://www.amazon.com.br/dp/B07H3GFJJ2?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61rqBrI4PML._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-30T23:59:00-03:00",
+   "gancho": "MOUSE HYPERX COM 73% OFF, O PAPA CONFERIU",
+   "entrou": "2026-10-30T10:34:54.977311-03:00",
+   "dia": "2026-10-30"
+  },
+  {
+   "id": "shopee-23694191736",
+   "plataforma": "Shopee",
+   "nome": "Difusor Cachos Universal Para Secador Taiff Vários Modelos",
+   "loja": "Trissé Acessórios",
+   "loja_oficial": false,
+   "preco": 18.9,
+   "preco_antigo": 40.21,
+   "desconto": 53,
+   "vendas": 1044,
+   "nota": 4.8,
+   "comissao_pct": 6.0,
+   "imagem": "https://cf.shopee.com.br/file/br-11134207-820l5-mtgt648yrr40df",
+   "link": "https://s.shopee.com.br/1146ECUm5e",
+   "canal": "achadinhos",
+   "entrou": "2026-10-30T10:34:54.977311-03:00",
+   "dia": "2026-10-30"
   }
  ],
  "ig_feitos": [
@@ -2766,7 +2844,8 @@
   "2026-10-30 12:19 story_oferta",
   "2026-10-30 12:47 story_oferta",
   "2026-10-30 13:20 story_convite",
-  "2026-10-30 13:22 story_oferta"
+  "2026-10-30 13:22 story_oferta",
+  "2026-10-30 14:08 story_oferta"
  ],
  "ig_ofertas_usadas": [
   "amz-B0GP7KDZRJ",
@@ -2822,7 +2901,8 @@
   "amz-B0CX1TKC62",
   "amz-B0G5BP29ZZ",
   "amz-B0CKD98ZHR",
-  "amz-B0DN34CS3X"
+  "amz-B0DN34CS3X",
+  "amz-B07RQ9RGPS"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
@@ -2856,21 +2936,6 @@
  "ultimo_pilar": "mito",
  "fila": [
   {
-   "id": "amz-B07H3GFJJ2",
-   "canal": "tech",
-   "nome": "Mouse Gamer HyperX Pulsefire Core RGB 6200 DPI",
-   "preco_antigo": 314.0,
-   "preco": 85.0,
-   "desconto": 73,
-   "link": "https://www.amazon.com.br/dp/B07H3GFJJ2?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61rqBrI4PML._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-10-30T23:59:00-03:00",
-   "gancho": "MOUSE HYPERX COM 73% OFF, O PAPA CONFERIU",
-   "entrou": "2026-10-30T10:34:54.977311-03:00"
-  },
-  {
    "id": "amz-B0GR11L1VP",
    "canal": "tech",
    "nome": "Fone Bluetooth JBL Tune 730BT Over-Ear (até 76h de bateria)",
@@ -2896,40 +2961,6 @@
    "loja": "Vendido e entregue pela Amazon",
    "plataforma": "Amazon",
    "valida_ate": "2026-10-30T23:59:00-03:00",
-   "entrou": "2026-10-30T10:34:54.977311-03:00"
-  },
-  {
-   "id": "shopee-20299205359",
-   "plataforma": "Shopee",
-   "nome": "Secador De Cabelo Taiff Black Ion Profissional Original2000W",
-   "loja": "Beleza Renovada Oficial",
-   "loja_oficial": true,
-   "preco": 287.1,
-   "preco_antigo": 495.0,
-   "desconto": 42,
-   "vendas": 659,
-   "nota": 4.9,
-   "comissao_pct": 12.0,
-   "imagem": "https://cf.shopee.com.br/file/sg-11134201-822zv-moe6cpfbjkzt52",
-   "link": "https://s.shopee.com.br/40hhniJM0G",
-   "canal": "achadinhos",
-   "entrou": "2026-10-30T10:34:54.977311-03:00"
-  },
-  {
-   "id": "shopee-23694191736",
-   "plataforma": "Shopee",
-   "nome": "Difusor Cachos Universal Para Secador Taiff Vários Modelos",
-   "loja": "Trissé Acessórios",
-   "loja_oficial": false,
-   "preco": 18.9,
-   "preco_antigo": 40.21,
-   "desconto": 53,
-   "vendas": 1044,
-   "nota": 4.8,
-   "comissao_pct": 6.0,
-   "imagem": "https://cf.shopee.com.br/file/br-11134207-820l5-mtgt648yrr40df",
-   "link": "https://s.shopee.com.br/1146ECUm5e",
-   "canal": "achadinhos",
    "entrou": "2026-10-30T10:34:54.977311-03:00"
   },
   {
@@ -3372,23 +3403,6 @@
    "imagem": "https://cf.shopee.com.br/file/sg-11134201-825ag-muw81hy8fbi8ed",
    "link": "https://s.shopee.com.br/4LKYCKmsnu",
    "canal": "achadinhos",
-   "entrou": "2026-10-30T10:34:54.977311-03:00"
-  },
-  {
-   "id": "shopee-22397314985",
-   "plataforma": "Shopee",
-   "nome": "Creatina Pote 100g Max Titanium",
-   "loja": "FIT HOUSE",
-   "loja_oficial": true,
-   "preco": 18.52,
-   "preco_antigo": 80.52,
-   "desconto": 77,
-   "vendas": 659,
-   "nota": 4.9,
-   "comissao_pct": 7.0,
-   "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rat2-ma8ydyay5gaa09",
-   "link": "https://s.shopee.com.br/9fM4YAFbRL",
-   "canal": "marcas",
    "entrou": "2026-10-30T10:34:54.977311-03:00"
   },
   {
@@ -5201,6 +5215,10 @@
   "tenisnikerevolution8feminino": "2026-10-30T13:11:10.532773-03:00",
   "secadordecabelotaiffnewtourmalineprofissional2100w": "2026-10-30T13:36:38.213391-03:00",
   "creatinamaxtitanium300gpura": "2026-10-30T13:52:01.273245-03:00",
-  "secadordecabelotaiffstyleprofissionaloriginal2000w": "2026-10-30T14:05:13.376756-03:00"
+  "secadordecabelotaiffstyleprofissionaloriginal2000w": "2026-10-30T14:05:13.376756-03:00",
+  "secadordecabelotaiffblackionprofissionaloriginal2000w": "2026-10-30T14:19:24.024099-03:00",
+  "creatinapote100gmaxtitanium": "2026-10-30T14:33:24.012715-03:00",
+  "mousegamerhyperxpulsefirecorergb6200dpi": "2026-10-30T14:43:25.743445-03:00",
+  "difusorcachosuniversalparasecadortaiffvariosmodelos": "2026-10-30T14:58:31.163522-03:00"
  }
 }
