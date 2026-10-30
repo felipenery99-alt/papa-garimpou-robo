@@ -117,7 +117,10 @@
   "2026-10-29 tech 20:51 amz-B0DK3RXTW4",
   "2026-10-29 tech 21:03 amz-B0DJ3GHVVD",
   "2026-10-29 tech 21:15 amz-B074NBSF9N",
-  "2026-10-29 achadinhos 21:19 amz-B0CQKK5V35"
+  "2026-10-29 achadinhos 21:19 amz-B0CQKK5V35",
+  "2026-10-29 achadinhos 21:35 amz-B0FRH96P1G",
+  "2026-10-29 tech 21:49 amz-B0GX2K3T8K",
+  "2026-10-29 marcas 21:58 amz-B0FB9KL5JZ"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -248,7 +251,10 @@
   "amz-B0DK3RXTW4": "2026-10-29T20:51:14.761400-03:00",
   "amz-B0DJ3GHVVD": "2026-10-29T21:03:44.242855-03:00",
   "amz-B074NBSF9N": "2026-10-29T21:15:44.092939-03:00",
-  "amz-B0CQKK5V35": "2026-10-29T21:19:09.962179-03:00"
+  "amz-B0CQKK5V35": "2026-10-29T21:19:09.962179-03:00",
+  "amz-B0FRH96P1G": "2026-10-29T21:35:52.430035-03:00",
+  "amz-B0GX2K3T8K": "2026-10-29T21:49:53.018442-03:00",
+  "amz-B0FB9KL5JZ": "2026-10-29T21:58:15.067853-03:00"
  },
  "ofertas_dia": [
   {
@@ -2048,6 +2054,51 @@
    "valida_ate": "2026-10-29T23:59:00-03:00",
    "entrou": "2026-10-29T21:17:05.075778-03:00",
    "dia": "2026-10-29"
+  },
+  {
+   "id": "amz-B0FRH96P1G",
+   "canal": "achadinhos",
+   "nome": "Air Fryer Oven Electrolux por Rita Lobo 12L Digital 1700W",
+   "preco_antigo": 879.9,
+   "preco": 548.51,
+   "desconto": 38,
+   "link": "https://www.amazon.com.br/dp/B0FRH96P1G?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51zqocFSQSL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-29T23:59:00-03:00",
+   "entrou": "2026-10-29T21:17:05.075778-03:00",
+   "dia": "2026-10-29"
+  },
+  {
+   "id": "amz-B0GX2K3T8K",
+   "canal": "tech",
+   "nome": "Headset Gamer Sem Fio Logitech G Astro A20 X LIGHTSPEED",
+   "preco_antigo": 1499.9,
+   "preco": 999.99,
+   "desconto": 33,
+   "link": "https://www.amazon.com.br/dp/B0GX2K3T8K?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71CZn1Ys8wL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-29T23:59:00-03:00",
+   "entrou": "2026-10-29T21:17:05.075778-03:00",
+   "dia": "2026-10-29"
+  },
+  {
+   "id": "amz-B0FB9KL5JZ",
+   "canal": "marcas",
+   "nome": "Tênis Puma Flyer Lite 3 Masculino",
+   "preco_antigo": 329.99,
+   "preco": 209.9,
+   "desconto": 36,
+   "link": "https://www.amazon.com.br/dp/B0FB9KL5JZ?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/514M-QnIAuL._AC_SL1200_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-29T23:59:00-03:00",
+   "entrou": "2026-10-29T21:17:05.075778-03:00",
+   "dia": "2026-10-29"
   }
  ],
  "ig_feitos": [
@@ -2121,7 +2172,9 @@
   "2026-10-29 20:03 story_oferta",
   "2026-10-29 feed",
   "2026-10-29 20:50 post_achado",
-  "2026-10-29 20:38 story_oferta"
+  "2026-10-29 20:38 story_oferta",
+  "2026-10-29 21:20 story_convite",
+  "2026-10-29 21:24 story_oferta"
  ],
  "ig_ofertas_usadas": [
   "amz-B0GP7KDZRJ",
@@ -2167,7 +2220,8 @@
   "amz-B09C4T66X3",
   "amz-B0CCXLPKPJ",
   "amz-B0DKY6272P",
-  "amz-B0BH59HP23"
+  "amz-B0BH59HP23",
+  "amz-B08TLH52PQ"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
@@ -2200,48 +2254,6 @@
  },
  "ultimo_pilar": "mito",
  "fila": [
-  {
-   "id": "amz-B0FRH96P1G",
-   "canal": "achadinhos",
-   "nome": "Air Fryer Oven Electrolux por Rita Lobo 12L Digital 1700W",
-   "preco_antigo": 879.9,
-   "preco": 548.51,
-   "desconto": 38,
-   "link": "https://www.amazon.com.br/dp/B0FRH96P1G?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51zqocFSQSL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-10-29T23:59:00-03:00",
-   "entrou": "2026-10-29T21:17:05.075778-03:00"
-  },
-  {
-   "id": "amz-B0FB9KL5JZ",
-   "canal": "marcas",
-   "nome": "Tênis Puma Flyer Lite 3 Masculino",
-   "preco_antigo": 329.99,
-   "preco": 209.9,
-   "desconto": 36,
-   "link": "https://www.amazon.com.br/dp/B0FB9KL5JZ?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/514M-QnIAuL._AC_SL1200_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-10-29T23:59:00-03:00",
-   "entrou": "2026-10-29T21:17:05.075778-03:00"
-  },
-  {
-   "id": "amz-B0GX2K3T8K",
-   "canal": "tech",
-   "nome": "Headset Gamer Sem Fio Logitech G Astro A20 X LIGHTSPEED",
-   "preco_antigo": 1499.9,
-   "preco": 999.99,
-   "desconto": 33,
-   "link": "https://www.amazon.com.br/dp/B0GX2K3T8K?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/71CZn1Ys8wL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-10-29T23:59:00-03:00",
-   "entrou": "2026-10-29T21:17:05.075778-03:00"
-  },
   {
    "id": "amz-B08M511L1B",
    "canal": "tech",
