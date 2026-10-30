@@ -29,6 +29,9 @@ def avaliar(oferta: dict, canal: str) -> tuple[bool, str]:
         return False, "marca fora da lista boa"
     if canal == "marcas" and not oferta.get("loja_oficial"):
         return False, "canal Marcas exige loja oficial"
+    if str(oferta.get("id", "")).startswith("shopee") and not oferta.get("loja_oficial"):
+        # 30/10: na Shopee, fora da loja oficial só vinha peça genérica com nome de marca
+        return False, "Shopee exige loja oficial"
     if (oferta.get("nota") or 0) < config.NOTA_MINIMA:
         return False, f"nota {oferta.get('nota')} < {config.NOTA_MINIMA}"
     if (oferta.get("vendas") or 0) < config.VENDAS_MINIMAS:

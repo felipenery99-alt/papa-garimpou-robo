@@ -111,7 +111,21 @@ def garimpar_todas(canal: str, fonte, h: dict, agora: datetime) -> list[dict]:
                 reprovados[motivo] = reprovados.get(motivo, 0) + 1
     if not boas:
         print(f"[{canal}] nenhuma oferta boa. Reprovações: {reprovados}")
-    return sorted(boas.values(), key=qualidade.pontuar, reverse=True)
+    # Variedade: no máximo MAX_MESMA_MARCA_DIA ofertas da mesma marca por dia no canal
+    hoje = agora.date().isoformat()
+    por_marca = {}
+    for o in h.get("ofertas_dia", []) + h.get("fila", []):
+        if o.get("canal") == canal and (o.get("dia", hoje) == hoje):
+            m = qualidade.marca_da_oferta(o, canal)
+            por_marca[m] = por_marca.get(m, 0) + 1
+    escolhidas = []
+    for o in sorted(boas.values(), key=qualidade.pontuar, reverse=True):
+        m = qualidade.marca_da_oferta(o, canal)
+        if por_marca.get(m, 0) >= config.MAX_MESMA_MARCA_DIA:
+            continue
+        por_marca[m] = por_marca.get(m, 0) + 1
+        escolhidas.append(o)
+    return escolhidas
 
 
 def garimpar(canal: str, fonte, h: dict, agora: datetime, rodada: int = 0) -> dict | None:

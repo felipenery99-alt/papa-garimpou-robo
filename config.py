@@ -102,7 +102,11 @@ PALAVRAS_PROIBIDAS = [
     "réplica", "replica", "inspirada", "inspirado", "similar", "tipo original", "1ª linha",
     "primeira linha", "aaa", "importada premium", "genérico", "generico", "sem marca",
     "tailandesa", "paralela",
+    # 30/10: peça "compatível com Philips/Taiff/Tramontina" não é da marca, só usa o nome dela
+    "compatível", "compativel", "universal", "vários modelos", "varios modelos", "serve em",
 ]
+# Máximo de ofertas da mesma marca por dia em cada canal (30/10: saíram 4 secadores Taiff seguidos)
+MAX_MESMA_MARCA_DIA = 2
 
 # Termos de busca por canal (rotacionados a cada execução)
 BUSCAS = {
