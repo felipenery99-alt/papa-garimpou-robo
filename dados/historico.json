@@ -122,7 +122,8 @@
   "2026-10-29 tech 21:49 amz-B0GX2K3T8K",
   "2026-10-29 marcas 21:58 amz-B0FB9KL5JZ",
   "2026-10-29 tech 21:59 amz-B08M511L1B",
-  "2026-10-29 marcas 23:00 amz-B09KYHQ8QZ"
+  "2026-10-29 marcas 23:00 amz-B09KYHQ8QZ",
+  "2026-10-29 marcas 23:32 amz-B0BHJNL76T"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -258,7 +259,8 @@
   "amz-B0GX2K3T8K": "2026-10-29T21:49:53.018442-03:00",
   "amz-B0FB9KL5JZ": "2026-10-29T21:58:15.067853-03:00",
   "amz-B08M511L1B": "2026-10-29T21:59:27.906992-03:00",
-  "amz-B09KYHQ8QZ": "2026-10-29T23:00:02.535503-03:00"
+  "amz-B09KYHQ8QZ": "2026-10-29T23:00:02.535503-03:00",
+  "amz-B0BHJNL76T": "2026-10-29T23:32:27.336390-03:00"
  },
  "ofertas_dia": [
   {
@@ -2134,6 +2136,22 @@
    "extra": "Preço a partir de: varia por tamanho e cor",
    "entrou": "2026-10-29T22:58:04.972408-03:00",
    "dia": "2026-10-29"
+  },
+  {
+   "id": "amz-B0BHJNL76T",
+   "canal": "marcas",
+   "nome": "Tech T-shirt Insider Gola V Masculina",
+   "preco_antigo": 165.0,
+   "preco": 68.16,
+   "desconto": 59,
+   "link": "https://www.amazon.com.br/dp/B0BHJNL76T?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51hss67Tm8L._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-30T13:00:00-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "entrou": "2026-10-29T22:58:04.972408-03:00",
+   "dia": "2026-10-29"
   }
  ],
  "ig_feitos": [
@@ -2289,21 +2307,6 @@
  },
  "ultimo_pilar": "mito",
  "fila": [
-  {
-   "id": "amz-B0BHJNL76T",
-   "canal": "marcas",
-   "nome": "Tech T-shirt Insider Gola V Masculina",
-   "preco_antigo": 165.0,
-   "preco": 68.16,
-   "desconto": 59,
-   "link": "https://www.amazon.com.br/dp/B0BHJNL76T?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51hss67Tm8L._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-10-30T13:00:00-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "entrou": "2026-10-29T22:58:04.972408-03:00"
-  },
   {
    "id": "amz-B08T9VHVSP",
    "canal": "marcas",
