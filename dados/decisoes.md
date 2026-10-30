@@ -31,3 +31,11 @@
 - Dono avisou: "tá duplicando postagem". Confirmado: em 28/10, 9 ofertas saíram 2 ou 3 vezes no Telegram (ex.: amz-B0GM1PSWPD às 16:37, 17:13 e 19:04).
 - Causa: 3 execuções (19:40, 20:28 e 23:00 UTC) gravaram um histórico velho por cima do da execução anterior. A execução que espera na fila do GitHub (concurrency) fazia checkout do commit da hora em que entrou na fila, sem os posts da anterior, e repostava. Os stories do Instagram repetiam pelo mesmo motivo.
 - Corrigido: o checkout do robo.yml agora pega sempre o main mais novo (`ref: main`). Ensaio OK.
+
+## 2026-10-30 (rotina do CEO)
+- Visto (29/10): 33 execuções (fila do GitHub repete algumas), 1 erro (story 11:11 "mídia não encontrada" na Meta, pontual, não repetiu). Telegram: 21 achadinhos, 23 marcas, 38 tech. Instagram: 6 feeds, 25 stories ativos (piso ≥3 ok), seguidores 27→57, alcance 72, 86 visitas ao perfil, cliques no link parados em 2. Shopee ainda desligada.
+- META: Instagram 57 de 50 até 03/11 (batida antes do prazo) → meta de 10/11 sobe 30%: 150→195. Telegram 8 de 30 até 03/11 (atrasado: 2 membros por canal há 4 dias).
+- Problema: muita visita no perfil, quase nenhum clique para o Telegram. O convite só mostrava @papagarimpou.
+- Decidido (alavanca nova): story de convite refeito: "4 CANAIS GRÁTIS, ESCOLHA O SEU", com o assunto de cada canal e o @ de cada um (achadinhos, marcas, tech, todas). Quem só quer tech ou roupa acha o seu e pode procurar o @ direto no Telegram, sem depender do clique na bio. Ensaio OK.
+- Próximo: medir cliques e membros em 31/10 e 01/11. Domingo (01/11): +30 peças no banco e pesquisa de contas grandes. BF nas BUSCAS a partir de 03/11.
+- Pedido ao dono: (1) divulgar os 4 canais uma vez no status do WhatsApp (custo zero); (2) conferir se o link da bio do Instagram leva a uma página com os 4 canais, e não só a um.

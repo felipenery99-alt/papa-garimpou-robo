@@ -186,24 +186,29 @@ def capa_reel(linhas=("ACHADOS", "DO PAPA"), sub="Só marca boa, com desconto de
 
 
 def story_convite() -> bytes:
-    """Story fixo de convite para os canais (o mesmo todo dia)."""
+    """Story fixo de convite: mostra os 4 canais para a pessoa escolher o seu."""
+    # 30/10: o convite antigo ("@papagarimpou") não virava clique (2 cliques/dia, 2 membros/canal).
+    # Agora lista os 4 canais grátis, cada um com o assunto, para quem só quer tech ou só roupa achar o seu.
     tema = TEMAS["achadinhos"]
     img = _gradiente(1080, 1920, *tema["fundo"]).convert("RGBA")
     d = ImageDraw.Draw(img)
-    img.alpha_composite(_selo(520), (270, 300))
-    y = 880
-    for linha, tam in (("O PAPA GARIMPA", 96), ("SÓ MARCA", 120), ("BOA", 120)):
+    img.alpha_composite(_selo(420), (330, 260))
+    y = 730
+    for linha, tam in (("4 CANAIS GRÁTIS", 104), ("ESCOLHA O SEU", 92)):
         _centro(d, y, linha, _fonte(tam), tema["texto"])
-        y += tam + 10
+        y += tam + 14
     y += 30
-    for linha in ("Achou, postou. Só loja oficial.", "Grátis, no Telegram."):
-        _centro(d, y, linha, _fonte(54, "Bold"), (255, 255, 255))
-        y += 70
-    y += 40
+    for assunto, arroba in (("Casa, cozinha e beleza", "@papagarimpou"),
+                            ("Roupa, tênis e esporte", "@papagarimpoumarcas"),
+                            ("Eletrônicos e games", "@papagarimpoutech"),
+                            ("Todas as ofertas juntas", "@papagarimpouofertas")):
+        _centro(d, y, assunto, _fonte(42, "SemiBold"), (255, 255, 255))
+        _centro(d, y + 50, arroba, _fonte(56), tema["texto"])
+        y += 140
+    y += 20
     d.rounded_rectangle((140, y, 940, y + 130), radius=65, fill=tema["destaque"])
     _centro(d, y + 18, "LINK NA BIO", _fonte(80), (255, 255, 255))
-    _centro(d, y + 160, "ou procure no Telegram:", _fonte(44, "SemiBold"), tema["texto"])
-    _centro(d, y + 210, "@papagarimpou", _fonte(60), tema["texto"])
+    _centro(d, y + 160, "Só marca boa e loja oficial. Sem cilada.", _fonte(40, "SemiBold"), tema["texto"])
     return _jpeg(img)
 
 

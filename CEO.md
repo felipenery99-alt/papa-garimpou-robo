@@ -25,7 +25,7 @@ Ponto de partida: 3 seguidores no Instagram em 28/10. Metas de **seguidores do @
 | Até | Instagram | Telegram (soma) |
 |---|---|---|
 | 03/11/2026 | 50 | 30 |
-| 10/11/2026 | 150 | 80 |
+| 10/11/2026 | 195 (era 150; +30% em 30/10, meta de 03/11 batida antes) | 80 |
 | 17/11/2026 | 300 | 150 |
 | 27/11/2026 (Black Friday) | 600 | 300 |
 | 31/12/2026 | 2.000 | 1.000 |
