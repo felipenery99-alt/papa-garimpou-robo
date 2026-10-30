@@ -176,7 +176,8 @@
   "2026-10-30 achadinhos 17:26 shopee-19599030130",
   "2026-10-30 achadinhos 17:51 shopee-44228031982",
   "2026-10-30 marcas 17:57 shopee-42130479011",
-  "2026-10-30 achadinhos 18:00 shopee-23499563838"
+  "2026-10-30 achadinhos 18:00 shopee-23499563838",
+  "2026-10-30 achadinhos 18:25 shopee-58262054508"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -366,7 +367,8 @@
   "shopee-19599030130": "2026-10-30T17:26:08.609606-03:00",
   "shopee-44228031982": "2026-10-30T17:51:14.275986-03:00",
   "shopee-42130479011": "2026-10-30T17:57:59.280802-03:00",
-  "shopee-23499563838": "2026-10-30T18:00:40.252268-03:00"
+  "shopee-23499563838": "2026-10-30T18:00:40.252268-03:00",
+  "shopee-58262054508": "2026-10-30T18:25:04.494548-03:00"
  },
  "ofertas_dia": [
   {
@@ -3125,6 +3127,24 @@
    "canal": "achadinhos",
    "entrou": "2026-10-30T15:11:01.432211-03:00",
    "dia": "2026-10-30"
+  },
+  {
+   "id": "shopee-58262054508",
+   "plataforma": "Shopee",
+   "nome": "Promoção KIT Querosene Perfumado Natura Clean Kit 2 Litros Limpeza Profunda Concentrada",
+   "loja": "Natura Clean",
+   "loja_oficial": false,
+   "preco": 26.8,
+   "preco_antigo": 40.0,
+   "desconto": 33,
+   "vendas": 523,
+   "nota": 4.8,
+   "comissao_pct": 13.0,
+   "imagem": "https://cf.shopee.com.br/file/br-11134207-820ll-mqrxcphcgvltb3",
+   "link": "https://s.shopee.com.br/AAIL93e9Pf",
+   "canal": "achadinhos",
+   "entrou": "2026-10-30T15:11:01.432211-03:00",
+   "dia": "2026-10-30"
   }
  ],
  "ig_feitos": [
@@ -3224,7 +3244,9 @@
   "2026-10-30 16:55 post_achado",
   "2026-10-30 feed",
   "2026-10-30 17:30 reels",
-  "2026-10-30 17:36 story_oferta"
+  "2026-10-30 17:36 story_oferta",
+  "2026-10-30 18:05 story_oferta",
+  "2026-10-30 18:09 story_oferta"
  ],
  "ig_ofertas_usadas": [
   "amz-B0GP7KDZRJ",
@@ -3288,7 +3310,9 @@
   "amz-B09BYL7M6N",
   "amz-B0DTKSNQF3",
   "shopee-22397314985",
-  "amz-B0D8QJRBV3"
+  "amz-B0D8QJRBV3",
+  "amz-B0BYK2VCP7",
+  "amz-B0G455TF9J"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
@@ -3333,23 +3357,6 @@
    "loja": "Vendido e entregue pela Amazon",
    "plataforma": "Amazon",
    "valida_ate": "2026-10-30T23:59:00-03:00",
-   "entrou": "2026-10-30T15:11:01.432211-03:00"
-  },
-  {
-   "id": "shopee-58262054508",
-   "plataforma": "Shopee",
-   "nome": "Promoção KIT Querosene Perfumado Natura Clean Kit 2 Litros Limpeza Profunda Concentrada",
-   "loja": "Natura Clean",
-   "loja_oficial": false,
-   "preco": 26.8,
-   "preco_antigo": 40.0,
-   "desconto": 33,
-   "vendas": 523,
-   "nota": 4.8,
-   "comissao_pct": 13.0,
-   "imagem": "https://cf.shopee.com.br/file/br-11134207-820ll-mqrxcphcgvltb3",
-   "link": "https://s.shopee.com.br/AAIL93e9Pf",
-   "canal": "achadinhos",
    "entrou": "2026-10-30T15:11:01.432211-03:00"
   },
   {
@@ -5317,6 +5324,7 @@
   "heliceparaventiladormondial6pas30cm": "2026-10-30T17:26:08.609606-03:00",
   "kitprotetorsolar50fps200mlprotetorsolar50fps100mlniveasunniveasun200ml100ml": "2026-10-30T17:51:14.275986-03:00",
   "creatinasabor7belomaxtitanium300gcreatina7belo": "2026-10-30T17:57:59.280802-03:00",
-  "kit2botaotimerknobairfryermondialafn40afn50afn60afn80": "2026-10-30T18:00:40.252268-03:00"
+  "kit2botaotimerknobairfryermondialafn40afn50afn60afn80": "2026-10-30T18:00:40.252268-03:00",
+  "promocaokitqueroseneperfumadonaturacleankit2litroslimpezaprofundaconcentrada": "2026-10-30T18:25:04.494548-03:00"
  }
 }
