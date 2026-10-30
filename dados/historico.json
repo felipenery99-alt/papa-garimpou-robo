@@ -147,7 +147,9 @@
   "2026-10-30 marcas 11:05 amz-B0CVXT26K5",
   "2026-10-30 achadinhos 12:11 shopee-22997647570",
   "2026-10-30 achadinhos 12:34 shopee-22593622212",
-  "2026-10-30 marcas 12:42 ml-MLB5420759822"
+  "2026-10-30 marcas 12:42 ml-MLB5420759822",
+  "2026-10-30 achadinhos 13:01 shopee-58255413156",
+  "2026-10-30 marcas 13:11 ml-MLBU4074557041"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -308,7 +310,9 @@
   "amz-B0CVXT26K5": "2026-10-30T11:05:54.188731-03:00",
   "shopee-22997647570": "2026-10-30T12:11:07.361867-03:00",
   "shopee-22593622212": "2026-10-30T12:34:39.404514-03:00",
-  "ml-MLB5420759822": "2026-10-30T12:42:04.536653-03:00"
+  "ml-MLB5420759822": "2026-10-30T12:42:04.536653-03:00",
+  "shopee-58255413156": "2026-10-30T13:01:32.427662-03:00",
+  "ml-MLBU4074557041": "2026-10-30T13:11:10.532773-03:00"
  },
  "ofertas_dia": [
   {
@@ -2580,6 +2584,40 @@
    "extra": "Preço a partir de: varia por tamanho e cor",
    "entrou": "2026-10-30T09:02:53.305554-03:00",
    "dia": "2026-10-30"
+  },
+  {
+   "id": "shopee-58255413156",
+   "plataforma": "Shopee",
+   "nome": "Lâmina Refil Duplo Compatível Barbeador Philips OneBlade Reposição QP14x QP25x QP26x QP27x QP28x QP65x QP66x",
+   "loja": "RANZIT",
+   "loja_oficial": false,
+   "preco": 35.99,
+   "preco_antigo": 79.98,
+   "desconto": 55,
+   "vendas": 1396,
+   "nota": 4.8,
+   "comissao_pct": 7.0,
+   "imagem": "https://cf.shopee.com.br/file/br-11134207-820ma-ml7272e63dafd0",
+   "link": "https://s.shopee.com.br/5LD5OAs9MN",
+   "canal": "achadinhos",
+   "entrou": "2026-10-30T10:34:54.977311-03:00",
+   "dia": "2026-10-30"
+  },
+  {
+   "id": "ml-MLBU4074557041",
+   "canal": "marcas",
+   "nome": "Tênis Nike Revolution 8 Feminino",
+   "preco_antigo": 399.99,
+   "preco": 294.72,
+   "desconto": 26,
+   "link": "https://meli.la/1hz6eTG",
+   "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_653870-MLB113098433611_062026-E--tenis-nike-revolution-8-feminino.webp",
+   "loja": "Loja oficial Nike · Mercado Livre",
+   "plataforma": "Mercado Livre",
+   "valida_ate": "2026-10-31T13:00:00-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "entrou": "2026-10-30T09:02:53.305554-03:00",
+   "dia": "2026-10-30"
   }
  ],
  "ig_feitos": [
@@ -2665,7 +2703,8 @@
   "2026-10-30 11:50 carrossel_top5",
   "2026-10-30 11:56 story_oferta",
   "2026-10-30 12:15 story_top4",
-  "2026-10-30 12:19 story_oferta"
+  "2026-10-30 12:19 story_oferta",
+  "2026-10-30 12:47 story_oferta"
  ],
  "ig_ofertas_usadas": [
   "amz-B0GP7KDZRJ",
@@ -2719,7 +2758,8 @@
   "amz-B0G6G4WFQ3",
   "amz-B0FV4DRRW9",
   "amz-B0CX1TKC62",
-  "amz-B0G5BP29ZZ"
+  "amz-B0G5BP29ZZ",
+  "amz-B0CKD98ZHR"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
@@ -2752,21 +2792,6 @@
  },
  "ultimo_pilar": "mito",
  "fila": [
-  {
-   "id": "ml-MLBU4074557041",
-   "canal": "marcas",
-   "nome": "Tênis Nike Revolution 8 Feminino",
-   "preco_antigo": 399.99,
-   "preco": 294.72,
-   "desconto": 26,
-   "link": "https://meli.la/1hz6eTG",
-   "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_653870-MLB113098433611_062026-E--tenis-nike-revolution-8-feminino.webp",
-   "loja": "Loja oficial Nike · Mercado Livre",
-   "plataforma": "Mercado Livre",
-   "valida_ate": "2026-10-31T13:00:00-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "entrou": "2026-10-30T09:02:53.305554-03:00"
-  },
   {
    "id": "ml-MLB3727972293",
    "canal": "marcas",
@@ -2916,23 +2941,6 @@
    "loja": "Vendido e entregue pela Amazon",
    "plataforma": "Amazon",
    "valida_ate": "2026-10-30T23:59:00-03:00",
-   "entrou": "2026-10-30T10:34:54.977311-03:00"
-  },
-  {
-   "id": "shopee-58255413156",
-   "plataforma": "Shopee",
-   "nome": "Lâmina Refil Duplo Compatível Barbeador Philips OneBlade Reposição QP14x QP25x QP26x QP27x QP28x QP65x QP66x",
-   "loja": "RANZIT",
-   "loja_oficial": false,
-   "preco": 35.99,
-   "preco_antigo": 79.98,
-   "desconto": 55,
-   "vendas": 1396,
-   "nota": 4.8,
-   "comissao_pct": 7.0,
-   "imagem": "https://cf.shopee.com.br/file/br-11134207-820ma-ml7272e63dafd0",
-   "link": "https://s.shopee.com.br/5LD5OAs9MN",
-   "canal": "achadinhos",
    "entrou": "2026-10-30T10:34:54.977311-03:00"
   },
   {
@@ -5176,6 +5184,8 @@
  "postados_nome": {
   "escovasecadormodeladorataiffovaleasypinkoriginal": "2026-10-30T12:11:07.361867-03:00",
   "borrachadevedacaopaneladepressao3l45le6l20cm24cmtramontinavancouver": "2026-10-30T12:34:39.404514-03:00",
-  "tenisnikerevolution8masculino": "2026-10-30T12:42:04.536653-03:00"
+  "tenisnikerevolution8masculino": "2026-10-30T12:42:04.536653-03:00",
+  "laminarefilduplocompativelbarbeadorphilipsonebladereposicaoqp14xqp25xqp26xqp27xqp28xqp65xqp66x": "2026-10-30T13:01:32.427662-03:00",
+  "tenisnikerevolution8feminino": "2026-10-30T13:11:10.532773-03:00"
  }
 }
