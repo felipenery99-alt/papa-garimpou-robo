@@ -121,7 +121,8 @@
   "2026-10-29 achadinhos 21:35 amz-B0FRH96P1G",
   "2026-10-29 tech 21:49 amz-B0GX2K3T8K",
   "2026-10-29 marcas 21:58 amz-B0FB9KL5JZ",
-  "2026-10-29 tech 21:59 amz-B08M511L1B"
+  "2026-10-29 tech 21:59 amz-B08M511L1B",
+  "2026-10-29 marcas 23:00 amz-B09KYHQ8QZ"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -256,7 +257,8 @@
   "amz-B0FRH96P1G": "2026-10-29T21:35:52.430035-03:00",
   "amz-B0GX2K3T8K": "2026-10-29T21:49:53.018442-03:00",
   "amz-B0FB9KL5JZ": "2026-10-29T21:58:15.067853-03:00",
-  "amz-B08M511L1B": "2026-10-29T21:59:27.906992-03:00"
+  "amz-B08M511L1B": "2026-10-29T21:59:27.906992-03:00",
+  "amz-B09KYHQ8QZ": "2026-10-29T23:00:02.535503-03:00"
  },
  "ofertas_dia": [
   {
@@ -2116,6 +2118,22 @@
    "valida_ate": "2026-10-29T23:59:00-03:00",
    "entrou": "2026-10-29T21:17:05.075778-03:00",
    "dia": "2026-10-29"
+  },
+  {
+   "id": "amz-B09KYHQ8QZ",
+   "canal": "marcas",
+   "nome": "Kit 5 Camisetas Básicas Masculinas Hering",
+   "preco_antigo": 249.99,
+   "preco": 123.49,
+   "desconto": 51,
+   "link": "https://www.amazon.com.br/dp/B09KYHQ8QZ?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/41HVLKjYWlL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Netshoes · na Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-30T13:00:00-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "entrou": "2026-10-29T22:58:04.972408-03:00",
+   "dia": "2026-10-29"
   }
  ],
  "ig_feitos": [
@@ -2270,7 +2288,68 @@
   "2026-10-29": 2
  },
  "ultimo_pilar": "mito",
- "fila": [],
+ "fila": [
+  {
+   "id": "amz-B0BHJNL76T",
+   "canal": "marcas",
+   "nome": "Tech T-shirt Insider Gola V Masculina",
+   "preco_antigo": 165.0,
+   "preco": 68.16,
+   "desconto": 59,
+   "link": "https://www.amazon.com.br/dp/B0BHJNL76T?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51hss67Tm8L._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-30T13:00:00-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "entrou": "2026-10-29T22:58:04.972408-03:00"
+  },
+  {
+   "id": "amz-B08T9VHVSP",
+   "canal": "marcas",
+   "nome": "Camiseta Calvin Klein Logo Básico Masculina",
+   "preco_antigo": 159.0,
+   "preco": 107.34,
+   "desconto": 32,
+   "link": "https://www.amazon.com.br/dp/B08T9VHVSP?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/81y11K8x5XL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Netshoes · na Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-30T13:00:00-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "entrou": "2026-10-29T22:58:04.972408-03:00"
+  },
+  {
+   "id": "amz-B09KYBB6YN",
+   "canal": "marcas",
+   "nome": "Kit 3 Camisetas Básicas Masculinas Hering",
+   "preco_antigo": 159.99,
+   "preco": 85.49,
+   "desconto": 47,
+   "link": "https://www.amazon.com.br/dp/B09KYBB6YN?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51rqFwRo+QL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Netshoes · na Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-30T13:00:00-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "entrou": "2026-10-29T22:58:04.972408-03:00"
+  },
+  {
+   "id": "amz-B0BFT7XG6C",
+   "canal": "marcas",
+   "nome": "Tech T-shirt Insider Gola U Masculina",
+   "preco_antigo": 159.0,
+   "preco": 89.9,
+   "desconto": 43,
+   "link": "https://www.amazon.com.br/dp/B0BFT7XG6C?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/41NMLoCbJIL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-30T13:00:00-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "entrou": "2026-10-29T22:58:04.972408-03:00"
+  }
+ ],
  "menus_fixados": [
   "v1 @papagarimpou",
   "v1 @papagarimpoumarcas",
