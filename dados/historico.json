@@ -186,7 +186,9 @@
   "2026-10-30 tech 19:39 amz-B07TV9B7Z3",
   "2026-10-30 achadinhos 19:46 shopee-19161663337",
   "2026-10-30 marcas 19:57 nike-061909ID",
-  "2026-10-30 marcas 20:00 amz-B0H4M5X1Y2"
+  "2026-10-30 marcas 20:00 amz-B0H4M5X1Y2",
+  "2026-10-30 tech 20:16 amz-B0DJQ11WXY",
+  "2026-10-30 marcas 20:29 amz-B0D8BXW5TD"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -386,7 +388,9 @@
   "amz-B07TV9B7Z3": "2026-10-30T19:39:26.311919-03:00",
   "shopee-19161663337": "2026-10-30T19:46:46.432306-03:00",
   "nike-061909ID": "2026-10-30T19:57:03.447478-03:00",
-  "amz-B0H4M5X1Y2": "2026-10-30T20:00:13.818584-03:00"
+  "amz-B0H4M5X1Y2": "2026-10-30T20:00:13.818584-03:00",
+  "amz-B0DJQ11WXY": "2026-10-30T20:16:39.499700-03:00",
+  "amz-B0D8BXW5TD": "2026-10-30T20:29:54.200532-03:00"
  },
  "ofertas_dia": [
   {
@@ -3316,6 +3320,36 @@
    "valida_ate": "2026-10-30T23:59:00-03:00",
    "entrou": "2026-10-30T16:24:23.846504-03:00",
    "dia": "2026-10-30"
+  },
+  {
+   "id": "amz-B0DJQ11WXY",
+   "canal": "tech",
+   "nome": "Monitor Gamer LG UltraGear 32\" QHD 165Hz",
+   "preco_antigo": 1599.0,
+   "preco": 1104.15,
+   "desconto": 31,
+   "link": "https://www.amazon.com.br/dp/B0DJQ11WXY?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71qs7g2gluL._AC_SL1200_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-30T23:59:00-03:00",
+   "entrou": "2026-10-30T16:24:23.846504-03:00",
+   "dia": "2026-10-30"
+  },
+  {
+   "id": "amz-B0D8BXW5TD",
+   "canal": "marcas",
+   "nome": "Best Whey Atlhetica Nutrition Achocolatado Toddy",
+   "preco_antigo": 299.0,
+   "preco": 188.91,
+   "desconto": 37,
+   "link": "https://www.amazon.com.br/dp/B0D8BXW5TD?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71p9cXSpGRL._AC_SL1500_.jpg",
+   "loja": "Vendido por parceiro · entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-30T23:59:00-03:00",
+   "entrou": "2026-10-30T16:24:23.846504-03:00",
+   "dia": "2026-10-30"
   }
  ],
  "ig_feitos": [
@@ -3419,7 +3453,8 @@
   "2026-10-30 18:42 story_oferta",
   "2026-10-30 feed",
   "2026-10-30 19:15 post_achado",
-  "2026-10-30 19:17 story_oferta"
+  "2026-10-30 19:17 story_oferta",
+  "2026-10-30 20:03 story_oferta"
  ],
  "ig_ofertas_usadas": [
   "amz-B0GP7KDZRJ",
@@ -3488,7 +3523,8 @@
   "amz-B0G455TF9J",
   "amz-B07FN1MZBH",
   "shopee-42130479011",
-  "amz-B0CLSTLZ4W"
+  "amz-B0CLSTLZ4W",
+  "amz-B0CVXT26K5"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
@@ -3522,36 +3558,6 @@
  "ultimo_pilar": "mito",
  "fila": [
   {
-   "id": "amz-B0CKJ83V8K",
-   "canal": "marcas",
-   "nome": "Tênis Puma Club II Era",
-   "preco_antigo": 449.99,
-   "preco": 206.0,
-   "desconto": 54,
-   "link": "https://www.amazon.com.br/dp/B0CKJ83V8K?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/41q7j21yBrL._AC_SL1200_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-10-30T23:59:00-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "gancho": "PUMA CLUB II POR MENOS DA METADE",
-   "entrou": "2026-10-30T16:24:23.846504-03:00"
-  },
-  {
-   "id": "amz-B0D8BXW5TD",
-   "canal": "marcas",
-   "nome": "Best Whey Atlhetica Nutrition Achocolatado Toddy",
-   "preco_antigo": 299.0,
-   "preco": 188.91,
-   "desconto": 37,
-   "link": "https://www.amazon.com.br/dp/B0D8BXW5TD?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/71p9cXSpGRL._AC_SL1500_.jpg",
-   "loja": "Vendido por parceiro · entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-10-30T23:59:00-03:00",
-   "entrou": "2026-10-30T16:24:23.846504-03:00"
-  },
-  {
    "id": "amz-B0F79VDTM4",
    "canal": "marcas",
    "nome": "Kit 4 Cuecas Boxer Lupo Algodão",
@@ -3565,20 +3571,6 @@
    "valida_ate": "2026-10-30T23:59:00-03:00",
    "extra": "Preço a partir de: varia por tamanho e cor",
    "gancho": "4 CUECAS LUPO E A GAVETA RESOLVIDA",
-   "entrou": "2026-10-30T16:24:23.846504-03:00"
-  },
-  {
-   "id": "amz-B0DJQ11WXY",
-   "canal": "tech",
-   "nome": "Monitor Gamer LG UltraGear 32\" QHD 165Hz",
-   "preco_antigo": 1599.0,
-   "preco": 1104.15,
-   "desconto": 31,
-   "link": "https://www.amazon.com.br/dp/B0DJQ11WXY?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/71qs7g2gluL._AC_SL1200_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-10-30T23:59:00-03:00",
    "entrou": "2026-10-30T16:24:23.846504-03:00"
   },
   {
@@ -3853,6 +3845,8 @@
   "tecladogamerhyperxalloycorergbabnt2": "2026-10-30T19:39:26.311919-03:00",
   "camerainteligentefullhdim3cbrancaintelbras": "2026-10-30T19:46:46.432306-03:00",
   "shortsnikedrifitacademymasculino": "2026-10-30T19:57:03.447478-03:00",
-  "kit2paresmeiapumafemininaantiderrapante": "2026-10-30T20:00:13.818584-03:00"
+  "kit2paresmeiapumafemininaantiderrapante": "2026-10-30T20:00:13.818584-03:00",
+  "monitorgamerlgultragear32qhd165hz": "2026-10-30T20:16:39.499700-03:00",
+  "bestwheyatlheticanutritionachocolatadotoddy": "2026-10-30T20:29:54.200532-03:00"
  }
 }
