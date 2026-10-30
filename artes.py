@@ -212,6 +212,30 @@ def story_convite() -> bytes:
     return _jpeg(img)
 
 
+def story_parceria(arroba: str, assuntos: list[str]) -> bytes:
+    """Story de troca de divulgação com outro perfil de achadinhos (parceria sem custo)."""
+    tema = PALETAS_OFERTA[5]
+    img = _gradiente(1080, 1920, *tema["fundo"]).convert("RGBA")
+    d = ImageDraw.Draw(img)
+    img.alpha_composite(_selo(360), (360, 280))
+    y = 720
+    _centro(d, y, "O PAPA INDICA", _fonte(104), tema["texto"])
+    y += 134
+    _centro(d, y, "Perfil parceiro com achado bom:", _fonte(46, "SemiBold"), (255, 255, 255))
+    y += 90
+    fonte = _fonte(76)
+    while d.textlength(arroba, font=fonte) > 960:
+        fonte = _fonte(fonte.size - 4)
+    d.rounded_rectangle((60, y - 10, 1020, y + 120), radius=60, fill=tema["destaque"])
+    _centro(d, y + 12, arroba, fonte, tema["destaque_txt"])
+    y += 190
+    for a in assuntos:
+        _centro(d, y, a, _fonte(50, "SemiBold"), (255, 255, 255))
+        y += 70
+    _centro(d, y + 50, "Corre lá e segue!", _fonte(64), tema["destaque"])
+    return _jpeg(img)
+
+
 # Dono, 29/10: "você ainda está postando coisa da mesma cor". A cor da arte de oferta não segue
 # mais o canal (num dia só de games saía tudo azul-escuro): gira por estas paletas, pela oferta.
 PALETAS_OFERTA = [

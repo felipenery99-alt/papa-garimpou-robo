@@ -280,6 +280,20 @@ def rodar_instagram(h: dict, agora: datetime) -> None:
             except Exception as e:
                 telegram.avisar_dono(f"Instagram: carrossel especial {esp['id']} falhou: {e}")
             feitos.append(f"especial {esp['id']}")
+    # Parcerias de divulgação (troca de story com outro perfil): cada uma sai uma vez, no story e no Telegram
+    parc_arq = Path(__file__).parent / "parcerias.json"
+    if parc_arq.exists():
+        for p in json.loads(parc_arq.read_text(encoding="utf-8")):
+            if f"parceria {p['id']}" in feitos:
+                continue
+            try:
+                arte = artes.story_parceria(p["arroba"], p["assuntos"])
+                instagram.story(arte, f"{tag}-parceria-{p['id']}.jpg")
+                telegram.postar_foto(config.CANAIS["achadinhos"], arte, p["telegram"])
+                print(f"[ig] parceria {p['id']} publicada")
+            except Exception as e:
+                telegram.avisar_dono(f"Instagram: parceria {p['id']} falhou: {e}")
+            feitos.append(f"parceria {p['id']}")
     for hora, tipo in config.INSTAGRAM_AGENDA:
         chave = f"{hoje} {hora} {tipo}"
         hh, mm = map(int, hora.split(":"))
