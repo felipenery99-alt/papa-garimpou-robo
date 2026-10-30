@@ -92,8 +92,8 @@
   "erros": [
    "Instagram 2026-10-29 11:11 story_oferta falhou: Instagram não publicou: {'error': {'message': 'The requested resource does not exist', 'type': 'OAuthException', 'code': 24, 'error_subcode': 2207006, 'is_transient': False, 'error_user_title': 'Mídia não encontrada', 'error_user_msg': 'Não foi possíve"
   ],
-  "ultima_execucao": "21:58",
-  "execucoes": 30,
+  "ultima_execucao": "22:20",
+  "execucoes": 31,
   "telegram_posts": {
    "achadinhos": 21,
    "marcas": 21,
@@ -148,7 +148,7 @@
   "instagram": {
    "seguidores": 57,
    "posts": 15,
-   "reach": 67,
+   "reach": 70,
    "profile_views": 80,
    "website_clicks": 2,
    "stories_ativos": 25
