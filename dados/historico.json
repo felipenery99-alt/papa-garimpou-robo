@@ -151,7 +151,8 @@
   "2026-10-30 achadinhos 13:01 shopee-58255413156",
   "2026-10-30 marcas 13:11 ml-MLBU4074557041",
   "2026-10-30 achadinhos 13:36 shopee-21897631761",
-  "2026-10-30 marcas 13:52 shopee-9511754133"
+  "2026-10-30 marcas 13:52 shopee-9511754133",
+  "2026-10-30 achadinhos 14:05 shopee-18797677549"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -316,7 +317,8 @@
   "shopee-58255413156": "2026-10-30T13:01:32.427662-03:00",
   "ml-MLBU4074557041": "2026-10-30T13:11:10.532773-03:00",
   "shopee-21897631761": "2026-10-30T13:36:38.213391-03:00",
-  "shopee-9511754133": "2026-10-30T13:52:01.273245-03:00"
+  "shopee-9511754133": "2026-10-30T13:52:01.273245-03:00",
+  "shopee-18797677549": "2026-10-30T14:05:13.376756-03:00"
  },
  "ofertas_dia": [
   {
@@ -2658,6 +2660,24 @@
    "canal": "marcas",
    "entrou": "2026-10-30T10:34:54.977311-03:00",
    "dia": "2026-10-30"
+  },
+  {
+   "id": "shopee-18797677549",
+   "plataforma": "Shopee",
+   "nome": "Secador De Cabelo Taiff Style Profissional Original 2000W",
+   "loja": "Beleza Renovada Oficial",
+   "loja_oficial": true,
+   "preco": 274.46,
+   "preco_antigo": 481.51,
+   "desconto": 43,
+   "vendas": 629,
+   "nota": 4.9,
+   "comissao_pct": 12.0,
+   "imagem": "https://cf.shopee.com.br/file/sg-11134201-824jf-mf0cfquk2m16e3",
+   "link": "https://s.shopee.com.br/4fxOawGoeS",
+   "canal": "achadinhos",
+   "entrou": "2026-10-30T10:34:54.977311-03:00",
+   "dia": "2026-10-30"
   }
  ],
  "ig_feitos": [
@@ -2876,23 +2896,6 @@
    "loja": "Vendido e entregue pela Amazon",
    "plataforma": "Amazon",
    "valida_ate": "2026-10-30T23:59:00-03:00",
-   "entrou": "2026-10-30T10:34:54.977311-03:00"
-  },
-  {
-   "id": "shopee-18797677549",
-   "plataforma": "Shopee",
-   "nome": "Secador De Cabelo Taiff Style Profissional Original 2000W",
-   "loja": "Beleza Renovada Oficial",
-   "loja_oficial": true,
-   "preco": 274.46,
-   "preco_antigo": 481.51,
-   "desconto": 43,
-   "vendas": 629,
-   "nota": 4.9,
-   "comissao_pct": 12.0,
-   "imagem": "https://cf.shopee.com.br/file/sg-11134201-824jf-mf0cfquk2m16e3",
-   "link": "https://s.shopee.com.br/4fxOawGoeS",
-   "canal": "achadinhos",
    "entrou": "2026-10-30T10:34:54.977311-03:00"
   },
   {
@@ -5197,6 +5200,7 @@
   "laminarefilduplocompativelbarbeadorphilipsonebladereposicaoqp14xqp25xqp26xqp27xqp28xqp65xqp66x": "2026-10-30T13:01:32.427662-03:00",
   "tenisnikerevolution8feminino": "2026-10-30T13:11:10.532773-03:00",
   "secadordecabelotaiffnewtourmalineprofissional2100w": "2026-10-30T13:36:38.213391-03:00",
-  "creatinamaxtitanium300gpura": "2026-10-30T13:52:01.273245-03:00"
+  "creatinamaxtitanium300gpura": "2026-10-30T13:52:01.273245-03:00",
+  "secadordecabelotaiffstyleprofissionaloriginal2000w": "2026-10-30T14:05:13.376756-03:00"
  }
 }
