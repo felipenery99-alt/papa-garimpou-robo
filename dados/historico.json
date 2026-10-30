@@ -188,7 +188,8 @@
   "2026-10-30 marcas 19:57 nike-061909ID",
   "2026-10-30 marcas 20:00 amz-B0H4M5X1Y2",
   "2026-10-30 tech 20:16 amz-B0DJQ11WXY",
-  "2026-10-30 marcas 20:29 amz-B0D8BXW5TD"
+  "2026-10-30 marcas 20:29 amz-B0D8BXW5TD",
+  "2026-10-30 marcas 20:32 amz-B0GWS55TV6"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -390,7 +391,8 @@
   "nike-061909ID": "2026-10-30T19:57:03.447478-03:00",
   "amz-B0H4M5X1Y2": "2026-10-30T20:00:13.818584-03:00",
   "amz-B0DJQ11WXY": "2026-10-30T20:16:39.499700-03:00",
-  "amz-B0D8BXW5TD": "2026-10-30T20:29:54.200532-03:00"
+  "amz-B0D8BXW5TD": "2026-10-30T20:29:54.200532-03:00",
+  "amz-B0GWS55TV6": "2026-10-30T20:32:09.454501-03:00"
  },
  "ofertas_dia": [
   {
@@ -3350,6 +3352,22 @@
    "valida_ate": "2026-10-30T23:59:00-03:00",
    "entrou": "2026-10-30T16:24:23.846504-03:00",
    "dia": "2026-10-30"
+  },
+  {
+   "id": "amz-B0GWS55TV6",
+   "canal": "marcas",
+   "nome": "Kit 4 Cuecas Boxer Lupo Algodão",
+   "preco_antigo": 176.99,
+   "preco": 85.4,
+   "desconto": 52,
+   "link": "https://www.amazon.com.br/dp/B0GWS55TV6?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/81bXmPOjkUL._AC_SL1500_.jpg",
+   "loja": "Vendido por parceiro · entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-30T23:59:00-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "entrou": "2026-10-30T16:44:53.118733-03:00",
+   "dia": "2026-10-30"
   }
  ],
  "ig_feitos": [
@@ -3558,80 +3576,6 @@
  "ultimo_pilar": "mito",
  "fila": [
   {
-   "id": "amz-B0F79VDTM4",
-   "canal": "marcas",
-   "nome": "Kit 4 Cuecas Boxer Lupo Algodão",
-   "preco_antigo": 176.99,
-   "preco": 71.24,
-   "desconto": 60,
-   "link": "https://www.amazon.com.br/dp/B0F79VDTM4?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/71EU6CMvlIL._AC_SL1500_.jpg",
-   "loja": "Vendido por parceiro · entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-10-30T23:59:00-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "gancho": "4 CUECAS LUPO E A GAVETA RESOLVIDA",
-   "entrou": "2026-10-30T16:24:23.846504-03:00"
-  },
-  {
-   "id": "amz-B0FDXB22BL",
-   "canal": "tech",
-   "nome": "Samsung Galaxy Watch8 40mm LTE Grafite",
-   "preco_antigo": 3299.0,
-   "preco": 1331.1,
-   "desconto": 60,
-   "link": "https://www.amazon.com.br/dp/B0FDXB22BL?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61zc3QnQvcL._AC_SL1500_.jpg",
-   "loja": "Vendido por parceiro · entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-10-30T23:59:00-03:00",
-   "gancho": "GALAXY WATCH8 COM MAIS DA METADE DE DESCONTO",
-   "entrou": "2026-10-30T16:24:23.846504-03:00"
-  },
-  {
-   "id": "amz-B0CVCG6S9C",
-   "canal": "tech",
-   "nome": "Smartwatch Samsung Galaxy Fit3 Prata",
-   "preco_antigo": 549.0,
-   "preco": 213.65,
-   "desconto": 61,
-   "link": "https://www.amazon.com.br/dp/B0CVCG6S9C?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51It6ch5f7L._AC_SL1500_.jpg",
-   "loja": "Vendido por parceiro · entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-10-30T23:59:00-03:00",
-   "entrou": "2026-10-30T16:24:23.846504-03:00"
-  },
-  {
-   "id": "amz-B0F7T2Y46Y",
-   "canal": "tech",
-   "nome": "Caixa de Som JBL Flip 7 Bluetooth 25W Preta",
-   "preco_antigo": 899.0,
-   "preco": 585.19,
-   "desconto": 35,
-   "link": "https://www.amazon.com.br/dp/B0F7T2Y46Y?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61S6CABfB7L._AC_SL1500_.jpg",
-   "loja": "Vendido por parceiro · entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-10-30T23:59:00-03:00",
-   "entrou": "2026-10-30T16:24:23.846504-03:00"
-  },
-  {
-   "id": "amz-B0GWS55TV6",
-   "canal": "marcas",
-   "nome": "Kit 4 Cuecas Boxer Lupo Algodão",
-   "preco_antigo": 176.99,
-   "preco": 85.4,
-   "desconto": 52,
-   "link": "https://www.amazon.com.br/dp/B0GWS55TV6?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/81bXmPOjkUL._AC_SL1500_.jpg",
-   "loja": "Vendido por parceiro · entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-10-30T23:59:00-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "entrou": "2026-10-30T16:44:53.118733-03:00"
-  },
-  {
    "id": "ml-MLB2011808343",
    "canal": "marcas",
    "nome": "Camiseta Nike Sportswear Icon Futura Masculina",
@@ -3794,6 +3738,81 @@
    "valida_ate": "2026-10-31T13:00:00-03:00",
    "gancho": "DUNK COM 35% OFF? O PAPA PEGOU",
    "entrou": "2026-10-30T19:57:23.719917-03:00"
+  },
+  {
+   "id": "amz-B0CKJ83V8K",
+   "canal": "marcas",
+   "nome": "Tênis Puma Club II Era",
+   "preco_antigo": 449.99,
+   "preco": 206.0,
+   "desconto": 54,
+   "link": "https://www.amazon.com.br/dp/B0CKJ83V8K?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/41q7j21yBrL._AC_SL1200_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-30T23:59:00-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "gancho": "PUMA CLUB II POR MENOS DA METADE",
+   "entrou": "2026-10-30T20:30:18.232768-03:00"
+  },
+  {
+   "id": "amz-B0F79VDTM4",
+   "canal": "marcas",
+   "nome": "Kit 4 Cuecas Boxer Lupo Algodão",
+   "preco_antigo": 176.99,
+   "preco": 71.24,
+   "desconto": 60,
+   "link": "https://www.amazon.com.br/dp/B0F79VDTM4?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71EU6CMvlIL._AC_SL1500_.jpg",
+   "loja": "Vendido por parceiro · entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-30T23:59:00-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "gancho": "4 CUECAS LUPO E A GAVETA RESOLVIDA",
+   "entrou": "2026-10-30T20:30:18.232768-03:00"
+  },
+  {
+   "id": "amz-B0FDXB22BL",
+   "canal": "tech",
+   "nome": "Samsung Galaxy Watch8 40mm LTE Grafite",
+   "preco_antigo": 3299.0,
+   "preco": 1331.1,
+   "desconto": 60,
+   "link": "https://www.amazon.com.br/dp/B0FDXB22BL?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61zc3QnQvcL._AC_SL1500_.jpg",
+   "loja": "Vendido por parceiro · entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-30T23:59:00-03:00",
+   "gancho": "GALAXY WATCH8 COM MAIS DA METADE DE DESCONTO",
+   "entrou": "2026-10-30T20:30:18.232768-03:00"
+  },
+  {
+   "id": "amz-B0CVCG6S9C",
+   "canal": "tech",
+   "nome": "Smartwatch Samsung Galaxy Fit3 Prata",
+   "preco_antigo": 549.0,
+   "preco": 213.65,
+   "desconto": 61,
+   "link": "https://www.amazon.com.br/dp/B0CVCG6S9C?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51It6ch5f7L._AC_SL1500_.jpg",
+   "loja": "Vendido por parceiro · entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-30T23:59:00-03:00",
+   "entrou": "2026-10-30T20:30:18.232768-03:00"
+  },
+  {
+   "id": "amz-B0F7T2Y46Y",
+   "canal": "tech",
+   "nome": "Caixa de Som JBL Flip 7 Bluetooth 25W Preta",
+   "preco_antigo": 899.0,
+   "preco": 585.19,
+   "desconto": 35,
+   "link": "https://www.amazon.com.br/dp/B0F7T2Y46Y?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61S6CABfB7L._AC_SL1500_.jpg",
+   "loja": "Vendido por parceiro · entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-30T23:59:00-03:00",
+   "entrou": "2026-10-30T20:30:18.232768-03:00"
   }
  ],
  "menus_fixados": [
@@ -3847,6 +3866,7 @@
   "shortsnikedrifitacademymasculino": "2026-10-30T19:57:03.447478-03:00",
   "kit2paresmeiapumafemininaantiderrapante": "2026-10-30T20:00:13.818584-03:00",
   "monitorgamerlgultragear32qhd165hz": "2026-10-30T20:16:39.499700-03:00",
-  "bestwheyatlheticanutritionachocolatadotoddy": "2026-10-30T20:29:54.200532-03:00"
+  "bestwheyatlheticanutritionachocolatadotoddy": "2026-10-30T20:29:54.200532-03:00",
+  "kit4cuecasboxerlupoalgodao": "2026-10-30T20:32:09.454501-03:00"
  }
 }
