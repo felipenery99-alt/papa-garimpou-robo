@@ -10,7 +10,7 @@ def mesclar(nosso: dict, remoto: dict) -> dict:
     out.update(nosso)
     for k in ("slots_feitos", "ig_feitos", "ig_ofertas_usadas", "ig_comentarios", "menus_fixados"):
         out[k] = list(dict.fromkeys(remoto.get(k, []) + nosso.get(k, [])))
-    for k in ("postados", "postados_nome", "pecas_usadas"):
+    for k in ("postados", "postados_nome", "pecas_usadas", "ig_reels_ofertas"):
         out[k] = {**remoto.get(k, {}), **nosso.get(k, {})}
     for k in ("pecas_dia", "feed_dia"):
         a, b = remoto.get(k, {}), nosso.get(k, {})

@@ -368,17 +368,19 @@ def rodar_instagram(h: dict, agora: datetime) -> None:
                 usadas.append(o["id"])
             elif tipo == "reels":
                 import video
-                top = sorted((o for o in h.get("ofertas_dia", []) if o.get("dia") == hoje),
+                # 30/10: até 3 Reels/dia; cada um usa ofertas que ainda não saíram em Reels hoje
+                ja = set(h.setdefault("ig_reels_ofertas", {}).get(hoje, []))
+                top = sorted((o for o in h.get("ofertas_dia", []) if o.get("dia") == hoje and o["id"] not in ja),
                              key=qualidade.pontuar, reverse=True)[:5]
                 if len(top) >= 3:
                     quadros = ([artes.capa_reel(("ACHADOS", "DO PAPA"), "Os melhores de hoje")]
                                + [artes.story_oferta(o, o["canal"]) for o in top] + [artes.story_convite()])
                     lista = "\n".join(f"{i+1}. {o['nome'][:60]} — {post._brl(o['preco'])}" for i, o in enumerate(top))
                     leg = "😎💎 Os achados do Papa hoje\n\n" + lista + LEGENDA_CTA
+                    h["ig_reels_ofertas"][hoje] = list(ja | {o["id"] for o in top})
                 else:
-                    # sem ofertas não tem Reels (foco em post e story, decisão de 27/10)
-                    feitos.append(chave)
-                    continue
+                    # sem oferta nova suficiente: Reels de dica do banco (alcance não pode parar)
+                    quadros, leg = reels_do_banco(h, agora)
                 instagram.reels(video.reel(quadros), leg)
                 h["ig_ultimo_reel"] = agora.isoformat()
             elif tipo == "carrossel_top5":
