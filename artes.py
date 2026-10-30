@@ -212,6 +212,29 @@ def story_convite() -> bytes:
     return _jpeg(img)
 
 
+def story_blackfriday(dias: int) -> bytes:
+    """Lista de espera da Black Friday: chama para o canal antes do dia (contagem regressiva)."""
+    tema = PALETAS_OFERTA[2]
+    img = _gradiente(1080, 1920, *tema["fundo"]).convert("RGBA")
+    d = ImageDraw.Draw(img)
+    img.alpha_composite(_selo(340), (370, 270))
+    y = 700
+    for linha, tam in (("BLACK", 170), ("FRIDAY", 150)):
+        _centro(d, y, linha, _fonte(tam), tema["texto"])
+        y += tam + 10
+    _centro(d, y + 10, "27 DE NOVEMBRO", _fonte(64), (255, 255, 255))
+    falta = "É AMANHÃ!" if dias == 1 else ("É HOJE!" if dias <= 0 else f"FALTAM {dias} DIAS")
+    y += 120
+    d.rounded_rectangle((170, y, 910, y + 130), radius=65, fill=tema["destaque"])
+    _centro(d, y + 20, falta, _fonte(80), tema["destaque_txt"])
+    y += 190
+    for linha in ("O Papa vai garimpar as ofertas", "de verdade (sem preço maquiado)", "e soltar primeiro no Telegram."):
+        _centro(d, y, linha, _fonte(48, "SemiBold"), (255, 255, 255))
+        y += 64
+    _centro(d, y + 40, "Entra grátis: link na bio", _fonte(66), tema["texto"])
+    return _jpeg(img)
+
+
 def story_parceria(arroba: str, assuntos: list[str]) -> bytes:
     """Story de troca de divulgação com outro perfil de achadinhos (parceria sem custo)."""
     tema = PALETAS_OFERTA[5]

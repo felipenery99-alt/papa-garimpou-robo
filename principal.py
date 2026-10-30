@@ -336,7 +336,13 @@ def rodar_instagram(h: dict, agora: datetime) -> None:
             continue
         try:
             if tipo == "story_convite":
-                instagram.story(artes.story_convite(), f"{tag}-convite-{hh}.jpg")
+                # 30/10 (dono aprovou): lista de espera da Black Friday — de 01/11 até 27/11 o convite da tarde
+                # vira contagem regressiva para entrar no canal antes do dia
+                bf = (datetime(2026, 11, 27, tzinfo=agora.tzinfo).date() - agora.date()).days
+                if 0 <= bf <= 27 and hh < 18:
+                    instagram.story(artes.story_blackfriday(bf), f"{tag}-blackfriday-{hh}.jpg")
+                else:
+                    instagram.story(artes.story_convite(), f"{tag}-convite-{hh}.jpg")
             elif tipo == "story_top4" and len([o for o in h.get("ofertas_dia", []) if o.get("dia") == hoje]) >= 4:
                 # 4 melhores achados do dia num story só (maior desconto primeiro); preço sempre o real
                 top = sorted((o for o in h["ofertas_dia"] if o.get("dia") == hoje),
