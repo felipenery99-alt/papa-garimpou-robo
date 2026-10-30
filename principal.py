@@ -12,6 +12,7 @@ Uso:
 """
 import argparse
 import json
+import re
 import sys
 from datetime import datetime, timedelta
 from pathlib import Path
@@ -73,11 +74,23 @@ def gravar_relatorio(h: dict, agora: datetime) -> None:
     RELATORIO.write_text(json.dumps(rel, ensure_ascii=False, indent=1), encoding="utf-8")
 
 
-def ja_postado_recente(h: dict, oferta_id: str, agora: datetime) -> bool:
-    quando = h["postados"].get(oferta_id)
-    if not quando:
-        return False
-    return datetime.fromisoformat(quando) > agora - timedelta(days=config.NAO_REPETIR_DIAS)
+def chave_nome(nome: str) -> str:
+    """Nome do produto sem acento/pontuação/espaço: o mesmo produto em outra cor/tamanho tem outro
+    código (ASIN/MLB), mas o mesmo nome. 30/10: a Tech T-shirt Insider Gola U saiu 2x (B0BFT7XG6C e B0CCSLRZ19)."""
+    import unicodedata
+    n = unicodedata.normalize("NFKD", nome or "").encode("ascii", "ignore").decode().lower()
+    return re.sub(r"[^a-z0-9]", "", n)
+
+
+def ja_postado_recente(h: dict, oferta_id: str, agora: datetime, nome: str = "") -> bool:
+    limite = agora - timedelta(days=config.NAO_REPETIR_DIAS)
+    if nome and any(o.get("dia", "") >= limite.date().isoformat() and chave_nome(o.get("nome", "")) == chave_nome(nome)
+                    for o in h.get("ofertas_dia", [])):
+        return True   # cobre o que foi postado antes de existir postados_nome
+    for quando in (h["postados"].get(oferta_id), h.get("postados_nome", {}).get(chave_nome(nome)) if nome else None):
+        if quando and datetime.fromisoformat(quando) > limite:
+            return True
+    return False
 
 
 def garimpar_todas(canal: str, fonte, h: dict, agora: datetime) -> list[dict]:
@@ -92,7 +105,7 @@ def garimpar_todas(canal: str, fonte, h: dict, agora: datetime) -> list[dict]:
             raise RuntimeError(f"busca '{termo}' falhou: {e}") from e
         for o in ofertas:
             ok, motivo = qualidade.avaliar(o, canal)
-            if ok and not ja_postado_recente(h, o["id"], agora):
+            if ok and not ja_postado_recente(h, o["id"], agora, o.get("nome", "")):
                 boas[o["id"]] = o
             elif not ok:
                 reprovados[motivo] = reprovados.get(motivo, 0) + 1
@@ -189,9 +202,15 @@ def soltar_fila(h: dict, telegram, limite: datetime) -> int:
         canais = [c for c in config.CANAIS if any(f["canal"] == c for f in h["fila"])]
         canal = canais[vez % len(canais)]
         vez += 1
+        # 30/10: execução atrasada do GitHub postou às 3h12. Fora da janela (8h–22h) não posta; a fila espera.
+        ini = agora.replace(hour=config.JANELA_INICIO[0], minute=config.JANELA_INICIO[1], second=0, microsecond=0)
+        fim = agora.replace(hour=config.JANELA_FIM[0], minute=config.JANELA_FIM[1], second=0, microsecond=0)
+        if not (ini <= agora <= fim):
+            print("fora da janela 8h–22h: fila guardada para depois")
+            break
         oferta = next(f for f in h["fila"] if f["canal"] == canal)
         h["fila"].remove(oferta)
-        if ja_postado_recente(h, oferta["id"], agora):
+        if ja_postado_recente(h, oferta["id"], agora, oferta.get("nome", "")):
             continue
         hoje = agora.date().isoformat()
         chave = f"{hoje} {canal} {agora:%H:%M} {oferta['id']}"
@@ -203,6 +222,7 @@ def soltar_fila(h: dict, telegram, limite: datetime) -> int:
             except Exception as e:
                 telegram.avisar_dono(f"canal geral não recebeu {oferta['id']}: {e}")
             h["postados"][oferta["id"]] = agora.isoformat()
+            h.setdefault("postados_nome", {})[chave_nome(oferta["nome"])] = agora.isoformat()
             h.setdefault("ofertas_dia", []).append({**oferta, "canal": canal, "dia": hoje})
             h["slots_feitos"].append(chave)
             salvar_hist(h)   # grava a cada post: se o job cair, não repete
