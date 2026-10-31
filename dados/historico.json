@@ -226,7 +226,8 @@
   "2026-10-31 achadinhos 11:38 amz-B0F67HS3N7",
   "2026-10-31 achadinhos 11:43 amz-B000C219QA",
   "2026-10-31 tech 11:48 amz-B0FST1L5YB",
-  "2026-10-31 achadinhos 12:13 amz-B000CNKITS"
+  "2026-10-31 achadinhos 12:13 amz-B000CNKITS",
+  "2026-10-31 marcas 12:34 amz-B0F6X3RHG1"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -466,7 +467,8 @@
   "amz-B0F67HS3N7": "2026-10-31T11:38:41.597867-03:00",
   "amz-B000C219QA": "2026-10-31T11:43:51.070101-03:00",
   "amz-B0FST1L5YB": "2026-10-31T11:48:42.781240-03:00",
-  "amz-B000CNKITS": "2026-10-31T12:13:01.347011-03:00"
+  "amz-B000CNKITS": "2026-10-31T12:13:01.347011-03:00",
+  "amz-B0F6X3RHG1": "2026-10-31T12:34:21.166889-03:00"
  },
  "ofertas_dia": [
   {
@@ -3411,6 +3413,22 @@
    "gancho": "AZZARO CLÁSSICO COM PREÇO DE COLÔNIA",
    "entrou": "2026-10-31T12:06:50.383841-03:00",
    "dia": "2026-10-31"
+  },
+  {
+   "id": "amz-B0F6X3RHG1",
+   "canal": "marcas",
+   "nome": "Tênis de Corrida Puma Pounce Lite Unissex",
+   "preco_antigo": 449.99,
+   "preco": 237.49,
+   "desconto": 47,
+   "link": "https://www.amazon.com.br/dp/B0F6X3RHG1?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71qr3MbfiIL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-31T23:59:00-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "entrou": "2026-10-31T09:02:43.503184-03:00",
+   "dia": "2026-10-31"
   }
  ],
  "ig_feitos": [
@@ -3528,7 +3546,9 @@
   "2026-10-31 11:11 story_oferta",
   "2026-10-31 feed",
   "2026-10-31 11:50 carrossel_top5",
-  "2026-10-31 11:56 story_oferta"
+  "2026-10-31 11:56 story_oferta",
+  "2026-10-31 12:15 story_top4",
+  "2026-10-31 12:19 story_oferta"
  ],
  "ig_ofertas_usadas": [
   "amz-B0GP7KDZRJ",
@@ -3609,7 +3629,8 @@
   "shopee-23094056729",
   "shopee-22396095321",
   "nike-014592IE",
-  "amz-B0FKV9146V"
+  "amz-B0FKV9146V",
+  "amz-B0D98WR6YM"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
@@ -3644,21 +3665,6 @@
  },
  "ultimo_pilar": "humor",
  "fila": [
-  {
-   "id": "amz-B0F6X3RHG1",
-   "canal": "marcas",
-   "nome": "Tênis de Corrida Puma Pounce Lite Unissex",
-   "preco_antigo": 449.99,
-   "preco": 237.49,
-   "desconto": 47,
-   "link": "https://www.amazon.com.br/dp/B0F6X3RHG1?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/71qr3MbfiIL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-10-31T23:59:00-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "entrou": "2026-10-31T09:02:43.503184-03:00"
-  },
   {
    "id": "amz-B0GHS7QVMB",
    "canal": "marcas",
@@ -3943,7 +3949,8 @@
   "perfumeralphlaurenpolosportmasculino": "2026-10-31T11:38:41.597867-03:00",
   "perfumeralphlaurenpoloblueeaudetoilettemasculino": "2026-10-31T11:43:51.070101-03:00",
   "foneoverearjbltune530comfio": "2026-10-31T11:48:42.781240-03:00",
-  "perfumeazzaropourhommemasculinoeaudetoilette": "2026-10-31T12:13:01.347011-03:00"
+  "perfumeazzaropourhommemasculinoeaudetoilette": "2026-10-31T12:13:01.347011-03:00",
+  "tenisdecorridapumapounceliteunissex": "2026-10-31T12:34:21.166889-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
