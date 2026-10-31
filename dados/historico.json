@@ -220,7 +220,12 @@
   "2026-10-31 achadinhos 10:49 amz-B09XJK1XS1",
   "2026-10-31 marcas 10:55 shopee-58260024078",
   "2026-10-31 achadinhos 11:02 amz-B0CX1SDR83",
-  "2026-10-31 marcas 11:06 shopee-22194331598"
+  "2026-10-31 marcas 11:06 shopee-22194331598",
+  "2026-10-31 achadinhos 11:26 amz-B09GCJZ45Z",
+  "2026-10-31 marcas 11:31 shopee-23398337380",
+  "2026-10-31 achadinhos 11:38 amz-B0F67HS3N7",
+  "2026-10-31 achadinhos 11:43 amz-B000C219QA",
+  "2026-10-31 tech 11:48 amz-B0FST1L5YB"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -454,7 +459,12 @@
   "amz-B09XJK1XS1": "2026-10-31T10:49:05.387675-03:00",
   "shopee-58260024078": "2026-10-31T10:55:25.387827-03:00",
   "amz-B0CX1SDR83": "2026-10-31T11:02:22.623738-03:00",
-  "shopee-22194331598": "2026-10-31T11:06:47.647165-03:00"
+  "shopee-22194331598": "2026-10-31T11:06:47.647165-03:00",
+  "amz-B09GCJZ45Z": "2026-10-31T11:26:55.900377-03:00",
+  "shopee-23398337380": "2026-10-31T11:31:31.971863-03:00",
+  "amz-B0F67HS3N7": "2026-10-31T11:38:41.597867-03:00",
+  "amz-B000C219QA": "2026-10-31T11:43:51.070101-03:00",
+  "amz-B0FST1L5YB": "2026-10-31T11:48:42.781240-03:00"
  },
  "ofertas_dia": [
   {
@@ -3301,6 +3311,87 @@
    "canal": "marcas",
    "entrou": "2026-10-31T08:17:38.916359-03:00",
    "dia": "2026-10-31"
+  },
+  {
+   "id": "amz-B09GCJZ45Z",
+   "canal": "achadinhos",
+   "nome": "Multiprocessador Philips Walita PowerChop 750W 110V",
+   "preco_antigo": 399.9,
+   "preco": 227.65,
+   "desconto": 43,
+   "link": "https://www.amazon.com.br/dp/B09GCJZ45Z?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51n0vASj4IL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-31T23:59:00-03:00",
+   "gancho": "PICA, RALA E FATIA: WALITA EM OFERTA",
+   "extra": "Versão 110V",
+   "entrou": "2026-10-31T09:48:30.181363-03:00",
+   "dia": "2026-10-31"
+  },
+  {
+   "id": "shopee-23398337380",
+   "plataforma": "Shopee",
+   "nome": "Camiseta Basica Tech Insider Masculina",
+   "loja": "INSIDER",
+   "loja_oficial": true,
+   "preco": 115.0,
+   "preco_antigo": 174.24,
+   "desconto": 34,
+   "vendas": 557,
+   "nota": 4.9,
+   "comissao_pct": 11.0,
+   "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rd55-m7mlrn5k2wct69",
+   "link": "https://s.shopee.com.br/30pAbtR9j3",
+   "canal": "marcas",
+   "entrou": "2026-10-31T08:17:38.916359-03:00",
+   "dia": "2026-10-31"
+  },
+  {
+   "id": "amz-B0F67HS3N7",
+   "canal": "achadinhos",
+   "nome": "Perfume Ralph Lauren Polo Sport Masculino",
+   "preco_antigo": 399.0,
+   "preco": 238.46,
+   "desconto": 40,
+   "link": "https://www.amazon.com.br/dp/B0F67HS3N7?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/615GjIDcMqL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-31T23:59:00-03:00",
+   "gancho": "POLO SPORT ORIGINAL, VENDIDO PELA AMAZON",
+   "entrou": "2026-10-31T11:21:49.817062-03:00",
+   "dia": "2026-10-31"
+  },
+  {
+   "id": "amz-B000C219QA",
+   "canal": "achadinhos",
+   "nome": "Perfume Ralph Lauren Polo Blue Eau de Toilette Masculino",
+   "preco_antigo": 809.0,
+   "preco": 484.55,
+   "desconto": 40,
+   "link": "https://www.amazon.com.br/dp/B000C219QA?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/612RwPe1S8L._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-31T23:59:00-03:00",
+   "entrou": "2026-10-31T11:21:49.817062-03:00",
+   "dia": "2026-10-31"
+  },
+  {
+   "id": "amz-B0FST1L5YB",
+   "canal": "tech",
+   "nome": "Fone Over-Ear JBL Tune 530 com Fio",
+   "preco_antigo": 179.0,
+   "preco": 109.65,
+   "desconto": 39,
+   "link": "https://www.amazon.com.br/dp/B0FST1L5YB?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61h9ViGGDRL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-31T23:59:00-03:00",
+   "entrou": "2026-10-31T11:21:49.817062-03:00",
+   "dia": "2026-10-31"
   }
  ],
  "ig_feitos": [
@@ -3414,7 +3505,8 @@
   "2026-10-31 09:35 post_achado",
   "2026-10-31 09:38 story_oferta",
   "2026-10-31 10:20 story_oferta",
-  "2026-10-31 10:24 story_oferta"
+  "2026-10-31 10:24 story_oferta",
+  "2026-10-31 11:11 story_oferta"
  ],
  "ig_ofertas_usadas": [
   "amz-B0GP7KDZRJ",
@@ -3493,7 +3585,8 @@
   "shopee-21997684262",
   "nike-079609MT",
   "shopee-23094056729",
-  "shopee-22396095321"
+  "shopee-22396095321",
+  "nike-014592IE"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
@@ -3528,38 +3621,6 @@
  },
  "ultimo_pilar": "humor",
  "fila": [
-  {
-   "id": "shopee-23398337380",
-   "plataforma": "Shopee",
-   "nome": "Camiseta Basica Tech Insider Masculina",
-   "loja": "INSIDER",
-   "loja_oficial": true,
-   "preco": 115.0,
-   "preco_antigo": 174.24,
-   "desconto": 34,
-   "vendas": 557,
-   "nota": 4.9,
-   "comissao_pct": 11.0,
-   "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rd55-m7mlrn5k2wct69",
-   "link": "https://s.shopee.com.br/30pAbtR9j3",
-   "canal": "marcas",
-   "entrou": "2026-10-31T08:17:38.916359-03:00"
-  },
-  {
-   "id": "amz-B0CKJK36MD",
-   "canal": "marcas",
-   "nome": "Tênis Puma Club II Era",
-   "preco_antigo": 449.99,
-   "preco": 206.0,
-   "desconto": 54,
-   "link": "https://www.amazon.com.br/dp/B0CKJK36MD?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61F56+87KUL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-10-31T23:59:00-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "entrou": "2026-10-31T09:02:43.503184-03:00"
-  },
   {
    "id": "amz-B0F6X3RHG1",
    "canal": "marcas",
@@ -3667,34 +3728,48 @@
    "entrou": "2026-10-31T09:02:43.503184-03:00"
   },
   {
-   "id": "amz-B09GCJZ45Z",
-   "canal": "achadinhos",
-   "nome": "Multiprocessador Philips Walita PowerChop 750W 110V",
-   "preco_antigo": 399.9,
-   "preco": 227.65,
-   "desconto": 43,
-   "link": "https://www.amazon.com.br/dp/B09GCJZ45Z?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51n0vASj4IL._AC_SL1000_.jpg",
+   "id": "amz-B0FH3W32GS",
+   "canal": "marcas",
+   "nome": "Tênis Fila Racer Fastpace Masculino",
+   "preco_antigo": 499.99,
+   "preco": 219.9,
+   "desconto": 56,
+   "link": "https://www.amazon.com.br/dp/B0FH3W32GS?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/518oCv3h4wL._AC_SL1000_.jpg",
    "loja": "Vendido e entregue pela Amazon",
    "plataforma": "Amazon",
    "valida_ate": "2026-10-31T23:59:00-03:00",
-   "gancho": "PICA, RALA E FATIA: WALITA EM OFERTA",
-   "extra": "Versão 110V",
-   "entrou": "2026-10-31T09:48:30.181363-03:00"
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "entrou": "2026-10-31T11:21:49.817062-03:00"
   },
   {
-   "id": "amz-B0BDHYF8YS",
+   "id": "amz-B0FDX8YCRH",
    "canal": "tech",
-   "nome": "Headset Gamer HyperX Cloud Stinger 2 Core",
-   "preco_antigo": 269.9,
-   "preco": 188.73,
-   "desconto": 30,
-   "link": "https://www.amazon.com.br/dp/B0BDHYF8YS?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51PgS3bqxmL._AC_SL1000_.jpg",
+   "nome": "Smartwatch Samsung Galaxy Watch8 40mm BT com Galaxy AI",
+   "preco_antigo": 2999.0,
+   "preco": 1387.01,
+   "desconto": 54,
+   "link": "https://www.amazon.com.br/dp/B0FDX8YCRH?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61iTGVZS+0L._AC_SL1500_.jpg",
    "loja": "Vendido e entregue pela Amazon",
    "plataforma": "Amazon",
    "valida_ate": "2026-10-31T23:59:00-03:00",
-   "entrou": "2026-10-31T10:34:18.427752-03:00"
+   "gancho": "GALAXY WATCH8 PELA METADE DO PREÇO",
+   "entrou": "2026-10-31T11:21:49.817062-03:00"
+  },
+  {
+   "id": "amz-B0GVPGKM4P",
+   "canal": "tech",
+   "nome": "Fone Bluetooth JBL Tune 780NC com Cancelamento de Ruído",
+   "preco_antigo": 560.52,
+   "preco": 358.12,
+   "desconto": 36,
+   "link": "https://www.amazon.com.br/dp/B0GVPGKM4P?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51MnMPeZUWL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-31T23:59:00-03:00",
+   "entrou": "2026-10-31T11:21:49.817062-03:00"
   }
  ],
  "menus_fixados": [
@@ -3780,7 +3855,12 @@
   "kit8poteshermeticoselectroluxcomvedacaodesilicone": "2026-10-31T10:49:05.387675-03:00",
   "kit2creatinamaxtitanium300gpura": "2026-10-31T10:55:25.387827-03:00",
   "liquidificadorphilipswalitaserie3000turbo1200w110v": "2026-10-31T11:02:22.623738-03:00",
-  "wheypromaxtitaniumproteinprocombcaaeaminoacidos1kg": "2026-10-31T11:06:47.647165-03:00"
+  "wheypromaxtitaniumproteinprocombcaaeaminoacidos1kg": "2026-10-31T11:06:47.647165-03:00",
+  "multiprocessadorphilipswalitapowerchop750w110v": "2026-10-31T11:26:55.900377-03:00",
+  "camisetabasicatechinsidermasculina": "2026-10-31T11:31:31.971863-03:00",
+  "perfumeralphlaurenpolosportmasculino": "2026-10-31T11:38:41.597867-03:00",
+  "perfumeralphlaurenpoloblueeaudetoilettemasculino": "2026-10-31T11:43:51.070101-03:00",
+  "foneoverearjbltune530comfio": "2026-10-31T11:48:42.781240-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
