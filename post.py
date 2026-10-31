@@ -5,6 +5,8 @@ from pathlib import Path
 import requests
 from PIL import Image, ImageDraw, ImageOps
 
+import config
+
 PASTA = Path(__file__).parent
 SELO = PASTA / "assets" / "selo-papa.png"
 
@@ -72,7 +74,12 @@ def legenda(oferta: dict, canal: str) -> str:
     elif canal == "marcas" or oferta.get("loja_oficial"):
         linhas.append(f"🏪 Loja oficial · {oferta.get('plataforma', 'Shopee')}")
     linhas.append(f"👉 {oferta['link']}")
-    linhas += ["", "⏳ Preço pode mudar a qualquer momento", "#publi link de afiliado"]
+    linhas += ["", "⏳ Preço pode mudar a qualquer momento"]
+    # 31/10: membros parados em 2–3 por canal. Quem encaminha ou copia a oferta pro WhatsApp leva junto o
+    # link do canal, e quem recebe consegue entrar (crescimento pelo compartilhamento, custo zero).
+    handle = config.CANAIS.get(canal, config.GERAL).lstrip("@")
+    linhas.append(f"📲 Mande pra quem vai gostar · mais achados grátis: t.me/{handle}")
+    linhas.append("#publi link de afiliado")
     return "\n".join(linhas)
 
 

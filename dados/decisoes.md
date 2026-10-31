@@ -39,3 +39,10 @@
 - Decidido (alavanca nova): story de convite refeito: "4 CANAIS GRÁTIS, ESCOLHA O SEU", com o assunto de cada canal e o @ de cada um (achadinhos, marcas, tech, todas). Quem só quer tech ou roupa acha o seu e pode procurar o @ direto no Telegram, sem depender do clique na bio. Ensaio OK.
 - Próximo: medir cliques e membros em 31/10 e 01/11. Domingo (01/11): +30 peças no banco e pesquisa de contas grandes. BF nas BUSCAS a partir de 03/11.
 - Pedido ao dono: (1) divulgar os 4 canais uma vez no status do WhatsApp (custo zero); (2) conferir se o link da bio do Instagram leva a uma página com os 4 canais, e não só a um.
+
+## 2026-10-31 (rotina do CEO)
+- Visto (30/10): 31 execuções, 0 erros. **Shopee ligada** (18 achadinhos e 4 marcas vieram dela, todas de loja oficial). Telegram: 28 achadinhos, 29 marcas (inclui 3 Nike/Awin e 8 ML), 14 tech. Instagram: 25 stories ativos (piso ok), feed ok (3 Reels/dia no ar), seguidores 57→70, alcance 94, cliques no link 2→5 (o convite com os 4 canais ajudou).
+- META: Instagram 70 de 195 até 10/11 (no ritmo: precisa ~11/dia, fez +13). Telegram 10 de 30 até 03/11 (atrasado: 3+3+2+2 membros).
+- Decidido (alavanca nova): toda legenda do Telegram agora termina com "📲 Mande pra quem vai gostar · mais achados grátis: t.me/<canal>". Quem encaminha ou copia a oferta pro WhatsApp leva junto o link do canal, e quem recebe consegue entrar. Custo zero, #publi mantido. Ensaio OK.
+- Próximo: medir membros em 01/11 e 02/11. Domingo (01/11): +30 peças no banco e pesquisa de contas grandes. BF nas BUSCAS a partir de 03/11. Tech só rende pela Amazon; avaliar termos tech na Shopee (loja oficial) se continuar baixo.
+- Pedido ao dono: (1) divulgar os 4 canais uma vez no status do WhatsApp (custo zero); (2) conferir se o link da bio do Instagram mostra os 4 canais.
