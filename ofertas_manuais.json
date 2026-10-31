@@ -749,5 +749,48 @@
   "loja": "Vendido por parceiro · entregue pela Amazon",
   "plataforma": "Amazon",
   "valida_ate": "2026-10-31T23:59:00-03:00"
+ },
+ {
+  "id": "amz-B0H6T47N79",
+  "canal": "marcas",
+  "nome": "Tênis Feminino New Balance 413v3",
+  "preco_antigo": 379.99,
+  "preco": 177.99,
+  "desconto": 53,
+  "link": "https://www.amazon.com.br/dp/B0H6T47N79?tag=papagarimpou-20",
+  "imagem": "https://m.media-amazon.com/images/I/51CRtL6vaPL._AC_SL1000_.jpg",
+  "loja": "Vendido e entregue pela Amazon",
+  "plataforma": "Amazon",
+  "valida_ate": "2026-10-31T23:59:00-03:00",
+  "extra": "Preço a partir de: varia por tamanho e cor",
+  "gancho": "NEW BALANCE PELA METADE DO PREÇO"
+ },
+ {
+  "id": "amz-B088WCR8M3",
+  "canal": "achadinhos",
+  "nome": "Perfume Azzaro Sport Masculino Eau de Toilette 100ml",
+  "preco_antigo": 379.0,
+  "preco": 229.99,
+  "desconto": 39,
+  "link": "https://www.amazon.com.br/dp/B088WCR8M3?tag=papagarimpou-20",
+  "imagem": "https://m.media-amazon.com/images/I/61hLsRGbFXL._AC_SL1500_.jpg",
+  "loja": "Vendido e entregue pela Amazon",
+  "plataforma": "Amazon",
+  "valida_ate": "2026-10-31T23:59:00-03:00",
+  "gancho": "AZZARO ORIGINAL, DIRETO DA AMAZON"
+ },
+ {
+  "id": "amz-B08ZFKB8ZK",
+  "canal": "achadinhos",
+  "nome": "Perfume Azzaro The Most Wanted Intense Masculino Eau de Parfum",
+  "preco_antigo": 879.0,
+  "preco": 535.97,
+  "desconto": 39,
+  "link": "https://www.amazon.com.br/dp/B08ZFKB8ZK?tag=papagarimpou-20",
+  "imagem": "https://m.media-amazon.com/images/I/51EaNG-jdxL._AC_SL1000_.jpg",
+  "loja": "Vendido e entregue pela Amazon",
+  "plataforma": "Amazon",
+  "valida_ate": "2026-10-31T23:59:00-03:00",
+  "gancho": "O MAIS DESEJADO COM 39% OFF"
  }
 ]
