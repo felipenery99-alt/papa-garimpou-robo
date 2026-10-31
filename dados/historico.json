@@ -225,7 +225,8 @@
   "2026-10-31 marcas 11:31 shopee-23398337380",
   "2026-10-31 achadinhos 11:38 amz-B0F67HS3N7",
   "2026-10-31 achadinhos 11:43 amz-B000C219QA",
-  "2026-10-31 tech 11:48 amz-B0FST1L5YB"
+  "2026-10-31 tech 11:48 amz-B0FST1L5YB",
+  "2026-10-31 achadinhos 12:13 amz-B000CNKITS"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -464,7 +465,8 @@
   "shopee-23398337380": "2026-10-31T11:31:31.971863-03:00",
   "amz-B0F67HS3N7": "2026-10-31T11:38:41.597867-03:00",
   "amz-B000C219QA": "2026-10-31T11:43:51.070101-03:00",
-  "amz-B0FST1L5YB": "2026-10-31T11:48:42.781240-03:00"
+  "amz-B0FST1L5YB": "2026-10-31T11:48:42.781240-03:00",
+  "amz-B000CNKITS": "2026-10-31T12:13:01.347011-03:00"
  },
  "ofertas_dia": [
   {
@@ -3392,6 +3394,23 @@
    "valida_ate": "2026-10-31T23:59:00-03:00",
    "entrou": "2026-10-31T11:21:49.817062-03:00",
    "dia": "2026-10-31"
+  },
+  {
+   "id": "amz-B000CNKITS",
+   "canal": "achadinhos",
+   "nome": "Perfume Azzaro Pour Homme Masculino Eau de Toilette",
+   "preco_antigo": 299.0,
+   "preco": 190.09,
+   "desconto": 36,
+   "link": "https://www.amazon.com.br/dp/B000CNKITS?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61xKlHoVKhL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-31T23:59:00-03:00",
+   "extra": "Importado original, vendido pela própria Amazon",
+   "gancho": "AZZARO CLÁSSICO COM PREÇO DE COLÔNIA",
+   "entrou": "2026-10-31T12:06:50.383841-03:00",
+   "dia": "2026-10-31"
   }
  ],
  "ig_feitos": [
@@ -3506,7 +3525,10 @@
   "2026-10-31 09:38 story_oferta",
   "2026-10-31 10:20 story_oferta",
   "2026-10-31 10:24 story_oferta",
-  "2026-10-31 11:11 story_oferta"
+  "2026-10-31 11:11 story_oferta",
+  "2026-10-31 feed",
+  "2026-10-31 11:50 carrossel_top5",
+  "2026-10-31 11:56 story_oferta"
  ],
  "ig_ofertas_usadas": [
   "amz-B0GP7KDZRJ",
@@ -3586,7 +3608,8 @@
   "nike-079609MT",
   "shopee-23094056729",
   "shopee-22396095321",
-  "nike-014592IE"
+  "nike-014592IE",
+  "amz-B0FKV9146V"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
@@ -3770,6 +3793,65 @@
    "plataforma": "Amazon",
    "valida_ate": "2026-10-31T23:59:00-03:00",
    "entrou": "2026-10-31T11:21:49.817062-03:00"
+  },
+  {
+   "id": "amz-B0CKJK36MD",
+   "canal": "marcas",
+   "nome": "Tênis Puma Club II Era",
+   "preco_antigo": 449.99,
+   "preco": 206.0,
+   "desconto": 54,
+   "link": "https://www.amazon.com.br/dp/B0CKJK36MD?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61F56+87KUL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-31T23:59:00-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "entrou": "2026-10-31T12:06:50.383841-03:00"
+  },
+  {
+   "id": "amz-B0BDHYF8YS",
+   "canal": "tech",
+   "nome": "Headset Gamer HyperX Cloud Stinger 2 Core",
+   "preco_antigo": 269.9,
+   "preco": 188.73,
+   "desconto": 30,
+   "link": "https://www.amazon.com.br/dp/B0BDHYF8YS?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51PgS3bqxmL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-31T23:59:00-03:00",
+   "entrou": "2026-10-31T12:06:50.383841-03:00"
+  },
+  {
+   "id": "amz-B0D2LPLTJ8",
+   "canal": "tech",
+   "nome": "Caixa de Som JBL Xtreme 4 Bluetooth com Powerbank",
+   "preco_antigo": 2744.43,
+   "preco": 1168.9,
+   "desconto": 57,
+   "link": "https://www.amazon.com.br/dp/B0D2LPLTJ8?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71jzFcaXnzL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-31T23:59:00-03:00",
+   "gancho": "JBL XTREME 4 POR MENOS DA METADE",
+   "entrou": "2026-10-31T12:06:50.383841-03:00"
+  },
+  {
+   "id": "amz-B0CQKLS4RP",
+   "canal": "tech",
+   "nome": "Controle PlayStation DualSense sem fio Branco (PS5)",
+   "preco_antigo": 499.9,
+   "preco": 350.17,
+   "desconto": 30,
+   "link": "https://www.amazon.com.br/dp/B0CQKLS4RP?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51PmeLGEkML._AC_SL1500_.jpg",
+   "loja": "Vendido por parceiro · entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-31T23:59:00-03:00",
+   "gancho": "DUALSENSE ORIGINAL COM 30% OFF",
+   "entrou": "2026-10-31T12:06:50.383841-03:00"
   }
  ],
  "menus_fixados": [
@@ -3860,7 +3942,8 @@
   "camisetabasicatechinsidermasculina": "2026-10-31T11:31:31.971863-03:00",
   "perfumeralphlaurenpolosportmasculino": "2026-10-31T11:38:41.597867-03:00",
   "perfumeralphlaurenpoloblueeaudetoilettemasculino": "2026-10-31T11:43:51.070101-03:00",
-  "foneoverearjbltune530comfio": "2026-10-31T11:48:42.781240-03:00"
+  "foneoverearjbltune530comfio": "2026-10-31T11:48:42.781240-03:00",
+  "perfumeazzaropourhommemasculinoeaudetoilette": "2026-10-31T12:13:01.347011-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
