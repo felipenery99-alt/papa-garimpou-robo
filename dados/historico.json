@@ -237,7 +237,10 @@
   "2026-10-31 achadinhos 14:53 amz-B0FTMZCLRD",
   "2026-10-31 marcas 15:17 amz-B0BHPP31TZ",
   "2026-10-31 marcas 15:26 amz-B0GHBBGMDS",
-  "2026-10-31 achadinhos 15:56 amz-B0DL4XB1VD"
+  "2026-10-31 achadinhos 15:56 amz-B0DL4XB1VD",
+  "2026-10-31 achadinhos 16:59 amz-B088WCR8M3",
+  "2026-10-31 achadinhos 17:10 amz-B08ZFKB8ZK",
+  "2026-10-31 marcas 17:20 amz-B0H6T47N79"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -488,7 +491,10 @@
   "amz-B0FTMZCLRD": "2026-10-31T14:53:19.592649-03:00",
   "amz-B0BHPP31TZ": "2026-10-31T15:17:20.863911-03:00",
   "amz-B0GHBBGMDS": "2026-10-31T15:26:52.691651-03:00",
-  "amz-B0DL4XB1VD": "2026-10-31T15:56:00.938061-03:00"
+  "amz-B0DL4XB1VD": "2026-10-31T15:56:00.938061-03:00",
+  "amz-B088WCR8M3": "2026-10-31T16:59:49.823106-03:00",
+  "amz-B08ZFKB8ZK": "2026-10-31T17:10:48.383715-03:00",
+  "amz-B0H6T47N79": "2026-10-31T17:20:50.440068-03:00"
  },
  "ofertas_dia": [
   {
@@ -3607,6 +3613,55 @@
    "valida_ate": "2026-10-31T23:59:00-03:00",
    "entrou": "2026-10-31T15:52:30.091853-03:00",
    "dia": "2026-10-31"
+  },
+  {
+   "id": "amz-B088WCR8M3",
+   "canal": "achadinhos",
+   "nome": "Perfume Azzaro Sport Masculino Eau de Toilette 100ml",
+   "preco_antigo": 379.0,
+   "preco": 229.99,
+   "desconto": 39,
+   "link": "https://www.amazon.com.br/dp/B088WCR8M3?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61hLsRGbFXL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-31T23:59:00-03:00",
+   "gancho": "AZZARO ORIGINAL, DIRETO DA AMAZON",
+   "entrou": "2026-10-31T16:54:38.188898-03:00",
+   "dia": "2026-10-31"
+  },
+  {
+   "id": "amz-B08ZFKB8ZK",
+   "canal": "achadinhos",
+   "nome": "Perfume Azzaro The Most Wanted Intense Masculino Eau de Parfum",
+   "preco_antigo": 879.0,
+   "preco": 535.97,
+   "desconto": 39,
+   "link": "https://www.amazon.com.br/dp/B08ZFKB8ZK?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51EaNG-jdxL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-31T23:59:00-03:00",
+   "gancho": "O MAIS DESEJADO COM 39% OFF",
+   "entrou": "2026-10-31T16:54:38.188898-03:00",
+   "dia": "2026-10-31"
+  },
+  {
+   "id": "amz-B0H6T47N79",
+   "canal": "marcas",
+   "nome": "Tênis Feminino New Balance 413v3",
+   "preco_antigo": 379.99,
+   "preco": 177.99,
+   "desconto": 53,
+   "link": "https://www.amazon.com.br/dp/B0H6T47N79?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51CRtL6vaPL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-31T23:59:00-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "gancho": "NEW BALANCE PELA METADE DO PREÇO",
+   "entrou": "2026-10-31T16:54:38.188898-03:00",
+   "dia": "2026-10-31"
   }
  ],
  "ig_feitos": [
@@ -3736,7 +3791,8 @@
   "2026-10-31 14:25 post_achado",
   "2026-10-31 15:00 story_oferta",
   "2026-10-31 15:03 story_oferta",
-  "2026-10-31 15:51 story_oferta"
+  "2026-10-31 15:51 story_oferta",
+  "2026-10-31 16:44 story_oferta"
  ],
  "ig_ofertas_usadas": [
   "amz-B0GP7KDZRJ",
@@ -3824,7 +3880,8 @@
   "shopee-16185215321",
   "amz-B0DY2FPRJD",
   "amz-B0F3Q2JH5Y",
-  "nike-114071IF"
+  "nike-114071IF",
+  "amz-B0FRHHNVLV"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
@@ -3959,7 +4016,10 @@
   "airfryerwapmegafamily9litros": "2026-10-31T14:53:19.592649-03:00",
   "tenispumaxray2squareunissex": "2026-10-31T15:17:20.863911-03:00",
   "tenisasicsgelshogunstlifestylemasculino": "2026-10-31T15:26:52.691651-03:00",
-  "perfumenaturaessencialsentirdeoparfumfeminino100ml": "2026-10-31T15:56:00.938061-03:00"
+  "perfumenaturaessencialsentirdeoparfumfeminino100ml": "2026-10-31T15:56:00.938061-03:00",
+  "perfumeazzarosportmasculinoeaudetoilette100ml": "2026-10-31T16:59:49.823106-03:00",
+  "perfumeazzarothemostwantedintensemasculinoeaudeparfum": "2026-10-31T17:10:48.383715-03:00",
+  "tenisfemininonewbalance413v3": "2026-10-31T17:20:50.440068-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
