@@ -654,5 +654,47 @@
   "plataforma": "Amazon",
   "valida_ate": "2026-10-31T23:59:00-03:00",
   "gancho": "DUALSENSE ORIGINAL COM 30% OFF"
+ },
+ {
+  "id": "amz-B0BHPP31TZ",
+  "canal": "marcas",
+  "nome": "Tênis Puma X-Ray 2 Square Unissex",
+  "preco_antigo": 549.9,
+  "preco": 329.99,
+  "desconto": 40,
+  "link": "https://www.amazon.com.br/dp/B0BHPP31TZ?tag=papagarimpou-20",
+  "imagem": "https://m.media-amazon.com/images/I/71XtchenJ2L._AC_SL1500_.jpg",
+  "loja": "Vendido e entregue pela Amazon",
+  "plataforma": "Amazon",
+  "valida_ate": "2026-10-31T23:59:00-03:00",
+  "extra": "Preço a partir de: varia por tamanho e cor"
+ },
+ {
+  "id": "amz-B0FTMZCLRD",
+  "canal": "achadinhos",
+  "nome": "Air Fryer WAP Mega Family 9 Litros",
+  "preco_antigo": 699.9,
+  "preco": 425.5,
+  "desconto": 39,
+  "link": "https://www.amazon.com.br/dp/B0FTMZCLRD?tag=papagarimpou-20",
+  "imagem": "https://m.media-amazon.com/images/I/51oAqd0-u5L._AC_SL1000_.jpg",
+  "loja": "Vendido e entregue pela Amazon",
+  "plataforma": "Amazon",
+  "valida_ate": "2026-10-31T23:59:00-03:00",
+  "gancho": "AIR FRYER DE 9 LITROS PRA FAMÍLIA TODA"
+ },
+ {
+  "id": "amz-B0GHBBGMDS",
+  "canal": "marcas",
+  "nome": "Tênis ASICS Gel-Shogun ST Lifestyle Masculino",
+  "preco_antigo": 394.9,
+  "preco": 246.99,
+  "desconto": 37,
+  "link": "https://www.amazon.com.br/dp/B0GHBBGMDS?tag=papagarimpou-20",
+  "imagem": "https://m.media-amazon.com/images/I/511bOPwh5hL._AC_SL1000_.jpg",
+  "loja": "Loja oficial ASICS Brasil",
+  "plataforma": "Amazon",
+  "valida_ate": "2026-10-31T23:59:00-03:00",
+  "extra": "Preço a partir de: varia por tamanho e cor"
  }
 ]
