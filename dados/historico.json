@@ -227,7 +227,9 @@
   "2026-10-31 achadinhos 11:43 amz-B000C219QA",
   "2026-10-31 tech 11:48 amz-B0FST1L5YB",
   "2026-10-31 achadinhos 12:13 amz-B000CNKITS",
-  "2026-10-31 marcas 12:34 amz-B0F6X3RHG1"
+  "2026-10-31 marcas 12:34 amz-B0F6X3RHG1",
+  "2026-10-31 marcas 13:01 amz-B0GHS7QVMB",
+  "2026-10-31 tech 13:12 amz-B0FDX8YCRH"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -468,7 +470,9 @@
   "amz-B000C219QA": "2026-10-31T11:43:51.070101-03:00",
   "amz-B0FST1L5YB": "2026-10-31T11:48:42.781240-03:00",
   "amz-B000CNKITS": "2026-10-31T12:13:01.347011-03:00",
-  "amz-B0F6X3RHG1": "2026-10-31T12:34:21.166889-03:00"
+  "amz-B0F6X3RHG1": "2026-10-31T12:34:21.166889-03:00",
+  "amz-B0GHS7QVMB": "2026-10-31T13:01:58.989627-03:00",
+  "amz-B0FDX8YCRH": "2026-10-31T13:12:16.593405-03:00"
  },
  "ofertas_dia": [
   {
@@ -3429,6 +3433,38 @@
    "extra": "Preço a partir de: varia por tamanho e cor",
    "entrou": "2026-10-31T09:02:43.503184-03:00",
    "dia": "2026-10-31"
+  },
+  {
+   "id": "amz-B0GHS7QVMB",
+   "canal": "marcas",
+   "nome": "Tênis Mizuno Space 6 Adulto",
+   "preco_antigo": 379.99,
+   "preco": 229.9,
+   "desconto": 39,
+   "link": "https://www.amazon.com.br/dp/B0GHS7QVMB?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/7118EafoNrL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-31T23:59:00-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "entrou": "2026-10-31T09:02:43.503184-03:00",
+   "dia": "2026-10-31"
+  },
+  {
+   "id": "amz-B0FDX8YCRH",
+   "canal": "tech",
+   "nome": "Smartwatch Samsung Galaxy Watch8 40mm BT com Galaxy AI",
+   "preco_antigo": 2999.0,
+   "preco": 1387.01,
+   "desconto": 54,
+   "link": "https://www.amazon.com.br/dp/B0FDX8YCRH?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61iTGVZS+0L._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-31T23:59:00-03:00",
+   "gancho": "GALAXY WATCH8 PELA METADE DO PREÇO",
+   "entrou": "2026-10-31T11:21:49.817062-03:00",
+   "dia": "2026-10-31"
   }
  ],
  "ig_feitos": [
@@ -3548,7 +3584,10 @@
   "2026-10-31 11:50 carrossel_top5",
   "2026-10-31 11:56 story_oferta",
   "2026-10-31 12:15 story_top4",
-  "2026-10-31 12:19 story_oferta"
+  "2026-10-31 12:19 story_oferta",
+  "2026-10-31 feed",
+  "2026-10-31 12:40 reels",
+  "2026-10-31 12:47 story_oferta"
  ],
  "ig_ofertas_usadas": [
   "amz-B0GP7KDZRJ",
@@ -3630,11 +3669,12 @@
   "shopee-22396095321",
   "nike-014592IE",
   "amz-B0FKV9146V",
-  "amz-B0D98WR6YM"
+  "amz-B0D98WR6YM",
+  "nike-023968ID"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
- "ig_ultimo_reel": "2026-10-30T21:07:49.147591-03:00",
+ "ig_ultimo_reel": "2026-10-31T12:57:45.568018-03:00",
  "pecas_usadas": {
   "ac-preco-inflado": "2026-10-27",
   "dc-7-dias": "2026-10-27",
@@ -3665,21 +3705,6 @@
  },
  "ultimo_pilar": "humor",
  "fila": [
-  {
-   "id": "amz-B0GHS7QVMB",
-   "canal": "marcas",
-   "nome": "Tênis Mizuno Space 6 Adulto",
-   "preco_antigo": 379.99,
-   "preco": 229.9,
-   "desconto": 39,
-   "link": "https://www.amazon.com.br/dp/B0GHS7QVMB?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/7118EafoNrL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-10-31T23:59:00-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "entrou": "2026-10-31T09:02:43.503184-03:00"
-  },
   {
    "id": "amz-B0BHJN641R",
    "canal": "marcas",
@@ -3769,21 +3794,6 @@
    "plataforma": "Amazon",
    "valida_ate": "2026-10-31T23:59:00-03:00",
    "extra": "Preço a partir de: varia por tamanho e cor",
-   "entrou": "2026-10-31T11:21:49.817062-03:00"
-  },
-  {
-   "id": "amz-B0FDX8YCRH",
-   "canal": "tech",
-   "nome": "Smartwatch Samsung Galaxy Watch8 40mm BT com Galaxy AI",
-   "preco_antigo": 2999.0,
-   "preco": 1387.01,
-   "desconto": 54,
-   "link": "https://www.amazon.com.br/dp/B0FDX8YCRH?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61iTGVZS+0L._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-10-31T23:59:00-03:00",
-   "gancho": "GALAXY WATCH8 PELA METADE DO PREÇO",
    "entrou": "2026-10-31T11:21:49.817062-03:00"
   },
   {
@@ -3950,7 +3960,9 @@
   "perfumeralphlaurenpoloblueeaudetoilettemasculino": "2026-10-31T11:43:51.070101-03:00",
   "foneoverearjbltune530comfio": "2026-10-31T11:48:42.781240-03:00",
   "perfumeazzaropourhommemasculinoeaudetoilette": "2026-10-31T12:13:01.347011-03:00",
-  "tenisdecorridapumapounceliteunissex": "2026-10-31T12:34:21.166889-03:00"
+  "tenisdecorridapumapounceliteunissex": "2026-10-31T12:34:21.166889-03:00",
+  "tenismizunospace6adulto": "2026-10-31T13:01:58.989627-03:00",
+  "smartwatchsamsunggalaxywatch840mmbtcomgalaxyai": "2026-10-31T13:12:16.593405-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
@@ -3959,6 +3971,13 @@
    "shopee-22997647570",
    "shopee-18996964739",
    "shopee-22397314985"
+  ],
+  "2026-10-31": [
+   "shopee-58260024078",
+   "shopee-23398337380",
+   "shopee-20516472434",
+   "shopee-16185215321",
+   "shopee-22194331598"
   ]
  }
 }
