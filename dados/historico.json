@@ -192,7 +192,10 @@
   "2026-10-30 marcas 20:32 amz-B0GWS55TV6",
   "2026-10-30 marcas 20:53 ml-MLB2011808343",
   "2026-10-30 marcas 21:07 ml-MLB4085597457",
-  "2026-10-30 marcas 21:10 ml-MLBU3757103515"
+  "2026-10-30 marcas 21:10 ml-MLBU3757103515",
+  "2026-10-30 marcas 21:37 ml-MLBU3221577323",
+  "2026-10-30 tech 21:50 amz-B0FDXB22BL",
+  "2026-10-30 marcas 21:58 nike-016269ID"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -398,7 +401,10 @@
   "amz-B0GWS55TV6": "2026-10-30T20:32:09.454501-03:00",
   "ml-MLB2011808343": "2026-10-30T20:53:56.127971-03:00",
   "ml-MLB4085597457": "2026-10-30T21:07:23.721129-03:00",
-  "ml-MLBU3757103515": "2026-10-30T21:10:59.696566-03:00"
+  "ml-MLBU3757103515": "2026-10-30T21:10:59.696566-03:00",
+  "ml-MLBU3221577323": "2026-10-30T21:37:21.086230-03:00",
+  "amz-B0FDXB22BL": "2026-10-30T21:50:41.883071-03:00",
+  "nike-016269ID": "2026-10-30T21:58:28.949352-03:00"
  },
  "ofertas_dia": [
   {
@@ -3423,6 +3429,54 @@
    "extra": "Preço a partir de: varia por tamanho e cor",
    "entrou": "2026-10-30T17:46:14.484842-03:00",
    "dia": "2026-10-30"
+  },
+  {
+   "id": "ml-MLBU3221577323",
+   "canal": "marcas",
+   "nome": "Kit 5 Camisetas Básicas Slim Hering",
+   "preco_antigo": 249.99,
+   "preco": 108.0,
+   "desconto": 57,
+   "link": "https://meli.la/22JixN6",
+   "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_881097-MLB88020664835_072025-E--kit-com-5-camisetas-masculinas-basicas-slim-hering-4fv31den.webp",
+   "loja": "Loja oficial Hering · Mercado Livre",
+   "plataforma": "Mercado Livre",
+   "valida_ate": "2026-10-31T13:00:00-03:00",
+   "extra": "Sai R$ 21,60 cada · varia por tamanho e cor",
+   "entrou": "2026-10-30T17:46:14.484842-03:00",
+   "dia": "2026-10-30"
+  },
+  {
+   "id": "amz-B0FDXB22BL",
+   "canal": "tech",
+   "nome": "Samsung Galaxy Watch8 40mm LTE Grafite",
+   "preco_antigo": 3299.0,
+   "preco": 1331.1,
+   "desconto": 60,
+   "link": "https://www.amazon.com.br/dp/B0FDXB22BL?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61zc3QnQvcL._AC_SL1500_.jpg",
+   "loja": "Vendido por parceiro · entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-30T23:59:00-03:00",
+   "gancho": "GALAXY WATCH8 COM MAIS DA METADE DE DESCONTO",
+   "entrou": "2026-10-30T20:30:18.232768-03:00",
+   "dia": "2026-10-30"
+  },
+  {
+   "id": "nike-016269ID",
+   "canal": "marcas",
+   "nome": "Camiseta Nike Sportswear Club Masculina",
+   "preco_antigo": 129.99,
+   "preco": 63.41,
+   "desconto": 51,
+   "link": "https://tidd.ly/4BuYBaB",
+   "imagem": "https://imgnike-a.akamaihd.net/1920x1920/016269ID.jpg",
+   "loja": "Loja oficial Nike · nike.com.br",
+   "plataforma": "Nike",
+   "valida_ate": "2026-10-31T13:00:00-03:00",
+   "gancho": "NIKE NO PEITO POR MENOS DE R$ 65",
+   "entrou": "2026-10-30T19:57:23.719917-03:00",
+   "dia": "2026-10-30"
   }
  ],
  "ig_feitos": [
@@ -3533,7 +3587,9 @@
   "2026-10-30 feed",
   "2026-10-30 20:50 post_achado",
   "2026-10-30 feed",
-  "2026-10-30 21:05 reels"
+  "2026-10-30 21:05 reels",
+  "2026-10-30 21:20 story_convite",
+  "2026-10-30 21:24 story_oferta"
  ],
  "ig_ofertas_usadas": [
   "amz-B0GP7KDZRJ",
@@ -3605,7 +3661,8 @@
   "amz-B0CLSTLZ4W",
   "amz-B0CVXT26K5",
   "shopee-22997647570",
-  "shopee-18996964739"
+  "shopee-18996964739",
+  "shopee-22593622212"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
@@ -3638,36 +3695,6 @@
  },
  "ultimo_pilar": "mito",
  "fila": [
-  {
-   "id": "ml-MLBU3221577323",
-   "canal": "marcas",
-   "nome": "Kit 5 Camisetas Básicas Slim Hering",
-   "preco_antigo": 249.99,
-   "preco": 108.0,
-   "desconto": 57,
-   "link": "https://meli.la/22JixN6",
-   "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_881097-MLB88020664835_072025-E--kit-com-5-camisetas-masculinas-basicas-slim-hering-4fv31den.webp",
-   "loja": "Loja oficial Hering · Mercado Livre",
-   "plataforma": "Mercado Livre",
-   "valida_ate": "2026-10-31T13:00:00-03:00",
-   "extra": "Sai R$ 21,60 cada · varia por tamanho e cor",
-   "entrou": "2026-10-30T17:46:14.484842-03:00"
-  },
-  {
-   "id": "nike-016269ID",
-   "canal": "marcas",
-   "nome": "Camiseta Nike Sportswear Club Masculina",
-   "preco_antigo": 129.99,
-   "preco": 63.41,
-   "desconto": 51,
-   "link": "https://tidd.ly/4BuYBaB",
-   "imagem": "https://imgnike-a.akamaihd.net/1920x1920/016269ID.jpg",
-   "loja": "Loja oficial Nike · nike.com.br",
-   "plataforma": "Nike",
-   "valida_ate": "2026-10-31T13:00:00-03:00",
-   "gancho": "NIKE NO PEITO POR MENOS DE R$ 65",
-   "entrou": "2026-10-30T19:57:23.719917-03:00"
-  },
   {
    "id": "nike-004386ID",
    "canal": "marcas",
@@ -3775,21 +3802,6 @@
    "entrou": "2026-10-30T20:30:18.232768-03:00"
   },
   {
-   "id": "amz-B0FDXB22BL",
-   "canal": "tech",
-   "nome": "Samsung Galaxy Watch8 40mm LTE Grafite",
-   "preco_antigo": 3299.0,
-   "preco": 1331.1,
-   "desconto": 60,
-   "link": "https://www.amazon.com.br/dp/B0FDXB22BL?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61zc3QnQvcL._AC_SL1500_.jpg",
-   "loja": "Vendido por parceiro · entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-10-30T23:59:00-03:00",
-   "gancho": "GALAXY WATCH8 COM MAIS DA METADE DE DESCONTO",
-   "entrou": "2026-10-30T20:30:18.232768-03:00"
-  },
-  {
    "id": "amz-B0CVCG6S9C",
    "canal": "tech",
    "nome": "Smartwatch Samsung Galaxy Fit3 Prata",
@@ -3887,7 +3899,10 @@
   "kit4cuecasboxerlupoalgodao": "2026-10-30T20:32:09.454501-03:00",
   "camisetanikesportsweariconfuturamasculina": "2026-10-30T20:53:56.127971-03:00",
   "camisetainsiderlighttshirtmasculina": "2026-10-30T21:07:23.721129-03:00",
-  "camisetainsidertechtshirtmasculina": "2026-10-30T21:10:59.696566-03:00"
+  "camisetainsidertechtshirtmasculina": "2026-10-30T21:10:59.696566-03:00",
+  "kit5camisetasbasicasslimhering": "2026-10-30T21:37:21.086230-03:00",
+  "samsunggalaxywatch840mmltegrafite": "2026-10-30T21:50:41.883071-03:00",
+  "camisetanikesportswearclubmasculina": "2026-10-30T21:58:28.949352-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
