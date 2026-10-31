@@ -233,7 +233,8 @@
   "2026-10-31 marcas 13:14 amz-B0H9BWRR6G",
   "2026-10-31 marcas 13:25 amz-B0DXP2QCN6",
   "2026-10-31 tech 13:31 amz-B0CQKLS4RP",
-  "2026-10-31 marcas 13:47 amz-B0GHB5W2NP"
+  "2026-10-31 marcas 13:47 amz-B0GHB5W2NP",
+  "2026-10-31 achadinhos 14:53 amz-B0FTMZCLRD"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -480,7 +481,8 @@
   "amz-B0H9BWRR6G": "2026-10-31T13:14:04.714649-03:00",
   "amz-B0DXP2QCN6": "2026-10-31T13:25:04.097442-03:00",
   "amz-B0CQKLS4RP": "2026-10-31T13:31:24.133706-03:00",
-  "amz-B0GHB5W2NP": "2026-10-31T13:47:06.781024-03:00"
+  "amz-B0GHB5W2NP": "2026-10-31T13:47:06.781024-03:00",
+  "amz-B0FTMZCLRD": "2026-10-31T14:53:19.592649-03:00"
  },
  "ofertas_dia": [
   {
@@ -3536,6 +3538,22 @@
    "extra": "Preço a partir de: varia por tamanho e cor",
    "entrou": "2026-10-31T13:12:38.467212-03:00",
    "dia": "2026-10-31"
+  },
+  {
+   "id": "amz-B0FTMZCLRD",
+   "canal": "achadinhos",
+   "nome": "Air Fryer WAP Mega Family 9 Litros",
+   "preco_antigo": 699.9,
+   "preco": 425.5,
+   "desconto": 39,
+   "link": "https://www.amazon.com.br/dp/B0FTMZCLRD?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51oAqd0-u5L._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-31T23:59:00-03:00",
+   "gancho": "AIR FRYER DE 9 LITROS PRA FAMÍLIA TODA",
+   "entrou": "2026-10-31T14:49:57.705924-03:00",
+   "dia": "2026-10-31"
   }
  ],
  "ig_feitos": [
@@ -3660,7 +3678,9 @@
   "2026-10-31 12:40 reels",
   "2026-10-31 12:47 story_oferta",
   "2026-10-31 13:20 story_convite",
-  "2026-10-31 14:08 story_oferta"
+  "2026-10-31 14:08 story_oferta",
+  "2026-10-31 feed",
+  "2026-10-31 14:25 post_achado"
  ],
  "ig_ofertas_usadas": [
   "amz-B0GP7KDZRJ",
@@ -3744,7 +3764,8 @@
   "amz-B0FKV9146V",
   "amz-B0D98WR6YM",
   "nike-023968ID",
-  "amz-B0H46S7TG8"
+  "amz-B0H46S7TG8",
+  "shopee-16185215321"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
@@ -3778,7 +3799,143 @@
   "2026-10-31": 1
  },
  "ultimo_pilar": "humor",
- "fila": [],
+ "fila": [
+  {
+   "id": "amz-B0CKJK36MD",
+   "canal": "marcas",
+   "nome": "Tênis Puma Club II Era",
+   "preco_antigo": 449.99,
+   "preco": 206.0,
+   "desconto": 54,
+   "link": "https://www.amazon.com.br/dp/B0CKJK36MD?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61F56+87KUL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-31T23:59:00-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "entrou": "2026-10-31T14:49:57.705924-03:00"
+  },
+  {
+   "id": "amz-B0BHJN641R",
+   "canal": "marcas",
+   "nome": "Tech T-shirt Insider Gola V Masculina",
+   "preco_antigo": 165.0,
+   "preco": 83.47,
+   "desconto": 49,
+   "link": "https://www.amazon.com.br/dp/B0BHJN641R?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51JgLC3ny+L._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-31T23:59:00-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "gancho": "TECH T-SHIRT DA INSIDER PELA METADE",
+   "entrou": "2026-10-31T14:49:57.705924-03:00"
+  },
+  {
+   "id": "amz-B0DJ9859GP",
+   "canal": "marcas",
+   "nome": "Tênis de Corrida Puma Darter Pro",
+   "preco_antigo": 499.99,
+   "preco": 237.49,
+   "desconto": 53,
+   "link": "https://www.amazon.com.br/dp/B0DJ9859GP?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71-NV05maHL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-31T23:59:00-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "gancho": "PUMA DE CORRIDA POR MENOS DA METADE",
+   "entrou": "2026-10-31T14:49:57.705924-03:00"
+  },
+  {
+   "id": "amz-B0FH3W32GS",
+   "canal": "marcas",
+   "nome": "Tênis Fila Racer Fastpace Masculino",
+   "preco_antigo": 499.99,
+   "preco": 219.9,
+   "desconto": 56,
+   "link": "https://www.amazon.com.br/dp/B0FH3W32GS?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/518oCv3h4wL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-31T23:59:00-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "entrou": "2026-10-31T14:49:57.705924-03:00"
+  },
+  {
+   "id": "amz-B0BHPP31TZ",
+   "canal": "marcas",
+   "nome": "Tênis Puma X-Ray 2 Square Unissex",
+   "preco_antigo": 549.9,
+   "preco": 329.99,
+   "desconto": 40,
+   "link": "https://www.amazon.com.br/dp/B0BHPP31TZ?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71XtchenJ2L._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-31T23:59:00-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "entrou": "2026-10-31T14:49:57.705924-03:00"
+  },
+  {
+   "id": "amz-B0GHBBGMDS",
+   "canal": "marcas",
+   "nome": "Tênis ASICS Gel-Shogun ST Lifestyle Masculino",
+   "preco_antigo": 394.9,
+   "preco": 246.99,
+   "desconto": 37,
+   "link": "https://www.amazon.com.br/dp/B0GHBBGMDS?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/511bOPwh5hL._AC_SL1000_.jpg",
+   "loja": "Loja oficial ASICS Brasil",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-31T23:59:00-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "entrou": "2026-10-31T14:49:57.705924-03:00"
+  },
+  {
+   "id": "amz-B0BDHYF8YS",
+   "canal": "tech",
+   "nome": "Headset Gamer HyperX Cloud Stinger 2 Core",
+   "preco_antigo": 269.9,
+   "preco": 188.73,
+   "desconto": 30,
+   "link": "https://www.amazon.com.br/dp/B0BDHYF8YS?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51PgS3bqxmL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-31T23:59:00-03:00",
+   "entrou": "2026-10-31T14:49:57.705924-03:00"
+  },
+  {
+   "id": "amz-B0D2LPLTJ8",
+   "canal": "tech",
+   "nome": "Caixa de Som JBL Xtreme 4 Bluetooth com Powerbank",
+   "preco_antigo": 2744.43,
+   "preco": 1168.9,
+   "desconto": 57,
+   "link": "https://www.amazon.com.br/dp/B0D2LPLTJ8?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71jzFcaXnzL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-31T23:59:00-03:00",
+   "gancho": "JBL XTREME 4 POR MENOS DA METADE",
+   "entrou": "2026-10-31T14:49:57.705924-03:00"
+  },
+  {
+   "id": "amz-B0GVPGKM4P",
+   "canal": "tech",
+   "nome": "Fone Bluetooth JBL Tune 780NC com Cancelamento de Ruído",
+   "preco_antigo": 560.52,
+   "preco": 358.12,
+   "desconto": 36,
+   "link": "https://www.amazon.com.br/dp/B0GVPGKM4P?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51MnMPeZUWL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-31T23:59:00-03:00",
+   "entrou": "2026-10-31T14:49:57.705924-03:00"
+  }
+ ],
  "menus_fixados": [
   "v1 @papagarimpou",
   "v1 @papagarimpoumarcas",
@@ -3875,7 +4032,8 @@
   "tenisasicsgelexcite11runningmasculino": "2026-10-31T13:14:04.714649-03:00",
   "garrafatermicastanleyaerolightflipstraw473ml": "2026-10-31T13:25:04.097442-03:00",
   "controleplaystationdualsensesemfiobrancops5": "2026-10-31T13:31:24.133706-03:00",
-  "tenisasicsgelshogunstmasculino": "2026-10-31T13:47:06.781024-03:00"
+  "tenisasicsgelshogunstmasculino": "2026-10-31T13:47:06.781024-03:00",
+  "airfryerwapmegafamily9litros": "2026-10-31T14:53:19.592649-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
