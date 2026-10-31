@@ -696,5 +696,58 @@
   "plataforma": "Amazon",
   "valida_ate": "2026-10-31T23:59:00-03:00",
   "extra": "Preço a partir de: varia por tamanho e cor"
+ },
+ {
+  "id": "amz-B0CLSTLZ4W",
+  "canal": "achadinhos",
+  "nome": "Conjunto de Potes de Vidro Herméticos Electrolux 4 unidades",
+  "preco_antigo": 119.9,
+  "preco": 59.9,
+  "desconto": 50,
+  "link": "https://www.amazon.com.br/dp/B0CLSTLZ4W?tag=papagarimpou-20",
+  "imagem": "https://m.media-amazon.com/images/I/51NoccuAxfL._AC_SL1200_.jpg",
+  "loja": "Vendido por parceiro · entregue pela Amazon",
+  "plataforma": "Amazon",
+  "valida_ate": "2026-10-31T23:59:00-03:00"
+ },
+ {
+  "id": "amz-B0BH59HP23",
+  "canal": "tech",
+  "nome": "God of War Ragnarök - Edição Standard - PlayStation 5",
+  "preco_antigo": 399.9,
+  "preco": 189.05,
+  "desconto": 53,
+  "link": "https://www.amazon.com.br/dp/B0BH59HP23?tag=papagarimpou-20",
+  "imagem": "https://m.media-amazon.com/images/I/8136lnf0n2L._AC_SL1500_.jpg",
+  "loja": "Vendido e entregue pela Amazon",
+  "plataforma": "Amazon",
+  "valida_ate": "2026-10-31T23:59:00-03:00",
+  "gancho": "KRATOS PELA METADE DO PREÇO"
+ },
+ {
+  "id": "amz-B0CCXLPKPJ",
+  "canal": "achadinhos",
+  "nome": "Escova de Dente Elétrica Oral-B iO6 com App e Sensor de Pressão",
+  "preco_antigo": 1692.65,
+  "preco": 899.99,
+  "desconto": 47,
+  "link": "https://www.amazon.com.br/dp/B0CCXLPKPJ?tag=papagarimpou-20",
+  "imagem": "https://m.media-amazon.com/images/I/61Dr7W5+eML._AC_SL1200_.jpg",
+  "loja": "Vendido e entregue pela Amazon",
+  "plataforma": "Amazon",
+  "valida_ate": "2026-10-31T23:59:00-03:00"
+ },
+ {
+  "id": "amz-B0DL4XB1VD",
+  "canal": "achadinhos",
+  "nome": "Perfume Natura Essencial Sentir Deo Parfum Feminino 100ml",
+  "preco_antigo": 279.0,
+  "preco": 159.5,
+  "desconto": 43,
+  "link": "https://www.amazon.com.br/dp/B0DL4XB1VD?tag=papagarimpou-20",
+  "imagem": "https://m.media-amazon.com/images/I/51RNfO5FFgL._AC_SL1080_.jpg",
+  "loja": "Vendido por parceiro · entregue pela Amazon",
+  "plataforma": "Amazon",
+  "valida_ate": "2026-10-31T23:59:00-03:00"
  }
 ]
