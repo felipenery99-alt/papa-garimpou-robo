@@ -191,7 +191,8 @@
   "2026-10-30 marcas 20:29 amz-B0D8BXW5TD",
   "2026-10-30 marcas 20:32 amz-B0GWS55TV6",
   "2026-10-30 marcas 20:53 ml-MLB2011808343",
-  "2026-10-30 marcas 21:07 ml-MLB4085597457"
+  "2026-10-30 marcas 21:07 ml-MLB4085597457",
+  "2026-10-30 marcas 21:10 ml-MLBU3757103515"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -396,7 +397,8 @@
   "amz-B0D8BXW5TD": "2026-10-30T20:29:54.200532-03:00",
   "amz-B0GWS55TV6": "2026-10-30T20:32:09.454501-03:00",
   "ml-MLB2011808343": "2026-10-30T20:53:56.127971-03:00",
-  "ml-MLB4085597457": "2026-10-30T21:07:23.721129-03:00"
+  "ml-MLB4085597457": "2026-10-30T21:07:23.721129-03:00",
+  "ml-MLBU3757103515": "2026-10-30T21:10:59.696566-03:00"
  },
  "ofertas_dia": [
   {
@@ -3405,6 +3407,22 @@
    "gancho": "A CAMISETA QUE A GALERA NÃO TIRA DO CORPO",
    "entrou": "2026-10-30T17:46:14.484842-03:00",
    "dia": "2026-10-30"
+  },
+  {
+   "id": "ml-MLBU3757103515",
+   "canal": "marcas",
+   "nome": "Camiseta Insider Tech T-shirt Masculina",
+   "preco_antigo": 175.0,
+   "preco": 109.25,
+   "desconto": 38,
+   "link": "https://meli.la/185r2Gi",
+   "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_990925-MLB85730032338_062025-E--camiseta-insider-tech-t-shirt-masculina-adulto.webp",
+   "loja": "Loja oficial Insider · Mercado Livre",
+   "plataforma": "Mercado Livre",
+   "valida_ate": "2026-10-31T13:00:00-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "entrou": "2026-10-30T17:46:14.484842-03:00",
+   "dia": "2026-10-30"
   }
  ],
  "ig_feitos": [
@@ -3511,7 +3529,11 @@
   "2026-10-30 19:17 story_oferta",
   "2026-10-30 20:03 story_oferta",
   "2026-10-30 20:35 story_top4",
-  "2026-10-30 20:38 story_oferta"
+  "2026-10-30 20:38 story_oferta",
+  "2026-10-30 feed",
+  "2026-10-30 20:50 post_achado",
+  "2026-10-30 feed",
+  "2026-10-30 21:05 reels"
  ],
  "ig_ofertas_usadas": [
   "amz-B0GP7KDZRJ",
@@ -3582,11 +3604,12 @@
   "shopee-42130479011",
   "amz-B0CLSTLZ4W",
   "amz-B0CVXT26K5",
-  "shopee-22997647570"
+  "shopee-22997647570",
+  "shopee-18996964739"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
- "ig_ultimo_reel": "2026-10-30T17:46:14.484842-03:00",
+ "ig_ultimo_reel": "2026-10-30T21:07:49.147591-03:00",
  "pecas_usadas": {
   "ac-preco-inflado": "2026-10-27",
   "dc-7-dias": "2026-10-27",
@@ -3615,21 +3638,6 @@
  },
  "ultimo_pilar": "mito",
  "fila": [
-  {
-   "id": "ml-MLBU3757103515",
-   "canal": "marcas",
-   "nome": "Camiseta Insider Tech T-shirt Masculina",
-   "preco_antigo": 175.0,
-   "preco": 109.25,
-   "desconto": 38,
-   "link": "https://meli.la/185r2Gi",
-   "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_990925-MLB85730032338_062025-E--camiseta-insider-tech-t-shirt-masculina-adulto.webp",
-   "loja": "Loja oficial Insider · Mercado Livre",
-   "plataforma": "Mercado Livre",
-   "valida_ate": "2026-10-31T13:00:00-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "entrou": "2026-10-30T17:46:14.484842-03:00"
-  },
   {
    "id": "ml-MLBU3221577323",
    "canal": "marcas",
@@ -3808,6 +3816,20 @@
    "plataforma": "Amazon",
    "valida_ate": "2026-10-30T23:59:00-03:00",
    "entrou": "2026-10-30T20:30:18.232768-03:00"
+  },
+  {
+   "id": "amz-B08B459R11",
+   "canal": "tech",
+   "nome": "Mouse Gamer Logitech G203 LIGHTSYNC RGB",
+   "preco_antigo": 169.9,
+   "preco": 113.63,
+   "desconto": 33,
+   "link": "https://www.amazon.com.br/dp/B08B459R11?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/512M0CAOftL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-30T23:59:00-03:00",
+   "entrou": "2026-10-30T21:07:49.147591-03:00"
   }
  ],
  "menus_fixados": [
@@ -3864,6 +3886,16 @@
   "bestwheyatlheticanutritionachocolatadotoddy": "2026-10-30T20:29:54.200532-03:00",
   "kit4cuecasboxerlupoalgodao": "2026-10-30T20:32:09.454501-03:00",
   "camisetanikesportsweariconfuturamasculina": "2026-10-30T20:53:56.127971-03:00",
-  "camisetainsiderlighttshirtmasculina": "2026-10-30T21:07:23.721129-03:00"
+  "camisetainsiderlighttshirtmasculina": "2026-10-30T21:07:23.721129-03:00",
+  "camisetainsidertechtshirtmasculina": "2026-10-30T21:10:59.696566-03:00"
+ },
+ "ig_reels_ofertas": {
+  "2026-10-30": [
+   "shopee-9511754133",
+   "shopee-42130479011",
+   "shopee-22997647570",
+   "shopee-18996964739",
+   "shopee-22397314985"
+  ]
  }
 }
