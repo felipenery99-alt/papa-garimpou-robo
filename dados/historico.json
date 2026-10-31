@@ -230,7 +230,10 @@
   "2026-10-31 marcas 12:34 amz-B0F6X3RHG1",
   "2026-10-31 marcas 13:01 amz-B0GHS7QVMB",
   "2026-10-31 tech 13:12 amz-B0FDX8YCRH",
-  "2026-10-31 marcas 13:14 amz-B0H9BWRR6G"
+  "2026-10-31 marcas 13:14 amz-B0H9BWRR6G",
+  "2026-10-31 marcas 13:25 amz-B0DXP2QCN6",
+  "2026-10-31 tech 13:31 amz-B0CQKLS4RP",
+  "2026-10-31 marcas 13:47 amz-B0GHB5W2NP"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -474,7 +477,10 @@
   "amz-B0F6X3RHG1": "2026-10-31T12:34:21.166889-03:00",
   "amz-B0GHS7QVMB": "2026-10-31T13:01:58.989627-03:00",
   "amz-B0FDX8YCRH": "2026-10-31T13:12:16.593405-03:00",
-  "amz-B0H9BWRR6G": "2026-10-31T13:14:04.714649-03:00"
+  "amz-B0H9BWRR6G": "2026-10-31T13:14:04.714649-03:00",
+  "amz-B0DXP2QCN6": "2026-10-31T13:25:04.097442-03:00",
+  "amz-B0CQKLS4RP": "2026-10-31T13:31:24.133706-03:00",
+  "amz-B0GHB5W2NP": "2026-10-31T13:47:06.781024-03:00"
  },
  "ofertas_dia": [
   {
@@ -3483,6 +3489,53 @@
    "extra": "Preço a partir de: varia por tamanho e cor",
    "entrou": "2026-10-31T13:12:38.467212-03:00",
    "dia": "2026-10-31"
+  },
+  {
+   "id": "amz-B0DXP2QCN6",
+   "canal": "marcas",
+   "nome": "Garrafa Térmica Stanley Aerolight Flip Straw 473ml",
+   "preco_antigo": 269.0,
+   "preco": 161.17,
+   "desconto": 40,
+   "link": "https://www.amazon.com.br/dp/B0DXP2QCN6?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51d-ju3BLyL._AC_SL1200_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-31T23:59:00-03:00",
+   "entrou": "2026-10-31T13:12:38.467212-03:00",
+   "dia": "2026-10-31"
+  },
+  {
+   "id": "amz-B0CQKLS4RP",
+   "canal": "tech",
+   "nome": "Controle PlayStation DualSense sem fio Branco (PS5)",
+   "preco_antigo": 499.9,
+   "preco": 350.17,
+   "desconto": 30,
+   "link": "https://www.amazon.com.br/dp/B0CQKLS4RP?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51PmeLGEkML._AC_SL1500_.jpg",
+   "loja": "Vendido por parceiro · entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-31T23:59:00-03:00",
+   "gancho": "DUALSENSE ORIGINAL COM 30% OFF",
+   "entrou": "2026-10-31T12:06:50.383841-03:00",
+   "dia": "2026-10-31"
+  },
+  {
+   "id": "amz-B0GHB5W2NP",
+   "canal": "marcas",
+   "nome": "Tênis ASICS Gel-Shogun ST Masculino",
+   "preco_antigo": 419.9,
+   "preco": 246.99,
+   "desconto": 41,
+   "link": "https://www.amazon.com.br/dp/B0GHB5W2NP?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/511bOPwh5hL._AC_SL1000_.jpg",
+   "loja": "Loja oficial ASICS · Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-31T23:59:00-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "entrou": "2026-10-31T13:12:38.467212-03:00",
+   "dia": "2026-10-31"
   }
  ],
  "ig_feitos": [
@@ -3605,7 +3658,8 @@
   "2026-10-31 12:19 story_oferta",
   "2026-10-31 feed",
   "2026-10-31 12:40 reels",
-  "2026-10-31 12:47 story_oferta"
+  "2026-10-31 12:47 story_oferta",
+  "2026-10-31 13:20 story_convite"
  ],
  "ig_ofertas_usadas": [
   "amz-B0GP7KDZRJ",
@@ -3722,68 +3776,7 @@
   "2026-10-31": 1
  },
  "ultimo_pilar": "humor",
- "fila": [
-  {
-   "id": "amz-B0CQKLS4RP",
-   "canal": "tech",
-   "nome": "Controle PlayStation DualSense sem fio Branco (PS5)",
-   "preco_antigo": 499.9,
-   "preco": 350.17,
-   "desconto": 30,
-   "link": "https://www.amazon.com.br/dp/B0CQKLS4RP?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51PmeLGEkML._AC_SL1500_.jpg",
-   "loja": "Vendido por parceiro · entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-10-31T23:59:00-03:00",
-   "gancho": "DUALSENSE ORIGINAL COM 30% OFF",
-   "entrou": "2026-10-31T12:06:50.383841-03:00"
-  },
-  {
-   "id": "amz-B0DXP2QCN6",
-   "canal": "marcas",
-   "nome": "Garrafa Térmica Stanley Aerolight Flip Straw 473ml",
-   "preco_antigo": 269.0,
-   "preco": 161.17,
-   "desconto": 40,
-   "link": "https://www.amazon.com.br/dp/B0DXP2QCN6?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51d-ju3BLyL._AC_SL1200_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-10-31T23:59:00-03:00",
-   "entrou": "2026-10-31T13:12:38.467212-03:00"
-  },
-  {
-   "id": "amz-B0DJ9859GP",
-   "canal": "marcas",
-   "nome": "Tênis de Corrida Puma Darter Pro",
-   "preco_antigo": 499.99,
-   "preco": 237.49,
-   "desconto": 53,
-   "link": "https://www.amazon.com.br/dp/B0DJ9859GP?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/71-NV05maHL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-10-31T23:59:00-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "gancho": "PUMA DE CORRIDA POR MENOS DA METADE",
-   "entrou": "2026-10-31T13:12:38.467212-03:00"
-  },
-  {
-   "id": "amz-B0GHB5W2NP",
-   "canal": "marcas",
-   "nome": "Tênis ASICS Gel-Shogun ST Masculino",
-   "preco_antigo": 419.9,
-   "preco": 246.99,
-   "desconto": 41,
-   "link": "https://www.amazon.com.br/dp/B0GHB5W2NP?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/511bOPwh5hL._AC_SL1000_.jpg",
-   "loja": "Loja oficial ASICS · Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-10-31T23:59:00-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "entrou": "2026-10-31T13:12:38.467212-03:00"
-  }
- ],
+ "fila": [],
  "menus_fixados": [
   "v1 @papagarimpou",
   "v1 @papagarimpoumarcas",
@@ -3877,7 +3870,10 @@
   "tenisdecorridapumapounceliteunissex": "2026-10-31T12:34:21.166889-03:00",
   "tenismizunospace6adulto": "2026-10-31T13:01:58.989627-03:00",
   "smartwatchsamsunggalaxywatch840mmbtcomgalaxyai": "2026-10-31T13:12:16.593405-03:00",
-  "tenisasicsgelexcite11runningmasculino": "2026-10-31T13:14:04.714649-03:00"
+  "tenisasicsgelexcite11runningmasculino": "2026-10-31T13:14:04.714649-03:00",
+  "garrafatermicastanleyaerolightflipstraw473ml": "2026-10-31T13:25:04.097442-03:00",
+  "controleplaystationdualsensesemfiobrancops5": "2026-10-31T13:31:24.133706-03:00",
+  "tenisasicsgelshogunstmasculino": "2026-10-31T13:47:06.781024-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
