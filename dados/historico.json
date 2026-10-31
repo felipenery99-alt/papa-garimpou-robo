@@ -229,7 +229,8 @@
   "2026-10-31 achadinhos 12:13 amz-B000CNKITS",
   "2026-10-31 marcas 12:34 amz-B0F6X3RHG1",
   "2026-10-31 marcas 13:01 amz-B0GHS7QVMB",
-  "2026-10-31 tech 13:12 amz-B0FDX8YCRH"
+  "2026-10-31 tech 13:12 amz-B0FDX8YCRH",
+  "2026-10-31 marcas 13:14 amz-B0H9BWRR6G"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -472,7 +473,8 @@
   "amz-B000CNKITS": "2026-10-31T12:13:01.347011-03:00",
   "amz-B0F6X3RHG1": "2026-10-31T12:34:21.166889-03:00",
   "amz-B0GHS7QVMB": "2026-10-31T13:01:58.989627-03:00",
-  "amz-B0FDX8YCRH": "2026-10-31T13:12:16.593405-03:00"
+  "amz-B0FDX8YCRH": "2026-10-31T13:12:16.593405-03:00",
+  "amz-B0H9BWRR6G": "2026-10-31T13:14:04.714649-03:00"
  },
  "ofertas_dia": [
   {
@@ -3465,6 +3467,22 @@
    "gancho": "GALAXY WATCH8 PELA METADE DO PREÇO",
    "entrou": "2026-10-31T11:21:49.817062-03:00",
    "dia": "2026-10-31"
+  },
+  {
+   "id": "amz-B0H9BWRR6G",
+   "canal": "marcas",
+   "nome": "Tênis ASICS Gel-Excite 11 Running Masculino",
+   "preco_antigo": 439.88,
+   "preco": 284.99,
+   "desconto": 35,
+   "link": "https://www.amazon.com.br/dp/B0H9BWRR6G?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51z85siU5DL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Netshoes · Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-31T23:59:00-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "entrou": "2026-10-31T13:12:38.467212-03:00",
+   "dia": "2026-10-31"
   }
  ],
  "ig_feitos": [
@@ -3706,35 +3724,19 @@
  "ultimo_pilar": "humor",
  "fila": [
   {
-   "id": "amz-B0BHJN641R",
-   "canal": "marcas",
-   "nome": "Tech T-shirt Insider Gola V Masculina",
-   "preco_antigo": 165.0,
-   "preco": 83.47,
-   "desconto": 49,
-   "link": "https://www.amazon.com.br/dp/B0BHJN641R?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51JgLC3ny+L._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
+   "id": "amz-B0CQKLS4RP",
+   "canal": "tech",
+   "nome": "Controle PlayStation DualSense sem fio Branco (PS5)",
+   "preco_antigo": 499.9,
+   "preco": 350.17,
+   "desconto": 30,
+   "link": "https://www.amazon.com.br/dp/B0CQKLS4RP?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51PmeLGEkML._AC_SL1500_.jpg",
+   "loja": "Vendido por parceiro · entregue pela Amazon",
    "plataforma": "Amazon",
    "valida_ate": "2026-10-31T23:59:00-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "gancho": "TECH T-SHIRT DA INSIDER PELA METADE",
-   "entrou": "2026-10-31T09:02:43.503184-03:00"
-  },
-  {
-   "id": "amz-B0H9BWRR6G",
-   "canal": "marcas",
-   "nome": "Tênis ASICS Gel-Excite 11 Running Masculino",
-   "preco_antigo": 439.88,
-   "preco": 284.99,
-   "desconto": 35,
-   "link": "https://www.amazon.com.br/dp/B0H9BWRR6G?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51z85siU5DL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Netshoes · Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-10-31T23:59:00-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "entrou": "2026-10-31T09:02:43.503184-03:00"
+   "gancho": "DUALSENSE ORIGINAL COM 30% OFF",
+   "entrou": "2026-10-31T12:06:50.383841-03:00"
   },
   {
    "id": "amz-B0DXP2QCN6",
@@ -3748,7 +3750,7 @@
    "loja": "Vendido e entregue pela Amazon",
    "plataforma": "Amazon",
    "valida_ate": "2026-10-31T23:59:00-03:00",
-   "entrou": "2026-10-31T09:02:43.503184-03:00"
+   "entrou": "2026-10-31T13:12:38.467212-03:00"
   },
   {
    "id": "amz-B0DJ9859GP",
@@ -3764,7 +3766,7 @@
    "valida_ate": "2026-10-31T23:59:00-03:00",
    "extra": "Preço a partir de: varia por tamanho e cor",
    "gancho": "PUMA DE CORRIDA POR MENOS DA METADE",
-   "entrou": "2026-10-31T09:02:43.503184-03:00"
+   "entrou": "2026-10-31T13:12:38.467212-03:00"
   },
   {
    "id": "amz-B0GHB5W2NP",
@@ -3779,95 +3781,7 @@
    "plataforma": "Amazon",
    "valida_ate": "2026-10-31T23:59:00-03:00",
    "extra": "Preço a partir de: varia por tamanho e cor",
-   "entrou": "2026-10-31T09:02:43.503184-03:00"
-  },
-  {
-   "id": "amz-B0FH3W32GS",
-   "canal": "marcas",
-   "nome": "Tênis Fila Racer Fastpace Masculino",
-   "preco_antigo": 499.99,
-   "preco": 219.9,
-   "desconto": 56,
-   "link": "https://www.amazon.com.br/dp/B0FH3W32GS?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/518oCv3h4wL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-10-31T23:59:00-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "entrou": "2026-10-31T11:21:49.817062-03:00"
-  },
-  {
-   "id": "amz-B0GVPGKM4P",
-   "canal": "tech",
-   "nome": "Fone Bluetooth JBL Tune 780NC com Cancelamento de Ruído",
-   "preco_antigo": 560.52,
-   "preco": 358.12,
-   "desconto": 36,
-   "link": "https://www.amazon.com.br/dp/B0GVPGKM4P?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51MnMPeZUWL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-10-31T23:59:00-03:00",
-   "entrou": "2026-10-31T11:21:49.817062-03:00"
-  },
-  {
-   "id": "amz-B0CKJK36MD",
-   "canal": "marcas",
-   "nome": "Tênis Puma Club II Era",
-   "preco_antigo": 449.99,
-   "preco": 206.0,
-   "desconto": 54,
-   "link": "https://www.amazon.com.br/dp/B0CKJK36MD?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61F56+87KUL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-10-31T23:59:00-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "entrou": "2026-10-31T12:06:50.383841-03:00"
-  },
-  {
-   "id": "amz-B0BDHYF8YS",
-   "canal": "tech",
-   "nome": "Headset Gamer HyperX Cloud Stinger 2 Core",
-   "preco_antigo": 269.9,
-   "preco": 188.73,
-   "desconto": 30,
-   "link": "https://www.amazon.com.br/dp/B0BDHYF8YS?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51PgS3bqxmL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-10-31T23:59:00-03:00",
-   "entrou": "2026-10-31T12:06:50.383841-03:00"
-  },
-  {
-   "id": "amz-B0D2LPLTJ8",
-   "canal": "tech",
-   "nome": "Caixa de Som JBL Xtreme 4 Bluetooth com Powerbank",
-   "preco_antigo": 2744.43,
-   "preco": 1168.9,
-   "desconto": 57,
-   "link": "https://www.amazon.com.br/dp/B0D2LPLTJ8?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/71jzFcaXnzL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-10-31T23:59:00-03:00",
-   "gancho": "JBL XTREME 4 POR MENOS DA METADE",
-   "entrou": "2026-10-31T12:06:50.383841-03:00"
-  },
-  {
-   "id": "amz-B0CQKLS4RP",
-   "canal": "tech",
-   "nome": "Controle PlayStation DualSense sem fio Branco (PS5)",
-   "preco_antigo": 499.9,
-   "preco": 350.17,
-   "desconto": 30,
-   "link": "https://www.amazon.com.br/dp/B0CQKLS4RP?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51PmeLGEkML._AC_SL1500_.jpg",
-   "loja": "Vendido por parceiro · entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-10-31T23:59:00-03:00",
-   "gancho": "DUALSENSE ORIGINAL COM 30% OFF",
-   "entrou": "2026-10-31T12:06:50.383841-03:00"
+   "entrou": "2026-10-31T13:12:38.467212-03:00"
   }
  ],
  "menus_fixados": [
@@ -3962,7 +3876,8 @@
   "perfumeazzaropourhommemasculinoeaudetoilette": "2026-10-31T12:13:01.347011-03:00",
   "tenisdecorridapumapounceliteunissex": "2026-10-31T12:34:21.166889-03:00",
   "tenismizunospace6adulto": "2026-10-31T13:01:58.989627-03:00",
-  "smartwatchsamsunggalaxywatch840mmbtcomgalaxyai": "2026-10-31T13:12:16.593405-03:00"
+  "smartwatchsamsunggalaxywatch840mmbtcomgalaxyai": "2026-10-31T13:12:16.593405-03:00",
+  "tenisasicsgelexcite11runningmasculino": "2026-10-31T13:14:04.714649-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
