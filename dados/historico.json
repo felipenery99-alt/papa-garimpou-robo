@@ -236,7 +236,8 @@
   "2026-10-31 marcas 13:47 amz-B0GHB5W2NP",
   "2026-10-31 achadinhos 14:53 amz-B0FTMZCLRD",
   "2026-10-31 marcas 15:17 amz-B0BHPP31TZ",
-  "2026-10-31 marcas 15:26 amz-B0GHBBGMDS"
+  "2026-10-31 marcas 15:26 amz-B0GHBBGMDS",
+  "2026-10-31 achadinhos 15:56 amz-B0DL4XB1VD"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -486,7 +487,8 @@
   "amz-B0GHB5W2NP": "2026-10-31T13:47:06.781024-03:00",
   "amz-B0FTMZCLRD": "2026-10-31T14:53:19.592649-03:00",
   "amz-B0BHPP31TZ": "2026-10-31T15:17:20.863911-03:00",
-  "amz-B0GHBBGMDS": "2026-10-31T15:26:52.691651-03:00"
+  "amz-B0GHBBGMDS": "2026-10-31T15:26:52.691651-03:00",
+  "amz-B0DL4XB1VD": "2026-10-31T15:56:00.938061-03:00"
  },
  "ofertas_dia": [
   {
@@ -3590,6 +3592,21 @@
    "extra": "Preço a partir de: varia por tamanho e cor",
    "entrou": "2026-10-31T14:49:57.705924-03:00",
    "dia": "2026-10-31"
+  },
+  {
+   "id": "amz-B0DL4XB1VD",
+   "canal": "achadinhos",
+   "nome": "Perfume Natura Essencial Sentir Deo Parfum Feminino 100ml",
+   "preco_antigo": 279.0,
+   "preco": 159.5,
+   "desconto": 43,
+   "link": "https://www.amazon.com.br/dp/B0DL4XB1VD?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51RNfO5FFgL._AC_SL1080_.jpg",
+   "loja": "Vendido por parceiro · entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-31T23:59:00-03:00",
+   "entrou": "2026-10-31T15:52:30.091853-03:00",
+   "dia": "2026-10-31"
   }
  ],
  "ig_feitos": [
@@ -3718,7 +3735,8 @@
   "2026-10-31 feed",
   "2026-10-31 14:25 post_achado",
   "2026-10-31 15:00 story_oferta",
-  "2026-10-31 15:03 story_oferta"
+  "2026-10-31 15:03 story_oferta",
+  "2026-10-31 15:51 story_oferta"
  ],
  "ig_ofertas_usadas": [
   "amz-B0GP7KDZRJ",
@@ -3805,7 +3823,8 @@
   "amz-B0H46S7TG8",
   "shopee-16185215321",
   "amz-B0DY2FPRJD",
-  "amz-B0F3Q2JH5Y"
+  "amz-B0F3Q2JH5Y",
+  "nike-114071IF"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
@@ -3939,7 +3958,8 @@
   "tenisasicsgelshogunstmasculino": "2026-10-31T13:47:06.781024-03:00",
   "airfryerwapmegafamily9litros": "2026-10-31T14:53:19.592649-03:00",
   "tenispumaxray2squareunissex": "2026-10-31T15:17:20.863911-03:00",
-  "tenisasicsgelshogunstlifestylemasculino": "2026-10-31T15:26:52.691651-03:00"
+  "tenisasicsgelshogunstlifestylemasculino": "2026-10-31T15:26:52.691651-03:00",
+  "perfumenaturaessencialsentirdeoparfumfeminino100ml": "2026-10-31T15:56:00.938061-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
