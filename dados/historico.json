@@ -195,7 +195,12 @@
   "2026-10-30 marcas 21:10 ml-MLBU3757103515",
   "2026-10-30 marcas 21:37 ml-MLBU3221577323",
   "2026-10-30 tech 21:50 amz-B0FDXB22BL",
-  "2026-10-30 marcas 21:58 nike-016269ID"
+  "2026-10-30 marcas 21:58 nike-016269ID",
+  "2026-10-31 achadinhos 08:20 shopee-27231768018",
+  "2026-10-31 marcas 08:27 nike-004386ID",
+  "2026-10-31 achadinhos 08:34 shopee-21997684262",
+  "2026-10-31 marcas 08:39 nike-079609MT",
+  "2026-10-31 achadinhos 08:43 shopee-23094056729"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -404,7 +409,12 @@
   "ml-MLBU3757103515": "2026-10-30T21:10:59.696566-03:00",
   "ml-MLBU3221577323": "2026-10-30T21:37:21.086230-03:00",
   "amz-B0FDXB22BL": "2026-10-30T21:50:41.883071-03:00",
-  "nike-016269ID": "2026-10-30T21:58:28.949352-03:00"
+  "nike-016269ID": "2026-10-30T21:58:28.949352-03:00",
+  "shopee-27231768018": "2026-10-31T08:20:59.295755-03:00",
+  "nike-004386ID": "2026-10-31T08:27:49.576516-03:00",
+  "shopee-21997684262": "2026-10-31T08:34:14.238285-03:00",
+  "nike-079609MT": "2026-10-31T08:39:18.146993-03:00",
+  "shopee-23094056729": "2026-10-31T08:43:34.716805-03:00"
  },
  "ofertas_dia": [
   {
@@ -2838,6 +2848,92 @@
    "gancho": "NIKE NO PEITO POR MENOS DE R$ 65",
    "entrou": "2026-10-30T19:57:23.719917-03:00",
    "dia": "2026-10-30"
+  },
+  {
+   "id": "shopee-27231768018",
+   "plataforma": "Shopee",
+   "nome": "Cafeteira Elétrica Electrolux Ecm10 15 Xícaras 600w Grafite 110V",
+   "loja": "123 Comprou!",
+   "loja_oficial": true,
+   "preco": 122.9,
+   "preco_antigo": 223.45,
+   "desconto": 45,
+   "vendas": 608,
+   "nota": 4.9,
+   "comissao_pct": 3.0,
+   "imagem": "https://cf.shopee.com.br/file/sg-11134201-7repc-m83ssyedawlt1e",
+   "link": "https://s.shopee.com.br/6VP2mJJfQ2",
+   "canal": "achadinhos",
+   "entrou": "2026-10-31T08:17:38.916359-03:00",
+   "dia": "2026-10-31"
+  },
+  {
+   "id": "nike-004386ID",
+   "canal": "marcas",
+   "nome": "Camiseta Jordan Sportswear Jumpman Air Masculina",
+   "preco_antigo": 129.99,
+   "preco": 73.67,
+   "desconto": 43,
+   "link": "https://tidd.ly/4ii9VPS",
+   "imagem": "https://imgnike-a.akamaihd.net/1920x1920/004386ID.jpg",
+   "loja": "Loja oficial Nike · nike.com.br",
+   "plataforma": "Nike",
+   "valida_ate": "2026-10-31T13:00:00-03:00",
+   "gancho": "JUMPMAN NO PEITO SEM PESAR NO BOLSO",
+   "entrou": "2026-10-31T08:17:38.916359-03:00",
+   "dia": "2026-10-31"
+  },
+  {
+   "id": "shopee-21997684262",
+   "plataforma": "Shopee",
+   "nome": "Sanduicheira e Grill Britânia 2 em 1 750W BGRE01",
+   "loja": "Britânia Oficial",
+   "loja_oficial": true,
+   "preco": 79.9,
+   "preco_antigo": 140.18,
+   "desconto": 43,
+   "vendas": 973,
+   "nota": 4.9,
+   "comissao_pct": 3.0,
+   "imagem": "https://cf.shopee.com.br/file/sg-11134201-8258u-mudiny7ntseea9",
+   "link": "https://s.shopee.com.br/50aEzYkLRy",
+   "canal": "achadinhos",
+   "entrou": "2026-10-31T08:17:38.916359-03:00",
+   "dia": "2026-10-31"
+  },
+  {
+   "id": "nike-079609MT",
+   "canal": "marcas",
+   "nome": "Camiseta Corinthians Nike 2026 Treino Masculina",
+   "preco_antigo": 279.99,
+   "preco": 150.36,
+   "desconto": 46,
+   "link": "https://tidd.ly/4eBdn5S",
+   "imagem": "https://imgnike-a.akamaihd.net/1920x1920/079609MT.jpg",
+   "loja": "Loja oficial Nike · nike.com.br",
+   "plataforma": "Nike",
+   "valida_ate": "2026-10-31T13:00:00-03:00",
+   "gancho": "PRO TORCEDOR DO TIMÃO TREINAR NO ESTILO",
+   "entrou": "2026-10-31T08:17:38.916359-03:00",
+   "dia": "2026-10-31"
+  },
+  {
+   "id": "shopee-23094056729",
+   "plataforma": "Shopee",
+   "nome": "Jogo de Faqueiro Tramontina Búzios 24 Peças Talheres em Aço Inox",
+   "loja": "MONTLAR",
+   "loja_oficial": true,
+   "preco": 77.89,
+   "preco_antigo": 119.83,
+   "desconto": 35,
+   "vendas": 1778,
+   "nota": 4.9,
+   "comissao_pct": 6.0,
+   "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdq0lnzoxgb5c7",
+   "link": "https://s.shopee.com.br/5q9Lz5YeIl",
+   "canal": "achadinhos",
+   "entrou": "2026-10-31T08:17:38.916359-03:00",
+   "dia": "2026-10-31"
   }
  ],
  "ig_feitos": [
@@ -2943,7 +3039,8 @@
   "2026-10-30 20:50 post_achado",
   "2026-10-30 21:05 reels",
   "2026-10-30 21:20 story_convite",
-  "2026-10-30 21:24 story_oferta"
+  "2026-10-30 21:24 story_oferta",
+  "2026-10-31 08:07 story_oferta"
  ],
  "ig_ofertas_usadas": [
   "amz-B0GP7KDZRJ",
@@ -3042,43 +3139,15 @@
   "hu-imperdivel": "2026-10-28",
   "dc-kit": "2026-10-28",
   "hu-original": "2026-10-29",
-  "mv-oficial-cara": "2026-10-29"
+  "mv-oficial-cara": "2026-10-29",
+  "hu-amigo": "2026-10-31"
  },
  "pecas_dia": {
-  "2026-10-29": 2
+  "2026-10-29": 2,
+  "2026-10-31": 1
  },
- "ultimo_pilar": "mito",
+ "ultimo_pilar": "humor",
  "fila": [
-  {
-   "id": "nike-004386ID",
-   "canal": "marcas",
-   "nome": "Camiseta Jordan Sportswear Jumpman Air Masculina",
-   "preco_antigo": 129.99,
-   "preco": 73.67,
-   "desconto": 43,
-   "link": "https://tidd.ly/4ii9VPS",
-   "imagem": "https://imgnike-a.akamaihd.net/1920x1920/004386ID.jpg",
-   "loja": "Loja oficial Nike · nike.com.br",
-   "plataforma": "Nike",
-   "valida_ate": "2026-10-31T13:00:00-03:00",
-   "gancho": "JUMPMAN NO PEITO SEM PESAR NO BOLSO",
-   "entrou": "2026-10-31T02:58:45.762374-03:00"
-  },
-  {
-   "id": "nike-079609MT",
-   "canal": "marcas",
-   "nome": "Camiseta Corinthians Nike 2026 Treino Masculina",
-   "preco_antigo": 279.99,
-   "preco": 150.36,
-   "desconto": 46,
-   "link": "https://tidd.ly/4eBdn5S",
-   "imagem": "https://imgnike-a.akamaihd.net/1920x1920/079609MT.jpg",
-   "loja": "Loja oficial Nike · nike.com.br",
-   "plataforma": "Nike",
-   "valida_ate": "2026-10-31T13:00:00-03:00",
-   "gancho": "PRO TORCEDOR DO TIMÃO TREINAR NO ESTILO",
-   "entrou": "2026-10-31T02:58:45.762374-03:00"
-  },
   {
    "id": "nike-014592IE",
    "canal": "marcas",
@@ -3092,7 +3161,7 @@
    "plataforma": "Nike",
    "valida_ate": "2026-10-31T13:00:00-03:00",
    "gancho": "SB DA NIKE PELA METADE DO PREÇO",
-   "entrou": "2026-10-31T02:58:45.762374-03:00"
+   "entrou": "2026-10-31T08:17:38.916359-03:00"
   },
   {
    "id": "nike-023968ID",
@@ -3106,7 +3175,7 @@
    "loja": "Loja oficial Nike · nike.com.br",
    "plataforma": "Nike",
    "valida_ate": "2026-10-31T13:00:00-03:00",
-   "entrou": "2026-10-31T02:58:45.762374-03:00"
+   "entrou": "2026-10-31T08:17:38.916359-03:00"
   },
   {
    "id": "nike-114071IF",
@@ -3121,58 +3190,7 @@
    "plataforma": "Nike",
    "valida_ate": "2026-10-31T13:00:00-03:00",
    "gancho": "DUNK COM 35% OFF? O PAPA PEGOU",
-   "entrou": "2026-10-31T02:58:45.762374-03:00"
-  },
-  {
-   "id": "shopee-27231768018",
-   "plataforma": "Shopee",
-   "nome": "Cafeteira Elétrica Electrolux Ecm10 15 Xícaras 600w Grafite 110V",
-   "loja": "123 Comprou!",
-   "loja_oficial": true,
-   "preco": 122.9,
-   "preco_antigo": 223.45,
-   "desconto": 45,
-   "vendas": 608,
-   "nota": 4.9,
-   "comissao_pct": 3.0,
-   "imagem": "https://cf.shopee.com.br/file/sg-11134201-7repc-m83ssyedawlt1e",
-   "link": "https://s.shopee.com.br/6VP2mJJfQ2",
-   "canal": "achadinhos",
-   "entrou": "2026-10-31T02:58:45.762374-03:00"
-  },
-  {
-   "id": "shopee-21997684262",
-   "plataforma": "Shopee",
-   "nome": "Sanduicheira e Grill Britânia 2 em 1 750W BGRE01",
-   "loja": "Britânia Oficial",
-   "loja_oficial": true,
-   "preco": 79.9,
-   "preco_antigo": 140.18,
-   "desconto": 43,
-   "vendas": 973,
-   "nota": 4.9,
-   "comissao_pct": 3.0,
-   "imagem": "https://cf.shopee.com.br/file/sg-11134201-8258u-mudiny7ntseea9",
-   "link": "https://s.shopee.com.br/50aEzYkLRy",
-   "canal": "achadinhos",
-   "entrou": "2026-10-31T02:58:45.762374-03:00"
-  },
-  {
-   "id": "shopee-23094056729",
-   "plataforma": "Shopee",
-   "nome": "Jogo de Faqueiro Tramontina Búzios 24 Peças Talheres em Aço Inox",
-   "loja": "MONTLAR",
-   "loja_oficial": true,
-   "preco": 77.89,
-   "preco_antigo": 119.83,
-   "desconto": 35,
-   "vendas": 1778,
-   "nota": 4.9,
-   "comissao_pct": 6.0,
-   "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdq0lnzoxgb5c7",
-   "link": "https://s.shopee.com.br/5q9Lz5YeIl",
-   "canal": "achadinhos",
-   "entrou": "2026-10-31T02:58:45.762374-03:00"
+   "entrou": "2026-10-31T08:17:38.916359-03:00"
   },
   {
    "id": "shopee-22396095321",
@@ -3189,7 +3207,7 @@
    "imagem": "https://cf.shopee.com.br/file/sg-11134201-825ag-muw81hy8fbi8ed",
    "link": "https://s.shopee.com.br/4LKYCKmsnu",
    "canal": "achadinhos",
-   "entrou": "2026-10-31T02:58:45.762374-03:00"
+   "entrou": "2026-10-31T08:17:38.916359-03:00"
   },
   {
    "id": "shopee-16185215321",
@@ -3206,7 +3224,7 @@
    "imagem": "https://cf.shopee.com.br/file/br-11134207-820l4-mt86z476awap25",
    "link": "https://s.shopee.com.br/40hhnjEY8F",
    "canal": "marcas",
-   "entrou": "2026-10-31T02:58:45.762374-03:00"
+   "entrou": "2026-10-31T08:17:38.916359-03:00"
   },
   {
    "id": "shopee-20516472434",
@@ -3223,7 +3241,7 @@
    "imagem": "https://cf.shopee.com.br/file/br-11134207-820m7-mt6mt48iweme47",
    "link": "https://s.shopee.com.br/5AtfBtF8RC",
    "canal": "marcas",
-   "entrou": "2026-10-31T02:58:45.762374-03:00"
+   "entrou": "2026-10-31T08:17:38.916359-03:00"
   },
   {
    "id": "shopee-58260024078",
@@ -3240,7 +3258,7 @@
    "imagem": "https://cf.shopee.com.br/file/br-11134207-820mc-mnsw2jxtutxe75",
    "link": "https://s.shopee.com.br/9zyuwmEKlR",
    "canal": "marcas",
-   "entrou": "2026-10-31T02:58:45.762374-03:00"
+   "entrou": "2026-10-31T08:17:38.916359-03:00"
   },
   {
    "id": "shopee-22194331598",
@@ -3257,7 +3275,7 @@
    "imagem": "https://cf.shopee.com.br/file/br-11134207-820mf-mtfc9yq6ld6p5f",
    "link": "https://s.shopee.com.br/2qVkPakQ9q",
    "canal": "marcas",
-   "entrou": "2026-10-31T02:58:45.762374-03:00"
+   "entrou": "2026-10-31T08:17:38.916359-03:00"
   },
   {
    "id": "shopee-23398337380",
@@ -3274,7 +3292,7 @@
    "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rd55-m7mlrn5k2wct69",
    "link": "https://s.shopee.com.br/30pAbtR9j3",
    "canal": "marcas",
-   "entrou": "2026-10-31T02:58:45.762374-03:00"
+   "entrou": "2026-10-31T08:17:38.916359-03:00"
   }
  ],
  "menus_fixados": [
@@ -3335,7 +3353,12 @@
   "camisetainsidertechtshirtmasculina": "2026-10-30T21:10:59.696566-03:00",
   "kit5camisetasbasicasslimhering": "2026-10-30T21:37:21.086230-03:00",
   "samsunggalaxywatch840mmltegrafite": "2026-10-30T21:50:41.883071-03:00",
-  "camisetanikesportswearclubmasculina": "2026-10-30T21:58:28.949352-03:00"
+  "camisetanikesportswearclubmasculina": "2026-10-30T21:58:28.949352-03:00",
+  "cafeteiraeletricaelectroluxecm1015xicaras600wgrafite110v": "2026-10-31T08:20:59.295755-03:00",
+  "camisetajordansportswearjumpmanairmasculina": "2026-10-31T08:27:49.576516-03:00",
+  "sanduicheiraegrillbritania2em1750wbgre01": "2026-10-31T08:34:14.238285-03:00",
+  "camisetacorinthiansnike2026treinomasculina": "2026-10-31T08:39:18.146993-03:00",
+  "jogodefaqueirotramontinabuzios24pecastalheresemacoinox": "2026-10-31T08:43:34.716805-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
