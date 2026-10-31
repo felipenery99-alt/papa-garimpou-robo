@@ -792,5 +792,34 @@
   "plataforma": "Amazon",
   "valida_ate": "2026-10-31T23:59:00-03:00",
   "gancho": "O MAIS DESEJADO COM 39% OFF"
+ },
+ {
+  "id": "amz-B00S2WDIGG",
+  "canal": "achadinhos",
+  "nome": "Perfume Calvin Klein CK One Eau de Toilette 200ml",
+  "preco_antigo": 390.0,
+  "preco": 271.0,
+  "desconto": 31,
+  "link": "https://www.amazon.com.br/dp/B00S2WDIGG?tag=papagarimpou-20",
+  "imagem": "https://m.media-amazon.com/images/I/41N95TJjnSL._AC_SL1500_.jpg",
+  "loja": "Vendido e entregue pela Amazon",
+  "plataforma": "Amazon",
+  "valida_ate": "2026-10-31T23:59:00-03:00",
+  "extra": "Frasco grande de 200ml, original vendido pela Amazon",
+  "gancho": "CK ONE DE 200ML COM 31% OFF"
+ },
+ {
+  "id": "amz-B0BJ347WND",
+  "canal": "achadinhos",
+  "nome": "Protetor Solar La Roche-Posay Anthelios Airlicium",
+  "preco_antigo": 99.9,
+  "preco": 58.5,
+  "desconto": 41,
+  "link": "https://www.amazon.com.br/dp/B0BJ347WND?tag=papagarimpou-20",
+  "imagem": "https://m.media-amazon.com/images/I/419Atx-XGTL._AC_SL1000_.jpg",
+  "loja": "Vendido e entregue pela Amazon",
+  "plataforma": "Amazon",
+  "valida_ate": "2026-10-31T23:59:00-03:00",
+  "gancho": "LA ROCHE-POSAY QUASE PELA METADE"
  }
 ]
