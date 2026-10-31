@@ -625,5 +625,34 @@
   "loja": "Vendido e entregue pela Amazon",
   "plataforma": "Amazon",
   "valida_ate": "2026-10-31T23:59:00-03:00"
+ },
+ {
+  "id": "amz-B000CNKITS",
+  "canal": "achadinhos",
+  "nome": "Perfume Azzaro Pour Homme Masculino Eau de Toilette",
+  "preco_antigo": 299.0,
+  "preco": 190.09,
+  "desconto": 36,
+  "link": "https://www.amazon.com.br/dp/B000CNKITS?tag=papagarimpou-20",
+  "imagem": "https://m.media-amazon.com/images/I/61xKlHoVKhL._AC_SL1500_.jpg",
+  "loja": "Vendido e entregue pela Amazon",
+  "plataforma": "Amazon",
+  "valida_ate": "2026-10-31T23:59:00-03:00",
+  "extra": "Importado original, vendido pela própria Amazon",
+  "gancho": "AZZARO CLÁSSICO COM PREÇO DE COLÔNIA"
+ },
+ {
+  "id": "amz-B0CQKLS4RP",
+  "canal": "tech",
+  "nome": "Controle PlayStation DualSense sem fio Branco (PS5)",
+  "preco_antigo": 499.9,
+  "preco": 350.17,
+  "desconto": 30,
+  "link": "https://www.amazon.com.br/dp/B0CQKLS4RP?tag=papagarimpou-20",
+  "imagem": "https://m.media-amazon.com/images/I/51PmeLGEkML._AC_SL1500_.jpg",
+  "loja": "Vendido por parceiro · entregue pela Amazon",
+  "plataforma": "Amazon",
+  "valida_ate": "2026-10-31T23:59:00-03:00",
+  "gancho": "DUALSENSE ORIGINAL COM 30% OFF"
  }
 ]
