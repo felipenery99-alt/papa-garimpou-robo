@@ -220,11 +220,11 @@
  },
  "2026-10-31": {
   "erros": [],
-  "ultima_execucao": "14:49",
-  "execucoes": 14,
+  "ultima_execucao": "15:13",
+  "execucoes": 15,
   "telegram_posts": {
    "achadinhos": 17,
-   "marcas": 15,
+   "marcas": 17,
    "tech": 7
   },
   "telegram_membros": {
@@ -254,7 +254,9 @@
    "13:20 story_convite",
    "14:08 story_oferta",
    "feed",
-   "14:25 post_achado"
+   "14:25 post_achado",
+   "15:00 story_oferta",
+   "15:03 story_oferta"
   ],
   "shopee_ligada": true,
   "instagram": {
