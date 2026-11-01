@@ -294,7 +294,8 @@
   "2026-11-01 achadinhos 16:53 amz-B0DRPNMS7K",
   "2026-11-01 tech 17:06 amz-B0BDHYF8YS",
   "2026-11-01 tech 17:15 amz-B0FDX9MDXK",
-  "2026-11-01 achadinhos 17:25 amz-B094S8TXCT"
+  "2026-11-01 achadinhos 17:25 amz-B094S8TXCT",
+  "2026-11-01 marcas 17:31 amz-B0F1C2BS84"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -597,7 +598,8 @@
   "amz-B0DRPNMS7K": "2026-11-01T16:53:14.348471-03:00",
   "amz-B0BDHYF8YS": "2026-11-01T17:06:42.082670-03:00",
   "amz-B0FDX9MDXK": "2026-11-01T17:15:13.390968-03:00",
-  "amz-B094S8TXCT": "2026-11-01T17:25:54.623454-03:00"
+  "amz-B094S8TXCT": "2026-11-01T17:25:54.623454-03:00",
+  "amz-B0F1C2BS84": "2026-11-01T17:31:58.727860-03:00"
  },
  "ofertas_dia": [
   {
@@ -3282,6 +3284,22 @@
    "gancho": "POTE ELECTROLUX PELA METADE DO PREÇO",
    "entrou": "2026-11-01T14:05:58.923636-03:00",
    "dia": "2026-11-01"
+  },
+  {
+   "id": "amz-B0F1C2BS84",
+   "canal": "marcas",
+   "nome": "Tênis Olympikus Vértice Feminino",
+   "preco_antigo": 249.9,
+   "preco": 123.49,
+   "desconto": 51,
+   "link": "https://www.amazon.com.br/dp/B0F1C2BS84?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71mb90Nsw+L._AC_SL1500_.jpg",
+   "loja": "Vendido pela Netshoes · entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-02T22:00:00-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "entrou": "2026-11-01T14:05:58.923636-03:00",
+   "dia": "2026-11-01"
   }
  ],
  "ig_feitos": [
@@ -3416,7 +3434,10 @@
   "2026-11-01 15:00 adivinha",
   "2026-11-01 15:03 story_oferta",
   "2026-11-01 16:05 adivinha_resposta",
-  "2026-11-01 16:44 story_oferta"
+  "2026-11-01 16:44 story_oferta",
+  "story especial pede-pro-papa 2026-11-01",
+  "2026-11-01 feed",
+  "2026-11-01 16:55 post_achado"
  ],
  "ig_ofertas_usadas": [
   "amz-B0GP7KDZRJ",
@@ -3529,7 +3550,8 @@
   "amz-B0GNDQ1SBY",
   "amz-B08LPJ1FTK",
   "amz-B0B72QZXCC",
-  "amz-B0D7DVQ188"
+  "amz-B0D7DVQ188",
+  "shopee-41253171051"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
@@ -3566,21 +3588,6 @@
  },
  "ultimo_pilar": "blackfriday",
  "fila": [
-  {
-   "id": "amz-B0F1C2BS84",
-   "canal": "marcas",
-   "nome": "Tênis Olympikus Vértice Feminino",
-   "preco_antigo": 249.9,
-   "preco": 123.49,
-   "desconto": 51,
-   "link": "https://www.amazon.com.br/dp/B0F1C2BS84?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/71mb90Nsw+L._AC_SL1500_.jpg",
-   "loja": "Vendido pela Netshoes · entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-02T22:00:00-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "entrou": "2026-11-01T14:05:58.923636-03:00"
-  },
   {
    "id": "amz-B0F6TRVJZF",
    "canal": "marcas",
@@ -4146,7 +4153,8 @@
   "mixerosterpowerblackinox3em1220v": "2026-11-01T16:53:14.348471-03:00",
   "headsetgamerhyperxcloudstinger": "2026-11-01T17:06:42.082670-03:00",
   "smartwatchsamsunggalaxywatch844mmlte": "2026-11-01T17:15:13.390968-03:00",
-  "poteshermeticoselectroluxcomtampadebambu": "2026-11-01T17:25:54.623454-03:00"
+  "poteshermeticoselectroluxcomtampadebambu": "2026-11-01T17:25:54.623454-03:00",
+  "tenisolympikusverticefeminino": "2026-11-01T17:31:58.727860-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
@@ -4210,5 +4218,6 @@
    "dia": "2026-11-01"
   }
  },
- "ig_dm_links": {}
+ "ig_dm_links": {},
+ "story_link_dia": "2026-11-01"
 }
