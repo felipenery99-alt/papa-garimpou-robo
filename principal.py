@@ -120,11 +120,18 @@ def garimpar_todas(canal: str, fonte, h: dict, agora: datetime, termos: list[str
         if o.get("canal") == canal and (o.get("dia", hoje) == hoje):
             m = qualidade.marca_da_oferta(o, canal)
             por_marca[m] = por_marca.get(m, 0) + 1
+    # Perfume de marca (01/11): prioridade fixa (entra na frente), no máximo MAX_PERFUME_DIA somando os canais
+    perfumes = sum(1 for o in h.get("ofertas_dia", []) + h.get("fila", [])
+                   if o.get("dia", hoje) == hoje and qualidade.eh_perfume(o))
     escolhidas = []
-    for o in sorted(boas.values(), key=qualidade.pontuar, reverse=True):
+    for o in sorted(boas.values(), key=lambda o: (qualidade.eh_perfume(o), qualidade.pontuar(o)), reverse=True):
         m = qualidade.marca_da_oferta(o, canal)
         if por_marca.get(m, 0) >= config.MAX_MESMA_MARCA_DIA:
             continue
+        if qualidade.eh_perfume(o):
+            if perfumes >= config.MAX_PERFUME_DIA:
+                continue
+            perfumes += 1
         por_marca[m] = por_marca.get(m, 0) + 1
         escolhidas.append(o)
     return escolhidas

@@ -111,6 +111,8 @@ MARCAS_MARCAS = [
     "probiotica", "black skull", "blenderbottle", "garmin", "mormaii", "speedo", "colcci",
     "aramis", "richards", "levi's", "levis", "ellus", "osklen", "diesel", "armani",
     "emporio armani", "guess", "dudalina", "vr collezioni", "foxton", "selene", "mash", "zorba",
+    # 01/11 (Telegram): perfume de marca nacional, só loja oficial
+    "o boticário", "boticário", "boticario", "natura", "eudora",
 ]
 
 # Palavras que denunciam produto ruim / réplica → descarte imediato
@@ -120,7 +122,14 @@ PALAVRAS_PROIBIDAS = [
     "tailandesa", "paralela",
     # 30/10: peça "compatível com Philips/Taiff/Tramontina" não é da marca, só usa o nome dela
     "compatível", "compativel", "universal", "vários modelos", "varios modelos", "serve em",
+    # 01/11: perfume falsificado/contratipo
+    "contratipo", "importado árabe", "importado arabe",
 ]
+# 01/11: perfume árabe é o mais falsificado; essas marcas só pela Amazon.com.br, NUNCA pela Shopee
+MARCAS_PROIBIDAS_SHOPEE = ["lattafa", "armaf", "al wataniah"]
+# Perfume de marca (01/11, Telegram): prioridade fixa, no máximo 4 por dia somando os canais
+PALAVRAS_PERFUME = ["perfume", "colônia", "colonia", "deo parfum", "eau de", "desodorante colônia"]
+MAX_PERFUME_DIA = 4
 # Máximo de ofertas da mesma marca por dia em cada canal (30/10: saíram 4 secadores Taiff seguidos)
 MAX_MESMA_MARCA_DIA = 2
 
@@ -139,6 +148,7 @@ BUSCAS = {
         "cueca tommy hilfiger", "camiseta calvin klein", "camisa polo ralph lauren",
         "camiseta levis", "relógio garmin", "sunga speedo", "whey growth", "creatina max titanium",
         "pré treino integralmedica", "barra de proteína", "garrafa térmica stanley",
+        "malbec boticário", "kaiak natura", "egeo boticário",   # 01/11: perfume masculino de marca
     ],
     "tech": [
         "fone jbl", "mouse logitech", "carregador anker", "power bank baseus", "ssd kingston",
@@ -155,7 +165,7 @@ BUSCAS = {
         "cafeteira electrolux", "câmera intelbras",
         "furadeira bosch", "parafusadeira black decker", "jogo de panelas tramontina",
         "faqueiro tramontina", "batedeira mondial", "ventilador mondial", "sanduicheira britania",
-        "chapinha taiff", "barbeador philips", "perfume boticário", "kit natura",
+        "chapinha taiff", "barbeador philips", "perfume o boticário", "perfume natura", "perfume eudora", "kit natura",
         "protetor solar nivea", "escova elétrica oral-b", "creme wella",
     ],
 }

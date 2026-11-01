@@ -25,6 +25,11 @@ def avaliar(oferta: dict, canal: str) -> tuple[bool, str]:
     for p in config.PALAVRAS_PROIBIDAS:
         if _norm(p).strip() in nome:
             return False, f"palavra proibida: {p}"
+    if str(oferta.get("id", "")).startswith("shopee"):
+        texto = _norm(f"{oferta.get('nome', '')} {oferta.get('loja', '')}")
+        for m in config.MARCAS_PROIBIDAS_SHOPEE:
+            if _norm(m).strip() in texto:
+                return False, f"{m} nunca pela Shopee (falsificação)"
     if not marca_da_oferta(oferta, canal):
         return False, "marca fora da lista boa"
     if canal == "marcas" and not oferta.get("loja_oficial"):
@@ -52,3 +57,8 @@ def pontuar(oferta: dict) -> float:
         + min((oferta.get("vendas") or 0) / 1000, 20)
         + ((oferta.get("nota") or 0) - 4.5) * 10
     )
+
+
+def eh_perfume(oferta: dict) -> bool:
+    nome = _norm(oferta.get("nome", ""))
+    return any(_norm(p).strip() in nome for p in config.PALAVRAS_PERFUME)
