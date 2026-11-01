@@ -271,7 +271,8 @@
   "2026-11-01 marcas 11:34 amz-B08LPJ1FTK",
   "2026-11-01 achadinhos 11:38 amz-B0DY3G3MJW",
   "2026-11-01 marcas 11:46 amz-B0DVBD54KG",
-  "2026-11-01 achadinhos 12:13 amz-B08DFCF9HW"
+  "2026-11-01 achadinhos 12:13 amz-B08DFCF9HW",
+  "2026-11-01 tech 12:33 shopee-41253171051"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -551,7 +552,8 @@
   "amz-B0DY3G3MJW": "2026-11-01T11:38:00-03:00",
   "amz-B0DVBD54KG": "2026-11-01T11:46:00-03:00",
   "amz-B0G6FS95NY": "2026-11-01T11:03:00-03:00",
-  "amz-B08DFCF9HW": "2026-11-01T12:13:11.645129-03:00"
+  "amz-B08DFCF9HW": "2026-11-01T12:13:11.645129-03:00",
+  "shopee-41253171051": "2026-11-01T12:33:42.431605-03:00"
  },
  "ofertas_dia": [
   {
@@ -2864,6 +2866,24 @@
    "extra": "Versão 127V",
    "entrou": "2026-11-01T09:48:35.995946-03:00",
    "dia": "2026-11-01"
+  },
+  {
+   "id": "shopee-41253171051",
+   "plataforma": "Shopee",
+   "nome": "Baseus BP1 Pro ANC Fone De Ouvido Sem Fio-50dB Redução De Ruído De Alta Resolução Bluetooth 6.0 IPX55 À Prova D'água",
+   "loja": "Baseus Oficial Store",
+   "loja_oficial": true,
+   "preco": 115.9,
+   "preco_antigo": 231.8,
+   "desconto": 50,
+   "vendas": 763,
+   "nota": 4.9,
+   "comissao_pct": 7.0,
+   "imagem": "https://cf.shopee.com.br/file/cn-11134207-820l4-msv0wwv7avb661",
+   "link": "https://s.shopee.com.br/gRIvCORND",
+   "canal": "tech",
+   "entrou": "2026-11-01T09:02:45.202091-03:00",
+   "dia": "2026-11-01"
   }
  ],
  "ig_feitos": [
@@ -2987,7 +3007,9 @@
   "2026-11-01 11:11 story_oferta",
   "2026-11-01 feed",
   "2026-11-01 11:50 carrossel_top5",
-  "2026-11-01 11:56 story_oferta"
+  "2026-11-01 11:56 story_oferta",
+  "2026-11-01 12:15 story_top4",
+  "2026-11-01 12:19 story_oferta"
  ],
  "ig_ofertas_usadas": [
   "amz-B0GP7KDZRJ",
@@ -3092,7 +3114,8 @@
   "amz-B0FRVB9JGD",
   "amz-B0F79VDTM4",
   "amz-B081415GCS",
-  "amz-B0CLF2RGNL"
+  "amz-B0CLF2RGNL",
+  "amz-B0DMV2VL35"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
@@ -3129,67 +3152,6 @@
  },
  "ultimo_pilar": "blackfriday",
  "fila": [
-  {
-   "id": "amz-B0G4581RM9",
-   "canal": "marcas",
-   "nome": "Tênis New Balance Fresh Foam Arishi v4 Masculino",
-   "preco_antigo": 499.99,
-   "preco": 284.99,
-   "desconto": 43,
-   "link": "https://www.amazon.com.br/dp/B0G4581RM9?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51dQq0r1QKL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-01T23:59:00-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "entrou": "2026-11-01T08:17:36.057942-03:00"
-  },
-  {
-   "id": "amz-B0G72J3245",
-   "canal": "marcas",
-   "nome": "Tênis New Balance BB80 Unissex",
-   "preco_antigo": 399.99,
-   "preco": 256.49,
-   "desconto": 36,
-   "link": "https://www.amazon.com.br/dp/B0G72J3245?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/512G2QQesLL._AC_SL1200_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-01T23:59:00-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "entrou": "2026-11-01T08:17:36.057942-03:00"
-  },
-  {
-   "id": "amz-B0GYQ8Q5QR",
-   "canal": "tech",
-   "nome": "Smart TV TCL 50\" QLED 4K P7L Google TV",
-   "preco_antigo": 2899.0,
-   "preco": 1916.79,
-   "desconto": 34,
-   "link": "https://www.amazon.com.br/dp/B0GYQ8Q5QR?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/81K9D+mhhlL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-01T23:59:00-03:00",
-   "entrou": "2026-11-01T08:17:36.057942-03:00"
-  },
-  {
-   "id": "shopee-22497648129",
-   "plataforma": "Shopee",
-   "nome": "Top Fitness Feminino Lupo Top Power Poliamida Sem Costura Alta Sustentação Sem Bojo Academia Diário",
-   "loja": "Osure",
-   "loja_oficial": true,
-   "preco": 39.99,
-   "preco_antigo": 70.16,
-   "desconto": 43,
-   "vendas": 1217,
-   "nota": 4.9,
-   "comissao_pct": 11.0,
-   "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m9of7btjnyux0c",
-   "link": "https://s.shopee.com.br/6q1tAx3MNf",
-   "canal": "marcas",
-   "entrou": "2026-11-01T08:17:36.057942-03:00"
-  },
   {
    "id": "mgl-SG4-0157-058",
    "canal": "marcas",
@@ -3235,23 +3197,6 @@
    "valida_ate": "2026-11-02T13:00:00-03:00",
    "extra": "no Pix · ⭐ 4,8 (537 avaliações)",
    "gancho": "PRA CORRER MAIS E PAGAR MENOS",
-   "entrou": "2026-11-01T09:02:45.202091-03:00"
-  },
-  {
-   "id": "shopee-41253171051",
-   "plataforma": "Shopee",
-   "nome": "Baseus BP1 Pro ANC Fone De Ouvido Sem Fio-50dB Redução De Ruído De Alta Resolução Bluetooth 6.0 IPX55 À Prova D'água",
-   "loja": "Baseus Oficial Store",
-   "loja_oficial": true,
-   "preco": 115.9,
-   "preco_antigo": 231.8,
-   "desconto": 50,
-   "vendas": 763,
-   "nota": 4.9,
-   "comissao_pct": 7.0,
-   "imagem": "https://cf.shopee.com.br/file/cn-11134207-820l4-msv0wwv7avb661",
-   "link": "https://s.shopee.com.br/gRIvCORND",
-   "canal": "tech",
    "entrou": "2026-11-01T09:02:45.202091-03:00"
   },
   {
@@ -3474,6 +3419,157 @@
    "plataforma": "Amazon",
    "valida_ate": "2026-11-02T22:00:00-03:00",
    "entrou": "2026-11-01T09:48:35.995946-03:00"
+  },
+  {
+   "id": "amz-B0776VT6KN",
+   "canal": "achadinhos",
+   "nome": "Jogo de Soquetes e Ponteiras Vonder 1/4\" 33 Peças",
+   "preco_antigo": 216.0,
+   "preco": 97.9,
+   "desconto": 55,
+   "link": "https://www.amazon.com.br/dp/B0776VT6KN?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61EGtvQC8pL._AC_SL1200_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-02T22:00:00-03:00",
+   "gancho": "33 PEÇAS DA VONDER PRA VOCÊ VIRAR O FAZ-TUDO DA FAMÍLIA",
+   "entrou": "2026-11-01T12:29:30.935454-03:00"
+  },
+  {
+   "id": "amz-B0C7FBYDFP",
+   "canal": "achadinhos",
+   "nome": "Cafeteira Espresso Oster PrimaLatte Touch Red (127V)",
+   "preco_antigo": 1999.0,
+   "preco": 862.31,
+   "desconto": 57,
+   "link": "https://www.amazon.com.br/dp/B0C7FBYDFP?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61Nwem6YkSL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-02T22:00:00-03:00",
+   "gancho": "CAPPUCCINO DE CAFETERIA SEM PAGAR CAFETERIA TODO DIA",
+   "entrou": "2026-11-01T12:29:30.935454-03:00"
+  },
+  {
+   "id": "amz-B077C2VVJ7",
+   "canal": "achadinhos",
+   "nome": "NIVEA Demaquilante Bifásico 125ml",
+   "preco_antigo": 32.3,
+   "preco": 18.71,
+   "desconto": 42,
+   "link": "https://www.amazon.com.br/dp/B077C2VVJ7?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51JGBPAxkHL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-02T22:00:00-03:00",
+   "gancho": "NIVEA TIRA ATÉ RÍMEL TEIMOSO E O PREÇO TAMBÉM CAIU",
+   "entrou": "2026-11-01T12:29:30.935454-03:00"
+  },
+  {
+   "id": "amz-B0FJMLM9TS",
+   "canal": "achadinhos",
+   "nome": "Air Fryer Britânia 8L 3 em 1 Redstone BAF80A (127V)",
+   "preco_antigo": 651.36,
+   "preco": 342.9,
+   "desconto": 47,
+   "link": "https://www.amazon.com.br/dp/B0FJMLM9TS?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/516IzwstaCL._AC_SL1200_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-02T22:00:00-03:00",
+   "gancho": "AIR FRYER DE 8 LITROS DA BRITÂNIA QUASE PELA METADE",
+   "entrou": "2026-11-01T12:29:30.935454-03:00"
+  },
+  {
+   "id": "amz-B0CQKBJ79W",
+   "canal": "achadinhos",
+   "nome": "Acidificante Capilar L'Oréal Elseve Glycolic Gloss 200ml",
+   "preco_antigo": 66.39,
+   "preco": 27.13,
+   "desconto": 59,
+   "link": "https://www.amazon.com.br/dp/B0CQKBJ79W?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61BovhqqshL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-02T22:00:00-03:00",
+   "gancho": "BRILHO DE SALÃO DA L'ORÉAL POR MENOS DE 30 PILAS",
+   "entrou": "2026-11-01T12:29:30.935454-03:00"
+  },
+  {
+   "id": "amz-B0BT23S5MF",
+   "canal": "achadinhos",
+   "nome": "Aspirador de Pó Vertical WAP High Speed Plus 3 em 1",
+   "preco_antigo": 279.9,
+   "preco": 136.0,
+   "desconto": 51,
+   "link": "https://www.amazon.com.br/dp/B0BT23S5MF?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61wBRlZjDQL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-02T22:00:00-03:00",
+   "gancho": "ASPIRADOR DA WAP PELA METADE, A POEIRA QUE LUTE",
+   "entrou": "2026-11-01T12:29:30.935454-03:00"
+  },
+  {
+   "id": "amz-B0G4581RM9",
+   "canal": "marcas",
+   "nome": "Tênis New Balance Fresh Foam Arishi v4 Masculino",
+   "preco_antigo": 499.99,
+   "preco": 284.99,
+   "desconto": 43,
+   "link": "https://www.amazon.com.br/dp/B0G4581RM9?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51dQq0r1QKL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-01T23:59:00-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "entrou": "2026-11-01T12:29:30.935454-03:00"
+  },
+  {
+   "id": "amz-B0G72J3245",
+   "canal": "marcas",
+   "nome": "Tênis New Balance BB80 Unissex",
+   "preco_antigo": 399.99,
+   "preco": 256.49,
+   "desconto": 36,
+   "link": "https://www.amazon.com.br/dp/B0G72J3245?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/512G2QQesLL._AC_SL1200_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-01T23:59:00-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "entrou": "2026-11-01T12:29:30.935454-03:00"
+  },
+  {
+   "id": "amz-B0GYQ8Q5QR",
+   "canal": "tech",
+   "nome": "Smart TV TCL 50\" QLED 4K P7L Google TV",
+   "preco_antigo": 2899.0,
+   "preco": 1916.79,
+   "desconto": 34,
+   "link": "https://www.amazon.com.br/dp/B0GYQ8Q5QR?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/81K9D+mhhlL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-01T23:59:00-03:00",
+   "entrou": "2026-11-01T12:29:30.935454-03:00"
+  },
+  {
+   "id": "shopee-22497648129",
+   "plataforma": "Shopee",
+   "nome": "Top Fitness Feminino Lupo Top Power Poliamida Sem Costura Alta Sustentação Sem Bojo Academia Diário",
+   "loja": "Osure",
+   "loja_oficial": true,
+   "preco": 39.99,
+   "preco_antigo": 70.16,
+   "desconto": 43,
+   "vendas": 1217,
+   "nota": 4.9,
+   "comissao_pct": 11.0,
+   "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m9of7btjnyux0c",
+   "link": "https://s.shopee.com.br/6q1tAx3MNf",
+   "canal": "marcas",
+   "entrou": "2026-11-01T12:29:30.935454-03:00"
   }
  ],
  "menus_fixados": [
@@ -3605,7 +3701,8 @@
   "airfryerphilco4lredstonepaf40a1500w220v": "2026-11-01T11:38:00-03:00",
   "garrafatermicastanleyslimbottle591ml": "2026-11-01T11:46:00-03:00",
   "jogosarosedicaostandardps5": "2026-11-01T11:03:00-03:00",
-  "liquidificadoroster1400full32lpreto127v": "2026-11-01T12:13:11.645129-03:00"
+  "liquidificadoroster1400full32lpreto127v": "2026-11-01T12:13:11.645129-03:00",
+  "baseusbp1proancfonedeouvidosemfio50dbreducaoderuidodealtaresolucaobluetooth60ipx55aprovadagua": "2026-11-01T12:33:42.431605-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
