@@ -42,16 +42,33 @@ def _assinar(payload: str) -> dict:
     }
 
 
-def buscar(termo: str, limite: int = 30) -> list[dict]:
-    payload = json.dumps({"query": QUERY, "variables": {"keyword": termo, "page": 1, "limit": limite}},
+def _pagina(termo: str, pagina: int, limite: int) -> list[dict]:
+    payload = json.dumps({"query": QUERY, "variables": {"keyword": termo, "page": pagina, "limit": limite}},
                          separators=(",", ":"))
     r = requests.post(URL, data=payload, headers=_assinar(payload), timeout=40)
     r.raise_for_status()
     dados = r.json()
     if dados.get("errors"):
         raise RuntimeError(f"Shopee API: {dados['errors']}")
-    nos = dados["data"]["productOfferV2"]["nodes"]
-    return [_normalizar(n) for n in nos]
+    return [_normalizar(n) for n in dados["data"]["productOfferV2"]["nodes"]]
+
+
+def buscar(termo: str, limite: int = 50) -> list[dict]:
+    """01/11: com a regra "Shopee só loja oficial" a 1ª página (30 itens) quase não tinha Mall e os canais
+    ficaram horas sem post. Agora: 2 páginas do termo + 1 página de "<termo> oficial", sem repetir item."""
+    vistos, saida = set(), []
+    for t, pg in ((termo, 1), (termo, 2), (f"{termo} oficial", 1)):
+        try:
+            itens = _pagina(t, pg, limite)
+        except Exception:
+            if not saida and pg == 1 and t == termo:
+                raise   # a busca principal falhou: deixa o robô avisar
+            continue
+        for o in itens:
+            if o["id"] not in vistos:
+                vistos.add(o["id"])
+                saida.append(o)
+    return saida
 
 
 def _normalizar(n: dict) -> dict:
