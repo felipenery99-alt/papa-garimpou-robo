@@ -74,3 +74,54 @@ def _normalizar(n: dict) -> dict:
         "imagem": n.get("imageUrl"),
         "link": n.get("offerLink"),
     }
+
+
+# 01/11 (dono: "eu recebo notificação por venda?"): relatório de conversões da Open API.
+# Campos conferidos de memória; se a consulta completa falhar, tenta a mínima antes de desistir.
+QUERY_VENDAS = """
+query($ini:Int64,$fim:Int64,$scroll:String){
+  conversionReport(purchaseTimeStart:$ini, purchaseTimeEnd:$fim, limit:100, scrollId:$scroll){
+    nodes{ conversionId purchaseTime totalCommission
+      orders{ orderId orderStatus items{ itemName itemTotalCommission } } }
+    pageInfo{ hasNextPage scrollId }
+  }
+}
+"""
+QUERY_VENDAS_MIN = """
+query($ini:Int64,$fim:Int64,$scroll:String){
+  conversionReport(purchaseTimeStart:$ini, purchaseTimeEnd:$fim, limit:100, scrollId:$scroll){
+    nodes{ conversionId purchaseTime totalCommission }
+    pageInfo{ hasNextPage scrollId }
+  }
+}
+"""
+
+
+def vendas(desde: int, ate: int | None = None) -> list[dict]:
+    """Conversões (vendas com comissão) entre os timestamps `desde` e `ate`."""
+    ate = ate or int(time.time())
+    ultimo_erro = None
+    for q in (QUERY_VENDAS, QUERY_VENDAS_MIN):
+        saida, scroll = [], None
+        try:
+            for _ in range(10):
+                payload = json.dumps({"query": q, "variables": {"ini": desde, "fim": ate, "scroll": scroll}},
+                                     separators=(",", ":"))
+                r = requests.post(URL, data=payload, headers=_assinar(payload), timeout=40)
+                r.raise_for_status()
+                dados = r.json()
+                if dados.get("errors"):
+                    raise RuntimeError(dados["errors"])
+                rep = dados["data"]["conversionReport"]
+                for n in rep.get("nodes") or []:
+                    itens = [i.get("itemName", "") for o in (n.get("orders") or []) for i in (o.get("items") or [])]
+                    saida.append({"id": str(n.get("conversionId")), "quando": n.get("purchaseTime"),
+                                  "comissao": float(n.get("totalCommission") or 0), "itens": itens})
+                info = rep.get("pageInfo") or {}
+                if not info.get("hasNextPage"):
+                    return saida
+                scroll = info.get("scrollId")
+            return saida
+        except Exception as e:
+            ultimo_erro = e
+    raise RuntimeError(f"relatório de vendas da Shopee: {ultimo_erro}")

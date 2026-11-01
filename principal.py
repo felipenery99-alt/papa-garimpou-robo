@@ -433,6 +433,27 @@ def rodar_instagram(h: dict, agora: datetime) -> None:
     h["ig_ofertas_usadas"] = usadas[-200:]
 
 
+def checar_vendas_shopee(h: dict, telegram, agora: datetime) -> None:
+    """01/11 (dono pediu aviso de venda): olha as conversões dos últimos 3 dias e avisa cada venda
+    nova uma vez só no chat de alertas. Erro aqui nunca para a postagem; avisa no máximo 1x por dia."""
+    import shopee
+    vistas = h.setdefault("vendas_shopee", {})
+    try:
+        novas = [v for v in shopee.vendas(int(agora.timestamp()) - 3 * 86400) if v["id"] not in vistas]
+    except Exception as e:
+        dia = agora.date().isoformat()
+        if h.get("vendas_shopee_erro") != dia:
+            h["vendas_shopee_erro"] = dia
+            telegram.avisar_dono(f"não consegui ler as vendas da Shopee hoje: {str(e)[:200]}")
+        print(f"[vendas] {e}")
+        return
+    for v in novas:
+        vistas[v["id"]] = agora.isoformat()
+        itens = ", ".join(i[:50] for i in v["itens"][:3]) or "produto não informado"
+        telegram.avisar_venda(f"💰 VENDA NA SHOPEE! Comissão R$ {v['comissao']:.2f}\n🛒 {itens}")
+    print(f"[vendas] Shopee: {len(novas)} venda(s) nova(s)")
+
+
 def ofertas_exemplo(termo: str) -> list[dict]:
     exemplo = json.loads((PASTA / "dados" / "exemplo_ofertas.json").read_text(encoding="utf-8"))
     return exemplo
@@ -599,6 +620,8 @@ def main() -> int:
             erros += 1
             continue
         entrar_na_fila(h, canal, ofertas, agora)
+    if shopee_ok:
+        checar_vendas_shopee(h, telegram, agora)
     erros += soltar_fila(h, telegram, ate_proxima_execucao(agora))
     salvar_hist(h)
     gravar_relatorio(h, agora)

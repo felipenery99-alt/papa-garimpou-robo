@@ -79,3 +79,15 @@ def avisar_dono(texto: str) -> None:
         )
     except Exception as e:  # o aviso nunca pode derrubar o robô
         print(f"[ALERTA] falhou ao avisar: {e}")
+
+
+def avisar_venda(texto: str) -> None:
+    """Notícia boa (venda): vai só para o chat do dono, sem o prefixo de problema."""
+    chat = os.environ.get("ALERTA_CHAT_ID", "").strip()
+    print(f"[VENDA] {texto}")
+    if not chat or not os.environ.get("TELEGRAM_BOT_TOKEN"):
+        return
+    try:
+        requests.post(API.format(token=_token(), metodo="sendMessage"), data={"chat_id": chat, "text": texto}, timeout=30)
+    except Exception as e:
+        print(f"[VENDA] falhou ao avisar: {e}")
