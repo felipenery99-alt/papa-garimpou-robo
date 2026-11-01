@@ -304,7 +304,10 @@
   "2026-11-01 achadinhos 18:29 amz-B076YLG74Z",
   "2026-11-01 marcas 18:56 amz-B0B88TF8G5",
   "2026-11-01 marcas 19:09 amz-B0GX7NFXGJ",
-  "2026-11-01 tech 19:14 amz-B0GRD9844Q"
+  "2026-11-01 tech 19:14 amz-B0GRD9844Q",
+  "2026-11-01 achadinhos 19:33 amz-B0CQKKRWMQ",
+  "2026-11-01 tech 19:43 amz-B0B2VQBBQ1",
+  "2026-11-01 achadinhos 19:53 amz-B00021AKJI"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -617,7 +620,10 @@
   "amz-B076YLG74Z": "2026-11-01T18:29:05.130496-03:00",
   "amz-B0B88TF8G5": "2026-11-01T18:56:42.757140-03:00",
   "amz-B0GX7NFXGJ": "2026-11-01T19:09:59.834119-03:00",
-  "amz-B0GRD9844Q": "2026-11-01T19:14:42.265825-03:00"
+  "amz-B0GRD9844Q": "2026-11-01T19:14:42.265825-03:00",
+  "amz-B0CQKKRWMQ": "2026-11-01T19:33:54.778697-03:00",
+  "amz-B0B2VQBBQ1": "2026-11-01T19:43:52.773814-03:00",
+  "amz-B00021AKJI": "2026-11-01T19:53:15.640165-03:00"
  },
  "ofertas_dia": [
   {
@@ -3456,6 +3462,52 @@
    "valida_ate": "2026-11-02T22:00:00-03:00",
    "entrou": "2026-11-01T15:49:22.976553-03:00",
    "dia": "2026-11-01"
+  },
+  {
+   "id": "amz-B0CQKKRWMQ",
+   "canal": "achadinhos",
+   "nome": "Air Fryer Britânia BFR37 4,2L 1500W",
+   "preco_antigo": 405.82,
+   "preco": 267.99,
+   "desconto": 34,
+   "link": "https://www.amazon.com.br/dp/B0CQKKRWMQ?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51C2UzVxe9L._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-02T22:00:00-03:00",
+   "entrou": "2026-11-01T15:49:22.976553-03:00",
+   "dia": "2026-11-01"
+  },
+  {
+   "id": "amz-B0B2VQBBQ1",
+   "canal": "tech",
+   "nome": "Teclado Mecânico sem Fio Logitech MX Mechanical",
+   "preco_antigo": 1249.9,
+   "preco": 799.9,
+   "desconto": 36,
+   "link": "https://www.amazon.com.br/dp/B0B2VQBBQ1?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61++ok6AqtL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-02T22:00:00-03:00",
+   "entrou": "2026-11-01T15:49:22.976553-03:00",
+   "dia": "2026-11-01"
+  },
+  {
+   "id": "amz-B00021AKJI",
+   "canal": "achadinhos",
+   "nome": "Perfume Calvin Klein Eternity Masculino EDT 100ml",
+   "preco_antigo": 659.0,
+   "preco": 391.53,
+   "desconto": 41,
+   "link": "https://www.amazon.com.br/dp/B00021AKJI?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61Lzyg-FgQL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-02T22:00:00-03:00",
+   "extra": "Importado vendido pela própria Amazon",
+   "entrou": "2026-11-01T15:49:22.976553-03:00",
+   "dia": "2026-11-01"
   }
  ],
  "ig_feitos": [
@@ -3592,14 +3644,14 @@
   "2026-11-01 16:05 adivinha_resposta",
   "2026-11-01 16:44 story_oferta",
   "story especial pede-pro-papa 2026-11-01",
-  "2026-11-01 feed",
   "2026-11-01 16:55 post_achado",
-  "2026-11-01 feed",
   "2026-11-01 17:30 reels",
   "2026-11-01 17:36 story_oferta",
   "2026-11-01 18:05 a_ou_b",
   "2026-11-01 18:09 story_oferta",
-  "2026-11-01 18:42 story_oferta"
+  "2026-11-01 18:42 story_oferta",
+  "2026-11-01 19:15 post_achado",
+  "2026-11-01 19:17 story_oferta"
  ],
  "ig_ofertas_usadas": [
   "amz-B0GP7KDZRJ",
@@ -3718,7 +3770,9 @@
   "shopee-9739004991",
   "amz-B0FDX9MDXK",
   "amz-B09XJL4B9H",
-  "amz-B0CC6MGM1B"
+  "amz-B0CC6MGM1B",
+  "shopee-18597753531",
+  "amz-B0DF2WSGF6"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
@@ -3756,35 +3810,6 @@
  "ultimo_pilar": "blackfriday",
  "fila": [
   {
-   "id": "amz-B0CQKKRWMQ",
-   "canal": "achadinhos",
-   "nome": "Air Fryer Britânia BFR37 4,2L 1500W",
-   "preco_antigo": 405.82,
-   "preco": 267.99,
-   "desconto": 34,
-   "link": "https://www.amazon.com.br/dp/B0CQKKRWMQ?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51C2UzVxe9L._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-02T22:00:00-03:00",
-   "entrou": "2026-11-01T15:49:22.976553-03:00"
-  },
-  {
-   "id": "amz-B00021AKJI",
-   "canal": "achadinhos",
-   "nome": "Perfume Calvin Klein Eternity Masculino EDT 100ml",
-   "preco_antigo": 659.0,
-   "preco": 391.53,
-   "desconto": 41,
-   "link": "https://www.amazon.com.br/dp/B00021AKJI?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61Lzyg-FgQL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-02T22:00:00-03:00",
-   "extra": "Importado vendido pela própria Amazon",
-   "entrou": "2026-11-01T15:49:22.976553-03:00"
-  },
-  {
    "id": "amz-B0BBSDS4BT",
    "canal": "achadinhos",
    "nome": "Jogo de Panelas Tramontina Paris Antiaderente 10 Peças",
@@ -3811,22 +3836,6 @@
    "loja": "Vendido por parceiro · entregue pela Amazon",
    "plataforma": "Amazon",
    "valida_ate": "2026-11-02T22:00:00-03:00",
-   "entrou": "2026-11-01T15:49:22.976553-03:00"
-  },
-  {
-   "id": "amz-B0DJ8WR5JD",
-   "canal": "marcas",
-   "nome": "Tênis de Corrida Puma Darter Pro",
-   "preco_antigo": 499.99,
-   "preco": 237.49,
-   "desconto": 53,
-   "link": "https://www.amazon.com.br/dp/B0DJ8WR5JD?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61qZ9bN9UXL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-02T22:00:00-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "gancho": "PUMA DE CORRIDA PELA METADE",
    "entrou": "2026-11-01T15:49:22.976553-03:00"
   },
   {
@@ -3933,20 +3942,6 @@
    "plataforma": "Amazon",
    "valida_ate": "2026-11-02T22:00:00-03:00",
    "extra": "Preço a partir de: varia por tamanho e cor",
-   "entrou": "2026-11-01T15:49:22.976553-03:00"
-  },
-  {
-   "id": "amz-B0B2VQBBQ1",
-   "canal": "tech",
-   "nome": "Teclado Mecânico sem Fio Logitech MX Mechanical",
-   "preco_antigo": 1249.9,
-   "preco": 799.9,
-   "desconto": 36,
-   "link": "https://www.amazon.com.br/dp/B0B2VQBBQ1?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61++ok6AqtL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-02T22:00:00-03:00",
    "entrou": "2026-11-01T15:49:22.976553-03:00"
   },
   {
@@ -4201,7 +4196,10 @@
   "aspiradordepoeaguawapgtw10litros": "2026-11-01T18:29:05.130496-03:00",
   "camisapolobasicaheringmasculinaempiquet": "2026-11-01T18:56:42.757140-03:00",
   "tenisolympikuselevado": "2026-11-01T19:09:59.834119-03:00",
-  "fonebluetoothjbltune530btoverear": "2026-11-01T19:14:42.265825-03:00"
+  "fonebluetoothjbltune530btoverear": "2026-11-01T19:14:42.265825-03:00",
+  "airfryerbritaniabfr3742l1500w": "2026-11-01T19:33:54.778697-03:00",
+  "tecladomecanicosemfiologitechmxmechanical": "2026-11-01T19:43:52.773814-03:00",
+  "perfumecalvinkleineternitymasculinoedt100ml": "2026-11-01T19:53:15.640165-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
