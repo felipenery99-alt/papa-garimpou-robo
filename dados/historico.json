@@ -301,7 +301,9 @@
   "2026-11-01 tech 18:04 amz-B0DHL93XCN",
   "2026-11-01 achadinhos 18:09 amz-B09Y7H32DJ",
   "2026-11-01 tech 18:22 amz-B0C6K2DH73",
-  "2026-11-01 achadinhos 18:29 amz-B076YLG74Z"
+  "2026-11-01 achadinhos 18:29 amz-B076YLG74Z",
+  "2026-11-01 marcas 18:56 amz-B0B88TF8G5",
+  "2026-11-01 marcas 19:09 amz-B0GX7NFXGJ"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -611,7 +613,9 @@
   "amz-B0DHL93XCN": "2026-11-01T18:04:51.357295-03:00",
   "amz-B09Y7H32DJ": "2026-11-01T18:09:42.641353-03:00",
   "amz-B0C6K2DH73": "2026-11-01T18:22:47.572021-03:00",
-  "amz-B076YLG74Z": "2026-11-01T18:29:05.130496-03:00"
+  "amz-B076YLG74Z": "2026-11-01T18:29:05.130496-03:00",
+  "amz-B0B88TF8G5": "2026-11-01T18:56:42.757140-03:00",
+  "amz-B0GX7NFXGJ": "2026-11-01T19:09:59.834119-03:00"
  },
  "ofertas_dia": [
   {
@@ -3403,6 +3407,38 @@
    "valida_ate": "2026-11-02T22:00:00-03:00",
    "entrou": "2026-11-01T15:49:22.976553-03:00",
    "dia": "2026-11-01"
+  },
+  {
+   "id": "amz-B0B88TF8G5",
+   "canal": "marcas",
+   "nome": "Camisa Polo Básica Hering Masculina em Piquet",
+   "preco_antigo": 99.99,
+   "preco": 66.49,
+   "desconto": 34,
+   "link": "https://www.amazon.com.br/dp/B0B88TF8G5?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51DCkJvgv+L._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Netshoes · Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-02T22:00:00-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "entrou": "2026-11-01T15:49:22.976553-03:00",
+   "dia": "2026-11-01"
+  },
+  {
+   "id": "amz-B0GX7NFXGJ",
+   "canal": "marcas",
+   "nome": "Tênis Olympikus Elevado",
+   "preco_antigo": 279.99,
+   "preco": 170.99,
+   "desconto": 39,
+   "link": "https://www.amazon.com.br/dp/B0GX7NFXGJ?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/711iZIVuPcL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Netshoes · Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-02T22:00:00-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "entrou": "2026-11-01T15:49:22.976553-03:00",
+   "dia": "2026-11-01"
   }
  ],
  "ig_feitos": [
@@ -3544,7 +3580,9 @@
   "2026-11-01 feed",
   "2026-11-01 17:30 reels",
   "2026-11-01 17:36 story_oferta",
-  "2026-11-01 18:05 a_ou_b"
+  "2026-11-01 18:05 a_ou_b",
+  "2026-11-01 18:09 story_oferta",
+  "2026-11-01 18:42 story_oferta"
  ],
  "ig_ofertas_usadas": [
   "amz-B0GP7KDZRJ",
@@ -3661,7 +3699,9 @@
   "shopee-41253171051",
   "amz-B0G2T13LT6",
   "shopee-9739004991",
-  "amz-B0FDX9MDXK"
+  "amz-B0FDX9MDXK",
+  "amz-B09XJL4B9H",
+  "amz-B0CC6MGM1B"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
@@ -3698,21 +3738,6 @@
  },
  "ultimo_pilar": "blackfriday",
  "fila": [
-  {
-   "id": "amz-B0G72J3245",
-   "canal": "marcas",
-   "nome": "Tênis New Balance BB80 Unissex",
-   "preco_antigo": 399.99,
-   "preco": 256.49,
-   "desconto": 36,
-   "link": "https://www.amazon.com.br/dp/B0G72J3245?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/512G2QQesLL._AC_SL1200_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-01T23:59:00-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "entrou": "2026-11-01T14:44:36.552674-03:00"
-  },
   {
    "id": "amz-B0CQKKRWMQ",
    "canal": "achadinhos",
@@ -3769,36 +3794,6 @@
    "loja": "Vendido por parceiro · entregue pela Amazon",
    "plataforma": "Amazon",
    "valida_ate": "2026-11-02T22:00:00-03:00",
-   "entrou": "2026-11-01T15:49:22.976553-03:00"
-  },
-  {
-   "id": "amz-B0B88TF8G5",
-   "canal": "marcas",
-   "nome": "Camisa Polo Básica Hering Masculina em Piquet",
-   "preco_antigo": 99.99,
-   "preco": 66.49,
-   "desconto": 34,
-   "link": "https://www.amazon.com.br/dp/B0B88TF8G5?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51DCkJvgv+L._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Netshoes · Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-02T22:00:00-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "entrou": "2026-11-01T15:49:22.976553-03:00"
-  },
-  {
-   "id": "amz-B0GX7NFXGJ",
-   "canal": "marcas",
-   "nome": "Tênis Olympikus Elevado",
-   "preco_antigo": 279.99,
-   "preco": 170.99,
-   "desconto": 39,
-   "link": "https://www.amazon.com.br/dp/B0GX7NFXGJ?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/711iZIVuPcL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Netshoes · Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-02T22:00:00-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
    "entrou": "2026-11-01T15:49:22.976553-03:00"
   },
   {
@@ -4009,6 +4004,36 @@
    "extra": "no Pix · ⭐ 4,8 (537 avaliações)",
    "gancho": "PRA CORRER MAIS E PAGAR MENOS",
    "entrou": "2026-11-01T16:23:02.297026-03:00"
+  },
+  {
+   "id": "amz-B0G4581RM9",
+   "canal": "marcas",
+   "nome": "Tênis New Balance Fresh Foam Arishi v4 Masculino",
+   "preco_antigo": 499.99,
+   "preco": 284.99,
+   "desconto": 43,
+   "link": "https://www.amazon.com.br/dp/B0G4581RM9?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51dQq0r1QKL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-01T23:59:00-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "entrou": "2026-11-01T18:52:17.613702-03:00"
+  },
+  {
+   "id": "amz-B0G72J3245",
+   "canal": "marcas",
+   "nome": "Tênis New Balance BB80 Unissex",
+   "preco_antigo": 399.99,
+   "preco": 256.49,
+   "desconto": 36,
+   "link": "https://www.amazon.com.br/dp/B0G72J3245?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/512G2QQesLL._AC_SL1200_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-01T23:59:00-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "entrou": "2026-11-01T18:52:17.613702-03:00"
   }
  ],
  "menus_fixados": [
@@ -4170,7 +4195,9 @@
   "fonedeouvidosemfiojblwavebuds": "2026-11-01T18:04:51.357295-03:00",
   "caldeiraotramontinaparisantiaderente": "2026-11-01T18:09:42.641353-03:00",
   "mousesemfiologitechmxanywhere3s": "2026-11-01T18:22:47.572021-03:00",
-  "aspiradordepoeaguawapgtw10litros": "2026-11-01T18:29:05.130496-03:00"
+  "aspiradordepoeaguawapgtw10litros": "2026-11-01T18:29:05.130496-03:00",
+  "camisapolobasicaheringmasculinaempiquet": "2026-11-01T18:56:42.757140-03:00",
+  "tenisolympikuselevado": "2026-11-01T19:09:59.834119-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
