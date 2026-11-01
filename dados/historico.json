@@ -240,7 +240,9 @@
   "2026-10-31 achadinhos 15:56 amz-B0DL4XB1VD",
   "2026-10-31 achadinhos 16:59 amz-B088WCR8M3",
   "2026-10-31 achadinhos 17:10 amz-B08ZFKB8ZK",
-  "2026-10-31 marcas 17:20 amz-B0H6T47N79"
+  "2026-10-31 marcas 17:20 amz-B0H6T47N79",
+  "2026-10-31 achadinhos 21:08 amz-B00S2WDIGG",
+  "2026-10-31 achadinhos 21:18 amz-B0BJ347WND"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -494,7 +496,9 @@
   "amz-B0DL4XB1VD": "2026-10-31T15:56:00.938061-03:00",
   "amz-B088WCR8M3": "2026-10-31T16:59:49.823106-03:00",
   "amz-B08ZFKB8ZK": "2026-10-31T17:10:48.383715-03:00",
-  "amz-B0H6T47N79": "2026-10-31T17:20:50.440068-03:00"
+  "amz-B0H6T47N79": "2026-10-31T17:20:50.440068-03:00",
+  "amz-B00S2WDIGG": "2026-10-31T21:08:09.319447-03:00",
+  "amz-B0BJ347WND": "2026-10-31T21:18:17.964312-03:00"
  },
  "ofertas_dia": [
   {
@@ -3662,6 +3666,39 @@
    "gancho": "NEW BALANCE PELA METADE DO PREÇO",
    "entrou": "2026-10-31T16:54:38.188898-03:00",
    "dia": "2026-10-31"
+  },
+  {
+   "id": "amz-B00S2WDIGG",
+   "canal": "achadinhos",
+   "nome": "Perfume Calvin Klein CK One Eau de Toilette 200ml",
+   "preco_antigo": 390.0,
+   "preco": 271.0,
+   "desconto": 31,
+   "link": "https://www.amazon.com.br/dp/B00S2WDIGG?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/41N95TJjnSL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-31T23:59:00-03:00",
+   "extra": "Frasco grande de 200ml, original vendido pela Amazon",
+   "gancho": "CK ONE DE 200ML COM 31% OFF",
+   "entrou": "2026-10-31T21:04:37.210872-03:00",
+   "dia": "2026-10-31"
+  },
+  {
+   "id": "amz-B0BJ347WND",
+   "canal": "achadinhos",
+   "nome": "Protetor Solar La Roche-Posay Anthelios Airlicium",
+   "preco_antigo": 99.9,
+   "preco": 58.5,
+   "desconto": 41,
+   "link": "https://www.amazon.com.br/dp/B0BJ347WND?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/419Atx-XGTL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-31T23:59:00-03:00",
+   "gancho": "LA ROCHE-POSAY QUASE PELA METADE",
+   "entrou": "2026-10-31T21:04:37.210872-03:00",
+   "dia": "2026-10-31"
   }
  ],
  "ig_feitos": [
@@ -3800,7 +3837,9 @@
   "2026-10-31 19:17 story_oferta",
   "2026-10-31 20:03 story_oferta",
   "2026-10-31 20:35 story_top4",
-  "2026-10-31 20:38 story_oferta"
+  "2026-10-31 20:38 story_oferta",
+  "2026-10-31 feed",
+  "2026-10-31 20:50 post_achado"
  ],
  "ig_ofertas_usadas": [
   "amz-B0GP7KDZRJ",
@@ -3898,7 +3937,8 @@
   "shopee-58260024078",
   "amz-B09XJK1XS1",
   "amz-B0CX1SDR83",
-  "shopee-22194331598"
+  "shopee-22194331598",
+  "shopee-23398337380"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
@@ -3932,7 +3972,84 @@
   "2026-10-31": 1
  },
  "ultimo_pilar": "humor",
- "fila": [],
+ "fila": [
+  {
+   "id": "amz-B0BHJN641R",
+   "canal": "marcas",
+   "nome": "Tech T-shirt Insider Gola V Masculina",
+   "preco_antigo": 165.0,
+   "preco": 83.47,
+   "desconto": 49,
+   "link": "https://www.amazon.com.br/dp/B0BHJN641R?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51JgLC3ny+L._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-31T23:59:00-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "gancho": "TECH T-SHIRT DA INSIDER PELA METADE",
+   "entrou": "2026-10-31T21:04:37.210872-03:00"
+  },
+  {
+   "id": "amz-B0DJ9859GP",
+   "canal": "marcas",
+   "nome": "Tênis de Corrida Puma Darter Pro",
+   "preco_antigo": 499.99,
+   "preco": 237.49,
+   "desconto": 53,
+   "link": "https://www.amazon.com.br/dp/B0DJ9859GP?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71-NV05maHL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-31T23:59:00-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "gancho": "PUMA DE CORRIDA POR MENOS DA METADE",
+   "entrou": "2026-10-31T21:04:37.210872-03:00"
+  },
+  {
+   "id": "amz-B0FH3W32GS",
+   "canal": "marcas",
+   "nome": "Tênis Fila Racer Fastpace Masculino",
+   "preco_antigo": 499.99,
+   "preco": 219.9,
+   "desconto": 56,
+   "link": "https://www.amazon.com.br/dp/B0FH3W32GS?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/518oCv3h4wL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-31T23:59:00-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "entrou": "2026-10-31T21:04:37.210872-03:00"
+  },
+  {
+   "id": "amz-B0D2LPLTJ8",
+   "canal": "tech",
+   "nome": "Caixa de Som JBL Xtreme 4 Bluetooth com Powerbank",
+   "preco_antigo": 2744.43,
+   "preco": 1168.9,
+   "desconto": 57,
+   "link": "https://www.amazon.com.br/dp/B0D2LPLTJ8?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71jzFcaXnzL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-31T23:59:00-03:00",
+   "gancho": "JBL XTREME 4 POR MENOS DA METADE",
+   "entrou": "2026-10-31T21:04:37.210872-03:00"
+  },
+  {
+   "id": "amz-B0GVPGKM4P",
+   "canal": "tech",
+   "nome": "Fone Bluetooth JBL Tune 780NC com Cancelamento de Ruído",
+   "preco_antigo": 560.52,
+   "preco": 358.12,
+   "desconto": 36,
+   "link": "https://www.amazon.com.br/dp/B0GVPGKM4P?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51MnMPeZUWL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-10-31T23:59:00-03:00",
+   "entrou": "2026-10-31T21:04:37.210872-03:00"
+  }
+ ],
  "menus_fixados": [
   "v1 @papagarimpou",
   "v1 @papagarimpoumarcas",
@@ -4036,7 +4153,9 @@
   "perfumenaturaessencialsentirdeoparfumfeminino100ml": "2026-10-31T15:56:00.938061-03:00",
   "perfumeazzarosportmasculinoeaudetoilette100ml": "2026-10-31T16:59:49.823106-03:00",
   "perfumeazzarothemostwantedintensemasculinoeaudeparfum": "2026-10-31T17:10:48.383715-03:00",
-  "tenisfemininonewbalance413v3": "2026-10-31T17:20:50.440068-03:00"
+  "tenisfemininonewbalance413v3": "2026-10-31T17:20:50.440068-03:00",
+  "perfumecalvinkleinckoneeaudetoilette200ml": "2026-10-31T21:08:09.319447-03:00",
+  "protetorsolarlarocheposayantheliosairlicium": "2026-10-31T21:18:17.964312-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
