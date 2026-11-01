@@ -248,7 +248,13 @@
   "2026-11-01 tech 08:28 amz-B081415GCS",
   "2026-11-01 achadinhos 08:32 amz-B0CLF2RGNL",
   "2026-11-01 marcas 08:38 amz-B0DMV2VL35",
-  "2026-11-01 tech 08:45 amz-B0FKVWSM3N"
+  "2026-11-01 tech 08:45 amz-B0FKVWSM3N",
+  "2026-11-01 achadinhos 09:09 amz-B09GL5MXNV",
+  "2026-11-01 marcas 09:15 amz-B0F79VDTM4",
+  "2026-11-01 tech 09:20 amz-B0GNDQ1SBY",
+  "2026-11-01 achadinhos 09:26 amz-B0B72QZXCC",
+  "2026-11-01 marcas 09:31 amz-B0D7DVQ188",
+  "2026-11-01 tech 09:34 amz-B0G2T13LT6"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -510,7 +516,13 @@
   "amz-B081415GCS": "2026-11-01T08:28:34.613168-03:00",
   "amz-B0CLF2RGNL": "2026-11-01T08:32:11.878268-03:00",
   "amz-B0DMV2VL35": "2026-11-01T08:38:31.471803-03:00",
-  "amz-B0FKVWSM3N": "2026-11-01T08:45:46.899389-03:00"
+  "amz-B0FKVWSM3N": "2026-11-01T08:45:46.899389-03:00",
+  "amz-B09GL5MXNV": "2026-11-01T09:09:55.400381-03:00",
+  "amz-B0F79VDTM4": "2026-11-01T09:15:40.643999-03:00",
+  "amz-B0GNDQ1SBY": "2026-11-01T09:20:21.078402-03:00",
+  "amz-B0B72QZXCC": "2026-11-01T09:26:32.219790-03:00",
+  "amz-B0D7DVQ188": "2026-11-01T09:31:16.324648-03:00",
+  "amz-B0G2T13LT6": "2026-11-01T09:34:40.622290-03:00"
  },
  "ofertas_dia": [
   {
@@ -2535,6 +2547,101 @@
    "valida_ate": "2026-11-01T23:59:00-03:00",
    "entrou": "2026-11-01T08:17:36.057942-03:00",
    "dia": "2026-11-01"
+  },
+  {
+   "id": "amz-B09GL5MXNV",
+   "canal": "achadinhos",
+   "nome": "Escova Elétrica Philips Colgate SonicPro 50",
+   "preco_antigo": 713.38,
+   "preco": 369.55,
+   "desconto": 48,
+   "link": "https://www.amazon.com.br/dp/B09GL5MXNV?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61V6xO-n7VL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-01T23:59:00-03:00",
+   "entrou": "2026-11-01T08:17:36.057942-03:00",
+   "dia": "2026-11-01"
+  },
+  {
+   "id": "amz-B0F79VDTM4",
+   "canal": "marcas",
+   "nome": "Kit 4 Cuecas Boxer Lupo Algodão Masculinas",
+   "preco_antigo": 176.99,
+   "preco": 71.24,
+   "desconto": 60,
+   "link": "https://www.amazon.com.br/dp/B0F79VDTM4?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71EU6CMvlIL._AC_SL1500_.jpg",
+   "loja": "Vendido por parceiro · entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-01T23:59:00-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "gancho": "GAVETA NOVA DE LUPO",
+   "entrou": "2026-11-01T08:17:36.057942-03:00",
+   "dia": "2026-11-01"
+  },
+  {
+   "id": "amz-B0GNDQ1SBY",
+   "canal": "tech",
+   "nome": "Monitor LG 22\" Full HD 22U403A",
+   "preco_antigo": 630.3,
+   "preco": 398.05,
+   "desconto": 37,
+   "link": "https://www.amazon.com.br/dp/B0GNDQ1SBY?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61xsnzEWX4L._AC_SL1200_.jpg",
+   "loja": "Vendido por parceiro · entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-01T23:59:00-03:00",
+   "entrou": "2026-11-01T08:17:36.057942-03:00",
+   "dia": "2026-11-01"
+  },
+  {
+   "id": "amz-B0B72QZXCC",
+   "canal": "achadinhos",
+   "nome": "Fritadeira Sem Óleo Oster OFRT520 Preta",
+   "preco_antigo": 449.9,
+   "preco": 286.24,
+   "desconto": 36,
+   "link": "https://www.amazon.com.br/dp/B0B72QZXCC?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51+rkXsAaOL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-01T23:59:00-03:00",
+   "extra": "Versão 127V",
+   "entrou": "2026-11-01T08:17:36.057942-03:00",
+   "dia": "2026-11-01"
+  },
+  {
+   "id": "amz-B0D7DVQ188",
+   "canal": "marcas",
+   "nome": "Kit 5 Camisetas Básicas Hering Masculinas",
+   "preco_antigo": 249.99,
+   "preco": 123.49,
+   "desconto": 51,
+   "link": "https://www.amazon.com.br/dp/B0D7DVQ188?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/41EaGI-NCGL._AC_SL1000_.jpg",
+   "loja": "Vendido por Netshoes · entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-01T23:59:00-03:00",
+   "extra": "Sai a ~R$ 24,70 cada · Preço a partir de: varia por tamanho e cor",
+   "gancho": "CINCO HERING PELO PREÇO DE DUAS",
+   "entrou": "2026-11-01T08:17:36.057942-03:00",
+   "dia": "2026-11-01"
+  },
+  {
+   "id": "amz-B0G2T13LT6",
+   "canal": "tech",
+   "nome": "Soundbar TCL S55H 220W 2.1 com Subwoofer Sem Fio",
+   "preco_antigo": 1099.0,
+   "preco": 730.12,
+   "desconto": 34,
+   "link": "https://www.amazon.com.br/dp/B0G2T13LT6?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/41hYqNuYIcL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-01T23:59:00-03:00",
+   "entrou": "2026-11-01T08:17:36.057942-03:00",
+   "dia": "2026-11-01"
   }
  ],
  "ig_feitos": [
@@ -2647,7 +2754,10 @@
   "2026-10-31 21:20 story_convite",
   "2026-10-31 21:05 reels",
   "2026-10-31 21:24 story_oferta",
-  "2026-11-01 08:07 story_oferta"
+  "2026-11-01 08:07 story_oferta",
+  "story especial 100-seguidores-20261101",
+  "2026-11-01 08:45 story_oferta",
+  "2026-11-01 08:52 story_oferta"
  ],
  "ig_ofertas_usadas": [
   "amz-B0GP7KDZRJ",
@@ -2747,7 +2857,9 @@
   "amz-B0CX1SDR83",
   "shopee-22194331598",
   "shopee-23398337380",
-  "amz-B09GCJZ45Z"
+  "amz-B09GCJZ45Z",
+  "amz-B07FFJ2T6T",
+  "amz-B0FRVB9JGD"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
@@ -2785,35 +2897,6 @@
  "ultimo_pilar": "blackfriday",
  "fila": [
   {
-   "id": "amz-B09GL5MXNV",
-   "canal": "achadinhos",
-   "nome": "Escova Elétrica Philips Colgate SonicPro 50",
-   "preco_antigo": 713.38,
-   "preco": 369.55,
-   "desconto": 48,
-   "link": "https://www.amazon.com.br/dp/B09GL5MXNV?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61V6xO-n7VL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-01T23:59:00-03:00",
-   "entrou": "2026-11-01T08:17:36.057942-03:00"
-  },
-  {
-   "id": "amz-B0B72QZXCC",
-   "canal": "achadinhos",
-   "nome": "Fritadeira Sem Óleo Oster OFRT520 Preta",
-   "preco_antigo": 449.9,
-   "preco": 286.24,
-   "desconto": 36,
-   "link": "https://www.amazon.com.br/dp/B0B72QZXCC?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51+rkXsAaOL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-01T23:59:00-03:00",
-   "extra": "Versão 127V",
-   "entrou": "2026-11-01T08:17:36.057942-03:00"
-  },
-  {
    "id": "amz-B09XJL4B9H",
    "canal": "achadinhos",
    "nome": "Kit 12 Potes Herméticos Electrolux",
@@ -2825,38 +2908,6 @@
    "loja": "Vendido e entregue pela Amazon",
    "plataforma": "Amazon",
    "valida_ate": "2026-11-01T23:59:00-03:00",
-   "entrou": "2026-11-01T08:17:36.057942-03:00"
-  },
-  {
-   "id": "amz-B0F79VDTM4",
-   "canal": "marcas",
-   "nome": "Kit 4 Cuecas Boxer Lupo Algodão Masculinas",
-   "preco_antigo": 176.99,
-   "preco": 71.24,
-   "desconto": 60,
-   "link": "https://www.amazon.com.br/dp/B0F79VDTM4?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/71EU6CMvlIL._AC_SL1500_.jpg",
-   "loja": "Vendido por parceiro · entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-01T23:59:00-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "gancho": "GAVETA NOVA DE LUPO",
-   "entrou": "2026-11-01T08:17:36.057942-03:00"
-  },
-  {
-   "id": "amz-B0D7DVQ188",
-   "canal": "marcas",
-   "nome": "Kit 5 Camisetas Básicas Hering Masculinas",
-   "preco_antigo": 249.99,
-   "preco": 123.49,
-   "desconto": 51,
-   "link": "https://www.amazon.com.br/dp/B0D7DVQ188?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/41EaGI-NCGL._AC_SL1000_.jpg",
-   "loja": "Vendido por Netshoes · entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-01T23:59:00-03:00",
-   "extra": "Sai a ~R$ 24,70 cada · Preço a partir de: varia por tamanho e cor",
-   "gancho": "CINCO HERING PELO PREÇO DE DUAS",
    "entrou": "2026-11-01T08:17:36.057942-03:00"
   },
   {
@@ -2951,34 +3002,6 @@
    "entrou": "2026-11-01T08:17:36.057942-03:00"
   },
   {
-   "id": "amz-B0GNDQ1SBY",
-   "canal": "tech",
-   "nome": "Monitor LG 22\" Full HD 22U403A",
-   "preco_antigo": 630.3,
-   "preco": 398.05,
-   "desconto": 37,
-   "link": "https://www.amazon.com.br/dp/B0GNDQ1SBY?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61xsnzEWX4L._AC_SL1200_.jpg",
-   "loja": "Vendido por parceiro · entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-01T23:59:00-03:00",
-   "entrou": "2026-11-01T08:17:36.057942-03:00"
-  },
-  {
-   "id": "amz-B0G2T13LT6",
-   "canal": "tech",
-   "nome": "Soundbar TCL S55H 220W 2.1 com Subwoofer Sem Fio",
-   "preco_antigo": 1099.0,
-   "preco": 730.12,
-   "desconto": 34,
-   "link": "https://www.amazon.com.br/dp/B0G2T13LT6?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/41hYqNuYIcL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-01T23:59:00-03:00",
-   "entrou": "2026-11-01T08:17:36.057942-03:00"
-  },
-  {
    "id": "amz-B0DF2WSGF6",
    "canal": "tech",
    "nome": "Monitor Gamer LG 24\" IPS 100Hz Full HD",
@@ -3069,6 +3092,70 @@
    "link": "https://s.shopee.com.br/6q1tAx3MNf",
    "canal": "marcas",
    "entrou": "2026-11-01T08:17:36.057942-03:00"
+  },
+  {
+   "id": "mgl-SG4-0157-058",
+   "canal": "marcas",
+   "nome": "Tênis Asics Patriot 14 Feminino",
+   "preco_antigo": 449.99,
+   "preco": 199.49,
+   "desconto": 56,
+   "link": "https://www.magazinevoce.com.br/magazinepapagarimpou/tenis-asics-patriot-14-feminino/p/jkbe6jhfa1/es/osnr/",
+   "imagem": "https://static.netshoes.com.br/produtos/tenis-asics-patriot-14-feminino/58/SG4-0157-058/SG4-0157-058_zoom1.jpg",
+   "loja": "Vendido pela Netshoes · Magalu",
+   "plataforma": "Magalu",
+   "valida_ate": "2026-11-02T13:00:00-03:00",
+   "extra": "no Pix · ⭐ 4,9 (1.206 avaliações)",
+   "gancho": "ASICS PELA METADE DO PREÇO? O PAPA PEGOU",
+   "entrou": "2026-11-01T09:02:45.202091-03:00"
+  },
+  {
+   "id": "mgl-SG4-01QZ-842",
+   "canal": "marcas",
+   "nome": "Tênis Asics Gel-Venture 11 Feminino",
+   "preco_antigo": 599.99,
+   "preco": 284.99,
+   "desconto": 53,
+   "link": "https://www.magazinevoce.com.br/magazinepapagarimpou/tenis-asics-gel-venture-11-feminino/p/hg81g613f6/es/osnr/",
+   "imagem": "https://static.netshoes.com.br/produtos/tenis-asics-gel-venture-11-feminino/42/SG4-01QZ-842/SG4-01QZ-842_zoom1.jpg",
+   "loja": "Vendido pela Netshoes · Magalu",
+   "plataforma": "Magalu",
+   "valida_ate": "2026-11-02T13:00:00-03:00",
+   "extra": "no Pix · ⭐ 4,9",
+   "entrou": "2026-11-01T09:02:45.202091-03:00"
+  },
+  {
+   "id": "mgl-SG4-014G-172",
+   "canal": "marcas",
+   "nome": "Tênis Asics Gel-Excite 11 Masculino",
+   "preco_antigo": 499.99,
+   "preco": 303.99,
+   "desconto": 39,
+   "link": "https://www.magazinevoce.com.br/magazinepapagarimpou/tenis-asics-gel-excite-11-masculino/p/bdcc83afhf/es/osnr/",
+   "imagem": "https://static.netshoes.com.br/produtos/tenis-asics-gel-excite-11-masculino/72/SG4-014G-172/SG4-014G-172_zoom1.jpg",
+   "loja": "Vendido pela Netshoes · Magalu",
+   "plataforma": "Magalu",
+   "valida_ate": "2026-11-02T13:00:00-03:00",
+   "extra": "no Pix · ⭐ 4,8 (537 avaliações)",
+   "gancho": "PRA CORRER MAIS E PAGAR MENOS",
+   "entrou": "2026-11-01T09:02:45.202091-03:00"
+  },
+  {
+   "id": "shopee-41253171051",
+   "plataforma": "Shopee",
+   "nome": "Baseus BP1 Pro ANC Fone De Ouvido Sem Fio-50dB Redução De Ruído De Alta Resolução Bluetooth 6.0 IPX55 À Prova D'água",
+   "loja": "Baseus Oficial Store",
+   "loja_oficial": true,
+   "preco": 115.9,
+   "preco_antigo": 231.8,
+   "desconto": 50,
+   "vendas": 763,
+   "nota": 4.9,
+   "comissao_pct": 7.0,
+   "imagem": "https://cf.shopee.com.br/file/cn-11134207-820l4-msv0wwv7avb661",
+   "link": "https://s.shopee.com.br/gRIvCORND",
+   "canal": "tech",
+   "entrou": "2026-11-01T09:02:45.202091-03:00"
   }
  ],
  "menus_fixados": [
@@ -3182,7 +3269,13 @@
   "headsetgamersemfiologitechg73371": "2026-11-01T08:28:34.613168-03:00",
   "parafusadeiraefuradeiradeimpactowap21vcommaleta": "2026-11-01T08:32:11.878268-03:00",
   "copotermicostanleyflipstraw887ml": "2026-11-01T08:38:31.471803-03:00",
-  "jogocronosnintendoswitch2": "2026-11-01T08:45:46.899389-03:00"
+  "jogocronosnintendoswitch2": "2026-11-01T08:45:46.899389-03:00",
+  "escovaeletricaphilipscolgatesonicpro50": "2026-11-01T09:09:55.400381-03:00",
+  "kit4cuecasboxerlupoalgodaomasculinas": "2026-11-01T09:15:40.643999-03:00",
+  "monitorlg22fullhd22u403a": "2026-11-01T09:20:21.078402-03:00",
+  "fritadeirasemoleoosterofrt520preta": "2026-11-01T09:26:32.219790-03:00",
+  "kit5camisetasbasicasheringmasculinas": "2026-11-01T09:31:16.324648-03:00",
+  "soundbartcls55h220w21comsubwoofersemfio": "2026-11-01T09:34:40.622290-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
@@ -3209,5 +3302,7 @@
    "shopee-23398337380",
    "shopee-16185215321"
   ]
- }
+ },
+ "vendas_shopee": {},
+ "vendas_shopee_erro": "2026-11-01"
 }

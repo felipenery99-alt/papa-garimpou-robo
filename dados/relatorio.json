@@ -285,13 +285,15 @@
   }
  },
  "2026-11-01": {
-  "erros": [],
-  "ultima_execucao": "08:17",
-  "execucoes": 2,
+  "erros": [
+   "não consegui ler as vendas da Shopee hoje: relatório de vendas da Shopee: [{'message': 'wrong type', 'extensions': {'code': 10010, 'message': 'wrong type'}}]"
+  ],
+  "ultima_execucao": "09:02",
+  "execucoes": 3,
   "telegram_posts": {
-   "achadinhos": 2,
-   "marcas": 2,
-   "tech": 2
+   "achadinhos": 4,
+   "marcas": 4,
+   "tech": 4
   },
   "telegram_membros": {
    "achadinhos": 3,
@@ -300,14 +302,16 @@
    "geral": 3
   },
   "instagram_feito": [
-   "08:07 story_oferta"
+   "08:07 story_oferta",
+   "08:45 story_oferta",
+   "08:52 story_oferta"
   ],
   "shopee_ligada": true,
   "instagram": {
-   "seguidores": 101,
+   "seguidores": 104,
    "posts": 31,
-   "reach": 21,
-   "profile_views": 27,
+   "reach": 23,
+   "profile_views": 33,
    "website_clicks": 1,
    "stories_ativos": 25
   }
