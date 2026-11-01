@@ -30,6 +30,30 @@
      "canal": "marcas"
     }
    ]
+  },
+  {
+   "tipo": "a_ou_b",
+   "hora": "18:05",
+   "produtos": [
+    {
+     "nome": "Cabo Carregador Tipo C 2 Metros Turbo Premium Reforçado Android Xiaomi USB Dados",
+     "preco_antigo": 31.19,
+     "preco": 20.9,
+     "desconto": 33,
+     "link": "https://s.shopee.com.br/5AtiXcLCrT",
+     "loja": "Shop Aquarela",
+     "canal": "tech"
+    },
+    {
+     "nome": "Smartwatch Samsung Galaxy Watch8 44mm LTE",
+     "preco_antigo": 3499.0,
+     "preco": 1599.99,
+     "desconto": 54,
+     "link": "https://www.amazon.com.br/dp/B0FDX9MDXK?tag=papagarimpou-20",
+     "loja": "Vendido e entregue pela Amazon",
+     "canal": "tech"
+    }
+   ]
   }
  ]
 }
