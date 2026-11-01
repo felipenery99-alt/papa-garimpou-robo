@@ -288,7 +288,9 @@
   "2026-11-01 achadinhos 15:48 amz-B0CQKBJ79W",
   "2026-11-01 achadinhos 15:52 amz-B0BT23S5MF",
   "2026-11-01 tech 16:07 amz-B0DN4RM6X7",
-  "2026-11-01 achadinhos 16:22 amz-B09SVR1XR5"
+  "2026-11-01 achadinhos 16:22 amz-B09SVR1XR5",
+  "2026-11-01 marcas 16:28 amz-B0BHJN641R",
+  "2026-11-01 marcas 16:39 amz-B0DJ9859GP"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -585,7 +587,9 @@
   "amz-B0CQKBJ79W": "2026-11-01T15:48:59.380324-03:00",
   "amz-B0BT23S5MF": "2026-11-01T15:52:30.568118-03:00",
   "amz-B0DN4RM6X7": "2026-11-01T16:07:33.234690-03:00",
-  "amz-B09SVR1XR5": "2026-11-01T16:22:40.723229-03:00"
+  "amz-B09SVR1XR5": "2026-11-01T16:22:40.723229-03:00",
+  "amz-B0BHJN641R": "2026-11-01T16:28:25.629491-03:00",
+  "amz-B0DJ9859GP": "2026-11-01T16:39:20.802193-03:00"
  },
  "ofertas_dia": [
   {
@@ -3173,6 +3177,40 @@
    "gancho": "ELECTROLUX INOX POR MENOS DA METADE",
    "entrou": "2026-11-01T14:05:58.923636-03:00",
    "dia": "2026-11-01"
+  },
+  {
+   "id": "amz-B0BHJN641R",
+   "canal": "marcas",
+   "nome": "Tech T-Shirt Insider Gola V Masculina",
+   "preco_antigo": 165.0,
+   "preco": 83.47,
+   "desconto": 49,
+   "link": "https://www.amazon.com.br/dp/B0BHJN641R?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51JgLC3ny+L._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-02T22:00:00-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "gancho": "TECH T-SHIRT INSIDER QUASE PELA METADE",
+   "entrou": "2026-11-01T14:05:58.923636-03:00",
+   "dia": "2026-11-01"
+  },
+  {
+   "id": "amz-B0DJ9859GP",
+   "canal": "marcas",
+   "nome": "Tênis de Corrida Puma Darter Pro",
+   "preco_antigo": 499.99,
+   "preco": 237.49,
+   "desconto": 53,
+   "link": "https://www.amazon.com.br/dp/B0DJ9859GP?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71-NV05maHL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-02T22:00:00-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "gancho": "PUMA DE CORRIDA PELA METADE",
+   "entrou": "2026-11-01T14:05:58.923636-03:00",
+   "dia": "2026-11-01"
   }
  ],
  "ig_feitos": [
@@ -3305,7 +3343,8 @@
   "2026-11-01 14:25 post_achado",
   "2026-11-01 14:08 story_oferta",
   "2026-11-01 15:00 adivinha",
-  "2026-11-01 15:03 story_oferta"
+  "2026-11-01 15:03 story_oferta",
+  "2026-11-01 16:05 adivinha_resposta"
  ],
  "ig_ofertas_usadas": [
   "amz-B0GP7KDZRJ",
@@ -3482,38 +3521,6 @@
    "plataforma": "Amazon",
    "valida_ate": "2026-11-02T22:00:00-03:00",
    "gancho": "POTE ELECTROLUX PELA METADE DO PREÇO",
-   "entrou": "2026-11-01T14:05:58.923636-03:00"
-  },
-  {
-   "id": "amz-B0BHJN641R",
-   "canal": "marcas",
-   "nome": "Tech T-Shirt Insider Gola V Masculina",
-   "preco_antigo": 165.0,
-   "preco": 83.47,
-   "desconto": 49,
-   "link": "https://www.amazon.com.br/dp/B0BHJN641R?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51JgLC3ny+L._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-02T22:00:00-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "gancho": "TECH T-SHIRT INSIDER QUASE PELA METADE",
-   "entrou": "2026-11-01T14:05:58.923636-03:00"
-  },
-  {
-   "id": "amz-B0DJ9859GP",
-   "canal": "marcas",
-   "nome": "Tênis de Corrida Puma Darter Pro",
-   "preco_antigo": 499.99,
-   "preco": 237.49,
-   "desconto": 53,
-   "link": "https://www.amazon.com.br/dp/B0DJ9859GP?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/71-NV05maHL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-02T22:00:00-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "gancho": "PUMA DE CORRIDA PELA METADE",
    "entrou": "2026-11-01T14:05:58.923636-03:00"
   },
   {
@@ -3955,6 +3962,22 @@
    "plataforma": "Amazon",
    "valida_ate": "2026-11-02T22:00:00-03:00",
    "entrou": "2026-11-01T15:49:22.976553-03:00"
+  },
+  {
+   "id": "mgl-SG4-014G-172",
+   "canal": "marcas",
+   "nome": "Tênis Asics Gel-Excite 11 Masculino",
+   "preco_antigo": 499.99,
+   "preco": 303.99,
+   "desconto": 39,
+   "link": "https://www.magazinevoce.com.br/magazinepapagarimpou/tenis-asics-gel-excite-11-masculino/p/bdcc83afhf/es/osnr/",
+   "imagem": "https://static.netshoes.com.br/produtos/tenis-asics-gel-excite-11-masculino/72/SG4-014G-172/SG4-014G-172_zoom1.jpg",
+   "loja": "Vendido pela Netshoes · Magalu",
+   "plataforma": "Magalu",
+   "valida_ate": "2026-11-02T13:00:00-03:00",
+   "extra": "no Pix · ⭐ 4,8 (537 avaliações)",
+   "gancho": "PRA CORRER MAIS E PAGAR MENOS",
+   "entrou": "2026-11-01T16:23:02.297026-03:00"
   }
  ],
  "menus_fixados": [
@@ -4103,7 +4126,9 @@
   "acidificantecapilarlorealelseveglycolicgloss200ml": "2026-11-01T15:48:59.380324-03:00",
   "aspiradordepoverticalwaphighspeedplus3em1": "2026-11-01T15:52:30.568118-03:00",
   "mousesemfiologitechm196bluetooth": "2026-11-01T16:07:33.234690-03:00",
-  "liquidificadorelectroluxinoxcomjarradevidro": "2026-11-01T16:22:40.723229-03:00"
+  "liquidificadorelectroluxinoxcomjarradevidro": "2026-11-01T16:22:40.723229-03:00",
+  "techtshirtinsidergolavmasculina": "2026-11-01T16:28:25.629491-03:00",
+  "tenisdecorridapumadarterpro": "2026-11-01T16:39:20.802193-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
