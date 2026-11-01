@@ -4,6 +4,7 @@ Trava: antes de publicar, confere que a conta do token é exatamente @papa.garim
 As imagens precisam de endereço público: o robô grava em midia/ do próprio
 repositório (público), faz push e usa o link raw.githubusercontent.com.
 """
+import json
 import os
 import subprocess
 import time
@@ -100,7 +101,9 @@ def foto(imagem: bytes, nome: str, legenda: str) -> str:
     return _publicar(c["ig_id"], _criar(c["ig_id"], image_url=url, caption=legenda))
 
 
-def carrossel(imagens: list[bytes], prefixo: str, legenda: str) -> str:
+def carrossel(imagens: list[bytes], prefixo: str, legenda: str, colaboradores: list[str] | None = None) -> str:
+    """`colaboradores` (01/11, post Collab): usuários convidados como coautores, sem @;
+    o post só aparece no perfil deles depois que aceitarem o convite no app."""
     c = conta()
     filhos = []
     for i, img in enumerate(imagens):
@@ -108,7 +111,8 @@ def carrossel(imagens: list[bytes], prefixo: str, legenda: str) -> str:
         filhos.append(_criar(c["ig_id"], image_url=url, is_carousel_item="true"))
     for f in filhos:
         _esperar(f)
-    return _publicar(c["ig_id"], _criar(c["ig_id"], media_type="CAROUSEL", children=",".join(filhos), caption=legenda))
+    return _publicar(c["ig_id"], _criar(c["ig_id"], media_type="CAROUSEL", children=",".join(filhos), caption=legenda,
+                                          **({"collaborators": json.dumps(colaboradores)} if colaboradores else {})))
 
 
 def reels(video: bytes, legenda: str) -> str:

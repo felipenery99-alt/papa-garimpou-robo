@@ -360,10 +360,12 @@ def rodar_instagram(h: dict, agora: datetime) -> None:
         esp = json.loads(esp_arq.read_text(encoding="utf-8"))
         if f"especial {esp['id']}" not in feitos:
             try:
-                por_id = {o["id"]: o for o in json.loads(MANUAIS.read_text(encoding="utf-8"))}
+                por_id = {o["id"]: o for o in h.get("ofertas_dia", [])}
+                por_id.update({o["id"]: o for o in json.loads(MANUAIS.read_text(encoding="utf-8"))})
                 top = [por_id[i] for i in esp["ids"] if i in por_id]
                 slides = [artes.capa_top5(agora.timetuple().tm_yday)] + [artes.post_oferta(o, o["canal"]) for o in top]
-                instagram.carrossel(slides, f"{tag}-{esp['id']}", esp["legenda"])
+                # "colaboradores" (opcional): post Collab, ex. ["achadinhosdos.universo"]
+                instagram.carrossel(slides, f"{tag}-{esp['id']}", esp["legenda"], esp.get("colaboradores"))
                 print(f"[ig] carrossel especial {esp['id']} publicado")
             except Exception as e:
                 telegram.avisar_dono(f"Instagram: carrossel especial {esp['id']} falhou: {e}")
@@ -501,6 +503,38 @@ def rodar_instagram(h: dict, agora: datetime) -> None:
 
 
 CONVITE_STORY = PASTA / "dados" / "convite-story.txt"
+
+
+STORY_LINK = PASTA / "dados" / "story-link.txt"
+
+
+def preparar_story_link(h: dict, agora: datetime) -> None:
+    """01/11 (Central): 1 arte por dia para o story com adesivo de link, que a sessão Instagram publica
+    à mão entre 20h30 e 22h. Sai na 1ª execução depois das 17h: oferta real mais forte do dia
+    (maior % OFF com "de" da loja, mínimo 20%) ou a peça "por que seguir o Papa".
+    Grava "URL | AAAA-MM-DD" em dados/story-link.txt."""
+    import os
+    hoje = agora.date().isoformat()
+    if agora.hour < 17 or h.get("story_link_dia") == hoje or not os.environ.get("META_TOKEN"):
+        return
+    import artes
+    import instagram
+    fortes = [o for o in h.get("ofertas_dia", []) if o.get("dia") == hoje and o.get("preco_antigo")
+              and (o.get("desconto") or 0) >= 20 and o.get("imagem")]
+    arte = None
+    for o in sorted(fortes, key=lambda o: o["desconto"], reverse=True)[:3]:
+        try:
+            arte = artes.story_link(o)
+            break
+        except Exception as e:   # foto que não baixa: tenta a próxima
+            print(f"[story-link] {o['id']}: {e}")
+    try:
+        url = instagram.hospedar(f"{agora:%Y%m%d}-story-link.jpg", arte or artes.story_link(None))
+        STORY_LINK.write_text(f"{url} | {hoje}\n", encoding="utf-8")
+        h["story_link_dia"] = hoje
+        print(f"[story-link] {url}")
+    except Exception as e:
+        print(f"[story-link] falhou: {e}")
 
 
 def convites_story(h: dict, telegram, agora: datetime) -> None:
@@ -722,6 +756,7 @@ def main() -> int:
             continue
         entrar_na_fila(h, canal, ofertas, agora)
     convites_story(h, telegram, agora)
+    preparar_story_link(h, agora)
     socorrer_parados(h, telegram, shopee.buscar_fundo if shopee_ok else None, agora)
     if shopee_ok:
         checar_vendas_shopee(h, telegram, agora)

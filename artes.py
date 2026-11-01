@@ -301,6 +301,53 @@ def tema_oferta(oferta: dict) -> dict:
     return PALETAS_OFERTA[zlib.crc32(str(oferta.get("id", oferta.get("nome", ""))).encode()) % len(PALETAS_OFERTA)]
 
 
+def story_link(oferta: dict | None) -> bytes:
+    """01/11: story publicado à mão na Business Suite com adesivo de link (a API não põe link).
+    Oferta mais forte do dia (preços reais da loja) ou, sem oferta, "por que seguir o Papa".
+    O terço de baixo (y > 1280) fica livre para o adesivo."""
+    tema = tema_oferta(oferta) if oferta else PALETAS_OFERTA[0]
+    img = _gradiente(1080, 1920, *tema["fundo"]).convert("RGBA")
+    d = ImageDraw.Draw(img)
+    _cabecalho(img, tema, y=230)
+    if oferta:
+        img.alpha_composite(_foto_produto(oferta["imagem"], 540), (270, 440))
+        if oferta.get("desconto"):
+            txt = f"-{oferta['desconto']}%"
+            f = _fonte(64)
+            w = d.textlength(txt, font=f) + 64
+            d.rounded_rectangle((850 - w, 410, 880, 520), radius=55, fill=(225, 29, 72))
+            d.text((850 - w + 32, 420), txt, font=f, fill=(255, 255, 255))
+        y = 1000
+        for linha in _quebrar(d, oferta["nome"], _fonte(44, "Bold"), 940):
+            _centro(d, y, linha, _fonte(44, "Bold"), tema["texto"])
+            y += 52
+        y += 8
+        if oferta.get("preco_antigo") and oferta["preco_antigo"] > oferta["preco"]:
+            txt = f"de {_brl(oferta['preco_antigo'])}"
+            f = _fonte(40, "SemiBold")
+            x = (1080 - d.textlength(txt, font=f)) / 2
+            d.text((x, y), txt, font=f, fill=tema["texto"])
+            d.line((x, y + 29, x + d.textlength(txt, font=f), y + 29), fill=tema["texto"], width=4)
+            y += 52
+        por = f"por {_brl(oferta['preco'])}"
+        f = _fonte(66)
+        w = d.textlength(por, font=f) + 70
+        d.rounded_rectangle(((1080 - w) / 2, y, (1080 + w) / 2, y + 92), radius=46, fill=tema["destaque"])
+        _centro(d, y + 6, por, f, tema["destaque_txt"])
+    else:
+        y = 470
+        for t in ("POR QUE", "SEGUIR O PAPA?"):
+            _centro(d, y, t, _fonte(110), tema["texto"])
+            y += 126
+        y += 30
+        for t in ("Só marca boa e loja oficial.", "Desconto de verdade, sem preço maquiado.",
+                  "Achou coisa boa, o Papa posta na hora."):
+            _centro(d, y, t, _fonte(46, "SemiBold"), (255, 255, 255))
+            y += 66
+    _centro(d, 1232, "Todas as ofertas do Papa num lugar só", _fonte(46), tema["texto"] if oferta else (255, 255, 255))
+    return _jpeg(img)
+
+
 def post_oferta(oferta: dict, canal: str) -> bytes:
     """Post de feed 1080x1350 ('Achado do dia')."""
     tema = tema_oferta(oferta)
