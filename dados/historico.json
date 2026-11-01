@@ -272,7 +272,9 @@
   "2026-11-01 achadinhos 11:38 amz-B0DY3G3MJW",
   "2026-11-01 marcas 11:46 amz-B0DVBD54KG",
   "2026-11-01 achadinhos 12:13 amz-B08DFCF9HW",
-  "2026-11-01 tech 12:33 shopee-41253171051"
+  "2026-11-01 tech 12:33 shopee-41253171051",
+  "2026-11-01 marcas 13:05 mgl-SG4-0157-058",
+  "2026-11-01 achadinhos 13:17 amz-B07QKN5NF1"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -553,7 +555,9 @@
   "amz-B0DVBD54KG": "2026-11-01T11:46:00-03:00",
   "amz-B0G6FS95NY": "2026-11-01T11:03:00-03:00",
   "amz-B08DFCF9HW": "2026-11-01T12:13:11.645129-03:00",
-  "shopee-41253171051": "2026-11-01T12:33:42.431605-03:00"
+  "shopee-41253171051": "2026-11-01T12:33:42.431605-03:00",
+  "mgl-SG4-0157-058": "2026-11-01T13:05:00.292225-03:00",
+  "amz-B07QKN5NF1": "2026-11-01T13:17:29.200797-03:00"
  },
  "ofertas_dia": [
   {
@@ -2884,6 +2888,38 @@
    "canal": "tech",
    "entrou": "2026-11-01T09:02:45.202091-03:00",
    "dia": "2026-11-01"
+  },
+  {
+   "id": "mgl-SG4-0157-058",
+   "canal": "marcas",
+   "nome": "Tênis Asics Patriot 14 Feminino",
+   "preco_antigo": 449.99,
+   "preco": 199.49,
+   "desconto": 56,
+   "link": "https://www.magazinevoce.com.br/magazinepapagarimpou/tenis-asics-patriot-14-feminino/p/jkbe6jhfa1/es/osnr/",
+   "imagem": "https://static.netshoes.com.br/produtos/tenis-asics-patriot-14-feminino/58/SG4-0157-058/SG4-0157-058_zoom1.jpg",
+   "loja": "Vendido pela Netshoes · Magalu",
+   "plataforma": "Magalu",
+   "valida_ate": "2026-11-02T13:00:00-03:00",
+   "extra": "no Pix · ⭐ 4,9 (1.206 avaliações)",
+   "gancho": "ASICS PELA METADE DO PREÇO? O PAPA PEGOU",
+   "entrou": "2026-11-01T09:02:45.202091-03:00",
+   "dia": "2026-11-01"
+  },
+  {
+   "id": "amz-B07QKN5NF1",
+   "canal": "achadinhos",
+   "nome": "Liquidificador Mondial Turbo Power 550W Preto",
+   "preco_antigo": 159.9,
+   "preco": 93.79,
+   "desconto": 41,
+   "link": "https://www.amazon.com.br/dp/B07QKN5NF1?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71KFAoTV+hL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-02T22:00:00-03:00",
+   "entrou": "2026-11-01T09:48:35.995946-03:00",
+   "dia": "2026-11-01"
   }
  ],
  "ig_feitos": [
@@ -3009,7 +3045,10 @@
   "2026-11-01 11:50 carrossel_top5",
   "2026-11-01 11:56 story_oferta",
   "2026-11-01 12:15 story_top4",
-  "2026-11-01 12:19 story_oferta"
+  "2026-11-01 12:19 story_oferta",
+  "2026-11-01 feed",
+  "2026-11-01 12:40 reels",
+  "2026-11-01 12:47 story_oferta"
  ],
  "ig_ofertas_usadas": [
   "amz-B0GP7KDZRJ",
@@ -3115,11 +3154,12 @@
   "amz-B0F79VDTM4",
   "amz-B081415GCS",
   "amz-B0CLF2RGNL",
-  "amz-B0DMV2VL35"
+  "amz-B0DMV2VL35",
+  "amz-B0FKVWSM3N"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
- "ig_ultimo_reel": "2026-10-31T21:24:55.457626-03:00",
+ "ig_ultimo_reel": "2026-11-01T12:57:53.316199-03:00",
  "pecas_usadas": {
   "ac-preco-inflado": "2026-10-27",
   "dc-7-dias": "2026-10-27",
@@ -3153,22 +3193,6 @@
  "ultimo_pilar": "blackfriday",
  "fila": [
   {
-   "id": "mgl-SG4-0157-058",
-   "canal": "marcas",
-   "nome": "Tênis Asics Patriot 14 Feminino",
-   "preco_antigo": 449.99,
-   "preco": 199.49,
-   "desconto": 56,
-   "link": "https://www.magazinevoce.com.br/magazinepapagarimpou/tenis-asics-patriot-14-feminino/p/jkbe6jhfa1/es/osnr/",
-   "imagem": "https://static.netshoes.com.br/produtos/tenis-asics-patriot-14-feminino/58/SG4-0157-058/SG4-0157-058_zoom1.jpg",
-   "loja": "Vendido pela Netshoes · Magalu",
-   "plataforma": "Magalu",
-   "valida_ate": "2026-11-02T13:00:00-03:00",
-   "extra": "no Pix · ⭐ 4,9 (1.206 avaliações)",
-   "gancho": "ASICS PELA METADE DO PREÇO? O PAPA PEGOU",
-   "entrou": "2026-11-01T09:02:45.202091-03:00"
-  },
-  {
    "id": "mgl-SG4-01QZ-842",
    "canal": "marcas",
    "nome": "Tênis Asics Gel-Venture 11 Feminino",
@@ -3198,20 +3222,6 @@
    "extra": "no Pix · ⭐ 4,8 (537 avaliações)",
    "gancho": "PRA CORRER MAIS E PAGAR MENOS",
    "entrou": "2026-11-01T09:02:45.202091-03:00"
-  },
-  {
-   "id": "amz-B07QKN5NF1",
-   "canal": "achadinhos",
-   "nome": "Liquidificador Mondial Turbo Power 550W Preto",
-   "preco_antigo": 159.9,
-   "preco": 93.79,
-   "desconto": 41,
-   "link": "https://www.amazon.com.br/dp/B07QKN5NF1?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/71KFAoTV+hL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-02T22:00:00-03:00",
-   "entrou": "2026-11-01T09:48:35.995946-03:00"
   },
   {
    "id": "amz-B09SVR1XR5",
@@ -3570,6 +3580,23 @@
    "link": "https://s.shopee.com.br/6q1tAx3MNf",
    "canal": "marcas",
    "entrou": "2026-11-01T12:29:30.935454-03:00"
+  },
+  {
+   "id": "shopee-9739004991",
+   "plataforma": "Shopee",
+   "nome": "Cabo Carregador Tipo C 2 Metros Turbo Premium Reforçado Android Xiaomi USB Dados",
+   "loja": "Shop Aquarela",
+   "loja_oficial": true,
+   "preco": 20.9,
+   "preco_antigo": 31.19,
+   "desconto": 33,
+   "vendas": 569,
+   "nota": 4.9,
+   "comissao_pct": 13.0,
+   "imagem": "https://cf.shopee.com.br/file/br-11134207-820l8-muxk686c53b4ab",
+   "link": "https://s.shopee.com.br/5AtiXcLCrT",
+   "canal": "tech",
+   "entrou": "2026-11-01T12:57:53.316199-03:00"
   }
  ],
  "menus_fixados": [
@@ -3702,7 +3729,9 @@
   "garrafatermicastanleyslimbottle591ml": "2026-11-01T11:46:00-03:00",
   "jogosarosedicaostandardps5": "2026-11-01T11:03:00-03:00",
   "liquidificadoroster1400full32lpreto127v": "2026-11-01T12:13:11.645129-03:00",
-  "baseusbp1proancfonedeouvidosemfio50dbreducaoderuidodealtaresolucaobluetooth60ipx55aprovadagua": "2026-11-01T12:33:42.431605-03:00"
+  "baseusbp1proancfonedeouvidosemfio50dbreducaoderuidodealtaresolucaobluetooth60ipx55aprovadagua": "2026-11-01T12:33:42.431605-03:00",
+  "tenisasicspatriot14feminino": "2026-11-01T13:05:00.292225-03:00",
+  "liquidificadormondialturbopower550wpreto": "2026-11-01T13:17:29.200797-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
@@ -3728,6 +3757,13 @@
    "nike-079609MT",
    "shopee-23398337380",
    "shopee-16185215321"
+  ],
+  "2026-11-01": [
+   "amz-B08LPJ1FTK",
+   "shopee-41253171051",
+   "amz-B0F79VDTM4",
+   "amz-B0G6FS95NY",
+   "shopee-18597753531"
   ]
  },
  "vendas_shopee": {},
