@@ -105,36 +105,29 @@ def _normalizar(n: dict) -> dict:
 
 
 # 01/11 (dono: "eu recebo notificação por venda?"): relatório de conversões da Open API.
-# Campos conferidos de memória; se a consulta completa falhar, tenta a mínima antes de desistir.
-QUERY_VENDAS = """
-query($ini:Int64,$fim:Int64,$scroll:String){
-  conversionReport(purchaseTimeStart:$ini, purchaseTimeEnd:$fim, limit:100, scrollId:$scroll){
-    nodes{ conversionId purchaseTime totalCommission
-      orders{ orderId orderStatus items{ itemName itemTotalCommission } } }
-    pageInfo{ hasNextPage scrollId }
-  }
-}
-"""
-QUERY_VENDAS_MIN = """
-query($ini:Int64,$fim:Int64,$scroll:String){
-  conversionReport(purchaseTimeStart:$ini, purchaseTimeEnd:$fim, limit:100, scrollId:$scroll){
-    nodes{ conversionId purchaseTime totalCommission }
-    pageInfo{ hasNextPage scrollId }
-  }
-}
-"""
+# 1ª versão usava variáveis $ini:Int64 e a API respondeu "wrong type" (10010): os valores vão
+# escritos direto na consulta, como nos exemplos da doc. Se a completa falhar, tenta a mínima.
+CAMPOS_VENDAS = ("conversionId purchaseTime totalCommission "
+                 "orders{ orderId orderStatus items{ itemName itemTotalCommission } }")
+CAMPOS_VENDAS_MIN = "conversionId purchaseTime totalCommission"
+
+
+def _query_vendas(campos: str, ini: int, fim: int, scroll: str | None) -> str:
+    args = f"purchaseTimeStart:{ini}, purchaseTimeEnd:{fim}, limit:100"
+    if scroll:
+        args += f", scrollId:{json.dumps(scroll)}"
+    return f"{{ conversionReport({args}){{ nodes{{ {campos} }} pageInfo{{ hasNextPage scrollId }} }} }}"
 
 
 def vendas(desde: int, ate: int | None = None) -> list[dict]:
     """Conversões (vendas com comissão) entre os timestamps `desde` e `ate`."""
     ate = ate or int(time.time())
     ultimo_erro = None
-    for q in (QUERY_VENDAS, QUERY_VENDAS_MIN):
+    for campos in (CAMPOS_VENDAS, CAMPOS_VENDAS_MIN):
         saida, scroll = [], None
         try:
             for _ in range(10):
-                payload = json.dumps({"query": q, "variables": {"ini": desde, "fim": ate, "scroll": scroll}},
-                                     separators=(",", ":"))
+                payload = json.dumps({"query": _query_vendas(campos, desde, ate, scroll)}, separators=(",", ":"))
                 r = requests.post(URL, data=payload, headers=_assinar(payload), timeout=40)
                 r.raise_for_status()
                 dados = r.json()
