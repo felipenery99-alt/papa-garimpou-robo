@@ -290,7 +290,11 @@
   "2026-11-01 tech 16:07 amz-B0DN4RM6X7",
   "2026-11-01 achadinhos 16:22 amz-B09SVR1XR5",
   "2026-11-01 marcas 16:28 amz-B0BHJN641R",
-  "2026-11-01 marcas 16:39 amz-B0DJ9859GP"
+  "2026-11-01 marcas 16:39 amz-B0DJ9859GP",
+  "2026-11-01 achadinhos 16:53 amz-B0DRPNMS7K",
+  "2026-11-01 tech 17:06 amz-B0BDHYF8YS",
+  "2026-11-01 tech 17:15 amz-B0FDX9MDXK",
+  "2026-11-01 achadinhos 17:25 amz-B094S8TXCT"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -589,7 +593,11 @@
   "amz-B0DN4RM6X7": "2026-11-01T16:07:33.234690-03:00",
   "amz-B09SVR1XR5": "2026-11-01T16:22:40.723229-03:00",
   "amz-B0BHJN641R": "2026-11-01T16:28:25.629491-03:00",
-  "amz-B0DJ9859GP": "2026-11-01T16:39:20.802193-03:00"
+  "amz-B0DJ9859GP": "2026-11-01T16:39:20.802193-03:00",
+  "amz-B0DRPNMS7K": "2026-11-01T16:53:14.348471-03:00",
+  "amz-B0BDHYF8YS": "2026-11-01T17:06:42.082670-03:00",
+  "amz-B0FDX9MDXK": "2026-11-01T17:15:13.390968-03:00",
+  "amz-B094S8TXCT": "2026-11-01T17:25:54.623454-03:00"
  },
  "ofertas_dia": [
   {
@@ -3211,6 +3219,69 @@
    "gancho": "PUMA DE CORRIDA PELA METADE",
    "entrou": "2026-11-01T14:05:58.923636-03:00",
    "dia": "2026-11-01"
+  },
+  {
+   "id": "amz-B0DRPNMS7K",
+   "canal": "achadinhos",
+   "nome": "Mixer Oster Power Black Inox 3 em 1 (220V)",
+   "preco_antigo": 449.9,
+   "preco": 218.0,
+   "desconto": 52,
+   "link": "https://www.amazon.com.br/dp/B0DRPNMS7K?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51XPbL4bx3L._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-02T22:00:00-03:00",
+   "extra": "Versão 220V",
+   "entrou": "2026-11-01T14:05:58.923636-03:00",
+   "dia": "2026-11-01"
+  },
+  {
+   "id": "amz-B0BDHYF8YS",
+   "canal": "tech",
+   "nome": "Headset Gamer HyperX Cloud Stinger",
+   "preco_antigo": 269.9,
+   "preco": 188.73,
+   "desconto": 30,
+   "link": "https://www.amazon.com.br/dp/B0BDHYF8YS?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51PgS3bqxmL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-02T22:00:00-03:00",
+   "entrou": "2026-11-01T14:05:58.923636-03:00",
+   "dia": "2026-11-01"
+  },
+  {
+   "id": "amz-B0FDX9MDXK",
+   "canal": "tech",
+   "nome": "Smartwatch Samsung Galaxy Watch8 44mm LTE",
+   "preco_antigo": 3499.0,
+   "preco": 1599.99,
+   "desconto": 54,
+   "link": "https://www.amazon.com.br/dp/B0FDX9MDXK?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/41RnHMx5UzL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-02T22:00:00-03:00",
+   "gancho": "GALAXY WATCH8 COM MAIS DE 50% OFF",
+   "entrou": "2026-11-01T14:05:58.923636-03:00",
+   "dia": "2026-11-01"
+  },
+  {
+   "id": "amz-B094S8TXCT",
+   "canal": "achadinhos",
+   "nome": "Potes Herméticos Electrolux com Tampa de Bambu",
+   "preco_antigo": 159.0,
+   "preco": 69.9,
+   "desconto": 56,
+   "link": "https://www.amazon.com.br/dp/B094S8TXCT?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61caPiaI40L._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-02T22:00:00-03:00",
+   "gancho": "POTE ELECTROLUX PELA METADE DO PREÇO",
+   "entrou": "2026-11-01T14:05:58.923636-03:00",
+   "dia": "2026-11-01"
   }
  ],
  "ig_feitos": [
@@ -3344,7 +3415,8 @@
   "2026-11-01 14:08 story_oferta",
   "2026-11-01 15:00 adivinha",
   "2026-11-01 15:03 story_oferta",
-  "2026-11-01 16:05 adivinha_resposta"
+  "2026-11-01 16:05 adivinha_resposta",
+  "2026-11-01 16:44 story_oferta"
  ],
  "ig_ofertas_usadas": [
   "amz-B0GP7KDZRJ",
@@ -3456,7 +3528,8 @@
   "shopee-22497648129",
   "amz-B0GNDQ1SBY",
   "amz-B08LPJ1FTK",
-  "amz-B0B72QZXCC"
+  "amz-B0B72QZXCC",
+  "amz-B0D7DVQ188"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
@@ -3494,36 +3567,6 @@
  "ultimo_pilar": "blackfriday",
  "fila": [
   {
-   "id": "amz-B0DRPNMS7K",
-   "canal": "achadinhos",
-   "nome": "Mixer Oster Power Black Inox 3 em 1 (220V)",
-   "preco_antigo": 449.9,
-   "preco": 218.0,
-   "desconto": 52,
-   "link": "https://www.amazon.com.br/dp/B0DRPNMS7K?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51XPbL4bx3L._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-02T22:00:00-03:00",
-   "extra": "Versão 220V",
-   "entrou": "2026-11-01T14:05:58.923636-03:00"
-  },
-  {
-   "id": "amz-B094S8TXCT",
-   "canal": "achadinhos",
-   "nome": "Potes Herméticos Electrolux com Tampa de Bambu",
-   "preco_antigo": 159.0,
-   "preco": 69.9,
-   "desconto": 56,
-   "link": "https://www.amazon.com.br/dp/B094S8TXCT?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61caPiaI40L._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-02T22:00:00-03:00",
-   "gancho": "POTE ELECTROLUX PELA METADE DO PREÇO",
-   "entrou": "2026-11-01T14:05:58.923636-03:00"
-  },
-  {
    "id": "amz-B0F1C2BS84",
    "canal": "marcas",
    "nome": "Tênis Olympikus Vértice Feminino",
@@ -3551,35 +3594,6 @@
    "plataforma": "Amazon",
    "valida_ate": "2026-11-02T22:00:00-03:00",
    "extra": "Preço a partir de: varia por tamanho e cor",
-   "entrou": "2026-11-01T14:05:58.923636-03:00"
-  },
-  {
-   "id": "amz-B0BDHYF8YS",
-   "canal": "tech",
-   "nome": "Headset Gamer HyperX Cloud Stinger",
-   "preco_antigo": 269.9,
-   "preco": 188.73,
-   "desconto": 30,
-   "link": "https://www.amazon.com.br/dp/B0BDHYF8YS?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51PgS3bqxmL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-02T22:00:00-03:00",
-   "entrou": "2026-11-01T14:05:58.923636-03:00"
-  },
-  {
-   "id": "amz-B0FDX9MDXK",
-   "canal": "tech",
-   "nome": "Smartwatch Samsung Galaxy Watch8 44mm LTE",
-   "preco_antigo": 3499.0,
-   "preco": 1599.99,
-   "desconto": 54,
-   "link": "https://www.amazon.com.br/dp/B0FDX9MDXK?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/41RnHMx5UzL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-02T22:00:00-03:00",
-   "gancho": "GALAXY WATCH8 COM MAIS DE 50% OFF",
    "entrou": "2026-11-01T14:05:58.923636-03:00"
   },
   {
@@ -4128,7 +4142,11 @@
   "mousesemfiologitechm196bluetooth": "2026-11-01T16:07:33.234690-03:00",
   "liquidificadorelectroluxinoxcomjarradevidro": "2026-11-01T16:22:40.723229-03:00",
   "techtshirtinsidergolavmasculina": "2026-11-01T16:28:25.629491-03:00",
-  "tenisdecorridapumadarterpro": "2026-11-01T16:39:20.802193-03:00"
+  "tenisdecorridapumadarterpro": "2026-11-01T16:39:20.802193-03:00",
+  "mixerosterpowerblackinox3em1220v": "2026-11-01T16:53:14.348471-03:00",
+  "headsetgamerhyperxcloudstinger": "2026-11-01T17:06:42.082670-03:00",
+  "smartwatchsamsunggalaxywatch844mmlte": "2026-11-01T17:15:13.390968-03:00",
+  "poteshermeticoselectroluxcomtampadebambu": "2026-11-01T17:25:54.623454-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [

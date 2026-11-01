@@ -288,12 +288,12 @@
   "erros": [
    "não consegui ler as vendas da Shopee hoje: relatório de vendas da Shopee: [{'message': 'wrong type', 'extensions': {'code': 10010, 'message': 'wrong type'}}]"
   ],
-  "ultima_execucao": "16:23",
-  "execucoes": 13,
+  "ultima_execucao": "16:47",
+  "execucoes": 14,
   "telegram_posts": {
-   "achadinhos": 19,
+   "achadinhos": 21,
    "marcas": 16,
-   "tech": 13
+   "tech": 15
   },
   "telegram_membros": {
    "achadinhos": 3,
@@ -322,21 +322,22 @@
    "14:08 story_oferta",
    "15:00 adivinha",
    "15:03 story_oferta",
-   "16:05 adivinha_resposta"
+   "16:05 adivinha_resposta",
+   "16:44 story_oferta"
   ],
   "shopee_ligada": true,
   "instagram": {
-   "seguidores": 119,
+   "seguidores": 120,
    "posts": 35,
    "reach": 46,
-   "profile_views": 71,
+   "profile_views": 72,
    "website_clicks": 1,
    "stories_ativos": 25
   },
   "ultimo_post": {
-   "achadinhos": "16:22",
+   "achadinhos": "17:25",
    "marcas": "16:39",
-   "tech": "16:07"
+   "tech": "17:15"
   },
   "convites_story": {
    "story-20261101": 0
