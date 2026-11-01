@@ -46,3 +46,12 @@
 - Decidido (alavanca nova): toda legenda do Telegram agora termina com "📲 Mande pra quem vai gostar · mais achados grátis: t.me/<canal>". Quem encaminha ou copia a oferta pro WhatsApp leva junto o link do canal, e quem recebe consegue entrar. Custo zero, #publi mantido. Ensaio OK.
 - Próximo: medir membros em 01/11 e 02/11. Domingo (01/11): +30 peças no banco e pesquisa de contas grandes. BF nas BUSCAS a partir de 03/11. Tech só rende pela Amazon; avaliar termos tech na Shopee (loja oficial) se continuar baixo.
 - Pedido ao dono: (1) divulgar os 4 canais uma vez no status do WhatsApp (custo zero); (2) conferir se o link da bio do Instagram mostra os 4 canais.
+
+## 2026-11-01 (rotina do CEO, domingo)
+- Visto (31/10): 36 execuções (fila repete algumas), 0 erros. Telegram: 22 achadinhos, 18 marcas, 7 tech (tech caindo: 38→14→7). Instagram: 25 stories ativos (piso ok), feed ok (3 Reels), seguidores 72→97 (+25), alcance 64, visitas 50, cliques no link 4. Membros: 3+2+3+3 = 11.
+- META: Instagram 97 de 195 até 10/11 (no ritmo: precisa ~10/dia, fez +25). Telegram 11 de 30 até 03/11 (atrasado).
+- Domingo: +30 peças no `conteudo.py` (107 no total, 98 servem para story; antes eram 68, abaixo das ~96 que 24 stories/dia com volta em 4 dias pedem). Temas novos: golpes (boleto, QR, WhatsApp), Black Friday e Natal sem urgência falsa, parcelamento, voltagem, preço por dose de whey.
+- Alavanca nova (Telegram atrasado): peças "COMO ENTRAR em 10 segundos", canal Tech e canal Todas as Ofertas (não tinham peça própria), "manda pra alguém" e story "responde este story". Peça "3 canais" corrigida para 4 canais com o @ de cada um. Ensaio OK.
+- Pesquisa de contas grandes: (1) stories com pergunta e resposta mantêm o público fiel → criada a peça "O que o Papa garimpa amanhã? Responde este story"; (2) intercalar oferta com conteúdo de valor, para não parecer só vitrine → o lote novo reforça dica e anticilada. Venda de seguidores e membros aparece muito nas buscas: descartado (bots, perde credibilidade).
+- Próximo: BF nas BUSCAS a partir de 03/11; se tech seguir abaixo de 10/dia, incluir termos tech de loja oficial na Shopee.
+- Pedido ao dono: divulgar os 4 canais uma vez no status do WhatsApp (custo zero).
