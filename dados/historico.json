@@ -280,7 +280,8 @@
   "2026-11-01 achadinhos 14:11 amz-B0776VT6KN",
   "2026-11-01 tech 14:24 amz-B0GYQ8Q5QR",
   "2026-11-01 achadinhos 14:37 amz-B0C7FBYDFP",
-  "2026-11-01 marcas 14:44 shopee-22497648129"
+  "2026-11-01 marcas 14:44 shopee-22497648129",
+  "2026-11-01 achadinhos 14:51 amz-B077C2VVJ7"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -569,7 +570,8 @@
   "amz-B0776VT6KN": "2026-11-01T14:11:38.074862-03:00",
   "amz-B0GYQ8Q5QR": "2026-11-01T14:24:53.213736-03:00",
   "amz-B0C7FBYDFP": "2026-11-01T14:37:14.007409-03:00",
-  "shopee-22497648129": "2026-11-01T14:44:16.260433-03:00"
+  "shopee-22497648129": "2026-11-01T14:44:16.260433-03:00",
+  "amz-B077C2VVJ7": "2026-11-01T14:51:03.742152-03:00"
  },
  "ofertas_dia": [
   {
@@ -3028,6 +3030,22 @@
    "canal": "marcas",
    "entrou": "2026-11-01T12:29:30.935454-03:00",
    "dia": "2026-11-01"
+  },
+  {
+   "id": "amz-B077C2VVJ7",
+   "canal": "achadinhos",
+   "nome": "NIVEA Demaquilante Bifásico 125ml",
+   "preco_antigo": 32.3,
+   "preco": 18.71,
+   "desconto": 42,
+   "link": "https://www.amazon.com.br/dp/B077C2VVJ7?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51JGBPAxkHL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-02T22:00:00-03:00",
+   "gancho": "NIVEA TIRA ATÉ RÍMEL TEIMOSO E O PREÇO TAMBÉM CAIU",
+   "entrou": "2026-11-01T12:29:30.935454-03:00",
+   "dia": "2026-11-01"
   }
  ],
  "ig_feitos": [
@@ -3156,7 +3174,10 @@
   "2026-11-01 12:40 reels",
   "2026-11-01 12:47 story_oferta",
   "2026-11-01 13:20 story_convite",
-  "2026-11-01 13:22 story_oferta"
+  "2026-11-01 13:22 story_oferta",
+  "2026-11-01 feed",
+  "2026-11-01 14:25 post_achado",
+  "2026-11-01 14:08 story_oferta"
  ],
  "ig_ofertas_usadas": [
   "amz-B0GP7KDZRJ",
@@ -3264,7 +3285,9 @@
   "amz-B0CLF2RGNL",
   "amz-B0DMV2VL35",
   "amz-B0FKVWSM3N",
-  "amz-B09GL5MXNV"
+  "amz-B09GL5MXNV",
+  "shopee-22497648129",
+  "amz-B0GNDQ1SBY"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
@@ -3301,21 +3324,6 @@
  },
  "ultimo_pilar": "blackfriday",
  "fila": [
-  {
-   "id": "amz-B077C2VVJ7",
-   "canal": "achadinhos",
-   "nome": "NIVEA Demaquilante Bifásico 125ml",
-   "preco_antigo": 32.3,
-   "preco": 18.71,
-   "desconto": 42,
-   "link": "https://www.amazon.com.br/dp/B077C2VVJ7?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51JGBPAxkHL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-02T22:00:00-03:00",
-   "gancho": "NIVEA TIRA ATÉ RÍMEL TEIMOSO E O PREÇO TAMBÉM CAIU",
-   "entrou": "2026-11-01T12:29:30.935454-03:00"
-  },
   {
    "id": "amz-B0FJMLM9TS",
    "canal": "achadinhos",
@@ -3586,6 +3594,36 @@
    "plataforma": "Amazon",
    "valida_ate": "2026-11-02T22:00:00-03:00",
    "entrou": "2026-11-01T14:05:58.923636-03:00"
+  },
+  {
+   "id": "amz-B0G4581RM9",
+   "canal": "marcas",
+   "nome": "Tênis New Balance Fresh Foam Arishi v4 Masculino",
+   "preco_antigo": 499.99,
+   "preco": 284.99,
+   "desconto": 43,
+   "link": "https://www.amazon.com.br/dp/B0G4581RM9?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51dQq0r1QKL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-01T23:59:00-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "entrou": "2026-11-01T14:44:36.552674-03:00"
+  },
+  {
+   "id": "amz-B0G72J3245",
+   "canal": "marcas",
+   "nome": "Tênis New Balance BB80 Unissex",
+   "preco_antigo": 399.99,
+   "preco": 256.49,
+   "desconto": 36,
+   "link": "https://www.amazon.com.br/dp/B0G72J3245?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/512G2QQesLL._AC_SL1200_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-01T23:59:00-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "entrou": "2026-11-01T14:44:36.552674-03:00"
   }
  ],
  "menus_fixados": [
@@ -3726,7 +3764,8 @@
   "jogodesoqueteseponteirasvonder1433pecas": "2026-11-01T14:11:38.074862-03:00",
   "smarttvtcl50qled4kp7lgoogletv": "2026-11-01T14:24:53.213736-03:00",
   "cafeteiraespressoosterprimalattetouchred127v": "2026-11-01T14:37:14.007409-03:00",
-  "topfitnessfemininolupotoppowerpoliamidasemcosturaaltasustentacaosembojoacademiadiario": "2026-11-01T14:44:16.260433-03:00"
+  "topfitnessfemininolupotoppowerpoliamidasemcosturaaltasustentacaosembojoacademiadiario": "2026-11-01T14:44:16.260433-03:00",
+  "niveademaquilantebifasico125ml": "2026-11-01T14:51:03.742152-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
