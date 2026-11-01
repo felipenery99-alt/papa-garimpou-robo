@@ -309,10 +309,27 @@ def tema_oferta(oferta: dict) -> dict:
     return PALETAS_OFERTA[zlib.crc32(str(oferta.get("id", oferta.get("nome", ""))).encode()) % len(PALETAS_OFERTA)]
 
 
-def story_link(oferta: dict | None) -> bytes:
+def story_link(oferta: dict | None, top10: bool = False) -> bytes:
     """01/11: story publicado à mão na Business Suite com adesivo de link (a API não põe link).
     Oferta mais forte do dia (preços reais da loja) ou, sem oferta, "por que seguir o Papa".
+    Aos sábados (`top10`): chamada para o TOP 10 da semana no Telegram.
     O terço de baixo (y > 1280) fica livre para o adesivo."""
+    if top10:
+        tema = PALETAS_OFERTA[2]
+        img = _gradiente(1080, 1920, *tema["fundo"]).convert("RGBA")
+        d = ImageDraw.Draw(img)
+        _cabecalho(img, tema, y=230)
+        y = 450
+        for t, tam, cor in (("TOP 10", 190, tema["texto"]), ("DA SEMANA", 110, (255, 255, 255)),
+                            ("TÁ ROLANDO", 110, tema["texto"])):
+            _centro(d, y, t, _fonte(tam), cor)
+            y += tam + 20
+        y += 20
+        for t in ("Os 10 maiores descontos da semana,", "um a um, ainda no preço."):
+            _centro(d, y, t, _fonte(46, "SemiBold"), (255, 255, 255))
+            y += 64
+        _centro(d, 1232, "Agora no Telegram, grátis", _fonte(50), tema["texto"])
+        return _jpeg(img)
     tema = tema_oferta(oferta) if oferta else PALETAS_OFERTA[0]
     img = _gradiente(1080, 1920, *tema["fundo"]).convert("RGBA")
     d = ImageDraw.Draw(img)

@@ -766,8 +766,9 @@ def preparar_story_link(h: dict, agora: datetime) -> None:
     import instagram
     fortes = [o for o in h.get("ofertas_dia", []) if o.get("dia") == hoje and o.get("preco_antigo")
               and (o.get("desconto") or 0) >= 20 and o.get("imagem")]
-    arte = None
-    for o in sorted(fortes, key=lambda o: o["desconto"], reverse=True)[:3]:
+    # sábado: o story com link chama para o TOP 10 da semana (sessão Instagram, 01/11)
+    arte = artes.story_link(None, top10=True) if agora.weekday() == config.TOP10_DIA_SEMANA else None
+    for o in ([] if arte else sorted(fortes, key=lambda o: o["desconto"], reverse=True)[:3]):
         try:
             arte = artes.story_link(o)
             break
