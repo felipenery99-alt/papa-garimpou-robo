@@ -170,9 +170,10 @@ RESPOSTA_DM = ("Oi! Aqui é o Papa 😎💎\n\nAchou coisa boa de marca, em loja
                "💎 Quer tudo num lugar só? https://t.me/papagarimpouofertas\n\nÉ só entrar e ativar as notificações!")
 
 
-def responder_comentarios(ja_respondidos: set) -> list[str]:
+def responder_comentarios(ja_respondidos: set, dm_por_post: dict | None = None) -> list[str]:
     """Quem comenta QUERO/LINK/EU nos últimos posts recebe os links na DM (resposta privada)
-    e uma resposta pública curta. Devolve os ids de comentário respondidos agora."""
+    e uma resposta pública curta. Devolve os ids de comentário respondidos agora.
+    `dm_por_post` (01/11): texto próprio por post, ex. os 5 links do carrossel salvável."""
     c = conta()
     feitos = []
     posts = requests.get(f"{G}/{c['ig_id']}/media", params={"access_token": _token(), "fields": "id", "limit": 6}, timeout=30).json()
@@ -187,7 +188,7 @@ def responder_comentarios(ja_respondidos: set) -> list[str]:
             ok_dm = False
             if c.get("page_token"):
                 r = requests.post(f"{G}/{c['page_id']}/messages", params={"access_token": c["page_token"]},
-                                  json={"recipient": {"comment_id": cm["id"]}, "message": {"text": RESPOSTA_DM}}, timeout=30).json()
+                                  json={"recipient": {"comment_id": cm["id"]}, "message": {"text": (dm_por_post or {}).get(p["id"], RESPOSTA_DM)}}, timeout=30).json()
                 ok_dm = "message_id" in r or "recipient_id" in r
             publica = "Te mandei no direct! 💎" if ok_dm else "Os links estão na bio, é grátis! 💎"
             requests.post(f"{G}/{cm['id']}/replies", data={"access_token": _token(), "message": publica}, timeout=30)

@@ -25,8 +25,10 @@ INSTAGRAM_PERMITIDO = "papa.garimpou"
 STORIES_MINIMOS = 3   # o robô nunca deixa menos de 3 stories no ar (regra do dono)
 INSTAGRAM_AGENDA = [
     ("08:45", "story_oferta"), ("10:20", "story_oferta"), ("11:50", "carrossel_top5"),
-    ("12:15", "story_top4"), ("13:20", "story_convite"), ("15:00", "story_oferta"), ("17:30", "reels"),
-    ("18:05", "story_oferta"), ("19:15", "post_achado"), ("20:35", "story_top4"),
+    # 01/11 (Central): interativos "responde no direct" no lugar de story de oferta comum —
+    # adivinha o preço 15h (resposta ~1 h depois), A ou B 18h05; às quintas o post das 19h15 vira o carrossel salvável
+    ("12:15", "story_top4"), ("13:20", "story_convite"), ("15:00", "adivinha"), ("17:30", "reels"),
+    ("18:05", "a_ou_b"), ("19:15", "post_achado"), ("20:35", "story_top4"),
     ("21:20", "story_convite"),  # 29/10: 2º convite no pico da noite (Telegram parado em 2 membros/canal)
     # 29/10, dono: "alimentar o feed" — mais 4 posts de achado (sem oferta, sai peça do banco)
     ("09:35", "post_achado"), ("14:25", "post_achado"), ("16:55", "post_achado"), ("20:50", "post_achado"),
@@ -36,9 +38,19 @@ INSTAGRAM_AGENDA = [
 
 # Dono, 28/10: "o Will posta 20 stories por dia pelo menos". Além da agenda acima, cada
 # execução do robo.yml publica 1 story (oferta do dia; sem oferta, peça do banco) → ~25/dia.
+INSTAGRAM_AGENDA += [("16:05", "adivinha_resposta")]   # 15:51 virou a resposta do adivinha
 INSTAGRAM_AGENDA += [(hm, "story_oferta") for hm in [
     "08:07", "08:52", "09:38", "10:24", "11:11", "11:56", "12:19", "12:47", "13:22", "14:08",
-    "15:03", "15:51", "16:44", "17:36", "18:09", "18:42", "19:17", "20:03", "20:38", "21:24"]]
+    "15:03", "16:44", "17:36", "18:09", "18:42", "19:17", "20:03", "20:38", "21:24"]]
+
+# Carrossel "salvável" semanal (quinta, 19h15): 5 melhores de marca até R$ X, girando a categoria.
+# (nome na capa, palavras que o nome do produto precisa ter, teto de preço)
+SALVAVEIS = [
+    ("fones de ouvido", ("fone", "headset", "buds"), 300),
+    ("air fryers", ("air fryer", "airfryer", "fritadeira"), 600),
+    ("tênis de corrida", ("tênis", "tenis"), 500),
+]
+SALVAVEL_DIA_SEMANA = 3   # quinta
 
 # ---------------------------------------------------------------------------
 # RITMO
@@ -65,7 +77,7 @@ BUSCA_EXTRA_TERMOS = 4         # canal parado e sem item na fila: busca extra (p
 FILA_VALIDADE_H = 4            # oferta parada na fila há mais que isso sai (o preço pode ter mudado)
 # Horários das execuções do robo.yml em Brasília (para a fila parar antes da próxima)
 EXECUCOES = ["08:07", "08:52", "09:38", "10:24", "11:11", "11:56", "12:19", "12:47", "13:22", "14:08",
-             "15:03", "15:51", "16:44", "17:36", "18:09", "18:42", "19:17", "20:03", "20:38", "21:24"]
+             "15:03", "16:44", "17:36", "18:09", "18:42", "19:17", "20:03", "20:38", "21:24"]
 FUSO = "America/Sao_Paulo"
 # Picos (peso maior no sorteio): almoço, fim de tarde, noite
 PICOS = [((12, 0), (13, 30)), ((18, 0), (19, 30)), ((20, 30), (22, 0))]

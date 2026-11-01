@@ -358,6 +358,94 @@ def post_do_banco(h: dict, agora: datetime, chave: str) -> None:
         print(f"[ig] publicado {chave} (post do banco {pc['id']})")
 
 
+INTERATIVOS = PASTA / "dados" / "interativos-hoje.json"
+
+
+def registrar_interativo(agora: datetime, tipo: str, ofertas: list[dict]) -> None:
+    """dados/interativos-hoje.json: o que saiu em cada story interativo do dia (a sessão Instagram
+    usa para responder os directs com produto, preço e link)."""
+    hoje = agora.date().isoformat()
+    reg = json.loads(INTERATIVOS.read_text(encoding="utf-8")) if INTERATIVOS.exists() else {}
+    if reg.get("dia") != hoje:
+        reg = {"dia": hoje, "itens": []}
+    reg["itens"].append({"tipo": tipo, "hora": f"{agora:%H:%M}", "produtos": [
+        {k: o.get(k) for k in ("nome", "preco_antigo", "preco", "desconto", "link", "loja", "canal")} for o in ofertas]})
+    INTERATIVOS.write_text(json.dumps(reg, ensure_ascii=False, indent=1), encoding="utf-8")
+
+
+def publicar_interativo(tipo: str, h: dict, agora: datetime, tag: str, ofertas: list[dict], usadas: list) -> bool:
+    """01/11 (Central): stories "responde no direct" (a Business Suite não tem enquete/pergunta).
+    Devolve False quando não há oferta que sirva; aí o horário vira story de oferta comum."""
+    import artes
+    import instagram
+    hoje = agora.date().isoformat()
+    if tipo == "adivinha":
+        boas = [o for o in ofertas if o.get("imagem") and o.get("preco_antigo") and (o.get("desconto") or 0) >= 20]
+        if not boas:
+            return False
+        o = max(boas, key=lambda o: o["desconto"])
+        instagram.story(artes.story_adivinha(o), f"{tag}-adivinha-{o['id']}.jpg")
+        h["adivinha"] = {"dia": hoje, "oferta": o}
+    elif tipo == "adivinha_resposta":
+        o = (h.get("adivinha") or {}).get("oferta")
+        if not o or h["adivinha"].get("dia") != hoje:
+            return False
+        instagram.story(artes.story_oferta(o, o["canal"], selo="RESPOSTA DO ADIVINHA"), f"{tag}-resposta-{o['id']}.jpg")
+    elif tipo == "a_ou_b":
+        por_canal = {}
+        for o in ofertas:
+            if o.get("imagem"):
+                por_canal.setdefault(o["canal"], []).append(o)
+        pares = [sorted(v, key=qualidade.pontuar, reverse=True)[:2] for v in por_canal.values() if len(v) >= 2]
+        if not pares:
+            return False
+        o = max(pares, key=lambda p: sum(qualidade.pontuar(x) for x in p))
+        instagram.story(artes.story_a_ou_b(*o), f"{tag}-aoub-{o[0]['id']}.jpg")
+        o = list(o)
+    else:
+        return False
+    escolhidas = o if isinstance(o, list) else [o]
+    for x in escolhidas:
+        if x in ofertas:
+            ofertas.remove(x)
+            usadas.append(x["id"])
+    registrar_interativo(agora, tipo, escolhidas)
+    return True
+
+
+def publicar_salvavel(h: dict, agora: datetime, tag: str) -> bool:
+    """Carrossel semanal "salvável": 5 melhores <categoria> de marca até R$ X (ofertas reais dos últimos
+    7 dias + fila manual), girando a categoria. Quem comenta QUERO recebe os 5 links no direct."""
+    import artes
+    import instagram
+    semana = (agora - timedelta(days=7)).date().isoformat()
+    pool = [o for o in h.get("ofertas_dia", []) if o.get("dia", "") >= semana] + carregar_manuais(h, agora)
+    n = len(config.SALVAVEIS)
+    for k in range(n):
+        cat, palavras, teto = config.SALVAVEIS[(agora.isocalendar()[1] + k) % n]
+        vistos, top = set(), []
+        for o in sorted(pool, key=lambda o: o.get("desconto") or 0, reverse=True):
+            nome = (o.get("nome") or "").lower()
+            if o.get("imagem") and o.get("link") and o["preco"] <= teto and any(p in nome for p in palavras) \
+                    and chave_nome(o["nome"]) not in vistos:
+                vistos.add(chave_nome(o["nome"]))
+                top.append(o)
+        if len(top) < 5:
+            continue
+        top = top[:5]
+        lista = "\n".join(f"{i+1}. {o['nome'][:60]} — {post._brl(o['preco'])}" for i, o in enumerate(top))
+        leg = (f"😎💎 Os 5 melhores {cat} de marca até R$ {teto}\n\n{lista}\n\nSalva esse post pra não perder.\n"
+               "Comenta QUERO que eu mando os links 💎\n\n#publi link de afiliado")
+        slides = [artes.capa_salvavel(cat, teto)] + [artes.post_oferta(o, o["canal"]) for o in top]
+        mid = instagram.carrossel(slides, f"{tag}-salvavel", leg)
+        dm = f"Oi! Aqui é o Papa 😎💎\n\nOs 5 melhores {cat} até R$ {teto}:\n\n" + "\n\n".join(
+            f"{i+1}. {o['nome'][:60]} — {post._brl(o['preco'])}\n{o['link']}" for i, o in enumerate(top))
+        h.setdefault("ig_dm_links", {})[mid] = dm + "\n\nPreço pode mudar a qualquer momento. #publi link de afiliado"
+        registrar_interativo(agora, "carrossel_salvavel", top)
+        return True
+    return False
+
+
 def rodar_instagram(h: dict, agora: datetime) -> None:
     """Executa as tarefas do Instagram que venceram e responde comentários."""
     import os
@@ -438,6 +526,17 @@ def rodar_instagram(h: dict, agora: datetime) -> None:
         if chave in feitos or not (momento <= agora <= momento + timedelta(minutes=50)):
             continue
         try:
+            if tipo in ("adivinha", "adivinha_resposta", "a_ou_b"):
+                if publicar_interativo(tipo, h, agora, tag, ofertas, usadas):
+                    feitos.append(chave)
+                    print(f"[ig] publicado {chave}")
+                    continue
+                tipo = "story_oferta"   # sem oferta que sirva: story de oferta comum no lugar
+            if tipo == "post_achado" and hora == "19:15" and agora.weekday() == config.SALVAVEL_DIA_SEMANA \
+                    and publicar_salvavel(h, agora, tag):
+                feitos += [f"{hoje} feed", chave]
+                print(f"[ig] publicado {chave} (carrossel salvável)")
+                continue
             if tipo == "story_convite":
                 # 30/10 (dono aprovou): lista de espera da Black Friday — de 01/11 até 27/11 o convite da tarde
                 # vira contagem regressiva para entrar no canal antes do dia
@@ -525,7 +624,7 @@ def rodar_instagram(h: dict, agora: datetime) -> None:
     except Exception as e:
         print(f"[ig] vigia de stories: {e}")
     try:
-        resp = instagram.responder_comentarios(set(h.setdefault("ig_comentarios", [])))
+        resp = instagram.responder_comentarios(set(h.setdefault("ig_comentarios", [])), h.get("ig_dm_links"))
         h["ig_comentarios"] += resp
         if resp:
             print(f"[ig] respondi {len(resp)} comentário(s)")

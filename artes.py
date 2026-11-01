@@ -356,6 +356,68 @@ def story_link(oferta: dict | None) -> bytes:
     return _jpeg(img)
 
 
+def story_adivinha(oferta: dict) -> bytes:
+    """01/11 (interativo): foto + nome, SEM preço; a resposta vem ~1 h depois (story_oferta com selo)."""
+    tema = tema_oferta(oferta)
+    img = _gradiente(1080, 1920, *tema["fundo"]).convert("RGBA")
+    d = ImageDraw.Draw(img)
+    _cabecalho(img, tema)
+    img.alpha_composite(_foto_produto(oferta["imagem"], 760), (160, 450))
+    y = 1250
+    _centro(d, y, "ADIVINHA O PREÇO", _fonte(96), tema["texto"])
+    y += 120
+    for linha in _quebrar(d, oferta["nome"], _fonte(46, "Bold"), 940):
+        _centro(d, y, linha, _fonte(46, "Bold"), (255, 255, 255))
+        y += 56
+    _centro(d, y + 20, "Responde no direct quanto custa", _fonte(50), tema["texto"])
+    return _jpeg(img)
+
+
+def story_a_ou_b(a: dict, b: dict) -> bytes:
+    """01/11 (interativo): 2 ofertas reais do dia lado a lado; a pessoa responde A ou B no direct."""
+    tema = PALETAS_OFERTA[5]
+    img = _gradiente(1080, 1920, *tema["fundo"]).convert("RGBA")
+    d = ImageDraw.Draw(img)
+    _cabecalho(img, tema)
+    _centro(d, 410, "A OU B?", _fonte(130), tema["destaque"])
+    for x, letra, o in ((50, "A", a), (550, "B", b)):
+        img.alpha_composite(_foto_produto(o["imagem"], 480), (x, 620))
+        d.ellipse((x + 190, 570, x + 290, 670), fill=tema["destaque"])
+        d.text((x + 240, 620), letra, font=_fonte(70), fill=tema["destaque_txt"], anchor="mm")
+        y = 1130
+        for linha in _quebrar(d, o["nome"], _fonte(36, "Bold"), 460, 3):
+            d.text((x + 240, y), linha, font=_fonte(36, "Bold"), fill=(255, 255, 255), anchor="mt")
+            y += 44
+        por = _brl(o["preco"])
+        f = _fonte(52)
+        w = d.textlength(por, font=f) + 50
+        d.rounded_rectangle((x + 240 - w / 2, 1290, x + 240 + w / 2, 1370), radius=40, fill=tema["destaque"])
+        d.text((x + 240, 1330), por, font=f, fill=tema["destaque_txt"], anchor="mm")
+    _centro(d, 1440, "Qual você levava?", _fonte(60), (255, 255, 255))
+    _centro(d, 1520, "Responde A ou B no direct", _fonte(50, "SemiBold"), tema["destaque"])
+    return _jpeg(img)
+
+
+def capa_salvavel(categoria: str, teto: int) -> bytes:
+    """Capa do carrossel semanal 'salvável' (1080x1350): 5 melhores <categoria> de marca até R$ X."""
+    tema = PALETAS_OFERTA[1]
+    img = _gradiente(1080, 1350, *tema["fundo"]).convert("RGBA")
+    d = ImageDraw.Draw(img)
+    img.alpha_composite(_selo(360), (350, 110))
+    _centro(d, 540, "5 MELHORES", _fonte(130), tema["texto"])
+    f = _fonte(110)
+    while d.textlength(categoria.upper(), font=f) > 980:
+        f = _fonte(f.size - 4)
+    _centro(d, 690, categoria.upper(), f, (255, 255, 255))
+    txt = f"DE MARCA ATÉ R$ {teto}"
+    w = d.textlength(txt, font=_fonte(64)) + 80
+    d.rounded_rectangle(((1080 - w) / 2, 860, (1080 + w) / 2, 960), radius=50, fill=tema["destaque"])
+    _centro(d, 872, txt, _fonte(64), tema["destaque_txt"])
+    _centro(d, 1050, "Salva pra não perder", _fonte(50, "Bold"), tema["texto"])
+    _centro(d, 1160, "arrasta pro lado →", _fonte(56, "Bold"), (255, 255, 255))
+    return _jpeg(img)
+
+
 def post_oferta(oferta: dict, canal: str) -> bytes:
     """Post de feed 1080x1350 ('Achado do dia')."""
     tema = tema_oferta(oferta)
