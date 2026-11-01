@@ -18,6 +18,12 @@ def mesclar(nosso: dict, remoto: dict) -> dict:
     por_id = {o["id"]: o for o in remoto.get("ofertas_dia", [])}
     por_id.update({o["id"]: o for o in nosso.get("ofertas_dia", [])})
     out["ofertas_dia"] = list(por_id.values())
+    a, b = remoto.get("convites_story", {}), nosso.get("convites_story", {})
+    out["convites_story"] = {n: {"link": (b.get(n) or a[n])["link"],
+                                 "entradas": list(dict.fromkeys(a.get(n, {}).get("entradas", []) + b.get(n, {}).get("entradas", [])))}
+                             for n in {**a, **b}}
+    if remoto.get("tg_offset") or nosso.get("tg_offset"):
+        out["tg_offset"] = max(remoto.get("tg_offset") or 0, nosso.get("tg_offset") or 0)
     if "ig_giro" in remoto or "ig_giro" in nosso:
         out["ig_giro"] = max(remoto.get("ig_giro", 0), nosso.get("ig_giro", 0))
     # a fila desta execução não pode trazer de volta o que a outra já postou

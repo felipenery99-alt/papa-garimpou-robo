@@ -63,6 +63,34 @@ def membros(destino: str) -> int | None:
         return None
 
 
+def criar_convite(destino: str, nome: str) -> str:
+    """Link de convite próprio (createChatInviteLink); exige o robô com "Convidar usuários" no canal."""
+    if destino not in config.DESTINOS_PERMITIDOS:
+        raise DestinoProibido(destino)
+    r = requests.post(API.format(token=_token(), metodo="createChatInviteLink"),
+                      data={"chat_id": destino, "name": nome}, timeout=30).json()
+    if not r.get("ok"):
+        raise RuntimeError(r.get("description", r))
+    return r["result"]["invite_link"]
+
+
+def entradas_por_convite(offset: int | None) -> tuple[list[tuple[str, str, int]], int | None]:
+    """Quem entrou em canal por link de convite desde `offset`: [(canal @, nome do link, user id)].
+    Usa getUpdates com chat_member (o Telegram guarda 24 h); devolve o próximo offset."""
+    params = {"timeout": 0, "allowed_updates": '["chat_member","message"]'}
+    if offset:
+        params["offset"] = offset
+    r = requests.get(API.format(token=_token(), metodo="getUpdates"), params=params, timeout=30).json()
+    saida, prox = [], offset
+    for u in r.get("result", []):
+        prox = u["update_id"] + 1
+        cm = u.get("chat_member") or {}
+        link = (cm.get("invite_link") or {}).get("name")
+        if link and cm.get("new_chat_member", {}).get("status") == "member"                 and cm.get("old_chat_member", {}).get("status") in ("left", "kicked"):
+            saida.append(("@" + cm.get("chat", {}).get("username", ""), link, cm["new_chat_member"]["user"]["id"]))
+    return saida, prox
+
+
 def avisar_dono(texto: str) -> None:
     """Aviso de problema. Vai só para o chat do dono com o robô (ALERTA_CHAT_ID).
     Nunca para os canais. Se não houver chat configurado, só registra no log."""

@@ -59,6 +59,7 @@ def gravar_relatorio(h: dict, agora: datetime) -> None:
     dia["execucoes"] = dia.get("execucoes", 0) + 1
     dia["telegram_posts"] = {c: sum(1 for s in h["slots_feitos"] if s.startswith(f"{hoje} {c}")) for c in config.CANAIS}
     dia["ultimo_post"] = ultimo_post(h, agora)
+    dia["convites_story"] = {n: len(c["entradas"]) for n, c in h.get("convites_story", {}).items()}
     dia["telegram_membros"] = {c: telegram.membros(d) for c, d in {**config.CANAIS, "geral": config.GERAL}.items()}
     dia["instagram_feito"] = [f[11:] for f in h.get("ig_feitos", []) if f.startswith(hoje)]
     dia["shopee_ligada"] = bool(os.environ.get("SHOPEE_APP_ID"))
@@ -499,6 +500,40 @@ def rodar_instagram(h: dict, agora: datetime) -> None:
     h["ig_ofertas_usadas"] = usadas[-200:]
 
 
+CONVITE_STORY = PASTA / "dados" / "convite-story.txt"
+
+
+def convites_story(h: dict, telegram, agora: datetime) -> None:
+    """01/11 (Central: medir membros por story): 1 link de convite por dia para o canal geral,
+    nome "story-AAAAMMDD", gravado em dados/convite-story.txt para a sessão Instagram usar,
+    e contagem de quem entrou por cada link (chat_member do getUpdates)."""
+    conv = h.setdefault("convites_story", {})
+    nome = f"story-{agora:%Y%m%d}"
+    if nome not in conv:
+        try:
+            conv[nome] = {"link": telegram.criar_convite(config.GERAL, nome), "entradas": []}
+            CONVITE_STORY.write_text(f"{nome} {conv[nome]['link']}\n", encoding="utf-8")
+        except Exception as e:
+            if h.get("convite_erro") != agora.date().isoformat():
+                h["convite_erro"] = agora.date().isoformat()
+                telegram.avisar_dono(f"não consegui criar o convite {nome} em {config.GERAL}: {e} "
+                                     "(o robô precisa da permissão 'Convidar usuários' no canal)")
+    try:
+        novas, h["tg_offset"] = telegram.entradas_por_convite(h.get("tg_offset"))
+    except Exception as e:
+        print(f"[convites] {e}")
+        return
+    import hashlib
+    for canal, link, uid in novas:
+        # o histórico fica no repositório público: só um hash curto do id, para não contar a mesma pessoa 2x
+        chave = hashlib.sha256(f"papa{uid}".encode()).hexdigest()[:10]
+        if canal == config.GERAL and link in conv and chave not in conv[link]["entradas"]:
+            conv[link]["entradas"].append(chave)
+    for velho in sorted(conv)[:-30]:
+        conv.pop(velho)
+    print(f"[convites] {nome}: {len(conv.get(nome, {}).get('entradas', []))} entrada(s) hoje")
+
+
 def checar_vendas_shopee(h: dict, telegram, agora: datetime) -> None:
     """01/11 (dono pediu aviso de venda): olha as conversões dos últimos 3 dias e avisa cada venda
     nova uma vez só no chat de alertas. Erro aqui nunca para a postagem; avisa no máximo 1x por dia."""
@@ -686,6 +721,7 @@ def main() -> int:
             erros += 1
             continue
         entrar_na_fila(h, canal, ofertas, agora)
+    convites_story(h, telegram, agora)
     socorrer_parados(h, telegram, shopee.buscar_fundo if shopee_ok else None, agora)
     if shopee_ok:
         checar_vendas_shopee(h, telegram, agora)
