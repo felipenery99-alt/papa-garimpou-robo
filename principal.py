@@ -202,6 +202,10 @@ def carregar_manuais(h: dict, agora: datetime) -> list[dict]:
             continue
         if o.get("valida_ate") and o["valida_ate"] < agora.isoformat():
             continue
+        # "nao_antes" (01/11): só entra na fila quando faltar menos de 1 h (esta execução alcança o horário);
+        # na fila, soltar_fila segura o item até a hora. Antes disso fica no arquivo, sem descartar.
+        if o.get("nao_antes") and o["nao_antes"] > (agora + timedelta(hours=1)).isoformat():
+            continue
         boas.append(o)
     return boas
 
@@ -317,7 +321,7 @@ def socorrer_parados(h: dict, telegram, buscar_fundo, agora: datetime) -> None:
     import random
     ini = agora.replace(hour=config.JANELA_INICIO[0], minute=config.JANELA_INICIO[1], second=0, microsecond=0)
     fim = agora.replace(hour=config.JANELA_FIM[0], minute=config.JANELA_FIM[1], second=0, microsecond=0)
-    if not (ini <= agora <= fim) or em_bloco_perfume(agora):
+    if not (ini <= agora <= fim):
         return
     for canal in config.CANAIS:
         if any(f["canal"] == canal for f in h.get("fila", [])) or minutos_parado(h, canal, agora) < config.CANAL_PARADO_MIN:
@@ -365,10 +369,10 @@ def soltar_fila(h: dict, telegram, limite: datetime) -> int:
         _time.sleep(random.uniform(*config.ATRASO_INICIAL_MIN) * 60)
     while h.get("fila"):
         agora = datetime.now(FUSO)
-        # 01/11 (Central): domingo 10h–13h é o bloco DOMINGO DO PERFUME — só perfume sai; o resto espera
-        pode = [f for f in h["fila"] if not em_bloco_perfume(agora) or qualidade.eh_perfume(f)]
+        # 01/11 (Telegram): item com "nao_antes" fica na fila sem sair até esse horário
+        pode = [f for f in h["fila"] if not f.get("nao_antes") or f["nao_antes"] <= agora.isoformat()]
         if not pode:
-            print("bloco DOMINGO DO PERFUME: sem perfume na fila, o resto espera")
+            print("fila: só itens com nao_antes no futuro, esperam")
             break
         canais = [c for c in config.CANAIS if any(f["canal"] == c for f in pode)]
         # 01/11: canal parado há mais de CANAL_PARADO_MIN passa na frente (o mais parado primeiro)
@@ -382,7 +386,12 @@ def soltar_fila(h: dict, telegram, limite: datetime) -> int:
         if not (ini <= agora <= fim):
             print("fora da janela 8h–22h: fila guardada para depois")
             break
-        oferta = next(f for f in pode if f["canal"] == canal)
+        # DOMINGO DO PERFUME (10h–13h): no canal, o perfume do bloco (nao_antes) e depois qualquer perfume
+        # passam na frente; os outros nichos seguem no ritmo normal
+        do_canal = [f for f in pode if f["canal"] == canal]
+        if em_bloco_perfume(agora):
+            do_canal.sort(key=lambda f: (not f.get("nao_antes"), not qualidade.eh_perfume(f)))
+        oferta = do_canal[0]
         h["fila"].remove(oferta)
         if ja_postado_recente(h, oferta["id"], agora, oferta.get("nome", "")):
             continue
