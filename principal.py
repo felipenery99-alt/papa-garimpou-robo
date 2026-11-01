@@ -328,6 +328,19 @@ def rodar_instagram(h: dict, agora: datetime) -> None:
             except Exception as e:
                 telegram.avisar_dono(f"Instagram: parceria {p['id']} falhou: {e}")
             feitos.append(f"parceria {p['id']}")
+    # Stories únicos de ocasião (ex.: agradecer 100 seguidores): cada um sai uma vez, a partir de "desde"
+    esp_st = Path(__file__).parent / "stories_especiais.json"
+    if esp_st.exists():
+        for e in json.loads(esp_st.read_text(encoding="utf-8")):
+            if f"story especial {e['id']}" in feitos or agora.isoformat() < e.get("desde", ""):
+                continue
+            try:
+                arte = artes.story_especial(e["titulo"], e["linhas"], e.get("paleta", 0))
+                instagram.story(arte, f"{tag}-especial-{e['id']}.jpg")
+                print(f"[ig] story especial {e['id']} publicado")
+            except Exception as ex:
+                telegram.avisar_dono(f"Instagram: story especial {e['id']} falhou: {ex}")
+            feitos.append(f"story especial {e['id']}")
     for hora, tipo in config.INSTAGRAM_AGENDA:
         chave = f"{hoje} {hora} {tipo}"
         hh, mm = map(int, hora.split(":"))

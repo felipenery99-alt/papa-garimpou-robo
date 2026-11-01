@@ -259,6 +259,29 @@ def story_parceria(arroba: str, assuntos: list[str]) -> bytes:
     return _jpeg(img)
 
 
+def story_especial(titulo: list[str], linhas: list[str], paleta: int = 0) -> bytes:
+    """Story único de ocasião (ex.: agradecer marco de seguidores): Papa no topo, título grande e chamada."""
+    tema = PALETAS_OFERTA[paleta % len(PALETAS_OFERTA)]
+    img = _gradiente(1080, 1920, *tema["fundo"]).convert("RGBA")
+    d = ImageDraw.Draw(img)
+    img.alpha_composite(_selo(400), (340, 270))
+    y = 760
+    for t in titulo:
+        fonte = _fonte(124)
+        while d.textlength(t, font=fonte) > 980:
+            fonte = _fonte(fonte.size - 4)
+        _centro(d, y, t, fonte, tema["texto"])
+        y += fonte.size + 16
+    y += 50
+    for linha in linhas:
+        _centro(d, y, linha, _fonte(50, "SemiBold"), (255, 255, 255))
+        y += 68
+    y += 40
+    d.rounded_rectangle((170, y, 910, y + 130), radius=65, fill=tema["destaque"])
+    _centro(d, y + 20, "LINK NA BIO", _fonte(80), tema["destaque_txt"])
+    return _jpeg(img)
+
+
 # Dono, 29/10: "você ainda está postando coisa da mesma cor". A cor da arte de oferta não segue
 # mais o canal (num dia só de games saía tudo azul-escuro): gira por estas paletas, pela oferta.
 PALETAS_OFERTA = [
