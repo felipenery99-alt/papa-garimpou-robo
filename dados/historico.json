@@ -274,7 +274,9 @@
   "2026-11-01 achadinhos 12:13 amz-B08DFCF9HW",
   "2026-11-01 tech 12:33 shopee-41253171051",
   "2026-11-01 marcas 13:05 mgl-SG4-0157-058",
-  "2026-11-01 achadinhos 13:17 amz-B07QKN5NF1"
+  "2026-11-01 achadinhos 13:17 amz-B07QKN5NF1",
+  "2026-11-01 tech 13:38 amz-B0GMKCC31R",
+  "2026-11-01 marcas 13:53 amz-B0FSGB184W"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -557,7 +559,9 @@
   "amz-B08DFCF9HW": "2026-11-01T12:13:11.645129-03:00",
   "shopee-41253171051": "2026-11-01T12:33:42.431605-03:00",
   "mgl-SG4-0157-058": "2026-11-01T13:05:00.292225-03:00",
-  "amz-B07QKN5NF1": "2026-11-01T13:17:29.200797-03:00"
+  "amz-B07QKN5NF1": "2026-11-01T13:17:29.200797-03:00",
+  "amz-B0GMKCC31R": "2026-11-01T13:38:24.419011-03:00",
+  "amz-B0FSGB184W": "2026-11-01T13:53:04.481437-03:00"
  },
  "ofertas_dia": [
   {
@@ -2920,6 +2924,37 @@
    "valida_ate": "2026-11-02T22:00:00-03:00",
    "entrou": "2026-11-01T09:48:35.995946-03:00",
    "dia": "2026-11-01"
+  },
+  {
+   "id": "amz-B0GMKCC31R",
+   "canal": "tech",
+   "nome": "Fone Samsung Galaxy Buds4 com Galaxy AI",
+   "preco_antigo": 1599.0,
+   "preco": 901.06,
+   "desconto": 44,
+   "link": "https://www.amazon.com.br/dp/B0GMKCC31R?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/41MCuJFANjL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-02T22:00:00-03:00",
+   "entrou": "2026-11-01T09:48:35.995946-03:00",
+   "dia": "2026-11-01"
+  },
+  {
+   "id": "amz-B0FSGB184W",
+   "canal": "marcas",
+   "nome": "Tênis Puma Court Classic SD Masculino",
+   "preco_antigo": 379.99,
+   "preco": 219.99,
+   "desconto": 42,
+   "link": "https://www.amazon.com.br/dp/B0FSGB184W?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/617DRKFgRBL._AC_SL1000_.jpg",
+   "loja": "Vendido pela Netshoes · entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-02T22:00:00-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "entrou": "2026-11-01T09:48:35.995946-03:00",
+   "dia": "2026-11-01"
   }
  ],
  "ig_feitos": [
@@ -3041,14 +3076,14 @@
   "2026-11-01 09:38 story_oferta",
   "2026-11-01 10:24 story_oferta",
   "2026-11-01 11:11 story_oferta",
-  "2026-11-01 feed",
   "2026-11-01 11:50 carrossel_top5",
   "2026-11-01 11:56 story_oferta",
   "2026-11-01 12:15 story_top4",
   "2026-11-01 12:19 story_oferta",
-  "2026-11-01 feed",
   "2026-11-01 12:40 reels",
-  "2026-11-01 12:47 story_oferta"
+  "2026-11-01 12:47 story_oferta",
+  "2026-11-01 13:20 story_convite",
+  "2026-11-01 13:22 story_oferta"
  ],
  "ig_ofertas_usadas": [
   "amz-B0GP7KDZRJ",
@@ -3155,7 +3190,8 @@
   "amz-B081415GCS",
   "amz-B0CLF2RGNL",
   "amz-B0DMV2VL35",
-  "amz-B0FKVWSM3N"
+  "amz-B0FKVWSM3N",
+  "amz-B09GL5MXNV"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
@@ -3192,37 +3228,6 @@
  },
  "ultimo_pilar": "blackfriday",
  "fila": [
-  {
-   "id": "mgl-SG4-01QZ-842",
-   "canal": "marcas",
-   "nome": "Tênis Asics Gel-Venture 11 Feminino",
-   "preco_antigo": 599.99,
-   "preco": 284.99,
-   "desconto": 53,
-   "link": "https://www.magazinevoce.com.br/magazinepapagarimpou/tenis-asics-gel-venture-11-feminino/p/hg81g613f6/es/osnr/",
-   "imagem": "https://static.netshoes.com.br/produtos/tenis-asics-gel-venture-11-feminino/42/SG4-01QZ-842/SG4-01QZ-842_zoom1.jpg",
-   "loja": "Vendido pela Netshoes · Magalu",
-   "plataforma": "Magalu",
-   "valida_ate": "2026-11-02T13:00:00-03:00",
-   "extra": "no Pix · ⭐ 4,9",
-   "entrou": "2026-11-01T09:02:45.202091-03:00"
-  },
-  {
-   "id": "mgl-SG4-014G-172",
-   "canal": "marcas",
-   "nome": "Tênis Asics Gel-Excite 11 Masculino",
-   "preco_antigo": 499.99,
-   "preco": 303.99,
-   "desconto": 39,
-   "link": "https://www.magazinevoce.com.br/magazinepapagarimpou/tenis-asics-gel-excite-11-masculino/p/bdcc83afhf/es/osnr/",
-   "imagem": "https://static.netshoes.com.br/produtos/tenis-asics-gel-excite-11-masculino/72/SG4-014G-172/SG4-014G-172_zoom1.jpg",
-   "loja": "Vendido pela Netshoes · Magalu",
-   "plataforma": "Magalu",
-   "valida_ate": "2026-11-02T13:00:00-03:00",
-   "extra": "no Pix · ⭐ 4,8 (537 avaliações)",
-   "gancho": "PRA CORRER MAIS E PAGAR MENOS",
-   "entrou": "2026-11-01T09:02:45.202091-03:00"
-  },
   {
    "id": "amz-B09SVR1XR5",
    "canal": "achadinhos",
@@ -3266,21 +3271,6 @@
    "plataforma": "Amazon",
    "valida_ate": "2026-11-02T22:00:00-03:00",
    "gancho": "POTE ELECTROLUX PELA METADE DO PREÇO",
-   "entrou": "2026-11-01T09:48:35.995946-03:00"
-  },
-  {
-   "id": "amz-B0FSGB184W",
-   "canal": "marcas",
-   "nome": "Tênis Puma Court Classic SD Masculino",
-   "preco_antigo": 379.99,
-   "preco": 219.99,
-   "desconto": 42,
-   "link": "https://www.amazon.com.br/dp/B0FSGB184W?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/617DRKFgRBL._AC_SL1000_.jpg",
-   "loja": "Vendido pela Netshoes · entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-02T22:00:00-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
    "entrou": "2026-11-01T09:48:35.995946-03:00"
   },
   {
@@ -3343,20 +3333,6 @@
    "plataforma": "Amazon",
    "valida_ate": "2026-11-02T22:00:00-03:00",
    "extra": "Preço a partir de: varia por tamanho e cor",
-   "entrou": "2026-11-01T09:48:35.995946-03:00"
-  },
-  {
-   "id": "amz-B0GMKCC31R",
-   "canal": "tech",
-   "nome": "Fone Samsung Galaxy Buds4 com Galaxy AI",
-   "preco_antigo": 1599.0,
-   "preco": 901.06,
-   "desconto": 44,
-   "link": "https://www.amazon.com.br/dp/B0GMKCC31R?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/41MCuJFANjL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-02T22:00:00-03:00",
    "entrou": "2026-11-01T09:48:35.995946-03:00"
   },
   {
@@ -3597,6 +3573,37 @@
    "link": "https://s.shopee.com.br/5AtiXcLCrT",
    "canal": "tech",
    "entrou": "2026-11-01T12:57:53.316199-03:00"
+  },
+  {
+   "id": "mgl-SG4-01QZ-842",
+   "canal": "marcas",
+   "nome": "Tênis Asics Gel-Venture 11 Feminino",
+   "preco_antigo": 599.99,
+   "preco": 284.99,
+   "desconto": 53,
+   "link": "https://www.magazinevoce.com.br/magazinepapagarimpou/tenis-asics-gel-venture-11-feminino/p/hg81g613f6/es/osnr/",
+   "imagem": "https://static.netshoes.com.br/produtos/tenis-asics-gel-venture-11-feminino/42/SG4-01QZ-842/SG4-01QZ-842_zoom1.jpg",
+   "loja": "Vendido pela Netshoes · Magalu",
+   "plataforma": "Magalu",
+   "valida_ate": "2026-11-02T13:00:00-03:00",
+   "extra": "no Pix · ⭐ 4,9",
+   "entrou": "2026-11-01T13:32:53.984148-03:00"
+  },
+  {
+   "id": "mgl-SG4-014G-172",
+   "canal": "marcas",
+   "nome": "Tênis Asics Gel-Excite 11 Masculino",
+   "preco_antigo": 499.99,
+   "preco": 303.99,
+   "desconto": 39,
+   "link": "https://www.magazinevoce.com.br/magazinepapagarimpou/tenis-asics-gel-excite-11-masculino/p/bdcc83afhf/es/osnr/",
+   "imagem": "https://static.netshoes.com.br/produtos/tenis-asics-gel-excite-11-masculino/72/SG4-014G-172/SG4-014G-172_zoom1.jpg",
+   "loja": "Vendido pela Netshoes · Magalu",
+   "plataforma": "Magalu",
+   "valida_ate": "2026-11-02T13:00:00-03:00",
+   "extra": "no Pix · ⭐ 4,8 (537 avaliações)",
+   "gancho": "PRA CORRER MAIS E PAGAR MENOS",
+   "entrou": "2026-11-01T13:32:53.984148-03:00"
   }
  ],
  "menus_fixados": [
@@ -3731,7 +3738,9 @@
   "liquidificadoroster1400full32lpreto127v": "2026-11-01T12:13:11.645129-03:00",
   "baseusbp1proancfonedeouvidosemfio50dbreducaoderuidodealtaresolucaobluetooth60ipx55aprovadagua": "2026-11-01T12:33:42.431605-03:00",
   "tenisasicspatriot14feminino": "2026-11-01T13:05:00.292225-03:00",
-  "liquidificadormondialturbopower550wpreto": "2026-11-01T13:17:29.200797-03:00"
+  "liquidificadormondialturbopower550wpreto": "2026-11-01T13:17:29.200797-03:00",
+  "fonesamsunggalaxybuds4comgalaxyai": "2026-11-01T13:38:24.419011-03:00",
+  "tenispumacourtclassicsdmasculino": "2026-11-01T13:53:04.481437-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
