@@ -303,7 +303,8 @@
   "2026-11-01 tech 18:22 amz-B0C6K2DH73",
   "2026-11-01 achadinhos 18:29 amz-B076YLG74Z",
   "2026-11-01 marcas 18:56 amz-B0B88TF8G5",
-  "2026-11-01 marcas 19:09 amz-B0GX7NFXGJ"
+  "2026-11-01 marcas 19:09 amz-B0GX7NFXGJ",
+  "2026-11-01 tech 19:14 amz-B0GRD9844Q"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -615,7 +616,8 @@
   "amz-B0C6K2DH73": "2026-11-01T18:22:47.572021-03:00",
   "amz-B076YLG74Z": "2026-11-01T18:29:05.130496-03:00",
   "amz-B0B88TF8G5": "2026-11-01T18:56:42.757140-03:00",
-  "amz-B0GX7NFXGJ": "2026-11-01T19:09:59.834119-03:00"
+  "amz-B0GX7NFXGJ": "2026-11-01T19:09:59.834119-03:00",
+  "amz-B0GRD9844Q": "2026-11-01T19:14:42.265825-03:00"
  },
  "ofertas_dia": [
   {
@@ -3439,6 +3441,21 @@
    "extra": "Preço a partir de: varia por tamanho e cor",
    "entrou": "2026-11-01T15:49:22.976553-03:00",
    "dia": "2026-11-01"
+  },
+  {
+   "id": "amz-B0GRD9844Q",
+   "canal": "tech",
+   "nome": "Fone Bluetooth JBL Tune 530BT Over-Ear",
+   "preco_antigo": 299.0,
+   "preco": 193.87,
+   "desconto": 35,
+   "link": "https://www.amazon.com.br/dp/B0GRD9844Q?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61R+SA4aFZL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-02T22:00:00-03:00",
+   "entrou": "2026-11-01T15:49:22.976553-03:00",
+   "dia": "2026-11-01"
   }
  ],
  "ig_feitos": [
@@ -3919,20 +3936,6 @@
    "entrou": "2026-11-01T15:49:22.976553-03:00"
   },
   {
-   "id": "amz-B0GRD9844Q",
-   "canal": "tech",
-   "nome": "Fone Bluetooth JBL Tune 530BT Over-Ear",
-   "preco_antigo": 299.0,
-   "preco": 193.87,
-   "desconto": 35,
-   "link": "https://www.amazon.com.br/dp/B0GRD9844Q?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61R+SA4aFZL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-02T22:00:00-03:00",
-   "entrou": "2026-11-01T15:49:22.976553-03:00"
-  },
-  {
    "id": "amz-B0B2VQBBQ1",
    "canal": "tech",
    "nome": "Teclado Mecânico sem Fio Logitech MX Mechanical",
@@ -4197,7 +4200,8 @@
   "mousesemfiologitechmxanywhere3s": "2026-11-01T18:22:47.572021-03:00",
   "aspiradordepoeaguawapgtw10litros": "2026-11-01T18:29:05.130496-03:00",
   "camisapolobasicaheringmasculinaempiquet": "2026-11-01T18:56:42.757140-03:00",
-  "tenisolympikuselevado": "2026-11-01T19:09:59.834119-03:00"
+  "tenisolympikuselevado": "2026-11-01T19:09:59.834119-03:00",
+  "fonebluetoothjbltune530btoverear": "2026-11-01T19:14:42.265825-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
