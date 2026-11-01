@@ -59,6 +59,22 @@ def hospedar(nome: str, conteudo: bytes) -> str:
     return REPO_RAW + nome
 
 
+def foto_fbcdn(url: str) -> str:
+    """01/11 (sessão Instagram): a Business Suite bloqueia raw.githubusercontent por CSP, mas aceita fbcdn.
+    Sobe a imagem como foto NÃO publicada da Página e devolve a maior versão (scontent…fbcdn.net)."""
+    c = conta()
+    tk = c["page_token"] or _token()
+    r = requests.post(f"{G}/{c['page_id']}/photos", data={"access_token": tk, "url": url, "published": "false"},
+                      timeout=60).json()
+    if "id" not in r:
+        raise RuntimeError(f"Página recusou a foto: {r}")
+    imgs = requests.get(f"{G}/{r['id']}", params={"access_token": tk, "fields": "images"}, timeout=30).json()
+    maior = max(imgs.get("images", []), key=lambda i: i.get("width", 0) * i.get("height", 0), default=None)
+    if not maior:
+        raise RuntimeError(f"foto sem 'images': {imgs}")
+    return maior["source"]
+
+
 def _criar(ig_id: str, **params) -> str:
     r = requests.post(f"{G}/{ig_id}/media", data={"access_token": _token(), **params}, timeout=60).json()
     if "id" not in r:

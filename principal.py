@@ -530,7 +530,12 @@ def preparar_story_link(h: dict, agora: datetime) -> None:
             print(f"[story-link] {o['id']}: {e}")
     try:
         url = instagram.hospedar(f"{agora:%Y%m%d}-story-link.jpg", arte or artes.story_link(None))
-        STORY_LINK.write_text(f"{url} | {hoje}\n", encoding="utf-8")
+        try:   # 3ª coluna: cópia no fbcdn, que a Business Suite deixa baixar (raw.githubusercontent não)
+            fb = " | " + instagram.foto_fbcdn(url)
+        except Exception as e:
+            fb = ""
+            print(f"[story-link] fbcdn falhou: {e}")
+        STORY_LINK.write_text(f"{url} | {hoje}{fb}\n", encoding="utf-8")
         h["story_link_dia"] = hoje
         print(f"[story-link] {url}")
     except Exception as e:
