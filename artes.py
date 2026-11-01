@@ -104,13 +104,18 @@ def _jpeg(img: Image.Image) -> bytes:
     return out.getvalue()
 
 
-def story_oferta(oferta: dict, canal: str) -> bytes:
+def story_oferta(oferta: dict, canal: str, selo: str = "") -> bytes:
     tema = tema_oferta(oferta)
     img = _gradiente(1080, 1920, *tema["fundo"]).convert("RGBA")
     d = ImageDraw.Draw(img)
     _cabecalho(img, tema)
     card = _foto_produto(oferta["imagem"], 820)
     img.alpha_composite(card, (130, 470))
+    if selo:   # ex.: "PEDIDO ATENDIDO" — faixa sobre a base da foto, sem nome de quem pediu
+        f = _fonte(56)
+        w = d.textlength(selo, font=f) + 90
+        d.rounded_rectangle(((1080 - w) / 2, 1225, (1080 + w) / 2, 1305), radius=40, fill=(16, 185, 129))
+        _centro(d, 1232, selo, f, (255, 255, 255))
     if oferta.get("desconto"):
         selo_txt = f"-{oferta['desconto']}%"
         f = _fonte(70)
@@ -259,7 +264,7 @@ def story_parceria(arroba: str, assuntos: list[str]) -> bytes:
     return _jpeg(img)
 
 
-def story_especial(titulo: list[str], linhas: list[str], paleta: int = 0) -> bytes:
+def story_especial(titulo: list[str], linhas: list[str], paleta: int = 0, botao: str = "LINK NA BIO") -> bytes:
     """Story único de ocasião (ex.: agradecer marco de seguidores): Papa no topo, título grande e chamada."""
     tema = PALETAS_OFERTA[paleta % len(PALETAS_OFERTA)]
     img = _gradiente(1080, 1920, *tema["fundo"]).convert("RGBA")
@@ -278,7 +283,10 @@ def story_especial(titulo: list[str], linhas: list[str], paleta: int = 0) -> byt
         y += 68
     y += 40
     d.rounded_rectangle((170, y, 910, y + 130), radius=65, fill=tema["destaque"])
-    _centro(d, y + 20, "LINK NA BIO", _fonte(80), tema["destaque_txt"])
+    fb = _fonte(80)
+    while d.textlength(botao, font=fb) > 700:
+        fb = _fonte(fb.size - 4)
+    _centro(d, y + 65 - fb.size * 0.6, botao, fb, tema["destaque_txt"])
     return _jpeg(img)
 
 

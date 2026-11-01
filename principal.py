@@ -162,16 +162,33 @@ def publicar_menus(h: dict, telegram) -> None:
             telegram.avisar_dono(f"menu fixado em {destino} falhou: {e}")
 
 
+PEDIDOS = Path(__file__).parent / "pedidos_atendidos.json"
+
+
+def carregar_pedidos(agora: datetime) -> list[dict]:
+    """Pedidos do direct atendidos (gravados pela sessão Instagram), no formato de ofertas_manuais.json;
+    valem até `valida_ate` ou, sem ela, por 2 dias a partir de `dia`."""
+    if not PEDIDOS.exists():
+        return []
+    try:
+        lista = json.loads(PEDIDOS.read_text(encoding="utf-8"))
+    except Exception as e:
+        print(f"pedidos_atendidos.json inválido: {e}")
+        return []
+    limite = (agora - timedelta(days=2)).date().isoformat()
+    return [o for o in lista if o.get("canal") in config.CANAIS and o.get("dia", "") >= limite
+            and not (o.get("valida_ate") and o["valida_ate"] < agora.isoformat())]
+
+
 def carregar_manuais(h: dict, agora: datetime) -> list[dict]:
     """Ofertas conferidas à mão (Amazon, Magalu, Awin): entram na fila enquanto não forem postadas
     e não passarem da validade (`valida_ate`, ISO). Canal desconhecido é ignorado."""
-    if not MANUAIS.exists():
-        return []
-    try:
-        lista = json.loads(MANUAIS.read_text(encoding="utf-8"))
-    except Exception as e:
-        print(f"ofertas_manuais.json inválido: {e}")
-        return []
+    lista = carregar_pedidos(agora)   # pedido atendido também vai para a fila do canal
+    if MANUAIS.exists():
+        try:
+            lista += json.loads(MANUAIS.read_text(encoding="utf-8"))
+        except Exception as e:
+            print(f"ofertas_manuais.json inválido: {e}")
     boas = []
     for o in lista:
         if o.get("canal") not in config.CANAIS or o["id"] in h.get("postados", {}):
@@ -384,19 +401,36 @@ def rodar_instagram(h: dict, agora: datetime) -> None:
             except Exception as e:
                 telegram.avisar_dono(f"Instagram: parceria {p['id']} falhou: {e}")
             feitos.append(f"parceria {p['id']}")
-    # Stories únicos de ocasião (ex.: agradecer 100 seguidores): cada um sai uma vez, a partir de "desde"
+    # Stories de ocasião (ex.: agradecer 100 seguidores): cada um sai uma vez, a partir de "desde".
+    # Com "diario" (ex.: PEDE PRO PAPA), sai 1x por dia entre "hora_ini" e "hora_fim", girando "paletas".
     esp_st = Path(__file__).parent / "stories_especiais.json"
     if esp_st.exists():
         for e in json.loads(esp_st.read_text(encoding="utf-8")):
-            if f"story especial {e['id']}" in feitos or agora.isoformat() < e.get("desde", ""):
+            chave_e = f"story especial {e['id']}" + (f" {hoje}" if e.get("diario") else "")
+            if chave_e in feitos or agora.isoformat() < e.get("desde", ""):
                 continue
+            if e.get("diario") and not (e.get("hora_ini", "00:00") <= f"{agora:%H:%M}" <= e.get("hora_fim", "23:59")):
+                continue
+            paletas = e.get("paletas") or [e.get("paleta", 0)]
             try:
-                arte = artes.story_especial(e["titulo"], e["linhas"], e.get("paleta", 0))
+                arte = artes.story_especial(e["titulo"], e["linhas"], paletas[agora.toordinal() % len(paletas)],
+                                            e.get("botao", "LINK NA BIO"))
                 instagram.story(arte, f"{tag}-especial-{e['id']}.jpg")
                 print(f"[ig] story especial {e['id']} publicado")
             except Exception as ex:
                 telegram.avisar_dono(f"Instagram: story especial {e['id']} falhou: {ex}")
-            feitos.append(f"story especial {e['id']}")
+            feitos.append(chave_e)
+    # PEDIDO ATENDIDO (01/11): a sessão Instagram grava em pedidos_atendidos.json o produto que um seguidor
+    # pediu no direct; sai 1 story com o selo (sem nome de quem pediu) e a oferta entra na fila do canal.
+    for o in carregar_pedidos(agora):
+        if f"pedido {o['id']}" in feitos:
+            continue
+        try:
+            instagram.story(artes.story_oferta(o, o["canal"], selo="PEDIDO ATENDIDO"), f"{tag}-pedido-{o['id']}.jpg")
+            print(f"[ig] pedido atendido {o['id']} publicado")
+        except Exception as ex:
+            telegram.avisar_dono(f"Instagram: pedido atendido {o['id']} falhou: {ex}")
+        feitos.append(f"pedido {o['id']}")
     for hora, tipo in config.INSTAGRAM_AGENDA:
         chave = f"{hoje} {hora} {tipo}"
         hh, mm = map(int, hora.split(":"))

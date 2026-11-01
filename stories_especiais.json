@@ -2,8 +2,35 @@
  {
   "id": "100-seguidores-20261101",
   "desde": "2026-11-01T09:00",
-  "titulo": ["VALEU,", "100 GARIMPEIROS!"],
-  "linhas": ["Ofertas de marca grátis", "no Telegram"],
+  "titulo": [
+   "VALEU,",
+   "100 GARIMPEIROS!"
+  ],
+  "linhas": [
+   "Ofertas de marca grátis",
+   "no Telegram"
+  ],
   "paleta": 5
+ },
+ {
+  "id": "pede-pro-papa",
+  "diario": true,
+  "desde": "2026-11-01T17:00",
+  "hora_ini": "17:00",
+  "hora_fim": "18:30",
+  "titulo": [
+   "PEDE PRO PAPA"
+  ],
+  "linhas": [
+   "Manda no direct o produto",
+   "que você quer: eu garimpo",
+   "o melhor preço de marca boa"
+  ],
+  "botao": "MANDA NO DIRECT",
+  "paletas": [
+   0,
+   5,
+   3
+  ]
  }
 ]
