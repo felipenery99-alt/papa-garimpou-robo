@@ -281,7 +281,11 @@
   "2026-11-01 tech 14:24 amz-B0GYQ8Q5QR",
   "2026-11-01 achadinhos 14:37 amz-B0C7FBYDFP",
   "2026-11-01 marcas 14:44 shopee-22497648129",
-  "2026-11-01 achadinhos 14:51 amz-B077C2VVJ7"
+  "2026-11-01 achadinhos 14:51 amz-B077C2VVJ7",
+  "2026-11-01 achadinhos 15:11 amz-B0FJMLM9TS",
+  "2026-11-01 tech 15:23 shopee-9739004991",
+  "2026-11-01 marcas 15:37 mgl-SG4-01QZ-842",
+  "2026-11-01 achadinhos 15:48 amz-B0CQKBJ79W"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -571,7 +575,11 @@
   "amz-B0GYQ8Q5QR": "2026-11-01T14:24:53.213736-03:00",
   "amz-B0C7FBYDFP": "2026-11-01T14:37:14.007409-03:00",
   "shopee-22497648129": "2026-11-01T14:44:16.260433-03:00",
-  "amz-B077C2VVJ7": "2026-11-01T14:51:03.742152-03:00"
+  "amz-B077C2VVJ7": "2026-11-01T14:51:03.742152-03:00",
+  "amz-B0FJMLM9TS": "2026-11-01T15:11:08.044044-03:00",
+  "shopee-9739004991": "2026-11-01T15:23:31.947656-03:00",
+  "mgl-SG4-01QZ-842": "2026-11-01T15:37:16.850640-03:00",
+  "amz-B0CQKBJ79W": "2026-11-01T15:48:59.380324-03:00"
  },
  "ofertas_dia": [
   {
@@ -3046,6 +3054,72 @@
    "gancho": "NIVEA TIRA ATÉ RÍMEL TEIMOSO E O PREÇO TAMBÉM CAIU",
    "entrou": "2026-11-01T12:29:30.935454-03:00",
    "dia": "2026-11-01"
+  },
+  {
+   "id": "amz-B0FJMLM9TS",
+   "canal": "achadinhos",
+   "nome": "Air Fryer Britânia 8L 3 em 1 Redstone BAF80A (127V)",
+   "preco_antigo": 651.36,
+   "preco": 342.9,
+   "desconto": 47,
+   "link": "https://www.amazon.com.br/dp/B0FJMLM9TS?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/516IzwstaCL._AC_SL1200_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-02T22:00:00-03:00",
+   "gancho": "AIR FRYER DE 8 LITROS DA BRITÂNIA QUASE PELA METADE",
+   "entrou": "2026-11-01T12:29:30.935454-03:00",
+   "dia": "2026-11-01"
+  },
+  {
+   "id": "shopee-9739004991",
+   "plataforma": "Shopee",
+   "nome": "Cabo Carregador Tipo C 2 Metros Turbo Premium Reforçado Android Xiaomi USB Dados",
+   "loja": "Shop Aquarela",
+   "loja_oficial": true,
+   "preco": 20.9,
+   "preco_antigo": 31.19,
+   "desconto": 33,
+   "vendas": 569,
+   "nota": 4.9,
+   "comissao_pct": 13.0,
+   "imagem": "https://cf.shopee.com.br/file/br-11134207-820l8-muxk686c53b4ab",
+   "link": "https://s.shopee.com.br/5AtiXcLCrT",
+   "canal": "tech",
+   "entrou": "2026-11-01T12:57:53.316199-03:00",
+   "dia": "2026-11-01"
+  },
+  {
+   "id": "mgl-SG4-01QZ-842",
+   "canal": "marcas",
+   "nome": "Tênis Asics Gel-Venture 11 Feminino",
+   "preco_antigo": 599.99,
+   "preco": 284.99,
+   "desconto": 53,
+   "link": "https://www.magazinevoce.com.br/magazinepapagarimpou/tenis-asics-gel-venture-11-feminino/p/hg81g613f6/es/osnr/",
+   "imagem": "https://static.netshoes.com.br/produtos/tenis-asics-gel-venture-11-feminino/42/SG4-01QZ-842/SG4-01QZ-842_zoom1.jpg",
+   "loja": "Vendido pela Netshoes · Magalu",
+   "plataforma": "Magalu",
+   "valida_ate": "2026-11-02T13:00:00-03:00",
+   "extra": "no Pix · ⭐ 4,9",
+   "entrou": "2026-11-01T13:32:53.984148-03:00",
+   "dia": "2026-11-01"
+  },
+  {
+   "id": "amz-B0CQKBJ79W",
+   "canal": "achadinhos",
+   "nome": "Acidificante Capilar L'Oréal Elseve Glycolic Gloss 200ml",
+   "preco_antigo": 66.39,
+   "preco": 27.13,
+   "desconto": 59,
+   "link": "https://www.amazon.com.br/dp/B0CQKBJ79W?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61BovhqqshL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-02T22:00:00-03:00",
+   "gancho": "BRILHO DE SALÃO DA L'ORÉAL POR MENOS DE 30 PILAS",
+   "entrou": "2026-11-01T12:29:30.935454-03:00",
+   "dia": "2026-11-01"
   }
  ],
  "ig_feitos": [
@@ -3175,9 +3249,10 @@
   "2026-11-01 12:47 story_oferta",
   "2026-11-01 13:20 story_convite",
   "2026-11-01 13:22 story_oferta",
-  "2026-11-01 feed",
   "2026-11-01 14:25 post_achado",
-  "2026-11-01 14:08 story_oferta"
+  "2026-11-01 14:08 story_oferta",
+  "2026-11-01 15:00 adivinha",
+  "2026-11-01 15:03 story_oferta"
  ],
  "ig_ofertas_usadas": [
   "amz-B0GP7KDZRJ",
@@ -3287,7 +3362,9 @@
   "amz-B0FKVWSM3N",
   "amz-B09GL5MXNV",
   "shopee-22497648129",
-  "amz-B0GNDQ1SBY"
+  "amz-B0GNDQ1SBY",
+  "amz-B08LPJ1FTK",
+  "amz-B0B72QZXCC"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
@@ -3325,36 +3402,6 @@
  "ultimo_pilar": "blackfriday",
  "fila": [
   {
-   "id": "amz-B0FJMLM9TS",
-   "canal": "achadinhos",
-   "nome": "Air Fryer Britânia 8L 3 em 1 Redstone BAF80A (127V)",
-   "preco_antigo": 651.36,
-   "preco": 342.9,
-   "desconto": 47,
-   "link": "https://www.amazon.com.br/dp/B0FJMLM9TS?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/516IzwstaCL._AC_SL1200_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-02T22:00:00-03:00",
-   "gancho": "AIR FRYER DE 8 LITROS DA BRITÂNIA QUASE PELA METADE",
-   "entrou": "2026-11-01T12:29:30.935454-03:00"
-  },
-  {
-   "id": "amz-B0CQKBJ79W",
-   "canal": "achadinhos",
-   "nome": "Acidificante Capilar L'Oréal Elseve Glycolic Gloss 200ml",
-   "preco_antigo": 66.39,
-   "preco": 27.13,
-   "desconto": 59,
-   "link": "https://www.amazon.com.br/dp/B0CQKBJ79W?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61BovhqqshL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-02T22:00:00-03:00",
-   "gancho": "BRILHO DE SALÃO DA L'ORÉAL POR MENOS DE 30 PILAS",
-   "entrou": "2026-11-01T12:29:30.935454-03:00"
-  },
-  {
    "id": "amz-B0BT23S5MF",
    "canal": "achadinhos",
    "nome": "Aspirador de Pó Vertical WAP High Speed Plus 3 em 1",
@@ -3368,38 +3415,6 @@
    "valida_ate": "2026-11-02T22:00:00-03:00",
    "gancho": "ASPIRADOR DA WAP PELA METADE, A POEIRA QUE LUTE",
    "entrou": "2026-11-01T12:29:30.935454-03:00"
-  },
-  {
-   "id": "shopee-9739004991",
-   "plataforma": "Shopee",
-   "nome": "Cabo Carregador Tipo C 2 Metros Turbo Premium Reforçado Android Xiaomi USB Dados",
-   "loja": "Shop Aquarela",
-   "loja_oficial": true,
-   "preco": 20.9,
-   "preco_antigo": 31.19,
-   "desconto": 33,
-   "vendas": 569,
-   "nota": 4.9,
-   "comissao_pct": 13.0,
-   "imagem": "https://cf.shopee.com.br/file/br-11134207-820l8-muxk686c53b4ab",
-   "link": "https://s.shopee.com.br/5AtiXcLCrT",
-   "canal": "tech",
-   "entrou": "2026-11-01T12:57:53.316199-03:00"
-  },
-  {
-   "id": "mgl-SG4-01QZ-842",
-   "canal": "marcas",
-   "nome": "Tênis Asics Gel-Venture 11 Feminino",
-   "preco_antigo": 599.99,
-   "preco": 284.99,
-   "desconto": 53,
-   "link": "https://www.magazinevoce.com.br/magazinepapagarimpou/tenis-asics-gel-venture-11-feminino/p/hg81g613f6/es/osnr/",
-   "imagem": "https://static.netshoes.com.br/produtos/tenis-asics-gel-venture-11-feminino/42/SG4-01QZ-842/SG4-01QZ-842_zoom1.jpg",
-   "loja": "Vendido pela Netshoes · Magalu",
-   "plataforma": "Magalu",
-   "valida_ate": "2026-11-02T13:00:00-03:00",
-   "extra": "no Pix · ⭐ 4,9",
-   "entrou": "2026-11-01T13:32:53.984148-03:00"
   },
   {
    "id": "mgl-SG4-014G-172",
@@ -3765,7 +3780,11 @@
   "smarttvtcl50qled4kp7lgoogletv": "2026-11-01T14:24:53.213736-03:00",
   "cafeteiraespressoosterprimalattetouchred127v": "2026-11-01T14:37:14.007409-03:00",
   "topfitnessfemininolupotoppowerpoliamidasemcosturaaltasustentacaosembojoacademiadiario": "2026-11-01T14:44:16.260433-03:00",
-  "niveademaquilantebifasico125ml": "2026-11-01T14:51:03.742152-03:00"
+  "niveademaquilantebifasico125ml": "2026-11-01T14:51:03.742152-03:00",
+  "airfryerbritania8l3em1redstonebaf80a127v": "2026-11-01T15:11:08.044044-03:00",
+  "cabocarregadortipoc2metrosturbopremiumreforcadoandroidxiaomiusbdados": "2026-11-01T15:23:31.947656-03:00",
+  "tenisasicsgelventure11feminino": "2026-11-01T15:37:16.850640-03:00",
+  "acidificantecapilarlorealelseveglycolicgloss200ml": "2026-11-01T15:48:59.380324-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
@@ -3808,5 +3827,26 @@
    "entradas": []
   }
  },
- "tg_offset": null
+ "tg_offset": null,
+ "adivinha": {
+  "dia": "2026-11-01",
+  "oferta": {
+   "id": "amz-B08LPJ1FTK",
+   "canal": "marcas",
+   "nome": "Camiseta Hering Masculina Gola V Regular",
+   "preco_antigo": 69.99,
+   "preco": 28.18,
+   "desconto": 60,
+   "link": "https://www.amazon.com.br/dp/B08LPJ1FTK?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/412DNop9COL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-01T23:59:00-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "gancho": "HERING GOLA V POR MENOS DE TRINTA CONTO",
+   "entrou": "2026-11-01T08:17:36.057942-03:00",
+   "dia": "2026-11-01"
+  }
+ },
+ "ig_dm_links": {}
 }

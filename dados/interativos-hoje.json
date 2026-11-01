@@ -1,0 +1,20 @@
+{
+ "dia": "2026-11-01",
+ "itens": [
+  {
+   "tipo": "adivinha",
+   "hora": "15:05",
+   "produtos": [
+    {
+     "nome": "Camiseta Hering Masculina Gola V Regular",
+     "preco_antigo": 69.99,
+     "preco": 28.18,
+     "desconto": 60,
+     "link": "https://www.amazon.com.br/dp/B08LPJ1FTK?tag=papagarimpou-20",
+     "loja": "Vendido e entregue pela Amazon",
+     "canal": "marcas"
+    }
+   ]
+  }
+ ]
+}
