@@ -58,6 +58,7 @@ def gravar_relatorio(h: dict, agora: datetime) -> None:
     dia["ultima_execucao"] = agora.strftime("%H:%M")
     dia["execucoes"] = dia.get("execucoes", 0) + 1
     dia["telegram_posts"] = {c: sum(1 for s in h["slots_feitos"] if s.startswith(f"{hoje} {c}")) for c in config.CANAIS}
+    dia["ultimo_post"] = ultimo_post(h, agora)
     dia["telegram_membros"] = {c: telegram.membros(d) for c, d in {**config.CANAIS, "geral": config.GERAL}.items()}
     dia["instagram_feito"] = [f[11:] for f in h.get("ig_feitos", []) if f.startswith(hoje)]
     dia["shopee_ligada"] = bool(os.environ.get("SHOPEE_APP_ID"))
@@ -93,12 +94,12 @@ def ja_postado_recente(h: dict, oferta_id: str, agora: datetime, nome: str = "")
     return False
 
 
-def garimpar_todas(canal: str, fonte, h: dict, agora: datetime) -> list[dict]:
+def garimpar_todas(canal: str, fonte, h: dict, agora: datetime, termos: list[str] | None = None) -> list[dict]:
     """Todas as ofertas boas e não postadas de todas as buscas do canal, melhores primeiro.
     Sem cota: o único filtro é a qualidade (regra do dono: achou coisa boa, posta)."""
     reprovados = {}
     boas = {}
-    for termo in config.BUSCAS[canal]:
+    for termo in termos or config.BUSCAS[canal]:
         try:
             ofertas = fonte(termo)
         except Exception as e:
@@ -189,6 +190,55 @@ def entrar_na_fila(h: dict, canal: str, ofertas: list[dict], agora: datetime) ->
     h["fila"] = fila
 
 
+def ultimo_post(h: dict, agora: datetime) -> dict:
+    """Hora (HH:MM) do último post de hoje em cada canal de nicho; None se ainda não postou hoje."""
+    hoje = agora.date().isoformat()
+    ult = {c: None for c in config.CANAIS}
+    for s in h.get("slots_feitos", []):
+        partes = s.split(" ")
+        if len(partes) >= 3 and partes[0] == hoje and partes[1] in ult:
+            ult[partes[1]] = max(ult[partes[1]] or "", partes[2])
+    return ult
+
+
+def minutos_parado(h: dict, canal: str, agora: datetime) -> float:
+    """Minutos desde o último post do canal; antes do 1º post do dia conta a partir das 8h."""
+    hm = ultimo_post(h, agora)[canal]
+    base = agora.replace(hour=int(hm[:2]), minute=int(hm[3:]), second=0, microsecond=0) if hm else         agora.replace(hour=config.JANELA_INICIO[0], minute=config.JANELA_INICIO[1], second=0, microsecond=0)
+    return (agora - base).total_seconds() / 60
+
+
+def socorrer_parados(h: dict, telegram, buscar_fundo, agora: datetime) -> None:
+    """01/11 (31/10 o Tech ficou 19 h e o Marcas 15 h sem post): canal parado há mais de
+    CANAL_PARADO_MIN e sem item na fila → busca extra na Shopee; se nem assim, avisa o dono
+    uma vez por período (manhã/tarde/noite), em vez de ficar calado."""
+    import random
+    ini = agora.replace(hour=config.JANELA_INICIO[0], minute=config.JANELA_INICIO[1], second=0, microsecond=0)
+    fim = agora.replace(hour=config.JANELA_FIM[0], minute=config.JANELA_FIM[1], second=0, microsecond=0)
+    if not (ini <= agora <= fim):
+        return
+    for canal in config.CANAIS:
+        if any(f["canal"] == canal for f in h.get("fila", [])) or minutos_parado(h, canal, agora) < config.CANAL_PARADO_MIN:
+            continue
+        if buscar_fundo:
+            termos = random.sample(config.BUSCAS[canal], min(config.BUSCA_EXTRA_TERMOS, len(config.BUSCAS[canal])))
+            try:
+                entrar_na_fila(h, canal, garimpar_todas(canal, buscar_fundo, h, agora, termos), agora)
+            except Exception as e:
+                print(f"[parado] busca extra de {canal} falhou: {e}")
+            if any(f["canal"] == canal for f in h.get("fila", [])):
+                print(f"[parado] {canal}: busca extra achou oferta")
+                continue
+        periodo = "manhã" if agora.hour < 12 else ("tarde" if agora.hour < 18 else "noite")
+        chave = f"{agora.date().isoformat()} {periodo} {canal}"
+        avisos = h.setdefault("avisos_parado", [])
+        if chave not in avisos:
+            avisos.append(chave)
+            h["avisos_parado"] = avisos[-30:]
+            telegram.avisar_dono(f"canal {canal} sem oferta na fila há {minutos_parado(h, canal, agora):.0f} min "
+                                 f"(busca extra também não achou). Abastecer ofertas_manuais.json.")
+
+
 def ate_proxima_execucao(agora: datetime) -> datetime:
     """A fila corre até 3 min antes da próxima execução do robo.yml (nunca depois das 22h)."""
     fim = agora.replace(hour=config.JANELA_FIM[0], minute=config.JANELA_FIM[1], second=0, microsecond=0)
@@ -214,7 +264,10 @@ def soltar_fila(h: dict, telegram, limite: datetime) -> int:
     while h.get("fila"):
         agora = datetime.now(FUSO)
         canais = [c for c in config.CANAIS if any(f["canal"] == c for f in h["fila"])]
-        canal = canais[vez % len(canais)]
+        # 01/11: canal parado há mais de CANAL_PARADO_MIN passa na frente (o mais parado primeiro)
+        parados = sorted((c for c in canais if minutos_parado(h, c, agora) >= config.CANAL_PARADO_MIN),
+                         key=lambda c: -minutos_parado(h, c, agora))
+        canal = parados[0] if parados else canais[vez % len(canais)]
         vez += 1
         # 30/10: execução atrasada do GitHub postou às 3h12. Fora da janela (8h–22h) não posta; a fila espera.
         ini = agora.replace(hour=config.JANELA_INICIO[0], minute=config.JANELA_INICIO[1], second=0, microsecond=0)
@@ -633,6 +686,7 @@ def main() -> int:
             erros += 1
             continue
         entrar_na_fila(h, canal, ofertas, agora)
+    socorrer_parados(h, telegram, shopee.buscar_fundo if shopee_ok else None, agora)
     if shopee_ok:
         checar_vendas_shopee(h, telegram, agora)
     erros += soltar_fila(h, telegram, ate_proxima_execucao(agora))

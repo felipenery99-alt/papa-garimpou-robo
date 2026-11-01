@@ -71,6 +71,17 @@ def buscar(termo: str, limite: int = 50) -> list[dict]:
     return saida
 
 
+
+def buscar_fundo(termo: str, limite: int = 50) -> list[dict]:
+    """Canal parado (01/11): páginas 3 e 4 do termo, que a busca normal não alcança."""
+    saida = []
+    for pg in (3, 4):
+        try:
+            saida += _pagina(termo, pg, limite)
+        except Exception:
+            break
+    return saida
+
 def _normalizar(n: dict) -> dict:
     preco = float(n.get("priceMin") or n.get("price") or 0)
     desconto = int(n.get("priceDiscountRate") or 0)

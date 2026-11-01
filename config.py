@@ -60,6 +60,8 @@ ATRASO_INICIAL_MIN = (0.5, 4)
 
 def intervalo_posts(hora: int) -> tuple[float, float]:
     return INTERVALO_MANHA_MIN if hora < 12 else INTERVALO_TARDE_MIN
+CANAL_PARADO_MIN = 50          # 01/11 (meta do dono: nenhum canal >1 h sem post 8h–22h): passou disso, o canal tem prioridade
+BUSCA_EXTRA_TERMOS = 4         # canal parado e sem item na fila: busca extra (páginas 3–4) em N termos sorteados do nicho
 FILA_VALIDADE_H = 4            # oferta parada na fila há mais que isso sai (o preço pode ter mudado)
 # Horários das execuções do robo.yml em Brasília (para a fila parar antes da próxima)
 EXECUCOES = ["08:07", "08:52", "09:38", "10:24", "11:11", "11:56", "12:19", "12:47", "13:22", "14:08",
