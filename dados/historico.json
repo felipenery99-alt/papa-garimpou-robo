@@ -308,7 +308,10 @@
   "2026-11-01 achadinhos 19:33 amz-B0CQKKRWMQ",
   "2026-11-01 tech 19:43 amz-B0B2VQBBQ1",
   "2026-11-01 achadinhos 19:53 amz-B00021AKJI",
-  "2026-11-01 achadinhos 19:57 amz-B0BBSDS4BT"
+  "2026-11-01 achadinhos 19:57 amz-B0BBSDS4BT",
+  "2026-11-01 marcas 20:13 amz-B0DKJPZ3XN",
+  "2026-11-01 tech 20:20 amz-B0D2LPLTJ8",
+  "2026-11-01 achadinhos 20:34 amz-B09WNXBVGR"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -625,7 +628,10 @@
   "amz-B0CQKKRWMQ": "2026-11-01T19:33:54.778697-03:00",
   "amz-B0B2VQBBQ1": "2026-11-01T19:43:52.773814-03:00",
   "amz-B00021AKJI": "2026-11-01T19:53:15.640165-03:00",
-  "amz-B0BBSDS4BT": "2026-11-01T19:57:20.233120-03:00"
+  "amz-B0BBSDS4BT": "2026-11-01T19:57:20.233120-03:00",
+  "amz-B0DKJPZ3XN": "2026-11-01T20:13:49.995129-03:00",
+  "amz-B0D2LPLTJ8": "2026-11-01T20:20:48.959334-03:00",
+  "amz-B09WNXBVGR": "2026-11-01T20:34:05.606773-03:00"
  },
  "ofertas_dia": [
   {
@@ -3526,6 +3532,54 @@
    "gancho": "PANELA TRAMONTINA QUASE PELA METADE",
    "entrou": "2026-11-01T19:53:39.418735-03:00",
    "dia": "2026-11-01"
+  },
+  {
+   "id": "amz-B0DKJPZ3XN",
+   "canal": "marcas",
+   "nome": "Camisa Manchester City 25/26 Home Puma Masculina",
+   "preco_antigo": 429.99,
+   "preco": 164.53,
+   "desconto": 62,
+   "link": "https://www.amazon.com.br/dp/B0DKJPZ3XN?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61NG3EZvhJL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-02T22:00:00-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "gancho": "CAMISA OFICIAL DO CITY COM 62% OFF",
+   "entrou": "2026-11-01T19:53:39.418735-03:00",
+   "dia": "2026-11-01"
+  },
+  {
+   "id": "amz-B0D2LPLTJ8",
+   "canal": "tech",
+   "nome": "Caixa de Som JBL Xtreme 4 Bluetooth",
+   "preco_antigo": 2744.43,
+   "preco": 1299.0,
+   "desconto": 53,
+   "link": "https://www.amazon.com.br/dp/B0D2LPLTJ8?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71jzFcaXnzL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-02T22:00:00-03:00",
+   "gancho": "JBL XTREME 4 PELA METADE DO PREÇO",
+   "entrou": "2026-11-01T19:53:39.418735-03:00",
+   "dia": "2026-11-01"
+  },
+  {
+   "id": "amz-B09WNXBVGR",
+   "canal": "achadinhos",
+   "nome": "Aspirador Vertical WAP High Speed Black 2 em 1",
+   "preco_antigo": 279.9,
+   "preco": 150.21,
+   "desconto": 46,
+   "link": "https://www.amazon.com.br/dp/B09WNXBVGR?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71obZjsEaDL._AC_SL1500_.jpg",
+   "loja": "Vendido por parceiro · entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-02T22:00:00-03:00",
+   "entrou": "2026-11-01T19:53:39.418735-03:00",
+   "dia": "2026-11-01"
   }
  ],
  "ig_feitos": [
@@ -3669,7 +3723,8 @@
   "2026-11-01 18:09 story_oferta",
   "2026-11-01 18:42 story_oferta",
   "2026-11-01 19:15 post_achado",
-  "2026-11-01 19:17 story_oferta"
+  "2026-11-01 19:17 story_oferta",
+  "2026-11-01 20:03 story_oferta"
  ],
  "ig_ofertas_usadas": [
   "amz-B0GP7KDZRJ",
@@ -3790,7 +3845,8 @@
   "amz-B09XJL4B9H",
   "amz-B0CC6MGM1B",
   "shopee-18597753531",
-  "amz-B0DF2WSGF6"
+  "amz-B0DF2WSGF6",
+  "amz-B0CP2RKYMY"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
@@ -3827,66 +3883,6 @@
  },
  "ultimo_pilar": "blackfriday",
  "fila": [
-  {
-   "id": "mgl-SG4-014G-172",
-   "canal": "marcas",
-   "nome": "Tênis Asics Gel-Excite 11 Masculino",
-   "preco_antigo": 499.99,
-   "preco": 303.99,
-   "desconto": 39,
-   "link": "https://www.magazinevoce.com.br/magazinepapagarimpou/tenis-asics-gel-excite-11-masculino/p/bdcc83afhf/es/osnr/",
-   "imagem": "https://static.netshoes.com.br/produtos/tenis-asics-gel-excite-11-masculino/72/SG4-014G-172/SG4-014G-172_zoom1.jpg",
-   "loja": "Vendido pela Netshoes · Magalu",
-   "plataforma": "Magalu",
-   "valida_ate": "2026-11-02T13:00:00-03:00",
-   "extra": "no Pix · ⭐ 4,8 (537 avaliações)",
-   "gancho": "PRA CORRER MAIS E PAGAR MENOS",
-   "entrou": "2026-11-01T16:23:02.297026-03:00"
-  },
-  {
-   "id": "amz-B0G4581RM9",
-   "canal": "marcas",
-   "nome": "Tênis New Balance Fresh Foam Arishi v4 Masculino",
-   "preco_antigo": 499.99,
-   "preco": 284.99,
-   "desconto": 43,
-   "link": "https://www.amazon.com.br/dp/B0G4581RM9?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51dQq0r1QKL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-01T23:59:00-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "entrou": "2026-11-01T18:52:17.613702-03:00"
-  },
-  {
-   "id": "amz-B0G72J3245",
-   "canal": "marcas",
-   "nome": "Tênis New Balance BB80 Unissex",
-   "preco_antigo": 399.99,
-   "preco": 256.49,
-   "desconto": 36,
-   "link": "https://www.amazon.com.br/dp/B0G72J3245?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/512G2QQesLL._AC_SL1200_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-01T23:59:00-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "entrou": "2026-11-01T18:52:17.613702-03:00"
-  },
-  {
-   "id": "amz-B09WNXBVGR",
-   "canal": "achadinhos",
-   "nome": "Aspirador Vertical WAP High Speed Black 2 em 1",
-   "preco_antigo": 279.9,
-   "preco": 150.21,
-   "desconto": 46,
-   "link": "https://www.amazon.com.br/dp/B09WNXBVGR?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/71obZjsEaDL._AC_SL1500_.jpg",
-   "loja": "Vendido por parceiro · entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-02T22:00:00-03:00",
-   "entrou": "2026-11-01T19:53:39.418735-03:00"
-  },
   {
    "id": "amz-B0CDR1SKHR",
    "canal": "achadinhos",
@@ -3999,38 +3995,6 @@
    "loja": "Vendido por Fast Shop · entregue pela Amazon",
    "plataforma": "Amazon",
    "valida_ate": "2026-11-02T22:00:00-03:00",
-   "entrou": "2026-11-01T19:53:39.418735-03:00"
-  },
-  {
-   "id": "amz-B0DJ8WR5JD",
-   "canal": "marcas",
-   "nome": "Tênis de Corrida Puma Darter Pro",
-   "preco_antigo": 499.99,
-   "preco": 237.49,
-   "desconto": 53,
-   "link": "https://www.amazon.com.br/dp/B0DJ8WR5JD?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61qZ9bN9UXL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-02T22:00:00-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "gancho": "PUMA DE CORRIDA PELA METADE",
-   "entrou": "2026-11-01T19:53:39.418735-03:00"
-  },
-  {
-   "id": "amz-B0DKJPZ3XN",
-   "canal": "marcas",
-   "nome": "Camisa Manchester City 25/26 Home Puma Masculina",
-   "preco_antigo": 429.99,
-   "preco": 164.53,
-   "desconto": 62,
-   "link": "https://www.amazon.com.br/dp/B0DKJPZ3XN?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61NG3EZvhJL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-02T22:00:00-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "gancho": "CAMISA OFICIAL DO CITY COM 62% OFF",
    "entrou": "2026-11-01T19:53:39.418735-03:00"
   },
   {
@@ -4196,21 +4160,6 @@
    "plataforma": "Amazon",
    "valida_ate": "2026-11-02T22:00:00-03:00",
    "extra": "A partir de: varia por tamanho e cor",
-   "entrou": "2026-11-01T19:53:39.418735-03:00"
-  },
-  {
-   "id": "amz-B0D2LPLTJ8",
-   "canal": "tech",
-   "nome": "Caixa de Som JBL Xtreme 4 Bluetooth",
-   "preco_antigo": 2744.43,
-   "preco": 1299.0,
-   "desconto": 53,
-   "link": "https://www.amazon.com.br/dp/B0D2LPLTJ8?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/71jzFcaXnzL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-02T22:00:00-03:00",
-   "gancho": "JBL XTREME 4 PELA METADE DO PREÇO",
    "entrou": "2026-11-01T19:53:39.418735-03:00"
   },
   {
@@ -4466,7 +4415,10 @@
   "airfryerbritaniabfr3742l1500w": "2026-11-01T19:33:54.778697-03:00",
   "tecladomecanicosemfiologitechmxmechanical": "2026-11-01T19:43:52.773814-03:00",
   "perfumecalvinkleineternitymasculinoedt100ml": "2026-11-01T19:53:15.640165-03:00",
-  "jogodepanelastramontinaparisantiaderente10pecas": "2026-11-01T19:57:20.233120-03:00"
+  "jogodepanelastramontinaparisantiaderente10pecas": "2026-11-01T19:57:20.233120-03:00",
+  "camisamanchestercity2526homepumamasculina": "2026-11-01T20:13:49.995129-03:00",
+  "caixadesomjblxtreme4bluetooth": "2026-11-01T20:20:48.959334-03:00",
+  "aspiradorverticalwaphighspeedblack2em1": "2026-11-01T20:34:05.606773-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
