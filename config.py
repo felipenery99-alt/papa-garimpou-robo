@@ -77,7 +77,7 @@ BUSCA_EXTRA_TERMOS = 4         # canal parado e sem item na fila: busca extra (p
 FILA_VALIDADE_H = 4            # oferta parada na fila há mais que isso sai (o preço pode ter mudado)
 # Horários das execuções do robo.yml em Brasília (para a fila parar antes da próxima)
 EXECUCOES = ["08:07", "08:52", "09:38", "10:24", "11:11", "11:56", "12:19", "12:47", "13:22", "14:08",
-             "15:03", "16:44", "17:36", "18:09", "18:42", "19:17", "20:03", "20:38", "21:24"]
+             "15:03", "15:51", "16:44", "17:36", "18:09", "18:42", "19:17", "20:03", "20:38", "21:24"]
 FUSO = "America/Sao_Paulo"
 # Picos (peso maior no sorteio): almoço, fim de tarde, noite
 PICOS = [((12, 0), (13, 30)), ((18, 0), (19, 30)), ((20, 30), (22, 0))]
@@ -130,6 +130,13 @@ MARCAS_PROIBIDAS_SHOPEE = ["lattafa", "armaf", "al wataniah"]
 # Perfume de marca (01/11, Telegram): prioridade fixa, no máximo 4 por dia somando os canais
 PALAVRAS_PERFUME = ["perfume", "colônia", "colonia", "deo parfum", "eau de", "desodorante colônia"]
 MAX_PERFUME_DIA = 4
+# 01/11 (Central): DOMINGO DO PERFUME, 10h–13h — a fila só solta perfume (bloco montado pela sessão Telegram).
+# O teto de 4 perfumes por dia não vale no domingo (o bloco precisa de volume).
+BLOCO_PERFUME = (6, "10:00", "13:00")   # (dia da semana, início, fim)
+# Top 10 garimpos da semana: sábado no canal geral, contagem #10 → #1, 1 post a cada ~3 min
+TOP10_DIA_SEMANA = 5
+TOP10_JANELA = ("20:30", "21:30")
+TOP10_INTERVALO_MIN = 3
 # Máximo de ofertas da mesma marca por dia em cada canal (30/10: saíram 4 secadores Taiff seguidos)
 MAX_MESMA_MARCA_DIA = 2
 

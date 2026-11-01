@@ -129,7 +129,7 @@ def garimpar_todas(canal: str, fonte, h: dict, agora: datetime, termos: list[str
         if por_marca.get(m, 0) >= config.MAX_MESMA_MARCA_DIA:
             continue
         if qualidade.eh_perfume(o):
-            if perfumes >= config.MAX_PERFUME_DIA:
+            if perfumes >= config.MAX_PERFUME_DIA and agora.weekday() != config.BLOCO_PERFUME[0]:
                 continue
             perfumes += 1
         por_marca[m] = por_marca.get(m, 0) + 1
@@ -233,6 +233,83 @@ def minutos_parado(h: dict, canal: str, agora: datetime) -> float:
     return (agora - base).total_seconds() / 60
 
 
+def conferir_oferta(o: dict, agora: datetime) -> dict | None:
+    """Oferta ainda no ar e no preço? Shopee: consulta a API de novo (preço/desconto atuais, mesmas regras
+    de qualidade). Fila manual (Amazon etc.): vale enquanto estiver em ofertas_manuais.json e na validade.
+    O resto fica de fora (na dúvida, não entra no ranking)."""
+    import os
+    if o["id"].startswith("shopee-"):
+        if not os.environ.get("SHOPEE_APP_ID"):
+            return None
+        import shopee
+        try:
+            achados = [n for n in shopee._pagina(o["nome"][:60], 1, 20) if n["id"] == o["id"]]
+        except Exception:
+            return None
+        if not achados:
+            return None
+        novo = {**o, **achados[0], "canal": o["canal"]}
+        return novo if qualidade.avaliar(novo, o["canal"])[0] else None
+    man = {m["id"]: m for m in (json.loads(MANUAIS.read_text(encoding="utf-8")) if MANUAIS.exists() else [])}
+    m = man.get(o["id"])
+    if not m or (m.get("valida_ate") and m["valida_ate"] < agora.isoformat()):
+        return None
+    return {**o, **m}
+
+
+def ranking_semana(h: dict, agora: datetime, n: int) -> list[dict]:
+    """Maiores descontos reais dos últimos 7 dias que continuam válidos (um por produto)."""
+    semana = (agora - timedelta(days=7)).date().isoformat()
+    por_id = {}
+    for o in sorted(h.get("ofertas_dia", []), key=lambda o: o.get("dia", "")):
+        if o.get("dia", "") >= semana and o.get("preco_antigo") and o.get("link") and o.get("imagem"):
+            por_id[o["id"]] = o
+    vistos, saida = set(), []
+    for o in sorted(por_id.values(), key=lambda o: o.get("desconto") or 0, reverse=True):
+        if chave_nome(o.get("nome", "")) in vistos:
+            continue
+        ok = conferir_oferta(o, agora)
+        if ok and ok.get("preco_antigo") and ok["preco_antigo"] > ok["preco"]:
+            vistos.add(chave_nome(o.get("nome", "")))
+            saida.append(ok)
+        if len(saida) == n:
+            break
+    return sorted(saida, key=lambda o: o.get("desconto") or 0, reverse=True)
+
+
+def top10_semana(h: dict, telegram, agora: datetime) -> None:
+    """01/11 (Central, formato do concorrente): sábado 20h30, TOP 10 GARIMPOS DA SEMANA no canal geral,
+    contagem #10 → #1, 1 post a cada ~3 min. É recap: pode repetir item dos últimos 7 dias."""
+    import os
+    import time as _time
+    hoje = agora.date().isoformat()
+    ini, fim = config.TOP10_JANELA
+    if agora.weekday() != config.TOP10_DIA_SEMANA or not (ini <= f"{agora:%H:%M}" <= fim) \
+            or h.get("top10_dia") == hoje:
+        return
+    h["top10_dia"] = hoje
+    salvar_hist(h)   # marca antes: se o job cair no meio, não recomeça a contagem do zero
+    itens = ranking_semana(h, agora, 10)
+    if len(itens) < 5:
+        telegram.avisar_dono(f"Top 10 da semana: só {len(itens)} oferta(s) ainda válida(s); não postei.")
+        return
+    for pos in range(len(itens), 0, -1):
+        o = itens[pos - 1]
+        topo = f"🏆 TOP {len(itens)} GARIMPOS DA SEMANA · #{pos}\n🔁 ainda no preço\n\n"
+        try:
+            telegram.postar_foto(config.GERAL, post.foto_com_selo(o["imagem"]), topo + post.legenda(o, o["canal"]))
+            print(f"[top10] #{pos} {o['nome'][:50]}")
+        except Exception as e:
+            telegram.avisar_dono(f"Top 10 #{pos} falhou: {e}")
+        if pos > 1 and not os.environ.get("PAPA_SEM_ATRASO"):
+            _time.sleep(config.TOP10_INTERVALO_MIN * 60)
+
+
+def em_bloco_perfume(agora: datetime) -> bool:
+    dia, ini, fim = config.BLOCO_PERFUME
+    return agora.weekday() == dia and ini <= f"{agora:%H:%M}" < fim
+
+
 def socorrer_parados(h: dict, telegram, buscar_fundo, agora: datetime) -> None:
     """01/11 (31/10 o Tech ficou 19 h e o Marcas 15 h sem post): canal parado há mais de
     CANAL_PARADO_MIN e sem item na fila → busca extra na Shopee; se nem assim, avisa o dono
@@ -240,7 +317,7 @@ def socorrer_parados(h: dict, telegram, buscar_fundo, agora: datetime) -> None:
     import random
     ini = agora.replace(hour=config.JANELA_INICIO[0], minute=config.JANELA_INICIO[1], second=0, microsecond=0)
     fim = agora.replace(hour=config.JANELA_FIM[0], minute=config.JANELA_FIM[1], second=0, microsecond=0)
-    if not (ini <= agora <= fim):
+    if not (ini <= agora <= fim) or em_bloco_perfume(agora):
         return
     for canal in config.CANAIS:
         if any(f["canal"] == canal for f in h.get("fila", [])) or minutos_parado(h, canal, agora) < config.CANAL_PARADO_MIN:
@@ -288,7 +365,12 @@ def soltar_fila(h: dict, telegram, limite: datetime) -> int:
         _time.sleep(random.uniform(*config.ATRASO_INICIAL_MIN) * 60)
     while h.get("fila"):
         agora = datetime.now(FUSO)
-        canais = [c for c in config.CANAIS if any(f["canal"] == c for f in h["fila"])]
+        # 01/11 (Central): domingo 10h–13h é o bloco DOMINGO DO PERFUME — só perfume sai; o resto espera
+        pode = [f for f in h["fila"] if not em_bloco_perfume(agora) or qualidade.eh_perfume(f)]
+        if not pode:
+            print("bloco DOMINGO DO PERFUME: sem perfume na fila, o resto espera")
+            break
+        canais = [c for c in config.CANAIS if any(f["canal"] == c for f in pode)]
         # 01/11: canal parado há mais de CANAL_PARADO_MIN passa na frente (o mais parado primeiro)
         parados = sorted((c for c in canais if minutos_parado(h, c, agora) >= config.CANAL_PARADO_MIN),
                          key=lambda c: -minutos_parado(h, c, agora))
@@ -300,7 +382,7 @@ def soltar_fila(h: dict, telegram, limite: datetime) -> int:
         if not (ini <= agora <= fim):
             print("fora da janela 8h–22h: fila guardada para depois")
             break
-        oferta = next(f for f in h["fila"] if f["canal"] == canal)
+        oferta = next(f for f in pode if f["canal"] == canal)
         h["fila"].remove(oferta)
         if ja_postado_recente(h, oferta["id"], agora, oferta.get("nome", "")):
             continue
@@ -506,6 +588,8 @@ def rodar_instagram(h: dict, agora: datetime) -> None:
                 continue
             if e.get("diario") and not (e.get("hora_ini", "00:00") <= f"{agora:%H:%M}" <= e.get("hora_fim", "23:59")):
                 continue
+            if "dias_semana" in e and agora.weekday() not in e["dias_semana"]:   # 0 = segunda … 6 = domingo
+                continue
             paletas = e.get("paletas") or [e.get("paleta", 0)]
             try:
                 arte = artes.story_especial(e["titulo"], e["linhas"], paletas[agora.toordinal() % len(paletas)],
@@ -539,6 +623,18 @@ def rodar_instagram(h: dict, agora: datetime) -> None:
                     print(f"[ig] publicado {chave}")
                     continue
                 tipo = "story_oferta"   # sem oferta que sirva: story de oferta comum no lugar
+            # 01/11 (Central): sábado, o post das 19h15 vira o carrossel Top 5 da semana (chama para o Top 10)
+            if tipo == "post_achado" and hora == "19:15" and agora.weekday() == config.TOP10_DIA_SEMANA:
+                top = ranking_semana(h, agora, 5)
+                if len(top) >= 3:
+                    slides = [artes.capa_semana(len(top))] + [artes.post_oferta(o, o["canal"]) for o in top]
+                    lista = "\n".join(f"{i+1}. {o['nome'][:60]} — {post._brl(o['preco'])} ({o['desconto']}% OFF)"
+                                      for i, o in enumerate(top))
+                    instagram.carrossel(slides, f"{tag}-top5-semana", "😎💎 Top 5 da semana do Papa\n\n" + lista
+                                        + "\n\nHoje 20h30 tem o TOP 10 completo no Telegram (link na bio)." + LEGENDA_CTA)
+                    feitos += [f"{hoje} feed", chave]
+                    print(f"[ig] publicado {chave} (top 5 da semana)")
+                    continue
             if tipo == "post_achado" and hora == "19:15" and agora.weekday() == config.SALVAVEL_DIA_SEMANA \
                     and publicar_salvavel(h, agora, tag):
                 feitos += [f"{hoje} feed", chave]
@@ -902,6 +998,7 @@ def main() -> int:
         entrar_na_fila(h, canal, ofertas, agora)
     convites_story(h, telegram, agora)
     preparar_story_link(h, agora)
+    top10_semana(h, telegram, agora)
     socorrer_parados(h, telegram, shopee.buscar_fundo if shopee_ok else None, agora)
     if shopee_ok:
         checar_vendas_shopee(h, telegram, agora)

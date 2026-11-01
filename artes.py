@@ -418,6 +418,22 @@ def capa_salvavel(categoria: str, teto: int) -> bytes:
     return _jpeg(img)
 
 
+def capa_semana(n: int = 5) -> bytes:
+    """Capa do carrossel de sábado: Top N da semana (maiores descontos ainda no preço)."""
+    tema = PALETAS_OFERTA[2]
+    img = _gradiente(1080, 1350, *tema["fundo"]).convert("RGBA")
+    d = ImageDraw.Draw(img)
+    img.alpha_composite(_selo(360), (350, 110))
+    _centro(d, 540, f"TOP {n}", _fonte(170), tema["texto"])
+    _centro(d, 740, "DA SEMANA", _fonte(110), (255, 255, 255))
+    txt = "AINDA NO PREÇO"
+    w = d.textlength(txt, font=_fonte(64)) + 80
+    d.rounded_rectangle(((1080 - w) / 2, 900, (1080 + w) / 2, 1000), radius=50, fill=tema["destaque"])
+    _centro(d, 912, txt, _fonte(64), tema["destaque_txt"])
+    _centro(d, 1160, "arrasta pro lado →", _fonte(56, "Bold"), tema["texto"])
+    return _jpeg(img)
+
+
 def post_oferta(oferta: dict, canal: str) -> bytes:
     """Post de feed 1080x1350 ('Achado do dia')."""
     tema = tema_oferta(oferta)

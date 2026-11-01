@@ -32,5 +32,26 @@
    5,
    3
   ]
+ },
+ {
+  "id": "top10-rolando",
+  "diario": true,
+  "dias_semana": [
+   5
+  ],
+  "hora_ini": "20:30",
+  "hora_fim": "21:30",
+  "titulo": [
+   "O TOP 10 DA SEMANA",
+   "TÁ ROLANDO"
+  ],
+  "linhas": [
+   "Os 10 maiores descontos da semana,",
+   "um a um, no Telegram agora"
+  ],
+  "botao": "LINK NA BIO",
+  "paletas": [
+   2
+  ]
  }
 ]
