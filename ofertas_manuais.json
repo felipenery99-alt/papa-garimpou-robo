@@ -312,5 +312,49 @@
   "loja": "Vendido e entregue pela Amazon",
   "plataforma": "Amazon",
   "valida_ate": "2026-11-01T23:59:00-03:00"
+ },
+ {
+  "id": "mgl-SG4-0157-058",
+  "canal": "marcas",
+  "nome": "Tênis Asics Patriot 14 Feminino",
+  "preco_antigo": 449.99,
+  "preco": 199.49,
+  "desconto": 56,
+  "link": "https://www.magazinevoce.com.br/magazinepapagarimpou/tenis-asics-patriot-14-feminino/p/jkbe6jhfa1/es/osnr/",
+  "imagem": "https://static.netshoes.com.br/produtos/tenis-asics-patriot-14-feminino/58/SG4-0157-058/SG4-0157-058_zoom1.jpg",
+  "loja": "Vendido pela Netshoes · Magalu",
+  "plataforma": "Magalu",
+  "valida_ate": "2026-11-02T13:00:00-03:00",
+  "extra": "no Pix · ⭐ 4,9 (1.206 avaliações)",
+  "gancho": "ASICS PELA METADE DO PREÇO? O PAPA PEGOU"
+ },
+ {
+  "id": "mgl-SG4-01QZ-842",
+  "canal": "marcas",
+  "nome": "Tênis Asics Gel-Venture 11 Feminino",
+  "preco_antigo": 599.99,
+  "preco": 284.99,
+  "desconto": 53,
+  "link": "https://www.magazinevoce.com.br/magazinepapagarimpou/tenis-asics-gel-venture-11-feminino/p/hg81g613f6/es/osnr/",
+  "imagem": "https://static.netshoes.com.br/produtos/tenis-asics-gel-venture-11-feminino/42/SG4-01QZ-842/SG4-01QZ-842_zoom1.jpg",
+  "loja": "Vendido pela Netshoes · Magalu",
+  "plataforma": "Magalu",
+  "valida_ate": "2026-11-02T13:00:00-03:00",
+  "extra": "no Pix · ⭐ 4,9"
+ },
+ {
+  "id": "mgl-SG4-014G-172",
+  "canal": "marcas",
+  "nome": "Tênis Asics Gel-Excite 11 Masculino",
+  "preco_antigo": 499.99,
+  "preco": 303.99,
+  "desconto": 39,
+  "link": "https://www.magazinevoce.com.br/magazinepapagarimpou/tenis-asics-gel-excite-11-masculino/p/bdcc83afhf/es/osnr/",
+  "imagem": "https://static.netshoes.com.br/produtos/tenis-asics-gel-excite-11-masculino/72/SG4-014G-172/SG4-014G-172_zoom1.jpg",
+  "loja": "Vendido pela Netshoes · Magalu",
+  "plataforma": "Magalu",
+  "valida_ate": "2026-11-02T13:00:00-03:00",
+  "extra": "no Pix · ⭐ 4,8 (537 avaliações)",
+  "gancho": "PRA CORRER MAIS E PAGAR MENOS"
  }
 ]
