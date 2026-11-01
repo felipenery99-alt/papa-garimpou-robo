@@ -295,7 +295,10 @@
   "2026-11-01 tech 17:06 amz-B0BDHYF8YS",
   "2026-11-01 tech 17:15 amz-B0FDX9MDXK",
   "2026-11-01 achadinhos 17:25 amz-B094S8TXCT",
-  "2026-11-01 marcas 17:31 amz-B0F1C2BS84"
+  "2026-11-01 marcas 17:31 amz-B0F1C2BS84",
+  "2026-11-01 achadinhos 17:44 amz-B0F2JMYPQ9",
+  "2026-11-01 marcas 17:51 amz-B0F6TRVJZF",
+  "2026-11-01 tech 18:04 amz-B0DHL93XCN"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -599,7 +602,10 @@
   "amz-B0BDHYF8YS": "2026-11-01T17:06:42.082670-03:00",
   "amz-B0FDX9MDXK": "2026-11-01T17:15:13.390968-03:00",
   "amz-B094S8TXCT": "2026-11-01T17:25:54.623454-03:00",
-  "amz-B0F1C2BS84": "2026-11-01T17:31:58.727860-03:00"
+  "amz-B0F1C2BS84": "2026-11-01T17:31:58.727860-03:00",
+  "amz-B0F2JMYPQ9": "2026-11-01T17:44:39.272566-03:00",
+  "amz-B0F6TRVJZF": "2026-11-01T17:51:43.192545-03:00",
+  "amz-B0DHL93XCN": "2026-11-01T18:04:51.357295-03:00"
  },
  "ofertas_dia": [
   {
@@ -3300,6 +3306,52 @@
    "extra": "Preço a partir de: varia por tamanho e cor",
    "entrou": "2026-11-01T14:05:58.923636-03:00",
    "dia": "2026-11-01"
+  },
+  {
+   "id": "amz-B0F2JMYPQ9",
+   "canal": "achadinhos",
+   "nome": "Parafusadeira e Furadeira de Impacto WAP WF 12K4.2 12V",
+   "preco_antigo": 449.9,
+   "preco": 199.99,
+   "desconto": 56,
+   "link": "https://www.amazon.com.br/dp/B0F2JMYPQ9?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71Bnm202WgL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-02T22:00:00-03:00",
+   "entrou": "2026-11-01T15:49:22.976553-03:00",
+   "dia": "2026-11-01"
+  },
+  {
+   "id": "amz-B0F6TRVJZF",
+   "canal": "marcas",
+   "nome": "Tênis de Corrida Puma Pounce Lite",
+   "preco_antigo": 449.99,
+   "preco": 237.49,
+   "desconto": 47,
+   "link": "https://www.amazon.com.br/dp/B0F6TRVJZF?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71qr3MbfiIL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-02T22:00:00-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "entrou": "2026-11-01T14:05:58.923636-03:00",
+   "dia": "2026-11-01"
+  },
+  {
+   "id": "amz-B0DHL93XCN",
+   "canal": "tech",
+   "nome": "Fone de Ouvido Sem Fio JBL Wave Buds",
+   "preco_antigo": 369.0,
+   "preco": 244.91,
+   "desconto": 34,
+   "link": "https://www.amazon.com.br/dp/B0DHL93XCN?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61DFgTmj9xL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-02T22:00:00-03:00",
+   "entrou": "2026-11-01T14:05:58.923636-03:00",
+   "dia": "2026-11-01"
   }
  ],
  "ig_feitos": [
@@ -3437,7 +3489,10 @@
   "2026-11-01 16:44 story_oferta",
   "story especial pede-pro-papa 2026-11-01",
   "2026-11-01 feed",
-  "2026-11-01 16:55 post_achado"
+  "2026-11-01 16:55 post_achado",
+  "2026-11-01 feed",
+  "2026-11-01 17:30 reels",
+  "2026-11-01 17:36 story_oferta"
  ],
  "ig_ofertas_usadas": [
   "amz-B0GP7KDZRJ",
@@ -3551,11 +3606,12 @@
   "amz-B08LPJ1FTK",
   "amz-B0B72QZXCC",
   "amz-B0D7DVQ188",
-  "shopee-41253171051"
+  "shopee-41253171051",
+  "amz-B0G2T13LT6"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
- "ig_ultimo_reel": "2026-11-01T12:57:53.316199-03:00",
+ "ig_ultimo_reel": "2026-11-01T17:37:42.160750-03:00",
  "pecas_usadas": {
   "ac-preco-inflado": "2026-10-27",
   "dc-7-dias": "2026-10-27",
@@ -3588,35 +3644,6 @@
  },
  "ultimo_pilar": "blackfriday",
  "fila": [
-  {
-   "id": "amz-B0F6TRVJZF",
-   "canal": "marcas",
-   "nome": "Tênis de Corrida Puma Pounce Lite",
-   "preco_antigo": 449.99,
-   "preco": 237.49,
-   "desconto": 47,
-   "link": "https://www.amazon.com.br/dp/B0F6TRVJZF?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/71qr3MbfiIL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-02T22:00:00-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "entrou": "2026-11-01T14:05:58.923636-03:00"
-  },
-  {
-   "id": "amz-B0DHL93XCN",
-   "canal": "tech",
-   "nome": "Fone de Ouvido Sem Fio JBL Wave Buds",
-   "preco_antigo": 369.0,
-   "preco": 244.91,
-   "desconto": 34,
-   "link": "https://www.amazon.com.br/dp/B0DHL93XCN?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61DFgTmj9xL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-02T22:00:00-03:00",
-   "entrou": "2026-11-01T14:05:58.923636-03:00"
-  },
   {
    "id": "amz-B0C6K2DH73",
    "canal": "tech",
@@ -3660,20 +3687,6 @@
    "valida_ate": "2026-11-01T23:59:00-03:00",
    "extra": "Preço a partir de: varia por tamanho e cor",
    "entrou": "2026-11-01T14:44:36.552674-03:00"
-  },
-  {
-   "id": "amz-B0F2JMYPQ9",
-   "canal": "achadinhos",
-   "nome": "Parafusadeira e Furadeira de Impacto WAP WF 12K4.2 12V",
-   "preco_antigo": 449.9,
-   "preco": 199.99,
-   "desconto": 56,
-   "link": "https://www.amazon.com.br/dp/B0F2JMYPQ9?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/71Bnm202WgL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-02T22:00:00-03:00",
-   "entrou": "2026-11-01T15:49:22.976553-03:00"
   },
   {
    "id": "amz-B09Y7H32DJ",
@@ -4154,7 +4167,10 @@
   "headsetgamerhyperxcloudstinger": "2026-11-01T17:06:42.082670-03:00",
   "smartwatchsamsunggalaxywatch844mmlte": "2026-11-01T17:15:13.390968-03:00",
   "poteshermeticoselectroluxcomtampadebambu": "2026-11-01T17:25:54.623454-03:00",
-  "tenisolympikusverticefeminino": "2026-11-01T17:31:58.727860-03:00"
+  "tenisolympikusverticefeminino": "2026-11-01T17:31:58.727860-03:00",
+  "parafusadeiraefuradeiradeimpactowapwf12k4212v": "2026-11-01T17:44:39.272566-03:00",
+  "tenisdecorridapumapouncelite": "2026-11-01T17:51:43.192545-03:00",
+  "fonedeouvidosemfiojblwavebuds": "2026-11-01T18:04:51.357295-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
@@ -4182,11 +4198,16 @@
    "shopee-16185215321"
   ],
   "2026-11-01": [
-   "amz-B08LPJ1FTK",
-   "shopee-41253171051",
-   "amz-B0F79VDTM4",
    "amz-B0G6FS95NY",
-   "shopee-18597753531"
+   "amz-B08LPJ1FTK",
+   "shopee-22497648129",
+   "shopee-18597753531",
+   "shopee-41253171051",
+   "shopee-9739004991",
+   "mgl-SG4-0157-058",
+   "amz-B0F79VDTM4",
+   "amz-B0CQKBJ79W",
+   "amz-B0C7FBYDFP"
   ]
  },
  "vendas_shopee": {},
