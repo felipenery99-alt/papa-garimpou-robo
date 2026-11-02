@@ -140,6 +140,11 @@ BLOCO_PERFUME = (6, "10:00", "13:00")   # (dia da semana, início, fim)
 TOP10_DIA_SEMANA = 5
 TOP10_JANELA = ("20:30", "21:30")
 TOP10_INTERVALO_MIN = 3
+# "Pede pro Papa" semanal (02/11): segunda à noite nos 4 canais, fixado ~36 h. Sem link e sem #publi (não é oferta).
+PEDE_SEMANAL_DIA = 0   # segunda
+PEDE_SEMANAL_JANELA = ("20:38", "21:40")   # execuções das 20h38 e 21h24 (com folga para atraso do GitHub)
+PEDE_SEMANAL_TEXTO = ("Quer que o Papa garimpe algo pra você? 😎💎 Manda o produto no direct do Instagram "
+                      "@papa.garimpou que eu acho o melhor preço de marca boa e posto aqui.")
 # Máximo de ofertas da mesma marca por dia em cada canal (30/10: saíram 4 secadores Taiff seguidos)
 MAX_MESMA_MARCA_DIA = 2
 

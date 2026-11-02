@@ -50,6 +50,28 @@ def postar_menu_fixado(destino: str, texto: str, botoes: list[tuple[str, str]]) 
     return msg
 
 
+def postar_texto_fixado(destino: str, texto: str) -> int:
+    """Texto simples (sem oferta), fixado no topo sem notificar. Devolve o message_id."""
+    if destino not in config.DESTINOS_PERMITIDOS:
+        raise DestinoProibido(f"destino recusado: {destino}")
+    r = requests.post(API.format(token=_token(), metodo="sendMessage"),
+                      json={"chat_id": destino, "text": texto, "disable_web_page_preview": True}, timeout=30).json()
+    if not r.get("ok"):
+        raise RuntimeError(f"Telegram recusou a mensagem: {r}")
+    mid = r["result"]["message_id"]
+    requests.post(API.format(token=_token(), metodo="pinChatMessage"),
+                  json={"chat_id": destino, "message_id": mid, "disable_notification": True}, timeout=30)
+    return mid
+
+
+def desafixar(destino: str, message_id: int) -> None:
+    """Tira só essa mensagem do topo; o menu fixado antes volta a aparecer em cima."""
+    if destino not in config.DESTINOS_PERMITIDOS:
+        raise DestinoProibido(f"destino recusado: {destino}")
+    requests.post(API.format(token=_token(), metodo="unpinChatMessage"),
+                  json={"chat_id": destino, "message_id": message_id}, timeout=30)
+
+
 ERROS: list[str] = []   # vai para o relatório diário (lido pelo CEO na nuvem)
 
 

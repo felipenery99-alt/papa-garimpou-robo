@@ -169,6 +169,34 @@ def publicar_menus(h: dict, telegram) -> None:
             telegram.avisar_dono(f"menu fixado em {destino} falhou: {e}")
 
 
+def pede_pro_papa_semanal(h: dict, telegram, agora: datetime) -> None:
+    """02/11 (Telegram/Instagram): toda segunda à noite, convite "Pede pro Papa" nos 4 canais, fixado ~36 h
+    (até quarta de manhã). Ao desafixar, o menu fixado antes volta ao topo sozinho."""
+    fix = h.get("pede_fixados")
+    if fix and agora.isoformat() >= fix["ate"]:
+        for destino, mid in fix["msgs"].items():
+            try:
+                telegram.desafixar(destino, mid)
+            except Exception as e:
+                print(f"[pede] desafixar {destino}: {e}")
+        h.pop("pede_fixados")
+    semana = "%d-%02d" % agora.isocalendar()[:2]
+    ini, fim = config.PEDE_SEMANAL_JANELA
+    if agora.weekday() != config.PEDE_SEMANAL_DIA or not (ini <= f"{agora:%H:%M}" <= fim) \
+            or h.get("pede_semana") == semana:
+        return
+    h["pede_semana"] = semana
+    msgs = {}
+    for destino in [*config.CANAIS.values(), config.GERAL]:
+        try:
+            msgs[destino] = telegram.postar_texto_fixado(destino, config.PEDE_SEMANAL_TEXTO)
+        except Exception as e:
+            telegram.avisar_dono(f"Pede pro Papa em {destino} falhou: {e}")
+    h["pede_fixados"] = {"ate": (agora + timedelta(hours=36)).isoformat(), "msgs": msgs}
+    salvar_hist(h)
+    print(f"[pede] convite semanal fixado em {len(msgs)} canal(is)")
+
+
 PEDIDOS = Path(__file__).parent / "pedidos_atendidos.json"
 
 
@@ -994,6 +1022,7 @@ def main() -> int:
     # despejar tudo de uma vez, solta uma oferta a cada poucos minutos até perto da próxima execução.
     erros = 0
     publicar_menus(h, telegram)
+    pede_pro_papa_semanal(h, telegram, agora)
     # Ofertas garimpadas fora da Shopee (Amazon etc.), conferidas à mão e gravadas em ofertas_manuais.json
     for canal in config.CANAIS:
         entrar_na_fila(h, canal, [o for o in carregar_manuais(h, agora) if o["canal"] == canal], agora)
