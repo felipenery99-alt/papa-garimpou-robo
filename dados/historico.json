@@ -352,7 +352,11 @@
   "2026-11-02 achadinhos 12:37 amz-B09W44LZYJ",
   "2026-11-02 marcas 13:07 shopee-18516472597",
   "2026-11-02 tech 13:43 amz-B0FMYR9C72",
-  "2026-11-02 achadinhos 13:58 amz-B0CX1VM979"
+  "2026-11-02 achadinhos 13:58 amz-B0CX1VM979",
+  "2026-11-02 marcas 14:27 shopee-27481488690",
+  "2026-11-02 tech 14:36 amz-B0FDXC3Q9M",
+  "2026-11-02 tech 14:47 amz-B0BQBRS3WC",
+  "2026-11-02 achadinhos 14:54 amz-B08DHW4CT9"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -713,7 +717,11 @@
   "amz-B09W44LZYJ": "2026-11-02T12:37:20.540538-03:00",
   "shopee-18516472597": "2026-11-02T13:07:27.854140-03:00",
   "amz-B0FMYR9C72": "2026-11-02T13:43:08.347333-03:00",
-  "amz-B0CX1VM979": "2026-11-02T13:58:34.189287-03:00"
+  "amz-B0CX1VM979": "2026-11-02T13:58:34.189287-03:00",
+  "shopee-27481488690": "2026-11-02T14:27:26.380140-03:00",
+  "amz-B0FDXC3Q9M": "2026-11-02T14:36:04.621654-03:00",
+  "amz-B0BQBRS3WC": "2026-11-02T14:47:11.501327-03:00",
+  "amz-B08DHW4CT9": "2026-11-02T14:54:48.251961-03:00"
  },
  "ofertas_dia": [
   {
@@ -3137,6 +3145,72 @@
    "extra": "Voltagem 220V",
    "entrou": "2026-11-02T12:06:46.606282-03:00",
    "dia": "2026-11-02"
+  },
+  {
+   "id": "shopee-27481488690",
+   "plataforma": "Shopee",
+   "nome": "Kit com 4 Pares de Meias Lupo Sport Infantil Cano Médio Algodão Cores Básicas Menino e Menina",
+   "loja": "Deccó",
+   "loja_oficial": true,
+   "preco": 34.66,
+   "preco_antigo": 58.75,
+   "desconto": 41,
+   "vendas": 657,
+   "nota": 4.9,
+   "comissao_pct": 10.0,
+   "imagem": "https://cf.shopee.com.br/file/br-11134207-820li-mt5mjiz98idg23",
+   "link": "https://s.shopee.com.br/5q9QltsbSc",
+   "canal": "marcas",
+   "entrou": "2026-11-02T10:35:03.955137-03:00",
+   "dia": "2026-11-02"
+  },
+  {
+   "id": "amz-B0FDXC3Q9M",
+   "canal": "tech",
+   "nome": "Samsung Galaxy Watch8 Smartwatch 44mm Grafite",
+   "preco_antigo": 3199.0,
+   "preco": 1699.0,
+   "desconto": 47,
+   "link": "https://www.amazon.com.br/dp/B0FDXC3Q9M?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61zc3QnQvcL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-03T22:00:00-03:00",
+   "gancho": "GALAXY WATCH8 QUASE PELA METADE",
+   "entrou": "2026-11-02T12:06:46.606282-03:00",
+   "dia": "2026-11-02"
+  },
+  {
+   "id": "amz-B0BQBRS3WC",
+   "canal": "tech",
+   "nome": "Teclado Gamer Sem Fio Logitech G PRO X TKL",
+   "preco_antigo": 1599.9,
+   "preco": 1089.99,
+   "desconto": 32,
+   "link": "https://www.amazon.com.br/dp/B0BQBRS3WC?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61eRCzlo6bL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-03T22:00:00-03:00",
+   "extra": "Layout US",
+   "entrou": "2026-11-02T12:06:46.606282-03:00",
+   "dia": "2026-11-02"
+  },
+  {
+   "id": "amz-B08DHW4CT9",
+   "canal": "achadinhos",
+   "nome": "Perfume My Way Giorgio Armani Feminino EDP",
+   "preco_antigo": 569.0,
+   "preco": 314.9,
+   "desconto": 45,
+   "link": "https://www.amazon.com.br/dp/B08DHW4CT9?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61rNxZ4QCrL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-03T22:00:00-03:00",
+   "gancho": "ARMANI ORIGINAL VENDIDO PELA AMAZON",
+   "entrou": "2026-11-02T12:06:46.606282-03:00",
+   "dia": "2026-11-02"
   }
  ],
  "ig_feitos": [
@@ -3270,7 +3344,8 @@
   "2026-11-02 12:40 reels",
   "2026-11-02 12:47 story_oferta",
   "2026-11-02 13:20 story_convite",
-  "2026-11-02 13:22 story_oferta"
+  "2026-11-02 13:22 story_oferta",
+  "2026-11-02 14:08 story_oferta"
  ],
  "ig_ofertas_usadas": [
   "amz-B0GP7KDZRJ",
@@ -3405,7 +3480,8 @@
   "amz-B0G4SN4QF7",
   "amz-B0GT7FR4LH",
   "amz-B0D8J3GFBS",
-  "amz-B0FR49NFLT"
+  "amz-B0FR49NFLT",
+  "amz-B0FL2QF7YJ"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
@@ -3444,38 +3520,6 @@
  },
  "ultimo_pilar": "humor",
  "fila": [
-  {
-   "id": "shopee-27481488690",
-   "plataforma": "Shopee",
-   "nome": "Kit com 4 Pares de Meias Lupo Sport Infantil Cano Médio Algodão Cores Básicas Menino e Menina",
-   "loja": "Deccó",
-   "loja_oficial": true,
-   "preco": 34.66,
-   "preco_antigo": 58.75,
-   "desconto": 41,
-   "vendas": 657,
-   "nota": 4.9,
-   "comissao_pct": 10.0,
-   "imagem": "https://cf.shopee.com.br/file/br-11134207-820li-mt5mjiz98idg23",
-   "link": "https://s.shopee.com.br/5q9QltsbSc",
-   "canal": "marcas",
-   "entrou": "2026-11-02T10:35:03.955137-03:00"
-  },
-  {
-   "id": "amz-B08DHW4CT9",
-   "canal": "achadinhos",
-   "nome": "Perfume My Way Giorgio Armani Feminino EDP",
-   "preco_antigo": 569.0,
-   "preco": 314.9,
-   "desconto": 45,
-   "link": "https://www.amazon.com.br/dp/B08DHW4CT9?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61rNxZ4QCrL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-03T22:00:00-03:00",
-   "gancho": "ARMANI ORIGINAL VENDIDO PELA AMAZON",
-   "entrou": "2026-11-02T12:06:46.606282-03:00"
-  },
   {
    "id": "amz-B08T9WBG1J",
    "canal": "achadinhos",
@@ -3728,36 +3772,6 @@
    "valida_ate": "2026-11-03T22:00:00-03:00",
    "extra": "Preço a partir de: varia por tamanho e cor",
    "gancho": "PUMA CLUB II COM 45% OFF",
-   "entrou": "2026-11-02T12:06:46.606282-03:00"
-  },
-  {
-   "id": "amz-B0FDXC3Q9M",
-   "canal": "tech",
-   "nome": "Samsung Galaxy Watch8 Smartwatch 44mm Grafite",
-   "preco_antigo": 3199.0,
-   "preco": 1699.0,
-   "desconto": 47,
-   "link": "https://www.amazon.com.br/dp/B0FDXC3Q9M?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61zc3QnQvcL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-03T22:00:00-03:00",
-   "gancho": "GALAXY WATCH8 QUASE PELA METADE",
-   "entrou": "2026-11-02T12:06:46.606282-03:00"
-  },
-  {
-   "id": "amz-B0BQBRS3WC",
-   "canal": "tech",
-   "nome": "Teclado Gamer Sem Fio Logitech G PRO X TKL",
-   "preco_antigo": 1599.9,
-   "preco": 1089.99,
-   "desconto": 32,
-   "link": "https://www.amazon.com.br/dp/B0BQBRS3WC?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61eRCzlo6bL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-03T22:00:00-03:00",
-   "extra": "Layout US",
    "entrou": "2026-11-02T12:06:46.606282-03:00"
   },
   {
@@ -4075,7 +4089,11 @@
   "jogodepanelastramontinacaribe5pecasantiaderente": "2026-11-02T12:37:20.540538-03:00",
   "kitde3paresmeiaslupokidsinfantilcanocurtoalgodaotamanho24ao35": "2026-11-02T13:07:27.854140-03:00",
   "easportsfc26playstation5": "2026-11-02T13:43:08.347333-03:00",
-  "liquidificadorphilipswalitaserie3000turbo1000w220v": "2026-11-02T13:58:34.189287-03:00"
+  "liquidificadorphilipswalitaserie3000turbo1000w220v": "2026-11-02T13:58:34.189287-03:00",
+  "kitcom4paresdemeiasluposportinfantilcanomedioalgodaocoresbasicasmeninoemenina": "2026-11-02T14:27:26.380140-03:00",
+  "samsunggalaxywatch8smartwatch44mmgrafite": "2026-11-02T14:36:04.621654-03:00",
+  "tecladogamersemfiologitechgproxtkl": "2026-11-02T14:47:11.501327-03:00",
+  "perfumemywaygiorgioarmanifemininoedp": "2026-11-02T14:54:48.251961-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
@@ -4139,7 +4157,7 @@
    "entradas": []
   }
  },
- "tg_offset": null,
+ "tg_offset": 354369939,
  "adivinha": {
   "dia": "2026-11-01",
   "oferta": {
