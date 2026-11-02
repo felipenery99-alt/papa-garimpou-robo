@@ -100,17 +100,27 @@ def garimpar_todas(canal: str, fonte, h: dict, agora: datetime, termos: list[str
     Sem cota: o único filtro é a qualidade (regra do dono: achou coisa boa, posta)."""
     reprovados = {}
     boas = {}
-    for termo in termos or config.BUSCAS[canal]:
+    lista = termos or config.BUSCAS[canal]
+    falhas = []
+    for termo in lista:
         try:
             ofertas = fonte(termo)
         except Exception as e:
-            raise RuntimeError(f"busca '{termo}' falhou: {e}") from e
+            # 02/11: uma busca que falha (ex.: limite 10030) não derruba mais o garimpo do canal inteiro
+            falhas.append(f"'{termo}': {e}")
+            if "limite" in str(e).lower() or "10030" in str(e):
+                break   # API travada nesta execução: segue com o que já achou
+            continue
         for o in ofertas:
             ok, motivo = qualidade.avaliar(o, canal)
             if ok and not ja_postado_recente(h, o["id"], agora, o.get("nome", "")):
                 boas[o["id"]] = o
             elif not ok:
                 reprovados[motivo] = reprovados.get(motivo, 0) + 1
+    if falhas:
+        print(f"[{canal}] {len(falhas)} busca(s) falharam; sigo com o que achei. Ex.: {falhas[0][:150]}")
+        if len(falhas) == len(lista) and not boas:
+            raise RuntimeError(f"todas as buscas falharam: {falhas[0][:200]}")
     if not boas:
         print(f"[{canal}] nenhuma oferta boa. Reprovações: {reprovados}")
     # Variedade: no máximo MAX_MESMA_MARCA_DIA ofertas da mesma marca por dia no canal
@@ -1033,7 +1043,7 @@ def main() -> int:
         try:
             ofertas = garimpar_todas(canal, shopee.buscar, h, agora)
         except Exception as e:
-            telegram.avisar_dono(f"garimpo de {canal} falhou: {e}. Não postei.")
+            telegram.avisar_dono(f"garimpo de {canal} falhou: {e}. A fila que já existe segue saindo.")
             erros += 1
             continue
         entrar_na_fila(h, canal, ofertas, agora)

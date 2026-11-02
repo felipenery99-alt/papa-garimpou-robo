@@ -42,14 +42,46 @@ def _assinar(payload: str) -> dict:
     }
 
 
+class LimiteShopee(RuntimeError):
+    """10030 'Rate limit exceeded' mesmo depois de esperar: o resto da execução não chama mais a API."""
+
+
+# 02/11: com 3 chamadas por termo (01/11) + busca extra de canal parado, a API respondeu 10030 e o garimpo
+# do canal inteiro caía ("Não postei"). Agora: intervalo mínimo entre chamadas, espera crescente no 10030 e,
+# se persistir, trava a API até o fim da execução (o robô segue com o que já está na fila).
+INTERVALO_S = 0.6
+ESPERAS_10030 = (10, 25, 60)
+_ultima = [0.0]
+LIMITE_ATINGIDO = [False]
+
+
+def _chamar(payload: str) -> dict:
+    if LIMITE_ATINGIDO[0]:
+        raise LimiteShopee("limite da API atingido nesta execução")
+    for espera in (*ESPERAS_10030, None):
+        pausa = INTERVALO_S - (time.time() - _ultima[0])
+        if pausa > 0:
+            time.sleep(pausa)
+        _ultima[0] = time.time()
+        r = requests.post(URL, data=payload, headers=_assinar(payload), timeout=40)
+        r.raise_for_status()
+        dados = r.json()
+        erros = dados.get("errors") or []
+        if not any((e.get("extensions") or {}).get("code") == 10030 for e in erros):
+            if erros:
+                raise RuntimeError(f"Shopee API: {erros}")
+            return dados
+        if espera is None:
+            LIMITE_ATINGIDO[0] = True
+            raise LimiteShopee("Shopee API: 10030 Rate limit exceeded (após esperar)")
+        print(f"[shopee] limite de chamadas (10030), esperando {espera}s")
+        time.sleep(espera)
+
+
 def _pagina(termo: str, pagina: int, limite: int) -> list[dict]:
     payload = json.dumps({"query": QUERY, "variables": {"keyword": termo, "page": pagina, "limit": limite}},
                          separators=(",", ":"))
-    r = requests.post(URL, data=payload, headers=_assinar(payload), timeout=40)
-    r.raise_for_status()
-    dados = r.json()
-    if dados.get("errors"):
-        raise RuntimeError(f"Shopee API: {dados['errors']}")
+    dados = _chamar(payload)
     return [_normalizar(n) for n in dados["data"]["productOfferV2"]["nodes"]]
 
 
@@ -128,11 +160,7 @@ def vendas(desde: int, ate: int | None = None) -> list[dict]:
         try:
             for _ in range(10):
                 payload = json.dumps({"query": _query_vendas(campos, desde, ate, scroll)}, separators=(",", ":"))
-                r = requests.post(URL, data=payload, headers=_assinar(payload), timeout=40)
-                r.raise_for_status()
-                dados = r.json()
-                if dados.get("errors"):
-                    raise RuntimeError(dados["errors"])
+                dados = _chamar(payload)
                 rep = dados["data"]["conversionReport"]
                 for n in rep.get("nodes") or []:
                     itens = [i.get("itemName", "") for o in (n.get("orders") or []) for i in (o.get("items") or [])]

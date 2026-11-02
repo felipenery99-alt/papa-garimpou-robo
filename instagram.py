@@ -55,7 +55,18 @@ def hospedar(nome: str, conteudo: bytes) -> str:
             subprocess.run(["git", "commit", "-m", f"mídia {nome}"], cwd=PASTA, check=True)
             subprocess.run(["git", "pull", "--rebase", "--autostash", "-q"], cwd=PASTA, check=True)
             subprocess.run(["git", "push", "-q"], cwd=PASTA, check=True)
+        # 02/11: story das 08:52 falhou com 2207052 ("Only photo or video"): a Meta buscou o link raw antes de
+        # ele servir a imagem. Só devolve a URL quando ela responde 200 com content-type de imagem.
+        for _ in range(12):
+            try:
+                r = requests.head(REPO_RAW + nome, timeout=15, allow_redirects=True)
+                if r.status_code == 200 and r.headers.get("content-type", "").startswith("image/"):
+                    break
+            except requests.RequestException:
+                pass
             time.sleep(5)
+        else:
+            raise RuntimeError(f"mídia {nome} não ficou disponível no GitHub em 60 s")
     return REPO_RAW + nome
 
 
