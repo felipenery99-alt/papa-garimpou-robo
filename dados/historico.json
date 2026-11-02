@@ -3629,7 +3629,10 @@
   "2026-11-02 17:36 story_oferta",
   "2026-11-02 18:05 a_ou_b",
   "2026-11-02 18:09 story_oferta",
-  "2026-11-02 18:42 story_oferta"
+  "2026-11-02 18:42 story_oferta",
+  "2026-11-02 feed",
+  "2026-11-02 19:15 post_achado",
+  "2026-11-02 19:17 story_oferta"
  ],
  "ig_ofertas_usadas": [
   "amz-B0GP7KDZRJ",
@@ -3775,7 +3778,9 @@
   "amz-B0FDX5VNRL",
   "amz-B0FDX5W5T9",
   "amz-B0CYCJ66Y8",
-  "amz-B09532P5P4"
+  "amz-B09532P5P4",
+  "amz-B00M3IFUMK",
+  "amz-B076VYNDMP"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
@@ -3813,99 +3818,7 @@
   "2026-11-02": 1
  },
  "ultimo_pilar": "humor",
- "fila": [
-  {
-   "id": "amz-B0DJ8WR5JD",
-   "canal": "marcas",
-   "nome": "Tênis de Corrida Puma Darter Pro",
-   "preco_antigo": 499.99,
-   "preco": 237.49,
-   "desconto": 53,
-   "link": "https://www.amazon.com.br/dp/B0DJ8WR5JD?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61qZ9bN9UXL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-02T22:00:00-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "gancho": "PUMA DE CORRIDA PELA METADE",
-   "entrou": "2026-11-02T17:43:58.046008-03:00"
-  },
-  {
-   "id": "amz-B0F1C2H476",
-   "canal": "marcas",
-   "nome": "Tênis Olympikus Vértice Feminino",
-   "preco_antigo": 249.9,
-   "preco": 123.49,
-   "desconto": 51,
-   "link": "https://www.amazon.com.br/dp/B0F1C2H476?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/71mb90Nsw+L._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Netshoes · Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-02T22:00:00-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "entrou": "2026-11-02T17:43:58.046008-03:00"
-  },
-  {
-   "id": "amz-B0GHSNKWLG",
-   "canal": "marcas",
-   "nome": "Tênis Mizuno Space 6 Adulto",
-   "preco_antigo": 379.99,
-   "preco": 229.9,
-   "desconto": 39,
-   "link": "https://www.amazon.com.br/dp/B0GHSNKWLG?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/710frR60fGL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-02T22:00:00-03:00",
-   "extra": "A partir de: varia por tamanho e cor",
-   "entrou": "2026-11-02T17:43:58.046008-03:00"
-  },
-  {
-   "id": "amz-B0CKJ83V8K",
-   "canal": "marcas",
-   "nome": "Tênis Puma Club II Era",
-   "preco_antigo": 449.99,
-   "preco": 237.49,
-   "desconto": 47,
-   "link": "https://www.amazon.com.br/dp/B0CKJ83V8K?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/41q7j21yBrL._AC_SL1200_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-03T22:00:00-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "entrou": "2026-11-02T17:43:58.046008-03:00"
-  },
-  {
-   "id": "amz-B0D9TZ7623",
-   "canal": "marcas",
-   "nome": "Tênis New Balance BB80 Unissex",
-   "preco_antigo": 399.99,
-   "preco": 182.99,
-   "desconto": 54,
-   "link": "https://www.amazon.com.br/dp/B0D9TZ7623?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/419F9U09zOL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-03T22:00:00-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "entrou": "2026-11-02T17:43:58.046008-03:00"
-  },
-  {
-   "id": "amz-B0DJ98K2JR",
-   "canal": "marcas",
-   "nome": "Tênis de Corrida Puma Darter Pro",
-   "preco_antigo": 499.99,
-   "preco": 237.5,
-   "desconto": 52,
-   "link": "https://www.amazon.com.br/dp/B0DJ98K2JR?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/71-NV05maHL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-03T22:00:00-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "entrou": "2026-11-02T17:43:58.046008-03:00"
-  }
- ],
+ "fila": [],
  "menus_fixados": [
   "v1 @papagarimpou",
   "v1 @papagarimpoumarcas",
