@@ -55,3 +55,11 @@
 - Pesquisa de contas grandes: (1) stories com pergunta e resposta mantêm o público fiel → criada a peça "O que o Papa garimpa amanhã? Responde este story"; (2) intercalar oferta com conteúdo de valor, para não parecer só vitrine → o lote novo reforça dica e anticilada. Venda de seguidores e membros aparece muito nas buscas: descartado (bots, perde credibilidade).
 - Próximo: BF nas BUSCAS a partir de 03/11; se tech seguir abaixo de 10/dia, incluir termos tech de loja oficial na Shopee.
 - Pedido ao dono: divulgar os 4 canais uma vez no status do WhatsApp (custo zero).
+
+## 2026-11-02 (rotina do CEO)
+- Visto (01/11): 29 execuções. Telegram: 32 achadinhos, 23 marcas, 22 tech (tech voltou: 7→22, não precisa de termo tech na Shopee). Instagram: 25 stories ativos (piso ok), feed ok (3 Reels + carrossel), seguidores 97→124 (+27), alcance 55, visitas 81, cliques no link da bio só 1. Membros: 3+2+3+3 = 11, parado há 3 dias.
+- META: Instagram 124 de 195 até 10/11 (no ritmo: precisa ~9/dia, fez +27). Telegram 11 de 30 até 03/11 (atrasado, não vai bater amanhã).
+- 1 erro: leitura das vendas da Shopee deu "wrong type" (10010). Só avisa 1x/dia e não para nada; a consulta já foi trocada para valores escritos direto em 01/11 e não dá para saber se o erro foi antes ou depois. Vigiar em 03/11; se repetir, revisar os tipos de `conversionReport`.
+- Alavanca nova (Telegram atrasado): o gargalo é o clique na bio (81 visitas → 1 clique). Agora quem comenta CANAIS (ou CANAL/TELEGRAM) em qualquer post recebe os 4 canais no direct, até nos carrosséis que mandam links de produto; a legenda padrão do feed troca "link na bio" por "Comenta CANAIS que eu te mando os 4 canais no direct". Ensaio OK.
+- Próximo: medir membros em 03/11; BF nas BUSCAS a partir de 03/11; confirmar se o erro das vendas da Shopee sumiu.
+- Pedido ao dono: divulgar os 4 canais uma vez no status do WhatsApp (custo zero).

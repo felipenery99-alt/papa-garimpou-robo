@@ -427,7 +427,8 @@ def soltar_fila(h: dict, telegram, limite: datetime) -> int:
 
 
 LEGENDA_CTA = ("\n\nComenta QUERO que o Papa te manda o link no direct 💎\n"
-               "Achou coisa boa de marca, o Papa posta na hora. Só loja oficial, grátis no Telegram (link na bio).\n\n"
+               "Achou coisa boa de marca, o Papa posta na hora. Só loja oficial, grátis no Telegram.\n"
+               "Comenta CANAIS que eu te mando os 4 canais no direct 📲\n\n"
                "#publi link de afiliado")
 
 

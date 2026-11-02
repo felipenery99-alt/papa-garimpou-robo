@@ -162,7 +162,10 @@ def metricas() -> dict:
     return {"seguidores": perfil.get("followers_count"), "posts": perfil.get("media_count"), **alcance}
 
 
-PALAVRAS_CHAVE = ("quero", "link", "eu", "manda", "eu quero")
+PALAVRAS_CHAVE = ("quero", "link", "eu", "manda", "eu quero", "canais", "canal", "telegram")
+# 02/11: 81 visitas no perfil e só 1 clique no link da bio. Quem comenta CANAIS recebe os 4 canais
+# no direct, mesmo num post com DM própria (ex.: carrossel com links de produto).
+PALAVRAS_CANAIS = ("canais", "canal", "telegram")
 RESPOSTA_DM = ("Oi! Aqui é o Papa 😎💎\n\nAchou coisa boa de marca, em loja oficial, "
                "eu posto na hora, grátis no Telegram:\n\n🛒 Achadinhos: https://t.me/papagarimpou\n"
                "👕 Marcas e esporte: https://t.me/papagarimpoumarcas\n"
@@ -185,10 +188,11 @@ def responder_comentarios(ja_respondidos: set, dm_por_post: dict | None = None) 
             texto = (cm.get("text") or "").strip().lower()
             if not any(texto.startswith(k) or k in texto.split() for k in PALAVRAS_CHAVE):
                 continue
+            pede_canais = any(texto.startswith(k) or k in texto.split() for k in PALAVRAS_CANAIS)
             ok_dm = False
             if c.get("page_token"):
                 r = requests.post(f"{G}/{c['page_id']}/messages", params={"access_token": c["page_token"]},
-                                  json={"recipient": {"comment_id": cm["id"]}, "message": {"text": (dm_por_post or {}).get(p["id"], RESPOSTA_DM)}}, timeout=30).json()
+                                  json={"recipient": {"comment_id": cm["id"]}, "message": {"text": RESPOSTA_DM if pede_canais else (dm_por_post or {}).get(p["id"], RESPOSTA_DM)}}, timeout=30).json()
                 ok_dm = "message_id" in r or "recipient_id" in r
             publica = "Te mandei no direct! 💎" if ok_dm else "Os links estão na bio, é grátis! 💎"
             requests.post(f"{G}/{cm['id']}/replies", data={"access_token": _token(), "message": publica}, timeout=30)
