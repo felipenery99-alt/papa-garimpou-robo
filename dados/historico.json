@@ -367,7 +367,8 @@
   "2026-11-02 marcas 17:11 amz-B0G87JBFPP",
   "2026-11-02 marcas 17:25 amz-B0GVLL1B9H",
   "2026-11-02 achadinhos 17:55 amz-B09YMT1YKV",
-  "2026-11-02 marcas 18:02 amz-B0CZPVDMVD"
+  "2026-11-02 marcas 18:02 amz-B0CZPVDMVD",
+  "2026-11-02 marcas 18:10 amz-B0DDQJ4GKN"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -743,7 +744,8 @@
   "amz-B0G87JBFPP": "2026-11-02T17:11:13.314552-03:00",
   "amz-B0GVLL1B9H": "2026-11-02T17:25:21.053235-03:00",
   "amz-B09YMT1YKV": "2026-11-02T17:55:27.727127-03:00",
-  "amz-B0CZPVDMVD": "2026-11-02T18:02:37.304949-03:00"
+  "amz-B0CZPVDMVD": "2026-11-02T18:02:37.304949-03:00",
+  "amz-B0DDQJ4GKN": "2026-11-02T18:10:34.434854-03:00"
  },
  "ofertas_dia": [
   {
@@ -3406,6 +3408,22 @@
    "gancho": "STANLEY COM DESCONTO DE VERDADE",
    "entrou": "2026-11-02T16:54:21.167831-03:00",
    "dia": "2026-11-02"
+  },
+  {
+   "id": "amz-B0DDQJ4GKN",
+   "canal": "marcas",
+   "nome": "Tênis ASICS Japan S Feminino",
+   "preco_antigo": 399.99,
+   "preco": 249.99,
+   "desconto": 38,
+   "link": "https://www.amazon.com.br/dp/B0DDQJ4GKN?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/415ZoJdowUL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-03T22:00:00-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "entrou": "2026-11-02T16:54:21.167831-03:00",
+   "dia": "2026-11-02"
   }
  ],
  "ig_feitos": [
@@ -3734,21 +3752,6 @@
  "ultimo_pilar": "humor",
  "fila": [
   {
-   "id": "amz-B0DDQJ4GKN",
-   "canal": "marcas",
-   "nome": "Tênis ASICS Japan S Feminino",
-   "preco_antigo": 399.99,
-   "preco": 249.99,
-   "desconto": 38,
-   "link": "https://www.amazon.com.br/dp/B0DDQJ4GKN?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/415ZoJdowUL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-03T22:00:00-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "entrou": "2026-11-02T16:54:21.167831-03:00"
-  },
-  {
    "id": "amz-B0DBRBDSR1",
    "canal": "marcas",
    "nome": "Perfume Acqua di Giò Profondo Giorgio Armani EDP",
@@ -3794,20 +3797,6 @@
    "extra": "Preço a partir de: varia por tamanho e cor",
    "gancho": "PUMA CLUB II COM 45% OFF",
    "entrou": "2026-11-02T16:54:21.167831-03:00"
-  },
-  {
-   "id": "amz-B0GS3DQH2Q",
-   "canal": "achadinhos",
-   "nome": "Multiprocessador Philips Walita PowerChop 1000",
-   "preco_antigo": 499.9,
-   "preco": 271.19,
-   "desconto": 46,
-   "link": "https://www.amazon.com.br/dp/B0GS3DQH2Q?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/617DKTCqkjL._AC_SL1500_.jpg",
-   "loja": "Vendido por parceiro (Fast Shop Loja Oficial)",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-03T22:00:00-03:00",
-   "entrou": "2026-11-02T17:43:58.046008-03:00"
   },
   {
    "id": "amz-B0DJ8WR5JD",
@@ -4126,7 +4115,8 @@
   "tenismasculinopumadasherlite": "2026-11-02T17:11:13.314552-03:00",
   "tenisolympikusadrena2feminino": "2026-11-02T17:25:21.053235-03:00",
   "liquidificadorphilipswalitaserie5000jarradevidro127v": "2026-11-02T17:55:27.727127-03:00",
-  "garrafatermicastanleyaerolighttransitrosequartz591ml": "2026-11-02T18:02:37.304949-03:00"
+  "garrafatermicastanleyaerolighttransitrosequartz591ml": "2026-11-02T18:02:37.304949-03:00",
+  "tenisasicsjapansfeminino": "2026-11-02T18:10:34.434854-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
