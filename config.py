@@ -130,6 +130,9 @@ MARCAS_PROIBIDAS_SHOPEE = ["lattafa", "armaf", "al wataniah"]
 # Perfume de marca (01/11, Telegram): prioridade fixa, no máximo 4 por dia somando os canais
 PALAVRAS_PERFUME = ["perfume", "colônia", "colonia", "deo parfum", "eau de", "desodorante colônia"]
 MAX_PERFUME_DIA = 4
+# 02/11: story com adesivo de link desligado. A API não põe adesivo, a Business Suite não aceita a arte
+# (CSP + sem pages_manage_posts) e o dono não posta pelo celular → fica o "link na bio" dos stories automáticos.
+STORY_LINK_ATIVO = False
 # 01/11 (Central): DOMINGO DO PERFUME, 10h–13h — a fila só solta perfume (bloco montado pela sessão Telegram).
 # O teto de 4 perfumes por dia não vale no domingo (o bloco precisa de volume).
 BLOCO_PERFUME = (6, "10:00", "13:00")   # (dia da semana, início, fim)

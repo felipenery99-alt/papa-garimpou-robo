@@ -761,7 +761,8 @@ def preparar_story_link(h: dict, agora: datetime) -> None:
     Grava "URL | AAAA-MM-DD" em dados/story-link.txt."""
     import os
     hoje = agora.date().isoformat()
-    if agora.hour < 17 or h.get("story_link_dia") == hoje or not os.environ.get("META_TOKEN"):
+    if not config.STORY_LINK_ATIVO or agora.hour < 17 or h.get("story_link_dia") == hoje \
+            or not os.environ.get("META_TOKEN"):
         return
     import artes
     import instagram
