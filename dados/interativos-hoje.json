@@ -15,6 +15,21 @@
      "canal": "marcas"
     }
    ]
+  },
+  {
+   "tipo": "adivinha_resposta",
+   "hora": "16:54",
+   "produtos": [
+    {
+     "nome": "Camiseta Hering World Manga Curta Masculina",
+     "preco_antigo": 69.99,
+     "preco": 30.23,
+     "desconto": 57,
+     "link": "https://www.amazon.com.br/dp/B08LPLKJBM?tag=papagarimpou-20",
+     "loja": "Vendido e entregue pela Amazon",
+     "canal": "marcas"
+    }
+   ]
   }
  ]
 }

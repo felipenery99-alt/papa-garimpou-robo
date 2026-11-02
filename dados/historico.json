@@ -362,7 +362,10 @@
   "2026-11-02 achadinhos 16:09 amz-B08T9WBG1J",
   "2026-11-02 marcas 16:15 amz-B071SGZ7CK",
   "2026-11-02 tech 16:22 amz-B0D1DN9GR2",
-  "2026-11-02 achadinhos 16:34 amz-B095J8LDS2"
+  "2026-11-02 achadinhos 16:34 amz-B095J8LDS2",
+  "2026-11-02 achadinhos 17:02 amz-B079VW5KT6",
+  "2026-11-02 marcas 17:11 amz-B0G87JBFPP",
+  "2026-11-02 marcas 17:25 amz-B0GVLL1B9H"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -733,7 +736,10 @@
   "amz-B08T9WBG1J": "2026-11-02T16:09:20.632510-03:00",
   "amz-B071SGZ7CK": "2026-11-02T16:15:39.503021-03:00",
   "amz-B0D1DN9GR2": "2026-11-02T16:22:12.368367-03:00",
-  "amz-B095J8LDS2": "2026-11-02T16:34:08.045440-03:00"
+  "amz-B095J8LDS2": "2026-11-02T16:34:08.045440-03:00",
+  "amz-B079VW5KT6": "2026-11-02T17:02:16.171433-03:00",
+  "amz-B0G87JBFPP": "2026-11-02T17:11:13.314552-03:00",
+  "amz-B0GVLL1B9H": "2026-11-02T17:25:21.053235-03:00"
  },
  "ofertas_dia": [
   {
@@ -3317,6 +3323,53 @@
    "extra": "Voltagem 110V",
    "entrou": "2026-11-02T12:06:46.606282-03:00",
    "dia": "2026-11-02"
+  },
+  {
+   "id": "amz-B079VW5KT6",
+   "canal": "achadinhos",
+   "nome": "Protetor Solar Facial Eucerin FPS 60",
+   "preco_antigo": 94.9,
+   "preco": 62.26,
+   "desconto": 34,
+   "link": "https://www.amazon.com.br/dp/B079VW5KT6?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61BUIYwrv2L._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-03T22:00:00-03:00",
+   "entrou": "2026-11-02T16:54:21.167831-03:00",
+   "dia": "2026-11-02"
+  },
+  {
+   "id": "amz-B0G87JBFPP",
+   "canal": "marcas",
+   "nome": "Tênis Masculino Puma Dasher Lite",
+   "preco_antigo": 399.99,
+   "preco": 218.49,
+   "desconto": 45,
+   "link": "https://www.amazon.com.br/dp/B0G87JBFPP?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51RjKXR2FEL._AC_SL1000_.jpg",
+   "loja": "Vendido por parceiro · entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-03T22:00:00-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "entrou": "2026-11-02T16:54:21.167831-03:00",
+   "dia": "2026-11-02"
+  },
+  {
+   "id": "amz-B0GVLL1B9H",
+   "canal": "marcas",
+   "nome": "Tênis Olympikus Adrena 2 Feminino",
+   "preco_antigo": 329.9,
+   "preco": 218.49,
+   "desconto": 34,
+   "link": "https://www.amazon.com.br/dp/B0GVLL1B9H?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61RLMrXWb-L._AC_SL1024_.jpg",
+   "loja": "Vendido pela Netshoes · entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-03T22:00:00-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "entrou": "2026-11-02T16:54:21.167831-03:00",
+   "dia": "2026-11-02"
   }
  ],
  "ig_feitos": [
@@ -3455,7 +3508,9 @@
   "2026-11-02 15:00 adivinha",
   "2026-11-02 feed",
   "2026-11-02 14:25 post_achado",
-  "2026-11-02 15:03 story_oferta"
+  "2026-11-02 15:03 story_oferta",
+  "2026-11-02 16:05 adivinha_resposta",
+  "2026-11-02 16:44 story_oferta"
  ],
  "ig_ofertas_usadas": [
   "amz-B0GP7KDZRJ",
@@ -3594,7 +3649,8 @@
   "amz-B0FL2QF7YJ",
   "amz-B08LPLKJBM",
   "shopee-18516472597",
-  "amz-B0849PNJF5"
+  "amz-B0849PNJF5",
+  "amz-B09ZHCLVXF"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
@@ -3634,20 +3690,6 @@
  "ultimo_pilar": "humor",
  "fila": [
   {
-   "id": "amz-B079VW5KT6",
-   "canal": "achadinhos",
-   "nome": "Protetor Solar Facial Eucerin FPS 60",
-   "preco_antigo": 94.9,
-   "preco": 62.26,
-   "desconto": 34,
-   "link": "https://www.amazon.com.br/dp/B079VW5KT6?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61BUIYwrv2L._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-03T22:00:00-03:00",
-   "entrou": "2026-11-02T12:06:46.606282-03:00"
-  },
-  {
    "id": "amz-B09YMT1YKV",
    "canal": "achadinhos",
    "nome": "Liquidificador Philips Walita Série 5000 Jarra de Vidro 127V",
@@ -3660,37 +3702,7 @@
    "plataforma": "Amazon",
    "valida_ate": "2026-11-03T22:00:00-03:00",
    "extra": "Voltagem 127V",
-   "entrou": "2026-11-02T12:06:46.606282-03:00"
-  },
-  {
-   "id": "amz-B0G87JBFPP",
-   "canal": "marcas",
-   "nome": "Tênis Masculino Puma Dasher Lite",
-   "preco_antigo": 399.99,
-   "preco": 218.49,
-   "desconto": 45,
-   "link": "https://www.amazon.com.br/dp/B0G87JBFPP?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51RjKXR2FEL._AC_SL1000_.jpg",
-   "loja": "Vendido por parceiro · entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-03T22:00:00-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "entrou": "2026-11-02T12:06:46.606282-03:00"
-  },
-  {
-   "id": "amz-B0GVLL1B9H",
-   "canal": "marcas",
-   "nome": "Tênis Olympikus Adrena 2 Feminino",
-   "preco_antigo": 329.9,
-   "preco": 218.49,
-   "desconto": 34,
-   "link": "https://www.amazon.com.br/dp/B0GVLL1B9H?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61RLMrXWb-L._AC_SL1024_.jpg",
-   "loja": "Vendido pela Netshoes · entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-03T22:00:00-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "entrou": "2026-11-02T12:06:46.606282-03:00"
+   "entrou": "2026-11-02T16:54:21.167831-03:00"
   },
   {
    "id": "amz-B0CZPVDMVD",
@@ -3705,7 +3717,7 @@
    "plataforma": "Amazon",
    "valida_ate": "2026-11-03T22:00:00-03:00",
    "gancho": "STANLEY COM DESCONTO DE VERDADE",
-   "entrou": "2026-11-02T12:06:46.606282-03:00"
+   "entrou": "2026-11-02T16:54:21.167831-03:00"
   },
   {
    "id": "amz-B0DDQJ4GKN",
@@ -3720,7 +3732,7 @@
    "plataforma": "Amazon",
    "valida_ate": "2026-11-03T22:00:00-03:00",
    "extra": "Preço a partir de: varia por tamanho e cor",
-   "entrou": "2026-11-02T12:06:46.606282-03:00"
+   "entrou": "2026-11-02T16:54:21.167831-03:00"
   },
   {
    "id": "amz-B0DBRBDSR1",
@@ -3735,7 +3747,7 @@
    "plataforma": "Amazon",
    "valida_ate": "2026-11-03T22:00:00-03:00",
    "gancho": "ACQUA DI GIÒ COM 36% OFF",
-   "entrou": "2026-11-02T12:06:46.606282-03:00"
+   "entrou": "2026-11-02T16:54:21.167831-03:00"
   },
   {
    "id": "amz-B0CL51V978",
@@ -3751,7 +3763,7 @@
    "valida_ate": "2026-11-03T22:00:00-03:00",
    "extra": "Preço a partir de: varia por tamanho e cor",
    "gancho": "HERING BÁSICA NO KIT DE 3",
-   "entrou": "2026-11-02T12:06:46.606282-03:00"
+   "entrou": "2026-11-02T16:54:21.167831-03:00"
   },
   {
    "id": "amz-B0CKJW8BL6",
@@ -3767,141 +3779,7 @@
    "valida_ate": "2026-11-03T22:00:00-03:00",
    "extra": "Preço a partir de: varia por tamanho e cor",
    "gancho": "PUMA CLUB II COM 45% OFF",
-   "entrou": "2026-11-02T12:06:46.606282-03:00"
-  },
-  {
-   "id": "amz-B0GVPGKM4P",
-   "canal": "tech",
-   "nome": "Fone Bluetooth JBL Tune 780NC com Cancelamento de Ruído",
-   "preco_antigo": 560.52,
-   "preco": 358.17,
-   "desconto": 36,
-   "link": "https://www.amazon.com.br/dp/B0GVPGKM4P?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51MnMPeZUWL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-02T22:00:00-03:00",
-   "entrou": "2026-11-02T12:29:22.372980-03:00"
-  },
-  {
-   "id": "amz-B0GM1GYWR1",
-   "canal": "tech",
-   "nome": "Fone JBL Tune 530BT Bluetooth Over-Ear",
-   "preco_antigo": 299.0,
-   "preco": 169.15,
-   "desconto": 43,
-   "link": "https://www.amazon.com.br/dp/B0GM1GYWR1?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51VYGGAyXmL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-03T22:00:00-03:00",
-   "extra": "Até 76 h de bateria",
-   "entrou": "2026-11-02T12:29:22.372980-03:00"
-  },
-  {
-   "id": "amz-B0GS3DQH2Q",
-   "canal": "achadinhos",
-   "nome": "Multiprocessador Philips Walita PowerChop 1000",
-   "preco_antigo": 499.9,
-   "preco": 271.19,
-   "desconto": 46,
-   "link": "https://www.amazon.com.br/dp/B0GS3DQH2Q?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/617DKTCqkjL._AC_SL1500_.jpg",
-   "loja": "Vendido por parceiro (Fast Shop Loja Oficial)",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-03T22:00:00-03:00",
-   "entrou": "2026-11-02T12:57:32.659321-03:00"
-  },
-  {
-   "id": "amz-B0DJ8WR5JD",
-   "canal": "marcas",
-   "nome": "Tênis de Corrida Puma Darter Pro",
-   "preco_antigo": 499.99,
-   "preco": 237.49,
-   "desconto": 53,
-   "link": "https://www.amazon.com.br/dp/B0DJ8WR5JD?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61qZ9bN9UXL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-02T22:00:00-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "gancho": "PUMA DE CORRIDA PELA METADE",
-   "entrou": "2026-11-02T13:32:37.173099-03:00"
-  },
-  {
-   "id": "amz-B0F1C2H476",
-   "canal": "marcas",
-   "nome": "Tênis Olympikus Vértice Feminino",
-   "preco_antigo": 249.9,
-   "preco": 123.49,
-   "desconto": 51,
-   "link": "https://www.amazon.com.br/dp/B0F1C2H476?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/71mb90Nsw+L._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Netshoes · Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-02T22:00:00-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "entrou": "2026-11-02T13:32:37.173099-03:00"
-  },
-  {
-   "id": "amz-B0GHSNKWLG",
-   "canal": "marcas",
-   "nome": "Tênis Mizuno Space 6 Adulto",
-   "preco_antigo": 379.99,
-   "preco": 229.9,
-   "desconto": 39,
-   "link": "https://www.amazon.com.br/dp/B0GHSNKWLG?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/710frR60fGL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-02T22:00:00-03:00",
-   "extra": "A partir de: varia por tamanho e cor",
-   "entrou": "2026-11-02T16:01:49.617484-03:00"
-  },
-  {
-   "id": "amz-B0CKJ83V8K",
-   "canal": "marcas",
-   "nome": "Tênis Puma Club II Era",
-   "preco_antigo": 449.99,
-   "preco": 237.49,
-   "desconto": 47,
-   "link": "https://www.amazon.com.br/dp/B0CKJ83V8K?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/41q7j21yBrL._AC_SL1200_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-03T22:00:00-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "entrou": "2026-11-02T16:01:49.617484-03:00"
-  },
-  {
-   "id": "amz-B0D9TZ7623",
-   "canal": "marcas",
-   "nome": "Tênis New Balance BB80 Unissex",
-   "preco_antigo": 399.99,
-   "preco": 182.99,
-   "desconto": 54,
-   "link": "https://www.amazon.com.br/dp/B0D9TZ7623?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/419F9U09zOL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-03T22:00:00-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "entrou": "2026-11-02T16:01:49.617484-03:00"
-  },
-  {
-   "id": "amz-B0DJ98K2JR",
-   "canal": "marcas",
-   "nome": "Tênis de Corrida Puma Darter Pro",
-   "preco_antigo": 499.99,
-   "preco": 237.5,
-   "desconto": 52,
-   "link": "https://www.amazon.com.br/dp/B0DJ98K2JR?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/71-NV05maHL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-03T22:00:00-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "entrou": "2026-11-02T16:01:49.617484-03:00"
+   "entrou": "2026-11-02T16:54:21.167831-03:00"
   }
  ],
  "menus_fixados": [
@@ -4124,7 +4002,10 @@
   "secadortaiffstylepro2000127vprata": "2026-11-02T16:09:20.632510-03:00",
   "perfumestrongerwithyougiorgioarmaniedt": "2026-11-02T16:15:39.503021-03:00",
   "tecladomecanicogamersemfiologitechg515tkllightspeed": "2026-11-02T16:22:12.368367-03:00",
-  "secadordecabelotaiffstylered110v": "2026-11-02T16:34:08.045440-03:00"
+  "secadordecabelotaiffstylered110v": "2026-11-02T16:34:08.045440-03:00",
+  "protetorsolarfacialeucerinfps60": "2026-11-02T17:02:16.171433-03:00",
+  "tenismasculinopumadasherlite": "2026-11-02T17:11:13.314552-03:00",
+  "tenisolympikusadrena2feminino": "2026-11-02T17:25:21.053235-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
