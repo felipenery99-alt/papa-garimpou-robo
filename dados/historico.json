@@ -316,7 +316,10 @@
   "2026-11-01 tech 21:02 amz-B0D2FG84F5",
   "2026-11-01 marcas 21:10 amz-B0DZ33XY3Q",
   "2026-11-01 marcas 21:17 amz-B0G73G3PN8",
-  "2026-11-01 achadinhos 21:24 amz-B08BJDD7XF"
+  "2026-11-01 achadinhos 21:24 amz-B08BJDD7XF",
+  "2026-11-01 achadinhos 21:41 amz-B0CD4SFMD7",
+  "2026-11-01 tech 21:53 amz-B0FDX9Y1ZT",
+  "2026-11-01 achadinhos 21:59 amz-B07LF7C7YL"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -641,7 +644,10 @@
   "amz-B0D2FG84F5": "2026-11-01T21:02:14.025062-03:00",
   "amz-B0DZ33XY3Q": "2026-11-01T21:10:11.758328-03:00",
   "amz-B0G73G3PN8": "2026-11-01T21:17:05.422025-03:00",
-  "amz-B08BJDD7XF": "2026-11-01T21:24:07.315825-03:00"
+  "amz-B08BJDD7XF": "2026-11-01T21:24:07.315825-03:00",
+  "amz-B0CD4SFMD7": "2026-11-01T21:41:23.614737-03:00",
+  "amz-B0FDX9Y1ZT": "2026-11-01T21:53:00.672920-03:00",
+  "amz-B07LF7C7YL": "2026-11-01T21:59:05.297348-03:00"
  },
  "ofertas_dia": [
   {
@@ -3667,6 +3673,52 @@
    "valida_ate": "2026-11-02T22:00:00-03:00",
    "entrou": "2026-11-01T19:53:39.418735-03:00",
    "dia": "2026-11-01"
+  },
+  {
+   "id": "amz-B0CD4SFMD7",
+   "canal": "achadinhos",
+   "nome": "Panela de Pressão Tramontina Vancouver Effect Antiaderente",
+   "preco_antigo": 383.62,
+   "preco": 226.01,
+   "desconto": 41,
+   "link": "https://www.amazon.com.br/dp/B0CD4SFMD7?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71vhS1jZqnL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-02T22:00:00-03:00",
+   "entrou": "2026-11-01T19:53:39.418735-03:00",
+   "dia": "2026-11-01"
+  },
+  {
+   "id": "amz-B0FDX9Y1ZT",
+   "canal": "tech",
+   "nome": "Smartwatch Samsung Galaxy Watch8 40mm LTE Galaxy AI",
+   "preco_antigo": 3299.0,
+   "preco": 1349.99,
+   "desconto": 59,
+   "link": "https://www.amazon.com.br/dp/B0FDX9Y1ZT?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61iTGVZS+0L._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-02T22:00:00-03:00",
+   "gancho": "GALAXY WATCH8 COM 59% OFF",
+   "entrou": "2026-11-01T19:53:39.418735-03:00",
+   "dia": "2026-11-01"
+  },
+  {
+   "id": "amz-B07LF7C7YL",
+   "canal": "achadinhos",
+   "nome": "Protetor Solar Infantil Nivea Sun FPS 60 150ml",
+   "preco_antigo": 87.9,
+   "preco": 58.8,
+   "desconto": 33,
+   "link": "https://www.amazon.com.br/dp/B07LF7C7YL?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/718nBS27DkL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-02T22:00:00-03:00",
+   "entrou": "2026-11-01T19:53:39.418735-03:00",
+   "dia": "2026-11-01"
   }
  ],
  "ig_feitos": [
@@ -3817,7 +3869,9 @@
   "2026-11-01 feed",
   "2026-11-01 20:50 post_achado",
   "2026-11-01 feed",
-  "2026-11-01 21:05 reels"
+  "2026-11-01 21:05 reels",
+  "2026-11-01 21:20 story_convite",
+  "2026-11-01 21:24 story_oferta"
  ],
  "ig_ofertas_usadas": [
   "amz-B0GP7KDZRJ",
@@ -3941,7 +3995,8 @@
   "amz-B0DF2WSGF6",
   "amz-B0CP2RKYMY",
   "amz-B0DD1M9WJT",
-  "amz-B0DKJPZ3XN"
+  "amz-B0DKJPZ3XN",
+  "amz-B0GR1DZZZX"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
@@ -3978,34 +4033,6 @@
  },
  "ultimo_pilar": "blackfriday",
  "fila": [
-  {
-   "id": "amz-B0CD4SFMD7",
-   "canal": "achadinhos",
-   "nome": "Panela de Pressão Tramontina Vancouver Effect Antiaderente",
-   "preco_antigo": 383.62,
-   "preco": 226.01,
-   "desconto": 41,
-   "link": "https://www.amazon.com.br/dp/B0CD4SFMD7?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/71vhS1jZqnL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-02T22:00:00-03:00",
-   "entrou": "2026-11-01T19:53:39.418735-03:00"
-  },
-  {
-   "id": "amz-B07LF7C7YL",
-   "canal": "achadinhos",
-   "nome": "Protetor Solar Infantil Nivea Sun FPS 60 150ml",
-   "preco_antigo": 87.9,
-   "preco": 58.8,
-   "desconto": 33,
-   "link": "https://www.amazon.com.br/dp/B07LF7C7YL?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/718nBS27DkL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-02T22:00:00-03:00",
-   "entrou": "2026-11-01T19:53:39.418735-03:00"
-  },
   {
    "id": "amz-B08NVMP2YZ",
    "canal": "achadinhos",
@@ -4182,35 +4209,6 @@
    "plataforma": "Amazon",
    "valida_ate": "2026-11-02T22:00:00-03:00",
    "extra": "A partir de: varia por tamanho e cor",
-   "entrou": "2026-11-01T19:53:39.418735-03:00"
-  },
-  {
-   "id": "amz-B0GVPGKM4P",
-   "canal": "tech",
-   "nome": "Fone Bluetooth JBL Tune 780NC com Cancelamento de Ruído",
-   "preco_antigo": 560.52,
-   "preco": 358.17,
-   "desconto": 36,
-   "link": "https://www.amazon.com.br/dp/B0GVPGKM4P?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51MnMPeZUWL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-02T22:00:00-03:00",
-   "entrou": "2026-11-01T19:53:39.418735-03:00"
-  },
-  {
-   "id": "amz-B0FDX9Y1ZT",
-   "canal": "tech",
-   "nome": "Smartwatch Samsung Galaxy Watch8 40mm LTE Galaxy AI",
-   "preco_antigo": 3299.0,
-   "preco": 1349.99,
-   "desconto": 59,
-   "link": "https://www.amazon.com.br/dp/B0FDX9Y1ZT?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61iTGVZS+0L._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-02T22:00:00-03:00",
-   "gancho": "GALAXY WATCH8 COM 59% OFF",
    "entrou": "2026-11-01T19:53:39.418735-03:00"
   },
   {
@@ -4508,7 +4506,10 @@
   "tecladosemfiologitechkeystogo2comcapa": "2026-11-01T21:02:14.025062-03:00",
   "techtshirtinsiderperformance20masculina": "2026-11-01T21:10:11.758328-03:00",
   "tenisnewbalance373v2masculino": "2026-11-01T21:17:05.422025-03:00",
-  "jogodepanelastramontinagranoinoxfundotriplo4pecas": "2026-11-01T21:24:07.315825-03:00"
+  "jogodepanelastramontinagranoinoxfundotriplo4pecas": "2026-11-01T21:24:07.315825-03:00",
+  "paneladepressaotramontinavancouvereffectantiaderente": "2026-11-01T21:41:23.614737-03:00",
+  "smartwatchsamsunggalaxywatch840mmltegalaxyai": "2026-11-01T21:53:00.672920-03:00",
+  "protetorsolarinfantilniveasunfps60150ml": "2026-11-01T21:59:05.297348-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
