@@ -288,18 +288,18 @@
   "erros": [
    "não consegui ler as vendas da Shopee hoje: relatório de vendas da Shopee: [{'message': 'wrong type', 'extensions': {'code': 10010, 'message': 'wrong type'}}]"
   ],
-  "ultima_execucao": "21:59",
-  "execucoes": 26,
+  "ultima_execucao": "22:04",
+  "execucoes": 27,
   "telegram_posts": {
    "achadinhos": 32,
    "marcas": 23,
    "tech": 22
   },
   "telegram_membros": {
-   "achadinhos": 3,
-   "marcas": 2,
-   "tech": 3,
-   "geral": 3
+   "achadinhos": null,
+   "marcas": null,
+   "tech": null,
+   "geral": null
   },
   "instagram_feito": [
    "08:07 story_oferta",
