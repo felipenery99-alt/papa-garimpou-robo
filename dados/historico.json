@@ -337,7 +337,12 @@
   "2026-11-02 tech 10:06 amz-B0FDX5W5T9",
   "2026-11-02 achadinhos 10:10 amz-B0CYCJ66Y8",
   "2026-11-02 marcas 10:13 amz-B09532P5P4",
-  "2026-11-02 achadinhos 10:19 amz-B00M3IFUMK"
+  "2026-11-02 achadinhos 10:19 amz-B00M3IFUMK",
+  "2026-11-02 achadinhos 10:42 amz-B076VYNDMP",
+  "2026-11-02 marcas 10:50 amz-B0G73C1LCT",
+  "2026-11-02 tech 10:55 amz-B0FDX5VNRL",
+  "2026-11-02 achadinhos 11:01 amz-B0BRL93TYM",
+  "2026-11-02 marcas 11:07 amz-B0CKJK36MD"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -683,7 +688,12 @@
   "amz-B0FDX5W5T9": "2026-11-02T10:06:53.694242-03:00",
   "amz-B0CYCJ66Y8": "2026-11-02T10:10:36.067917-03:00",
   "amz-B09532P5P4": "2026-11-02T10:13:55.751503-03:00",
-  "amz-B00M3IFUMK": "2026-11-02T10:19:57.010435-03:00"
+  "amz-B00M3IFUMK": "2026-11-02T10:19:57.010435-03:00",
+  "amz-B076VYNDMP": "2026-11-02T10:42:37.179305-03:00",
+  "amz-B0G73C1LCT": "2026-11-02T10:50:17.948166-03:00",
+  "amz-B0FDX5VNRL": "2026-11-02T10:55:41.845559-03:00",
+  "amz-B0BRL93TYM": "2026-11-02T11:01:01.280361-03:00",
+  "amz-B0CKJK36MD": "2026-11-02T11:07:37.273306-03:00"
  },
  "ofertas_dia": [
   {
@@ -2870,6 +2880,83 @@
    "extra": "Vendido pela própria Amazon",
    "entrou": "2026-11-02T08:17:16.830188-03:00",
    "dia": "2026-11-02"
+  },
+  {
+   "id": "amz-B076VYNDMP",
+   "canal": "achadinhos",
+   "nome": "Personal Blender Mondial Preto/Prata",
+   "preco_antigo": 259.9,
+   "preco": 142.0,
+   "desconto": 45,
+   "link": "https://www.amazon.com.br/dp/B076VYNDMP?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/81dpglLUgmL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-03T22:00:00-03:00",
+   "entrou": "2026-11-02T08:17:16.830188-03:00",
+   "dia": "2026-11-02"
+  },
+  {
+   "id": "amz-B0G73C1LCT",
+   "canal": "marcas",
+   "nome": "Tênis New Balance 373v2 Feminino",
+   "preco_antigo": 499.99,
+   "preco": 268.46,
+   "desconto": 46,
+   "link": "https://www.amazon.com.br/dp/B0G73C1LCT?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61ODMoiPoOL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-02T22:00:00-03:00",
+   "extra": "A partir de: varia por tamanho e cor",
+   "entrou": "2026-11-02T08:17:16.830188-03:00",
+   "dia": "2026-11-02"
+  },
+  {
+   "id": "amz-B0FDX5VNRL",
+   "canal": "tech",
+   "nome": "Samsung Galaxy Watch8 Classic 46mm LTE",
+   "preco_antigo": 4499.0,
+   "preco": 1994.05,
+   "desconto": 56,
+   "link": "https://www.amazon.com.br/dp/B0FDX5VNRL?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61zZnXRTOKL._AC_SL1000_.jpg",
+   "loja": "Loja oficial Samsung · entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-03T22:00:00-03:00",
+   "entrou": "2026-11-02T08:17:16.830188-03:00",
+   "dia": "2026-11-02"
+  },
+  {
+   "id": "amz-B0BRL93TYM",
+   "canal": "achadinhos",
+   "nome": "Air Fryer Philips Walita Essential XL Digital 6,2L",
+   "preco_antigo": 899.9,
+   "preco": 522.41,
+   "desconto": 42,
+   "link": "https://www.amazon.com.br/dp/B0BRL93TYM?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51i3nkPbZ-L._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-03T22:00:00-03:00",
+   "entrou": "2026-11-02T08:17:16.830188-03:00",
+   "dia": "2026-11-02"
+  },
+  {
+   "id": "amz-B0CKJK36MD",
+   "canal": "marcas",
+   "nome": "Tênis Puma Club II Era",
+   "preco_antigo": 449.99,
+   "preco": 251.74,
+   "desconto": 44,
+   "link": "https://www.amazon.com.br/dp/B0CKJK36MD?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61F56+87KUL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-02T22:00:00-03:00",
+   "extra": "A partir de: varia por tamanho e cor",
+   "entrou": "2026-11-02T08:17:16.830188-03:00",
+   "dia": "2026-11-02"
   }
  ],
  "ig_feitos": [
@@ -2990,7 +3077,9 @@
   "2026-11-02 08:52 story_oferta",
   "2026-11-02 feed",
   "2026-11-02 09:35 post_achado",
-  "2026-11-02 09:38 story_oferta"
+  "2026-11-02 09:38 story_oferta",
+  "2026-11-02 10:20 story_oferta",
+  "2026-11-02 10:24 story_oferta"
  ],
  "ig_ofertas_usadas": [
   "amz-B0GP7KDZRJ",
@@ -3118,7 +3207,9 @@
   "amz-B0GR1DZZZX",
   "amz-B08NVMP2YZ",
   "amz-B0CVZ3KSZK",
-  "mgl-SG4-014G-172"
+  "mgl-SG4-014G-172",
+  "amz-B07RRDLZQY",
+  "amz-B0GM19N68Z"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
@@ -3158,34 +3249,6 @@
  "ultimo_pilar": "humor",
  "fila": [
   {
-   "id": "amz-B076VYNDMP",
-   "canal": "achadinhos",
-   "nome": "Personal Blender Mondial Preto/Prata",
-   "preco_antigo": 259.9,
-   "preco": 142.0,
-   "desconto": 45,
-   "link": "https://www.amazon.com.br/dp/B076VYNDMP?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/81dpglLUgmL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-03T22:00:00-03:00",
-   "entrou": "2026-11-02T08:17:16.830188-03:00"
-  },
-  {
-   "id": "amz-B0BRL93TYM",
-   "canal": "achadinhos",
-   "nome": "Air Fryer Philips Walita Essential XL Digital 6,2L",
-   "preco_antigo": 899.9,
-   "preco": 522.41,
-   "desconto": 42,
-   "link": "https://www.amazon.com.br/dp/B0BRL93TYM?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51i3nkPbZ-L._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-03T22:00:00-03:00",
-   "entrou": "2026-11-02T08:17:16.830188-03:00"
-  },
-  {
    "id": "amz-B0CWLNBBBC",
    "canal": "achadinhos",
    "nome": "Air Fryer Britânia 5,5L 1500W",
@@ -3197,36 +3260,6 @@
    "loja": "Vendido e entregue pela Amazon",
    "plataforma": "Amazon",
    "valida_ate": "2026-11-03T22:00:00-03:00",
-   "entrou": "2026-11-02T08:17:16.830188-03:00"
-  },
-  {
-   "id": "amz-B0G73C1LCT",
-   "canal": "marcas",
-   "nome": "Tênis New Balance 373v2 Feminino",
-   "preco_antigo": 499.99,
-   "preco": 268.46,
-   "desconto": 46,
-   "link": "https://www.amazon.com.br/dp/B0G73C1LCT?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61ODMoiPoOL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-02T22:00:00-03:00",
-   "extra": "A partir de: varia por tamanho e cor",
-   "entrou": "2026-11-02T08:17:16.830188-03:00"
-  },
-  {
-   "id": "amz-B0CKJK36MD",
-   "canal": "marcas",
-   "nome": "Tênis Puma Club II Era",
-   "preco_antigo": 449.99,
-   "preco": 251.74,
-   "desconto": 44,
-   "link": "https://www.amazon.com.br/dp/B0CKJK36MD?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61F56+87KUL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-02T22:00:00-03:00",
-   "extra": "A partir de: varia por tamanho e cor",
    "entrou": "2026-11-02T08:17:16.830188-03:00"
   },
   {
@@ -3351,20 +3384,6 @@
    "entrou": "2026-11-02T08:17:16.830188-03:00"
   },
   {
-   "id": "amz-B0FDX5VNRL",
-   "canal": "tech",
-   "nome": "Samsung Galaxy Watch8 Classic 46mm LTE",
-   "preco_antigo": 4499.0,
-   "preco": 1994.05,
-   "desconto": 56,
-   "link": "https://www.amazon.com.br/dp/B0FDX5VNRL?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61zZnXRTOKL._AC_SL1000_.jpg",
-   "loja": "Loja oficial Samsung · entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-03T22:00:00-03:00",
-   "entrou": "2026-11-02T08:17:16.830188-03:00"
-  },
-  {
    "id": "amz-B0DJ8WR5JD",
    "canal": "marcas",
    "nome": "Tênis de Corrida Puma Darter Pro",
@@ -3422,6 +3441,55 @@
    "plataforma": "Amazon",
    "valida_ate": "2026-11-03T22:00:00-03:00",
    "entrou": "2026-11-02T09:48:18.315606-03:00"
+  },
+  {
+   "id": "amz-B0GM1GYWR1",
+   "canal": "tech",
+   "nome": "Fone JBL Tune 530BT Bluetooth Over-Ear",
+   "preco_antigo": 299.0,
+   "preco": 169.15,
+   "desconto": 43,
+   "link": "https://www.amazon.com.br/dp/B0GM1GYWR1?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51VYGGAyXmL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-03T22:00:00-03:00",
+   "extra": "Até 76 h de bateria",
+   "entrou": "2026-11-02T10:35:03.955137-03:00"
+  },
+  {
+   "id": "shopee-18516472597",
+   "plataforma": "Shopee",
+   "nome": "Kit De 3 Pares Meias Lupo Kids Infantil Cano Curto Algodão Tamanho 24 ao 35",
+   "loja": "Deccó",
+   "loja_oficial": true,
+   "preco": 29.02,
+   "preco_antigo": 49.19,
+   "desconto": 41,
+   "vendas": 696,
+   "nota": 4.9,
+   "comissao_pct": 10.0,
+   "imagem": "https://cf.shopee.com.br/file/br-11134207-820mb-mt6mt48ipds683",
+   "link": "https://s.shopee.com.br/5VWaNHts8W",
+   "canal": "marcas",
+   "entrou": "2026-11-02T10:35:03.955137-03:00"
+  },
+  {
+   "id": "shopee-27481488690",
+   "plataforma": "Shopee",
+   "nome": "Kit com 4 Pares de Meias Lupo Sport Infantil Cano Médio Algodão Cores Básicas Menino e Menina",
+   "loja": "Deccó",
+   "loja_oficial": true,
+   "preco": 34.66,
+   "preco_antigo": 58.75,
+   "desconto": 41,
+   "vendas": 657,
+   "nota": 4.9,
+   "comissao_pct": 10.0,
+   "imagem": "https://cf.shopee.com.br/file/br-11134207-820li-mt5mjiz98idg23",
+   "link": "https://s.shopee.com.br/5q9QltsbSc",
+   "canal": "marcas",
+   "entrou": "2026-11-02T10:35:03.955137-03:00"
   }
  ],
  "menus_fixados": [
@@ -3619,7 +3687,12 @@
   "samsunggalaxywatch844mmlte": "2026-11-02T10:06:53.694242-03:00",
   "parafusadeiraefuradeiradeimpactowapcom11acessorios": "2026-11-02T10:10:36.067917-03:00",
   "perfumeazzaropourhommemasculino": "2026-11-02T10:13:55.751503-03:00",
-  "perfumearmafclubdenuitintensemasculinoedt": "2026-11-02T10:19:57.010435-03:00"
+  "perfumearmafclubdenuitintensemasculinoedt": "2026-11-02T10:19:57.010435-03:00",
+  "personalblendermondialpretoprata": "2026-11-02T10:42:37.179305-03:00",
+  "tenisnewbalance373v2feminino": "2026-11-02T10:50:17.948166-03:00",
+  "samsunggalaxywatch8classic46mmlte": "2026-11-02T10:55:41.845559-03:00",
+  "airfryerphilipswalitaessentialxldigital62l": "2026-11-02T11:01:01.280361-03:00",
+  "tenispumaclubiiera": "2026-11-02T11:07:37.273306-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
