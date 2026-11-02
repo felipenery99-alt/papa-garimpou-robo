@@ -315,7 +315,8 @@
   "2026-11-01 achadinhos 20:54 amz-B0CDR1SKHR",
   "2026-11-01 tech 21:02 amz-B0D2FG84F5",
   "2026-11-01 marcas 21:10 amz-B0DZ33XY3Q",
-  "2026-11-01 marcas 21:17 amz-B0G73G3PN8"
+  "2026-11-01 marcas 21:17 amz-B0G73G3PN8",
+  "2026-11-01 achadinhos 21:24 amz-B08BJDD7XF"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -639,7 +640,8 @@
   "amz-B0CDR1SKHR": "2026-11-01T20:54:21.606938-03:00",
   "amz-B0D2FG84F5": "2026-11-01T21:02:14.025062-03:00",
   "amz-B0DZ33XY3Q": "2026-11-01T21:10:11.758328-03:00",
-  "amz-B0G73G3PN8": "2026-11-01T21:17:05.422025-03:00"
+  "amz-B0G73G3PN8": "2026-11-01T21:17:05.422025-03:00",
+  "amz-B08BJDD7XF": "2026-11-01T21:24:07.315825-03:00"
  },
  "ofertas_dia": [
   {
@@ -3650,6 +3652,21 @@
    "extra": "Preço a partir de: varia por tamanho e cor",
    "entrou": "2026-11-01T19:53:39.418735-03:00",
    "dia": "2026-11-01"
+  },
+  {
+   "id": "amz-B08BJDD7XF",
+   "canal": "achadinhos",
+   "nome": "Jogo de Panelas Tramontina Grano Inox Fundo Triplo 4 Peças",
+   "preco_antigo": 1796.74,
+   "preco": 1016.5,
+   "desconto": 43,
+   "link": "https://www.amazon.com.br/dp/B08BJDD7XF?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61OLxX-D3aL._AC_SL1500_.jpg",
+   "loja": "Vendido por parceiro · entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-02T22:00:00-03:00",
+   "entrou": "2026-11-01T19:53:39.418735-03:00",
+   "dia": "2026-11-01"
   }
  ],
  "ig_feitos": [
@@ -3796,7 +3813,11 @@
   "2026-11-01 19:17 story_oferta",
   "2026-11-01 20:03 story_oferta",
   "2026-11-01 20:35 story_top4",
-  "2026-11-01 20:38 story_oferta"
+  "2026-11-01 20:38 story_oferta",
+  "2026-11-01 feed",
+  "2026-11-01 20:50 post_achado",
+  "2026-11-01 feed",
+  "2026-11-01 21:05 reels"
  ],
  "ig_ofertas_usadas": [
   "amz-B0GP7KDZRJ",
@@ -3919,11 +3940,12 @@
   "shopee-18597753531",
   "amz-B0DF2WSGF6",
   "amz-B0CP2RKYMY",
-  "amz-B0DD1M9WJT"
+  "amz-B0DD1M9WJT",
+  "amz-B0DKJPZ3XN"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
- "ig_ultimo_reel": "2026-11-01T17:37:42.160750-03:00",
+ "ig_ultimo_reel": "2026-11-01T21:17:27.880606-03:00",
  "pecas_usadas": {
   "ac-preco-inflado": "2026-10-27",
   "dc-7-dias": "2026-10-27",
@@ -3956,20 +3978,6 @@
  },
  "ultimo_pilar": "blackfriday",
  "fila": [
-  {
-   "id": "amz-B08BJDD7XF",
-   "canal": "achadinhos",
-   "nome": "Jogo de Panelas Tramontina Grano Inox Fundo Triplo 4 Peças",
-   "preco_antigo": 1796.74,
-   "preco": 1016.5,
-   "desconto": 43,
-   "link": "https://www.amazon.com.br/dp/B08BJDD7XF?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61OLxX-D3aL._AC_SL1500_.jpg",
-   "loja": "Vendido por parceiro · entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-02T22:00:00-03:00",
-   "entrou": "2026-11-01T19:53:39.418735-03:00"
-  },
   {
    "id": "amz-B0CD4SFMD7",
    "canal": "achadinhos",
@@ -4309,6 +4317,21 @@
    "extra": "Preço a partir de: varia por tamanho e cor",
    "gancho": "PUMA DE CORRIDA PELA METADE",
    "entrou": "2026-11-01T20:48:54.062498-03:00"
+  },
+  {
+   "id": "amz-B0F1C2H476",
+   "canal": "marcas",
+   "nome": "Tênis Olympikus Vértice Feminino",
+   "preco_antigo": 249.9,
+   "preco": 123.49,
+   "desconto": 51,
+   "link": "https://www.amazon.com.br/dp/B0F1C2H476?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71mb90Nsw+L._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Netshoes · Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-02T22:00:00-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "entrou": "2026-11-01T21:17:27.880606-03:00"
   }
  ],
  "menus_fixados": [
@@ -4484,7 +4507,8 @@
   "jogodepanelastramontinaturimantiaderente": "2026-11-01T20:54:21.606938-03:00",
   "tecladosemfiologitechkeystogo2comcapa": "2026-11-01T21:02:14.025062-03:00",
   "techtshirtinsiderperformance20masculina": "2026-11-01T21:10:11.758328-03:00",
-  "tenisnewbalance373v2masculino": "2026-11-01T21:17:05.422025-03:00"
+  "tenisnewbalance373v2masculino": "2026-11-01T21:17:05.422025-03:00",
+  "jogodepanelastramontinagranoinoxfundotriplo4pecas": "2026-11-01T21:24:07.315825-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
@@ -4512,16 +4536,21 @@
    "shopee-16185215321"
   ],
   "2026-11-01": [
-   "amz-B0G6FS95NY",
-   "amz-B08LPJ1FTK",
-   "shopee-22497648129",
-   "shopee-18597753531",
    "shopee-41253171051",
-   "shopee-9739004991",
+   "amz-B0F2JMYPQ9",
+   "amz-B094S8TXCT",
+   "shopee-22497648129",
    "mgl-SG4-0157-058",
+   "amz-B0DKJPZ3XN",
+   "shopee-18597753531",
+   "amz-B0776VT6KN",
    "amz-B0F79VDTM4",
+   "amz-B08LPJ1FTK",
    "amz-B0CQKBJ79W",
-   "amz-B0C7FBYDFP"
+   "amz-B0C7FBYDFP",
+   "shopee-9739004991",
+   "amz-B0G6FS95NY",
+   "amz-B0DZ33XY3Q"
   ]
  },
  "vendas_shopee": {},
