@@ -370,17 +370,17 @@
    "garimpo de marcas falhou: busca 'chinelo nike' falhou: Shopee API: [{'message': 'error [10030]: Rate limit exceeded', 'extensions': {'code': 10030, 'message': 'Rate limit exceeded'}}]. Não postei.",
    "garimpo de tech falhou: busca 'mouse logitech' falhou: Shopee API: [{'message': 'error [10030]: Rate limit exceeded', 'extensions': {'code': 10030, 'message': 'Rate limit exceeded'}}]. Não postei."
   ],
-  "ultima_execucao": "11:21",
-  "execucoes": 6,
+  "ultima_execucao": "12:06",
+  "execucoes": 7,
   "telegram_posts": {
    "achadinhos": 11,
    "marcas": 11,
-   "tech": 6
+   "tech": 7
   },
   "ultimo_post": {
    "achadinhos": "11:30",
    "marcas": "11:50",
-   "tech": "10:55"
+   "tech": "12:16"
   },
   "convites_story": {
    "story-20261101": 0,
@@ -401,14 +401,17 @@
    "09:38 story_oferta",
    "10:20 story_oferta",
    "10:24 story_oferta",
-   "11:11 story_oferta"
+   "11:11 story_oferta",
+   "feed",
+   "11:50 carrossel_top5",
+   "11:56 story_oferta"
   ],
   "shopee_ligada": true,
   "instagram": {
-   "seguidores": 127,
-   "posts": 41,
-   "reach": 52,
-   "profile_views": 78,
+   "seguidores": 128,
+   "posts": 42,
+   "reach": 53,
+   "profile_views": 80,
    "website_clicks": 0,
    "stories_ativos": 25
   }
