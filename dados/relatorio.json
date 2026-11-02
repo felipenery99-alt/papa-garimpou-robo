@@ -366,19 +366,21 @@
    "garimpo de tech falhou: busca 'fone jbl' falhou: Shopee API: [{'message': 'error [10030]: Rate limit exceeded', 'extensions': {'code': 10030, 'message': 'Rate limit exceeded'}}]. Não postei.",
    "Instagram 2026-11-02 08:52 story_oferta falhou: Instagram recusou o container: {'error': {'message': 'Only photo or video can be accepted as media type.', 'type': 'OAuthException', 'code': 9004, 'error_subcode': 2207052, 'is_transient': False, 'error_user_title': 'Falha ao baixar mídia. O URI da míd",
    "garimpo de marcas falhou: busca 'shorts adidas' falhou: Shopee API: [{'message': 'error [10030]: Rate limit exceeded', 'extensions': {'code': 10030, 'message': 'Rate limit exceeded'}}]. Não postei.",
+   "garimpo de tech falhou: busca 'mouse logitech' falhou: Shopee API: [{'message': 'error [10030]: Rate limit exceeded', 'extensions': {'code': 10030, 'message': 'Rate limit exceeded'}}]. Não postei.",
+   "garimpo de marcas falhou: busca 'chinelo nike' falhou: Shopee API: [{'message': 'error [10030]: Rate limit exceeded', 'extensions': {'code': 10030, 'message': 'Rate limit exceeded'}}]. Não postei.",
    "garimpo de tech falhou: busca 'mouse logitech' falhou: Shopee API: [{'message': 'error [10030]: Rate limit exceeded', 'extensions': {'code': 10030, 'message': 'Rate limit exceeded'}}]. Não postei."
   ],
-  "ultima_execucao": "09:02",
-  "execucoes": 3,
+  "ultima_execucao": "09:48",
+  "execucoes": 4,
   "telegram_posts": {
-   "achadinhos": 5,
-   "marcas": 3,
-   "tech": 4
+   "achadinhos": 8,
+   "marcas": 5,
+   "tech": 5
   },
   "ultimo_post": {
-   "achadinhos": "09:32",
-   "marcas": "09:24",
-   "tech": "09:27"
+   "achadinhos": "10:19",
+   "marcas": "10:13",
+   "tech": "10:06"
   },
   "convites_story": {
    "story-20261101": 0,
@@ -393,14 +395,17 @@
   "instagram_feito": [
    "08:07 story_oferta",
    "08:45 story_oferta",
-   "08:52 story_oferta"
+   "08:52 story_oferta",
+   "feed",
+   "09:35 post_achado",
+   "09:38 story_oferta"
   ],
   "shopee_ligada": true,
   "instagram": {
    "seguidores": 127,
-   "posts": 40,
-   "reach": 48,
-   "profile_views": 68,
+   "posts": 41,
+   "reach": 50,
+   "profile_views": 73,
    "website_clicks": 0,
    "stories_ativos": 25
   }
