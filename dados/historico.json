@@ -370,7 +370,8 @@
   "2026-11-02 marcas 18:02 amz-B0CZPVDMVD",
   "2026-11-02 marcas 18:10 amz-B0DDQJ4GKN",
   "2026-11-02 marcas 18:30 amz-B0DBRBDSR1",
-  "2026-11-02 marcas 19:03 amz-B0CL51V978"
+  "2026-11-02 marcas 19:03 amz-B0CL51V978",
+  "2026-11-02 marcas 19:13 amz-B0CKJW8BL6"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -749,7 +750,8 @@
   "amz-B0CZPVDMVD": "2026-11-02T18:02:37.304949-03:00",
   "amz-B0DDQJ4GKN": "2026-11-02T18:10:34.434854-03:00",
   "amz-B0DBRBDSR1": "2026-11-02T18:30:12.953857-03:00",
-  "amz-B0CL51V978": "2026-11-02T19:03:06.651468-03:00"
+  "amz-B0CL51V978": "2026-11-02T19:03:06.651468-03:00",
+  "amz-B0CKJW8BL6": "2026-11-02T19:13:12.661528-03:00"
  },
  "ofertas_dia": [
   {
@@ -3461,6 +3463,23 @@
    "gancho": "HERING BÁSICA NO KIT DE 3",
    "entrou": "2026-11-02T16:54:21.167831-03:00",
    "dia": "2026-11-02"
+  },
+  {
+   "id": "amz-B0CKJW8BL6",
+   "canal": "marcas",
+   "nome": "Tênis Masculino Puma Club II",
+   "preco_antigo": 399.99,
+   "preco": 219.99,
+   "desconto": 45,
+   "link": "https://www.amazon.com.br/dp/B0CKJW8BL6?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61AU2QnIBkL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-03T22:00:00-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "gancho": "PUMA CLUB II COM 45% OFF",
+   "entrou": "2026-11-02T16:54:21.167831-03:00",
+   "dia": "2026-11-02"
   }
  ],
  "ig_feitos": [
@@ -3796,22 +3815,6 @@
  "ultimo_pilar": "humor",
  "fila": [
   {
-   "id": "amz-B0CKJW8BL6",
-   "canal": "marcas",
-   "nome": "Tênis Masculino Puma Club II",
-   "preco_antigo": 399.99,
-   "preco": 219.99,
-   "desconto": 45,
-   "link": "https://www.amazon.com.br/dp/B0CKJW8BL6?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61AU2QnIBkL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-03T22:00:00-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "gancho": "PUMA CLUB II COM 45% OFF",
-   "entrou": "2026-11-02T16:54:21.167831-03:00"
-  },
-  {
    "id": "amz-B0DJ8WR5JD",
    "canal": "marcas",
    "nome": "Tênis de Corrida Puma Darter Pro",
@@ -4131,7 +4134,8 @@
   "garrafatermicastanleyaerolighttransitrosequartz591ml": "2026-11-02T18:02:37.304949-03:00",
   "tenisasicsjapansfeminino": "2026-11-02T18:10:34.434854-03:00",
   "perfumeacquadigioprofondogiorgioarmaniedp": "2026-11-02T18:30:12.953857-03:00",
-  "kit3camisetasbasicasmasculinashering": "2026-11-02T19:03:06.651468-03:00"
+  "kit3camisetasbasicasmasculinashering": "2026-11-02T19:03:06.651468-03:00",
+  "tenismasculinopumaclubii": "2026-11-02T19:13:12.661528-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
