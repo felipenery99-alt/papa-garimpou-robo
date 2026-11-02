@@ -30,6 +30,30 @@
      "canal": "marcas"
     }
    ]
+  },
+  {
+   "tipo": "a_ou_b",
+   "hora": "18:19",
+   "produtos": [
+    {
+     "nome": "Samsung Galaxy Watch8 Classic 46mm LTE",
+     "preco_antigo": 4499.0,
+     "preco": 1994.05,
+     "desconto": 56,
+     "link": "https://www.amazon.com.br/dp/B0FDX5VNRL?tag=papagarimpou-20",
+     "loja": "Loja oficial Samsung · entregue pela Amazon",
+     "canal": "tech"
+    },
+    {
+     "nome": "Samsung Galaxy Watch8 44mm LTE",
+     "preco_antigo": 3499.0,
+     "preco": 1679.0,
+     "desconto": 52,
+     "link": "https://www.amazon.com.br/dp/B0FDX5W5T9?tag=papagarimpou-20",
+     "loja": "Vendido e entregue pela Amazon",
+     "canal": "tech"
+    }
+   ]
   }
  ]
 }
