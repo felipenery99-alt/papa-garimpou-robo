@@ -325,7 +325,13 @@
   "2026-11-02 achadinhos 08:30 amz-B07RRDLZQY",
   "2026-11-02 tech 08:37 amz-B0GM19N68Z",
   "2026-11-02 achadinhos 08:41 amz-B07Y2BK4GJ",
-  "2026-11-02 tech 08:46 amz-B0G4SN4QF7"
+  "2026-11-02 tech 08:46 amz-B0G4SN4QF7",
+  "2026-11-02 achadinhos 09:05 amz-B0GT7FR4LH",
+  "2026-11-02 marcas 09:11 amz-B0D8J3GFBS",
+  "2026-11-02 tech 09:17 amz-B0FR49NFLT",
+  "2026-11-02 marcas 09:24 amz-B0CVZ3KSZK",
+  "2026-11-02 tech 09:27 amz-B0FL2QF7YJ",
+  "2026-11-02 achadinhos 09:32 amz-B0849PNJF5"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -659,7 +665,13 @@
   "amz-B07RRDLZQY": "2026-11-02T08:30:14.971830-03:00",
   "amz-B0GM19N68Z": "2026-11-02T08:37:11.227216-03:00",
   "amz-B07Y2BK4GJ": "2026-11-02T08:41:51.485935-03:00",
-  "amz-B0G4SN4QF7": "2026-11-02T08:46:09.076414-03:00"
+  "amz-B0G4SN4QF7": "2026-11-02T08:46:09.076414-03:00",
+  "amz-B0GT7FR4LH": "2026-11-02T09:05:48.747470-03:00",
+  "amz-B0D8J3GFBS": "2026-11-02T09:11:10.812146-03:00",
+  "amz-B0FR49NFLT": "2026-11-02T09:17:11.161499-03:00",
+  "amz-B0CVZ3KSZK": "2026-11-02T09:24:35.310861-03:00",
+  "amz-B0FL2QF7YJ": "2026-11-02T09:27:53.485963-03:00",
+  "amz-B0849PNJF5": "2026-11-02T09:32:11.483565-03:00"
  },
  "ofertas_dia": [
   {
@@ -2661,6 +2673,98 @@
    "gancho": "PARTYBOX DA JBL QUASE PELA METADE",
    "entrou": "2026-11-02T08:17:16.830188-03:00",
    "dia": "2026-11-02"
+  },
+  {
+   "id": "amz-B0GT7FR4LH",
+   "canal": "achadinhos",
+   "nome": "Multiprocessador Philips Walita PowerChop 1000",
+   "preco_antigo": 499.9,
+   "preco": 271.19,
+   "desconto": 46,
+   "link": "https://www.amazon.com.br/dp/B0GT7FR4LH?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/617DKTCqkjL._AC_SL1500_.jpg",
+   "loja": "Vendido por Fast Shop · entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-02T22:00:00-03:00",
+   "entrou": "2026-11-02T08:17:16.830188-03:00",
+   "dia": "2026-11-02"
+  },
+  {
+   "id": "amz-B0D8J3GFBS",
+   "canal": "marcas",
+   "nome": "Perfume CK One Essence Parfum Intense 100ml",
+   "preco_antigo": 599.0,
+   "preco": 403.0,
+   "desconto": 33,
+   "link": "https://www.amazon.com.br/dp/B0D8J3GFBS?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61WYGcTCdnL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-02T22:00:00-03:00",
+   "extra": "Importado vendido pela própria Amazon",
+   "entrou": "2026-11-02T08:17:16.830188-03:00",
+   "dia": "2026-11-02"
+  },
+  {
+   "id": "amz-B0FR49NFLT",
+   "canal": "tech",
+   "nome": "Caixa de Som LG xboom Bounce 40W IP67 30h de bateria",
+   "preco_antigo": 1049.0,
+   "preco": 599.0,
+   "desconto": 43,
+   "link": "https://www.amazon.com.br/dp/B0FR49NFLT?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/511OMT+7K4L._AC_SL1000_.jpg",
+   "loja": "Vendido por parceiro · entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-02T22:00:00-03:00",
+   "entrou": "2026-11-02T08:17:16.830188-03:00",
+   "dia": "2026-11-02"
+  },
+  {
+   "id": "amz-B0CVZ3KSZK",
+   "canal": "marcas",
+   "nome": "Blusa Básica Feminina Hering Manga Curta",
+   "preco_antigo": 69.99,
+   "preco": 24.22,
+   "desconto": 65,
+   "link": "https://www.amazon.com.br/dp/B0CVZ3KSZK?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/7167ALis00L._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-02T22:00:00-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "entrou": "2026-11-02T08:17:16.830188-03:00",
+   "dia": "2026-11-02"
+  },
+  {
+   "id": "amz-B0FL2QF7YJ",
+   "canal": "tech",
+   "nome": "Caixa de Som JBL PartyBox Encore Essential 2 100W",
+   "preco_antigo": 1899.0,
+   "preco": 1299.89,
+   "desconto": 32,
+   "link": "https://www.amazon.com.br/dp/B0FL2QF7YJ?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71Ar78y955L._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-03T22:00:00-03:00",
+   "entrou": "2026-11-02T08:17:16.830188-03:00",
+   "dia": "2026-11-02"
+  },
+  {
+   "id": "amz-B0849PNJF5",
+   "canal": "achadinhos",
+   "nome": "Aspirador de Pó e Água WAP GTW 20 Litros",
+   "preco_antigo": 729.9,
+   "preco": 398.9,
+   "desconto": 45,
+   "link": "https://www.amazon.com.br/dp/B0849PNJF5?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61mq7fJyAUL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-03T22:00:00-03:00",
+   "entrou": "2026-11-02T08:17:16.830188-03:00",
+   "dia": "2026-11-02"
   }
  ],
  "ig_feitos": [
@@ -2776,7 +2880,9 @@
   "2026-11-01 21:05 reels",
   "2026-11-01 21:20 story_convite",
   "2026-11-01 21:24 story_oferta",
-  "2026-11-02 08:07 story_oferta"
+  "2026-11-02 08:07 story_oferta",
+  "2026-11-02 08:45 story_oferta",
+  "2026-11-02 08:52 story_oferta"
  ],
  "ig_ofertas_usadas": [
   "amz-B0GP7KDZRJ",
@@ -2901,7 +3007,8 @@
   "amz-B0CP2RKYMY",
   "amz-B0DD1M9WJT",
   "amz-B0DKJPZ3XN",
-  "amz-B0GR1DZZZX"
+  "amz-B0GR1DZZZX",
+  "amz-B08NVMP2YZ"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
@@ -2940,48 +3047,6 @@
  },
  "ultimo_pilar": "humor",
  "fila": [
-  {
-   "id": "amz-B0GT7FR4LH",
-   "canal": "achadinhos",
-   "nome": "Multiprocessador Philips Walita PowerChop 1000",
-   "preco_antigo": 499.9,
-   "preco": 271.19,
-   "desconto": 46,
-   "link": "https://www.amazon.com.br/dp/B0GT7FR4LH?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/617DKTCqkjL._AC_SL1500_.jpg",
-   "loja": "Vendido por Fast Shop · entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-02T22:00:00-03:00",
-   "entrou": "2026-11-02T08:17:16.830188-03:00"
-  },
-  {
-   "id": "amz-B0GS3DQH2Q",
-   "canal": "achadinhos",
-   "nome": "Multiprocessador Philips Walita PowerChop 1000",
-   "preco_antigo": 499.9,
-   "preco": 271.19,
-   "desconto": 46,
-   "link": "https://www.amazon.com.br/dp/B0GS3DQH2Q?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/617DKTCqkjL._AC_SL1500_.jpg",
-   "loja": "Vendido por parceiro (Fast Shop Loja Oficial)",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-03T22:00:00-03:00",
-   "entrou": "2026-11-02T08:17:16.830188-03:00"
-  },
-  {
-   "id": "amz-B0849PNJF5",
-   "canal": "achadinhos",
-   "nome": "Aspirador de Pó e Água WAP GTW 20 Litros",
-   "preco_antigo": 729.9,
-   "preco": 398.9,
-   "desconto": 45,
-   "link": "https://www.amazon.com.br/dp/B0849PNJF5?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61mq7fJyAUL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-03T22:00:00-03:00",
-   "entrou": "2026-11-02T08:17:16.830188-03:00"
-  },
   {
    "id": "amz-B09ZHCLVXF",
    "canal": "achadinhos",
@@ -3066,36 +3131,6 @@
    "loja": "Vendido e entregue pela Amazon",
    "plataforma": "Amazon",
    "valida_ate": "2026-11-03T22:00:00-03:00",
-   "entrou": "2026-11-02T08:17:16.830188-03:00"
-  },
-  {
-   "id": "amz-B0D8J3GFBS",
-   "canal": "marcas",
-   "nome": "Perfume CK One Essence Parfum Intense 100ml",
-   "preco_antigo": 599.0,
-   "preco": 403.0,
-   "desconto": 33,
-   "link": "https://www.amazon.com.br/dp/B0D8J3GFBS?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61WYGcTCdnL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-02T22:00:00-03:00",
-   "extra": "Importado vendido pela própria Amazon",
-   "entrou": "2026-11-02T08:17:16.830188-03:00"
-  },
-  {
-   "id": "amz-B0CVZ3KSZK",
-   "canal": "marcas",
-   "nome": "Blusa Básica Feminina Hering Manga Curta",
-   "preco_antigo": 69.99,
-   "preco": 24.22,
-   "desconto": 65,
-   "link": "https://www.amazon.com.br/dp/B0CVZ3KSZK?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/7167ALis00L._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-02T22:00:00-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
    "entrou": "2026-11-02T08:17:16.830188-03:00"
   },
   {
@@ -3279,34 +3314,6 @@
    "entrou": "2026-11-02T08:17:16.830188-03:00"
   },
   {
-   "id": "amz-B0FR49NFLT",
-   "canal": "tech",
-   "nome": "Caixa de Som LG xboom Bounce 40W IP67 30h de bateria",
-   "preco_antigo": 1049.0,
-   "preco": 599.0,
-   "desconto": 43,
-   "link": "https://www.amazon.com.br/dp/B0FR49NFLT?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/511OMT+7K4L._AC_SL1000_.jpg",
-   "loja": "Vendido por parceiro · entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-02T22:00:00-03:00",
-   "entrou": "2026-11-02T08:17:16.830188-03:00"
-  },
-  {
-   "id": "amz-B0FL2QF7YJ",
-   "canal": "tech",
-   "nome": "Caixa de Som JBL PartyBox Encore Essential 2 100W",
-   "preco_antigo": 1899.0,
-   "preco": 1299.89,
-   "desconto": 32,
-   "link": "https://www.amazon.com.br/dp/B0FL2QF7YJ?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/71Ar78y955L._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-03T22:00:00-03:00",
-   "entrou": "2026-11-02T08:17:16.830188-03:00"
-  },
-  {
    "id": "amz-B0FDX5W5T9",
    "canal": "tech",
    "nome": "Samsung Galaxy Watch8 44mm LTE",
@@ -3348,6 +3355,51 @@
    "plataforma": "Amazon",
    "valida_ate": "2026-11-03T22:00:00-03:00",
    "entrou": "2026-11-02T08:17:16.830188-03:00"
+  },
+  {
+   "id": "amz-B0DJ8WR5JD",
+   "canal": "marcas",
+   "nome": "Tênis de Corrida Puma Darter Pro",
+   "preco_antigo": 499.99,
+   "preco": 237.49,
+   "desconto": 53,
+   "link": "https://www.amazon.com.br/dp/B0DJ8WR5JD?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61qZ9bN9UXL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-02T22:00:00-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "gancho": "PUMA DE CORRIDA PELA METADE",
+   "entrou": "2026-11-02T09:02:22.903990-03:00"
+  },
+  {
+   "id": "amz-B0F1C2H476",
+   "canal": "marcas",
+   "nome": "Tênis Olympikus Vértice Feminino",
+   "preco_antigo": 249.9,
+   "preco": 123.49,
+   "desconto": 51,
+   "link": "https://www.amazon.com.br/dp/B0F1C2H476?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71mb90Nsw+L._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Netshoes · Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-02T22:00:00-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "entrou": "2026-11-02T09:02:22.903990-03:00"
+  },
+  {
+   "id": "amz-B0GVPGKM4P",
+   "canal": "tech",
+   "nome": "Fone Bluetooth JBL Tune 780NC com Cancelamento de Ruído",
+   "preco_antigo": 560.52,
+   "preco": 358.17,
+   "desconto": 36,
+   "link": "https://www.amazon.com.br/dp/B0GVPGKM4P?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51MnMPeZUWL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-02T22:00:00-03:00",
+   "entrou": "2026-11-02T09:02:22.903990-03:00"
   }
  ],
  "menus_fixados": [
@@ -3533,7 +3585,13 @@
   "liquidificadorphilipswalitadaily2l550w": "2026-11-02T08:30:14.971830-03:00",
   "fonebluetoothjbltune530btoverearate76hdebateria": "2026-11-02T08:37:11.227216-03:00",
   "protetorsolarfacialminesoloilcontrolfps7040g": "2026-11-02T08:41:51.485935-03:00",
-  "caixadesomjblpartyboxstage320comshowdeluzes": "2026-11-02T08:46:09.076414-03:00"
+  "caixadesomjblpartyboxstage320comshowdeluzes": "2026-11-02T08:46:09.076414-03:00",
+  "multiprocessadorphilipswalitapowerchop1000": "2026-11-02T09:05:48.747470-03:00",
+  "perfumeckoneessenceparfumintense100ml": "2026-11-02T09:11:10.812146-03:00",
+  "caixadesomlgxboombounce40wip6730hdebateria": "2026-11-02T09:17:11.161499-03:00",
+  "blusabasicafemininaheringmangacurta": "2026-11-02T09:24:35.310861-03:00",
+  "caixadesomjblpartyboxencoreessential2100w": "2026-11-02T09:27:53.485963-03:00",
+  "aspiradordepoeaguawapgtw20litros": "2026-11-02T09:32:11.483565-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
