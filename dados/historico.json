@@ -356,7 +356,9 @@
   "2026-11-02 marcas 14:27 shopee-27481488690",
   "2026-11-02 tech 14:36 amz-B0FDXC3Q9M",
   "2026-11-02 tech 14:47 amz-B0BQBRS3WC",
-  "2026-11-02 achadinhos 14:54 amz-B08DHW4CT9"
+  "2026-11-02 achadinhos 14:54 amz-B08DHW4CT9",
+  "2026-11-02 marcas 15:23 amz-B0C158TZF6",
+  "2026-11-02 tech 15:39 amz-B0FZXTYQ3V"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -721,7 +723,9 @@
   "shopee-27481488690": "2026-11-02T14:27:26.380140-03:00",
   "amz-B0FDXC3Q9M": "2026-11-02T14:36:04.621654-03:00",
   "amz-B0BQBRS3WC": "2026-11-02T14:47:11.501327-03:00",
-  "amz-B08DHW4CT9": "2026-11-02T14:54:48.251961-03:00"
+  "amz-B08DHW4CT9": "2026-11-02T14:54:48.251961-03:00",
+  "amz-B0C158TZF6": "2026-11-02T15:23:55.076415-03:00",
+  "amz-B0FZXTYQ3V": "2026-11-02T15:39:34.245289-03:00"
  },
  "ofertas_dia": [
   {
@@ -3211,6 +3215,38 @@
    "gancho": "ARMANI ORIGINAL VENDIDO PELA AMAZON",
    "entrou": "2026-11-02T12:06:46.606282-03:00",
    "dia": "2026-11-02"
+  },
+  {
+   "id": "amz-B0C158TZF6",
+   "canal": "marcas",
+   "nome": "Kit 2 Cuecas Calvin Klein Slip Brief Algodão",
+   "preco_antigo": 188.99,
+   "preco": 113.99,
+   "desconto": 40,
+   "link": "https://www.amazon.com.br/dp/B0C158TZF6?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61GbXWGnzZL._AC_SL1500_.jpg",
+   "loja": "Vendido por parceiro · entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-03T22:00:00-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "entrou": "2026-11-02T12:06:46.606282-03:00",
+   "dia": "2026-11-02"
+  },
+  {
+   "id": "amz-B0FZXTYQ3V",
+   "canal": "tech",
+   "nome": "Soundbar JBL Cinema SB595 5.1 com Subwoofer",
+   "preco_antigo": 1999.0,
+   "preco": 1375.31,
+   "desconto": 31,
+   "link": "https://www.amazon.com.br/dp/B0FZXTYQ3V?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51n1AK9rmdL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-03T22:00:00-03:00",
+   "gancho": "CINEMA EM CASA COM JBL",
+   "entrou": "2026-11-02T12:06:46.606282-03:00",
+   "dia": "2026-11-02"
   }
  ],
  "ig_feitos": [
@@ -3345,7 +3381,11 @@
   "2026-11-02 12:47 story_oferta",
   "2026-11-02 13:20 story_convite",
   "2026-11-02 13:22 story_oferta",
-  "2026-11-02 14:08 story_oferta"
+  "2026-11-02 14:08 story_oferta",
+  "2026-11-02 15:00 adivinha",
+  "2026-11-02 feed",
+  "2026-11-02 14:25 post_achado",
+  "2026-11-02 15:03 story_oferta"
  ],
  "ig_ofertas_usadas": [
   "amz-B0GP7KDZRJ",
@@ -3481,7 +3521,10 @@
   "amz-B0GT7FR4LH",
   "amz-B0D8J3GFBS",
   "amz-B0FR49NFLT",
-  "amz-B0FL2QF7YJ"
+  "amz-B0FL2QF7YJ",
+  "amz-B08LPLKJBM",
+  "shopee-18516472597",
+  "amz-B0849PNJF5"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
@@ -3576,81 +3619,6 @@
    "plataforma": "Amazon",
    "valida_ate": "2026-11-03T22:00:00-03:00",
    "extra": "Voltagem 127V",
-   "entrou": "2026-11-02T12:06:46.606282-03:00"
-  },
-  {
-   "id": "amz-B0GHSNKWLG",
-   "canal": "marcas",
-   "nome": "Tênis Mizuno Space 6 Adulto",
-   "preco_antigo": 379.99,
-   "preco": 229.9,
-   "desconto": 39,
-   "link": "https://www.amazon.com.br/dp/B0GHSNKWLG?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/710frR60fGL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-02T22:00:00-03:00",
-   "extra": "A partir de: varia por tamanho e cor",
-   "entrou": "2026-11-02T12:06:46.606282-03:00"
-  },
-  {
-   "id": "amz-B0CKJ83V8K",
-   "canal": "marcas",
-   "nome": "Tênis Puma Club II Era",
-   "preco_antigo": 449.99,
-   "preco": 237.49,
-   "desconto": 47,
-   "link": "https://www.amazon.com.br/dp/B0CKJ83V8K?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/41q7j21yBrL._AC_SL1200_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-03T22:00:00-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "entrou": "2026-11-02T12:06:46.606282-03:00"
-  },
-  {
-   "id": "amz-B0D9TZ7623",
-   "canal": "marcas",
-   "nome": "Tênis New Balance BB80 Unissex",
-   "preco_antigo": 399.99,
-   "preco": 182.99,
-   "desconto": 54,
-   "link": "https://www.amazon.com.br/dp/B0D9TZ7623?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/419F9U09zOL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-03T22:00:00-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "entrou": "2026-11-02T12:06:46.606282-03:00"
-  },
-  {
-   "id": "amz-B0DJ98K2JR",
-   "canal": "marcas",
-   "nome": "Tênis de Corrida Puma Darter Pro",
-   "preco_antigo": 499.99,
-   "preco": 237.5,
-   "desconto": 52,
-   "link": "https://www.amazon.com.br/dp/B0DJ98K2JR?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/71-NV05maHL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-03T22:00:00-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "entrou": "2026-11-02T12:06:46.606282-03:00"
-  },
-  {
-   "id": "amz-B0C158TZF6",
-   "canal": "marcas",
-   "nome": "Kit 2 Cuecas Calvin Klein Slip Brief Algodão",
-   "preco_antigo": 188.99,
-   "preco": 113.99,
-   "desconto": 40,
-   "link": "https://www.amazon.com.br/dp/B0C158TZF6?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61GbXWGnzZL._AC_SL1500_.jpg",
-   "loja": "Vendido por parceiro · entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-03T22:00:00-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
    "entrou": "2026-11-02T12:06:46.606282-03:00"
   },
   {
@@ -3772,21 +3740,6 @@
    "valida_ate": "2026-11-03T22:00:00-03:00",
    "extra": "Preço a partir de: varia por tamanho e cor",
    "gancho": "PUMA CLUB II COM 45% OFF",
-   "entrou": "2026-11-02T12:06:46.606282-03:00"
-  },
-  {
-   "id": "amz-B0FZXTYQ3V",
-   "canal": "tech",
-   "nome": "Soundbar JBL Cinema SB595 5.1 com Subwoofer",
-   "preco_antigo": 1999.0,
-   "preco": 1375.31,
-   "desconto": 31,
-   "link": "https://www.amazon.com.br/dp/B0FZXTYQ3V?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51n1AK9rmdL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-03T22:00:00-03:00",
-   "gancho": "CINEMA EM CASA COM JBL",
    "entrou": "2026-11-02T12:06:46.606282-03:00"
   },
   {
@@ -4093,7 +4046,9 @@
   "kitcom4paresdemeiasluposportinfantilcanomedioalgodaocoresbasicasmeninoemenina": "2026-11-02T14:27:26.380140-03:00",
   "samsunggalaxywatch8smartwatch44mmgrafite": "2026-11-02T14:36:04.621654-03:00",
   "tecladogamersemfiologitechgproxtkl": "2026-11-02T14:47:11.501327-03:00",
-  "perfumemywaygiorgioarmanifemininoedp": "2026-11-02T14:54:48.251961-03:00"
+  "perfumemywaygiorgioarmanifemininoedp": "2026-11-02T14:54:48.251961-03:00",
+  "kit2cuecascalvinkleinslipbriefalgodao": "2026-11-02T15:23:55.076415-03:00",
+  "soundbarjblcinemasb59551comsubwoofer": "2026-11-02T15:39:34.245289-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
@@ -4159,23 +4114,22 @@
  },
  "tg_offset": 354369939,
  "adivinha": {
-  "dia": "2026-11-01",
+  "dia": "2026-11-02",
   "oferta": {
-   "id": "amz-B08LPJ1FTK",
+   "id": "amz-B08LPLKJBM",
    "canal": "marcas",
-   "nome": "Camiseta Hering Masculina Gola V Regular",
+   "nome": "Camiseta Hering World Manga Curta Masculina",
    "preco_antigo": 69.99,
-   "preco": 28.18,
-   "desconto": 60,
-   "link": "https://www.amazon.com.br/dp/B08LPJ1FTK?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/412DNop9COL._AC_SL1500_.jpg",
+   "preco": 30.23,
+   "desconto": 57,
+   "link": "https://www.amazon.com.br/dp/B08LPLKJBM?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71yKuvyyOrL._AC_SL1500_.jpg",
    "loja": "Vendido e entregue pela Amazon",
    "plataforma": "Amazon",
-   "valida_ate": "2026-11-01T23:59:00-03:00",
+   "valida_ate": "2026-11-03T22:00:00-03:00",
    "extra": "Preço a partir de: varia por tamanho e cor",
-   "gancho": "HERING GOLA V POR MENOS DE TRINTA CONTO",
-   "entrou": "2026-11-01T08:17:36.057942-03:00",
-   "dia": "2026-11-01"
+   "entrou": "2026-11-02T08:17:16.830188-03:00",
+   "dia": "2026-11-02"
   }
  },
  "ig_dm_links": {},

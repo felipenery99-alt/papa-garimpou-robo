@@ -1,57 +1,18 @@
 {
- "dia": "2026-11-01",
+ "dia": "2026-11-02",
  "itens": [
   {
    "tipo": "adivinha",
-   "hora": "15:05",
+   "hora": "15:13",
    "produtos": [
     {
-     "nome": "Camiseta Hering Masculina Gola V Regular",
+     "nome": "Camiseta Hering World Manga Curta Masculina",
      "preco_antigo": 69.99,
-     "preco": 28.18,
-     "desconto": 60,
-     "link": "https://www.amazon.com.br/dp/B08LPJ1FTK?tag=papagarimpou-20",
+     "preco": 30.23,
+     "desconto": 57,
+     "link": "https://www.amazon.com.br/dp/B08LPLKJBM?tag=papagarimpou-20",
      "loja": "Vendido e entregue pela Amazon",
      "canal": "marcas"
-    }
-   ]
-  },
-  {
-   "tipo": "adivinha_resposta",
-   "hora": "16:23",
-   "produtos": [
-    {
-     "nome": "Camiseta Hering Masculina Gola V Regular",
-     "preco_antigo": 69.99,
-     "preco": 28.18,
-     "desconto": 60,
-     "link": "https://www.amazon.com.br/dp/B08LPJ1FTK?tag=papagarimpou-20",
-     "loja": "Vendido e entregue pela Amazon",
-     "canal": "marcas"
-    }
-   ]
-  },
-  {
-   "tipo": "a_ou_b",
-   "hora": "18:05",
-   "produtos": [
-    {
-     "nome": "Cabo Carregador Tipo C 2 Metros Turbo Premium Reforçado Android Xiaomi USB Dados",
-     "preco_antigo": 31.19,
-     "preco": 20.9,
-     "desconto": 33,
-     "link": "https://s.shopee.com.br/5AtiXcLCrT",
-     "loja": "Shop Aquarela",
-     "canal": "tech"
-    },
-    {
-     "nome": "Smartwatch Samsung Galaxy Watch8 44mm LTE",
-     "preco_antigo": 3499.0,
-     "preco": 1599.99,
-     "desconto": 54,
-     "link": "https://www.amazon.com.br/dp/B0FDX9MDXK?tag=papagarimpou-20",
-     "loja": "Vendido e entregue pela Amazon",
-     "canal": "tech"
     }
    ]
   }
