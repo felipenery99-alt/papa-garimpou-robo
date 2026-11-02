@@ -369,7 +369,8 @@
   "2026-11-02 achadinhos 17:55 amz-B09YMT1YKV",
   "2026-11-02 marcas 18:02 amz-B0CZPVDMVD",
   "2026-11-02 marcas 18:10 amz-B0DDQJ4GKN",
-  "2026-11-02 marcas 18:30 amz-B0DBRBDSR1"
+  "2026-11-02 marcas 18:30 amz-B0DBRBDSR1",
+  "2026-11-02 marcas 19:03 amz-B0CL51V978"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -747,7 +748,8 @@
   "amz-B09YMT1YKV": "2026-11-02T17:55:27.727127-03:00",
   "amz-B0CZPVDMVD": "2026-11-02T18:02:37.304949-03:00",
   "amz-B0DDQJ4GKN": "2026-11-02T18:10:34.434854-03:00",
-  "amz-B0DBRBDSR1": "2026-11-02T18:30:12.953857-03:00"
+  "amz-B0DBRBDSR1": "2026-11-02T18:30:12.953857-03:00",
+  "amz-B0CL51V978": "2026-11-02T19:03:06.651468-03:00"
  },
  "ofertas_dia": [
   {
@@ -3442,6 +3444,23 @@
    "gancho": "ACQUA DI GIÒ COM 36% OFF",
    "entrou": "2026-11-02T16:54:21.167831-03:00",
    "dia": "2026-11-02"
+  },
+  {
+   "id": "amz-B0CL51V978",
+   "canal": "marcas",
+   "nome": "Kit 3 Camisetas Básicas Masculinas Hering",
+   "preco_antigo": 159.99,
+   "preco": 94.9,
+   "desconto": 41,
+   "link": "https://www.amazon.com.br/dp/B0CL51V978?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61gRYC-stlL._AC_SL1500_.jpg",
+   "loja": "Vendido por parceiro · entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-03T22:00:00-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "gancho": "HERING BÁSICA NO KIT DE 3",
+   "entrou": "2026-11-02T16:54:21.167831-03:00",
+   "dia": "2026-11-02"
   }
  ],
  "ig_feitos": [
@@ -3590,7 +3609,8 @@
   "2026-11-02 16:55 post_achado",
   "2026-11-02 17:36 story_oferta",
   "2026-11-02 18:05 a_ou_b",
-  "2026-11-02 18:09 story_oferta"
+  "2026-11-02 18:09 story_oferta",
+  "2026-11-02 18:42 story_oferta"
  ],
  "ig_ofertas_usadas": [
   "amz-B0GP7KDZRJ",
@@ -3735,7 +3755,8 @@
   "amz-B0FFTRRFBT",
   "amz-B0FDX5VNRL",
   "amz-B0FDX5W5T9",
-  "amz-B0CYCJ66Y8"
+  "amz-B0CYCJ66Y8",
+  "amz-B09532P5P4"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
@@ -3774,22 +3795,6 @@
  },
  "ultimo_pilar": "humor",
  "fila": [
-  {
-   "id": "amz-B0CL51V978",
-   "canal": "marcas",
-   "nome": "Kit 3 Camisetas Básicas Masculinas Hering",
-   "preco_antigo": 159.99,
-   "preco": 94.9,
-   "desconto": 41,
-   "link": "https://www.amazon.com.br/dp/B0CL51V978?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61gRYC-stlL._AC_SL1500_.jpg",
-   "loja": "Vendido por parceiro · entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-03T22:00:00-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "gancho": "HERING BÁSICA NO KIT DE 3",
-   "entrou": "2026-11-02T16:54:21.167831-03:00"
-  },
   {
    "id": "amz-B0CKJW8BL6",
    "canal": "marcas",
@@ -4125,7 +4130,8 @@
   "liquidificadorphilipswalitaserie5000jarradevidro127v": "2026-11-02T17:55:27.727127-03:00",
   "garrafatermicastanleyaerolighttransitrosequartz591ml": "2026-11-02T18:02:37.304949-03:00",
   "tenisasicsjapansfeminino": "2026-11-02T18:10:34.434854-03:00",
-  "perfumeacquadigioprofondogiorgioarmaniedp": "2026-11-02T18:30:12.953857-03:00"
+  "perfumeacquadigioprofondogiorgioarmaniedp": "2026-11-02T18:30:12.953857-03:00",
+  "kit3camisetasbasicasmasculinashering": "2026-11-02T19:03:06.651468-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
