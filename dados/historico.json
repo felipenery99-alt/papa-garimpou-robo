@@ -4330,6 +4330,20 @@
    "valida_ate": "2026-11-02T22:00:00-03:00",
    "extra": "Preço a partir de: varia por tamanho e cor",
    "entrou": "2026-11-01T21:17:27.880606-03:00"
+  },
+  {
+   "id": "amz-B0GVPGKM4P",
+   "canal": "tech",
+   "nome": "Fone Bluetooth JBL Tune 780NC com Cancelamento de Ruído",
+   "preco_antigo": 560.52,
+   "preco": 358.17,
+   "desconto": 36,
+   "link": "https://www.amazon.com.br/dp/B0GVPGKM4P?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51MnMPeZUWL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-02T22:00:00-03:00",
+   "entrou": "2026-11-01T21:59:23.507589-03:00"
   }
  ],
  "menus_fixados": [
