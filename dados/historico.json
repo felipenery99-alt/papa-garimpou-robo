@@ -350,7 +350,9 @@
   "2026-11-02 marcas 11:50 amz-B0BNP1KZFL",
   "2026-11-02 tech 12:16 amz-B0DKLNNYY4",
   "2026-11-02 achadinhos 12:37 amz-B09W44LZYJ",
-  "2026-11-02 marcas 13:07 shopee-18516472597"
+  "2026-11-02 marcas 13:07 shopee-18516472597",
+  "2026-11-02 tech 13:43 amz-B0FMYR9C72",
+  "2026-11-02 achadinhos 13:58 amz-B0CX1VM979"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -709,7 +711,9 @@
   "amz-B0BNP1KZFL": "2026-11-02T11:50:39.236510-03:00",
   "amz-B0DKLNNYY4": "2026-11-02T12:16:52.936091-03:00",
   "amz-B09W44LZYJ": "2026-11-02T12:37:20.540538-03:00",
-  "shopee-18516472597": "2026-11-02T13:07:27.854140-03:00"
+  "shopee-18516472597": "2026-11-02T13:07:27.854140-03:00",
+  "amz-B0FMYR9C72": "2026-11-02T13:43:08.347333-03:00",
+  "amz-B0CX1VM979": "2026-11-02T13:58:34.189287-03:00"
  },
  "ofertas_dia": [
   {
@@ -3101,6 +3105,38 @@
    "canal": "marcas",
    "entrou": "2026-11-02T10:35:03.955137-03:00",
    "dia": "2026-11-02"
+  },
+  {
+   "id": "amz-B0FMYR9C72",
+   "canal": "tech",
+   "nome": "EA Sports FC 26 - PlayStation 5",
+   "preco_antigo": 379.9,
+   "preco": 209.94,
+   "desconto": 45,
+   "link": "https://www.amazon.com.br/dp/B0FMYR9C72?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71vGeLCCJAL._AC_SL1020_.jpg",
+   "loja": "Vendido por parceiro · entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-03T22:00:00-03:00",
+   "gancho": "FC 26 DE PS5 COM 45% OFF",
+   "entrou": "2026-11-02T12:06:46.606282-03:00",
+   "dia": "2026-11-02"
+  },
+  {
+   "id": "amz-B0CX1VM979",
+   "canal": "achadinhos",
+   "nome": "Liquidificador Philips Walita Série 3000 Turbo 1000W 220V",
+   "preco_antigo": 249.9,
+   "preco": 154.9,
+   "desconto": 38,
+   "link": "https://www.amazon.com.br/dp/B0CX1VM979?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/41Zkfyun9OL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-03T22:00:00-03:00",
+   "extra": "Voltagem 220V",
+   "entrou": "2026-11-02T12:06:46.606282-03:00",
+   "dia": "2026-11-02"
   }
  ],
  "ig_feitos": [
@@ -3232,7 +3268,9 @@
   "2026-11-02 12:19 story_oferta",
   "2026-11-02 feed",
   "2026-11-02 12:40 reels",
-  "2026-11-02 12:47 story_oferta"
+  "2026-11-02 12:47 story_oferta",
+  "2026-11-02 13:20 story_convite",
+  "2026-11-02 13:22 story_oferta"
  ],
  "ig_ofertas_usadas": [
   "amz-B0GP7KDZRJ",
@@ -3366,7 +3404,8 @@
   "amz-B07Y2BK4GJ",
   "amz-B0G4SN4QF7",
   "amz-B0GT7FR4LH",
-  "amz-B0D8J3GFBS"
+  "amz-B0D8J3GFBS",
+  "amz-B0FR49NFLT"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
@@ -3421,21 +3460,6 @@
    "link": "https://s.shopee.com.br/5q9QltsbSc",
    "canal": "marcas",
    "entrou": "2026-11-02T10:35:03.955137-03:00"
-  },
-  {
-   "id": "amz-B0CX1VM979",
-   "canal": "achadinhos",
-   "nome": "Liquidificador Philips Walita Série 3000 Turbo 1000W 220V",
-   "preco_antigo": 249.9,
-   "preco": 154.9,
-   "desconto": 38,
-   "link": "https://www.amazon.com.br/dp/B0CX1VM979?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/41Zkfyun9OL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-03T22:00:00-03:00",
-   "extra": "Voltagem 220V",
-   "entrou": "2026-11-02T12:06:46.606282-03:00"
   },
   {
    "id": "amz-B08DHW4CT9",
@@ -3707,21 +3731,6 @@
    "entrou": "2026-11-02T12:06:46.606282-03:00"
   },
   {
-   "id": "amz-B0FMYR9C72",
-   "canal": "tech",
-   "nome": "EA Sports FC 26 - PlayStation 5",
-   "preco_antigo": 379.9,
-   "preco": 209.94,
-   "desconto": 45,
-   "link": "https://www.amazon.com.br/dp/B0FMYR9C72?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/71vGeLCCJAL._AC_SL1020_.jpg",
-   "loja": "Vendido por parceiro · entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-03T22:00:00-03:00",
-   "gancho": "FC 26 DE PS5 COM 45% OFF",
-   "entrou": "2026-11-02T12:06:46.606282-03:00"
-  },
-  {
    "id": "amz-B0FDXC3Q9M",
    "canal": "tech",
    "nome": "Samsung Galaxy Watch8 Smartwatch 44mm Grafite",
@@ -3823,6 +3832,37 @@
    "plataforma": "Amazon",
    "valida_ate": "2026-11-03T22:00:00-03:00",
    "entrou": "2026-11-02T12:57:32.659321-03:00"
+  },
+  {
+   "id": "amz-B0DJ8WR5JD",
+   "canal": "marcas",
+   "nome": "Tênis de Corrida Puma Darter Pro",
+   "preco_antigo": 499.99,
+   "preco": 237.49,
+   "desconto": 53,
+   "link": "https://www.amazon.com.br/dp/B0DJ8WR5JD?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61qZ9bN9UXL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-02T22:00:00-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "gancho": "PUMA DE CORRIDA PELA METADE",
+   "entrou": "2026-11-02T13:32:37.173099-03:00"
+  },
+  {
+   "id": "amz-B0F1C2H476",
+   "canal": "marcas",
+   "nome": "Tênis Olympikus Vértice Feminino",
+   "preco_antigo": 249.9,
+   "preco": 123.49,
+   "desconto": 51,
+   "link": "https://www.amazon.com.br/dp/B0F1C2H476?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71mb90Nsw+L._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Netshoes · Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-02T22:00:00-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "entrou": "2026-11-02T13:32:37.173099-03:00"
   }
  ],
  "menus_fixados": [
@@ -4033,7 +4073,9 @@
   "camisetaheringsupercottoncombolsomasculina": "2026-11-02T11:50:39.236510-03:00",
   "amazonechodotmaxgeracaomaisrecente": "2026-11-02T12:16:52.936091-03:00",
   "jogodepanelastramontinacaribe5pecasantiaderente": "2026-11-02T12:37:20.540538-03:00",
-  "kitde3paresmeiaslupokidsinfantilcanocurtoalgodaotamanho24ao35": "2026-11-02T13:07:27.854140-03:00"
+  "kitde3paresmeiaslupokidsinfantilcanocurtoalgodaotamanho24ao35": "2026-11-02T13:07:27.854140-03:00",
+  "easportsfc26playstation5": "2026-11-02T13:43:08.347333-03:00",
+  "liquidificadorphilipswalitaserie3000turbo1000w220v": "2026-11-02T13:58:34.189287-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
