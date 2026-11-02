@@ -358,7 +358,11 @@
   "2026-11-02 tech 14:47 amz-B0BQBRS3WC",
   "2026-11-02 achadinhos 14:54 amz-B08DHW4CT9",
   "2026-11-02 marcas 15:23 amz-B0C158TZF6",
-  "2026-11-02 tech 15:39 amz-B0FZXTYQ3V"
+  "2026-11-02 tech 15:39 amz-B0FZXTYQ3V",
+  "2026-11-02 achadinhos 16:09 amz-B08T9WBG1J",
+  "2026-11-02 marcas 16:15 amz-B071SGZ7CK",
+  "2026-11-02 tech 16:22 amz-B0D1DN9GR2",
+  "2026-11-02 achadinhos 16:34 amz-B095J8LDS2"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -725,7 +729,11 @@
   "amz-B0BQBRS3WC": "2026-11-02T14:47:11.501327-03:00",
   "amz-B08DHW4CT9": "2026-11-02T14:54:48.251961-03:00",
   "amz-B0C158TZF6": "2026-11-02T15:23:55.076415-03:00",
-  "amz-B0FZXTYQ3V": "2026-11-02T15:39:34.245289-03:00"
+  "amz-B0FZXTYQ3V": "2026-11-02T15:39:34.245289-03:00",
+  "amz-B08T9WBG1J": "2026-11-02T16:09:20.632510-03:00",
+  "amz-B071SGZ7CK": "2026-11-02T16:15:39.503021-03:00",
+  "amz-B0D1DN9GR2": "2026-11-02T16:22:12.368367-03:00",
+  "amz-B095J8LDS2": "2026-11-02T16:34:08.045440-03:00"
  },
  "ofertas_dia": [
   {
@@ -3247,6 +3255,68 @@
    "gancho": "CINEMA EM CASA COM JBL",
    "entrou": "2026-11-02T12:06:46.606282-03:00",
    "dia": "2026-11-02"
+  },
+  {
+   "id": "amz-B08T9WBG1J",
+   "canal": "achadinhos",
+   "nome": "Secador Taiff Style Pro 2000 127V Prata",
+   "preco_antigo": 358.64,
+   "preco": 230.42,
+   "desconto": 36,
+   "link": "https://www.amazon.com.br/dp/B08T9WBG1J?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/41J9RoYj8yL._AC_SL1000_.jpg",
+   "loja": "Vendido por parceiro · entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-03T22:00:00-03:00",
+   "entrou": "2026-11-02T12:06:46.606282-03:00",
+   "dia": "2026-11-02"
+  },
+  {
+   "id": "amz-B071SGZ7CK",
+   "canal": "marcas",
+   "nome": "Perfume Stronger With You Giorgio Armani EDT",
+   "preco_antigo": 699.0,
+   "preco": 481.58,
+   "desconto": 31,
+   "link": "https://www.amazon.com.br/dp/B071SGZ7CK?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71XuvXnBlEL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-03T22:00:00-03:00",
+   "entrou": "2026-11-02T12:06:46.606282-03:00",
+   "dia": "2026-11-02"
+  },
+  {
+   "id": "amz-B0D1DN9GR2",
+   "canal": "tech",
+   "nome": "Teclado Mecânico Gamer Sem Fio Logitech G515 TKL LIGHTSPEED",
+   "preco_antigo": 949.9,
+   "preco": 569.9,
+   "desconto": 40,
+   "link": "https://www.amazon.com.br/dp/B0D1DN9GR2?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61kFc75+7OL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-03T22:00:00-03:00",
+   "gancho": "TECLADO LOGITECH G SEM FIO COM 40% OFF",
+   "entrou": "2026-11-02T12:06:46.606282-03:00",
+   "dia": "2026-11-02"
+  },
+  {
+   "id": "amz-B095J8LDS2",
+   "canal": "achadinhos",
+   "nome": "Secador de Cabelo Taiff Style Red 110V",
+   "preco_antigo": 328.02,
+   "preco": 179.9,
+   "desconto": 45,
+   "link": "https://www.amazon.com.br/dp/B095J8LDS2?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51Xzm74sV1L._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-03T22:00:00-03:00",
+   "extra": "Voltagem 110V",
+   "entrou": "2026-11-02T12:06:46.606282-03:00",
+   "dia": "2026-11-02"
   }
  ],
  "ig_feitos": [
@@ -3564,35 +3634,6 @@
  "ultimo_pilar": "humor",
  "fila": [
   {
-   "id": "amz-B08T9WBG1J",
-   "canal": "achadinhos",
-   "nome": "Secador Taiff Style Pro 2000 127V Prata",
-   "preco_antigo": 358.64,
-   "preco": 230.42,
-   "desconto": 36,
-   "link": "https://www.amazon.com.br/dp/B08T9WBG1J?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/41J9RoYj8yL._AC_SL1000_.jpg",
-   "loja": "Vendido por parceiro · entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-03T22:00:00-03:00",
-   "entrou": "2026-11-02T12:06:46.606282-03:00"
-  },
-  {
-   "id": "amz-B095J8LDS2",
-   "canal": "achadinhos",
-   "nome": "Secador de Cabelo Taiff Style Red 110V",
-   "preco_antigo": 328.02,
-   "preco": 179.9,
-   "desconto": 45,
-   "link": "https://www.amazon.com.br/dp/B095J8LDS2?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51Xzm74sV1L._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-03T22:00:00-03:00",
-   "extra": "Voltagem 110V",
-   "entrou": "2026-11-02T12:06:46.606282-03:00"
-  },
-  {
    "id": "amz-B079VW5KT6",
    "canal": "achadinhos",
    "nome": "Protetor Solar Facial Eucerin FPS 60",
@@ -3619,20 +3660,6 @@
    "plataforma": "Amazon",
    "valida_ate": "2026-11-03T22:00:00-03:00",
    "extra": "Voltagem 127V",
-   "entrou": "2026-11-02T12:06:46.606282-03:00"
-  },
-  {
-   "id": "amz-B071SGZ7CK",
-   "canal": "marcas",
-   "nome": "Perfume Stronger With You Giorgio Armani EDT",
-   "preco_antigo": 699.0,
-   "preco": 481.58,
-   "desconto": 31,
-   "link": "https://www.amazon.com.br/dp/B071SGZ7CK?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/71XuvXnBlEL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-03T22:00:00-03:00",
    "entrou": "2026-11-02T12:06:46.606282-03:00"
   },
   {
@@ -3743,21 +3770,6 @@
    "entrou": "2026-11-02T12:06:46.606282-03:00"
   },
   {
-   "id": "amz-B0D1DN9GR2",
-   "canal": "tech",
-   "nome": "Teclado Mecânico Gamer Sem Fio Logitech G515 TKL LIGHTSPEED",
-   "preco_antigo": 949.9,
-   "preco": 569.9,
-   "desconto": 40,
-   "link": "https://www.amazon.com.br/dp/B0D1DN9GR2?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61kFc75+7OL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-03T22:00:00-03:00",
-   "gancho": "TECLADO LOGITECH G SEM FIO COM 40% OFF",
-   "entrou": "2026-11-02T12:06:46.606282-03:00"
-  },
-  {
    "id": "amz-B0GVPGKM4P",
    "canal": "tech",
    "nome": "Fone Bluetooth JBL Tune 780NC com Cancelamento de Ruído",
@@ -3830,6 +3842,66 @@
    "valida_ate": "2026-11-02T22:00:00-03:00",
    "extra": "Preço a partir de: varia por tamanho e cor",
    "entrou": "2026-11-02T13:32:37.173099-03:00"
+  },
+  {
+   "id": "amz-B0GHSNKWLG",
+   "canal": "marcas",
+   "nome": "Tênis Mizuno Space 6 Adulto",
+   "preco_antigo": 379.99,
+   "preco": 229.9,
+   "desconto": 39,
+   "link": "https://www.amazon.com.br/dp/B0GHSNKWLG?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/710frR60fGL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-02T22:00:00-03:00",
+   "extra": "A partir de: varia por tamanho e cor",
+   "entrou": "2026-11-02T16:01:49.617484-03:00"
+  },
+  {
+   "id": "amz-B0CKJ83V8K",
+   "canal": "marcas",
+   "nome": "Tênis Puma Club II Era",
+   "preco_antigo": 449.99,
+   "preco": 237.49,
+   "desconto": 47,
+   "link": "https://www.amazon.com.br/dp/B0CKJ83V8K?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/41q7j21yBrL._AC_SL1200_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-03T22:00:00-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "entrou": "2026-11-02T16:01:49.617484-03:00"
+  },
+  {
+   "id": "amz-B0D9TZ7623",
+   "canal": "marcas",
+   "nome": "Tênis New Balance BB80 Unissex",
+   "preco_antigo": 399.99,
+   "preco": 182.99,
+   "desconto": 54,
+   "link": "https://www.amazon.com.br/dp/B0D9TZ7623?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/419F9U09zOL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-03T22:00:00-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "entrou": "2026-11-02T16:01:49.617484-03:00"
+  },
+  {
+   "id": "amz-B0DJ98K2JR",
+   "canal": "marcas",
+   "nome": "Tênis de Corrida Puma Darter Pro",
+   "preco_antigo": 499.99,
+   "preco": 237.5,
+   "desconto": 52,
+   "link": "https://www.amazon.com.br/dp/B0DJ98K2JR?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71-NV05maHL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-03T22:00:00-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "entrou": "2026-11-02T16:01:49.617484-03:00"
   }
  ],
  "menus_fixados": [
@@ -4048,7 +4120,11 @@
   "tecladogamersemfiologitechgproxtkl": "2026-11-02T14:47:11.501327-03:00",
   "perfumemywaygiorgioarmanifemininoedp": "2026-11-02T14:54:48.251961-03:00",
   "kit2cuecascalvinkleinslipbriefalgodao": "2026-11-02T15:23:55.076415-03:00",
-  "soundbarjblcinemasb59551comsubwoofer": "2026-11-02T15:39:34.245289-03:00"
+  "soundbarjblcinemasb59551comsubwoofer": "2026-11-02T15:39:34.245289-03:00",
+  "secadortaiffstylepro2000127vprata": "2026-11-02T16:09:20.632510-03:00",
+  "perfumestrongerwithyougiorgioarmaniedt": "2026-11-02T16:15:39.503021-03:00",
+  "tecladomecanicogamersemfiologitechg515tkllightspeed": "2026-11-02T16:22:12.368367-03:00",
+  "secadordecabelotaiffstylered110v": "2026-11-02T16:34:08.045440-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
