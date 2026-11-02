@@ -348,7 +348,8 @@
   "2026-11-02 marcas 11:39 amz-B0C7RXHKM8",
   "2026-11-02 marcas 11:44 amz-B08LPLKJBM",
   "2026-11-02 marcas 11:50 amz-B0BNP1KZFL",
-  "2026-11-02 tech 12:16 amz-B0DKLNNYY4"
+  "2026-11-02 tech 12:16 amz-B0DKLNNYY4",
+  "2026-11-02 achadinhos 12:37 amz-B09W44LZYJ"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -705,7 +706,8 @@
   "amz-B0C7RXHKM8": "2026-11-02T11:39:33.413427-03:00",
   "amz-B08LPLKJBM": "2026-11-02T11:44:54.031749-03:00",
   "amz-B0BNP1KZFL": "2026-11-02T11:50:39.236510-03:00",
-  "amz-B0DKLNNYY4": "2026-11-02T12:16:52.936091-03:00"
+  "amz-B0DKLNNYY4": "2026-11-02T12:16:52.936091-03:00",
+  "amz-B09W44LZYJ": "2026-11-02T12:37:20.540538-03:00"
  },
  "ofertas_dia": [
   {
@@ -3064,6 +3066,21 @@
    "valida_ate": "2026-11-03T22:00:00-03:00",
    "entrou": "2026-11-02T12:06:46.606282-03:00",
    "dia": "2026-11-02"
+  },
+  {
+   "id": "amz-B09W44LZYJ",
+   "canal": "achadinhos",
+   "nome": "Jogo de Panelas Tramontina Caribe 5 peças Antiaderente",
+   "preco_antigo": 351.21,
+   "preco": 237.49,
+   "desconto": 32,
+   "link": "https://www.amazon.com.br/dp/B09W44LZYJ?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51oYXDd-AjL._AC_SL1000_.jpg",
+   "loja": "Vendido por parceiro · entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-03T22:00:00-03:00",
+   "entrou": "2026-11-02T12:06:46.606282-03:00",
+   "dia": "2026-11-02"
   }
  ],
  "ig_feitos": [
@@ -3190,7 +3207,9 @@
   "2026-11-02 11:11 story_oferta",
   "2026-11-02 feed",
   "2026-11-02 11:50 carrossel_top5",
-  "2026-11-02 11:56 story_oferta"
+  "2026-11-02 11:56 story_oferta",
+  "2026-11-02 12:15 story_top4",
+  "2026-11-02 12:19 story_oferta"
  ],
  "ig_ofertas_usadas": [
   "amz-B0GP7KDZRJ",
@@ -3322,7 +3341,8 @@
   "amz-B07RRDLZQY",
   "amz-B0GM19N68Z",
   "amz-B07Y2BK4GJ",
-  "amz-B0G4SN4QF7"
+  "amz-B0G4SN4QF7",
+  "amz-B0GT7FR4LH"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
@@ -3425,34 +3445,6 @@
    "link": "https://s.shopee.com.br/5q9QltsbSc",
    "canal": "marcas",
    "entrou": "2026-11-02T10:35:03.955137-03:00"
-  },
-  {
-   "id": "amz-B0GS3DQH2Q",
-   "canal": "achadinhos",
-   "nome": "Multiprocessador Philips Walita PowerChop 1000",
-   "preco_antigo": 499.9,
-   "preco": 271.19,
-   "desconto": 46,
-   "link": "https://www.amazon.com.br/dp/B0GS3DQH2Q?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/617DKTCqkjL._AC_SL1500_.jpg",
-   "loja": "Vendido por parceiro (Fast Shop Loja Oficial)",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-03T22:00:00-03:00",
-   "entrou": "2026-11-02T12:06:46.606282-03:00"
-  },
-  {
-   "id": "amz-B09W44LZYJ",
-   "canal": "achadinhos",
-   "nome": "Jogo de Panelas Tramontina Caribe 5 peças Antiaderente",
-   "preco_antigo": 351.21,
-   "preco": 237.49,
-   "desconto": 32,
-   "link": "https://www.amazon.com.br/dp/B09W44LZYJ?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51oYXDd-AjL._AC_SL1000_.jpg",
-   "loja": "Vendido por parceiro · entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-03T22:00:00-03:00",
-   "entrou": "2026-11-02T12:06:46.606282-03:00"
   },
   {
    "id": "amz-B0CX1VM979",
@@ -3812,6 +3804,35 @@
    "valida_ate": "2026-11-03T22:00:00-03:00",
    "gancho": "TECLADO LOGITECH G SEM FIO COM 40% OFF",
    "entrou": "2026-11-02T12:06:46.606282-03:00"
+  },
+  {
+   "id": "amz-B0GVPGKM4P",
+   "canal": "tech",
+   "nome": "Fone Bluetooth JBL Tune 780NC com Cancelamento de Ruído",
+   "preco_antigo": 560.52,
+   "preco": 358.17,
+   "desconto": 36,
+   "link": "https://www.amazon.com.br/dp/B0GVPGKM4P?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51MnMPeZUWL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-02T22:00:00-03:00",
+   "entrou": "2026-11-02T12:29:22.372980-03:00"
+  },
+  {
+   "id": "amz-B0GM1GYWR1",
+   "canal": "tech",
+   "nome": "Fone JBL Tune 530BT Bluetooth Over-Ear",
+   "preco_antigo": 299.0,
+   "preco": 169.15,
+   "desconto": 43,
+   "link": "https://www.amazon.com.br/dp/B0GM1GYWR1?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51VYGGAyXmL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-03T22:00:00-03:00",
+   "extra": "Até 76 h de bateria",
+   "entrou": "2026-11-02T12:29:22.372980-03:00"
   }
  ],
  "menus_fixados": [
@@ -4020,7 +4041,8 @@
   "tenispumaflyerflexmasculino": "2026-11-02T11:39:33.413427-03:00",
   "camisetaheringworldmangacurtamasculina": "2026-11-02T11:44:54.031749-03:00",
   "camisetaheringsupercottoncombolsomasculina": "2026-11-02T11:50:39.236510-03:00",
-  "amazonechodotmaxgeracaomaisrecente": "2026-11-02T12:16:52.936091-03:00"
+  "amazonechodotmaxgeracaomaisrecente": "2026-11-02T12:16:52.936091-03:00",
+  "jogodepanelastramontinacaribe5pecasantiaderente": "2026-11-02T12:37:20.540538-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
