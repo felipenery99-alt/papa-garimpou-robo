@@ -2909,7 +2909,9 @@
   "2026-11-03 12:19 story_oferta",
   "2026-11-03 feed",
   "2026-11-03 12:40 reels",
-  "2026-11-03 12:47 story_oferta"
+  "2026-11-03 12:47 story_oferta",
+  "2026-11-03 13:20 story_convite",
+  "2026-11-03 13:22 story_oferta"
  ],
  "ig_ofertas_usadas": [
   "amz-B0GP7KDZRJ",
@@ -3102,12 +3104,13 @@
   "ac-link-estranho": "2026-11-03",
   "dc-carrinho": "2026-11-03",
   "ac-perfil-fake": "2026-11-03",
-  "dc-tamanho": "2026-11-03"
+  "dc-tamanho": "2026-11-03",
+  "hu-segunda": "2026-11-03"
  },
  "pecas_dia": {
-  "2026-11-03": 9
+  "2026-11-03": 10
  },
- "ultimo_pilar": "dica",
+ "ultimo_pilar": "humor",
  "fila": [],
  "menus_fixados": [
   "v1 @papagarimpou",
@@ -3424,7 +3427,7 @@
    "entradas": []
   }
  },
- "tg_offset": 354369941,
+ "tg_offset": 354369942,
  "adivinha": {
   "dia": "2026-11-02",
   "oferta": {
