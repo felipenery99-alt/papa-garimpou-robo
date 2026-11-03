@@ -2911,7 +2911,8 @@
   "2026-11-03 12:40 reels",
   "2026-11-03 12:47 story_oferta",
   "2026-11-03 13:20 story_convite",
-  "2026-11-03 13:22 story_oferta"
+  "2026-11-03 13:22 story_oferta",
+  "2026-11-03 14:08 story_oferta"
  ],
  "ig_ofertas_usadas": [
   "amz-B0GP7KDZRJ",
@@ -3105,12 +3106,13 @@
   "dc-carrinho": "2026-11-03",
   "ac-perfil-fake": "2026-11-03",
   "dc-tamanho": "2026-11-03",
-  "hu-segunda": "2026-11-03"
+  "hu-segunda": "2026-11-03",
+  "dc-nota-fiscal": "2026-11-03"
  },
  "pecas_dia": {
-  "2026-11-03": 10
+  "2026-11-03": 11
  },
- "ultimo_pilar": "humor",
+ "ultimo_pilar": "dica",
  "fila": [],
  "menus_fixados": [
   "v1 @papagarimpou",
