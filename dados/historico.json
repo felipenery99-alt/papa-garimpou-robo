@@ -382,7 +382,11 @@
   "2026-11-03 marcas 16:05 amz-B0DZ3464ZM",
   "2026-11-03 tech 16:15 amz-B09J1TB35S",
   "2026-11-03 achadinhos 16:23 amz-B0CH3YNWVK",
-  "2026-11-03 achadinhos 16:34 amz-B0GHZ991LG"
+  "2026-11-03 achadinhos 16:34 amz-B0GHZ991LG",
+  "2026-11-03 marcas 16:58 amz-B000P20TAY",
+  "2026-11-03 tech 17:06 amz-B09KMW2N9Z",
+  "2026-11-03 tech 17:14 amz-B08TMCHQJM",
+  "2026-11-03 achadinhos 17:26 amz-B07JFSM214"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -773,7 +777,11 @@
   "amz-B0DZ3464ZM": "2026-11-03T16:05:18.246262-03:00",
   "amz-B09J1TB35S": "2026-11-03T16:15:09.611513-03:00",
   "amz-B0CH3YNWVK": "2026-11-03T16:23:57.040891-03:00",
-  "amz-B0GHZ991LG": "2026-11-03T16:34:20.025941-03:00"
+  "amz-B0GHZ991LG": "2026-11-03T16:34:20.025941-03:00",
+  "amz-B000P20TAY": "2026-11-03T16:58:56.748466-03:00",
+  "amz-B09KMW2N9Z": "2026-11-03T17:06:27.409517-03:00",
+  "amz-B08TMCHQJM": "2026-11-03T17:14:38.100948-03:00",
+  "amz-B07JFSM214": "2026-11-03T17:26:32.650808-03:00"
  },
  "ofertas_dia": [
   {
@@ -2917,6 +2925,68 @@
    "extra": "Voltagem: 127V",
    "entrou": "2026-11-03T15:13:56.183802-03:00",
    "dia": "2026-11-03"
+  },
+  {
+   "id": "amz-B000P20TAY",
+   "canal": "marcas",
+   "nome": "Perfume Azzaro Pour Homme Masculino EDT",
+   "preco_antigo": 839.0,
+   "preco": 451.99,
+   "desconto": 46,
+   "link": "https://www.amazon.com.br/dp/B000P20TAY?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/418T17JKC3L._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-04T22:00:00-03:00",
+   "entrou": "2026-11-03T15:13:56.183802-03:00",
+   "dia": "2026-11-03"
+  },
+  {
+   "id": "amz-B09KMW2N9Z",
+   "canal": "tech",
+   "nome": "Console Nintendo Switch OLED",
+   "preco_antigo": 2848.0,
+   "preco": 1994.05,
+   "desconto": 30,
+   "link": "https://www.amazon.com.br/dp/B09KMW2N9Z?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51zTb1hUHJL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-04T22:00:00-03:00",
+   "gancho": "SWITCH OLED COM 30% OFF",
+   "entrou": "2026-11-03T15:13:56.183802-03:00",
+   "dia": "2026-11-03"
+  },
+  {
+   "id": "amz-B08TMCHQJM",
+   "canal": "tech",
+   "nome": "Mouse Gamer Sem Fio Logitech G PRO X Superlight 63g",
+   "preco_antigo": 899.9,
+   "preco": 603.25,
+   "desconto": 33,
+   "link": "https://www.amazon.com.br/dp/B08TMCHQJM?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61WRvXLabPL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-04T22:00:00-03:00",
+   "entrou": "2026-11-03T15:13:56.183802-03:00",
+   "dia": "2026-11-03"
+  },
+  {
+   "id": "amz-B07JFSM214",
+   "canal": "achadinhos",
+   "nome": "Aspirador de Pó Mondial Turbo Cycle 1100W 220V",
+   "preco_antigo": 246.0,
+   "preco": 119.9,
+   "desconto": 51,
+   "link": "https://www.amazon.com.br/dp/B07JFSM214?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/510P6tjT3ZL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-04T22:00:00-03:00",
+   "extra": "Voltagem: 220V",
+   "entrou": "2026-11-03T15:13:56.183802-03:00",
+   "dia": "2026-11-03"
   }
  ],
  "ig_feitos": [
@@ -3058,7 +3128,8 @@
   "2026-11-03 15:00 adivinha",
   "2026-11-03 14:25 post_achado",
   "2026-11-03 15:03 story_oferta",
-  "2026-11-03 16:05 adivinha_resposta"
+  "2026-11-03 16:05 adivinha_resposta",
+  "2026-11-03 16:44 story_oferta"
  ],
  "ig_ofertas_usadas": [
   "amz-B0GP7KDZRJ",
@@ -3214,7 +3285,8 @@
   "shopee-58257621281",
   "shopee-18716453608",
   "shopee-20716465989",
-  "amz-B07VVMFGTP"
+  "amz-B07VVMFGTP",
+  "amz-B0D44L7TFD"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
@@ -3265,21 +3337,6 @@
  "ultimo_pilar": "humor",
  "fila": [
   {
-   "id": "amz-B07JFSM214",
-   "canal": "achadinhos",
-   "nome": "Aspirador de Pó Mondial Turbo Cycle 1100W 220V",
-   "preco_antigo": 246.0,
-   "preco": 119.9,
-   "desconto": 51,
-   "link": "https://www.amazon.com.br/dp/B07JFSM214?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/510P6tjT3ZL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-04T22:00:00-03:00",
-   "extra": "Voltagem: 220V",
-   "entrou": "2026-11-03T15:13:56.183802-03:00"
-  },
-  {
    "id": "amz-B09XBT5DKT",
    "canal": "achadinhos",
    "nome": "Escova Elétrica Oral-B Pro 1+ Vitality com 3 Refis",
@@ -3309,20 +3366,6 @@
    "entrou": "2026-11-03T15:13:56.183802-03:00"
   },
   {
-   "id": "amz-B000P20TAY",
-   "canal": "marcas",
-   "nome": "Perfume Azzaro Pour Homme Masculino EDT",
-   "preco_antigo": 839.0,
-   "preco": 451.99,
-   "desconto": 46,
-   "link": "https://www.amazon.com.br/dp/B000P20TAY?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/418T17JKC3L._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-04T22:00:00-03:00",
-   "entrou": "2026-11-03T15:13:56.183802-03:00"
-  },
-  {
    "id": "amz-B0H9ZFF6VY",
    "canal": "marcas",
    "nome": "Tênis ASICS Japan S Masculino",
@@ -3346,35 +3389,6 @@
    "desconto": 44,
    "link": "https://www.amazon.com.br/dp/B09VN62HF3?tag=papagarimpou-20",
    "imagem": "https://m.media-amazon.com/images/I/61nkCltKCaL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-04T22:00:00-03:00",
-   "entrou": "2026-11-03T15:13:56.183802-03:00"
-  },
-  {
-   "id": "amz-B09KMW2N9Z",
-   "canal": "tech",
-   "nome": "Console Nintendo Switch OLED",
-   "preco_antigo": 2848.0,
-   "preco": 1994.05,
-   "desconto": 30,
-   "link": "https://www.amazon.com.br/dp/B09KMW2N9Z?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51zTb1hUHJL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-04T22:00:00-03:00",
-   "gancho": "SWITCH OLED COM 30% OFF",
-   "entrou": "2026-11-03T15:13:56.183802-03:00"
-  },
-  {
-   "id": "amz-B08TMCHQJM",
-   "canal": "tech",
-   "nome": "Mouse Gamer Sem Fio Logitech G PRO X Superlight 63g",
-   "preco_antigo": 899.9,
-   "preco": 603.25,
-   "desconto": 33,
-   "link": "https://www.amazon.com.br/dp/B08TMCHQJM?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61WRvXLabPL._AC_SL1500_.jpg",
    "loja": "Vendido e entregue pela Amazon",
    "plataforma": "Amazon",
    "valida_ate": "2026-11-04T22:00:00-03:00",
@@ -4008,7 +4022,11 @@
   "techtshirtmangalongamasculinainsider": "2026-11-03T16:05:18.246262-03:00",
   "mouseverticalsemfiologitechliftergonomico": "2026-11-03T16:15:09.611513-03:00",
   "extratoraportatilwapspotcleanerw31450w220v": "2026-11-03T16:23:57.040891-03:00",
-  "airfryerphilco95lvisorglassredstone1800w127v": "2026-11-03T16:34:20.025941-03:00"
+  "airfryerphilco95lvisorglassredstone1800w127v": "2026-11-03T16:34:20.025941-03:00",
+  "perfumeazzaropourhommemasculinoedt": "2026-11-03T16:58:56.748466-03:00",
+  "consolenintendoswitcholed": "2026-11-03T17:06:27.409517-03:00",
+  "mousegamersemfiologitechgproxsuperlight63g": "2026-11-03T17:14:38.100948-03:00",
+  "aspiradordepomondialturbocycle1100w220v": "2026-11-03T17:26:32.650808-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
