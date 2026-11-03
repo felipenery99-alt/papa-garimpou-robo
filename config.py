@@ -164,6 +164,8 @@ BUSCAS = {
         "camiseta levis", "relógio garmin", "sunga speedo", "whey growth", "creatina max titanium",
         "pré treino integralmedica", "barra de proteína", "garrafa térmica stanley",
         "malbec boticário", "kaiak natura", "egeo boticário",   # 01/11: perfume masculino de marca
+        # 03/11 (CEO): Black Friday — itens de marca que mais vendem na data
+        "tênis nike air max", "tênis adidas ultraboost", "kit cueca calvin klein", "camiseta tommy hilfiger",
     ],
     "tech": [
         "fone jbl", "mouse logitech", "carregador anker", "power bank baseus", "ssd kingston",
@@ -173,6 +175,8 @@ BUSCAS = {
         "cabo usb c anker", "smart tv samsung", "monitor lg", "notebook lenovo",
         "headset jbl quantum", "controle xbox", "controle playstation", "kindle", "echo dot",
         "celular samsung galaxy", "celular motorola", "tablet samsung",
+        # 03/11 (CEO): Black Friday — eletrônico é o que mais se procura na data
+        "smart tv lg", "fone jbl tune", "galaxy watch samsung", "xiaomi redmi note", "soundbar samsung",
     ],
     "achadinhos": [
         "air fryer mondial", "aspirador wap", "panela tramontina", "liquidificador oster",
@@ -182,5 +186,8 @@ BUSCAS = {
         "faqueiro tramontina", "batedeira mondial", "ventilador mondial", "sanduicheira britania",
         "chapinha taiff", "barbeador philips", "perfume o boticário", "perfume natura", "perfume eudora", "kit natura",
         "protetor solar nivea", "escova elétrica oral-b", "creme wella",
+        # 03/11 (CEO): Black Friday — casa de marca que mais vende na data
+        "air fryer philips walita", "robô aspirador wap", "panela elétrica de arroz mondial",
+        "cafeteira oster", "kit panelas tramontina antiaderente",
     ],
 }

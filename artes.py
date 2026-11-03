@@ -211,8 +211,10 @@ def story_convite() -> bytes:
         _centro(d, y + 50, arroba, _fonte(56), tema["texto"])
         y += 140
     y += 20
-    d.rounded_rectangle((140, y, 940, y + 130), radius=65, fill=tema["destaque"])
-    _centro(d, y + 18, "LINK NA BIO", _fonte(80), (255, 255, 255))
+    # 03/11: visitas no perfil não viram clique na bio (02/11: 106 visitas, 0 cliques) → ensina o
+    # caminho sem bio: buscar o @ direto no Telegram
+    d.rounded_rectangle((100, y, 980, y + 130), radius=65, fill=tema["destaque"])
+    _centro(d, y + 22, "BUSCA O @ NO TELEGRAM", _fonte(66), (255, 255, 255))
     _centro(d, y + 160, "Só marca boa e loja oficial. Sem cilada.", _fonte(40, "SemiBold"), tema["texto"])
     return _jpeg(img)
 
@@ -236,7 +238,8 @@ def story_blackfriday(dias: int) -> bytes:
     for linha in ("O Papa vai garimpar as ofertas", "de verdade (sem preço maquiado)", "e soltar primeiro no Telegram."):
         _centro(d, y, linha, _fonte(48, "SemiBold"), (255, 255, 255))
         y += 64
-    _centro(d, y + 40, "Entra grátis: link na bio", _fonte(66), tema["texto"])
+    _centro(d, y + 40, "Busca no Telegram:", _fonte(56, "SemiBold"), (255, 255, 255))
+    _centro(d, y + 110, "@papagarimpouofertas", _fonte(66), tema["texto"])
     return _jpeg(img)
 
 

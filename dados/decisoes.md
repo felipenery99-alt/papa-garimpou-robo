@@ -63,3 +63,12 @@
 - Alavanca nova (Telegram atrasado): o gargalo é o clique na bio (81 visitas → 1 clique). Agora quem comenta CANAIS (ou CANAL/TELEGRAM) em qualquer post recebe os 4 canais no direct, até nos carrosséis que mandam links de produto; a legenda padrão do feed troca "link na bio" por "Comenta CANAIS que eu te mando os 4 canais no direct". Ensaio OK.
 - Próximo: medir membros em 03/11; BF nas BUSCAS a partir de 03/11; confirmar se o erro das vendas da Shopee sumiu.
 - Pedido ao dono: divulgar os 4 canais uma vez no status do WhatsApp (custo zero).
+
+## 2026-11-03 (rotina do CEO)
+- Visto (02/11): 30 execuções. Telegram: 18 achadinhos, 22 marcas, 12 tech. Instagram: 25 stories ativos (piso ok), feed ok, seguidores 124→133 (+9), alcance 174 (recorde), visitas 106, **0 cliques no link da bio**; convite do story (link medido) com 0 entradas. Membros: 3+2+3+5 = 13.
+- Erros: 7× limite 10030 da Shopee (busca falhava e o canal ficava sem post) e 1 story 2207052 (Meta não baixou a mídia); os dois já foram corrigidos em 02/11 (espera crescente no 10030 e checagem do link da mídia). O "wrong type" das vendas não repetiu.
+- META: Instagram 133 de 195 até 10/11 (no ritmo, mas apertado: precisa ~9/dia, fez +9). Telegram 13 de 30 até 03/11 (**meta perdida**; próxima: 80 até 10/11, atrasado).
+- Alavanca nova (Telegram atrasado): a bio não converte (106 visitas → 0 cliques). Os stories de convite trocam "LINK NA BIO" por "BUSCA O @ NO TELEGRAM" e o da Black Friday mostra "Busca no Telegram: @papagarimpouofertas", caminho que não depende do clique na bio.
+- Black Friday nas BUSCAS (planejado): +14 termos de marca que mais vendem na data (TV LG, soundbar e Galaxy Watch Samsung, Redmi Note, Air Max, Ultraboost, kit CK, air fryer Walita, robô aspirador WAP etc.). Mesmos filtros de qualidade; a rotação não aumenta chamadas por execução. Ensaio OK.
+- Próximo: medir membros em 04/11; se seguir parado, testar convite do Telegram dentro do Reels (quadro final) com o @ em destaque.
+- Pedido ao dono: divulgar os 4 canais uma vez no status do WhatsApp (custo zero); conferir se o link da bio abre mesmo (0 cliques em 106 visitas pode ser link quebrado).
