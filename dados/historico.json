@@ -389,7 +389,8 @@
   "2026-11-03 achadinhos 17:26 amz-B07JFSM214",
   "2026-11-03 achadinhos 17:38 amz-B09XBT5DKT",
   "2026-11-03 marcas 17:49 amz-B0H9ZFF6VY",
-  "2026-11-03 marcas 17:57 amz-B09VN62HF3"
+  "2026-11-03 marcas 17:57 amz-B09VN62HF3",
+  "2026-11-03 tech 18:08 amz-B0FS82QQN2"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -787,7 +788,8 @@
   "amz-B07JFSM214": "2026-11-03T17:26:32.650808-03:00",
   "amz-B09XBT5DKT": "2026-11-03T17:38:19.377004-03:00",
   "amz-B0H9ZFF6VY": "2026-11-03T17:49:44.561390-03:00",
-  "amz-B09VN62HF3": "2026-11-03T17:57:33.064483-03:00"
+  "amz-B09VN62HF3": "2026-11-03T17:57:33.064483-03:00",
+  "amz-B0FS82QQN2": "2026-11-03T18:08:28.642488-03:00"
  },
  "ofertas_dia": [
   {
@@ -3039,6 +3041,21 @@
    "valida_ate": "2026-11-04T22:00:00-03:00",
    "entrou": "2026-11-03T15:13:56.183802-03:00",
    "dia": "2026-11-03"
+  },
+  {
+   "id": "amz-B0FS82QQN2",
+   "canal": "tech",
+   "nome": "Fone Samsung Galaxy Buds3 FE com Galaxy AI",
+   "preco_antigo": 1099.0,
+   "preco": 644.9,
+   "desconto": 41,
+   "link": "https://www.amazon.com.br/dp/B0FS82QQN2?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/41jSFyQ9MiL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-04T22:00:00-03:00",
+   "entrou": "2026-11-03T16:24:59.803138-03:00",
+   "dia": "2026-11-03"
   }
  ],
  "ig_feitos": [
@@ -3471,21 +3488,6 @@
    "entrou": "2026-11-03T15:46:03.421710-03:00"
   },
   {
-   "id": "amz-B0GM1GYWR1",
-   "canal": "tech",
-   "nome": "Fone JBL Tune 530BT Bluetooth Over-Ear",
-   "preco_antigo": 299.0,
-   "preco": 169.15,
-   "desconto": 43,
-   "link": "https://www.amazon.com.br/dp/B0GM1GYWR1?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51VYGGAyXmL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-03T22:00:00-03:00",
-   "extra": "Até 76 h de bateria",
-   "entrou": "2026-11-03T15:46:03.421710-03:00"
-  },
-  {
    "id": "amz-B08J89FSXX",
    "canal": "achadinhos",
    "nome": "Cafeteira Arno Dolce Gusto Genio S Plus Preta",
@@ -3704,35 +3706,6 @@
    "plataforma": "Amazon",
    "valida_ate": "2026-11-04T22:00:00-03:00",
    "extra": "Preço a partir de: varia por tamanho e cor",
-   "entrou": "2026-11-03T16:24:59.803138-03:00"
-  },
-  {
-   "id": "amz-B0GMKWQPH1",
-   "canal": "tech",
-   "nome": "Fone Samsung Galaxy Buds4 com Galaxy AI",
-   "preco_antigo": 1599.0,
-   "preco": 899.1,
-   "desconto": 44,
-   "link": "https://www.amazon.com.br/dp/B0GMKWQPH1?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/41I4GNlRt1L._AC_SL1000_.jpg",
-   "loja": "Loja oficial Samsung na Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-04T22:00:00-03:00",
-   "gancho": "GALAXY BUDS4 COM 44% OFF",
-   "entrou": "2026-11-03T16:24:59.803138-03:00"
-  },
-  {
-   "id": "amz-B0FS82QQN2",
-   "canal": "tech",
-   "nome": "Fone Samsung Galaxy Buds3 FE com Galaxy AI",
-   "preco_antigo": 1099.0,
-   "preco": 644.9,
-   "desconto": 41,
-   "link": "https://www.amazon.com.br/dp/B0FS82QQN2?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/41jSFyQ9MiL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-04T22:00:00-03:00",
    "entrou": "2026-11-03T16:24:59.803138-03:00"
   },
   {
@@ -4046,7 +4019,8 @@
   "aspiradordepomondialturbocycle1100w220v": "2026-11-03T17:26:32.650808-03:00",
   "escovaeletricaoralbpro1vitalitycom3refis": "2026-11-03T17:38:19.377004-03:00",
   "tenisasicsjapansmasculino": "2026-11-03T17:49:44.561390-03:00",
-  "perfumeazzarothemostwantedparfummasculino": "2026-11-03T17:57:33.064483-03:00"
+  "perfumeazzarothemostwantedparfummasculino": "2026-11-03T17:57:33.064483-03:00",
+  "fonesamsunggalaxybuds3fecomgalaxyai": "2026-11-03T18:08:28.642488-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
