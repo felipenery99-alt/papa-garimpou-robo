@@ -446,17 +446,17 @@
   "erros": [
    "⚠️ Canal sem post: achadinhos 7 h, marcas 7 h, tech 7 h — abrir o app Claude e conferir as rotinas"
   ],
-  "ultima_execucao": "17:58",
-  "execucoes": 22,
+  "ultima_execucao": "18:09",
+  "execucoes": 23,
   "telegram_posts": {
-   "achadinhos": 6,
+   "achadinhos": 7,
    "marcas": 7,
-   "tech": 6
+   "tech": 7
   },
   "ultimo_post": {
-   "achadinhos": "17:38",
+   "achadinhos": "18:20",
    "marcas": "17:57",
-   "tech": "18:08"
+   "tech": "18:26"
   },
   "convites_story": {
    "story-20261101": 0,
@@ -497,7 +497,9 @@
    "16:55 post_achado",
    "feed",
    "17:30 reels",
-   "17:36 story_oferta"
+   "17:36 story_oferta",
+   "18:05 a_ou_b",
+   "18:09 story_oferta"
   ],
   "shopee_ligada": true,
   "instagram": {

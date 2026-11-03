@@ -1,57 +1,27 @@
 {
- "dia": "2026-11-02",
+ "dia": "2026-11-03",
  "itens": [
   {
-   "tipo": "adivinha",
-   "hora": "15:13",
-   "produtos": [
-    {
-     "nome": "Camiseta Hering World Manga Curta Masculina",
-     "preco_antigo": 69.99,
-     "preco": 30.23,
-     "desconto": 57,
-     "link": "https://www.amazon.com.br/dp/B08LPLKJBM?tag=papagarimpou-20",
-     "loja": "Vendido e entregue pela Amazon",
-     "canal": "marcas"
-    }
-   ]
-  },
-  {
-   "tipo": "adivinha_resposta",
-   "hora": "16:54",
-   "produtos": [
-    {
-     "nome": "Camiseta Hering World Manga Curta Masculina",
-     "preco_antigo": 69.99,
-     "preco": 30.23,
-     "desconto": 57,
-     "link": "https://www.amazon.com.br/dp/B08LPLKJBM?tag=papagarimpou-20",
-     "loja": "Vendido e entregue pela Amazon",
-     "canal": "marcas"
-    }
-   ]
-  },
-  {
    "tipo": "a_ou_b",
-   "hora": "18:19",
+   "hora": "18:09",
    "produtos": [
     {
-     "nome": "Samsung Galaxy Watch8 Classic 46mm LTE",
-     "preco_antigo": 4499.0,
-     "preco": 1994.05,
-     "desconto": 56,
-     "link": "https://www.amazon.com.br/dp/B0FDX5VNRL?tag=papagarimpou-20",
-     "loja": "Loja oficial Samsung · entregue pela Amazon",
-     "canal": "tech"
+     "nome": "Tech T-Shirt Manga Longa Masculina Insider",
+     "preco_antigo": 209.0,
+     "preco": 93.41,
+     "desconto": 55,
+     "link": "https://www.amazon.com.br/dp/B0DZ3464ZM?tag=papagarimpou-20",
+     "loja": "Vendido e entregue pela Amazon",
+     "canal": "marcas"
     },
     {
-     "nome": "Samsung Galaxy Watch8 44mm LTE",
-     "preco_antigo": 3499.0,
-     "preco": 1679.0,
-     "desconto": 52,
-     "link": "https://www.amazon.com.br/dp/B0FDX5W5T9?tag=papagarimpou-20",
+     "nome": "Perfume Azzaro Pour Homme Masculino EDT",
+     "preco_antigo": 839.0,
+     "preco": 451.99,
+     "desconto": 46,
+     "link": "https://www.amazon.com.br/dp/B000P20TAY?tag=papagarimpou-20",
      "loja": "Vendido e entregue pela Amazon",
-     "canal": "tech"
+     "canal": "marcas"
     }
    ]
   }
