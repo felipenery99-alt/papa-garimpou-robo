@@ -386,7 +386,8 @@
   "2026-11-03 marcas 16:58 amz-B000P20TAY",
   "2026-11-03 tech 17:06 amz-B09KMW2N9Z",
   "2026-11-03 tech 17:14 amz-B08TMCHQJM",
-  "2026-11-03 achadinhos 17:26 amz-B07JFSM214"
+  "2026-11-03 achadinhos 17:26 amz-B07JFSM214",
+  "2026-11-03 achadinhos 17:38 amz-B09XBT5DKT"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -781,7 +782,8 @@
   "amz-B000P20TAY": "2026-11-03T16:58:56.748466-03:00",
   "amz-B09KMW2N9Z": "2026-11-03T17:06:27.409517-03:00",
   "amz-B08TMCHQJM": "2026-11-03T17:14:38.100948-03:00",
-  "amz-B07JFSM214": "2026-11-03T17:26:32.650808-03:00"
+  "amz-B07JFSM214": "2026-11-03T17:26:32.650808-03:00",
+  "amz-B09XBT5DKT": "2026-11-03T17:38:19.377004-03:00"
  },
  "ofertas_dia": [
   {
@@ -2987,6 +2989,21 @@
    "extra": "Voltagem: 220V",
    "entrou": "2026-11-03T15:13:56.183802-03:00",
    "dia": "2026-11-03"
+  },
+  {
+   "id": "amz-B09XBT5DKT",
+   "canal": "achadinhos",
+   "nome": "Escova Elétrica Oral-B Pro 1+ Vitality com 3 Refis",
+   "preco_antigo": 252.33,
+   "preco": 174.89,
+   "desconto": 31,
+   "link": "https://www.amazon.com.br/dp/B09XBT5DKT?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61p74R0BFWL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-04T22:00:00-03:00",
+   "entrou": "2026-11-03T15:13:56.183802-03:00",
+   "dia": "2026-11-03"
   }
  ],
  "ig_feitos": [
@@ -3129,7 +3146,10 @@
   "2026-11-03 14:25 post_achado",
   "2026-11-03 15:03 story_oferta",
   "2026-11-03 16:05 adivinha_resposta",
-  "2026-11-03 16:44 story_oferta"
+  "2026-11-03 16:44 story_oferta",
+  "story especial pede-pro-papa 2026-11-03",
+  "2026-11-03 feed",
+  "2026-11-03 16:55 post_achado"
  ],
  "ig_ofertas_usadas": [
   "amz-B0GP7KDZRJ",
@@ -3286,7 +3306,8 @@
   "shopee-18716453608",
   "shopee-20716465989",
   "amz-B07VVMFGTP",
-  "amz-B0D44L7TFD"
+  "amz-B0D44L7TFD",
+  "amz-B000RPLZAM"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
@@ -3336,20 +3357,6 @@
  },
  "ultimo_pilar": "humor",
  "fila": [
-  {
-   "id": "amz-B09XBT5DKT",
-   "canal": "achadinhos",
-   "nome": "Escova Elétrica Oral-B Pro 1+ Vitality com 3 Refis",
-   "preco_antigo": 252.33,
-   "preco": 174.89,
-   "desconto": 31,
-   "link": "https://www.amazon.com.br/dp/B09XBT5DKT?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61p74R0BFWL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-04T22:00:00-03:00",
-   "entrou": "2026-11-03T15:13:56.183802-03:00"
-  },
   {
    "id": "amz-B0756L7P4X",
    "canal": "achadinhos",
@@ -4026,7 +4033,8 @@
   "perfumeazzaropourhommemasculinoedt": "2026-11-03T16:58:56.748466-03:00",
   "consolenintendoswitcholed": "2026-11-03T17:06:27.409517-03:00",
   "mousegamersemfiologitechgproxsuperlight63g": "2026-11-03T17:14:38.100948-03:00",
-  "aspiradordepomondialturbocycle1100w220v": "2026-11-03T17:26:32.650808-03:00"
+  "aspiradordepomondialturbocycle1100w220v": "2026-11-03T17:26:32.650808-03:00",
+  "escovaeletricaoralbpro1vitalitycom3refis": "2026-11-03T17:38:19.377004-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
@@ -4130,7 +4138,7 @@
   }
  },
  "ig_dm_links": {},
- "story_link_dia": "2026-11-02",
+ "story_link_dia": "2026-11-03",
  "pede_semana": "2026-45",
  "pede_fixados": {
   "ate": "2026-11-04T08:38:18.174966-03:00",
