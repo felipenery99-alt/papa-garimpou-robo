@@ -446,15 +446,15 @@
   "erros": [
    "⚠️ Canal sem post: achadinhos 7 h, marcas 7 h, tech 7 h — abrir o app Claude e conferir as rotinas"
   ],
-  "ultima_execucao": "15:46",
-  "execucoes": 17,
+  "ultima_execucao": "16:24",
+  "execucoes": 18,
   "telegram_posts": {
-   "achadinhos": 3,
+   "achadinhos": 4,
    "marcas": 4,
    "tech": 3
   },
   "ultimo_post": {
-   "achadinhos": "16:23",
+   "achadinhos": "16:34",
    "marcas": "16:05",
    "tech": "16:15"
   },
@@ -479,28 +479,26 @@
    "10:20 story_oferta",
    "10:24 story_oferta",
    "11:11 story_oferta",
-   "feed",
    "11:50 carrossel_top5",
    "11:56 story_oferta",
    "12:15 story_top4",
    "12:19 story_oferta",
-   "feed",
    "12:40 reels",
    "12:47 story_oferta",
    "13:20 story_convite",
    "13:22 story_oferta",
    "14:08 story_oferta",
    "15:00 adivinha",
-   "feed",
    "14:25 post_achado",
-   "15:03 story_oferta"
+   "15:03 story_oferta",
+   "16:05 adivinha_resposta"
   ],
   "shopee_ligada": true,
   "instagram": {
    "seguidores": 138,
    "posts": 53,
    "reach": 142,
-   "profile_views": 53,
+   "profile_views": 54,
    "website_clicks": 0,
    "stories_ativos": 25
   },
