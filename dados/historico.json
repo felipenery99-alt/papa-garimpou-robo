@@ -387,7 +387,9 @@
   "2026-11-03 tech 17:06 amz-B09KMW2N9Z",
   "2026-11-03 tech 17:14 amz-B08TMCHQJM",
   "2026-11-03 achadinhos 17:26 amz-B07JFSM214",
-  "2026-11-03 achadinhos 17:38 amz-B09XBT5DKT"
+  "2026-11-03 achadinhos 17:38 amz-B09XBT5DKT",
+  "2026-11-03 marcas 17:49 amz-B0H9ZFF6VY",
+  "2026-11-03 marcas 17:57 amz-B09VN62HF3"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -783,7 +785,9 @@
   "amz-B09KMW2N9Z": "2026-11-03T17:06:27.409517-03:00",
   "amz-B08TMCHQJM": "2026-11-03T17:14:38.100948-03:00",
   "amz-B07JFSM214": "2026-11-03T17:26:32.650808-03:00",
-  "amz-B09XBT5DKT": "2026-11-03T17:38:19.377004-03:00"
+  "amz-B09XBT5DKT": "2026-11-03T17:38:19.377004-03:00",
+  "amz-B0H9ZFF6VY": "2026-11-03T17:49:44.561390-03:00",
+  "amz-B09VN62HF3": "2026-11-03T17:57:33.064483-03:00"
  },
  "ofertas_dia": [
   {
@@ -3004,6 +3008,37 @@
    "valida_ate": "2026-11-04T22:00:00-03:00",
    "entrou": "2026-11-03T15:13:56.183802-03:00",
    "dia": "2026-11-03"
+  },
+  {
+   "id": "amz-B0H9ZFF6VY",
+   "canal": "marcas",
+   "nome": "Tênis ASICS Japan S Masculino",
+   "preco_antigo": 399.99,
+   "preco": 262.52,
+   "desconto": 34,
+   "link": "https://www.amazon.com.br/dp/B0H9ZFF6VY?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/41y3Xf22w8L._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-04T22:00:00-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "entrou": "2026-11-03T15:13:56.183802-03:00",
+   "dia": "2026-11-03"
+  },
+  {
+   "id": "amz-B09VN62HF3",
+   "canal": "marcas",
+   "nome": "Perfume Azzaro The Most Wanted Parfum Masculino",
+   "preco_antigo": 929.0,
+   "preco": 523.99,
+   "desconto": 44,
+   "link": "https://www.amazon.com.br/dp/B09VN62HF3?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61nkCltKCaL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-04T22:00:00-03:00",
+   "entrou": "2026-11-03T15:13:56.183802-03:00",
+   "dia": "2026-11-03"
   }
  ],
  "ig_feitos": [
@@ -3149,7 +3184,10 @@
   "2026-11-03 16:44 story_oferta",
   "story especial pede-pro-papa 2026-11-03",
   "2026-11-03 feed",
-  "2026-11-03 16:55 post_achado"
+  "2026-11-03 16:55 post_achado",
+  "2026-11-03 feed",
+  "2026-11-03 17:30 reels",
+  "2026-11-03 17:36 story_oferta"
  ],
  "ig_ofertas_usadas": [
   "amz-B0GP7KDZRJ",
@@ -3307,11 +3345,12 @@
   "shopee-20716465989",
   "amz-B07VVMFGTP",
   "amz-B0D44L7TFD",
-  "amz-B000RPLZAM"
+  "amz-B000RPLZAM",
+  "amz-B09TCD67Q3"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
- "ig_ultimo_reel": "2026-11-03T12:57:59.475757-03:00",
+ "ig_ultimo_reel": "2026-11-03T17:39:07.160625-03:00",
  "pecas_usadas": {
   "ac-preco-inflado": "2026-10-27",
   "dc-7-dias": "2026-10-27",
@@ -3370,35 +3409,6 @@
    "plataforma": "Amazon",
    "valida_ate": "2026-11-04T22:00:00-03:00",
    "gancho": "WAP PRA FAXINA PESADA COM 53% OFF",
-   "entrou": "2026-11-03T15:13:56.183802-03:00"
-  },
-  {
-   "id": "amz-B0H9ZFF6VY",
-   "canal": "marcas",
-   "nome": "Tênis ASICS Japan S Masculino",
-   "preco_antigo": 399.99,
-   "preco": 262.52,
-   "desconto": 34,
-   "link": "https://www.amazon.com.br/dp/B0H9ZFF6VY?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/41y3Xf22w8L._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-04T22:00:00-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "entrou": "2026-11-03T15:13:56.183802-03:00"
-  },
-  {
-   "id": "amz-B09VN62HF3",
-   "canal": "marcas",
-   "nome": "Perfume Azzaro The Most Wanted Parfum Masculino",
-   "preco_antigo": 929.0,
-   "preco": 523.99,
-   "desconto": 44,
-   "link": "https://www.amazon.com.br/dp/B09VN62HF3?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61nkCltKCaL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-04T22:00:00-03:00",
    "entrou": "2026-11-03T15:13:56.183802-03:00"
   },
   {
@@ -4034,7 +4044,9 @@
   "consolenintendoswitcholed": "2026-11-03T17:06:27.409517-03:00",
   "mousegamersemfiologitechgproxsuperlight63g": "2026-11-03T17:14:38.100948-03:00",
   "aspiradordepomondialturbocycle1100w220v": "2026-11-03T17:26:32.650808-03:00",
-  "escovaeletricaoralbpro1vitalitycom3refis": "2026-11-03T17:38:19.377004-03:00"
+  "escovaeletricaoralbpro1vitalitycom3refis": "2026-11-03T17:38:19.377004-03:00",
+  "tenisasicsjapansmasculino": "2026-11-03T17:49:44.561390-03:00",
+  "perfumeazzarothemostwantedparfummasculino": "2026-11-03T17:57:33.064483-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
@@ -4096,9 +4108,14 @@
    "shopee-18516472597"
   ],
   "2026-11-03": [
-   "shopee-58257621281",
    "shopee-18716453608",
-   "shopee-20716465989"
+   "amz-B000RPLZAM",
+   "shopee-58257621281",
+   "shopee-20716465989",
+   "amz-B0D44L7TFD",
+   "amz-B07JFSM214",
+   "amz-B07VVMFGTP",
+   "amz-B0DZ3464ZM"
   ]
  },
  "vendas_shopee": {},
