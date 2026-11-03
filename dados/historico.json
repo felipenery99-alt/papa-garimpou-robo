@@ -2900,7 +2900,8 @@
   "2026-11-03 09:35 post_achado",
   "2026-11-03 09:38 story_oferta",
   "2026-11-03 10:20 story_oferta",
-  "2026-11-03 10:24 story_oferta"
+  "2026-11-03 10:24 story_oferta",
+  "2026-11-03 11:11 story_oferta"
  ],
  "ig_ofertas_usadas": [
   "amz-B0GP7KDZRJ",
@@ -3088,12 +3089,13 @@
   "bf-2026-11-03": "2026-11-03",
   "mv-garantia": "2026-11-03",
   "bs-tres-canais": "2026-11-03",
-  "mv-7dias": "2026-11-03"
+  "mv-7dias": "2026-11-03",
+  "bs-transparencia": "2026-11-03"
  },
  "pecas_dia": {
-  "2026-11-03": 4
+  "2026-11-03": 5
  },
- "ultimo_pilar": "mito",
+ "ultimo_pilar": "bastidor",
  "fila": [],
  "menus_fixados": [
   "v1 @papagarimpou",
