@@ -444,18 +444,19 @@
  },
  "2026-11-03": {
   "erros": [
-   "⚠️ Canal sem post: achadinhos 7 h, marcas 7 h, tech 7 h — abrir o app Claude e conferir as rotinas"
+   "⚠️ Canal sem post: achadinhos 7 h, marcas 7 h, tech 7 h — abrir o app Claude e conferir as rotinas",
+   "⚠️ Garimpo parado desde 15:45 — abrir o app Claude e conferir as rotinas"
   ],
-  "ultima_execucao": "18:27",
-  "execucoes": 24,
+  "ultima_execucao": "18:51",
+  "execucoes": 25,
   "telegram_posts": {
-   "achadinhos": 7,
-   "marcas": 7,
+   "achadinhos": 8,
+   "marcas": 8,
    "tech": 8
   },
   "ultimo_post": {
-   "achadinhos": "18:20",
-   "marcas": "17:57",
+   "achadinhos": "19:10",
+   "marcas": "19:01",
    "tech": "18:36"
   },
   "convites_story": {
@@ -499,14 +500,15 @@
    "17:30 reels",
    "17:36 story_oferta",
    "18:05 a_ou_b",
-   "18:09 story_oferta"
+   "18:09 story_oferta",
+   "18:42 story_oferta"
   ],
   "shopee_ligada": true,
   "instagram": {
    "seguidores": 139,
    "posts": 55,
    "reach": 143,
-   "profile_views": 60,
+   "profile_views": 61,
    "website_clicks": 0,
    "stories_ativos": 25
   },

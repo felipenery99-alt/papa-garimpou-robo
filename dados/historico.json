@@ -393,7 +393,9 @@
   "2026-11-03 tech 18:08 amz-B0FS82QQN2",
   "2026-11-03 achadinhos 18:20 amz-B0756L7P4X",
   "2026-11-03 tech 18:26 amz-B0C6K19YBH",
-  "2026-11-03 tech 18:36 amz-B0D27J4Q8G"
+  "2026-11-03 tech 18:36 amz-B0D27J4Q8G",
+  "2026-11-03 marcas 19:01 amz-B0FFTRTVC2",
+  "2026-11-03 achadinhos 19:10 amz-B08J89FSXX"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -795,7 +797,9 @@
   "amz-B0FS82QQN2": "2026-11-03T18:08:28.642488-03:00",
   "amz-B0756L7P4X": "2026-11-03T18:20:03.594845-03:00",
   "amz-B0C6K19YBH": "2026-11-03T18:26:57.957009-03:00",
-  "amz-B0D27J4Q8G": "2026-11-03T18:36:13.773274-03:00"
+  "amz-B0D27J4Q8G": "2026-11-03T18:36:13.773274-03:00",
+  "amz-B0FFTRTVC2": "2026-11-03T19:01:12.317634-03:00",
+  "amz-B08J89FSXX": "2026-11-03T19:10:19.438978-03:00"
  },
  "ofertas_dia": [
   {
@@ -3109,6 +3113,39 @@
    "gancho": "PARTYBOX DA JBL PRA FAZER O VIZINHO SE MUDAR",
    "entrou": "2026-11-03T16:24:59.803138-03:00",
    "dia": "2026-11-03"
+  },
+  {
+   "id": "amz-B0FFTRTVC2",
+   "canal": "marcas",
+   "nome": "Tênis Mizuno City Wall",
+   "preco_antigo": 329.99,
+   "preco": 159.9,
+   "desconto": 52,
+   "link": "https://www.amazon.com.br/dp/B0FFTRTVC2?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/4107vWUM+KL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-04T22:00:00-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "gancho": "MIZUNO PELA METADE",
+   "entrou": "2026-11-03T16:24:59.803138-03:00",
+   "dia": "2026-11-03"
+  },
+  {
+   "id": "amz-B08J89FSXX",
+   "canal": "achadinhos",
+   "nome": "Cafeteira Arno Dolce Gusto Genio S Plus Preta",
+   "preco_antigo": 929.99,
+   "preco": 469.0,
+   "desconto": 50,
+   "link": "https://www.amazon.com.br/dp/B08J89FSXX?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51qqanOydXL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-04T22:00:00-03:00",
+   "gancho": "DOLCE GUSTO PELA METADE",
+   "entrou": "2026-11-03T16:24:59.803138-03:00",
+   "dia": "2026-11-03"
   }
  ],
  "ig_feitos": [
@@ -3259,7 +3296,8 @@
   "2026-11-03 17:30 reels",
   "2026-11-03 17:36 story_oferta",
   "2026-11-03 18:05 a_ou_b",
-  "2026-11-03 18:09 story_oferta"
+  "2026-11-03 18:09 story_oferta",
+  "2026-11-03 18:42 story_oferta"
  ],
  "ig_ofertas_usadas": [
   "amz-B0GP7KDZRJ",
@@ -3421,7 +3459,8 @@
   "amz-B09TCD67Q3",
   "amz-B0DZ3464ZM",
   "amz-B000P20TAY",
-  "amz-B09J1TB35S"
+  "amz-B09J1TB35S",
+  "amz-B0CH3YNWVK"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
@@ -3471,36 +3510,6 @@
  },
  "ultimo_pilar": "humor",
  "fila": [
-  {
-   "id": "amz-B0DJ98K2JR",
-   "canal": "marcas",
-   "nome": "Tênis de Corrida Puma Darter Pro",
-   "preco_antigo": 499.99,
-   "preco": 237.5,
-   "desconto": 52,
-   "link": "https://www.amazon.com.br/dp/B0DJ98K2JR?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/71-NV05maHL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-03T22:00:00-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "entrou": "2026-11-03T15:46:03.421710-03:00"
-  },
-  {
-   "id": "amz-B08J89FSXX",
-   "canal": "achadinhos",
-   "nome": "Cafeteira Arno Dolce Gusto Genio S Plus Preta",
-   "preco_antigo": 929.99,
-   "preco": 469.0,
-   "desconto": 50,
-   "link": "https://www.amazon.com.br/dp/B08J89FSXX?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51qqanOydXL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-04T22:00:00-03:00",
-   "gancho": "DOLCE GUSTO PELA METADE",
-   "entrou": "2026-11-03T16:24:59.803138-03:00"
-  },
   {
    "id": "amz-B0BYK9KP3W",
    "canal": "achadinhos",
@@ -3584,22 +3593,6 @@
    "loja": "Vendido e entregue pela Amazon",
    "plataforma": "Amazon",
    "valida_ate": "2026-11-04T22:00:00-03:00",
-   "entrou": "2026-11-03T16:24:59.803138-03:00"
-  },
-  {
-   "id": "amz-B0FFTRTVC2",
-   "canal": "marcas",
-   "nome": "Tênis Mizuno City Wall",
-   "preco_antigo": 329.99,
-   "preco": 159.9,
-   "desconto": 52,
-   "link": "https://www.amazon.com.br/dp/B0FFTRTVC2?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/4107vWUM+KL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-04T22:00:00-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "gancho": "MIZUNO PELA METADE",
    "entrou": "2026-11-03T16:24:59.803138-03:00"
   },
   {
@@ -3783,6 +3776,35 @@
    "valida_ate": "2026-11-03T22:00:00-03:00",
    "extra": "Preço a partir de: varia por tamanho e cor",
    "entrou": "2026-11-03T18:27:23.015296-03:00"
+  },
+  {
+   "id": "amz-B0GS3DQH2Q",
+   "canal": "achadinhos",
+   "nome": "Multiprocessador Philips Walita PowerChop 1000",
+   "preco_antigo": 499.9,
+   "preco": 271.19,
+   "desconto": 46,
+   "link": "https://www.amazon.com.br/dp/B0GS3DQH2Q?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/617DKTCqkjL._AC_SL1500_.jpg",
+   "loja": "Vendido por parceiro (Fast Shop Loja Oficial)",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-03T22:00:00-03:00",
+   "entrou": "2026-11-03T18:51:35.947270-03:00"
+  },
+  {
+   "id": "amz-B0D9TZ7623",
+   "canal": "marcas",
+   "nome": "Tênis New Balance BB80 Unissex",
+   "preco_antigo": 399.99,
+   "preco": 182.99,
+   "desconto": 54,
+   "link": "https://www.amazon.com.br/dp/B0D9TZ7623?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/419F9U09zOL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-03T22:00:00-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "entrou": "2026-11-03T18:51:35.947270-03:00"
   }
  ],
  "menus_fixados": [
@@ -4038,7 +4060,9 @@
   "fonesamsunggalaxybuds3fecomgalaxyai": "2026-11-03T18:08:28.642488-03:00",
   "aspiradordepoeaguawapgtwinox20litros": "2026-11-03T18:20:03.594845-03:00",
   "tecladosemfiologitechmxkeysscliquesilencioso": "2026-11-03T18:26:57.957009-03:00",
-  "caixadesomjblpartyboxstage320bluetooth": "2026-11-03T18:36:13.773274-03:00"
+  "caixadesomjblpartyboxstage320bluetooth": "2026-11-03T18:36:13.773274-03:00",
+  "tenismizunocitywall": "2026-11-03T19:01:12.317634-03:00",
+  "cafeteiraarnodolcegustogeniospluspreta": "2026-11-03T19:10:19.438978-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
@@ -4159,5 +4183,6 @@
   }
  },
  "ultimo_garimpo": "2026-11-03T15:45:53-03:00",
- "vigia_aviso_post": "2026-11-03T15:13:56.183802-03:00"
+ "vigia_aviso_post": "2026-11-03T15:13:56.183802-03:00",
+ "vigia_aviso_garimpo": "2026-11-03T18:51:35.947270-03:00"
 }
