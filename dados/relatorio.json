@@ -444,8 +444,8 @@
  },
  "2026-11-03": {
   "erros": [],
-  "ultima_execucao": "12:06",
-  "execucoes": 11,
+  "ultima_execucao": "12:29",
+  "execucoes": 12,
   "telegram_posts": {
    "achadinhos": 0,
    "marcas": 2,
@@ -479,7 +479,9 @@
    "11:11 story_oferta",
    "feed",
    "11:50 carrossel_top5",
-   "11:56 story_oferta"
+   "11:56 story_oferta",
+   "12:15 story_top4",
+   "12:19 story_oferta"
   ],
   "shopee_ligada": true,
   "instagram": {

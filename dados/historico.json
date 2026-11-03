@@ -2904,7 +2904,9 @@
   "2026-11-03 11:11 story_oferta",
   "2026-11-03 feed",
   "2026-11-03 11:50 carrossel_top5",
-  "2026-11-03 11:56 story_oferta"
+  "2026-11-03 11:56 story_oferta",
+  "2026-11-03 12:15 story_top4",
+  "2026-11-03 12:19 story_oferta"
  ],
  "ig_ofertas_usadas": [
   "amz-B0GP7KDZRJ",
@@ -3094,10 +3096,12 @@
   "bs-tres-canais": "2026-11-03",
   "mv-7dias": "2026-11-03",
   "bs-transparencia": "2026-11-03",
-  "ac-link-estranho": "2026-11-03"
+  "ac-link-estranho": "2026-11-03",
+  "dc-carrinho": "2026-11-03",
+  "ac-perfil-fake": "2026-11-03"
  },
  "pecas_dia": {
-  "2026-11-03": 6
+  "2026-11-03": 8
  },
  "ultimo_pilar": "anticilada",
  "fila": [],
