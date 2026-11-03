@@ -371,7 +371,10 @@
   "2026-11-02 marcas 18:10 amz-B0DDQJ4GKN",
   "2026-11-02 marcas 18:30 amz-B0DBRBDSR1",
   "2026-11-02 marcas 19:03 amz-B0CL51V978",
-  "2026-11-02 marcas 19:13 amz-B0CKJW8BL6"
+  "2026-11-02 marcas 19:13 amz-B0CKJW8BL6",
+  "2026-11-03 tech 08:26 shopee-58257621281",
+  "2026-11-03 marcas 08:33 shopee-18716453608",
+  "2026-11-03 marcas 08:39 shopee-20716465989"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -751,7 +754,10 @@
   "amz-B0DDQJ4GKN": "2026-11-02T18:10:34.434854-03:00",
   "amz-B0DBRBDSR1": "2026-11-02T18:30:12.953857-03:00",
   "amz-B0CL51V978": "2026-11-02T19:03:06.651468-03:00",
-  "amz-B0CKJW8BL6": "2026-11-02T19:13:12.661528-03:00"
+  "amz-B0CKJW8BL6": "2026-11-02T19:13:12.661528-03:00",
+  "shopee-58257621281": "2026-11-03T08:26:53.992608-03:00",
+  "shopee-18716453608": "2026-11-03T08:33:00.975773-03:00",
+  "shopee-20716465989": "2026-11-03T08:39:12.439538-03:00"
  },
  "ofertas_dia": [
   {
@@ -2713,6 +2719,60 @@
    "gancho": "PUMA CLUB II COM 45% OFF",
    "entrou": "2026-11-02T16:54:21.167831-03:00",
    "dia": "2026-11-02"
+  },
+  {
+   "id": "shopee-58257621281",
+   "plataforma": "Shopee",
+   "nome": "Smart Tv Lg 43 Ld Wifi Bluetooth Full Hd 43lr6700psa Hdr10 Pro",
+   "loja": "Rep Store",
+   "loja_oficial": true,
+   "preco": 1598.67,
+   "preco_antigo": 3401.43,
+   "desconto": 53,
+   "vendas": 1495,
+   "nota": 4.9,
+   "comissao_pct": 6.0,
+   "imagem": "https://cf.shopee.com.br/file/br-11134207-820m5-mojn8m8ay13425",
+   "link": "https://s.shopee.com.br/70LP3CjMPQ",
+   "canal": "tech",
+   "entrou": "2026-11-03T08:17:28.569149-03:00",
+   "dia": "2026-11-03"
+  },
+  {
+   "id": "shopee-18716453608",
+   "plataforma": "Shopee",
+   "nome": "Kit De 6 Pares Meias Lupo Infantil Cano Médio Em Algodão Tamanho 24 ao 35",
+   "loja": "Deccó",
+   "loja_oficial": true,
+   "preco": 44.99,
+   "preco_antigo": 84.89,
+   "desconto": 47,
+   "vendas": 531,
+   "nota": 4.9,
+   "comissao_pct": 10.0,
+   "imagem": "https://cf.shopee.com.br/file/br-11134207-820m3-muj4rfyzhlvk43",
+   "link": "https://s.shopee.com.br/5fq0ZatEnb",
+   "canal": "marcas",
+   "entrou": "2026-11-03T08:17:28.569149-03:00",
+   "dia": "2026-11-03"
+  },
+  {
+   "id": "shopee-20716465989",
+   "plataforma": "Shopee",
+   "nome": "Kit De 6 Pares Meias Cano Invisível Lupo Sport Algodão Soquete Sapatilha Unissex",
+   "loja": "Deccó",
+   "loja_oficial": true,
+   "preco": 49.99,
+   "preco_antigo": 81.95,
+   "desconto": 39,
+   "vendas": 4660,
+   "nota": 4.9,
+   "comissao_pct": 10.0,
+   "imagem": "https://cf.shopee.com.br/file/br-11134207-820l8-mseej1ezbjt320",
+   "link": "https://s.shopee.com.br/40hmaWzaB7",
+   "canal": "marcas",
+   "entrou": "2026-11-03T08:17:28.569149-03:00",
+   "dia": "2026-11-03"
   }
  ],
  "ig_feitos": [
@@ -2832,7 +2892,8 @@
   "2026-11-02 20:50 post_achado",
   "2026-11-02 21:20 story_convite",
   "2026-11-02 21:05 reels",
-  "2026-11-02 21:24 story_oferta"
+  "2026-11-02 21:24 story_oferta",
+  "2026-11-03 08:07 story_oferta"
  ],
  "ig_ofertas_usadas": [
   "amz-B0GP7KDZRJ",
@@ -3013,142 +3074,14 @@
   "mv-oficial-cara": "2026-10-29",
   "hu-amigo": "2026-10-31",
   "bf-2026-11-01": "2026-11-01",
-  "hu-preco-caiu": "2026-11-02"
+  "hu-preco-caiu": "2026-11-02",
+  "bf-2026-11-03": "2026-11-03"
  },
  "pecas_dia": {
-  "2026-10-29": 2,
-  "2026-10-31": 1,
-  "2026-11-01": 1,
-  "2026-11-02": 1
+  "2026-11-03": 1
  },
- "ultimo_pilar": "humor",
- "fila": [
-  {
-   "id": "shopee-29083433141",
-   "plataforma": "Shopee",
-   "nome": "Kit 4 Cuecas Boxer Lupo Microfibra Poliamida Sem Costura Confortável Cueca Masculina Pacote Original",
-   "loja": "Osure",
-   "loja_oficial": true,
-   "preco": 109.99,
-   "preco_antigo": 186.42,
-   "desconto": 41,
-   "vendas": 1086,
-   "nota": 4.9,
-   "comissao_pct": 7.0,
-   "imagem": "https://cf.shopee.com.br/file/br-11134207-820m5-mt83mi11quwyf7",
-   "link": "https://s.shopee.com.br/1qdI0T17Vy",
-   "canal": "marcas",
-   "entrou": "2026-11-03T00:03:58.276288-03:00"
-  },
-  {
-   "id": "shopee-12858959918",
-   "plataforma": "Shopee",
-   "nome": "Kit 4 Cuecas Boxer Lupo Algodão Original Masculina Confortável Cotton Adulto Cueca Box Respirável",
-   "loja": "Osure",
-   "loja_oficial": true,
-   "preco": 89.99,
-   "preco_antigo": 119.99,
-   "desconto": 25,
-   "vendas": 1129,
-   "nota": 4.9,
-   "comissao_pct": 9.0,
-   "imagem": "https://cf.shopee.com.br/file/br-11134207-820ld-mt88cengy68281",
-   "link": "https://s.shopee.com.br/1Lh1PY31Wr",
-   "canal": "marcas",
-   "entrou": "2026-11-03T00:03:58.276288-03:00"
-  },
-  {
-   "id": "amz-B0GS3DQH2Q",
-   "canal": "achadinhos",
-   "nome": "Multiprocessador Philips Walita PowerChop 1000",
-   "preco_antigo": 499.9,
-   "preco": 271.19,
-   "desconto": 46,
-   "link": "https://www.amazon.com.br/dp/B0GS3DQH2Q?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/617DKTCqkjL._AC_SL1500_.jpg",
-   "loja": "Vendido por parceiro (Fast Shop Loja Oficial)",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-03T22:00:00-03:00",
-   "entrou": "2026-11-03T04:01:11.169902-03:00"
-  },
-  {
-   "id": "amz-B0CKJ83V8K",
-   "canal": "marcas",
-   "nome": "Tênis Puma Club II Era",
-   "preco_antigo": 449.99,
-   "preco": 237.49,
-   "desconto": 47,
-   "link": "https://www.amazon.com.br/dp/B0CKJ83V8K?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/41q7j21yBrL._AC_SL1200_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-03T22:00:00-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "entrou": "2026-11-03T04:01:11.169902-03:00"
-  },
-  {
-   "id": "amz-B0D9TZ7623",
-   "canal": "marcas",
-   "nome": "Tênis New Balance BB80 Unissex",
-   "preco_antigo": 399.99,
-   "preco": 182.99,
-   "desconto": 54,
-   "link": "https://www.amazon.com.br/dp/B0D9TZ7623?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/419F9U09zOL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-03T22:00:00-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "entrou": "2026-11-03T04:01:11.169902-03:00"
-  },
-  {
-   "id": "amz-B0DJ98K2JR",
-   "canal": "marcas",
-   "nome": "Tênis de Corrida Puma Darter Pro",
-   "preco_antigo": 499.99,
-   "preco": 237.5,
-   "desconto": 52,
-   "link": "https://www.amazon.com.br/dp/B0DJ98K2JR?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/71-NV05maHL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-03T22:00:00-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "entrou": "2026-11-03T04:01:11.169902-03:00"
-  },
-  {
-   "id": "amz-B0GM1GYWR1",
-   "canal": "tech",
-   "nome": "Fone JBL Tune 530BT Bluetooth Over-Ear",
-   "preco_antigo": 299.0,
-   "preco": 169.15,
-   "desconto": 43,
-   "link": "https://www.amazon.com.br/dp/B0GM1GYWR1?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51VYGGAyXmL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-03T22:00:00-03:00",
-   "extra": "Até 76 h de bateria",
-   "entrou": "2026-11-03T04:01:11.169902-03:00"
-  },
-  {
-   "id": "shopee-58257621281",
-   "plataforma": "Shopee",
-   "nome": "Smart Tv Lg 43 Ld Wifi Bluetooth Full Hd 43lr6700psa Hdr10 Pro",
-   "loja": "Rep Store",
-   "loja_oficial": true,
-   "preco": 1598.67,
-   "preco_antigo": 3401.43,
-   "desconto": 53,
-   "vendas": 1495,
-   "nota": 4.9,
-   "comissao_pct": 6.0,
-   "imagem": "https://cf.shopee.com.br/file/br-11134207-820m5-mojn8m8ay13425",
-   "link": "https://s.shopee.com.br/70LP3CjMPQ",
-   "canal": "tech",
-   "entrou": "2026-11-03T04:01:11.169902-03:00"
-  }
- ],
+ "ultimo_pilar": "blackfriday",
+ "fila": [],
  "menus_fixados": [
   "v1 @papagarimpou",
   "v1 @papagarimpoumarcas",
@@ -3378,7 +3311,10 @@
   "tenisasicsjapansfeminino": "2026-11-02T18:10:34.434854-03:00",
   "perfumeacquadigioprofondogiorgioarmaniedp": "2026-11-02T18:30:12.953857-03:00",
   "kit3camisetasbasicasmasculinashering": "2026-11-02T19:03:06.651468-03:00",
-  "tenismasculinopumaclubii": "2026-11-02T19:13:12.661528-03:00"
+  "tenismasculinopumaclubii": "2026-11-02T19:13:12.661528-03:00",
+  "smarttvlg43ldwifibluetoothfullhd43lr6700psahdr10pro": "2026-11-03T08:26:53.992608-03:00",
+  "kitde6paresmeiaslupoinfantilcanomedioemalgodaotamanho24ao35": "2026-11-03T08:33:00.975773-03:00",
+  "kitde6paresmeiascanoinvisivelluposportalgodaosoquetesapatilhaunissex": "2026-11-03T08:39:12.439538-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [

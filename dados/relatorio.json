@@ -444,17 +444,17 @@
  },
  "2026-11-03": {
   "erros": [],
-  "ultima_execucao": "04:01",
-  "execucoes": 5,
+  "ultima_execucao": "08:17",
+  "execucoes": 6,
   "telegram_posts": {
    "achadinhos": 0,
-   "marcas": 0,
-   "tech": 0
+   "marcas": 2,
+   "tech": 1
   },
   "ultimo_post": {
    "achadinhos": null,
-   "marcas": null,
-   "tech": null
+   "marcas": "08:39",
+   "tech": "08:26"
   },
   "convites_story": {
    "story-20261101": 0,
@@ -467,7 +467,9 @@
    "tech": 4,
    "geral": 5
   },
-  "instagram_feito": [],
+  "instagram_feito": [
+   "08:07 story_oferta"
+  ],
   "shopee_ligada": true,
   "instagram": {
    "seguidores": 135,
