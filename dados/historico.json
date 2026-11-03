@@ -395,7 +395,10 @@
   "2026-11-03 tech 18:26 amz-B0C6K19YBH",
   "2026-11-03 tech 18:36 amz-B0D27J4Q8G",
   "2026-11-03 marcas 19:01 amz-B0FFTRTVC2",
-  "2026-11-03 achadinhos 19:10 amz-B08J89FSXX"
+  "2026-11-03 achadinhos 19:10 amz-B08J89FSXX",
+  "2026-11-03 tech 19:26 amz-B07QQB9VCV",
+  "2026-11-03 marcas 19:36 amz-B0BFSXMPCL",
+  "2026-11-03 achadinhos 19:50 amz-B0BYK9KP3W"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -799,7 +802,10 @@
   "amz-B0C6K19YBH": "2026-11-03T18:26:57.957009-03:00",
   "amz-B0D27J4Q8G": "2026-11-03T18:36:13.773274-03:00",
   "amz-B0FFTRTVC2": "2026-11-03T19:01:12.317634-03:00",
-  "amz-B08J89FSXX": "2026-11-03T19:10:19.438978-03:00"
+  "amz-B08J89FSXX": "2026-11-03T19:10:19.438978-03:00",
+  "amz-B07QQB9VCV": "2026-11-03T19:26:48.916701-03:00",
+  "amz-B0BFSXMPCL": "2026-11-03T19:36:10.721524-03:00",
+  "amz-B0BYK9KP3W": "2026-11-03T19:50:23.080849-03:00"
  },
  "ofertas_dia": [
   {
@@ -3146,6 +3152,54 @@
    "gancho": "DOLCE GUSTO PELA METADE",
    "entrou": "2026-11-03T16:24:59.803138-03:00",
    "dia": "2026-11-03"
+  },
+  {
+   "id": "amz-B07QQB9VCV",
+   "canal": "tech",
+   "nome": "Teclado Mecânico Gamer Logitech G PRO TKL RGB",
+   "preco_antigo": 699.9,
+   "preco": 449.9,
+   "desconto": 36,
+   "link": "https://www.amazon.com.br/dp/B07QQB9VCV?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51HaCM8wFcL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-04T22:00:00-03:00",
+   "extra": "Layout US",
+   "entrou": "2026-11-03T16:24:59.803138-03:00",
+   "dia": "2026-11-03"
+  },
+  {
+   "id": "amz-B0BFSXMPCL",
+   "canal": "marcas",
+   "nome": "Tech T-Shirt Gola U Masculina Insider",
+   "preco_antigo": 159.0,
+   "preco": 93.1,
+   "desconto": 41,
+   "link": "https://www.amazon.com.br/dp/B0BFSXMPCL?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51p6HHzap5L._AC_SL1024_.jpg",
+   "loja": "Loja oficial Insider na Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-04T22:00:00-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "entrou": "2026-11-03T16:24:59.803138-03:00",
+   "dia": "2026-11-03"
+  },
+  {
+   "id": "amz-B0BYK9KP3W",
+   "canal": "achadinhos",
+   "nome": "Air Fryer Forno Electrolux 12L Digital EAF90 127V",
+   "preco_antigo": 1299.0,
+   "preco": 579.0,
+   "desconto": 55,
+   "link": "https://www.amazon.com.br/dp/B0BYK9KP3W?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/5183mlQX54L._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-04T22:00:00-03:00",
+   "extra": "127V",
+   "entrou": "2026-11-03T16:24:59.803138-03:00",
+   "dia": "2026-11-03"
   }
  ],
  "ig_feitos": [
@@ -3297,7 +3351,9 @@
   "2026-11-03 17:36 story_oferta",
   "2026-11-03 18:05 a_ou_b",
   "2026-11-03 18:09 story_oferta",
-  "2026-11-03 18:42 story_oferta"
+  "2026-11-03 18:42 story_oferta",
+  "2026-11-03 feed",
+  "2026-11-03 19:15 post_achado"
  ],
  "ig_ofertas_usadas": [
   "amz-B0GP7KDZRJ",
@@ -3460,7 +3516,8 @@
   "amz-B0DZ3464ZM",
   "amz-B000P20TAY",
   "amz-B09J1TB35S",
-  "amz-B0CH3YNWVK"
+  "amz-B0CH3YNWVK",
+  "amz-B0756L7P4X"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
@@ -3510,21 +3567,6 @@
  },
  "ultimo_pilar": "humor",
  "fila": [
-  {
-   "id": "amz-B0BYK9KP3W",
-   "canal": "achadinhos",
-   "nome": "Air Fryer Forno Electrolux 12L Digital EAF90 127V",
-   "preco_antigo": 1299.0,
-   "preco": 579.0,
-   "desconto": 55,
-   "link": "https://www.amazon.com.br/dp/B0BYK9KP3W?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/5183mlQX54L._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-04T22:00:00-03:00",
-   "extra": "127V",
-   "entrou": "2026-11-03T16:24:59.803138-03:00"
-  },
   {
    "id": "amz-B0CW7D8Z69",
    "canal": "achadinhos",
@@ -3593,21 +3635,6 @@
    "loja": "Vendido e entregue pela Amazon",
    "plataforma": "Amazon",
    "valida_ate": "2026-11-04T22:00:00-03:00",
-   "entrou": "2026-11-03T16:24:59.803138-03:00"
-  },
-  {
-   "id": "amz-B0BFSXMPCL",
-   "canal": "marcas",
-   "nome": "Tech T-Shirt Gola U Masculina Insider",
-   "preco_antigo": 159.0,
-   "preco": 93.1,
-   "desconto": 41,
-   "link": "https://www.amazon.com.br/dp/B0BFSXMPCL?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51p6HHzap5L._AC_SL1024_.jpg",
-   "loja": "Loja oficial Insider na Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-04T22:00:00-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
    "entrou": "2026-11-03T16:24:59.803138-03:00"
   },
   {
@@ -3701,21 +3728,6 @@
    "entrou": "2026-11-03T16:24:59.803138-03:00"
   },
   {
-   "id": "amz-B07QQB9VCV",
-   "canal": "tech",
-   "nome": "Teclado Mecânico Gamer Logitech G PRO TKL RGB",
-   "preco_antigo": 699.9,
-   "preco": 449.9,
-   "desconto": 36,
-   "link": "https://www.amazon.com.br/dp/B07QQB9VCV?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51HaCM8wFcL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-04T22:00:00-03:00",
-   "extra": "Layout US",
-   "entrou": "2026-11-03T16:24:59.803138-03:00"
-  },
-  {
    "id": "shopee-58209674589",
    "plataforma": "Shopee",
    "nome": "Desodorante Corporal Natura Kaiak O2 Masculino 100 ml",
@@ -3731,21 +3743,6 @@
    "link": "https://s.shopee.com.br/8AXKFjizQl",
    "canal": "achadinhos",
    "entrou": "2026-11-03T16:24:59.803138-03:00"
-  },
-  {
-   "id": "amz-B0GM1GYWR1",
-   "canal": "tech",
-   "nome": "Fone JBL Tune 530BT Bluetooth Over-Ear",
-   "preco_antigo": 299.0,
-   "preco": 169.15,
-   "desconto": 43,
-   "link": "https://www.amazon.com.br/dp/B0GM1GYWR1?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51VYGGAyXmL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-03T22:00:00-03:00",
-   "extra": "Até 76 h de bateria",
-   "entrou": "2026-11-03T18:09:06.352996-03:00"
   },
   {
    "id": "amz-B0GMKWQPH1",
@@ -3805,6 +3802,21 @@
    "valida_ate": "2026-11-03T22:00:00-03:00",
    "extra": "Preço a partir de: varia por tamanho e cor",
    "entrou": "2026-11-03T18:51:35.947270-03:00"
+  },
+  {
+   "id": "amz-B0DJ98K2JR",
+   "canal": "marcas",
+   "nome": "Tênis de Corrida Puma Darter Pro",
+   "preco_antigo": 499.99,
+   "preco": 237.5,
+   "desconto": 52,
+   "link": "https://www.amazon.com.br/dp/B0DJ98K2JR?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71-NV05maHL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-03T22:00:00-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "entrou": "2026-11-03T19:15:57.279335-03:00"
   }
  ],
  "menus_fixados": [
@@ -4062,7 +4074,10 @@
   "tecladosemfiologitechmxkeysscliquesilencioso": "2026-11-03T18:26:57.957009-03:00",
   "caixadesomjblpartyboxstage320bluetooth": "2026-11-03T18:36:13.773274-03:00",
   "tenismizunocitywall": "2026-11-03T19:01:12.317634-03:00",
-  "cafeteiraarnodolcegustogeniospluspreta": "2026-11-03T19:10:19.438978-03:00"
+  "cafeteiraarnodolcegustogeniospluspreta": "2026-11-03T19:10:19.438978-03:00",
+  "tecladomecanicogamerlogitechgprotklrgb": "2026-11-03T19:26:48.916701-03:00",
+  "techtshirtgolaumasculinainsider": "2026-11-03T19:36:10.721524-03:00",
+  "airfryerfornoelectrolux12ldigitaleaf90127v": "2026-11-03T19:50:23.080849-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
