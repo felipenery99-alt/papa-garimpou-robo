@@ -392,7 +392,8 @@
   "2026-11-03 marcas 17:57 amz-B09VN62HF3",
   "2026-11-03 tech 18:08 amz-B0FS82QQN2",
   "2026-11-03 achadinhos 18:20 amz-B0756L7P4X",
-  "2026-11-03 tech 18:26 amz-B0C6K19YBH"
+  "2026-11-03 tech 18:26 amz-B0C6K19YBH",
+  "2026-11-03 tech 18:36 amz-B0D27J4Q8G"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -793,7 +794,8 @@
   "amz-B09VN62HF3": "2026-11-03T17:57:33.064483-03:00",
   "amz-B0FS82QQN2": "2026-11-03T18:08:28.642488-03:00",
   "amz-B0756L7P4X": "2026-11-03T18:20:03.594845-03:00",
-  "amz-B0C6K19YBH": "2026-11-03T18:26:57.957009-03:00"
+  "amz-B0C6K19YBH": "2026-11-03T18:26:57.957009-03:00",
+  "amz-B0D27J4Q8G": "2026-11-03T18:36:13.773274-03:00"
  },
  "ofertas_dia": [
   {
@@ -3091,6 +3093,22 @@
    "valida_ate": "2026-11-04T22:00:00-03:00",
    "entrou": "2026-11-03T16:24:59.803138-03:00",
    "dia": "2026-11-03"
+  },
+  {
+   "id": "amz-B0D27J4Q8G",
+   "canal": "tech",
+   "nome": "Caixa de Som JBL PartyBox Stage 320 Bluetooth",
+   "preco_antigo": 3899.0,
+   "preco": 2298.68,
+   "desconto": 41,
+   "link": "https://www.amazon.com.br/dp/B0D27J4Q8G?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51CdXeEV5aL._AC_SL1200_.jpg",
+   "loja": "Vendido por parceiro · entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-04T22:00:00-03:00",
+   "gancho": "PARTYBOX DA JBL PRA FAZER O VIZINHO SE MUDAR",
+   "entrou": "2026-11-03T16:24:59.803138-03:00",
+   "dia": "2026-11-03"
   }
  ],
  "ig_feitos": [
@@ -3454,35 +3472,6 @@
  "ultimo_pilar": "humor",
  "fila": [
   {
-   "id": "amz-B0GS3DQH2Q",
-   "canal": "achadinhos",
-   "nome": "Multiprocessador Philips Walita PowerChop 1000",
-   "preco_antigo": 499.9,
-   "preco": 271.19,
-   "desconto": 46,
-   "link": "https://www.amazon.com.br/dp/B0GS3DQH2Q?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/617DKTCqkjL._AC_SL1500_.jpg",
-   "loja": "Vendido por parceiro (Fast Shop Loja Oficial)",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-03T22:00:00-03:00",
-   "entrou": "2026-11-03T15:46:03.421710-03:00"
-  },
-  {
-   "id": "amz-B0D9TZ7623",
-   "canal": "marcas",
-   "nome": "Tênis New Balance BB80 Unissex",
-   "preco_antigo": 399.99,
-   "preco": 182.99,
-   "desconto": 54,
-   "link": "https://www.amazon.com.br/dp/B0D9TZ7623?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/419F9U09zOL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-03T22:00:00-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "entrou": "2026-11-03T15:46:03.421710-03:00"
-  },
-  {
    "id": "amz-B0DJ98K2JR",
    "canal": "marcas",
    "nome": "Tênis de Corrida Puma Darter Pro",
@@ -3719,21 +3708,6 @@
    "entrou": "2026-11-03T16:24:59.803138-03:00"
   },
   {
-   "id": "amz-B0D27J4Q8G",
-   "canal": "tech",
-   "nome": "Caixa de Som JBL PartyBox Stage 320 Bluetooth",
-   "preco_antigo": 3899.0,
-   "preco": 2298.68,
-   "desconto": 41,
-   "link": "https://www.amazon.com.br/dp/B0D27J4Q8G?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51CdXeEV5aL._AC_SL1200_.jpg",
-   "loja": "Vendido por parceiro · entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-04T22:00:00-03:00",
-   "gancho": "PARTYBOX DA JBL PRA FAZER O VIZINHO SE MUDAR",
-   "entrou": "2026-11-03T16:24:59.803138-03:00"
-  },
-  {
    "id": "amz-B07QQB9VCV",
    "canal": "tech",
    "nome": "Teclado Mecânico Gamer Logitech G PRO TKL RGB",
@@ -3794,6 +3768,21 @@
    "valida_ate": "2026-11-04T22:00:00-03:00",
    "gancho": "GALAXY BUDS4 COM 44% OFF",
    "entrou": "2026-11-03T18:09:06.352996-03:00"
+  },
+  {
+   "id": "amz-B0CKJ83V8K",
+   "canal": "marcas",
+   "nome": "Tênis Puma Club II Era",
+   "preco_antigo": 449.99,
+   "preco": 237.49,
+   "desconto": 47,
+   "link": "https://www.amazon.com.br/dp/B0CKJ83V8K?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/41q7j21yBrL._AC_SL1200_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-03T22:00:00-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "entrou": "2026-11-03T18:27:23.015296-03:00"
   }
  ],
  "menus_fixados": [
@@ -4048,7 +4037,8 @@
   "perfumeazzarothemostwantedparfummasculino": "2026-11-03T17:57:33.064483-03:00",
   "fonesamsunggalaxybuds3fecomgalaxyai": "2026-11-03T18:08:28.642488-03:00",
   "aspiradordepoeaguawapgtwinox20litros": "2026-11-03T18:20:03.594845-03:00",
-  "tecladosemfiologitechmxkeysscliquesilencioso": "2026-11-03T18:26:57.957009-03:00"
+  "tecladosemfiologitechmxkeysscliquesilencioso": "2026-11-03T18:26:57.957009-03:00",
+  "caixadesomjblpartyboxstage320bluetooth": "2026-11-03T18:36:13.773274-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
