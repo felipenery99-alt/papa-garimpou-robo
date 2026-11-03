@@ -30,7 +30,7 @@ on:
         description: "normal = postar; verificar = só confere o bot, não posta"
         default: "normal"
         type: choice
-        options: [normal, verificar, story_teste, reels_teste, mosaico, destaques]
+        options: [normal, verificar, story_teste, reels_teste, mosaico, destaques, vigia_teste]
 
 permissions:
   contents: write
@@ -64,6 +64,7 @@ jobs:
           SHOPEE_SECRET: ${{ secrets.SHOPEE_SECRET }}
           ALERTA_CHAT_ID: ${{ secrets.ALERTA_CHAT_ID }}
           META_TOKEN: ${{ secrets.META_TOKEN }}
+          GITHUB_TOKEN: ${{ github.token }}   # 03/11: vigia lê a hora do último garimpo pela API
         run: |
           case "${{ github.event.inputs.modo }}" in
             verificar) python principal.py --verificar ;;
@@ -71,6 +72,7 @@ jobs:
             reels_teste) python principal.py --reels-teste ;;
             mosaico) python principal.py --mosaico ;;
             destaques) python principal.py --destaques ;;
+            vigia_teste) python principal.py --vigia-teste ;;
             *) python principal.py ;;
           esac
       - name: Guardar histórico (evita repetir produto)

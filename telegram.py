@@ -113,9 +113,10 @@ def entradas_por_convite(offset: int | None) -> tuple[list[tuple[str, str, int]]
     return saida, prox
 
 
-def avisar_dono(texto: str) -> None:
+def avisar_dono(texto: str, prefixo: bool = True) -> None:
     """Aviso de problema. Vai só para o chat do dono com o robô (ALERTA_CHAT_ID).
-    Nunca para os canais. Se não houver chat configurado, só registra no log."""
+    Nunca para os canais. Se não houver chat configurado, só registra no log.
+    `prefixo=False` (03/11, vigia): o texto já vem pronto, sem "⚠️ Robô Papa Garimpou:"."""
     chat = os.environ.get("ALERTA_CHAT_ID", "").strip()
     print(f"[ALERTA] {texto}")
     ERROS.append(texto[:300])
@@ -124,7 +125,7 @@ def avisar_dono(texto: str) -> None:
     try:
         requests.post(
             API.format(token=_token(), metodo="sendMessage"),
-            data={"chat_id": chat, "text": f"⚠️ Robô Papa Garimpou: {texto}"},
+            data={"chat_id": chat, "text": f"⚠️ Robô Papa Garimpou: {texto}" if prefixo else texto},
             timeout=30,
         )
     except Exception as e:  # o aviso nunca pode derrubar o robô

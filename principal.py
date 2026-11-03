@@ -59,6 +59,8 @@ def gravar_relatorio(h: dict, agora: datetime) -> None:
     dia["execucoes"] = dia.get("execucoes", 0) + 1
     dia["telegram_posts"] = {c: sum(1 for s in h["slots_feitos"] if s.startswith(f"{hoje} {c}")) for c in config.CANAIS}
     dia["ultimo_post"] = ultimo_post(h, agora)
+    if h.get("ultimo_garimpo"):
+        dia["ultimo_garimpo"] = datetime.fromisoformat(h["ultimo_garimpo"]).strftime("%d/%m %H:%M")
     dia["convites_story"] = {n: len(c["entradas"]) for n, c in h.get("convites_story", {}).items()}
     dia["telegram_membros"] = {c: telegram.membros(d) for c, d in {**config.CANAIS, "geral": config.GERAL}.items()}
     dia["instagram_feito"] = [f[11:] for f in h.get("ig_feitos", []) if f.startswith(hoje)]
@@ -362,6 +364,9 @@ def socorrer_parados(h: dict, telegram, buscar_fundo, agora: datetime) -> None:
     if not (ini <= agora <= fim):
         return
     for canal in config.CANAIS:
+        # 03/11: Achadinhos ficou 6 h sem post e esta trava não deixou rastro no log; agora diz o que viu
+        print(f"[parado] {canal}: {minutos_parado(h, canal, agora):.0f} min sem post, "
+              f"{sum(1 for f in h.get('fila', []) if f['canal'] == canal)} na fila")
         if any(f["canal"] == canal for f in h.get("fila", [])) or minutos_parado(h, canal, agora) < config.CANAL_PARADO_MIN:
             continue
         if buscar_fundo:
@@ -381,6 +386,52 @@ def socorrer_parados(h: dict, telegram, buscar_fundo, agora: datetime) -> None:
             h["avisos_parado"] = avisos[-30:]
             telegram.avisar_dono(f"canal {canal} sem oferta na fila há {minutos_parado(h, canal, agora):.0f} min "
                                  f"(busca extra também não achou). Abastecer ofertas_manuais.json.")
+
+
+def ultimo_garimpo() -> datetime | None:
+    """Hora do último commit "Garimpo ..." em ofertas_manuais.json (rotina do app no PC).
+    Vem da API do GitHub porque o checkout do Actions é raso (sem histórico)."""
+    import os
+    import requests
+    repo = os.environ.get("GITHUB_REPOSITORY", "felipenery99-alt/papa-garimpou-robo")
+    cab = {"Authorization": f"Bearer {os.environ['GITHUB_TOKEN']}"} if os.environ.get("GITHUB_TOKEN") else {}
+    r = requests.get(f"https://api.github.com/repos/{repo}/commits", headers=cab, timeout=30,
+                     params={"path": "ofertas_manuais.json", "per_page": 20})
+    r.raise_for_status()
+    for c in r.json():
+        if c["commit"]["message"].lower().startswith("garimpo"):
+            return datetime.fromisoformat(c["commit"]["committer"]["date"].replace("Z", "+00:00")).astimezone(FUSO)
+    return None
+
+
+def vigiar(h: dict, telegram, agora: datetime, ult_garimpo: datetime | None) -> None:
+    """03/11 (dono): vigia de inatividade. Garimpo velho ou canal sem oferta na fila → aviso; canal sem post
+    há VIGIA_POST_H → aviso. Cada tipo no máximo 1 vez a cada VIGIA_REPETIR_H (gravado no histórico)."""
+    ini, fim = config.VIGIA_JANELA
+    if not (ini <= f"{agora:%H:%M}" < fim):
+        return
+
+    def pode(chave: str) -> bool:
+        ult = h.get(chave)
+        return not ult or agora - datetime.fromisoformat(ult) >= timedelta(hours=config.VIGIA_REPETIR_H)
+
+    na_fila = {c: sum(1 for f in h.get("fila", []) if f.get("canal") == c) for c in config.CANAIS}
+    vazios = [c for c, n in na_fila.items() if n == 0]
+    velho = ult_garimpo is None or agora - ult_garimpo > timedelta(hours=config.VIGIA_GARIMPO_H)
+    print(f"[vigia] último garimpo {ult_garimpo:%d/%m %H:%M}" if ult_garimpo else "[vigia] último garimpo: não achei",
+          f"| fila {na_fila}")
+    if (velho or vazios) and pode("vigia_aviso_garimpo"):
+        desde = "?" if not ult_garimpo else (f"{ult_garimpo:%H:%M}" if ult_garimpo.date() == agora.date()
+                                             else f"{ult_garimpo:%d/%m %H:%M}")
+        topo = (f"⚠️ Garimpo parado desde {desde}" if velho else f"⚠️ Fila vazia ({', '.join(vazios)}), último garimpo {desde}")
+        detalhe = f"\nSem oferta na fila: {', '.join(vazios)}." if velho and vazios else ""
+        telegram.avisar_dono(f"{topo} — abrir o app Claude e conferir as rotinas{detalhe}", prefixo=False)
+        h["vigia_aviso_garimpo"] = agora.isoformat()
+    sem_post = {c: m for c in config.CANAIS if (m := minutos_parado(h, c, agora)) > config.VIGIA_POST_H * 60}
+    if sem_post and pode("vigia_aviso_post"):
+        lista = ", ".join(f"{c} {m / 60:.0f} h" for c, m in sem_post.items())
+        telegram.avisar_dono(f"⚠️ Canal sem post: {lista} — abrir o app Claude e conferir as rotinas", prefixo=False)
+        h["vigia_aviso_post"] = agora.isoformat()
 
 
 def ate_proxima_execucao(agora: datetime) -> datetime:
@@ -895,6 +946,7 @@ def main() -> int:
     ap.add_argument("--reels-teste", action="store_true")
     ap.add_argument("--mosaico", action="store_true")
     ap.add_argument("--destaques", action="store_true")
+    ap.add_argument("--vigia-teste", action="store_true")
     args = ap.parse_args()
     sys.stdout.reconfigure(encoding="utf-8")
     agora = datetime.now(FUSO)
@@ -902,6 +954,17 @@ def main() -> int:
         # Telegram não tem agenda (posta na hora que acha); só o Instagram tem horários fixos.
         for hora, tipo in config.INSTAGRAM_AGENDA:
             print("instagram", hora, tipo)
+        return 0
+
+    if args.vigia_teste:
+        # Disparo manual (03/11): manda ao dono o aviso do vigia com os dados reais, marcado como teste.
+        import telegram
+        ult = ultimo_garimpo()
+        h = carregar_hist()
+        na_fila = {c: sum(1 for f in h.get("fila", []) if f.get("canal") == c) for c in config.CANAIS}
+        desde = f"{ult:%d/%m %H:%M}" if ult else "?"
+        telegram.avisar_dono(f"🧪 TESTE do vigia (pode ignorar)\n⚠️ Garimpo parado desde {desde} — abrir o app Claude "
+                             f"e conferir as rotinas\nFila agora: {na_fila}", prefixo=False)
         return 0
 
     if args.story_teste:
@@ -1051,6 +1114,13 @@ def main() -> int:
     preparar_story_link(h, agora)
     top10_semana(h, telegram, agora)
     socorrer_parados(h, telegram, shopee.buscar_fundo if shopee_ok else None, agora)
+    try:   # o vigia nunca derruba o robô
+        ult = ultimo_garimpo()
+        if ult:
+            h["ultimo_garimpo"] = ult.isoformat()
+        vigiar(h, telegram, agora, ult)
+    except Exception as e:
+        print(f"[vigia] falhou: {e}")
     if shopee_ok:
         checar_vendas_shopee(h, telegram, agora)
     erros += soltar_fila(h, telegram, ate_proxima_execucao(agora))

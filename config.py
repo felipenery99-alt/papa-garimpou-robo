@@ -73,7 +73,14 @@ ATRASO_INICIAL_MIN = (0.5, 4)
 def intervalo_posts(hora: int) -> tuple[float, float]:
     return INTERVALO_MANHA_MIN if hora < 12 else INTERVALO_TARDE_MIN
 CANAL_PARADO_MIN = 50          # 01/11 (meta do dono: nenhum canal >1 h sem post 8h–22h): passou disso, o canal tem prioridade
-BUSCA_EXTRA_TERMOS = 4         # canal parado e sem item na fila: busca extra (páginas 3–4) em N termos sorteados do nicho
+# 03/11 (dono: "não é para ficar inativo"): o agendador do app parou 02/11 11h43 e ninguém viu. Vigia no robô
+# (GitHub, independe do PC): 8h–21h avisa o dono se o garimpo (commit "Garimpo" em ofertas_manuais.json) passou
+# de VIGIA_GARIMPO_H, se algum canal está sem oferta na fila ou sem post há VIGIA_POST_H. No máx. 1 aviso/tipo a cada VIGIA_REPETIR_H.
+VIGIA_JANELA = ("08:00", "21:00")
+VIGIA_GARIMPO_H = 3
+VIGIA_POST_H = 2
+VIGIA_REPETIR_H = 3
+BUSCA_EXTRA_TERMOS = 4        # canal parado e sem item na fila: busca extra (páginas 3–4) em N termos sorteados do nicho
 FILA_VALIDADE_H = 4            # oferta parada na fila há mais que isso sai (o preço pode ter mudado)
 # Horários das execuções do robo.yml em Brasília (para a fila parar antes da próxima)
 EXECUCOES = ["08:07", "08:52", "09:38", "10:24", "11:11", "11:56", "12:19", "12:47", "13:22", "14:08",
