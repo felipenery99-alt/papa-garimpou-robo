@@ -2906,7 +2906,10 @@
   "2026-11-03 11:50 carrossel_top5",
   "2026-11-03 11:56 story_oferta",
   "2026-11-03 12:15 story_top4",
-  "2026-11-03 12:19 story_oferta"
+  "2026-11-03 12:19 story_oferta",
+  "2026-11-03 feed",
+  "2026-11-03 12:40 reels",
+  "2026-11-03 12:47 story_oferta"
  ],
  "ig_ofertas_usadas": [
   "amz-B0GP7KDZRJ",
@@ -3065,7 +3068,7 @@
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
- "ig_ultimo_reel": "2026-11-02T21:34:50.038789-03:00",
+ "ig_ultimo_reel": "2026-11-03T12:57:59.475757-03:00",
  "pecas_usadas": {
   "ac-preco-inflado": "2026-10-27",
   "dc-7-dias": "2026-10-27",
@@ -3098,12 +3101,13 @@
   "bs-transparencia": "2026-11-03",
   "ac-link-estranho": "2026-11-03",
   "dc-carrinho": "2026-11-03",
-  "ac-perfil-fake": "2026-11-03"
+  "ac-perfil-fake": "2026-11-03",
+  "dc-tamanho": "2026-11-03"
  },
  "pecas_dia": {
-  "2026-11-03": 8
+  "2026-11-03": 9
  },
- "ultimo_pilar": "anticilada",
+ "ultimo_pilar": "dica",
  "fila": [],
  "menus_fixados": [
   "v1 @papagarimpou",
@@ -3397,6 +3401,11 @@
    "amz-B07Y2BK4GJ",
    "amz-B0FDX5W5T9",
    "shopee-18516472597"
+  ],
+  "2026-11-03": [
+   "shopee-58257621281",
+   "shopee-18716453608",
+   "shopee-20716465989"
   ]
  },
  "vendas_shopee": {},
