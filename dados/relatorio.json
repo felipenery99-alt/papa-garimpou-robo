@@ -526,16 +526,18 @@
   "ultimo_garimpo": "03/11 20:04"
  },
  "2026-11-04": {
-  "erros": [],
-  "ultima_execucao": "12:06",
-  "execucoes": 6,
+  "erros": [
+   "⚠️ Garimpo parado desde 03/11 20:04 — abrir o app Claude e conferir as rotinas\nPouca oferta na fila: tech 2."
+  ],
+  "ultima_execucao": "12:29",
+  "execucoes": 7,
   "telegram_posts": {
-   "achadinhos": 5,
+   "achadinhos": 6,
    "marcas": 5,
    "tech": 4
   },
   "ultimo_post": {
-   "achadinhos": "10:58",
+   "achadinhos": "12:39",
    "marcas": "11:05",
    "tech": "12:16"
   },
@@ -562,13 +564,15 @@
    "10:24 story_oferta",
    "feed",
    "11:50 carrossel_top5",
-   "11:56 story_oferta"
+   "11:56 story_oferta",
+   "12:15 story_top4",
+   "12:19 story_oferta"
   ],
   "shopee_ligada": true,
   "instagram": {
-   "seguidores": 140,
+   "seguidores": 139,
    "posts": 60,
-   "reach": 953,
+   "reach": 1069,
    "profile_views": 49,
    "website_clicks": 0,
    "stories_ativos": 25

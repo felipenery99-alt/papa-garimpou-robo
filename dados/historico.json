@@ -420,7 +420,8 @@
   "2026-11-04 tech 10:52 amz-B0CJ3BDN7T",
   "2026-11-04 achadinhos 10:58 amz-B008SBKTZ4",
   "2026-11-04 marcas 11:05 amz-B0DH9Y4MMF",
-  "2026-11-04 tech 12:16 amz-B0B1LJFBPY"
+  "2026-11-04 tech 12:16 amz-B0B1LJFBPY",
+  "2026-11-04 achadinhos 12:39 amz-B0DB8TRNZX"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -849,7 +850,8 @@
   "amz-B0CJ3BDN7T": "2026-11-04T10:52:42.376948-03:00",
   "amz-B008SBKTZ4": "2026-11-04T10:58:19.403926-03:00",
   "amz-B0DH9Y4MMF": "2026-11-04T11:05:07.600386-03:00",
-  "amz-B0B1LJFBPY": "2026-11-04T12:16:30.624485-03:00"
+  "amz-B0B1LJFBPY": "2026-11-04T12:16:30.624485-03:00",
+  "amz-B0DB8TRNZX": "2026-11-04T12:39:05.453362-03:00"
  },
  "ofertas_dia": [
   {
@@ -2447,6 +2449,21 @@
    "valida_ate": "2026-11-04T22:00:00-03:00",
    "entrou": "2026-11-04T09:02:33.151948-03:00",
    "dia": "2026-11-04"
+  },
+  {
+   "id": "amz-B0DB8TRNZX",
+   "canal": "achadinhos",
+   "nome": "Protetor Solar Facial Vichy Capital Soleil UV-Clear",
+   "preco_antigo": 99.9,
+   "preco": 60.98,
+   "desconto": 39,
+   "link": "https://www.amazon.com.br/dp/B0DB8TRNZX?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/41vH3Hc1+7L._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-04T22:00:00-03:00",
+   "entrou": "2026-11-04T09:02:33.151948-03:00",
+   "dia": "2026-11-04"
   }
  ],
  "ig_feitos": [
@@ -2582,7 +2599,9 @@
   "2026-11-04 10:24 story_oferta",
   "2026-11-04 feed",
   "2026-11-04 11:50 carrossel_top5",
-  "2026-11-04 11:56 story_oferta"
+  "2026-11-04 11:56 story_oferta",
+  "2026-11-04 12:15 story_top4",
+  "2026-11-04 12:19 story_oferta"
  ],
  "ig_ofertas_usadas": [
   "amz-B0GP7KDZRJ",
@@ -2755,7 +2774,8 @@
   "amz-B0CW7D8Z69",
   "amz-B017WWSY5Q",
   "amz-B0G4SQNDHB",
-  "amz-B07WCVW56S"
+  "amz-B07WCVW56S",
+  "amz-B0CVXT6NQB"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
@@ -2807,20 +2827,6 @@
  },
  "ultimo_pilar": "mito",
  "fila": [
-  {
-   "id": "amz-B0DB8TRNZX",
-   "canal": "achadinhos",
-   "nome": "Protetor Solar Facial Vichy Capital Soleil UV-Clear",
-   "preco_antigo": 99.9,
-   "preco": 60.98,
-   "desconto": 39,
-   "link": "https://www.amazon.com.br/dp/B0DB8TRNZX?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/41vH3Hc1+7L._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-04T22:00:00-03:00",
-   "entrou": "2026-11-04T09:02:33.151948-03:00"
-  },
   {
    "id": "amz-B07VMBV72P",
    "canal": "achadinhos",
@@ -3360,7 +3366,8 @@
   "mousesemfiologitechpebble2m350ssilencioso": "2026-11-04T10:52:42.376948-03:00",
   "perfumelavieestbellelancomefemininoedp": "2026-11-04T10:58:19.403926-03:00",
   "camisetaalgodaopicapaureserva": "2026-11-04T11:05:07.600386-03:00",
-  "fonebluetoothankersoundcorespacea40comanc": "2026-11-04T12:16:30.624485-03:00"
+  "fonebluetoothankersoundcorespacea40comanc": "2026-11-04T12:16:30.624485-03:00",
+  "protetorsolarfacialvichycapitalsoleiluvclear": "2026-11-04T12:39:05.453362-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
@@ -3482,5 +3489,5 @@
  "pede_semana": "2026-45",
  "ultimo_garimpo": "2026-11-03T20:04:50-03:00",
  "vigia_aviso_post": "2026-11-03T15:13:56.183802-03:00",
- "vigia_aviso_garimpo": "2026-11-03T18:51:35.947270-03:00"
+ "vigia_aviso_garimpo": "2026-11-04T12:29:14.305755-03:00"
 }
