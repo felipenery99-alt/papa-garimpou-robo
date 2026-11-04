@@ -410,7 +410,11 @@
   "2026-11-04 achadinhos 09:12 amz-B0CW7D8Z69",
   "2026-11-04 marcas 09:19 amz-B017WWSY5Q",
   "2026-11-04 tech 09:25 amz-B0G4SQNDHB",
-  "2026-11-04 marcas 09:29 amz-B0GHSCS2P5"
+  "2026-11-04 marcas 09:29 amz-B0GHSCS2P5",
+  "2026-11-04 achadinhos 09:59 amz-B07WCVW56S",
+  "2026-11-04 marcas 10:04 amz-B0CVXT6NQB",
+  "2026-11-04 tech 10:11 amz-B0FPRPMGXG",
+  "2026-11-04 achadinhos 10:15 amz-B0CCT3ZDTX"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -829,7 +833,11 @@
   "amz-B0CW7D8Z69": "2026-11-04T09:12:38.388967-03:00",
   "amz-B017WWSY5Q": "2026-11-04T09:19:11.005390-03:00",
   "amz-B0G4SQNDHB": "2026-11-04T09:25:58.922486-03:00",
-  "amz-B0GHSCS2P5": "2026-11-04T09:29:15.153784-03:00"
+  "amz-B0GHSCS2P5": "2026-11-04T09:29:15.153784-03:00",
+  "amz-B07WCVW56S": "2026-11-04T09:59:23.448800-03:00",
+  "amz-B0CVXT6NQB": "2026-11-04T10:04:17.881842-03:00",
+  "amz-B0FPRPMGXG": "2026-11-04T10:11:04.477501-03:00",
+  "amz-B0CCT3ZDTX": "2026-11-04T10:15:54.473882-03:00"
  },
  "ofertas_dia": [
   {
@@ -2272,6 +2280,69 @@
    "extra": "Preço a partir de: varia por tamanho e cor",
    "entrou": "2026-11-04T09:02:33.151948-03:00",
    "dia": "2026-11-04"
+  },
+  {
+   "id": "amz-B07WCVW56S",
+   "canal": "achadinhos",
+   "nome": "Perfume Idôle Lancôme Feminino EDP",
+   "preco_antigo": 509.0,
+   "preco": 286.99,
+   "desconto": 44,
+   "link": "https://www.amazon.com.br/dp/B07WCVW56S?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61Yf6Mzgd5L._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-04T22:00:00-03:00",
+   "entrou": "2026-11-04T09:02:33.151948-03:00",
+   "dia": "2026-11-04"
+  },
+  {
+   "id": "amz-B0CVXT6NQB",
+   "canal": "marcas",
+   "nome": "Kit 2 Camisas Polo Básicas Masculinas Hering",
+   "preco_antigo": 219.99,
+   "preco": 98.78,
+   "desconto": 55,
+   "link": "https://www.amazon.com.br/dp/B0CVXT6NQB?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71KIFkXqTfL._AC_SL1500_.jpg",
+   "loja": "Loja oficial Hering na Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-04T22:00:00-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "gancho": "DUAS POLOS HERING PELO PREÇO DE UMA",
+   "entrou": "2026-11-04T09:02:33.151948-03:00",
+   "dia": "2026-11-04"
+  },
+  {
+   "id": "amz-B0FPRPMGXG",
+   "canal": "tech",
+   "nome": "Soundbar JBL Bar 800MK2 7.1 Canais Surround Removível",
+   "preco_antigo": 5599.0,
+   "preco": 3897.0,
+   "desconto": 30,
+   "link": "https://www.amazon.com.br/dp/B0FPRPMGXG?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51-OpAxjzVL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-04T22:00:00-03:00",
+   "gancho": "CINEMA EM CASA COM JBL",
+   "entrou": "2026-11-04T09:02:33.151948-03:00",
+   "dia": "2026-11-04"
+  },
+  {
+   "id": "amz-B0CCT3ZDTX",
+   "canal": "achadinhos",
+   "nome": "Protetor Solar Facial La Roche-Posay Anthelios Airlicium",
+   "preco_antigo": 99.9,
+   "preco": 60.95,
+   "desconto": 39,
+   "link": "https://www.amazon.com.br/dp/B0CCT3ZDTX?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71n+mu-HQ9L._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-04T22:00:00-03:00",
+   "entrou": "2026-11-04T09:02:33.151948-03:00",
+   "dia": "2026-11-04"
   }
  ],
  "ig_feitos": [
@@ -2399,7 +2470,10 @@
   "2026-11-03 21:20 story_convite",
   "2026-11-03 21:24 story_oferta",
   "2026-11-04 08:45 story_oferta",
-  "2026-11-04 08:52 story_oferta"
+  "2026-11-04 08:52 story_oferta",
+  "2026-11-04 feed",
+  "2026-11-04 09:35 post_achado",
+  "2026-11-04 09:38 story_oferta"
  ],
  "ig_ofertas_usadas": [
   "amz-B0GP7KDZRJ",
@@ -2567,7 +2641,9 @@
   "amz-B0GHZ991LG",
   "amz-B09KMW2N9Z",
   "amz-B0BYK9KP3W",
-  "amz-B08TMCHQJM"
+  "amz-B08TMCHQJM",
+  "amz-B0GHSCS2P5",
+  "amz-B0CW7D8Z69"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
@@ -2619,34 +2695,6 @@
  },
  "ultimo_pilar": "mito",
  "fila": [
-  {
-   "id": "amz-B07WCVW56S",
-   "canal": "achadinhos",
-   "nome": "Perfume Idôle Lancôme Feminino EDP",
-   "preco_antigo": 509.0,
-   "preco": 286.99,
-   "desconto": 44,
-   "link": "https://www.amazon.com.br/dp/B07WCVW56S?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61Yf6Mzgd5L._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-04T22:00:00-03:00",
-   "entrou": "2026-11-04T09:02:33.151948-03:00"
-  },
-  {
-   "id": "amz-B0CCT3ZDTX",
-   "canal": "achadinhos",
-   "nome": "Protetor Solar Facial La Roche-Posay Anthelios Airlicium",
-   "preco_antigo": 99.9,
-   "preco": 60.95,
-   "desconto": 39,
-   "link": "https://www.amazon.com.br/dp/B0CCT3ZDTX?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/71n+mu-HQ9L._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-04T22:00:00-03:00",
-   "entrou": "2026-11-04T09:02:33.151948-03:00"
-  },
   {
    "id": "amz-B08XQWLDKP",
    "canal": "achadinhos",
@@ -2745,22 +2793,6 @@
    "loja": "Vendido e entregue pela Amazon",
    "plataforma": "Amazon",
    "valida_ate": "2026-11-04T22:00:00-03:00",
-   "entrou": "2026-11-04T09:02:33.151948-03:00"
-  },
-  {
-   "id": "amz-B0CVXT6NQB",
-   "canal": "marcas",
-   "nome": "Kit 2 Camisas Polo Básicas Masculinas Hering",
-   "preco_antigo": 219.99,
-   "preco": 98.78,
-   "desconto": 55,
-   "link": "https://www.amazon.com.br/dp/B0CVXT6NQB?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/71KIFkXqTfL._AC_SL1500_.jpg",
-   "loja": "Loja oficial Hering na Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-04T22:00:00-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "gancho": "DUAS POLOS HERING PELO PREÇO DE UMA",
    "entrou": "2026-11-04T09:02:33.151948-03:00"
   },
   {
@@ -2900,21 +2932,6 @@
    "entrou": "2026-11-04T09:02:33.151948-03:00"
   },
   {
-   "id": "amz-B0FPRPMGXG",
-   "canal": "tech",
-   "nome": "Soundbar JBL Bar 800MK2 7.1 Canais Surround Removível",
-   "preco_antigo": 5599.0,
-   "preco": 3897.0,
-   "desconto": 30,
-   "link": "https://www.amazon.com.br/dp/B0FPRPMGXG?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51-OpAxjzVL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-04T22:00:00-03:00",
-   "gancho": "CINEMA EM CASA COM JBL",
-   "entrou": "2026-11-04T09:02:33.151948-03:00"
-  },
-  {
    "id": "amz-B0CJ3BDN7T",
    "canal": "tech",
    "nome": "Mouse Sem Fio Logitech Pebble 2 M350s Silencioso",
@@ -3020,6 +3037,21 @@
    "link": "https://s.shopee.com.br/4Ve3BRxgAE",
    "canal": "marcas",
    "entrou": "2026-11-04T09:02:33.151948-03:00"
+  },
+  {
+   "id": "amz-B0GMKWQPH1",
+   "canal": "tech",
+   "nome": "Fone Samsung Galaxy Buds4 com Galaxy AI",
+   "preco_antigo": 1599.0,
+   "preco": 899.1,
+   "desconto": 44,
+   "link": "https://www.amazon.com.br/dp/B0GMKWQPH1?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/41I4GNlRt1L._AC_SL1000_.jpg",
+   "loja": "Loja oficial Samsung na Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-04T22:00:00-03:00",
+   "gancho": "GALAXY BUDS4 COM 44% OFF",
+   "entrou": "2026-11-04T09:48:26.974497-03:00"
   }
  ],
  "menus_fixados": [
@@ -3292,7 +3324,11 @@
   "jogodepanelastramontinatunisceramico5pecas": "2026-11-04T09:12:38.388967-03:00",
   "perfumepoloblueralphlaurenmasculinoedp125ml": "2026-11-04T09:19:11.005390-03:00",
   "caixadesomjblpartyboxclub120160wrms": "2026-11-04T09:25:58.922486-03:00",
-  "tenisdecorridamizunospace6": "2026-11-04T09:29:15.153784-03:00"
+  "tenisdecorridamizunospace6": "2026-11-04T09:29:15.153784-03:00",
+  "perfumeidolelancomefemininoedp": "2026-11-04T09:59:23.448800-03:00",
+  "kit2camisaspolobasicasmasculinashering": "2026-11-04T10:04:17.881842-03:00",
+  "soundbarjblbar800mk271canaissurroundremovivel": "2026-11-04T10:11:04.477501-03:00",
+  "protetorsolarfaciallarocheposayantheliosairlicium": "2026-11-04T10:15:54.473882-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
