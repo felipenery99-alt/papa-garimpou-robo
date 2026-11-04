@@ -132,6 +132,26 @@ def avisar_dono(texto: str, prefixo: bool = True) -> None:
         print(f"[ALERTA] falhou ao avisar: {e}")
 
 
+def mensagem_dono(texto: str) -> bool:
+    """04/11 (resumo diário): texto pronto para o chat do dono, sem prefixo e sem entrar na lista de erros.
+    Quebra em partes de até 4000 caracteres (limite do Telegram). True só se todas as partes saíram."""
+    chat = os.environ.get("ALERTA_CHAT_ID", "").strip()
+    if not chat or not os.environ.get("TELEGRAM_BOT_TOKEN"):
+        print("[DONO] sem ALERTA_CHAT_ID/token; não enviei")
+        return False
+    partes = [texto[i:i + 4000] for i in range(0, len(texto), 4000)] or [""]
+    try:
+        for p in partes:
+            r = requests.post(API.format(token=_token(), metodo="sendMessage"), data={"chat_id": chat, "text": p}, timeout=30).json()
+            if not r.get("ok"):
+                print(f"[DONO] Telegram recusou: {r}")
+                return False
+        return True
+    except Exception as e:
+        print(f"[DONO] falhou: {e}")
+        return False
+
+
 def avisar_venda(texto: str) -> None:
     """Notícia boa (venda): vai só para o chat do dono, sem o prefixo de problema."""
     chat = os.environ.get("ALERTA_CHAT_ID", "").strip()

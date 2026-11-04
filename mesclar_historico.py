@@ -24,6 +24,8 @@ def mesclar(nosso: dict, remoto: dict) -> dict:
                              for n in {**a, **b}}
     if remoto.get("tg_offset") or nosso.get("tg_offset"):
         out["tg_offset"] = max(remoto.get("tg_offset") or 0, nosso.get("tg_offset") or 0)
+    if remoto.get("resumo_enviado") or nosso.get("resumo_enviado"):   # 04/11: nunca reenviar o resumo do dono
+        out["resumo_enviado"] = max(remoto.get("resumo_enviado") or "", nosso.get("resumo_enviado") or "")
     if "ig_giro" in remoto or "ig_giro" in nosso:
         out["ig_giro"] = max(remoto.get("ig_giro", 0), nosso.get("ig_giro", 0))
     # a fila desta execução não pode trazer de volta o que a outra já postou

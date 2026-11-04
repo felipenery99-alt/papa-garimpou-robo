@@ -927,6 +927,30 @@ def convites_story(h: dict, telegram, agora: datetime) -> None:
     print(f"[convites] {nome}: {len(conv.get(nome, {}).get('entradas', []))} entrada(s) hoje")
 
 
+RESUMO_DONO = Path(__file__).parent / "dados" / "resumo_dono.json"
+
+
+def enviar_resumo_dono(h: dict, telegram, agora: datetime) -> None:
+    """04/11 (dono quer receber TODO DIA o que foi feito): a rotina resultado-diário (22h07–22h20) grava
+    dados/resumo_dono.json = {"dia", "texto"}; a execução seguinte manda ao chat do dono uma única vez
+    (h["resumo_enviado"]). Vale o resumo de hoje ou de ontem (depois da meia-noite). Fora da janela de posts, de propósito."""
+    if not RESUMO_DONO.exists():
+        return
+    try:
+        r = json.loads(RESUMO_DONO.read_text(encoding="utf-8"))
+    except Exception as e:
+        print(f"[resumo] resumo_dono.json inválido: {e}")
+        return
+    dia, texto = r.get("dia", ""), (r.get("texto") or "").strip()
+    ontem = (agora.date() - timedelta(days=1)).isoformat()
+    if not texto or dia not in (agora.date().isoformat(), ontem) or h.get("resumo_enviado", "") >= dia:
+        return
+    if telegram.mensagem_dono(texto):
+        h["resumo_enviado"] = dia
+        salvar_hist(h)
+        print(f"[resumo] resumo de {dia} enviado ao dono")
+
+
 def checar_vendas_shopee(h: dict, telegram, agora: datetime) -> None:
     """01/11 (dono pediu aviso de venda): olha as conversões dos últimos 3 dias e avisa cada venda
     nova uma vez só no chat de alertas. Erro aqui nunca para a postagem; avisa no máximo 1x por dia."""
@@ -1103,6 +1127,7 @@ def main() -> int:
         rodar_instagram(h, agora)
     except Exception as e:
         telegram.avisar_dono(f"Instagram: erro geral {e}")
+    enviar_resumo_dono(h, telegram, agora)
     if not os.environ.get("TELEGRAM_BOT_TOKEN"):
         print("TELEGRAM_BOT_TOKEN ausente — nada postado")
         salvar_hist(h)
