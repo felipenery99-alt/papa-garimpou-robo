@@ -4219,6 +4219,21 @@
    "plataforma": "Amazon",
    "valida_ate": "2026-11-04T22:00:00-03:00",
    "entrou": "2026-11-03T21:34:48.461045-03:00"
+  },
+  {
+   "id": "amz-B0DJ8WR5JD",
+   "canal": "marcas",
+   "nome": "Tênis de Corrida Puma Darter Pro",
+   "preco_antigo": 499.99,
+   "preco": 237.5,
+   "desconto": 52,
+   "link": "https://www.amazon.com.br/dp/B0DJ8WR5JD?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61qZ9bN9UXL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-04T22:00:00-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "entrou": "2026-11-03T21:52:31.061155-03:00"
   }
  ],
  "menus_fixados": [
