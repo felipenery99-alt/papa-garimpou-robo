@@ -447,17 +447,17 @@
    "⚠️ Canal sem post: achadinhos 7 h, marcas 7 h, tech 7 h — abrir o app Claude e conferir as rotinas",
    "⚠️ Garimpo parado desde 15:45 — abrir o app Claude e conferir as rotinas"
   ],
-  "ultima_execucao": "21:15",
-  "execucoes": 29,
+  "ultima_execucao": "21:34",
+  "execucoes": 30,
   "telegram_posts": {
-   "achadinhos": 11,
+   "achadinhos": 12,
    "marcas": 11,
-   "tech": 11
+   "tech": 12
   },
   "ultimo_post": {
-   "achadinhos": "21:15",
+   "achadinhos": "21:44",
    "marcas": "21:24",
-   "tech": "21:06"
+   "tech": "21:51"
   },
   "convites_story": {
    "story-20261101": 0,
@@ -510,13 +510,15 @@
    "feed",
    "20:50 post_achado",
    "feed",
-   "21:05 reels"
+   "21:05 reels",
+   "21:20 story_convite",
+   "21:24 story_oferta"
   ],
   "shopee_ligada": true,
   "instagram": {
    "seguidores": 138,
    "posts": 58,
-   "reach": 147,
+   "reach": 148,
    "profile_views": 66,
    "website_clicks": 0,
    "stories_ativos": 25
