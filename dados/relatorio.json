@@ -530,16 +530,16 @@
    "⚠️ Garimpo parado desde 03/11 20:04 — abrir o app Claude e conferir as rotinas\nPouca oferta na fila: tech 2.",
    "⚠️ Garimpo parado desde 12:46 — abrir o app Claude e conferir as rotinas\nPouca oferta na fila: tech 2."
   ],
-  "ultima_execucao": "17:46",
-  "execucoes": 16,
+  "ultima_execucao": "18:03",
+  "execucoes": 17,
   "telegram_posts": {
    "achadinhos": 14,
-   "marcas": 10,
+   "marcas": 11,
    "tech": 10
   },
   "ultimo_post": {
    "achadinhos": "18:02",
-   "marcas": "17:18",
+   "marcas": "18:14",
    "tech": "17:29"
   },
   "ultimo_garimpo": "04/11 17:48",
@@ -563,26 +563,21 @@
    "09:38 story_oferta",
    "10:20 story_oferta",
    "10:24 story_oferta",
-   "feed",
    "11:50 carrossel_top5",
    "11:56 story_oferta",
    "12:15 story_top4",
    "12:19 story_oferta",
-   "feed",
    "12:40 reels",
    "12:47 story_oferta",
    "13:20 story_convite",
    "13:22 story_oferta",
    "14:08 story_oferta",
    "15:00 adivinha",
-   "feed",
    "14:25 post_achado",
    "15:03 story_oferta",
    "16:05 adivinha_resposta",
    "16:44 story_oferta",
-   "feed",
    "16:55 post_achado",
-   "feed",
    "17:30 reels",
    "17:36 story_oferta"
   ],
@@ -590,8 +585,8 @@
   "instagram": {
    "seguidores": 145,
    "posts": 64,
-   "reach": 2477,
-   "profile_views": 84,
+   "reach": 2549,
+   "profile_views": 85,
    "website_clicks": 1,
    "stories_ativos": 25
   },
