@@ -443,7 +443,10 @@
   "2026-11-04 achadinhos 18:02 amz-B08ZFKKPDS",
   "2026-11-04 marcas 18:14 shopee-22592962752",
   "2026-11-04 tech 18:30 amz-B0D6NLHV8N",
-  "2026-11-04 achadinhos 18:42 amz-B0CD14V4RQ"
+  "2026-11-04 achadinhos 18:42 amz-B0CD14V4RQ",
+  "2026-11-04 achadinhos 18:53 amz-B077L9HSQL",
+  "2026-11-04 marcas 19:06 amz-B0CQ7N63YB",
+  "2026-11-04 achadinhos 19:12 shopee-58209674589"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -895,7 +898,10 @@
   "amz-B08ZFKKPDS": "2026-11-04T18:02:54.066582-03:00",
   "shopee-22592962752": "2026-11-04T18:14:33.331440-03:00",
   "amz-B0D6NLHV8N": "2026-11-04T18:30:22.767187-03:00",
-  "amz-B0CD14V4RQ": "2026-11-04T18:42:09.733592-03:00"
+  "amz-B0CD14V4RQ": "2026-11-04T18:42:09.733592-03:00",
+  "amz-B077L9HSQL": "2026-11-04T18:53:13.244967-03:00",
+  "amz-B0CQ7N63YB": "2026-11-04T19:06:33.886721-03:00",
+  "shopee-58209674589": "2026-11-04T19:12:37.483253-03:00"
  },
  "ofertas_dia": [
   {
@@ -2858,6 +2864,56 @@
    "gancho": "AIR FRYER BARATINHA DA PHILCO",
    "entrou": "2026-11-04T17:46:21.913058-03:00",
    "dia": "2026-11-04"
+  },
+  {
+   "id": "amz-B077L9HSQL",
+   "canal": "achadinhos",
+   "nome": "Jogo de Panelas Tramontina Aço Inox Fundo Triplo 3 Peças",
+   "preco_antigo": 403.0,
+   "preco": 282.07,
+   "desconto": 30,
+   "link": "https://www.amazon.com.br/dp/B077L9HSQL?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61jCjOLDyzL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-04T22:00:00-03:00",
+   "entrou": "2026-11-04T17:46:21.913058-03:00",
+   "dia": "2026-11-04"
+  },
+  {
+   "id": "amz-B0CQ7N63YB",
+   "canal": "marcas",
+   "nome": "Tênis New Balance 574V2 Masculino",
+   "preco_antigo": 599.99,
+   "preco": 309.9,
+   "desconto": 48,
+   "link": "https://www.amazon.com.br/dp/B0CQ7N63YB?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51dpvtoj5mL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-05T22:00:00-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "gancho": "NEW BALANCE 574 QUASE PELA METADE",
+   "entrou": "2026-11-04T17:29:28.556253-03:00",
+   "dia": "2026-11-04"
+  },
+  {
+   "id": "shopee-58209674589",
+   "plataforma": "Shopee",
+   "nome": "Desodorante Corporal Natura Kaiak O2 Masculino 100 ml",
+   "loja": "NATURA",
+   "loja_oficial": true,
+   "preco": 34.14,
+   "preco_antigo": 56.9,
+   "desconto": 40,
+   "vendas": 522,
+   "nota": 4.9,
+   "comissao_pct": 13.0,
+   "imagem": "https://cf.shopee.com.br/file/sg-11134201-820m1-mnk66jbfb01vdf",
+   "link": "https://s.shopee.com.br/7fb8S7JTK0",
+   "canal": "achadinhos",
+   "entrou": "2026-11-04T17:46:21.913058-03:00",
+   "dia": "2026-11-04"
   }
  ],
  "ig_feitos": [
@@ -3005,7 +3061,8 @@
   "2026-11-04 17:30 reels",
   "2026-11-04 17:36 story_oferta",
   "2026-11-04 18:05 a_ou_b",
-  "2026-11-04 18:09 story_oferta"
+  "2026-11-04 18:09 story_oferta",
+  "2026-11-04 18:42 story_oferta"
  ],
  "ig_ofertas_usadas": [
   "amz-B0GP7KDZRJ",
@@ -3191,7 +3248,8 @@
   "amz-B0DH9Y4MMF",
   "shopee-22592962752",
   "amz-B0FFTQD31C",
-  "amz-B0B1LJFBPY"
+  "amz-B0B1LJFBPY",
+  "amz-B0DB8TRNZX"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
@@ -3243,51 +3301,6 @@
  },
  "ultimo_pilar": "mito",
  "fila": [
-  {
-   "id": "amz-B0FH3W32GS",
-   "canal": "marcas",
-   "nome": "Tênis Fila Racer Fastpace Masculino",
-   "preco_antigo": 499.99,
-   "preco": 209.9,
-   "desconto": 58,
-   "link": "https://www.amazon.com.br/dp/B0FH3W32GS?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/518oCv3h4wL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-05T22:00:00-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "entrou": "2026-11-04T17:29:28.556253-03:00"
-  },
-  {
-   "id": "amz-B0CQ7N63YB",
-   "canal": "marcas",
-   "nome": "Tênis New Balance 574V2 Masculino",
-   "preco_antigo": 599.99,
-   "preco": 309.9,
-   "desconto": 48,
-   "link": "https://www.amazon.com.br/dp/B0CQ7N63YB?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51dpvtoj5mL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-05T22:00:00-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "gancho": "NEW BALANCE 574 QUASE PELA METADE",
-   "entrou": "2026-11-04T17:29:28.556253-03:00"
-  },
-  {
-   "id": "amz-B077L9HSQL",
-   "canal": "achadinhos",
-   "nome": "Jogo de Panelas Tramontina Aço Inox Fundo Triplo 3 Peças",
-   "preco_antigo": 403.0,
-   "preco": 282.07,
-   "desconto": 30,
-   "link": "https://www.amazon.com.br/dp/B077L9HSQL?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61jCjOLDyzL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-04T22:00:00-03:00",
-   "entrou": "2026-11-04T17:46:21.913058-03:00"
-  },
   {
    "id": "amz-B0DXQ7B33K",
    "canal": "marcas",
@@ -3376,23 +3389,6 @@
    "plataforma": "Amazon",
    "valida_ate": "2026-11-04T22:00:00-03:00",
    "extra": "Preço a partir de: varia por tamanho e cor",
-   "entrou": "2026-11-04T17:46:21.913058-03:00"
-  },
-  {
-   "id": "shopee-58209674589",
-   "plataforma": "Shopee",
-   "nome": "Desodorante Corporal Natura Kaiak O2 Masculino 100 ml",
-   "loja": "NATURA",
-   "loja_oficial": true,
-   "preco": 34.14,
-   "preco_antigo": 56.9,
-   "desconto": 40,
-   "vendas": 522,
-   "nota": 4.9,
-   "comissao_pct": 13.0,
-   "imagem": "https://cf.shopee.com.br/file/sg-11134201-820m1-mnk66jbfb01vdf",
-   "link": "https://s.shopee.com.br/7fb8S7JTK0",
-   "canal": "achadinhos",
    "entrou": "2026-11-04T17:46:21.913058-03:00"
   },
   {
@@ -4129,7 +4125,10 @@
   "perfumeazzarothemostwantedintensemasculinoedp": "2026-11-04T18:02:54.066582-03:00",
   "creatinamonohidratada100gmaxtitanium": "2026-11-04T18:14:33.331440-03:00",
   "headsetgamerjblquantum100m2commicrofone": "2026-11-04T18:30:22.767187-03:00",
-  "airfryerphilcopfr15pg44l1500w": "2026-11-04T18:42:09.733592-03:00"
+  "airfryerphilcopfr15pg44l1500w": "2026-11-04T18:42:09.733592-03:00",
+  "jogodepanelastramontinaacoinoxfundotriplo3pecas": "2026-11-04T18:53:13.244967-03:00",
+  "tenisnewbalance574v2masculino": "2026-11-04T19:06:33.886721-03:00",
+  "desodorantecorporalnaturakaiako2masculino100ml": "2026-11-04T19:12:37.483253-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
