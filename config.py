@@ -80,6 +80,7 @@ VIGIA_JANELA = ("08:00", "21:00")
 VIGIA_GARIMPO_H = 3
 VIGIA_POST_H = 2
 VIGIA_REPETIR_H = 3
+VIGIA_FILA_MIN = 3     # 03/11: garimpo velho só gera aviso se algum canal tiver menos que isso de ofertas válidas na fila
 BUSCA_EXTRA_TERMOS = 4        # canal parado e sem item na fila: busca extra (páginas 3–4) em N termos sorteados do nicho
 FILA_VALIDADE_H = 4            # oferta parada na fila há mais que isso sai (o preço pode ter mudado)
 # Horários das execuções do robo.yml em Brasília (para a fila parar antes da próxima)

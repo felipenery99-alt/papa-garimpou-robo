@@ -415,16 +415,23 @@ def vigiar(h: dict, telegram, agora: datetime, ult_garimpo: datetime | None) -> 
         ult = h.get(chave)
         return not ult or agora - datetime.fromisoformat(ult) >= timedelta(hours=config.VIGIA_REPETIR_H)
 
-    na_fila = {c: sum(1 for f in h.get("fila", []) if f.get("canal") == c) for c in config.CANAIS}
+    # válidas = ainda não postadas e dentro da validade
+    na_fila = {c: sum(1 for f in h.get("fila", []) if f.get("canal") == c
+                      and not (f.get("valida_ate") and f["valida_ate"] < agora.isoformat())
+                      and not ja_postado_recente(h, f["id"], agora, f.get("nome", "")))
+               for c in config.CANAIS}
     vazios = [c for c, n in na_fila.items() if n == 0]
-    velho = ult_garimpo is None or agora - ult_garimpo > timedelta(hours=config.VIGIA_GARIMPO_H)
+    # 03/11 18h59 alarme falso: a rotina não garimpa (nem faz commit) com a fila cheia. Commit velho só é
+    # problema se algum canal tiver menos de VIGIA_FILA_MIN ofertas válidas.
+    poucos = [c for c, n in na_fila.items() if n < config.VIGIA_FILA_MIN]
+    velho = (ult_garimpo is None or agora - ult_garimpo > timedelta(hours=config.VIGIA_GARIMPO_H)) and bool(poucos)
     print(f"[vigia] último garimpo {ult_garimpo:%d/%m %H:%M}" if ult_garimpo else "[vigia] último garimpo: não achei",
-          f"| fila {na_fila}")
+          f"| fila válida {na_fila}")
     if (velho or vazios) and pode("vigia_aviso_garimpo"):
         desde = "?" if not ult_garimpo else (f"{ult_garimpo:%H:%M}" if ult_garimpo.date() == agora.date()
                                              else f"{ult_garimpo:%d/%m %H:%M}")
         topo = (f"⚠️ Garimpo parado desde {desde}" if velho else f"⚠️ Fila vazia ({', '.join(vazios)}), último garimpo {desde}")
-        detalhe = f"\nSem oferta na fila: {', '.join(vazios)}." if velho and vazios else ""
+        detalhe = ("\nPouca oferta na fila: " + ", ".join(f"{c} {na_fila[c]}" for c in poucos) + ".") if velho else ""
         telegram.avisar_dono(f"{topo} — abrir o app Claude e conferir as rotinas{detalhe}", prefixo=False)
         h["vigia_aviso_garimpo"] = agora.isoformat()
     sem_post = {c: m for c in config.CANAIS if (m := minutos_parado(h, c, agora)) > config.VIGIA_POST_H * 60}
