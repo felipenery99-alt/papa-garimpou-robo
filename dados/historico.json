@@ -449,7 +449,8 @@
   "2026-11-04 achadinhos 19:12 shopee-58209674589",
   "2026-11-04 tech 19:22 amz-B0CRTYZG5C",
   "2026-11-04 tech 19:36 amz-B01JPOLKDW",
-  "2026-11-04 achadinhos 19:47 amz-B0B872NVW4"
+  "2026-11-04 achadinhos 19:47 amz-B0B872NVW4",
+  "2026-11-04 marcas 19:58 amz-B0H4RGVYS2"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -907,7 +908,8 @@
   "shopee-58209674589": "2026-11-04T19:12:37.483253-03:00",
   "amz-B0CRTYZG5C": "2026-11-04T19:22:33.915284-03:00",
   "amz-B01JPOLKDW": "2026-11-04T19:36:41.616437-03:00",
-  "amz-B0B872NVW4": "2026-11-04T19:47:08.844079-03:00"
+  "amz-B0B872NVW4": "2026-11-04T19:47:08.844079-03:00",
+  "amz-B0H4RGVYS2": "2026-11-04T19:58:00.916150-03:00"
  },
  "ofertas_dia": [
   {
@@ -2967,6 +2969,23 @@
    "valida_ate": "2026-11-05T22:00:00-03:00",
    "entrou": "2026-11-04T18:03:20.894594-03:00",
    "dia": "2026-11-04"
+  },
+  {
+   "id": "amz-B0H4RGVYS2",
+   "canal": "marcas",
+   "nome": "Tênis Puma Caven 2.0 Feminino",
+   "preco_antigo": 449.99,
+   "preco": 212.9,
+   "desconto": 53,
+   "link": "https://www.amazon.com.br/dp/B0H4RGVYS2?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61XvSb4WuOL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-04T22:00:00-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "gancho": "PUMA PELA METADE DO PREÇO",
+   "entrou": "2026-11-04T17:46:21.913058-03:00",
+   "dia": "2026-11-04"
   }
  ],
  "ig_feitos": [
@@ -3115,7 +3134,10 @@
   "2026-11-04 17:36 story_oferta",
   "2026-11-04 18:05 a_ou_b",
   "2026-11-04 18:09 story_oferta",
-  "2026-11-04 18:42 story_oferta"
+  "2026-11-04 18:42 story_oferta",
+  "2026-11-04 feed",
+  "2026-11-04 19:15 post_achado",
+  "2026-11-04 19:17 story_oferta"
  ],
  "ig_ofertas_usadas": [
   "amz-B0GP7KDZRJ",
@@ -3302,7 +3324,9 @@
   "shopee-22592962752",
   "amz-B0FFTQD31C",
   "amz-B0B1LJFBPY",
-  "amz-B0DB8TRNZX"
+  "amz-B0DB8TRNZX",
+  "shopee-58209674589",
+  "amz-B0D27SFGFJ"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
@@ -3354,37 +3378,6 @@
  },
  "ultimo_pilar": "mito",
  "fila": [
-  {
-   "id": "amz-B0DJ8WR5JD",
-   "canal": "marcas",
-   "nome": "Tênis de Corrida Puma Darter Pro",
-   "preco_antigo": 499.99,
-   "preco": 237.5,
-   "desconto": 52,
-   "link": "https://www.amazon.com.br/dp/B0DJ8WR5JD?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61qZ9bN9UXL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-04T22:00:00-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "entrou": "2026-11-04T17:46:21.913058-03:00"
-  },
-  {
-   "id": "amz-B0H4RGVYS2",
-   "canal": "marcas",
-   "nome": "Tênis Puma Caven 2.0 Feminino",
-   "preco_antigo": 449.99,
-   "preco": 212.9,
-   "desconto": 53,
-   "link": "https://www.amazon.com.br/dp/B0H4RGVYS2?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61XvSb4WuOL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-04T22:00:00-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "gancho": "PUMA PELA METADE DO PREÇO",
-   "entrou": "2026-11-04T17:46:21.913058-03:00"
-  },
   {
    "id": "amz-B0BPJS7Y2J",
    "canal": "marcas",
@@ -3786,6 +3779,64 @@
    "valida_ate": "2026-11-05T22:00:00-03:00",
    "extra": "Preço a partir de: varia por tamanho e cor",
    "entrou": "2026-11-04T19:12:58.693089-03:00"
+  },
+  {
+   "id": "amz-B0BT22CQQ9",
+   "canal": "achadinhos",
+   "nome": "Aspirador de Pó Vertical WAP High Speed Plus 3 em 1",
+   "preco_antigo": 199.9,
+   "preco": 129.9,
+   "desconto": 35,
+   "link": "https://www.amazon.com.br/dp/B0BT22CQQ9?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61wBRlZjDQL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-05T22:00:00-03:00",
+   "entrou": "2026-11-04T19:47:30.643702-03:00"
+  },
+  {
+   "id": "amz-B0DXQ7B33K",
+   "canal": "marcas",
+   "nome": "Garrafa Térmica Stanley Aerolight Flip Straw 473ml",
+   "preco_antigo": 269.0,
+   "preco": 141.9,
+   "desconto": 47,
+   "link": "https://www.amazon.com.br/dp/B0DXQ7B33K?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/4161-KgeZfL._AC_SL1200_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-04T22:00:00-03:00",
+   "entrou": "2026-11-04T19:47:30.643702-03:00"
+  },
+  {
+   "id": "amz-B0GMKWQPH1",
+   "canal": "tech",
+   "nome": "Fone Samsung Galaxy Buds4 com Galaxy AI",
+   "preco_antigo": 1599.0,
+   "preco": 899.1,
+   "desconto": 44,
+   "link": "https://www.amazon.com.br/dp/B0GMKWQPH1?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/41I4GNlRt1L._AC_SL1000_.jpg",
+   "loja": "Loja oficial Samsung na Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-04T22:00:00-03:00",
+   "gancho": "GALAXY BUDS4 COM 44% OFF",
+   "entrou": "2026-11-04T19:47:30.643702-03:00"
+  },
+  {
+   "id": "amz-B0GVPGKM4P",
+   "canal": "tech",
+   "nome": "Fone Bluetooth JBL Tune 780NC com Cancelamento de Ruído",
+   "preco_antigo": 560.52,
+   "preco": 378.04,
+   "desconto": 33,
+   "link": "https://www.amazon.com.br/dp/B0GVPGKM4P?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51MnMPeZUWL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-05T22:00:00-03:00",
+   "gancho": "JBL COM CANCELAMENTO DE RUÍDO POR MENOS",
+   "entrou": "2026-11-04T19:47:30.643702-03:00"
   }
  ],
  "menus_fixados": [
@@ -4097,7 +4148,8 @@
   "desodorantecorporalnaturakaiako2masculino100ml": "2026-11-04T19:12:37.483253-03:00",
   "fonebluetoothankersoundcorep30icomanc": "2026-11-04T19:22:33.915284-03:00",
   "mousesemfiologitechm330silentplus": "2026-11-04T19:36:41.616437-03:00",
-  "protetorsolarfaciallarocheposayanthelioscomcor": "2026-11-04T19:47:08.844079-03:00"
+  "protetorsolarfaciallarocheposayanthelioscomcor": "2026-11-04T19:47:08.844079-03:00",
+  "tenispumacaven20feminino": "2026-11-04T19:58:00.916150-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
