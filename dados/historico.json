@@ -424,7 +424,11 @@
   "2026-11-04 achadinhos 12:39 amz-B0DB8TRNZX",
   "2026-11-04 marcas 13:07 amz-B0917MY5RD",
   "2026-11-04 tech 13:41 amz-B0CVCG6S9C",
-  "2026-11-04 achadinhos 13:55 amz-B0D27SFGFJ"
+  "2026-11-04 achadinhos 13:55 amz-B0D27SFGFJ",
+  "2026-11-04 marcas 14:27 amz-B0FFTQD31C",
+  "2026-11-04 tech 14:34 amz-B0BYWL962Q",
+  "2026-11-04 achadinhos 14:45 amz-B08R9341ZB",
+  "2026-11-04 tech 14:55 amz-B0FPG9431G"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -857,7 +861,11 @@
   "amz-B0DB8TRNZX": "2026-11-04T12:39:05.453362-03:00",
   "amz-B0917MY5RD": "2026-11-04T13:07:17.383148-03:00",
   "amz-B0CVCG6S9C": "2026-11-04T13:41:39.885205-03:00",
-  "amz-B0D27SFGFJ": "2026-11-04T13:55:49.013019-03:00"
+  "amz-B0D27SFGFJ": "2026-11-04T13:55:49.013019-03:00",
+  "amz-B0FFTQD31C": "2026-11-04T14:27:07.685844-03:00",
+  "amz-B0BYWL962Q": "2026-11-04T14:34:51.498160-03:00",
+  "amz-B08R9341ZB": "2026-11-04T14:45:24.564881-03:00",
+  "amz-B0FPG9431G": "2026-11-04T14:55:46.776574-03:00"
  },
  "ofertas_dia": [
   {
@@ -2518,6 +2526,70 @@
    "valida_ate": "2026-11-05T22:00:00-03:00",
    "entrou": "2026-11-04T12:57:37.447920-03:00",
    "dia": "2026-11-04"
+  },
+  {
+   "id": "amz-B0FFTQD31C",
+   "canal": "marcas",
+   "nome": "Tênis Mizuno Cool Ride 3",
+   "preco_antigo": 399.99,
+   "preco": 189.99,
+   "desconto": 53,
+   "link": "https://www.amazon.com.br/dp/B0FFTQD31C?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71DdS91uxyL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-05T22:00:00-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "gancho": "MIZUNO PELA METADE",
+   "entrou": "2026-11-04T12:57:37.447920-03:00",
+   "dia": "2026-11-04"
+  },
+  {
+   "id": "amz-B0BYWL962Q",
+   "canal": "tech",
+   "nome": "Fone Bluetooth JBL Tune 720BT Over-Ear",
+   "preco_antigo": 399.0,
+   "preco": 269.09,
+   "desconto": 33,
+   "link": "https://www.amazon.com.br/dp/B0BYWL962Q?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51hHlj4OqZL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-05T22:00:00-03:00",
+   "entrou": "2026-11-04T12:57:37.447920-03:00",
+   "dia": "2026-11-04"
+  },
+  {
+   "id": "amz-B08R9341ZB",
+   "canal": "achadinhos",
+   "nome": "Fritadeira Air Fry Oven Britânia BFR2100P 12L",
+   "preco_antigo": 714.0,
+   "preco": 386.09,
+   "desconto": 46,
+   "link": "https://www.amazon.com.br/dp/B08R9341ZB?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/518sbXviNwL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-05T22:00:00-03:00",
+   "extra": "Voltagem 220V",
+   "gancho": "AIR FRYER FORNO QUASE PELA METADE",
+   "entrou": "2026-11-04T12:57:37.447920-03:00",
+   "dia": "2026-11-04"
+  },
+  {
+   "id": "amz-B0FPG9431G",
+   "canal": "tech",
+   "nome": "Smartwatch Huawei Watch GT 6 46mm",
+   "preco_antigo": 1999.0,
+   "preco": 1206.4,
+   "desconto": 40,
+   "link": "https://www.amazon.com.br/dp/B0FPG9431G?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71dY3VzFmYL._AC_SL1500_.jpg",
+   "loja": "Vendido por parceiro · entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-05T22:00:00-03:00",
+   "entrou": "2026-11-04T12:57:37.447920-03:00",
+   "dia": "2026-11-04"
   }
  ],
  "ig_feitos": [
@@ -2660,7 +2732,8 @@
   "2026-11-04 12:40 reels",
   "2026-11-04 12:47 story_oferta",
   "2026-11-04 13:20 story_convite",
-  "2026-11-04 13:22 story_oferta"
+  "2026-11-04 13:22 story_oferta",
+  "2026-11-04 14:08 story_oferta"
  ],
  "ig_ofertas_usadas": [
   "amz-B0GP7KDZRJ",
@@ -2836,7 +2909,8 @@
   "amz-B07WCVW56S",
   "amz-B0CVXT6NQB",
   "amz-B0FPRPMGXG",
-  "amz-B0CCT3ZDTX"
+  "amz-B0CCT3ZDTX",
+  "amz-B08XQWLDKP"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
@@ -2888,22 +2962,6 @@
  },
  "ultimo_pilar": "mito",
  "fila": [
-  {
-   "id": "amz-B08R9341ZB",
-   "canal": "achadinhos",
-   "nome": "Fritadeira Air Fry Oven Britânia BFR2100P 12L",
-   "preco_antigo": 714.0,
-   "preco": 386.09,
-   "desconto": 46,
-   "link": "https://www.amazon.com.br/dp/B08R9341ZB?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/518sbXviNwL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-05T22:00:00-03:00",
-   "extra": "Voltagem 220V",
-   "gancho": "AIR FRYER FORNO QUASE PELA METADE",
-   "entrou": "2026-11-04T12:57:37.447920-03:00"
-  },
   {
    "id": "amz-B0FHGDL31P",
    "canal": "achadinhos",
@@ -2975,52 +3033,6 @@
    "loja": "Vendido e entregue pela Amazon",
    "plataforma": "Amazon",
    "valida_ate": "2026-11-05T22:00:00-03:00",
-   "entrou": "2026-11-04T12:57:37.447920-03:00"
-  },
-  {
-   "id": "amz-B0G72J3245",
-   "canal": "marcas",
-   "nome": "Tênis New Balance BB80 Unissex",
-   "preco_antigo": 399.99,
-   "preco": 209.9,
-   "desconto": 48,
-   "link": "https://www.amazon.com.br/dp/B0G72J3245?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/512G2QQesLL._AC_SL1200_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-05T22:00:00-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "entrou": "2026-11-04T12:57:37.447920-03:00"
-  },
-  {
-   "id": "amz-B0FFTQD31C",
-   "canal": "marcas",
-   "nome": "Tênis Mizuno Cool Ride 3",
-   "preco_antigo": 399.99,
-   "preco": 189.99,
-   "desconto": 53,
-   "link": "https://www.amazon.com.br/dp/B0FFTQD31C?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/71DdS91uxyL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-05T22:00:00-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "gancho": "MIZUNO PELA METADE",
-   "entrou": "2026-11-04T12:57:37.447920-03:00"
-  },
-  {
-   "id": "amz-B0D1YL2QLB",
-   "canal": "marcas",
-   "nome": "Tênis de Corrida Puma Pounce Lite",
-   "preco_antigo": 449.99,
-   "preco": 230.9,
-   "desconto": 49,
-   "link": "https://www.amazon.com.br/dp/B0D1YL2QLB?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61K-WglX+7L._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-05T22:00:00-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
    "entrou": "2026-11-04T12:57:37.447920-03:00"
   },
   {
@@ -3098,34 +3110,6 @@
    "valida_ate": "2026-11-05T22:00:00-03:00",
    "extra": "Preço a partir de: varia por tamanho e cor",
    "gancho": "NEW BALANCE 574 QUASE PELA METADE",
-   "entrou": "2026-11-04T12:57:37.447920-03:00"
-  },
-  {
-   "id": "amz-B0BYWL962Q",
-   "canal": "tech",
-   "nome": "Fone Bluetooth JBL Tune 720BT Over-Ear",
-   "preco_antigo": 399.0,
-   "preco": 269.09,
-   "desconto": 33,
-   "link": "https://www.amazon.com.br/dp/B0BYWL962Q?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51hHlj4OqZL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-05T22:00:00-03:00",
-   "entrou": "2026-11-04T12:57:37.447920-03:00"
-  },
-  {
-   "id": "amz-B0FPG9431G",
-   "canal": "tech",
-   "nome": "Smartwatch Huawei Watch GT 6 46mm",
-   "preco_antigo": 1999.0,
-   "preco": 1206.4,
-   "desconto": 40,
-   "link": "https://www.amazon.com.br/dp/B0FPG9431G?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/71dY3VzFmYL._AC_SL1500_.jpg",
-   "loja": "Vendido por parceiro · entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-05T22:00:00-03:00",
    "entrou": "2026-11-04T12:57:37.447920-03:00"
   },
   {
@@ -3398,6 +3382,21 @@
    "link": "https://s.shopee.com.br/4Ve3BRxgAE",
    "canal": "marcas",
    "entrou": "2026-11-04T13:32:43.389601-03:00"
+  },
+  {
+   "id": "amz-B0GMKWQPH1",
+   "canal": "tech",
+   "nome": "Fone Samsung Galaxy Buds4 com Galaxy AI",
+   "preco_antigo": 1599.0,
+   "preco": 899.1,
+   "desconto": 44,
+   "link": "https://www.amazon.com.br/dp/B0GMKWQPH1?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/41I4GNlRt1L._AC_SL1000_.jpg",
+   "loja": "Loja oficial Samsung na Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-04T22:00:00-03:00",
+   "gancho": "GALAXY BUDS4 COM 44% OFF",
+   "entrou": "2026-11-04T14:18:36.579049-03:00"
   }
  ],
  "menus_fixados": [
@@ -3684,7 +3683,11 @@
   "protetorsolarfacialvichycapitalsoleiluvclear": "2026-11-04T12:39:05.453362-03:00",
   "camisetabasicamasculinaheringmalhah": "2026-11-04T13:07:17.383148-03:00",
   "smartwatchsamsunggalaxyfit3tela16prata": "2026-11-04T13:41:39.885205-03:00",
-  "liquidificadorarnoultraforcepro1100wln93": "2026-11-04T13:55:49.013019-03:00"
+  "liquidificadorarnoultraforcepro1100wln93": "2026-11-04T13:55:49.013019-03:00",
+  "tenismizunocoolride3": "2026-11-04T14:27:07.685844-03:00",
+  "fonebluetoothjbltune720btoverear": "2026-11-04T14:34:51.498160-03:00",
+  "fritadeiraairfryovenbritaniabfr2100p12l": "2026-11-04T14:45:24.564881-03:00",
+  "smartwatchhuaweiwatchgt646mm": "2026-11-04T14:55:46.776574-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
