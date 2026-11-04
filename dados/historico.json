@@ -442,7 +442,8 @@
   "2026-11-04 achadinhos 17:55 amz-B0GP2QD973",
   "2026-11-04 achadinhos 18:02 amz-B08ZFKKPDS",
   "2026-11-04 marcas 18:14 shopee-22592962752",
-  "2026-11-04 tech 18:30 amz-B0D6NLHV8N"
+  "2026-11-04 tech 18:30 amz-B0D6NLHV8N",
+  "2026-11-04 achadinhos 18:42 amz-B0CD14V4RQ"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -893,7 +894,8 @@
   "amz-B0GP2QD973": "2026-11-04T17:55:54.625082-03:00",
   "amz-B08ZFKKPDS": "2026-11-04T18:02:54.066582-03:00",
   "shopee-22592962752": "2026-11-04T18:14:33.331440-03:00",
-  "amz-B0D6NLHV8N": "2026-11-04T18:30:22.767187-03:00"
+  "amz-B0D6NLHV8N": "2026-11-04T18:30:22.767187-03:00",
+  "amz-B0CD14V4RQ": "2026-11-04T18:42:09.733592-03:00"
  },
  "ofertas_dia": [
   {
@@ -2840,6 +2842,22 @@
    "valida_ate": "2026-11-04T22:00:00-03:00",
    "entrou": "2026-11-04T17:46:21.913058-03:00",
    "dia": "2026-11-04"
+  },
+  {
+   "id": "amz-B0CD14V4RQ",
+   "canal": "achadinhos",
+   "nome": "Air Fryer Philco PFR15PG 4,4L 1500W",
+   "preco_antigo": 391.0,
+   "preco": 237.4,
+   "desconto": 39,
+   "link": "https://www.amazon.com.br/dp/B0CD14V4RQ?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51Cgk25dfHL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-04T22:00:00-03:00",
+   "gancho": "AIR FRYER BARATINHA DA PHILCO",
+   "entrou": "2026-11-04T17:46:21.913058-03:00",
+   "dia": "2026-11-04"
   }
  ],
  "ig_feitos": [
@@ -3255,21 +3273,6 @@
    "extra": "Preço a partir de: varia por tamanho e cor",
    "gancho": "NEW BALANCE 574 QUASE PELA METADE",
    "entrou": "2026-11-04T17:29:28.556253-03:00"
-  },
-  {
-   "id": "amz-B0CD14V4RQ",
-   "canal": "achadinhos",
-   "nome": "Air Fryer Philco PFR15PG 4,4L 1500W",
-   "preco_antigo": 391.0,
-   "preco": 237.4,
-   "desconto": 39,
-   "link": "https://www.amazon.com.br/dp/B0CD14V4RQ?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51Cgk25dfHL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-04T22:00:00-03:00",
-   "gancho": "AIR FRYER BARATINHA DA PHILCO",
-   "entrou": "2026-11-04T17:46:21.913058-03:00"
   },
   {
    "id": "amz-B077L9HSQL",
@@ -4125,7 +4128,8 @@
   "jogodepanelastramontinaveroneseceramico5pecas": "2026-11-04T17:55:54.625082-03:00",
   "perfumeazzarothemostwantedintensemasculinoedp": "2026-11-04T18:02:54.066582-03:00",
   "creatinamonohidratada100gmaxtitanium": "2026-11-04T18:14:33.331440-03:00",
-  "headsetgamerjblquantum100m2commicrofone": "2026-11-04T18:30:22.767187-03:00"
+  "headsetgamerjblquantum100m2commicrofone": "2026-11-04T18:30:22.767187-03:00",
+  "airfryerphilcopfr15pg44l1500w": "2026-11-04T18:42:09.733592-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
