@@ -419,7 +419,8 @@
   "2026-11-04 marcas 10:49 amz-B0FWS3N7RN",
   "2026-11-04 tech 10:52 amz-B0CJ3BDN7T",
   "2026-11-04 achadinhos 10:58 amz-B008SBKTZ4",
-  "2026-11-04 marcas 11:05 amz-B0DH9Y4MMF"
+  "2026-11-04 marcas 11:05 amz-B0DH9Y4MMF",
+  "2026-11-04 tech 12:16 amz-B0B1LJFBPY"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -847,7 +848,8 @@
   "amz-B0FWS3N7RN": "2026-11-04T10:49:19.449980-03:00",
   "amz-B0CJ3BDN7T": "2026-11-04T10:52:42.376948-03:00",
   "amz-B008SBKTZ4": "2026-11-04T10:58:19.403926-03:00",
-  "amz-B0DH9Y4MMF": "2026-11-04T11:05:07.600386-03:00"
+  "amz-B0DH9Y4MMF": "2026-11-04T11:05:07.600386-03:00",
+  "amz-B0B1LJFBPY": "2026-11-04T12:16:30.624485-03:00"
  },
  "ofertas_dia": [
   {
@@ -2430,6 +2432,21 @@
    "extra": "Preço a partir de: varia por tamanho e cor",
    "entrou": "2026-11-04T09:02:33.151948-03:00",
    "dia": "2026-11-04"
+  },
+  {
+   "id": "amz-B0B1LJFBPY",
+   "canal": "tech",
+   "nome": "Fone Bluetooth Anker Soundcore Space A40 com ANC",
+   "preco_antigo": 569.0,
+   "preco": 350.55,
+   "desconto": 38,
+   "link": "https://www.amazon.com.br/dp/B0B1LJFBPY?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51pVkV-FDQL._AC_SL1500_.jpg",
+   "loja": "Loja oficial Anker · entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-04T22:00:00-03:00",
+   "entrou": "2026-11-04T09:02:33.151948-03:00",
+   "dia": "2026-11-04"
   }
  ],
  "ig_feitos": [
@@ -2562,7 +2579,10 @@
   "2026-11-04 09:35 post_achado",
   "2026-11-04 09:38 story_oferta",
   "2026-11-04 10:20 story_oferta",
-  "2026-11-04 10:24 story_oferta"
+  "2026-11-04 10:24 story_oferta",
+  "2026-11-04 feed",
+  "2026-11-04 11:50 carrossel_top5",
+  "2026-11-04 11:56 story_oferta"
  ],
  "ig_ofertas_usadas": [
   "amz-B0GP7KDZRJ",
@@ -2734,7 +2754,8 @@
   "amz-B0GHSCS2P5",
   "amz-B0CW7D8Z69",
   "amz-B017WWSY5Q",
-  "amz-B0G4SQNDHB"
+  "amz-B0G4SQNDHB",
+  "amz-B07WCVW56S"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
@@ -2962,20 +2983,6 @@
    "plataforma": "Amazon",
    "valida_ate": "2026-11-04T22:00:00-03:00",
    "extra": "Preço a partir de: varia por tamanho e cor",
-   "entrou": "2026-11-04T09:02:33.151948-03:00"
-  },
-  {
-   "id": "amz-B0B1LJFBPY",
-   "canal": "tech",
-   "nome": "Fone Bluetooth Anker Soundcore Space A40 com ANC",
-   "preco_antigo": 569.0,
-   "preco": 350.55,
-   "desconto": 38,
-   "link": "https://www.amazon.com.br/dp/B0B1LJFBPY?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51pVkV-FDQL._AC_SL1500_.jpg",
-   "loja": "Loja oficial Anker · entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-04T22:00:00-03:00",
    "entrou": "2026-11-04T09:02:33.151948-03:00"
   },
   {
@@ -3352,7 +3359,8 @@
   "kit2camisetascombolsoreserva": "2026-11-04T10:49:19.449980-03:00",
   "mousesemfiologitechpebble2m350ssilencioso": "2026-11-04T10:52:42.376948-03:00",
   "perfumelavieestbellelancomefemininoedp": "2026-11-04T10:58:19.403926-03:00",
-  "camisetaalgodaopicapaureserva": "2026-11-04T11:05:07.600386-03:00"
+  "camisetaalgodaopicapaureserva": "2026-11-04T11:05:07.600386-03:00",
+  "fonebluetoothankersoundcorespacea40comanc": "2026-11-04T12:16:30.624485-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
