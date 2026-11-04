@@ -450,7 +450,8 @@
   "2026-11-04 tech 19:22 amz-B0CRTYZG5C",
   "2026-11-04 tech 19:36 amz-B01JPOLKDW",
   "2026-11-04 achadinhos 19:47 amz-B0B872NVW4",
-  "2026-11-04 marcas 19:58 amz-B0H4RGVYS2"
+  "2026-11-04 marcas 19:58 amz-B0H4RGVYS2",
+  "2026-11-04 achadinhos 20:25 amz-B0B8Q6VLRB"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -909,7 +910,8 @@
   "amz-B0CRTYZG5C": "2026-11-04T19:22:33.915284-03:00",
   "amz-B01JPOLKDW": "2026-11-04T19:36:41.616437-03:00",
   "amz-B0B872NVW4": "2026-11-04T19:47:08.844079-03:00",
-  "amz-B0H4RGVYS2": "2026-11-04T19:58:00.916150-03:00"
+  "amz-B0H4RGVYS2": "2026-11-04T19:58:00.916150-03:00",
+  "amz-B0B8Q6VLRB": "2026-11-04T20:25:11.215396-03:00"
  },
  "ofertas_dia": [
   {
@@ -2986,6 +2988,21 @@
    "gancho": "PUMA PELA METADE DO PREÇO",
    "entrou": "2026-11-04T17:46:21.913058-03:00",
    "dia": "2026-11-04"
+  },
+  {
+   "id": "amz-B0B8Q6VLRB",
+   "canal": "achadinhos",
+   "nome": "Protetor Solar Facial Eucerin FPS 70",
+   "preco_antigo": 99.9,
+   "preco": 59.9,
+   "desconto": 40,
+   "link": "https://www.amazon.com.br/dp/B0B8Q6VLRB?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61784UndFHL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-05T22:00:00-03:00",
+   "entrou": "2026-11-04T18:03:20.894594-03:00",
+   "dia": "2026-11-04"
   }
  ],
  "ig_feitos": [
@@ -3137,7 +3154,8 @@
   "2026-11-04 18:42 story_oferta",
   "2026-11-04 feed",
   "2026-11-04 19:15 post_achado",
-  "2026-11-04 19:17 story_oferta"
+  "2026-11-04 19:17 story_oferta",
+  "2026-11-04 20:03 story_oferta"
  ],
  "ig_ofertas_usadas": [
   "amz-B0GP7KDZRJ",
@@ -3326,7 +3344,8 @@
   "amz-B0B1LJFBPY",
   "amz-B0DB8TRNZX",
   "shopee-58209674589",
-  "amz-B0D27SFGFJ"
+  "amz-B0D27SFGFJ",
+  "amz-B0BYWL962Q"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
@@ -3456,20 +3475,6 @@
    "link": "https://s.shopee.com.br/4Ve3BRxgAE",
    "canal": "marcas",
    "entrou": "2026-11-04T17:46:21.913058-03:00"
-  },
-  {
-   "id": "amz-B0B8Q6VLRB",
-   "canal": "achadinhos",
-   "nome": "Protetor Solar Facial Eucerin FPS 70",
-   "preco_antigo": 99.9,
-   "preco": 59.9,
-   "desconto": 40,
-   "link": "https://www.amazon.com.br/dp/B0B8Q6VLRB?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61784UndFHL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-05T22:00:00-03:00",
-   "entrou": "2026-11-04T18:03:20.894594-03:00"
   },
   {
    "id": "amz-B0DVCJ2W2T",
@@ -3837,6 +3842,21 @@
    "valida_ate": "2026-11-05T22:00:00-03:00",
    "gancho": "JBL COM CANCELAMENTO DE RUÍDO POR MENOS",
    "entrou": "2026-11-04T19:47:30.643702-03:00"
+  },
+  {
+   "id": "amz-B0DJ8WR5JD",
+   "canal": "marcas",
+   "nome": "Tênis de Corrida Puma Darter Pro",
+   "preco_antigo": 499.99,
+   "preco": 237.5,
+   "desconto": 52,
+   "link": "https://www.amazon.com.br/dp/B0DJ8WR5JD?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61qZ9bN9UXL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-04T22:00:00-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "entrou": "2026-11-04T20:14:00.559530-03:00"
   }
  ],
  "menus_fixados": [
@@ -4149,7 +4169,8 @@
   "fonebluetoothankersoundcorep30icomanc": "2026-11-04T19:22:33.915284-03:00",
   "mousesemfiologitechm330silentplus": "2026-11-04T19:36:41.616437-03:00",
   "protetorsolarfaciallarocheposayanthelioscomcor": "2026-11-04T19:47:08.844079-03:00",
-  "tenispumacaven20feminino": "2026-11-04T19:58:00.916150-03:00"
+  "tenispumacaven20feminino": "2026-11-04T19:58:00.916150-03:00",
+  "protetorsolarfacialeucerinfps70": "2026-11-04T20:25:11.215396-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
