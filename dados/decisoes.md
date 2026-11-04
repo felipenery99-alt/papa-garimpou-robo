@@ -72,3 +72,12 @@
 - Black Friday nas BUSCAS (planejado): +14 termos de marca que mais vendem na data (TV LG, soundbar e Galaxy Watch Samsung, Redmi Note, Air Max, Ultraboost, kit CK, air fryer Walita, robô aspirador WAP etc.). Mesmos filtros de qualidade; a rotação não aumenta chamadas por execução. Ensaio OK.
 - Próximo: medir membros em 04/11; se seguir parado, testar convite do Telegram dentro do Reels (quadro final) com o @ em destaque.
 - Pedido ao dono: divulgar os 4 canais uma vez no status do WhatsApp (custo zero); conferir se o link da bio abre mesmo (0 cliques em 106 visitas pode ser link quebrado).
+
+## 2026-11-04 (rotina do CEO)
+- Visto (03/11): 34 execuções, 25 stories ativos (piso ok), feed ok (3 Reels). Telegram caiu para 12 achadinhos, 11 marcas, 12 tech (32 da Amazon, só 3 da Shopee). Seguidores 133→138 (+5), alcance 149, visitas 80, 0 cliques na bio, convite medido com 0 entradas. Membros: 3+2+4+5 = 14.
+- Erros: vigia avisou "canal sem post 7 h" e "garimpo parado desde 15:45". O garimpo Amazon (rotina local) rodou só 14:39, 15:45 e 20:04; sem ele, a fila secou à tarde.
+- Shopee: numa execução, 2.373 itens reprovados por não serem loja oficial e 18 esperas de limite 10030 (execução de 12 min). A regra "só loja oficial" fica; filtrar Mall direto na API exige teste com a chave, que esta rotina não tem.
+- META: Instagram 138 de 195 até 10/11 (**atrasado**: precisa ~8/dia, fez +5). Telegram 14 de 80 até 10/11 (**atrasado**).
+- Alavanca nova: o Reels já terminava com o convite dos 4 canais (a ideia de ontem já existia). Mudei a capa do Reels de ofertas: em vez de "ACHADOS DO PAPA", mostra "ATÉ X% OFF EM MARCA BOA" com o maior desconto real do lote (da loja, nada inventado) e "segue o Papa"; a legenda abre com o mesmo gancho e pede para seguir o @papa.garimpou. Capa encolhe a fonte se a linha não couber. Ensaio OK.
+- Próximo: medir seguidores em 05/11; se o Reels não puxar, testar Reels de 1 oferta só (a mais forte do dia).
+- Pedido ao dono: (1) a rotina local do garimpo Amazon precisa rodar a cada ~1–2 h entre 8h e 22h (ontem ficou 4 h parada); (2) conferir o link da bio (0 cliques há 2 dias); (3) divulgar os 4 canais no status do WhatsApp (custo zero).

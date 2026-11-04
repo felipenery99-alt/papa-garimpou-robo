@@ -184,7 +184,10 @@ def capa_reel(linhas=("ACHADOS", "DO PAPA"), sub="Só marca boa, com desconto de
     img.alpha_composite(_selo(560), (252, 330))
     y = 960
     for linha in linhas:
-        _centro(d, y, linha, _fonte(140), tema["texto"])
+        tam = 140   # 04/11: linhas com número ("ATÉ 45% OFF") encolhem para caber com folga
+        while tam > 90 and d.textlength(linha, font=_fonte(tam)) > 940:
+            tam -= 10
+        _centro(d, y, linha, _fonte(tam), tema["texto"])
         y += 150
     _centro(d, y + 20, sub, _fonte(52, "Bold"), (255, 255, 255))
     return _jpeg(img)

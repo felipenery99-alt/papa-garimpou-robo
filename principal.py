@@ -783,10 +783,20 @@ def rodar_instagram(h: dict, agora: datetime) -> None:
                 top = sorted((o for o in h.get("ofertas_dia", []) if o.get("dia") == hoje and o["id"] not in ja),
                              key=qualidade.pontuar, reverse=True)[:5]
                 if len(top) >= 3:
-                    quadros = ([artes.capa_reel(("ACHADOS", "DO PAPA"), "Os melhores de hoje")]
-                               + [artes.story_oferta(o, o["canal"]) for o in top] + [artes.story_convite()])
+                    # 04/11 (Instagram atrasado na meta): a capa genérica "ACHADOS DO PAPA" não prende quem
+                    # rola o feed. Capa com o maior desconto REAL do lote (vem da loja) e chamada para seguir.
+                    maior = max(int(o.get("desconto") or 0) for o in top)
+                    if maior >= 20:
+                        capa = artes.capa_reel((f"ATÉ {maior}% OFF", "EM MARCA BOA"),
+                                               f"{len(top)} achados de hoje · segue o Papa")
+                        topo = f"😎💎 Até {maior}% OFF em marca boa: os {len(top)} achados do Papa hoje"
+                    else:
+                        capa = artes.capa_reel(("ACHADOS", "DO PAPA"), "Os melhores de hoje")
+                        topo = "😎💎 Os achados do Papa hoje"
+                    quadros = ([capa] + [artes.story_oferta(o, o["canal"]) for o in top] + [artes.story_convite()])
                     lista = "\n".join(f"{i+1}. {o['nome'][:60]} — {post._brl(o['preco'])}" for i, o in enumerate(top))
-                    leg = "😎💎 Os achados do Papa hoje\n\n" + lista + LEGENDA_CTA
+                    leg = (topo + "\n\n" + lista
+                           + "\n\nSegue o @papa.garimpou pra ver os achados de marca todo dia 👀" + LEGENDA_CTA)
                     h["ig_reels_ofertas"][hoje] = list(ja | {o["id"] for o in top})
                 else:
                     # sem oferta nova suficiente: Reels de dica do banco (alcance não pode parar)
