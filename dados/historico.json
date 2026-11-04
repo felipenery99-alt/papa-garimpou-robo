@@ -431,7 +431,10 @@
   "2026-11-04 tech 14:55 amz-B0FPG9431G",
   "2026-11-04 marcas 15:23 amz-B0GML6PZ9V",
   "2026-11-04 achadinhos 15:37 amz-B0FHGDL31P",
-  "2026-11-04 tech 15:49 amz-B0FNWCYLZN"
+  "2026-11-04 tech 15:49 amz-B0FNWCYLZN",
+  "2026-11-04 achadinhos 16:03 amz-B08TM75GN4",
+  "2026-11-04 marcas 16:19 amz-B0G87ZRVV1",
+  "2026-11-04 tech 16:34 amz-B09B8QFYZ2"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -871,7 +874,10 @@
   "amz-B0FPG9431G": "2026-11-04T14:55:46.776574-03:00",
   "amz-B0GML6PZ9V": "2026-11-04T15:23:26.905682-03:00",
   "amz-B0FHGDL31P": "2026-11-04T15:37:32.066020-03:00",
-  "amz-B0FNWCYLZN": "2026-11-04T15:49:08.458528-03:00"
+  "amz-B0FNWCYLZN": "2026-11-04T15:49:08.458528-03:00",
+  "amz-B08TM75GN4": "2026-11-04T16:03:55.923550-03:00",
+  "amz-B0G87ZRVV1": "2026-11-04T16:19:35.577931-03:00",
+  "amz-B09B8QFYZ2": "2026-11-04T16:34:26.355038-03:00"
  },
  "ofertas_dia": [
   {
@@ -2643,6 +2649,55 @@
    "valida_ate": "2026-11-05T22:00:00-03:00",
    "entrou": "2026-11-04T12:57:37.447920-03:00",
    "dia": "2026-11-04"
+  },
+  {
+   "id": "amz-B08TM75GN4",
+   "canal": "achadinhos",
+   "nome": "Liquidificador Philips Walita Série 5000 RI2242",
+   "preco_antigo": 359.9,
+   "preco": 227.99,
+   "desconto": 37,
+   "link": "https://www.amazon.com.br/dp/B08TM75GN4?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/613LbadctMS._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-05T22:00:00-03:00",
+   "extra": "Voltagem 110V",
+   "entrou": "2026-11-04T12:57:37.447920-03:00",
+   "dia": "2026-11-04"
+  },
+  {
+   "id": "amz-B0G87ZRVV1",
+   "canal": "marcas",
+   "nome": "Tênis Puma Dasher Lite Unissex",
+   "preco_antigo": 399.99,
+   "preco": 189.9,
+   "desconto": 53,
+   "link": "https://www.amazon.com.br/dp/B0G87ZRVV1?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/716UVzP7I+L._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-05T22:00:00-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "gancho": "PUMA POR MENOS DE 190",
+   "entrou": "2026-11-04T12:57:37.447920-03:00",
+   "dia": "2026-11-04"
+  },
+  {
+   "id": "amz-B09B8QFYZ2",
+   "canal": "tech",
+   "nome": "Echo Dot Smart Speaker com Alexa",
+   "preco_antigo": 649.0,
+   "preco": 409.0,
+   "desconto": 37,
+   "link": "https://www.amazon.com.br/dp/B09B8QFYZ2?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61uUYOB2lvL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-05T22:00:00-03:00",
+   "gancho": "ALEXA EM CASA GASTANDO MENOS",
+   "entrou": "2026-11-04T12:57:37.447920-03:00",
+   "dia": "2026-11-04"
   }
  ],
  "ig_feitos": [
@@ -3023,21 +3078,6 @@
  "ultimo_pilar": "mito",
  "fila": [
   {
-   "id": "amz-B08TM75GN4",
-   "canal": "achadinhos",
-   "nome": "Liquidificador Philips Walita Série 5000 RI2242",
-   "preco_antigo": 359.9,
-   "preco": 227.99,
-   "desconto": 37,
-   "link": "https://www.amazon.com.br/dp/B08TM75GN4?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/613LbadctMS._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-05T22:00:00-03:00",
-   "extra": "Voltagem 110V",
-   "entrou": "2026-11-04T12:57:37.447920-03:00"
-  },
-  {
    "id": "amz-B00SNYC5V2",
    "canal": "achadinhos",
    "nome": "Perfume Lancôme La Nuit Trésor Feminino EDP",
@@ -3078,22 +3118,6 @@
    "loja": "Vendido e entregue pela Amazon",
    "plataforma": "Amazon",
    "valida_ate": "2026-11-05T22:00:00-03:00",
-   "entrou": "2026-11-04T12:57:37.447920-03:00"
-  },
-  {
-   "id": "amz-B0G87ZRVV1",
-   "canal": "marcas",
-   "nome": "Tênis Puma Dasher Lite Unissex",
-   "preco_antigo": 399.99,
-   "preco": 189.9,
-   "desconto": 53,
-   "link": "https://www.amazon.com.br/dp/B0G87ZRVV1?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/716UVzP7I+L._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-05T22:00:00-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "gancho": "PUMA POR MENOS DE 190",
    "entrou": "2026-11-04T12:57:37.447920-03:00"
   },
   {
@@ -3140,21 +3164,6 @@
    "valida_ate": "2026-11-05T22:00:00-03:00",
    "extra": "Preço a partir de: varia por tamanho e cor",
    "gancho": "NEW BALANCE 574 QUASE PELA METADE",
-   "entrou": "2026-11-04T12:57:37.447920-03:00"
-  },
-  {
-   "id": "amz-B09B8QFYZ2",
-   "canal": "tech",
-   "nome": "Echo Dot Smart Speaker com Alexa",
-   "preco_antigo": 649.0,
-   "preco": 409.0,
-   "desconto": 37,
-   "link": "https://www.amazon.com.br/dp/B09B8QFYZ2?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61uUYOB2lvL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-05T22:00:00-03:00",
-   "gancho": "ALEXA EM CASA GASTANDO MENOS",
    "entrou": "2026-11-04T12:57:37.447920-03:00"
   },
   {
@@ -3736,7 +3745,10 @@
   "smartwatchhuaweiwatchgt646mm": "2026-11-04T14:55:46.776574-03:00",
   "tenisdecorridaunderarmourchargedskyline5masculino": "2026-11-04T15:23:26.905682-03:00",
   "papelhigieniconevefolhatripla12rolos": "2026-11-04T15:37:32.066020-03:00",
-  "fonebluetoothankersoundcorep31i": "2026-11-04T15:49:08.458528-03:00"
+  "fonebluetoothankersoundcorep31i": "2026-11-04T15:49:08.458528-03:00",
+  "liquidificadorphilipswalitaserie5000ri2242": "2026-11-04T16:03:55.923550-03:00",
+  "tenispumadasherliteunissex": "2026-11-04T16:19:35.577931-03:00",
+  "echodotsmartspeakercomalexa": "2026-11-04T16:34:26.355038-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
