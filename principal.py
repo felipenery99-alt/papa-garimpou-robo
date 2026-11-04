@@ -65,6 +65,16 @@ def gravar_relatorio(h: dict, agora: datetime) -> None:
     dia["telegram_membros"] = {c: telegram.membros(d) for c, d in {**config.CANAIS, "geral": config.GERAL}.items()}
     dia["instagram_feito"] = [f[11:] for f in h.get("ig_feitos", []) if f.startswith(hoje)]
     dia["shopee_ligada"] = bool(os.environ.get("SHOPEE_APP_ID"))
+    if OFICIAL_SHOPEE:   # ofertas únicas de loja oficial vistas no dia, pelo último motivo
+        ids = {**dia.get("shopee_oficial_ids", {}), **OFICIAL_SHOPEE}
+        dia["shopee_oficial_ids"] = ids
+        resumo = {}
+        for m in ids.values():
+            resumo[m] = resumo.get(m, 0) + 1
+        dia["shopee_oficial"] = dict(sorted(resumo.items(), key=lambda x: -x[1]))
+    for d in rel:   # a lista de ids só serve para o dia corrente; nos dias fechados fica só o resumo
+        if d != hoje:
+            rel[d].pop("shopee_oficial_ids", None)
     if os.environ.get("META_TOKEN"):
         try:
             import instagram
@@ -97,6 +107,24 @@ def ja_postado_recente(h: dict, oferta_id: str, agora: datetime, nome: str = "")
     return False
 
 
+# 04/11 (dono: "somente loja oficial sempre"): antes de mexer em qualquer limite, medir quantas ofertas de
+# LOJA OFICIAL da Shopee caem e por quê (e quantas ficam perto do limite). Vai para relatorio.json por dia.
+OFICIAL_SHOPEE: dict = {}
+
+
+def _motivo_oficial(o: dict, canal: str, ok: bool, motivo: str) -> str:
+    if ok:
+        return "aprovada"
+    if motivo.startswith("poucas vendas"):
+        return "vendas perto (250+)" if (o.get("vendas") or 0) >= config.VENDAS_MINIMAS / 2 else "vendas longe"
+    if motivo.startswith("desconto"):
+        minimo = config.DESCONTO_MINIMO if canal == "marcas" else config.DESCONTO_MINIMO_ACHADINHOS
+        return "desconto perto (até 10 pts)" if (o.get("desconto") or 0) >= minimo - 10 else "desconto longe"
+    if motivo.startswith("nota"):
+        return "nota"
+    return "outro: " + re.sub(r"\(.*?\)|\d+", "", motivo).strip()[:40]
+
+
 def garimpar_todas(canal: str, fonte, h: dict, agora: datetime, termos: list[str] | None = None) -> list[dict]:
     """Todas as ofertas boas e não postadas de todas as buscas do canal, melhores primeiro.
     Sem cota: o único filtro é a qualidade (regra do dono: achou coisa boa, posta)."""
@@ -115,6 +143,8 @@ def garimpar_todas(canal: str, fonte, h: dict, agora: datetime, termos: list[str
             continue
         for o in ofertas:
             ok, motivo = qualidade.avaliar(o, canal)
+            if str(o.get("id", "")).startswith("shopee") and o.get("loja_oficial"):
+                OFICIAL_SHOPEE[o["id"]] = _motivo_oficial(o, canal, ok, motivo)
             if ok and not ja_postado_recente(h, o["id"], agora, o.get("nome", "")):
                 boas[o["id"]] = o
             elif not ok:
