@@ -30,6 +30,30 @@
      "canal": "tech"
     }
    ]
+  },
+  {
+   "tipo": "a_ou_b",
+   "hora": "18:19",
+   "produtos": [
+    {
+     "nome": "Creatina Monohidratada 100g - Max Titanium",
+     "preco_antigo": 63.61,
+     "preco": 22.9,
+     "desconto": 64,
+     "link": "https://s.shopee.com.br/7VHel1778a",
+     "loja": "Empório Natugreen",
+     "canal": "marcas"
+    },
+    {
+     "nome": "Tênis Mizuno Cool Ride 3",
+     "preco_antigo": 399.99,
+     "preco": 189.99,
+     "desconto": 53,
+     "link": "https://www.amazon.com.br/dp/B0FFTQD31C?tag=papagarimpou-20",
+     "loja": "Vendido e entregue pela Amazon",
+     "canal": "marcas"
+    }
+   ]
   }
  ]
 }

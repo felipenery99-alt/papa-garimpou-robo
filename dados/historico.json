@@ -441,7 +441,8 @@
   "2026-11-04 achadinhos 17:40 amz-B07VMBV72P",
   "2026-11-04 achadinhos 17:55 amz-B0GP2QD973",
   "2026-11-04 achadinhos 18:02 amz-B08ZFKKPDS",
-  "2026-11-04 marcas 18:14 shopee-22592962752"
+  "2026-11-04 marcas 18:14 shopee-22592962752",
+  "2026-11-04 tech 18:30 amz-B0D6NLHV8N"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -891,7 +892,8 @@
   "amz-B07VMBV72P": "2026-11-04T17:40:23.683101-03:00",
   "amz-B0GP2QD973": "2026-11-04T17:55:54.625082-03:00",
   "amz-B08ZFKKPDS": "2026-11-04T18:02:54.066582-03:00",
-  "shopee-22592962752": "2026-11-04T18:14:33.331440-03:00"
+  "shopee-22592962752": "2026-11-04T18:14:33.331440-03:00",
+  "amz-B0D6NLHV8N": "2026-11-04T18:30:22.767187-03:00"
  },
  "ofertas_dia": [
   {
@@ -2823,6 +2825,21 @@
    "canal": "marcas",
    "entrou": "2026-11-04T16:54:34.643581-03:00",
    "dia": "2026-11-04"
+  },
+  {
+   "id": "amz-B0D6NLHV8N",
+   "canal": "tech",
+   "nome": "Headset Gamer JBL Quantum 100M2 com Microfone",
+   "preco_antigo": 219.0,
+   "preco": 148.2,
+   "desconto": 32,
+   "link": "https://www.amazon.com.br/dp/B0D6NLHV8N?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61uBAfuJUfL._AC_SL1486_.jpg",
+   "loja": "Vendido por parceiro · entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-04T22:00:00-03:00",
+   "entrou": "2026-11-04T17:46:21.913058-03:00",
+   "dia": "2026-11-04"
   }
  ],
  "ig_feitos": [
@@ -2968,7 +2985,9 @@
   "story especial pede-pro-papa 2026-11-04",
   "2026-11-04 16:55 post_achado",
   "2026-11-04 17:30 reels",
-  "2026-11-04 17:36 story_oferta"
+  "2026-11-04 17:36 story_oferta",
+  "2026-11-04 18:05 a_ou_b",
+  "2026-11-04 18:09 story_oferta"
  ],
  "ig_ofertas_usadas": [
   "amz-B0GP7KDZRJ",
@@ -3151,7 +3170,10 @@
   "amz-B0CJ3BDN7T",
   "amz-B008SBKTZ4",
   "amz-B0917MY5RD",
-  "amz-B0DH9Y4MMF"
+  "amz-B0DH9Y4MMF",
+  "shopee-22592962752",
+  "amz-B0FFTQD31C",
+  "amz-B0B1LJFBPY"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
@@ -3351,20 +3373,6 @@
    "plataforma": "Amazon",
    "valida_ate": "2026-11-04T22:00:00-03:00",
    "extra": "Preço a partir de: varia por tamanho e cor",
-   "entrou": "2026-11-04T17:46:21.913058-03:00"
-  },
-  {
-   "id": "amz-B0D6NLHV8N",
-   "canal": "tech",
-   "nome": "Headset Gamer JBL Quantum 100M2 com Microfone",
-   "preco_antigo": 219.0,
-   "preco": 148.2,
-   "desconto": 32,
-   "link": "https://www.amazon.com.br/dp/B0D6NLHV8N?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61uBAfuJUfL._AC_SL1486_.jpg",
-   "loja": "Vendido por parceiro · entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-04T22:00:00-03:00",
    "entrou": "2026-11-04T17:46:21.913058-03:00"
   },
   {
@@ -4116,7 +4124,8 @@
   "secadordecabelotaiffstyle2000w127v": "2026-11-04T17:40:23.683101-03:00",
   "jogodepanelastramontinaveroneseceramico5pecas": "2026-11-04T17:55:54.625082-03:00",
   "perfumeazzarothemostwantedintensemasculinoedp": "2026-11-04T18:02:54.066582-03:00",
-  "creatinamonohidratada100gmaxtitanium": "2026-11-04T18:14:33.331440-03:00"
+  "creatinamonohidratada100gmaxtitanium": "2026-11-04T18:14:33.331440-03:00",
+  "headsetgamerjblquantum100m2commicrofone": "2026-11-04T18:30:22.767187-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
