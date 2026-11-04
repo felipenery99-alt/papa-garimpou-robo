@@ -430,7 +430,8 @@
   "2026-11-04 achadinhos 14:45 amz-B08R9341ZB",
   "2026-11-04 tech 14:55 amz-B0FPG9431G",
   "2026-11-04 marcas 15:23 amz-B0GML6PZ9V",
-  "2026-11-04 achadinhos 15:37 amz-B0FHGDL31P"
+  "2026-11-04 achadinhos 15:37 amz-B0FHGDL31P",
+  "2026-11-04 tech 15:49 amz-B0FNWCYLZN"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -869,7 +870,8 @@
   "amz-B08R9341ZB": "2026-11-04T14:45:24.564881-03:00",
   "amz-B0FPG9431G": "2026-11-04T14:55:46.776574-03:00",
   "amz-B0GML6PZ9V": "2026-11-04T15:23:26.905682-03:00",
-  "amz-B0FHGDL31P": "2026-11-04T15:37:32.066020-03:00"
+  "amz-B0FHGDL31P": "2026-11-04T15:37:32.066020-03:00",
+  "amz-B0FNWCYLZN": "2026-11-04T15:49:08.458528-03:00"
  },
  "ofertas_dia": [
   {
@@ -2626,6 +2628,21 @@
    "gancho": "ESTOQUE DE NEVE PRA CASA",
    "entrou": "2026-11-04T12:57:37.447920-03:00",
    "dia": "2026-11-04"
+  },
+  {
+   "id": "amz-B0FNWCYLZN",
+   "canal": "tech",
+   "nome": "Fone Bluetooth Anker Soundcore P31i",
+   "preco_antigo": 499.0,
+   "preco": 283.1,
+   "desconto": 43,
+   "link": "https://www.amazon.com.br/dp/B0FNWCYLZN?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51nHT2kQ1bL._AC_SL1500_.jpg",
+   "loja": "Loja oficial Anker · entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-05T22:00:00-03:00",
+   "entrou": "2026-11-04T12:57:37.447920-03:00",
+   "dia": "2026-11-04"
   }
  ],
  "ig_feitos": [
@@ -3123,20 +3140,6 @@
    "valida_ate": "2026-11-05T22:00:00-03:00",
    "extra": "Preço a partir de: varia por tamanho e cor",
    "gancho": "NEW BALANCE 574 QUASE PELA METADE",
-   "entrou": "2026-11-04T12:57:37.447920-03:00"
-  },
-  {
-   "id": "amz-B0FNWCYLZN",
-   "canal": "tech",
-   "nome": "Fone Bluetooth Anker Soundcore P31i",
-   "preco_antigo": 499.0,
-   "preco": 283.1,
-   "desconto": 43,
-   "link": "https://www.amazon.com.br/dp/B0FNWCYLZN?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51nHT2kQ1bL._AC_SL1500_.jpg",
-   "loja": "Loja oficial Anker · entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-05T22:00:00-03:00",
    "entrou": "2026-11-04T12:57:37.447920-03:00"
   },
   {
@@ -3732,7 +3735,8 @@
   "fritadeiraairfryovenbritaniabfr2100p12l": "2026-11-04T14:45:24.564881-03:00",
   "smartwatchhuaweiwatchgt646mm": "2026-11-04T14:55:46.776574-03:00",
   "tenisdecorridaunderarmourchargedskyline5masculino": "2026-11-04T15:23:26.905682-03:00",
-  "papelhigieniconevefolhatripla12rolos": "2026-11-04T15:37:32.066020-03:00"
+  "papelhigieniconevefolhatripla12rolos": "2026-11-04T15:37:32.066020-03:00",
+  "fonebluetoothankersoundcorep31i": "2026-11-04T15:49:08.458528-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
