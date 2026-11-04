@@ -434,7 +434,10 @@
   "2026-11-04 tech 15:49 amz-B0FNWCYLZN",
   "2026-11-04 achadinhos 16:03 amz-B08TM75GN4",
   "2026-11-04 marcas 16:19 amz-B0G87ZRVV1",
-  "2026-11-04 tech 16:34 amz-B09B8QFYZ2"
+  "2026-11-04 tech 16:34 amz-B09B8QFYZ2",
+  "2026-11-04 achadinhos 17:03 amz-B00SNYC5V2",
+  "2026-11-04 marcas 17:18 amz-B0GHSGXFPB",
+  "2026-11-04 tech 17:29 amz-B0F3ZT4ZZR"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -877,7 +880,10 @@
   "amz-B0FNWCYLZN": "2026-11-04T15:49:08.458528-03:00",
   "amz-B08TM75GN4": "2026-11-04T16:03:55.923550-03:00",
   "amz-B0G87ZRVV1": "2026-11-04T16:19:35.577931-03:00",
-  "amz-B09B8QFYZ2": "2026-11-04T16:34:26.355038-03:00"
+  "amz-B09B8QFYZ2": "2026-11-04T16:34:26.355038-03:00",
+  "amz-B00SNYC5V2": "2026-11-04T17:03:10.772350-03:00",
+  "amz-B0GHSGXFPB": "2026-11-04T17:18:31.904960-03:00",
+  "amz-B0F3ZT4ZZR": "2026-11-04T17:29:02.276910-03:00"
  },
  "ofertas_dia": [
   {
@@ -2698,6 +2704,53 @@
    "gancho": "ALEXA EM CASA GASTANDO MENOS",
    "entrou": "2026-11-04T12:57:37.447920-03:00",
    "dia": "2026-11-04"
+  },
+  {
+   "id": "amz-B00SNYC5V2",
+   "canal": "achadinhos",
+   "nome": "Perfume Lancôme La Nuit Trésor Feminino EDP",
+   "preco_antigo": 999.0,
+   "preco": 524.44,
+   "desconto": 48,
+   "link": "https://www.amazon.com.br/dp/B00SNYC5V2?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71wEgMIkefL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-05T22:00:00-03:00",
+   "gancho": "LANCÔME QUASE PELA METADE",
+   "entrou": "2026-11-04T12:57:37.447920-03:00",
+   "dia": "2026-11-04"
+  },
+  {
+   "id": "amz-B0GHSGXFPB",
+   "canal": "marcas",
+   "nome": "Tênis Mizuno Sunrise",
+   "preco_antigo": 449.99,
+   "preco": 229.9,
+   "desconto": 49,
+   "link": "https://www.amazon.com.br/dp/B0GHSGXFPB?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/81c0XL9-e6L._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-05T22:00:00-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "entrou": "2026-11-04T12:57:37.447920-03:00",
+   "dia": "2026-11-04"
+  },
+  {
+   "id": "amz-B0F3ZT4ZZR",
+   "canal": "tech",
+   "nome": "Mouse Sem Fio Logitech Signature M550 Clique Silencioso",
+   "preco_antigo": 189.9,
+   "preco": 119.9,
+   "desconto": 37,
+   "link": "https://www.amazon.com.br/dp/B0F3ZT4ZZR?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61uO1qtOSnL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-04T22:00:00-03:00",
+   "entrou": "2026-11-04T13:32:43.389601-03:00",
+   "dia": "2026-11-04"
   }
  ],
  "ig_feitos": [
@@ -2845,7 +2898,9 @@
   "2026-11-04 15:00 adivinha",
   "2026-11-04 feed",
   "2026-11-04 14:25 post_achado",
-  "2026-11-04 15:03 story_oferta"
+  "2026-11-04 15:03 story_oferta",
+  "2026-11-04 16:05 adivinha_resposta",
+  "2026-11-04 16:44 story_oferta"
  ],
  "ig_ofertas_usadas": [
   "amz-B0GP7KDZRJ",
@@ -3025,7 +3080,8 @@
   "amz-B08XQWLDKP",
   "amz-B0CVCG6S9C",
   "amz-B0FWS3N7RN",
-  "amz-B0CJ3BDN7T"
+  "amz-B0CJ3BDN7T",
+  "amz-B008SBKTZ4"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
@@ -3078,21 +3134,6 @@
  "ultimo_pilar": "mito",
  "fila": [
   {
-   "id": "amz-B00SNYC5V2",
-   "canal": "achadinhos",
-   "nome": "Perfume Lancôme La Nuit Trésor Feminino EDP",
-   "preco_antigo": 999.0,
-   "preco": 524.44,
-   "desconto": 48,
-   "link": "https://www.amazon.com.br/dp/B00SNYC5V2?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/71wEgMIkefL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-05T22:00:00-03:00",
-   "gancho": "LANCÔME QUASE PELA METADE",
-   "entrou": "2026-11-04T12:57:37.447920-03:00"
-  },
-  {
    "id": "amz-B0GP2QD973",
    "canal": "achadinhos",
    "nome": "Jogo de Panelas Tramontina Veronese Cerâmico 5 peças",
@@ -3121,36 +3162,6 @@
    "entrou": "2026-11-04T12:57:37.447920-03:00"
   },
   {
-   "id": "amz-B0FH3W32GS",
-   "canal": "marcas",
-   "nome": "Tênis Fila Racer Fastpace Masculino",
-   "preco_antigo": 499.99,
-   "preco": 209.9,
-   "desconto": 58,
-   "link": "https://www.amazon.com.br/dp/B0FH3W32GS?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/518oCv3h4wL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-05T22:00:00-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "entrou": "2026-11-04T12:57:37.447920-03:00"
-  },
-  {
-   "id": "amz-B0GHSGXFPB",
-   "canal": "marcas",
-   "nome": "Tênis Mizuno Sunrise",
-   "preco_antigo": 449.99,
-   "preco": 229.9,
-   "desconto": 49,
-   "link": "https://www.amazon.com.br/dp/B0GHSGXFPB?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/81c0XL9-e6L._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-05T22:00:00-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "entrou": "2026-11-04T12:57:37.447920-03:00"
-  },
-  {
    "id": "amz-B0CQ7N63YB",
    "canal": "marcas",
    "nome": "Tênis New Balance 574V2 Masculino",
@@ -3164,21 +3175,6 @@
    "valida_ate": "2026-11-05T22:00:00-03:00",
    "extra": "Preço a partir de: varia por tamanho e cor",
    "gancho": "NEW BALANCE 574 QUASE PELA METADE",
-   "entrou": "2026-11-04T12:57:37.447920-03:00"
-  },
-  {
-   "id": "amz-B0GVPGKM4P",
-   "canal": "tech",
-   "nome": "Fone Bluetooth JBL Tune 780NC com Cancelamento de Ruído",
-   "preco_antigo": 560.52,
-   "preco": 378.04,
-   "desconto": 33,
-   "link": "https://www.amazon.com.br/dp/B0GVPGKM4P?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51MnMPeZUWL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-05T22:00:00-03:00",
-   "gancho": "JBL COM CANCELAMENTO DE RUÍDO POR MENOS",
    "entrou": "2026-11-04T12:57:37.447920-03:00"
   },
   {
@@ -3330,20 +3326,6 @@
    "entrou": "2026-11-04T13:32:43.389601-03:00"
   },
   {
-   "id": "amz-B0F3ZT4ZZR",
-   "canal": "tech",
-   "nome": "Mouse Sem Fio Logitech Signature M550 Clique Silencioso",
-   "preco_antigo": 189.9,
-   "preco": 119.9,
-   "desconto": 37,
-   "link": "https://www.amazon.com.br/dp/B0F3ZT4ZZR?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61uO1qtOSnL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-04T22:00:00-03:00",
-   "entrou": "2026-11-04T13:32:43.389601-03:00"
-  },
-  {
    "id": "amz-B0D6NLHV8N",
    "canal": "tech",
    "nome": "Headset Gamer JBL Quantum 100M2 com Microfone",
@@ -3452,6 +3434,23 @@
    "valida_ate": "2026-11-05T22:00:00-03:00",
    "extra": "Preço a partir de: varia por tamanho e cor",
    "entrou": "2026-11-04T15:13:40.204723-03:00"
+  },
+  {
+   "id": "shopee-22592962752",
+   "plataforma": "Shopee",
+   "nome": "Creatina Monohidratada 100g - Max Titanium",
+   "loja": "Empório Natugreen",
+   "loja_oficial": true,
+   "preco": 22.9,
+   "preco_antigo": 63.61,
+   "desconto": 64,
+   "vendas": 521,
+   "nota": 4.9,
+   "comissao_pct": 3.0,
+   "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rd5l-ltzwqst90q7a46",
+   "link": "https://s.shopee.com.br/7VHel1778a",
+   "canal": "marcas",
+   "entrou": "2026-11-04T16:54:34.643581-03:00"
   }
  ],
  "menus_fixados": [
@@ -3748,7 +3747,10 @@
   "fonebluetoothankersoundcorep31i": "2026-11-04T15:49:08.458528-03:00",
   "liquidificadorphilipswalitaserie5000ri2242": "2026-11-04T16:03:55.923550-03:00",
   "tenispumadasherliteunissex": "2026-11-04T16:19:35.577931-03:00",
-  "echodotsmartspeakercomalexa": "2026-11-04T16:34:26.355038-03:00"
+  "echodotsmartspeakercomalexa": "2026-11-04T16:34:26.355038-03:00",
+  "perfumelancomelanuittresorfemininoedp": "2026-11-04T17:03:10.772350-03:00",
+  "tenismizunosunrise": "2026-11-04T17:18:31.904960-03:00",
+  "mousesemfiologitechsignaturem550cliquesilencioso": "2026-11-04T17:29:02.276910-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
@@ -3877,5 +3879,5 @@
  "pede_semana": "2026-45",
  "ultimo_garimpo": "2026-11-04T12:46:42-03:00",
  "vigia_aviso_post": "2026-11-03T15:13:56.183802-03:00",
- "vigia_aviso_garimpo": "2026-11-04T12:29:14.305755-03:00"
+ "vigia_aviso_garimpo": "2026-11-04T16:54:34.643581-03:00"
 }

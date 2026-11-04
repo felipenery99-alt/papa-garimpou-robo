@@ -15,6 +15,21 @@
      "canal": "tech"
     }
    ]
+  },
+  {
+   "tipo": "adivinha_resposta",
+   "hora": "16:54",
+   "produtos": [
+    {
+     "nome": "Smartwatch Samsung Galaxy Fit3 Tela 1.6\" Prata",
+     "preco_antigo": 549.0,
+     "preco": 209.95,
+     "desconto": 62,
+     "link": "https://www.amazon.com.br/dp/B0CVCG6S9C?tag=papagarimpou-20",
+     "loja": "Vendido por parceiro · entregue pela Amazon",
+     "canal": "tech"
+    }
+   ]
   }
  ]
 }

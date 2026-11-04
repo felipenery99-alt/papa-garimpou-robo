@@ -527,19 +527,20 @@
  },
  "2026-11-04": {
   "erros": [
-   "⚠️ Garimpo parado desde 03/11 20:04 — abrir o app Claude e conferir as rotinas\nPouca oferta na fila: tech 2."
+   "⚠️ Garimpo parado desde 03/11 20:04 — abrir o app Claude e conferir as rotinas\nPouca oferta na fila: tech 2.",
+   "⚠️ Garimpo parado desde 12:46 — abrir o app Claude e conferir as rotinas\nPouca oferta na fila: tech 2."
   ],
-  "ultima_execucao": "15:54",
-  "execucoes": 13,
+  "ultima_execucao": "16:54",
+  "execucoes": 14,
   "telegram_posts": {
-   "achadinhos": 10,
-   "marcas": 9,
-   "tech": 9
+   "achadinhos": 11,
+   "marcas": 10,
+   "tech": 10
   },
   "ultimo_post": {
-   "achadinhos": "16:03",
-   "marcas": "16:19",
-   "tech": "16:34"
+   "achadinhos": "17:03",
+   "marcas": "17:18",
+   "tech": "17:29"
   },
   "ultimo_garimpo": "04/11 12:46",
   "convites_story": {
@@ -576,14 +577,16 @@
    "15:00 adivinha",
    "feed",
    "14:25 post_achado",
-   "15:03 story_oferta"
+   "15:03 story_oferta",
+   "16:05 adivinha_resposta",
+   "16:44 story_oferta"
   ],
   "shopee_ligada": true,
   "instagram": {
    "seguidores": 145,
    "posts": 62,
-   "reach": 2225,
-   "profile_views": 71,
+   "reach": 2366,
+   "profile_views": 79,
    "website_clicks": 0,
    "stories_ativos": 25
   },
@@ -1298,7 +1301,7 @@
    "shopee-21316811936": "aprovada",
    "shopee-21616812729": "aprovada",
    "shopee-16185215321": "aprovada",
-   "shopee-9150049548": "vendas perto (250+)",
+   "shopee-9150049548": "aprovada",
    "shopee-15714692913": "vendas perto (250+)",
    "shopee-20816821905": "vendas perto (250+)",
    "shopee-14815391424": "vendas longe",
@@ -1617,7 +1620,7 @@
    "shopee-45766835949": "desconto longe",
    "shopee-22399710534": "desconto longe",
    "shopee-42433934648": "desconto longe",
-   "shopee-51466810787": "vendas longe",
+   "shopee-51466810787": "vendas perto (250+)",
    "shopee-58216709103": "vendas longe",
    "shopee-22194331598": "aprovada",
    "shopee-42874795763": "desconto longe",
@@ -2308,7 +2311,7 @@
    "shopee-58216712765": "vendas longe",
    "shopee-44866891434": "vendas longe",
    "shopee-9511754133": "aprovada",
-   "shopee-22592962752": "vendas perto (250+)",
+   "shopee-22592962752": "aprovada",
    "shopee-58260024078": "aprovada",
    "shopee-42130479011": "aprovada",
    "shopee-23192804942": "vendas longe",
@@ -2724,7 +2727,7 @@
    "shopee-19398984910": "outro: marca fora da lista boa",
    "shopee-43232791072": "outro: marca fora da lista boa",
    "shopee-22894764287": "desconto longe",
-   "shopee-40275577235": "vendas longe",
+   "shopee-40275577235": "vendas perto (250+)",
    "shopee-23599455702": "vendas longe",
    "shopee-23395156533": "vendas longe",
    "shopee-23999162333": "vendas longe",
@@ -3073,14 +3076,17 @@
    "shopee-58217560936": "nota",
    "shopee-58217501206": "nota",
    "shopee-46758986232": "vendas longe",
-   "shopee-52468531312": "nota"
+   "shopee-52468531312": "nota",
+   "shopee-23493814701": "vendas longe",
+   "shopee-23195005311": "vendas longe",
+   "shopee-23598691547": "vendas longe"
   },
   "shopee_oficial": {
-   "vendas longe": 1521,
+   "vendas longe": 1522,
    "nota": 744,
    "outro: marca fora da lista boa": 73,
    "vendas perto (250+)": 62,
-   "aprovada": 34,
+   "aprovada": 36,
    "desconto longe": 33,
    "outro: palavra proibida: compatível": 10,
    "desconto perto (até 10 pts)": 9
