@@ -437,7 +437,8 @@
   "2026-11-04 tech 16:34 amz-B09B8QFYZ2",
   "2026-11-04 achadinhos 17:03 amz-B00SNYC5V2",
   "2026-11-04 marcas 17:18 amz-B0GHSGXFPB",
-  "2026-11-04 tech 17:29 amz-B0F3ZT4ZZR"
+  "2026-11-04 tech 17:29 amz-B0F3ZT4ZZR",
+  "2026-11-04 achadinhos 17:40 amz-B07VMBV72P"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -883,7 +884,8 @@
   "amz-B09B8QFYZ2": "2026-11-04T16:34:26.355038-03:00",
   "amz-B00SNYC5V2": "2026-11-04T17:03:10.772350-03:00",
   "amz-B0GHSGXFPB": "2026-11-04T17:18:31.904960-03:00",
-  "amz-B0F3ZT4ZZR": "2026-11-04T17:29:02.276910-03:00"
+  "amz-B0F3ZT4ZZR": "2026-11-04T17:29:02.276910-03:00",
+  "amz-B07VMBV72P": "2026-11-04T17:40:23.683101-03:00"
  },
  "ofertas_dia": [
   {
@@ -2751,6 +2753,21 @@
    "valida_ate": "2026-11-04T22:00:00-03:00",
    "entrou": "2026-11-04T13:32:43.389601-03:00",
    "dia": "2026-11-04"
+  },
+  {
+   "id": "amz-B07VMBV72P",
+   "canal": "achadinhos",
+   "nome": "Secador de Cabelo Taiff Style 2000W 127V",
+   "preco_antigo": 259.9,
+   "preco": 177.85,
+   "desconto": 32,
+   "link": "https://www.amazon.com.br/dp/B07VMBV72P?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/41mZcxERu8L._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-04T22:00:00-03:00",
+   "entrou": "2026-11-04T13:32:43.389601-03:00",
+   "dia": "2026-11-04"
   }
  ],
  "ig_feitos": [
@@ -2900,7 +2917,10 @@
   "2026-11-04 14:25 post_achado",
   "2026-11-04 15:03 story_oferta",
   "2026-11-04 16:05 adivinha_resposta",
-  "2026-11-04 16:44 story_oferta"
+  "2026-11-04 16:44 story_oferta",
+  "story especial pede-pro-papa 2026-11-04",
+  "2026-11-04 feed",
+  "2026-11-04 16:55 post_achado"
  ],
  "ig_ofertas_usadas": [
   "amz-B0GP7KDZRJ",
@@ -3081,7 +3101,8 @@
   "amz-B0CVCG6S9C",
   "amz-B0FWS3N7RN",
   "amz-B0CJ3BDN7T",
-  "amz-B008SBKTZ4"
+  "amz-B008SBKTZ4",
+  "amz-B0917MY5RD"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
@@ -3133,64 +3154,6 @@
  },
  "ultimo_pilar": "mito",
  "fila": [
-  {
-   "id": "amz-B0GP2QD973",
-   "canal": "achadinhos",
-   "nome": "Jogo de Panelas Tramontina Veronese Cerâmico 5 peças",
-   "preco_antigo": 652.59,
-   "preco": 433.9,
-   "desconto": 34,
-   "link": "https://www.amazon.com.br/dp/B0GP2QD973?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51xWnG+AB8L._AC_SL1200_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-05T22:00:00-03:00",
-   "entrou": "2026-11-04T12:57:37.447920-03:00"
-  },
-  {
-   "id": "amz-B0BT22CQQ9",
-   "canal": "achadinhos",
-   "nome": "Aspirador de Pó Vertical WAP High Speed Plus 3 em 1",
-   "preco_antigo": 199.9,
-   "preco": 129.9,
-   "desconto": 35,
-   "link": "https://www.amazon.com.br/dp/B0BT22CQQ9?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61wBRlZjDQL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-05T22:00:00-03:00",
-   "entrou": "2026-11-04T12:57:37.447920-03:00"
-  },
-  {
-   "id": "amz-B0CQ7N63YB",
-   "canal": "marcas",
-   "nome": "Tênis New Balance 574V2 Masculino",
-   "preco_antigo": 599.99,
-   "preco": 309.9,
-   "desconto": 48,
-   "link": "https://www.amazon.com.br/dp/B0CQ7N63YB?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51dpvtoj5mL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-05T22:00:00-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "gancho": "NEW BALANCE 574 QUASE PELA METADE",
-   "entrou": "2026-11-04T12:57:37.447920-03:00"
-  },
-  {
-   "id": "amz-B07VMBV72P",
-   "canal": "achadinhos",
-   "nome": "Secador de Cabelo Taiff Style 2000W 127V",
-   "preco_antigo": 259.9,
-   "preco": 177.85,
-   "desconto": 32,
-   "link": "https://www.amazon.com.br/dp/B07VMBV72P?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/41mZcxERu8L._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-04T22:00:00-03:00",
-   "entrou": "2026-11-04T13:32:43.389601-03:00"
-  },
   {
    "id": "amz-B08ZFKKPDS",
    "canal": "achadinhos",
@@ -3451,6 +3414,80 @@
    "link": "https://s.shopee.com.br/7VHel1778a",
    "canal": "marcas",
    "entrou": "2026-11-04T16:54:34.643581-03:00"
+  },
+  {
+   "id": "amz-B0GP2QD973",
+   "canal": "achadinhos",
+   "nome": "Jogo de Panelas Tramontina Veronese Cerâmico 5 peças",
+   "preco_antigo": 652.59,
+   "preco": 433.9,
+   "desconto": 34,
+   "link": "https://www.amazon.com.br/dp/B0GP2QD973?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51xWnG+AB8L._AC_SL1200_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-05T22:00:00-03:00",
+   "entrou": "2026-11-04T17:29:28.556253-03:00"
+  },
+  {
+   "id": "amz-B0BT22CQQ9",
+   "canal": "achadinhos",
+   "nome": "Aspirador de Pó Vertical WAP High Speed Plus 3 em 1",
+   "preco_antigo": 199.9,
+   "preco": 129.9,
+   "desconto": 35,
+   "link": "https://www.amazon.com.br/dp/B0BT22CQQ9?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61wBRlZjDQL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-05T22:00:00-03:00",
+   "entrou": "2026-11-04T17:29:28.556253-03:00"
+  },
+  {
+   "id": "amz-B0FH3W32GS",
+   "canal": "marcas",
+   "nome": "Tênis Fila Racer Fastpace Masculino",
+   "preco_antigo": 499.99,
+   "preco": 209.9,
+   "desconto": 58,
+   "link": "https://www.amazon.com.br/dp/B0FH3W32GS?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/518oCv3h4wL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-05T22:00:00-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "entrou": "2026-11-04T17:29:28.556253-03:00"
+  },
+  {
+   "id": "amz-B0CQ7N63YB",
+   "canal": "marcas",
+   "nome": "Tênis New Balance 574V2 Masculino",
+   "preco_antigo": 599.99,
+   "preco": 309.9,
+   "desconto": 48,
+   "link": "https://www.amazon.com.br/dp/B0CQ7N63YB?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51dpvtoj5mL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-05T22:00:00-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "gancho": "NEW BALANCE 574 QUASE PELA METADE",
+   "entrou": "2026-11-04T17:29:28.556253-03:00"
+  },
+  {
+   "id": "amz-B0GVPGKM4P",
+   "canal": "tech",
+   "nome": "Fone Bluetooth JBL Tune 780NC com Cancelamento de Ruído",
+   "preco_antigo": 560.52,
+   "preco": 378.04,
+   "desconto": 33,
+   "link": "https://www.amazon.com.br/dp/B0GVPGKM4P?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51MnMPeZUWL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-05T22:00:00-03:00",
+   "gancho": "JBL COM CANCELAMENTO DE RUÍDO POR MENOS",
+   "entrou": "2026-11-04T17:29:28.556253-03:00"
   }
  ],
  "menus_fixados": [
@@ -3750,7 +3787,8 @@
   "echodotsmartspeakercomalexa": "2026-11-04T16:34:26.355038-03:00",
   "perfumelancomelanuittresorfemininoedp": "2026-11-04T17:03:10.772350-03:00",
   "tenismizunosunrise": "2026-11-04T17:18:31.904960-03:00",
-  "mousesemfiologitechsignaturem550cliquesilencioso": "2026-11-04T17:29:02.276910-03:00"
+  "mousesemfiologitechsignaturem550cliquesilencioso": "2026-11-04T17:29:02.276910-03:00",
+  "secadordecabelotaiffstyle2000w127v": "2026-11-04T17:40:23.683101-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
@@ -3875,7 +3913,7 @@
   }
  },
  "ig_dm_links": {},
- "story_link_dia": "2026-11-03",
+ "story_link_dia": "2026-11-04",
  "pede_semana": "2026-45",
  "ultimo_garimpo": "2026-11-04T12:46:42-03:00",
  "vigia_aviso_post": "2026-11-03T15:13:56.183802-03:00",
