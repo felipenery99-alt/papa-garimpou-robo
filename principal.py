@@ -522,6 +522,8 @@ def soltar_fila(h: dict, telegram, limite: datetime) -> int:
     return erros
 
 
+# 04/11 (Central): TODO Reel (de ofertas ou do banco de dicas) sai com a chamada para seguir na legenda
+SIGA_REEL = "\n\n👉 Siga @papa.garimpou pra não perder"
 LEGENDA_CTA = ("\n\nComenta QUERO que o Papa te manda o link no direct 💎\n"
                "Achou coisa boa de marca, o Papa posta na hora. Só loja oficial, grátis no Telegram.\n"
                "Comenta CANAIS que eu te mando os 4 canais no direct 📲\n\n"
@@ -535,7 +537,7 @@ def reels_do_banco(h: dict, agora: datetime) -> tuple[list[bytes], str]:
     quadros = [artes.capa_reel(("O PAPA", "ENSINA"), "3 coisas antes de comprar")] + [artes.peca(p) for p in pcs]
     quadros.append(artes.story_convite())
     leg = "😎💎 " + " / ".join(p["titulo"][0].title() for p in pcs) + "\n\n" + pcs[0]["legenda"].replace("😎💎 ", "")
-    return quadros, leg + LEGENDA_CTA
+    return quadros, leg + SIGA_REEL + LEGENDA_CTA
 
 
 def post_do_banco(h: dict, agora: datetime, chave: str) -> None:
@@ -803,7 +805,7 @@ def rodar_instagram(h: dict, agora: datetime) -> None:
                     quadros = ([capa] + [artes.story_oferta(o, o["canal"]) for o in top] + [artes.story_convite()])
                     lista = "\n".join(f"{i+1}. {o['nome'][:60]} — {post._brl(o['preco'])}" for i, o in enumerate(top))
                     leg = (topo + "\n\n" + lista
-                           + "\n\nSegue o @papa.garimpou pra ver os achados de marca todo dia 👀" + LEGENDA_CTA)
+                           + SIGA_REEL + LEGENDA_CTA)
                     h["ig_reels_ofertas"][hoje] = list(ja | {o["id"] for o in top})
                 else:
                     # sem oferta nova suficiente: Reels de dica do banco (alcance não pode parar)
