@@ -428,7 +428,9 @@
   "2026-11-04 marcas 14:27 amz-B0FFTQD31C",
   "2026-11-04 tech 14:34 amz-B0BYWL962Q",
   "2026-11-04 achadinhos 14:45 amz-B08R9341ZB",
-  "2026-11-04 tech 14:55 amz-B0FPG9431G"
+  "2026-11-04 tech 14:55 amz-B0FPG9431G",
+  "2026-11-04 marcas 15:23 amz-B0GML6PZ9V",
+  "2026-11-04 achadinhos 15:37 amz-B0FHGDL31P"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -865,7 +867,9 @@
   "amz-B0FFTQD31C": "2026-11-04T14:27:07.685844-03:00",
   "amz-B0BYWL962Q": "2026-11-04T14:34:51.498160-03:00",
   "amz-B08R9341ZB": "2026-11-04T14:45:24.564881-03:00",
-  "amz-B0FPG9431G": "2026-11-04T14:55:46.776574-03:00"
+  "amz-B0FPG9431G": "2026-11-04T14:55:46.776574-03:00",
+  "amz-B0GML6PZ9V": "2026-11-04T15:23:26.905682-03:00",
+  "amz-B0FHGDL31P": "2026-11-04T15:37:32.066020-03:00"
  },
  "ofertas_dia": [
   {
@@ -2590,6 +2594,38 @@
    "valida_ate": "2026-11-05T22:00:00-03:00",
    "entrou": "2026-11-04T12:57:37.447920-03:00",
    "dia": "2026-11-04"
+  },
+  {
+   "id": "amz-B0GML6PZ9V",
+   "canal": "marcas",
+   "nome": "Tênis de Corrida Under Armour Charged Skyline 5 Masculino",
+   "preco_antigo": 499.99,
+   "preco": 266.12,
+   "desconto": 47,
+   "link": "https://www.amazon.com.br/dp/B0GML6PZ9V?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71Ar-TTKnbL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-05T22:00:00-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "entrou": "2026-11-04T12:57:37.447920-03:00",
+   "dia": "2026-11-04"
+  },
+  {
+   "id": "amz-B0FHGDL31P",
+   "canal": "achadinhos",
+   "nome": "Papel Higiênico Neve Folha Tripla 12 rolos",
+   "preco_antigo": 32.49,
+   "preco": 18.99,
+   "desconto": 42,
+   "link": "https://www.amazon.com.br/dp/B0FHGDL31P?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61iC47nPfOL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-05T22:00:00-03:00",
+   "gancho": "ESTOQUE DE NEVE PRA CASA",
+   "entrou": "2026-11-04T12:57:37.447920-03:00",
+   "dia": "2026-11-04"
   }
  ],
  "ig_feitos": [
@@ -2733,7 +2769,11 @@
   "2026-11-04 12:47 story_oferta",
   "2026-11-04 13:20 story_convite",
   "2026-11-04 13:22 story_oferta",
-  "2026-11-04 14:08 story_oferta"
+  "2026-11-04 14:08 story_oferta",
+  "2026-11-04 15:00 adivinha",
+  "2026-11-04 feed",
+  "2026-11-04 14:25 post_achado",
+  "2026-11-04 15:03 story_oferta"
  ],
  "ig_ofertas_usadas": [
   "amz-B0GP7KDZRJ",
@@ -2910,7 +2950,10 @@
   "amz-B0CVXT6NQB",
   "amz-B0FPRPMGXG",
   "amz-B0CCT3ZDTX",
-  "amz-B08XQWLDKP"
+  "amz-B08XQWLDKP",
+  "amz-B0CVCG6S9C",
+  "amz-B0FWS3N7RN",
+  "amz-B0CJ3BDN7T"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
@@ -2962,21 +3005,6 @@
  },
  "ultimo_pilar": "mito",
  "fila": [
-  {
-   "id": "amz-B0FHGDL31P",
-   "canal": "achadinhos",
-   "nome": "Papel Higiênico Neve Folha Tripla 12 rolos",
-   "preco_antigo": 32.49,
-   "preco": 18.99,
-   "desconto": 42,
-   "link": "https://www.amazon.com.br/dp/B0FHGDL31P?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61iC47nPfOL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-05T22:00:00-03:00",
-   "gancho": "ESTOQUE DE NEVE PRA CASA",
-   "entrou": "2026-11-04T12:57:37.447920-03:00"
-  },
   {
    "id": "amz-B08TM75GN4",
    "canal": "achadinhos",
@@ -3033,21 +3061,6 @@
    "loja": "Vendido e entregue pela Amazon",
    "plataforma": "Amazon",
    "valida_ate": "2026-11-05T22:00:00-03:00",
-   "entrou": "2026-11-04T12:57:37.447920-03:00"
-  },
-  {
-   "id": "amz-B0GML6PZ9V",
-   "canal": "marcas",
-   "nome": "Tênis de Corrida Under Armour Charged Skyline 5 Masculino",
-   "preco_antigo": 499.99,
-   "preco": 266.12,
-   "desconto": 47,
-   "link": "https://www.amazon.com.br/dp/B0GML6PZ9V?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/71Ar-TTKnbL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-05T22:00:00-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
    "entrou": "2026-11-04T12:57:37.447920-03:00"
   },
   {
@@ -3397,6 +3410,36 @@
    "valida_ate": "2026-11-04T22:00:00-03:00",
    "gancho": "GALAXY BUDS4 COM 44% OFF",
    "entrou": "2026-11-04T14:18:36.579049-03:00"
+  },
+  {
+   "id": "amz-B0G72J3245",
+   "canal": "marcas",
+   "nome": "Tênis New Balance BB80 Unissex",
+   "preco_antigo": 399.99,
+   "preco": 209.9,
+   "desconto": 48,
+   "link": "https://www.amazon.com.br/dp/B0G72J3245?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/512G2QQesLL._AC_SL1200_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-05T22:00:00-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "entrou": "2026-11-04T15:13:40.204723-03:00"
+  },
+  {
+   "id": "amz-B0D1YL2QLB",
+   "canal": "marcas",
+   "nome": "Tênis de Corrida Puma Pounce Lite",
+   "preco_antigo": 449.99,
+   "preco": 230.9,
+   "desconto": 49,
+   "link": "https://www.amazon.com.br/dp/B0D1YL2QLB?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61K-WglX+7L._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-05T22:00:00-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "entrou": "2026-11-04T15:13:40.204723-03:00"
   }
  ],
  "menus_fixados": [
@@ -3687,7 +3730,9 @@
   "tenismizunocoolride3": "2026-11-04T14:27:07.685844-03:00",
   "fonebluetoothjbltune720btoverear": "2026-11-04T14:34:51.498160-03:00",
   "fritadeiraairfryovenbritaniabfr2100p12l": "2026-11-04T14:45:24.564881-03:00",
-  "smartwatchhuaweiwatchgt646mm": "2026-11-04T14:55:46.776574-03:00"
+  "smartwatchhuaweiwatchgt646mm": "2026-11-04T14:55:46.776574-03:00",
+  "tenisdecorridaunderarmourchargedskyline5masculino": "2026-11-04T15:23:26.905682-03:00",
+  "papelhigieniconevefolhatripla12rolos": "2026-11-04T15:37:32.066020-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
@@ -3793,22 +3838,22 @@
  },
  "tg_offset": 354369944,
  "adivinha": {
-  "dia": "2026-11-02",
+  "dia": "2026-11-04",
   "oferta": {
-   "id": "amz-B08LPLKJBM",
-   "canal": "marcas",
-   "nome": "Camiseta Hering World Manga Curta Masculina",
-   "preco_antigo": 69.99,
-   "preco": 30.23,
-   "desconto": 57,
-   "link": "https://www.amazon.com.br/dp/B08LPLKJBM?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/71yKuvyyOrL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
+   "id": "amz-B0CVCG6S9C",
+   "canal": "tech",
+   "nome": "Smartwatch Samsung Galaxy Fit3 Tela 1.6\" Prata",
+   "preco_antigo": 549.0,
+   "preco": 209.95,
+   "desconto": 62,
+   "link": "https://www.amazon.com.br/dp/B0CVCG6S9C?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51It6ch5f7L._AC_SL1500_.jpg",
+   "loja": "Vendido por parceiro · entregue pela Amazon",
    "plataforma": "Amazon",
-   "valida_ate": "2026-11-03T22:00:00-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "entrou": "2026-11-02T08:17:16.830188-03:00",
-   "dia": "2026-11-02"
+   "valida_ate": "2026-11-05T22:00:00-03:00",
+   "gancho": "GALAXY FIT3 PELA METADE DO PREÇO",
+   "entrou": "2026-11-04T12:57:37.447920-03:00",
+   "dia": "2026-11-04"
   }
  },
  "ig_dm_links": {},

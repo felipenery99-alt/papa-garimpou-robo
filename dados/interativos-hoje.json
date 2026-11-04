@@ -1,27 +1,18 @@
 {
- "dia": "2026-11-03",
+ "dia": "2026-11-04",
  "itens": [
   {
-   "tipo": "a_ou_b",
-   "hora": "18:09",
+   "tipo": "adivinha",
+   "hora": "15:13",
    "produtos": [
     {
-     "nome": "Tech T-Shirt Manga Longa Masculina Insider",
-     "preco_antigo": 209.0,
-     "preco": 93.41,
-     "desconto": 55,
-     "link": "https://www.amazon.com.br/dp/B0DZ3464ZM?tag=papagarimpou-20",
-     "loja": "Vendido e entregue pela Amazon",
-     "canal": "marcas"
-    },
-    {
-     "nome": "Perfume Azzaro Pour Homme Masculino EDT",
-     "preco_antigo": 839.0,
-     "preco": 451.99,
-     "desconto": 46,
-     "link": "https://www.amazon.com.br/dp/B000P20TAY?tag=papagarimpou-20",
-     "loja": "Vendido e entregue pela Amazon",
-     "canal": "marcas"
+     "nome": "Smartwatch Samsung Galaxy Fit3 Tela 1.6\" Prata",
+     "preco_antigo": 549.0,
+     "preco": 209.95,
+     "desconto": 62,
+     "link": "https://www.amazon.com.br/dp/B0CVCG6S9C?tag=papagarimpou-20",
+     "loja": "Vendido por parceiro · entregue pela Amazon",
+     "canal": "tech"
     }
    ]
   }
