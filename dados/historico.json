@@ -414,7 +414,12 @@
   "2026-11-04 achadinhos 09:59 amz-B07WCVW56S",
   "2026-11-04 marcas 10:04 amz-B0CVXT6NQB",
   "2026-11-04 tech 10:11 amz-B0FPRPMGXG",
-  "2026-11-04 achadinhos 10:15 amz-B0CCT3ZDTX"
+  "2026-11-04 achadinhos 10:15 amz-B0CCT3ZDTX",
+  "2026-11-04 achadinhos 10:46 amz-B08XQWLDKP",
+  "2026-11-04 marcas 10:49 amz-B0FWS3N7RN",
+  "2026-11-04 tech 10:52 amz-B0CJ3BDN7T",
+  "2026-11-04 achadinhos 10:58 amz-B008SBKTZ4",
+  "2026-11-04 marcas 11:05 amz-B0DH9Y4MMF"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -837,7 +842,12 @@
   "amz-B07WCVW56S": "2026-11-04T09:59:23.448800-03:00",
   "amz-B0CVXT6NQB": "2026-11-04T10:04:17.881842-03:00",
   "amz-B0FPRPMGXG": "2026-11-04T10:11:04.477501-03:00",
-  "amz-B0CCT3ZDTX": "2026-11-04T10:15:54.473882-03:00"
+  "amz-B0CCT3ZDTX": "2026-11-04T10:15:54.473882-03:00",
+  "amz-B08XQWLDKP": "2026-11-04T10:46:13.613257-03:00",
+  "amz-B0FWS3N7RN": "2026-11-04T10:49:19.449980-03:00",
+  "amz-B0CJ3BDN7T": "2026-11-04T10:52:42.376948-03:00",
+  "amz-B008SBKTZ4": "2026-11-04T10:58:19.403926-03:00",
+  "amz-B0DH9Y4MMF": "2026-11-04T11:05:07.600386-03:00"
  },
  "ofertas_dia": [
   {
@@ -2343,6 +2353,83 @@
    "valida_ate": "2026-11-04T22:00:00-03:00",
    "entrou": "2026-11-04T09:02:33.151948-03:00",
    "dia": "2026-11-04"
+  },
+  {
+   "id": "amz-B08XQWLDKP",
+   "canal": "achadinhos",
+   "nome": "Parafusadeira e Furadeira Bosch GSR 1000 Smart 12V",
+   "preco_antigo": 399.0,
+   "preco": 229.0,
+   "desconto": 43,
+   "link": "https://www.amazon.com.br/dp/B08XQWLDKP?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61nXSgxFHeL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-04T22:00:00-03:00",
+   "entrou": "2026-11-04T09:02:33.151948-03:00",
+   "dia": "2026-11-04"
+  },
+  {
+   "id": "amz-B0FWS3N7RN",
+   "canal": "marcas",
+   "nome": "Kit 2 Camisetas com Bolso Reserva",
+   "preco_antigo": 338.0,
+   "preco": 142.4,
+   "desconto": 58,
+   "link": "https://www.amazon.com.br/dp/B0FWS3N7RN?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/413NI1CnLBL._AC_SL1200_.jpg",
+   "loja": "Loja oficial Reserva · entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-04T22:00:00-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "entrou": "2026-11-04T09:02:33.151948-03:00",
+   "dia": "2026-11-04"
+  },
+  {
+   "id": "amz-B0CJ3BDN7T",
+   "canal": "tech",
+   "nome": "Mouse Sem Fio Logitech Pebble 2 M350s Silencioso",
+   "preco_antigo": 123.9,
+   "preco": 79.9,
+   "desconto": 36,
+   "link": "https://www.amazon.com.br/dp/B0CJ3BDN7T?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51pIShw4V8L._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-04T22:00:00-03:00",
+   "entrou": "2026-11-04T09:02:33.151948-03:00",
+   "dia": "2026-11-04"
+  },
+  {
+   "id": "amz-B008SBKTZ4",
+   "canal": "achadinhos",
+   "nome": "Perfume La Vie est Belle Lancôme Feminino EDP",
+   "preco_antigo": 529.0,
+   "preco": 299.99,
+   "desconto": 43,
+   "link": "https://www.amazon.com.br/dp/B008SBKTZ4?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51Vxh1QRSJL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-04T22:00:00-03:00",
+   "entrou": "2026-11-04T09:02:33.151948-03:00",
+   "dia": "2026-11-04"
+  },
+  {
+   "id": "amz-B0DH9Y4MMF",
+   "canal": "marcas",
+   "nome": "Camiseta Algodão Pica-Pau Reserva",
+   "preco_antigo": 149.0,
+   "preco": 79.8,
+   "desconto": 46,
+   "link": "https://www.amazon.com.br/dp/B0DH9Y4MMF?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51SlW+t4h4L._AC_SL1000_.jpg",
+   "loja": "Loja oficial Reserva · entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-04T22:00:00-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "entrou": "2026-11-04T09:02:33.151948-03:00",
+   "dia": "2026-11-04"
   }
  ],
  "ig_feitos": [
@@ -2473,7 +2560,9 @@
   "2026-11-04 08:52 story_oferta",
   "2026-11-04 feed",
   "2026-11-04 09:35 post_achado",
-  "2026-11-04 09:38 story_oferta"
+  "2026-11-04 09:38 story_oferta",
+  "2026-11-04 10:20 story_oferta",
+  "2026-11-04 10:24 story_oferta"
  ],
  "ig_ofertas_usadas": [
   "amz-B0GP7KDZRJ",
@@ -2643,7 +2732,9 @@
   "amz-B0BYK9KP3W",
   "amz-B08TMCHQJM",
   "amz-B0GHSCS2P5",
-  "amz-B0CW7D8Z69"
+  "amz-B0CW7D8Z69",
+  "amz-B017WWSY5Q",
+  "amz-B0G4SQNDHB"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
@@ -2695,34 +2786,6 @@
  },
  "ultimo_pilar": "mito",
  "fila": [
-  {
-   "id": "amz-B08XQWLDKP",
-   "canal": "achadinhos",
-   "nome": "Parafusadeira e Furadeira Bosch GSR 1000 Smart 12V",
-   "preco_antigo": 399.0,
-   "preco": 229.0,
-   "desconto": 43,
-   "link": "https://www.amazon.com.br/dp/B08XQWLDKP?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61nXSgxFHeL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-04T22:00:00-03:00",
-   "entrou": "2026-11-04T09:02:33.151948-03:00"
-  },
-  {
-   "id": "amz-B008SBKTZ4",
-   "canal": "achadinhos",
-   "nome": "Perfume La Vie est Belle Lancôme Feminino EDP",
-   "preco_antigo": 529.0,
-   "preco": 299.99,
-   "desconto": 43,
-   "link": "https://www.amazon.com.br/dp/B008SBKTZ4?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51Vxh1QRSJL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-04T22:00:00-03:00",
-   "entrou": "2026-11-04T09:02:33.151948-03:00"
-  },
   {
    "id": "amz-B0DB8TRNZX",
    "canal": "achadinhos",
@@ -2793,36 +2856,6 @@
    "loja": "Vendido e entregue pela Amazon",
    "plataforma": "Amazon",
    "valida_ate": "2026-11-04T22:00:00-03:00",
-   "entrou": "2026-11-04T09:02:33.151948-03:00"
-  },
-  {
-   "id": "amz-B0FWS3N7RN",
-   "canal": "marcas",
-   "nome": "Kit 2 Camisetas com Bolso Reserva",
-   "preco_antigo": 338.0,
-   "preco": 142.4,
-   "desconto": 58,
-   "link": "https://www.amazon.com.br/dp/B0FWS3N7RN?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/413NI1CnLBL._AC_SL1200_.jpg",
-   "loja": "Loja oficial Reserva · entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-04T22:00:00-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "entrou": "2026-11-04T09:02:33.151948-03:00"
-  },
-  {
-   "id": "amz-B0DH9Y4MMF",
-   "canal": "marcas",
-   "nome": "Camiseta Algodão Pica-Pau Reserva",
-   "preco_antigo": 149.0,
-   "preco": 79.8,
-   "desconto": 46,
-   "link": "https://www.amazon.com.br/dp/B0DH9Y4MMF?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51SlW+t4h4L._AC_SL1000_.jpg",
-   "loja": "Loja oficial Reserva · entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-04T22:00:00-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
    "entrou": "2026-11-04T09:02:33.151948-03:00"
   },
   {
@@ -2929,20 +2962,6 @@
    "plataforma": "Amazon",
    "valida_ate": "2026-11-04T22:00:00-03:00",
    "extra": "Preço a partir de: varia por tamanho e cor",
-   "entrou": "2026-11-04T09:02:33.151948-03:00"
-  },
-  {
-   "id": "amz-B0CJ3BDN7T",
-   "canal": "tech",
-   "nome": "Mouse Sem Fio Logitech Pebble 2 M350s Silencioso",
-   "preco_antigo": 123.9,
-   "preco": 79.9,
-   "desconto": 36,
-   "link": "https://www.amazon.com.br/dp/B0CJ3BDN7T?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51pIShw4V8L._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-04T22:00:00-03:00",
    "entrou": "2026-11-04T09:02:33.151948-03:00"
   },
   {
@@ -3328,7 +3347,12 @@
   "perfumeidolelancomefemininoedp": "2026-11-04T09:59:23.448800-03:00",
   "kit2camisaspolobasicasmasculinashering": "2026-11-04T10:04:17.881842-03:00",
   "soundbarjblbar800mk271canaissurroundremovivel": "2026-11-04T10:11:04.477501-03:00",
-  "protetorsolarfaciallarocheposayantheliosairlicium": "2026-11-04T10:15:54.473882-03:00"
+  "protetorsolarfaciallarocheposayantheliosairlicium": "2026-11-04T10:15:54.473882-03:00",
+  "parafusadeiraefuradeiraboschgsr1000smart12v": "2026-11-04T10:46:13.613257-03:00",
+  "kit2camisetascombolsoreserva": "2026-11-04T10:49:19.449980-03:00",
+  "mousesemfiologitechpebble2m350ssilencioso": "2026-11-04T10:52:42.376948-03:00",
+  "perfumelavieestbellelancomefemininoedp": "2026-11-04T10:58:19.403926-03:00",
+  "camisetaalgodaopicapaureserva": "2026-11-04T11:05:07.600386-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
