@@ -946,7 +946,9 @@
   "loja": "Vendido e entregue pela Amazon",
   "plataforma": "Amazon",
   "valida_ate": "2026-11-06T22:00:00-03:00",
-  "extra": "Preço a partir de: varia por tamanho e cor"
+  "extra": "Preço a partir de: varia por tamanho e cor ⚡ Saiu primeiro no Telegram",
+  "nao_antes": "2026-11-06T09:00:00-03:00",
+  "so_telegram_ate": "2026-11-06T11:00:00-03:00"
  },
  {
   "id": "amz-B099ZJQXMF",
