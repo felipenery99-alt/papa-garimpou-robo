@@ -132,8 +132,15 @@ def hospedar(nome: str, conteudo: bytes, permanente: bool = False) -> str:
         # mesma imagem já publicada antes (ex.: nova tentativa): nada a gravar, segue com o link que já existe
         if subprocess.run(["git", "diff", "--cached", "--quiet"], cwd=PASTA).returncode != 0:
             subprocess.run(["git", "commit", "-m", f"mídia {nome}"], cwd=PASTA, check=True)
-            subprocess.run(["git", "pull", "--rebase", "--autostash", "-q"], cwd=PASTA, check=True)
-            subprocess.run(["git", "push", "-q"], cwd=PASTA, check=True)
+            # 05/11 19h15 (post_achado perdido): outra sessão gravou no main entre o pull e o push e o push foi
+            # recusado. Agora tenta até 5 vezes (pull --rebase + push) antes de desistir.
+            for tentativa in range(5):
+                subprocess.run(["git", "pull", "--rebase", "--autostash", "-q"], cwd=PASTA, check=False)
+                if subprocess.run(["git", "push", "-q"], cwd=PASTA).returncode == 0:
+                    break
+                time.sleep(3 * (tentativa + 1))
+            else:
+                raise RuntimeError(f"push da mídia {nome} recusado 5 vezes")
         _esperar_raw(REPO_RAW + nome, nome)
     return REPO_RAW + nome
 
