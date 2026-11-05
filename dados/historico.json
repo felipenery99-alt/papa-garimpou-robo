@@ -494,7 +494,10 @@
   "2026-11-05 achadinhos 15:13 amz-B07K32CH6K",
   "2026-11-05 marcas 15:29 amz-B0GWFSCF74",
   "2026-11-05 tech 15:39 amz-B0FR7KN6NX",
-  "2026-11-05 achadinhos 15:50 amz-B0BLZVD5S5"
+  "2026-11-05 achadinhos 15:50 amz-B0BLZVD5S5",
+  "2026-11-05 achadinhos 16:05 shopee-54114684881",
+  "2026-11-05 tech 16:18 amz-B0F1C3MRMF",
+  "2026-11-05 marcas 16:26 shopee-19646145273"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -997,7 +1000,10 @@
   "amz-B07K32CH6K": "2026-11-05T15:13:28.678638-03:00",
   "amz-B0GWFSCF74": "2026-11-05T15:29:14.430711-03:00",
   "amz-B0FR7KN6NX": "2026-11-05T15:39:11.425810-03:00",
-  "amz-B0BLZVD5S5": "2026-11-05T15:50:39.295911-03:00"
+  "amz-B0BLZVD5S5": "2026-11-05T15:50:39.295911-03:00",
+  "shopee-54114684881": "2026-11-05T16:05:07.770060-03:00",
+  "amz-B0F1C3MRMF": "2026-11-05T16:18:45.643547-03:00",
+  "shopee-19646145273": "2026-11-05T16:26:50.399112-03:00"
  },
  "ofertas_dia": [
   {
@@ -2946,6 +2952,57 @@
    "valida_ate": "2026-11-06T22:00:00-03:00",
    "entrou": "2026-11-05T12:29:48.873047-03:00",
    "dia": "2026-11-05"
+  },
+  {
+   "id": "shopee-54114684881",
+   "plataforma": "Shopee",
+   "nome": "Deo Parfum Natura Essencial Masculino Miniatura 25 ml",
+   "loja": "NATURA",
+   "loja_oficial": true,
+   "preco": 69.44,
+   "preco_antigo": 115.73,
+   "desconto": 40,
+   "vendas": 372,
+   "nota": 5.0,
+   "comissao_pct": 13.0,
+   "imagem": "https://cf.shopee.com.br/file/sg-11134201-825ar-mr0o2v3qr3es84",
+   "link": "https://s.shopee.com.br/8AXPeqpqzF",
+   "canal": "achadinhos",
+   "entrou": "2026-11-05T12:29:48.873047-03:00",
+   "dia": "2026-11-05"
+  },
+  {
+   "id": "amz-B0F1C3MRMF",
+   "canal": "tech",
+   "nome": "Headset Gamer Redragon Zeus Lite",
+   "preco_antigo": 249.9,
+   "preco": 149.9,
+   "desconto": 40,
+   "link": "https://www.amazon.com.br/dp/B0F1C3MRMF?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61pvhJpLRRL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-06T22:00:00-03:00",
+   "entrou": "2026-11-05T12:29:48.873047-03:00",
+   "dia": "2026-11-05"
+  },
+  {
+   "id": "shopee-19646145273",
+   "plataforma": "Shopee",
+   "nome": "Calça Leg Legging Max Lupo Sport Tecnologia Sem Costura Seamless Dry para Treino de Alto Rendimento",
+   "loja": "Deccó",
+   "loja_oficial": true,
+   "preco": 146.99,
+   "preco_antigo": 222.71,
+   "desconto": 34,
+   "vendas": 2069,
+   "nota": 4.9,
+   "comissao_pct": 13.0,
+   "imagem": "https://cf.shopee.com.br/file/br-11134207-820lm-mtqpjx92cw7411",
+   "link": "https://s.shopee.com.br/LoYKa7Zfv",
+   "canal": "marcas",
+   "entrou": "2026-11-05T12:29:48.873047-03:00",
+   "dia": "2026-11-05"
   }
  ],
  "ig_feitos": [
@@ -3090,9 +3147,6 @@
   "2026-11-05 15:03 story_oferta"
  ],
  "ig_ofertas_usadas": [
-  "amz-B0FDX5NC1G",
-  "amz-B086YK7M5Y",
-  "amz-B07M79GTYK",
   "amz-B0CCX78R2N",
   "amz-B07FFRJSJ4",
   "amz-B07VKQKHVK",
@@ -3346,51 +3400,6 @@
  "ultimo_pilar": "blackfriday",
  "fila": [
   {
-   "id": "amz-B0CKJ83V8K",
-   "canal": "marcas",
-   "nome": "Tênis Puma Club II Era",
-   "preco_antigo": 449.99,
-   "preco": 213.39,
-   "desconto": 53,
-   "link": "https://www.amazon.com.br/dp/B0CKJ83V8K?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/41q7j21yBrL._AC_SL1200_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-06T22:00:00-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "gancho": "PUMA PELA METADE, PODE CONFERIR",
-   "entrou": "2026-11-05T12:29:48.873047-03:00"
-  },
-  {
-   "id": "amz-B0FFTPDKRZ",
-   "canal": "marcas",
-   "nome": "Tênis Mizuno City Wall",
-   "preco_antigo": 329.99,
-   "preco": 159.9,
-   "desconto": 52,
-   "link": "https://www.amazon.com.br/dp/B0FFTPDKRZ?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/414oGdUO1YL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-06T22:00:00-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "entrou": "2026-11-05T12:29:48.873047-03:00"
-  },
-  {
-   "id": "amz-B0F1C3MRMF",
-   "canal": "tech",
-   "nome": "Headset Gamer Redragon Zeus Lite",
-   "preco_antigo": 249.9,
-   "preco": 149.9,
-   "desconto": 40,
-   "link": "https://www.amazon.com.br/dp/B0F1C3MRMF?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61pvhJpLRRL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-06T22:00:00-03:00",
-   "entrou": "2026-11-05T12:29:48.873047-03:00"
-  },
-  {
    "id": "amz-B0CJ3J2WCR",
    "canal": "tech",
    "nome": "Teclado sem Fio Logitech Pebble Keys 2 K380s",
@@ -3402,23 +3411,6 @@
    "loja": "Vendido e entregue pela Amazon",
    "plataforma": "Amazon",
    "valida_ate": "2026-11-06T22:00:00-03:00",
-   "entrou": "2026-11-05T12:29:48.873047-03:00"
-  },
-  {
-   "id": "shopee-54114684881",
-   "plataforma": "Shopee",
-   "nome": "Deo Parfum Natura Essencial Masculino Miniatura 25 ml",
-   "loja": "NATURA",
-   "loja_oficial": true,
-   "preco": 69.44,
-   "preco_antigo": 115.73,
-   "desconto": 40,
-   "vendas": 372,
-   "nota": 5.0,
-   "comissao_pct": 13.0,
-   "imagem": "https://cf.shopee.com.br/file/sg-11134201-825ar-mr0o2v3qr3es84",
-   "link": "https://s.shopee.com.br/8AXPeqpqzF",
-   "canal": "achadinhos",
    "entrou": "2026-11-05T12:29:48.873047-03:00"
   },
   {
@@ -3504,23 +3496,6 @@
    "imagem": "https://cf.shopee.com.br/file/sg-11134201-825bd-muxisdeuisqv69",
    "link": "https://s.shopee.com.br/9V2nFGP6bU",
    "canal": "achadinhos",
-   "entrou": "2026-11-05T12:29:48.873047-03:00"
-  },
-  {
-   "id": "shopee-19646145273",
-   "plataforma": "Shopee",
-   "nome": "Calça Leg Legging Max Lupo Sport Tecnologia Sem Costura Seamless Dry para Treino de Alto Rendimento",
-   "loja": "Deccó",
-   "loja_oficial": true,
-   "preco": 146.99,
-   "preco_antigo": 222.71,
-   "desconto": 34,
-   "vendas": 2069,
-   "nota": 4.9,
-   "comissao_pct": 13.0,
-   "imagem": "https://cf.shopee.com.br/file/br-11134207-820lm-mtqpjx92cw7411",
-   "link": "https://s.shopee.com.br/LoYKa7Zfv",
-   "canal": "marcas",
    "entrou": "2026-11-05T12:29:48.873047-03:00"
   },
   {
@@ -3771,6 +3746,111 @@
    "valida_ate": "2026-11-06T22:00:00-03:00",
    "extra": "Preço a partir de: varia por tamanho e cor",
    "entrou": "2026-11-05T15:13:28.675186-03:00"
+  },
+  {
+   "id": "amz-B0CWLMCJDM",
+   "canal": "achadinhos",
+   "nome": "Air Fryer Britânia 5,5L 1500W",
+   "preco_antigo": 501.49,
+   "preco": 271.22,
+   "desconto": 46,
+   "link": "https://www.amazon.com.br/dp/B0CWLMCJDM?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51qDxilXGWL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-06T22:00:00-03:00",
+   "gancho": "AIR FRYER BRITÂNIA QUASE PELA METADE",
+   "entrou": "2026-11-05T15:51:11.471723-03:00"
+  },
+  {
+   "id": "amz-B0DKJYNXM4",
+   "canal": "achadinhos",
+   "nome": "Kit 6 Potes Herméticos Electrolux empilháveis",
+   "preco_antigo": 169.9,
+   "preco": 99.0,
+   "desconto": 42,
+   "link": "https://www.amazon.com.br/dp/B0DKJYNXM4?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/41YGnsgADHL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-06T22:00:00-03:00",
+   "gancho": "GELADEIRA ORGANIZADA PELA ELECTROLUX",
+   "entrou": "2026-11-05T15:51:11.471723-03:00"
+  },
+  {
+   "id": "amz-B0CH5PTDY1",
+   "canal": "achadinhos",
+   "nome": "Chaleira Elétrica WAP WCE1 1,7 L base giratória",
+   "preco_antigo": 219.9,
+   "preco": 92.9,
+   "desconto": 58,
+   "link": "https://www.amazon.com.br/dp/B0CH5PTDY1?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61LT57JXUgL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-06T22:00:00-03:00",
+   "entrou": "2026-11-05T15:51:11.471723-03:00"
+  },
+  {
+   "id": "amz-B0GXLZ1Z88",
+   "canal": "marcas",
+   "nome": "Kit 12 pares Meia Lupo Sapatilha Invisível",
+   "preco_antigo": 206.99,
+   "preco": 68.2,
+   "desconto": 67,
+   "link": "https://www.amazon.com.br/dp/B0GXLZ1Z88?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71QLXERVEZL._AC_SL1500_.jpg",
+   "loja": "Vendido por parceiro · entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-06T22:00:00-03:00",
+   "gancho": "DOZE PARES DE LUPO, ACABOU O PÉ DESCASADO",
+   "entrou": "2026-11-05T15:51:11.471723-03:00"
+  },
+  {
+   "id": "amz-B0G7371M6T",
+   "canal": "marcas",
+   "nome": "Tênis New Balance BB80 unissex",
+   "preco_antigo": 399.99,
+   "preco": 209.9,
+   "desconto": 48,
+   "link": "https://www.amazon.com.br/dp/B0G7371M6T?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51kaxibPbEL._AC_SL1200_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-06T22:00:00-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "entrou": "2026-11-05T15:51:11.471723-03:00"
+  },
+  {
+   "id": "amz-B0CQB51NYR",
+   "canal": "marcas",
+   "nome": "Tênis New Balance 574V2 masculino",
+   "preco_antigo": 599.99,
+   "preco": 309.9,
+   "desconto": 48,
+   "link": "https://www.amazon.com.br/dp/B0CQB51NYR?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51kB1orleQL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-06T22:00:00-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "gancho": "O CLÁSSICO 574 DA NEW BALANCE EM OFERTA",
+   "entrou": "2026-11-05T15:51:11.471723-03:00"
+  },
+  {
+   "id": "amz-B07K986YLL",
+   "canal": "tech",
+   "nome": "Webcam Logitech C920s Full HD 1080p com microfone",
+   "preco_antigo": 599.9,
+   "preco": 299.9,
+   "desconto": 50,
+   "link": "https://www.amazon.com.br/dp/B07K986YLL?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61-6uAf8soL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-06T22:00:00-03:00",
+   "gancho": "A WEBCAM CLÁSSICA DA LOGITECH PELA METADE",
+   "entrou": "2026-11-05T15:51:11.471723-03:00"
   }
  ],
  "menus_fixados": [
@@ -4127,7 +4207,10 @@
   "jogodefacastramontinaplenus6pecascomcepo": "2026-11-05T15:13:28.678638-03:00",
   "tenisasicsgelnagoya8masculino": "2026-11-05T15:29:14.430711-03:00",
   "headsetgamersemfiologitechg522lightspeed": "2026-11-05T15:39:11.425810-03:00",
-  "protetorsolarlarocheposayultracover": "2026-11-05T15:50:39.295911-03:00"
+  "protetorsolarlarocheposayultracover": "2026-11-05T15:50:39.295911-03:00",
+  "deoparfumnaturaessencialmasculinominiatura25ml": "2026-11-05T16:05:07.770060-03:00",
+  "headsetgamerredragonzeuslite": "2026-11-05T16:18:45.643547-03:00",
+  "calcalegleggingmaxluposporttecnologiasemcosturaseamlessdryparatreinodealtorendimento": "2026-11-05T16:26:50.399112-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
@@ -4281,7 +4364,7 @@
  "ig_dm_links": {},
  "story_link_dia": "2026-11-04",
  "pede_semana": "2026-45",
- "ultimo_garimpo": "2026-11-05T11:44:53-03:00",
+ "ultimo_garimpo": "2026-11-05T15:46:32-03:00",
  "vigia_aviso_post": "2026-11-03T15:13:56.183802-03:00",
  "vigia_aviso_garimpo": "2026-11-04T16:54:34.643581-03:00",
  "resumo_enviado": "2026-11-04"
