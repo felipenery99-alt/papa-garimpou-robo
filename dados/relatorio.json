@@ -617,17 +617,17 @@
   "erros": [
    "Instagram 2026-11-05 12:40 reels falhou: Instagram recusou o envio do vídeo: {'debug_info': {'retriable': False, 'type': 'ProcessingFailedError', 'message': 'Request processing failed'}}. Não publiquei."
   ],
-  "ultima_execucao": "12:57",
-  "execucoes": 11,
+  "ultima_execucao": "13:34",
+  "execucoes": 12,
   "telegram_posts": {
-   "achadinhos": 9,
-   "marcas": 8,
-   "tech": 8
+   "achadinhos": 11,
+   "marcas": 10,
+   "tech": 9
   },
   "ultimo_post": {
-   "achadinhos": "13:26",
-   "marcas": "12:58",
-   "tech": "13:34"
+   "achadinhos": "13:35",
+   "marcas": "13:57",
+   "tech": "14:12"
   },
   "ultimo_garimpo": "05/11 11:44",
   "convites_story": {
@@ -659,7 +659,9 @@
    "12:15 story_top4",
    "12:19 story_oferta",
    "12:40 reels",
-   "12:47 story_oferta"
+   "12:47 story_oferta",
+   "13:20 story_convite",
+   "13:22 story_oferta"
   ],
   "shopee_ligada": true,
   "shopee_oficial_ids": {
@@ -1038,7 +1040,7 @@
    "shopee-58260861578": "vendas longe",
    "shopee-22192397274": "vendas longe",
    "shopee-15848213372": "desconto perto (até 10 pts)",
-   "shopee-20999203046": "desconto perto (até 10 pts)",
+   "shopee-20999203046": "aprovada",
    "shopee-22197499150": "desconto longe",
    "shopee-18799069741": "desconto longe",
    "shopee-23599291516": "desconto perto (até 10 pts)",
@@ -3310,16 +3312,16 @@
    "nota": 846,
    "vendas perto (125+)": 110,
    "outro: marca fora da lista boa": 80,
-   "aprovada": 63,
+   "aprovada": 64,
    "desconto longe": 58,
-   "desconto perto (até 10 pts)": 22,
+   "desconto perto (até 10 pts)": 21,
    "outro: palavra proibida: compatível": 10
   },
   "instagram": {
-   "seguidores": 152,
+   "seguidores": 153,
    "posts": 69,
    "reach": 5638,
-   "profile_views": 81,
+   "profile_views": 85,
    "website_clicks": 1,
    "stories_ativos": 25
   }

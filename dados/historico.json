@@ -481,7 +481,12 @@
   "2026-11-05 achadinhos 13:12 shopee-16168525614",
   "2026-11-05 tech 13:20 amz-B0FMFRFNWG",
   "2026-11-05 achadinhos 13:26 amz-B0F253GVWR",
-  "2026-11-05 tech 13:34 amz-B07643MPGS"
+  "2026-11-05 tech 13:34 amz-B07643MPGS",
+  "2026-11-05 achadinhos 13:34 amz-B0FN5DD149",
+  "2026-11-05 achadinhos 13:35 amz-B099ZJQXMF",
+  "2026-11-05 marcas 13:50 amz-B0F2JCBRV8",
+  "2026-11-05 marcas 13:57 amz-B0FYQF77WN",
+  "2026-11-05 tech 14:12 amz-B0D1DSW8TF"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -971,7 +976,12 @@
   "shopee-16168525614": "2026-11-05T13:12:05.627368-03:00",
   "amz-B0FMFRFNWG": "2026-11-05T13:20:01.538228-03:00",
   "amz-B0F253GVWR": "2026-11-05T13:26:13.963625-03:00",
-  "amz-B07643MPGS": "2026-11-05T13:34:29.207115-03:00"
+  "amz-B07643MPGS": "2026-11-05T13:34:29.207115-03:00",
+  "amz-B0FN5DD149": "2026-11-05T13:34:50.121347-03:00",
+  "amz-B099ZJQXMF": "2026-11-05T13:35:16.150345-03:00",
+  "amz-B0F2JCBRV8": "2026-11-05T13:50:45.582546-03:00",
+  "amz-B0FYQF77WN": "2026-11-05T13:57:17.385295-03:00",
+  "amz-B0D1DSW8TF": "2026-11-05T14:12:46.951779-03:00"
  },
  "ofertas_dia": [
   {
@@ -2720,6 +2730,83 @@
    "valida_ate": "2026-11-06T22:00:00-03:00",
    "entrou": "2026-11-05T12:06:27.043828-03:00",
    "dia": "2026-11-05"
+  },
+  {
+   "id": "amz-B0FN5DD149",
+   "canal": "achadinhos",
+   "nome": "Aparador e Barbeador Philips Série 3000 9 em 1",
+   "preco_antigo": 249.9,
+   "preco": 129.0,
+   "desconto": 48,
+   "link": "https://www.amazon.com.br/dp/B0FN5DD149?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71oDl7NmgaL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-06T22:00:00-03:00",
+   "entrou": "2026-11-05T12:06:27.043828-03:00",
+   "dia": "2026-11-05"
+  },
+  {
+   "id": "amz-B099ZJQXMF",
+   "canal": "achadinhos",
+   "nome": "Cafeteira Nespresso Essenza Mini Preta (127V)",
+   "preco_antigo": 829.0,
+   "preco": 479.0,
+   "desconto": 42,
+   "link": "https://www.amazon.com.br/dp/B099ZJQXMF?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51QP72LhToL._AC_SL1000_.jpg",
+   "loja": "Loja oficial Nespresso · Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-06T22:00:00-03:00",
+   "entrou": "2026-11-05T12:06:27.043828-03:00",
+   "dia": "2026-11-05"
+  },
+  {
+   "id": "amz-B0F2JCBRV8",
+   "canal": "marcas",
+   "nome": "Tênis Puma Flyer Lite 3 Feminino",
+   "preco_antigo": 329.99,
+   "preco": 180.0,
+   "desconto": 45,
+   "link": "https://www.amazon.com.br/dp/B0F2JCBRV8?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61dCVagV-+L._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-06T22:00:00-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "entrou": "2026-11-05T12:06:27.043828-03:00",
+   "dia": "2026-11-05"
+  },
+  {
+   "id": "amz-B0FYQF77WN",
+   "canal": "marcas",
+   "nome": "Tênis ASICS Novablast 5 TR Feminino",
+   "preco_antigo": 1100.0,
+   "preco": 599.99,
+   "desconto": 45,
+   "link": "https://www.amazon.com.br/dp/B0FYQF77WN?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61PiuxTHLnL._AC_SL1000_.jpg",
+   "loja": "Loja oficial ASICS · Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-06T22:00:00-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "entrou": "2026-11-05T12:06:27.043828-03:00",
+   "dia": "2026-11-05"
+  },
+  {
+   "id": "amz-B0D1DSW8TF",
+   "canal": "tech",
+   "nome": "Teclado Mecânico Gamer sem Fio Logitech G515 TKL",
+   "preco_antigo": 949.9,
+   "preco": 569.9,
+   "desconto": 40,
+   "link": "https://www.amazon.com.br/dp/B0D1DSW8TF?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61VvvVl6VCL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-06T22:00:00-03:00",
+   "entrou": "2026-11-05T12:29:48.873047-03:00",
+   "dia": "2026-11-05"
   }
  ],
  "ig_feitos": [
@@ -2856,10 +2943,11 @@
   "2026-11-05 12:15 story_top4",
   "2026-11-05 12:19 story_oferta",
   "2026-11-05 12:40 reels",
-  "2026-11-05 12:47 story_oferta"
+  "2026-11-05 12:47 story_oferta",
+  "2026-11-05 13:20 story_convite",
+  "2026-11-05 13:22 story_oferta"
  ],
  "ig_ofertas_usadas": [
-  "amz-B0GP7KDZRJ",
   "amz-B0HF1LQFDD",
   "amz-B0FDX5NC1G",
   "amz-B086YK7M5Y",
@@ -3058,7 +3146,8 @@
   "amz-B00WQSFO1E",
   "amz-B0CGCHWKH1",
   "amz-B07MRMHML9",
-  "amz-B09KYB18ZY"
+  "amz-B09KYB18ZY",
+  "amz-B0C2JFGFK9"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
@@ -3112,34 +3201,6 @@
  "ultimo_pilar": "blackfriday",
  "fila": [
   {
-   "id": "amz-B0FN5DD149",
-   "canal": "achadinhos",
-   "nome": "Aparador e Barbeador Philips Série 3000 9 em 1",
-   "preco_antigo": 249.9,
-   "preco": 129.0,
-   "desconto": 48,
-   "link": "https://www.amazon.com.br/dp/B0FN5DD149?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/71oDl7NmgaL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-06T22:00:00-03:00",
-   "entrou": "2026-11-05T12:06:27.043828-03:00"
-  },
-  {
-   "id": "amz-B099ZJQXMF",
-   "canal": "achadinhos",
-   "nome": "Cafeteira Nespresso Essenza Mini Preta (127V)",
-   "preco_antigo": 829.0,
-   "preco": 479.0,
-   "desconto": 42,
-   "link": "https://www.amazon.com.br/dp/B099ZJQXMF?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51QP72LhToL._AC_SL1000_.jpg",
-   "loja": "Loja oficial Nespresso · Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-06T22:00:00-03:00",
-   "entrou": "2026-11-05T12:06:27.043828-03:00"
-  },
-  {
    "id": "amz-B0BJHGBJHS",
    "canal": "achadinhos",
    "nome": "Escova Secadora Mondial Golden Rose Bivolt",
@@ -3179,36 +3240,6 @@
    "loja": "Vendido e entregue pela Amazon",
    "plataforma": "Amazon",
    "valida_ate": "2026-11-06T22:00:00-03:00",
-   "entrou": "2026-11-05T12:06:27.043828-03:00"
-  },
-  {
-   "id": "amz-B0F2JCBRV8",
-   "canal": "marcas",
-   "nome": "Tênis Puma Flyer Lite 3 Feminino",
-   "preco_antigo": 329.99,
-   "preco": 180.0,
-   "desconto": 45,
-   "link": "https://www.amazon.com.br/dp/B0F2JCBRV8?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61dCVagV-+L._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-06T22:00:00-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "entrou": "2026-11-05T12:06:27.043828-03:00"
-  },
-  {
-   "id": "amz-B0FYQF77WN",
-   "canal": "marcas",
-   "nome": "Tênis ASICS Novablast 5 TR Feminino",
-   "preco_antigo": 1100.0,
-   "preco": 599.99,
-   "desconto": 45,
-   "link": "https://www.amazon.com.br/dp/B0FYQF77WN?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61PiuxTHLnL._AC_SL1000_.jpg",
-   "loja": "Loja oficial ASICS · Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-06T22:00:00-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
    "entrou": "2026-11-05T12:06:27.043828-03:00"
   },
   {
@@ -3345,20 +3376,6 @@
    "plataforma": "Amazon",
    "valida_ate": "2026-11-06T22:00:00-03:00",
    "extra": "Preço a partir de: varia por tamanho e cor",
-   "entrou": "2026-11-05T12:29:48.873047-03:00"
-  },
-  {
-   "id": "amz-B0D1DSW8TF",
-   "canal": "tech",
-   "nome": "Teclado Mecânico Gamer sem Fio Logitech G515 TKL",
-   "preco_antigo": 949.9,
-   "preco": 569.9,
-   "desconto": 40,
-   "link": "https://www.amazon.com.br/dp/B0D1DSW8TF?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61VvvVl6VCL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-06T22:00:00-03:00",
    "entrou": "2026-11-05T12:29:48.873047-03:00"
   },
   {
@@ -3709,6 +3726,36 @@
    "link": "https://s.shopee.com.br/9pfdeCbkyZ",
    "canal": "tech",
    "entrou": "2026-11-05T12:57:21.484995-03:00"
+  },
+  {
+   "id": "amz-B0CJJXQ1CF",
+   "canal": "marcas",
+   "nome": "Kit 5 Camisetas Masculinas Básicas Hering",
+   "preco_antigo": 249.99,
+   "preco": 132.98,
+   "desconto": 47,
+   "link": "https://www.amazon.com.br/dp/B0CJJXQ1CF?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/41rZclSGzuL._AC_SL1000_.jpg",
+   "loja": "Loja oficial Hering · entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-05T22:00:00-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "entrou": "2026-11-05T13:34:50.112823-03:00"
+  },
+  {
+   "id": "amz-B0D9TZ7623",
+   "canal": "marcas",
+   "nome": "Tênis New Balance BB80 Unissex",
+   "preco_antigo": 399.99,
+   "preco": 182.99,
+   "desconto": 54,
+   "link": "https://www.amazon.com.br/dp/B0D9TZ7623?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/419F9U09zOL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-06T22:00:00-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "entrou": "2026-11-05T13:34:50.112823-03:00"
   }
  ],
  "menus_fixados": [
@@ -4052,7 +4099,12 @@
   "pranchachapinhataiffprofissionalclassicaceramica180cbivolt": "2026-11-05T13:12:05.627368-03:00",
   "tabletsamsunggalaxytabs10lite128gb": "2026-11-05T13:20:01.538228-03:00",
   "sanduicheiraegrillbritania2em1750w127v": "2026-11-05T13:26:13.963625-03:00",
-  "combotecladoemousesemfiologitechmk235": "2026-11-05T13:34:29.207115-03:00"
+  "combotecladoemousesemfiologitechmk235": "2026-11-05T13:34:29.207115-03:00",
+  "aparadorebarbeadorphilipsserie30009em1": "2026-11-05T13:34:50.121347-03:00",
+  "cafeteiranespressoessenzaminipreta127v": "2026-11-05T13:35:16.150345-03:00",
+  "tenispumaflyerlite3feminino": "2026-11-05T13:50:45.582546-03:00",
+  "tenisasicsnovablast5trfeminino": "2026-11-05T13:57:17.385295-03:00",
+  "tecladomecanicogamersemfiologitechg515tkl": "2026-11-05T14:12:46.951779-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
