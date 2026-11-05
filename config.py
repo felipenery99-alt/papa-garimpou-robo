@@ -68,8 +68,9 @@ JANELA_FIM = (22, 0)      # 22:00
 INTERVALO_POSTS_MIN = (6, 8)   # minutos entre um post e o próximo (sorteado, alternando canais)
 # Meta do dono (28/10): 40–50 posts de manhã (8h–12h) e 50–60 à tarde/noite (12h–22h), em horários
 # irregulares para não parecer robô: faixas largas (média ~5,5 e ~11 min) e atraso aleatório no 1º post.
-INTERVALO_MANHA_MIN = (3, 8)
-INTERVALO_TARDE_MIN = (6, 16)
+# 05/11 (Central/dono): 1 post a cada 6–8 min o dia todo enquanto houver fila
+INTERVALO_MANHA_MIN = (6, 8)
+INTERVALO_TARDE_MIN = (6, 8)
 ATRASO_INICIAL_MIN = (0.5, 4)
 FILA_JANELA_MIN = 46   # 05/11: a fila corre até 46 min após o início da execução (timeout do job = 55 min)
 

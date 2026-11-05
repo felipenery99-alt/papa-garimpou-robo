@@ -553,7 +553,12 @@ def soltar_fila(h: dict, telegram, limite: datetime, atraso: bool = True) -> int
         agora_ig = datetime.now(FUSO)
         if instagram_vencido(h, agora_ig):
             try:
-                rodar_instagram(h, agora_ig)
+                # aqui a própria fila cuida do ritmo: sem post extra entre as peças
+                gancho, ENTRE_TAREFAS[0] = ENTRE_TAREFAS[0], (lambda: None)
+                try:
+                    rodar_instagram(h, agora_ig)
+                finally:
+                    ENTRE_TAREFAS[0] = gancho
             except Exception as e:
                 telegram.avisar_dono(f"Instagram: erro geral {e}")
     print(f"fila: {len(h.get('fila', []))} oferta(s) esperando a próxima execução")
@@ -681,6 +686,9 @@ def publicar_salvavel(h: dict, agora: datetime, tag: str) -> bool:
     return False
 
 
+ENTRE_TAREFAS = [lambda: None]   # main põe aqui o "solta 1 post se já deu o intervalo"
+
+
 def instagram_vencido(h: dict, agora: datetime) -> bool:
     """Algum horário da agenda do Instagram já venceu (até 50 min) e ainda não saiu hoje?"""
     import os
@@ -776,6 +784,7 @@ def rodar_instagram(h: dict, agora: datetime) -> None:
         momento = agora.replace(hour=hh, minute=mm, second=0, microsecond=0)
         if chave in feitos or not (momento <= agora <= momento + timedelta(minutes=50)):
             continue
+        ENTRE_TAREFAS[0]()   # 05/11: solta 1 post do Telegram entre as peças do Instagram, se já deu o intervalo
         try:
             if tipo in ("adivinha", "adivinha_resposta", "a_ou_b"):
                 if publicar_interativo(tipo, h, agora, tag, ofertas, usadas):
@@ -1187,6 +1196,8 @@ def main() -> int:
             return
         if os.environ.get("TELEGRAM_BOT_TOKEN") and h.get("fila"):
             soltar_fila(h, telegram, datetime.now(FUSO), atraso=False)
+    # 05/11 (Central: 1 post a cada 6–8 min o dia todo): também entre as tarefas do Instagram e entre os garimpos
+    ENTRE_TAREFAS[0] = um_post
     um_post()
     try:
         rodar_instagram(h, agora)
@@ -1218,10 +1229,12 @@ def main() -> int:
             erros += 1
             continue
         entrar_na_fila(h, canal, ofertas, agora)
+        um_post()
     convites_story(h, telegram, agora)
     preparar_story_link(h, agora)
     top10_semana(h, telegram, agora)
     socorrer_parados(h, telegram, shopee.buscar_fundo if shopee_ok else None, agora)
+    um_post()
     try:   # o vigia nunca derruba o robô
         ult = ultimo_garimpo()
         if ult:
