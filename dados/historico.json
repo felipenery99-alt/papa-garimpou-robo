@@ -497,7 +497,11 @@
   "2026-11-05 achadinhos 15:50 amz-B0BLZVD5S5",
   "2026-11-05 achadinhos 16:05 shopee-54114684881",
   "2026-11-05 tech 16:18 amz-B0F1C3MRMF",
-  "2026-11-05 marcas 16:26 shopee-19646145273"
+  "2026-11-05 marcas 16:26 shopee-19646145273",
+  "2026-11-05 achadinhos 16:44 shopee-22599383562",
+  "2026-11-05 marcas 16:53 shopee-15714692913",
+  "2026-11-05 achadinhos 17:00 shopee-22594959465",
+  "2026-11-05 tech 17:10 shopee-40275577235"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -1003,7 +1007,11 @@
   "amz-B0BLZVD5S5": "2026-11-05T15:50:39.295911-03:00",
   "shopee-54114684881": "2026-11-05T16:05:07.770060-03:00",
   "amz-B0F1C3MRMF": "2026-11-05T16:18:45.643547-03:00",
-  "shopee-19646145273": "2026-11-05T16:26:50.399112-03:00"
+  "shopee-19646145273": "2026-11-05T16:26:50.399112-03:00",
+  "shopee-22599383562": "2026-11-05T16:44:44.066725-03:00",
+  "shopee-15714692913": "2026-11-05T16:53:48.183189-03:00",
+  "shopee-22594959465": "2026-11-05T17:00:37.959972-03:00",
+  "shopee-40275577235": "2026-11-05T17:10:21.213518-03:00"
  },
  "ofertas_dia": [
   {
@@ -3003,6 +3011,78 @@
    "canal": "marcas",
    "entrou": "2026-11-05T12:29:48.873047-03:00",
    "dia": "2026-11-05"
+  },
+  {
+   "id": "shopee-22599383562",
+   "plataforma": "Shopee",
+   "nome": "Furadeira De Impacto GSB 450 RE STD Bosch 450w + Kit Maleta Com 300 Pçs E Acessórios",
+   "loja": "Ismafer",
+   "loja_oficial": true,
+   "preco": 344.9,
+   "preco_antigo": 749.78,
+   "desconto": 54,
+   "vendas": 256,
+   "nota": 5.0,
+   "comissao_pct": 11.0,
+   "imagem": "https://cf.shopee.com.br/file/br-11134207-81zti-ml5egumek07909",
+   "link": "https://s.shopee.com.br/2qVtJ1fh2s",
+   "canal": "achadinhos",
+   "entrou": "2026-11-05T12:29:48.873047-03:00",
+   "dia": "2026-11-05"
+  },
+  {
+   "id": "shopee-15714692913",
+   "plataforma": "Shopee",
+   "nome": "Kit 2 Cuecas Boxer Lupo Microfibra Poliamida Sem Costura Confortável Cueca Masculina Original",
+   "loja": "Osure",
+   "loja_oficial": true,
+   "preco": 52.25,
+   "preco_antigo": 71.58,
+   "desconto": 27,
+   "vendas": 441,
+   "nota": 4.9,
+   "comissao_pct": 16.0,
+   "imagem": "https://cf.shopee.com.br/file/br-11134207-820mf-mt86z4762gw384",
+   "link": "https://s.shopee.com.br/3qOQUuj3uO",
+   "canal": "marcas",
+   "entrou": "2026-11-05T12:29:48.873047-03:00",
+   "dia": "2026-11-05"
+  },
+  {
+   "id": "shopee-22594959465",
+   "plataforma": "Shopee",
+   "nome": "Refil Desodorante Corporal Natura Essencial Atrai Masculino",
+   "loja": "NATURA",
+   "loja_oficial": true,
+   "preco": 28.45,
+   "preco_antigo": 56.9,
+   "desconto": 50,
+   "vendas": 471,
+   "nota": 4.9,
+   "comissao_pct": 13.0,
+   "imagem": "https://cf.shopee.com.br/file/sg-11134201-820lr-mnk67stocg0843",
+   "link": "https://s.shopee.com.br/906WeNmgIM",
+   "canal": "achadinhos",
+   "entrou": "2026-11-05T12:29:48.873047-03:00",
+   "dia": "2026-11-05"
+  },
+  {
+   "id": "shopee-40275577235",
+   "plataforma": "Shopee",
+   "nome": "Smart TV Samsung 32\" HD Tizen HDR Wi-Fi HDMI Bivolt Preta",
+   "loja": "123 Comprou!",
+   "loja_oficial": true,
+   "preco": 1119.0,
+   "preco_antigo": 1621.74,
+   "desconto": 31,
+   "vendas": 250,
+   "nota": 4.9,
+   "comissao_pct": 3.0,
+   "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mg5gx2k4a9s06d",
+   "link": "https://s.shopee.com.br/50aNtPWDMl",
+   "canal": "tech",
+   "entrou": "2026-11-05T12:29:48.873047-03:00",
+   "dia": "2026-11-05"
   }
  ],
  "ig_feitos": [
@@ -3144,7 +3224,8 @@
   "2026-11-05 14:08 story_oferta",
   "2026-11-05 15:00 adivinha",
   "2026-11-05 14:25 post_achado",
-  "2026-11-05 15:03 story_oferta"
+  "2026-11-05 15:03 story_oferta",
+  "2026-11-05 16:05 adivinha_resposta"
  ],
  "ig_ofertas_usadas": [
   "amz-B0CCX78R2N",
@@ -3400,54 +3481,6 @@
  "ultimo_pilar": "blackfriday",
  "fila": [
   {
-   "id": "amz-B0CJ3J2WCR",
-   "canal": "tech",
-   "nome": "Teclado sem Fio Logitech Pebble Keys 2 K380s",
-   "preco_antigo": 247.9,
-   "preco": 149.9,
-   "desconto": 40,
-   "link": "https://www.amazon.com.br/dp/B0CJ3J2WCR?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61y-lcvG7VL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-06T22:00:00-03:00",
-   "entrou": "2026-11-05T12:29:48.873047-03:00"
-  },
-  {
-   "id": "shopee-22599383562",
-   "plataforma": "Shopee",
-   "nome": "Furadeira De Impacto GSB 450 RE STD Bosch 450w + Kit Maleta Com 300 Pçs E Acessórios",
-   "loja": "Ismafer",
-   "loja_oficial": true,
-   "preco": 344.9,
-   "preco_antigo": 749.78,
-   "desconto": 54,
-   "vendas": 256,
-   "nota": 5.0,
-   "comissao_pct": 11.0,
-   "imagem": "https://cf.shopee.com.br/file/br-11134207-81zti-ml5egumek07909",
-   "link": "https://s.shopee.com.br/2qVtJ1fh2s",
-   "canal": "achadinhos",
-   "entrou": "2026-11-05T12:29:48.873047-03:00"
-  },
-  {
-   "id": "shopee-22594959465",
-   "plataforma": "Shopee",
-   "nome": "Refil Desodorante Corporal Natura Essencial Atrai Masculino",
-   "loja": "NATURA",
-   "loja_oficial": true,
-   "preco": 28.45,
-   "preco_antigo": 56.9,
-   "desconto": 50,
-   "vendas": 471,
-   "nota": 4.9,
-   "comissao_pct": 13.0,
-   "imagem": "https://cf.shopee.com.br/file/sg-11134201-820lr-mnk67stocg0843",
-   "link": "https://s.shopee.com.br/906WeNmgIM",
-   "canal": "achadinhos",
-   "entrou": "2026-11-05T12:29:48.873047-03:00"
-  },
-  {
    "id": "shopee-42565175368",
    "plataforma": "Shopee",
    "nome": "Aspirador de Pó Robô WAP Robot W100 3 em 1 Antiqueda Bivolt 17W",
@@ -3496,40 +3529,6 @@
    "imagem": "https://cf.shopee.com.br/file/sg-11134201-825bd-muxisdeuisqv69",
    "link": "https://s.shopee.com.br/9V2nFGP6bU",
    "canal": "achadinhos",
-   "entrou": "2026-11-05T12:29:48.873047-03:00"
-  },
-  {
-   "id": "shopee-15714692913",
-   "plataforma": "Shopee",
-   "nome": "Kit 2 Cuecas Boxer Lupo Microfibra Poliamida Sem Costura Confortável Cueca Masculina Original",
-   "loja": "Osure",
-   "loja_oficial": true,
-   "preco": 52.25,
-   "preco_antigo": 71.58,
-   "desconto": 27,
-   "vendas": 441,
-   "nota": 4.9,
-   "comissao_pct": 16.0,
-   "imagem": "https://cf.shopee.com.br/file/br-11134207-820mf-mt86z4762gw384",
-   "link": "https://s.shopee.com.br/3qOQUuj3uO",
-   "canal": "marcas",
-   "entrou": "2026-11-05T12:29:48.873047-03:00"
-  },
-  {
-   "id": "shopee-40275577235",
-   "plataforma": "Shopee",
-   "nome": "Smart TV Samsung 32\" HD Tizen HDR Wi-Fi HDMI Bivolt Preta",
-   "loja": "123 Comprou!",
-   "loja_oficial": true,
-   "preco": 1119.0,
-   "preco_antigo": 1621.74,
-   "desconto": 31,
-   "vendas": 250,
-   "nota": 4.9,
-   "comissao_pct": 3.0,
-   "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mg5gx2k4a9s06d",
-   "link": "https://s.shopee.com.br/50aNtPWDMl",
-   "canal": "tech",
    "entrou": "2026-11-05T12:29:48.873047-03:00"
   },
   {
@@ -3851,6 +3850,37 @@
    "valida_ate": "2026-11-06T22:00:00-03:00",
    "gancho": "A WEBCAM CLÁSSICA DA LOGITECH PELA METADE",
    "entrou": "2026-11-05T15:51:11.471723-03:00"
+  },
+  {
+   "id": "amz-B0CKJ83V8K",
+   "canal": "marcas",
+   "nome": "Tênis Puma Club II Era",
+   "preco_antigo": 449.99,
+   "preco": 213.39,
+   "desconto": 53,
+   "link": "https://www.amazon.com.br/dp/B0CKJ83V8K?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/41q7j21yBrL._AC_SL1200_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-06T22:00:00-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "gancho": "PUMA PELA METADE, PODE CONFERIR",
+   "entrou": "2026-11-05T16:27:14.872746-03:00"
+  },
+  {
+   "id": "amz-B0FFTPDKRZ",
+   "canal": "marcas",
+   "nome": "Tênis Mizuno City Wall",
+   "preco_antigo": 329.99,
+   "preco": 159.9,
+   "desconto": 52,
+   "link": "https://www.amazon.com.br/dp/B0FFTPDKRZ?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/414oGdUO1YL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-06T22:00:00-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "entrou": "2026-11-05T16:27:14.872746-03:00"
   }
  ],
  "menus_fixados": [
@@ -4210,7 +4240,11 @@
   "protetorsolarlarocheposayultracover": "2026-11-05T15:50:39.295911-03:00",
   "deoparfumnaturaessencialmasculinominiatura25ml": "2026-11-05T16:05:07.770060-03:00",
   "headsetgamerredragonzeuslite": "2026-11-05T16:18:45.643547-03:00",
-  "calcalegleggingmaxluposporttecnologiasemcosturaseamlessdryparatreinodealtorendimento": "2026-11-05T16:26:50.399112-03:00"
+  "calcalegleggingmaxluposporttecnologiasemcosturaseamlessdryparatreinodealtorendimento": "2026-11-05T16:26:50.399112-03:00",
+  "furadeiradeimpactogsb450restdbosch450wkitmaletacom300pcseacessorios": "2026-11-05T16:44:44.066725-03:00",
+  "kit2cuecasboxerlupomicrofibrapoliamidasemcosturaconfortavelcuecamasculinaoriginal": "2026-11-05T16:53:48.183189-03:00",
+  "refildesodorantecorporalnaturaessencialatraimasculino": "2026-11-05T17:00:37.959972-03:00",
+  "smarttvsamsung32hdtizenhdrwifihdmibivoltpreta": "2026-11-05T17:10:21.213518-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [

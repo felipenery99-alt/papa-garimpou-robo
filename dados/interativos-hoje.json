@@ -15,6 +15,21 @@
      "canal": "marcas"
     }
    ]
+  },
+  {
+   "tipo": "adivinha_resposta",
+   "hora": "16:27",
+   "produtos": [
+    {
+     "nome": "Kit 2 Camisas Polo Básicas Hering",
+     "preco_antigo": 219.99,
+     "preco": 85.49,
+     "desconto": 61,
+     "link": "https://www.amazon.com.br/dp/B0CVXSX2P5?tag=papagarimpou-20",
+     "loja": "Vendido e entregue pela Netshoes · Amazon",
+     "canal": "marcas"
+    }
+   ]
   }
  ]
 }
