@@ -254,8 +254,15 @@ def carregar_pedidos(agora: datetime) -> list[dict]:
         print(f"pedidos_atendidos.json inválido: {e}")
         return []
     limite = (agora - timedelta(days=2)).date().isoformat()
-    return [o for o in lista if o.get("canal") in config.CANAIS and o.get("dia", "") >= limite
-            and not (o.get("valida_ate") and o["valida_ate"] < agora.isoformat())]
+    validos = [o for o in lista if o.get("canal") in config.CANAIS and o.get("dia", "") >= limite
+               and not (o.get("valida_ate") and o["valida_ate"] < agora.isoformat())]
+    for o in validos:
+        # 05/11: "proc-AAAAMMDD-N" = procura da semana. No Telegram vai a linha 💡 com o motivo
+        # (campo "produto" = nome curto; sem ele, as 4 primeiras palavras do nome)
+        if o["id"].startswith("proc-") and not o.get("extra"):
+            produto = o.get("produto") or " ".join(o.get("nome", "").split()[:4])
+            o["extra"] = f"Muita gente procurando {produto} essa semana… o Papa garimpou"
+    return validos
 
 
 def carregar_manuais(h: dict, agora: datetime) -> list[dict]:
@@ -773,7 +780,9 @@ def rodar_instagram(h: dict, agora: datetime) -> None:
         if f"pedido {o['id']}" in feitos:
             continue
         try:
-            instagram.story(artes.story_oferta(o, o["canal"], selo="PEDIDO ATENDIDO"), f"{tag}-pedido-{o['id']}.jpg")
+            # 05/11: "proc-" = procura da semana (ninguém pediu no direct): selo próprio, nunca "PEDIDO ATENDIDO"
+            selo = "PROCURA DA SEMANA" if o["id"].startswith("proc-") else "PEDIDO ATENDIDO"
+            instagram.story(artes.story_oferta(o, o["canal"], selo=selo), f"{tag}-pedido-{o['id']}.jpg")
             print(f"[ig] pedido atendido {o['id']} publicado")
         except Exception as ex:
             telegram.avisar_dono(f"Instagram: pedido atendido {o['id']} falhou: {ex}")
