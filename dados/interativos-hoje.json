@@ -1,56 +1,17 @@
 {
- "dia": "2026-11-04",
+ "dia": "2026-11-05",
  "itens": [
   {
    "tipo": "adivinha",
    "hora": "15:13",
    "produtos": [
     {
-     "nome": "Smartwatch Samsung Galaxy Fit3 Tela 1.6\" Prata",
-     "preco_antigo": 549.0,
-     "preco": 209.95,
-     "desconto": 62,
-     "link": "https://www.amazon.com.br/dp/B0CVCG6S9C?tag=papagarimpou-20",
-     "loja": "Vendido por parceiro · entregue pela Amazon",
-     "canal": "tech"
-    }
-   ]
-  },
-  {
-   "tipo": "adivinha_resposta",
-   "hora": "16:54",
-   "produtos": [
-    {
-     "nome": "Smartwatch Samsung Galaxy Fit3 Tela 1.6\" Prata",
-     "preco_antigo": 549.0,
-     "preco": 209.95,
-     "desconto": 62,
-     "link": "https://www.amazon.com.br/dp/B0CVCG6S9C?tag=papagarimpou-20",
-     "loja": "Vendido por parceiro · entregue pela Amazon",
-     "canal": "tech"
-    }
-   ]
-  },
-  {
-   "tipo": "a_ou_b",
-   "hora": "18:19",
-   "produtos": [
-    {
-     "nome": "Creatina Monohidratada 100g - Max Titanium",
-     "preco_antigo": 63.61,
-     "preco": 22.9,
-     "desconto": 64,
-     "link": "https://s.shopee.com.br/7VHel1778a",
-     "loja": "Empório Natugreen",
-     "canal": "marcas"
-    },
-    {
-     "nome": "Tênis Mizuno Cool Ride 3",
-     "preco_antigo": 399.99,
-     "preco": 189.99,
-     "desconto": 53,
-     "link": "https://www.amazon.com.br/dp/B0FFTQD31C?tag=papagarimpou-20",
-     "loja": "Vendido e entregue pela Amazon",
+     "nome": "Kit 2 Camisas Polo Básicas Hering",
+     "preco_antigo": 219.99,
+     "preco": 85.49,
+     "desconto": 61,
+     "link": "https://www.amazon.com.br/dp/B0CVXSX2P5?tag=papagarimpou-20",
+     "loja": "Vendido e entregue pela Netshoes · Amazon",
      "canal": "marcas"
     }
    ]

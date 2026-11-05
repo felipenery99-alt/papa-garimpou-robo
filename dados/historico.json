@@ -490,7 +490,11 @@
   "2026-11-05 achadinhos 14:35 amz-B0BJHGBJHS",
   "2026-11-05 tech 14:44 amz-B0H1F4TQ7C",
   "2026-11-05 marcas 14:57 amz-B0CZM4X4HY",
-  "2026-11-05 achadinhos 15:03 amz-B0BXY561N5"
+  "2026-11-05 achadinhos 15:03 amz-B0BXY561N5",
+  "2026-11-05 achadinhos 15:13 amz-B07K32CH6K",
+  "2026-11-05 marcas 15:29 amz-B0GWFSCF74",
+  "2026-11-05 tech 15:39 amz-B0FR7KN6NX",
+  "2026-11-05 achadinhos 15:50 amz-B0BLZVD5S5"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -989,7 +993,11 @@
   "amz-B0BJHGBJHS": "2026-11-05T14:35:15.397718-03:00",
   "amz-B0H1F4TQ7C": "2026-11-05T14:44:11.645780-03:00",
   "amz-B0CZM4X4HY": "2026-11-05T14:57:34.501723-03:00",
-  "amz-B0BXY561N5": "2026-11-05T15:03:39.591088-03:00"
+  "amz-B0BXY561N5": "2026-11-05T15:03:39.591088-03:00",
+  "amz-B07K32CH6K": "2026-11-05T15:13:28.678638-03:00",
+  "amz-B0GWFSCF74": "2026-11-05T15:29:14.430711-03:00",
+  "amz-B0FR7KN6NX": "2026-11-05T15:39:11.425810-03:00",
+  "amz-B0BLZVD5S5": "2026-11-05T15:50:39.295911-03:00"
  },
  "ofertas_dia": [
   {
@@ -2876,6 +2884,68 @@
    "valida_ate": "2026-11-06T22:00:00-03:00",
    "entrou": "2026-11-05T12:06:27.043828-03:00",
    "dia": "2026-11-05"
+  },
+  {
+   "id": "amz-B07K32CH6K",
+   "canal": "achadinhos",
+   "nome": "Jogo de Facas Tramontina Plenus 6 Peças com Cepo",
+   "preco_antigo": 138.31,
+   "preco": 73.19,
+   "desconto": 47,
+   "link": "https://www.amazon.com.br/dp/B07K32CH6K?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71R-4mBBQOL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-06T22:00:00-03:00",
+   "entrou": "2026-11-05T12:06:27.043828-03:00",
+   "dia": "2026-11-05"
+  },
+  {
+   "id": "amz-B0GWFSCF74",
+   "canal": "marcas",
+   "nome": "Tênis ASICS Gel Nagoya 8 Masculino",
+   "preco_antigo": 439.99,
+   "preco": 237.49,
+   "desconto": 46,
+   "link": "https://www.amazon.com.br/dp/B0GWFSCF74?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/511cbWDQrDL._AC_SL1200_.jpg",
+   "loja": "Vendido e entregue pela Netshoes · Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-06T22:00:00-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "gancho": "ASICS QUASE PELA METADE",
+   "entrou": "2026-11-05T12:29:48.873047-03:00",
+   "dia": "2026-11-05"
+  },
+  {
+   "id": "amz-B0FR7KN6NX",
+   "canal": "tech",
+   "nome": "Headset Gamer Sem Fio Logitech G522 Lightspeed",
+   "preco_antigo": 1099.9,
+   "preco": 730.91,
+   "desconto": 34,
+   "link": "https://www.amazon.com.br/dp/B0FR7KN6NX?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71J2KaVnbLL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-06T22:00:00-03:00",
+   "entrou": "2026-11-05T12:29:48.873047-03:00",
+   "dia": "2026-11-05"
+  },
+  {
+   "id": "amz-B0BLZVD5S5",
+   "canal": "achadinhos",
+   "nome": "Protetor Solar La Roche-Posay Ultra Cover",
+   "preco_antigo": 89.9,
+   "preco": 57.28,
+   "desconto": 36,
+   "link": "https://www.amazon.com.br/dp/B0BLZVD5S5?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/41qWhEJxnaL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-06T22:00:00-03:00",
+   "entrou": "2026-11-05T12:29:48.873047-03:00",
+   "dia": "2026-11-05"
   }
  ],
  "ig_feitos": [
@@ -3006,7 +3076,6 @@
   "2026-11-05 10:20 story_oferta",
   "2026-11-05 10:24 story_oferta",
   "2026-11-05 11:11 story_oferta",
-  "2026-11-05 feed",
   "2026-11-05 11:50 carrossel_top5",
   "2026-11-05 11:56 story_oferta",
   "2026-11-05 12:15 story_top4",
@@ -3015,7 +3084,10 @@
   "2026-11-05 12:47 story_oferta",
   "2026-11-05 13:20 story_convite",
   "2026-11-05 13:22 story_oferta",
-  "2026-11-05 14:08 story_oferta"
+  "2026-11-05 14:08 story_oferta",
+  "2026-11-05 15:00 adivinha",
+  "2026-11-05 14:25 post_achado",
+  "2026-11-05 15:03 story_oferta"
  ],
  "ig_ofertas_usadas": [
   "amz-B0FDX5NC1G",
@@ -3217,7 +3289,10 @@
   "amz-B07MRMHML9",
   "amz-B09KYB18ZY",
   "amz-B0C2JFGFK9",
-  "amz-B0CT5X3YM1"
+  "amz-B0CT5X3YM1",
+  "amz-B0CVXSX2P5",
+  "shopee-23793236583",
+  "amz-B0BS1QB15L"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
@@ -3271,65 +3346,6 @@
  "ultimo_pilar": "blackfriday",
  "fila": [
   {
-   "id": "amz-B07K32CH6K",
-   "canal": "achadinhos",
-   "nome": "Jogo de Facas Tramontina Plenus 6 Peças com Cepo",
-   "preco_antigo": 138.31,
-   "preco": 73.19,
-   "desconto": 47,
-   "link": "https://www.amazon.com.br/dp/B07K32CH6K?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/71R-4mBBQOL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-06T22:00:00-03:00",
-   "entrou": "2026-11-05T12:06:27.043828-03:00"
-  },
-  {
-   "id": "amz-B0CWLMCJDM",
-   "canal": "achadinhos",
-   "nome": "Air Fryer Britânia 5,5L 1500W",
-   "preco_antigo": 501.49,
-   "preco": 271.22,
-   "desconto": 46,
-   "link": "https://www.amazon.com.br/dp/B0CWLMCJDM?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51qDxilXGWL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-06T22:00:00-03:00",
-   "gancho": "AIR FRYER BRITÂNIA QUASE PELA METADE",
-   "entrou": "2026-11-05T12:29:48.873047-03:00"
-  },
-  {
-   "id": "amz-B0BLZVD5S5",
-   "canal": "achadinhos",
-   "nome": "Protetor Solar La Roche-Posay Ultra Cover",
-   "preco_antigo": 89.9,
-   "preco": 57.28,
-   "desconto": 36,
-   "link": "https://www.amazon.com.br/dp/B0BLZVD5S5?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/41qWhEJxnaL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-06T22:00:00-03:00",
-   "entrou": "2026-11-05T12:29:48.873047-03:00"
-  },
-  {
-   "id": "amz-B0GWFSCF74",
-   "canal": "marcas",
-   "nome": "Tênis ASICS Gel Nagoya 8 Masculino",
-   "preco_antigo": 439.99,
-   "preco": 237.49,
-   "desconto": 46,
-   "link": "https://www.amazon.com.br/dp/B0GWFSCF74?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/511cbWDQrDL._AC_SL1200_.jpg",
-   "loja": "Vendido e entregue pela Netshoes · Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-06T22:00:00-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "gancho": "ASICS QUASE PELA METADE",
-   "entrou": "2026-11-05T12:29:48.873047-03:00"
-  },
-  {
    "id": "amz-B0CKJ83V8K",
    "canal": "marcas",
    "nome": "Tênis Puma Club II Era",
@@ -3358,20 +3374,6 @@
    "plataforma": "Amazon",
    "valida_ate": "2026-11-06T22:00:00-03:00",
    "extra": "Preço a partir de: varia por tamanho e cor",
-   "entrou": "2026-11-05T12:29:48.873047-03:00"
-  },
-  {
-   "id": "amz-B0FR7KN6NX",
-   "canal": "tech",
-   "nome": "Headset Gamer Sem Fio Logitech G522 Lightspeed",
-   "preco_antigo": 1099.9,
-   "preco": 730.91,
-   "desconto": 34,
-   "link": "https://www.amazon.com.br/dp/B0FR7KN6NX?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/71J2KaVnbLL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-06T22:00:00-03:00",
    "entrou": "2026-11-05T12:29:48.873047-03:00"
   },
   {
@@ -3723,6 +3725,52 @@
    "valida_ate": "2026-11-06T22:00:00-03:00",
    "extra": "Preço a partir de: varia por tamanho e cor",
    "entrou": "2026-11-05T13:34:50.112823-03:00"
+  },
+  {
+   "id": "amz-B09VN2FCDF",
+   "canal": "marcas",
+   "nome": "Perfume Azzaro The Most Wanted Parfum Masculino",
+   "preco_antigo": 729.0,
+   "preco": 429.99,
+   "desconto": 41,
+   "link": "https://www.amazon.com.br/dp/B09VN2FCDF?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61nkCltKCaL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-06T22:00:00-03:00",
+   "extra": "Importado vendido e entregue pela própria Amazon",
+   "gancho": "AZZARO MOST WANTED COM 40% OFF",
+   "entrou": "2026-11-05T15:13:28.675186-03:00"
+  },
+  {
+   "id": "amz-B0GHSMPBP7",
+   "canal": "marcas",
+   "nome": "Tênis Mizuno Sunrise",
+   "preco_antigo": 449.99,
+   "preco": 229.9,
+   "desconto": 49,
+   "link": "https://www.amazon.com.br/dp/B0GHSMPBP7?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/717PU4k6AzL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-06T22:00:00-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "entrou": "2026-11-05T15:13:28.675186-03:00"
+  },
+  {
+   "id": "amz-B0H4RQ4MK8",
+   "canal": "marcas",
+   "nome": "Tênis Puma Caven 2.0 Feminino",
+   "preco_antigo": 449.99,
+   "preco": 212.9,
+   "desconto": 53,
+   "link": "https://www.amazon.com.br/dp/B0H4RQ4MK8?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61XvSb4WuOL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-06T22:00:00-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "entrou": "2026-11-05T15:13:28.675186-03:00"
   }
  ],
  "menus_fixados": [
@@ -4075,7 +4123,11 @@
   "escovasecadoramondialgoldenrosebivolt": "2026-11-05T14:35:15.397718-03:00",
   "caixadesombluetoothjblgo5": "2026-11-05T14:44:11.645780-03:00",
   "garrafatermicastanleytumbler": "2026-11-05T14:57:34.501723-03:00",
-  "cafeteiraespressoosterprimalattetouch127v": "2026-11-05T15:03:39.591088-03:00"
+  "cafeteiraespressoosterprimalattetouch127v": "2026-11-05T15:03:39.591088-03:00",
+  "jogodefacastramontinaplenus6pecascomcepo": "2026-11-05T15:13:28.678638-03:00",
+  "tenisasicsgelnagoya8masculino": "2026-11-05T15:29:14.430711-03:00",
+  "headsetgamersemfiologitechg522lightspeed": "2026-11-05T15:39:11.425810-03:00",
+  "protetorsolarlarocheposayultracover": "2026-11-05T15:50:39.295911-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
@@ -4207,22 +4259,23 @@
  },
  "tg_offset": 354369945,
  "adivinha": {
-  "dia": "2026-11-04",
+  "dia": "2026-11-05",
   "oferta": {
-   "id": "amz-B0CVCG6S9C",
-   "canal": "tech",
-   "nome": "Smartwatch Samsung Galaxy Fit3 Tela 1.6\" Prata",
-   "preco_antigo": 549.0,
-   "preco": 209.95,
-   "desconto": 62,
-   "link": "https://www.amazon.com.br/dp/B0CVCG6S9C?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51It6ch5f7L._AC_SL1500_.jpg",
-   "loja": "Vendido por parceiro · entregue pela Amazon",
+   "id": "amz-B0CVXSX2P5",
+   "canal": "marcas",
+   "nome": "Kit 2 Camisas Polo Básicas Hering",
+   "preco_antigo": 219.99,
+   "preco": 85.49,
+   "desconto": 61,
+   "link": "https://www.amazon.com.br/dp/B0CVXSX2P5?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71KIFkXqTfL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Netshoes · Amazon",
    "plataforma": "Amazon",
-   "valida_ate": "2026-11-05T22:00:00-03:00",
-   "gancho": "GALAXY FIT3 PELA METADE DO PREÇO",
-   "entrou": "2026-11-04T12:57:37.447920-03:00",
-   "dia": "2026-11-04"
+   "valida_ate": "2026-11-06T22:00:00-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "gancho": "DUAS POLOS HERING POR MENOS DE 90",
+   "entrou": "2026-11-05T08:17:52.120436-03:00",
+   "dia": "2026-11-05"
   }
  },
  "ig_dm_links": {},
