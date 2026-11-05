@@ -615,16 +615,16 @@
  },
  "2026-11-05": {
   "erros": [],
-  "ultima_execucao": "12:06",
-  "execucoes": 9,
+  "ultima_execucao": "12:29",
+  "execucoes": 10,
   "telegram_posts": {
    "achadinhos": 7,
-   "marcas": 6,
+   "marcas": 7,
    "tech": 5
   },
   "ultimo_post": {
    "achadinhos": "12:25",
-   "marcas": "11:43",
+   "marcas": "12:45",
    "tech": "11:50"
   },
   "ultimo_garimpo": "05/11 11:44",
@@ -653,7 +653,9 @@
    "11:11 story_oferta",
    "feed",
    "11:50 carrossel_top5",
-   "11:56 story_oferta"
+   "11:56 story_oferta",
+   "12:15 story_top4",
+   "12:19 story_oferta"
   ],
   "shopee_ligada": true,
   "shopee_oficial_ids": {
@@ -3281,11 +3283,27 @@
    "shopee-23699428251": "nota",
    "shopee-46758986232": "vendas longe",
    "shopee-58206324352": "vendas longe",
-   "shopee-20199673919": "vendas longe"
+   "shopee-20199673919": "vendas longe",
+   "shopee-23899335462": "vendas longe",
+   "shopee-23594445060": "nota",
+   "shopee-23399332309": "vendas longe",
+   "shopee-22999342442": "vendas longe",
+   "shopee-22494347519": "nota",
+   "shopee-22494347463": "nota",
+   "shopee-22394389607": "nota",
+   "shopee-22299530370": "nota",
+   "shopee-22294398845": "vendas longe",
+   "shopee-22194360890": "nota",
+   "shopee-22095222733": "nota",
+   "shopee-22094889602": "nota",
+   "shopee-22594341444": "nota",
+   "shopee-22798676628": "nota",
+   "shopee-23495281990": "nota",
+   "shopee-58268073317": "nota"
   },
   "shopee_oficial": {
-   "vendas longe": 1446,
-   "nota": 836,
+   "vendas longe": 1450,
+   "nota": 848,
    "vendas perto (125+)": 110,
    "outro: marca fora da lista boa": 80,
    "aprovada": 63,
@@ -3296,8 +3314,8 @@
   "instagram": {
    "seguidores": 153,
    "posts": 69,
-   "reach": 5450,
-   "profile_views": 79,
+   "reach": 5564,
+   "profile_views": 80,
    "website_clicks": 1,
    "stories_ativos": 25
   }
