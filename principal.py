@@ -302,6 +302,10 @@ def carregar_manuais(h: dict, agora: datetime) -> list[dict]:
     for o in lista:
         if o.get("canal") not in config.CANAIS or o["id"] in h.get("postados", {}):
             continue
+        # 05/11 20h40 (Marcas 1 h sem post com 13 na fila): o garimpo mandou de novo produtos já postados na
+        # semana com outro código (variação/ASIN). Repetido pelo nome nem entra na fila.
+        if ja_postado_recente(h, o["id"], agora, o.get("nome", "")):
+            continue
         if o.get("valida_ate") and o["valida_ate"] < agora.isoformat():
             continue
         # "nao_antes" (01/11): só entra na fila quando faltar menos de 1 h (esta execução alcança o horário);
@@ -594,6 +598,8 @@ def soltar_fila(h: dict, telegram, limite: datetime, atraso: bool = True) -> int
     while h.get("fila"):
         agora = datetime.now(FUSO)
         # 01/11 (Telegram): item com "nao_antes" fica na fila sem sair até esse horário
+        # repetido sai da fila antes de escolher o canal (senão o canal "da vez" gastava a vez sem postar)
+        h["fila"] = [f for f in h["fila"] if not ja_postado_recente(h, f["id"], agora, f.get("nome", ""))]
         pode = [f for f in h["fila"] if not f.get("nao_antes") or f["nao_antes"] <= agora.isoformat()]
         if not pode:
             print("fila: só itens com nao_antes no futuro, esperam")
