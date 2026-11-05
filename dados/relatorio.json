@@ -614,18 +614,20 @@
   }
  },
  "2026-11-05": {
-  "erros": [],
-  "ultima_execucao": "12:29",
-  "execucoes": 10,
+  "erros": [
+   "Instagram 2026-11-05 12:40 reels falhou: Instagram recusou o envio do vídeo: {'debug_info': {'retriable': False, 'type': 'ProcessingFailedError', 'message': 'Request processing failed'}}. Não publiquei."
+  ],
+  "ultima_execucao": "12:57",
+  "execucoes": 11,
   "telegram_posts": {
-   "achadinhos": 7,
-   "marcas": 7,
-   "tech": 5
+   "achadinhos": 9,
+   "marcas": 8,
+   "tech": 8
   },
   "ultimo_post": {
-   "achadinhos": "12:25",
-   "marcas": "12:45",
-   "tech": "11:50"
+   "achadinhos": "13:26",
+   "marcas": "12:58",
+   "tech": "13:34"
   },
   "ultimo_garimpo": "05/11 11:44",
   "convites_story": {
@@ -655,7 +657,9 @@
    "11:50 carrossel_top5",
    "11:56 story_oferta",
    "12:15 story_top4",
-   "12:19 story_oferta"
+   "12:19 story_oferta",
+   "12:40 reels",
+   "12:47 story_oferta"
   ],
   "shopee_ligada": true,
   "shopee_oficial_ids": {
@@ -769,7 +773,7 @@
    "shopee-22899814983": "vendas longe",
    "shopee-23399437198": "vendas longe",
    "shopee-50657182338": "vendas longe",
-   "shopee-22899814984": "nota",
+   "shopee-22899814984": "vendas longe",
    "shopee-58219336799": "vendas longe",
    "shopee-58219336807": "vendas longe",
    "shopee-23802004388": "aprovada",
@@ -1501,7 +1505,7 @@
    "shopee-23699655140": "nota",
    "shopee-58264309701": "nota",
    "shopee-23195069073": "nota",
-   "shopee-58265278682": "nota",
+   "shopee-58265278682": "vendas longe",
    "shopee-58214324143": "nota",
    "shopee-58259495074": "nota",
    "shopee-58259495234": "nota",
@@ -3302,8 +3306,8 @@
    "shopee-58268073317": "nota"
   },
   "shopee_oficial": {
-   "vendas longe": 1450,
-   "nota": 848,
+   "vendas longe": 1452,
+   "nota": 846,
    "vendas perto (125+)": 110,
    "outro: marca fora da lista boa": 80,
    "aprovada": 63,
@@ -3312,10 +3316,10 @@
    "outro: palavra proibida: compatível": 10
   },
   "instagram": {
-   "seguidores": 153,
+   "seguidores": 152,
    "posts": 69,
-   "reach": 5564,
-   "profile_views": 80,
+   "reach": 5638,
+   "profile_views": 81,
    "website_clicks": 1,
    "stories_ativos": 25
   }
