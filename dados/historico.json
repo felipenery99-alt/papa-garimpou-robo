@@ -462,7 +462,10 @@
   "2026-11-05 tech 08:43 amz-B0CJ3WFW9H",
   "2026-11-05 marcas 09:17 amz-B003JSEG4Q",
   "2026-11-05 marcas 09:22 amz-B0C15596N6",
-  "2026-11-05 achadinhos 09:29 amz-B00WQSFO1E"
+  "2026-11-05 achadinhos 09:29 amz-B00WQSFO1E",
+  "2026-11-05 tech 10:04 amz-B0CGCHWKH1",
+  "2026-11-05 tech 10:11 amz-B07MRMHML9",
+  "2026-11-05 marcas 10:17 amz-B09KYB18ZY"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -933,7 +936,10 @@
   "amz-B0CJ3WFW9H": "2026-11-05T08:43:49.761799-03:00",
   "amz-B003JSEG4Q": "2026-11-05T09:17:58.400078-03:00",
   "amz-B0C15596N6": "2026-11-05T09:22:10.300382-03:00",
-  "amz-B00WQSFO1E": "2026-11-05T09:29:47.217525-03:00"
+  "amz-B00WQSFO1E": "2026-11-05T09:29:47.217525-03:00",
+  "amz-B0CGCHWKH1": "2026-11-05T10:04:41.250875-03:00",
+  "amz-B07MRMHML9": "2026-11-05T10:11:30.833306-03:00",
+  "amz-B09KYB18ZY": "2026-11-05T10:17:27.642940-03:00"
  },
  "ofertas_dia": [
   {
@@ -2375,6 +2381,54 @@
    "valida_ate": "2026-11-05T22:00:00-03:00",
    "entrou": "2026-11-05T08:17:52.120436-03:00",
    "dia": "2026-11-05"
+  },
+  {
+   "id": "amz-B0CGCHWKH1",
+   "canal": "tech",
+   "nome": "Jogo Little Nightmares 3 para PS5",
+   "preco_antigo": 224.9,
+   "preco": 142.47,
+   "desconto": 37,
+   "link": "https://www.amazon.com.br/dp/B0CGCHWKH1?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/81TTpRKK7yL._AC_SL1500_.jpg",
+   "loja": "Vendido por parceiro · entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-05T22:00:00-03:00",
+   "entrou": "2026-11-05T08:17:52.120436-03:00",
+   "dia": "2026-11-05"
+  },
+  {
+   "id": "amz-B07MRMHML9",
+   "canal": "tech",
+   "nome": "Headset Gamer Logitech G432 Som Surround 7.1",
+   "preco_antigo": 699.9,
+   "preco": 358.49,
+   "desconto": 49,
+   "link": "https://www.amazon.com.br/dp/B07MRMHML9?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61N71EojmhL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon Global",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-05T22:00:00-03:00",
+   "gancho": "HEADSET LOGITECH QUASE PELA METADE",
+   "entrou": "2026-11-05T08:17:52.120436-03:00",
+   "dia": "2026-11-05"
+  },
+  {
+   "id": "amz-B09KYB18ZY",
+   "canal": "marcas",
+   "nome": "Kit 3 Camisetas Masculinas Básicas Hering",
+   "preco_antigo": 159.99,
+   "preco": 84.54,
+   "desconto": 47,
+   "link": "https://www.amazon.com.br/dp/B09KYB18ZY?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/6129-PKPgPL._AC_SL1500_.jpg",
+   "loja": "Loja oficial Hering · entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-05T22:00:00-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "gancho": "HERING BÁSICA A MENOS DE R$ 30 CADA",
+   "entrou": "2026-11-05T08:17:52.120436-03:00",
+   "dia": "2026-11-05"
   }
  ],
  "ig_feitos": [
@@ -2498,7 +2552,10 @@
   "2026-11-04 21:24 story_oferta",
   "2026-11-05 08:07 story_oferta",
   "2026-11-05 08:45 story_oferta",
-  "2026-11-05 08:52 story_oferta"
+  "2026-11-05 08:52 story_oferta",
+  "2026-11-05 feed",
+  "2026-11-05 09:35 reels",
+  "2026-11-05 09:38 story_oferta"
  ],
  "ig_ofertas_usadas": [
   "amz-B0GP7KDZRJ",
@@ -2693,11 +2750,12 @@
   "amz-B08R9341ZB",
   "amz-B0FPG9431G",
   "amz-B0GHZ4VBHD",
-  "amz-B09DCZWN1K"
+  "amz-B09DCZWN1K",
+  "amz-B0CJ3WFW9H"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
- "ig_ultimo_reel": "2026-11-04T21:05:21.555762-03:00",
+ "ig_ultimo_reel": "2026-11-05T09:48:52.178517-03:00",
  "pecas_usadas": {
   "ac-preco-inflado": "2026-10-27",
   "dc-7-dias": "2026-10-27",
@@ -2834,37 +2892,6 @@
    "entrou": "2026-11-05T08:17:52.120436-03:00"
   },
   {
-   "id": "amz-B0CJJXQ1CF",
-   "canal": "marcas",
-   "nome": "Kit 5 Camisetas Masculinas Básicas Hering",
-   "preco_antigo": 249.99,
-   "preco": 132.98,
-   "desconto": 47,
-   "link": "https://www.amazon.com.br/dp/B0CJJXQ1CF?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/41rZclSGzuL._AC_SL1000_.jpg",
-   "loja": "Loja oficial Hering · entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-05T22:00:00-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "entrou": "2026-11-05T08:17:52.120436-03:00"
-  },
-  {
-   "id": "amz-B09KYB18ZY",
-   "canal": "marcas",
-   "nome": "Kit 3 Camisetas Masculinas Básicas Hering",
-   "preco_antigo": 159.99,
-   "preco": 84.54,
-   "desconto": 47,
-   "link": "https://www.amazon.com.br/dp/B09KYB18ZY?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/6129-PKPgPL._AC_SL1500_.jpg",
-   "loja": "Loja oficial Hering · entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-05T22:00:00-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "gancho": "HERING BÁSICA A MENOS DE R$ 30 CADA",
-   "entrou": "2026-11-05T08:17:52.120436-03:00"
-  },
-  {
    "id": "amz-B0CT5X3YM1",
    "canal": "marcas",
    "nome": "Garrafa Térmica Stanley Aerolight Fast Flow 710ml Polar",
@@ -2984,35 +3011,6 @@
    "plataforma": "Amazon",
    "valida_ate": "2026-11-06T22:00:00-03:00",
    "extra": "Preço a partir de: varia por tamanho e cor",
-   "entrou": "2026-11-05T08:17:52.120436-03:00"
-  },
-  {
-   "id": "amz-B0CGCHWKH1",
-   "canal": "tech",
-   "nome": "Jogo Little Nightmares 3 para PS5",
-   "preco_antigo": 224.9,
-   "preco": 142.47,
-   "desconto": 37,
-   "link": "https://www.amazon.com.br/dp/B0CGCHWKH1?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/81TTpRKK7yL._AC_SL1500_.jpg",
-   "loja": "Vendido por parceiro · entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-05T22:00:00-03:00",
-   "entrou": "2026-11-05T08:17:52.120436-03:00"
-  },
-  {
-   "id": "amz-B07MRMHML9",
-   "canal": "tech",
-   "nome": "Headset Gamer Logitech G432 Som Surround 7.1",
-   "preco_antigo": 699.9,
-   "preco": 358.49,
-   "desconto": 49,
-   "link": "https://www.amazon.com.br/dp/B07MRMHML9?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61N71EojmhL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon Global",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-05T22:00:00-03:00",
-   "gancho": "HEADSET LOGITECH QUASE PELA METADE",
    "entrou": "2026-11-05T08:17:52.120436-03:00"
   },
   {
@@ -3441,6 +3439,40 @@
    "link": "https://s.shopee.com.br/3LSAUL3YV3",
    "canal": "tech",
    "entrou": "2026-11-05T09:02:49.802546-03:00"
+  },
+  {
+   "id": "shopee-22493521596",
+   "plataforma": "Shopee",
+   "nome": "Tênis Olympikus Atmos Feminino Original",
+   "loja": "Cabana Magazine®",
+   "loja_oficial": true,
+   "preco": 141.83,
+   "preco_antigo": 208.57,
+   "desconto": 32,
+   "vendas": 266,
+   "nota": 4.9,
+   "comissao_pct": 13.0,
+   "imagem": "https://cf.shopee.com.br/file/br-11134207-820lw-mspog5ou4v0ncf",
+   "link": "https://s.shopee.com.br/6fibs8poXH",
+   "canal": "marcas",
+   "entrou": "2026-11-05T09:48:52.178517-03:00"
+  },
+  {
+   "id": "shopee-56159571991",
+   "plataforma": "Shopee",
+   "nome": "Tênis Feminino de Caminhada Casual Elevado - Olympikus",
+   "loja": "Tubarão Max",
+   "loja_oficial": true,
+   "preco": 206.91,
+   "preco_antigo": 328.43,
+   "desconto": 37,
+   "vendas": 316,
+   "nota": 4.9,
+   "comissao_pct": 3.0,
+   "imagem": "https://cf.shopee.com.br/file/sg-11134201-820lk-mnk5a79obkea88",
+   "link": "https://s.shopee.com.br/7VHirfmdqM",
+   "canal": "marcas",
+   "entrou": "2026-11-05T09:48:52.178517-03:00"
   }
  ],
  "menus_fixados": [
@@ -3765,7 +3797,10 @@
   "tecladosemfiologitechpebblekeys2k380s": "2026-11-05T08:43:49.761799-03:00",
   "perfumeazzarowantedmasculinoedt50ml": "2026-11-05T09:17:58.400078-03:00",
   "kit4cuecasboxercalvinkleinlowrisetrunk": "2026-11-05T09:22:10.300382-03:00",
-  "refiloralbprecisionclean4unidades": "2026-11-05T09:29:47.217525-03:00"
+  "refiloralbprecisionclean4unidades": "2026-11-05T09:29:47.217525-03:00",
+  "jogolittlenightmares3paraps5": "2026-11-05T10:04:41.250875-03:00",
+  "headsetgamerlogitechg432somsurround71": "2026-11-05T10:11:30.833306-03:00",
+  "kit3camisetasmasculinasbasicashering": "2026-11-05T10:17:27.642940-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
@@ -3857,6 +3892,13 @@
    "amz-B0DH9Y4MMF",
    "shopee-58209674589",
    "amz-B0G4SQNDHB"
+  ],
+  "2026-11-05": [
+   "amz-B0C15596N6",
+   "amz-B00WQSFO1E",
+   "amz-B0CJ3WFW9H",
+   "amz-B003JSEG4Q",
+   "amz-B09DCZWN1K"
   ]
  },
  "vendas_shopee": {},
