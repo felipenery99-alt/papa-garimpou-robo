@@ -615,17 +615,17 @@
  },
  "2026-11-05": {
   "erros": [],
-  "ultima_execucao": "10:34",
-  "execucoes": 7,
+  "ultima_execucao": "11:21",
+  "execucoes": 8,
   "telegram_posts": {
-   "achadinhos": 5,
-   "marcas": 5,
-   "tech": 4
+   "achadinhos": 6,
+   "marcas": 6,
+   "tech": 5
   },
   "ultimo_post": {
-   "achadinhos": "11:04",
-   "marcas": "11:07",
-   "tech": "11:00"
+   "achadinhos": "11:37",
+   "marcas": "11:43",
+   "tech": "11:50"
   },
   "ultimo_garimpo": "05/11 07:59",
   "convites_story": {
@@ -649,7 +649,8 @@
    "09:35 reels",
    "09:38 story_oferta",
    "10:20 story_oferta",
-   "10:24 story_oferta"
+   "10:24 story_oferta",
+   "11:11 story_oferta"
   ],
   "shopee_ligada": true,
   "shopee_oficial_ids": {
@@ -3271,10 +3272,12 @@
    "shopee-58258299646": "vendas longe",
    "shopee-58219972147": "nota",
    "shopee-58219962069": "outro: marca fora da lista boa",
-   "shopee-58217898612": "nota"
+   "shopee-58217898612": "nota",
+   "shopee-58267187023": "vendas longe",
+   "shopee-58266348163": "vendas longe"
   },
   "shopee_oficial": {
-   "vendas longe": 1441,
+   "vendas longe": 1443,
    "nota": 835,
    "vendas perto (125+)": 110,
    "outro: marca fora da lista boa": 80,
@@ -3284,10 +3287,10 @@
    "outro: palavra proibida: compatível": 10
   },
   "instagram": {
-   "seguidores": 153,
+   "seguidores": 152,
    "posts": 68,
-   "reach": 5294,
-   "profile_views": 76,
+   "reach": 5364,
+   "profile_views": 77,
    "website_clicks": 1,
    "stories_ativos": 25
   }
