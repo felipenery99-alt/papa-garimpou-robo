@@ -26,7 +26,36 @@ jobs:
         env:
           GH_TOKEN: ${{ github.token }}
           REPO: ${{ github.repository }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          ALERTA_CHAT_ID: ${{ secrets.ALERTA_CHAT_ID }}
         run: |
+          # 05/11 (dono: "100% automático e se monitorar sozinho"): vigia de fora do robô. A cada 30 min, 8h-22h
+          # (Brasília): sem execução do robô criada há mais de 60 min e nenhuma rodando/na fila -> dispara;
+          # nenhuma execução TERMINADA há mais de 90 min, ou disparo que falhou -> avisa o dono (1 vez a cada 3 h).
+          avisar() {
+            [ -n "$TELEGRAM_BOT_TOKEN" ] && [ -n "$ALERTA_CHAT_ID" ] &&               curl -s -o /dev/null "https://api.telegram.org/bot$TELEGRAM_BOT_TOKEN/sendMessage"                 --data-urlencode "chat_id=$ALERTA_CHAT_ID" --data-urlencode "text=$1"
+          }
+          ultimo_aviso=0
+          proxima_checagem=0
+          checar_robo() {
+            hora=$(TZ=America/Sao_Paulo date +%H)
+            [ "$hora" -ge 8 ] && [ "$hora" -lt 22 ] || return 0
+            runs=$(gh api "repos/$REPO/actions/workflows/robo.yml/runs?per_page=10")
+            criado=$(echo "$runs" | jq -r '.workflow_runs[0].created_at')
+            ativos=$(echo "$runs" | jq '[.workflow_runs[] | select(.status=="in_progress" or .status=="queued" or .status=="pending" or .status=="waiting")] | length')
+            fim_ok=$(echo "$runs" | jq -r '[.workflow_runs[] | select(.status=="completed")][0].updated_at')
+            agora_s=$(date +%s)
+            if [ "$ativos" = "0" ] && [ $(( agora_s - $(date -d "$criado" +%s) )) -gt 3600 ]; then
+              if gh workflow run robo.yml -R "$REPO" -f modo=normal; then
+                echo "vigia: robô parado desde $criado, disparei"
+              elif [ $(( agora_s - ultimo_aviso )) -gt 10800 ]; then
+                avisar "⚠️ Robô Papa Garimpou parado e o guardião não conseguiu disparar. Abrir o GitHub Actions." && ultimo_aviso=$agora_s
+              fi
+            fi
+            if [ $(( agora_s - $(date -d "$fim_ok" +%s) )) -gt 5400 ] && [ $(( agora_s - ultimo_aviso )) -gt 10800 ]; then
+              avisar "⚠️ Robô Papa Garimpou sem terminar uma execução há mais de 90 min (última: $(TZ=America/Sao_Paulo date -d "$fim_ok" +%H:%M)). O guardião está de olho e dispara de novo." && ultimo_aviso=$agora_s
+            fi
+          }
           # Mesmos horários (UTC, HHMM) do robo.yml
           SLOTS="1107 1152 1238 1324 1411 1456 1519 1547 1622 1708 1803 1851 1944 2036 2109 2142 2217 2303 2338 0024"
           fim=$(( $(date +%s) + 340*60 ))
@@ -43,6 +72,10 @@ jobs:
                 fi
               fi
             done
+            if [ "$(date +%s)" -ge "$proxima_checagem" ]; then
+              checar_robo || true
+              proxima_checagem=$(( $(date +%s) + 1800 ))
+            fi
             sleep 50
           done
       - name: Passar o bastão para a próxima volta

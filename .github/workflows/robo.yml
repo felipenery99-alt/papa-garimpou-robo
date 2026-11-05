@@ -64,6 +64,7 @@ jobs:
           SHOPEE_SECRET: ${{ secrets.SHOPEE_SECRET }}
           ALERTA_CHAT_ID: ${{ secrets.ALERTA_CHAT_ID }}
           META_TOKEN: ${{ secrets.META_TOKEN }}
+          PYTHONUNBUFFERED: "1"   # 05/11: log ao vivo (antes só aparecia no fim da execução)
           GITHUB_TOKEN: ${{ github.token }}   # 03/11: vigia lê a hora do último garimpo pela API
         run: |
           case "${{ github.event.inputs.modo }}" in

@@ -548,6 +548,14 @@ def soltar_fila(h: dict, telegram, limite: datetime, atraso: bool = True) -> int
         if not h["fila"] or datetime.now(FUSO) + timedelta(seconds=espera) > limite:
             break
         _time.sleep(espera)
+        # 05/11: a execução agora dura ~45 min; horário do Instagram que vence no meio da fila sai na hora,
+        # em vez de esperar a próxima execução (que podia passar da janela de 50 min e perder o horário)
+        agora_ig = datetime.now(FUSO)
+        if instagram_vencido(h, agora_ig):
+            try:
+                rodar_instagram(h, agora_ig)
+            except Exception as e:
+                telegram.avisar_dono(f"Instagram: erro geral {e}")
     print(f"fila: {len(h.get('fila', []))} oferta(s) esperando a próxima execução")
     return erros
 
@@ -670,6 +678,20 @@ def publicar_salvavel(h: dict, agora: datetime, tag: str) -> bool:
         h.setdefault("ig_dm_links", {})[mid] = dm + "\n\nPreço pode mudar a qualquer momento. #publi link de afiliado"
         registrar_interativo(agora, "carrossel_salvavel", top)
         return True
+    return False
+
+
+def instagram_vencido(h: dict, agora: datetime) -> bool:
+    """Algum horário da agenda do Instagram já venceu (até 50 min) e ainda não saiu hoje?"""
+    import os
+    if not os.environ.get("META_TOKEN"):
+        return False
+    feitos = set(h.get("ig_feitos", []))
+    for hora, tipo in config.INSTAGRAM_AGENDA:
+        hh, mm = map(int, hora.split(":"))
+        momento = agora.replace(hour=hh, minute=mm, second=0, microsecond=0)
+        if momento <= agora <= momento + timedelta(minutes=50) and f"{agora.date().isoformat()} {hora} {tipo}" not in feitos:
+            return True
     return False
 
 
