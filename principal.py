@@ -1158,6 +1158,11 @@ def main() -> int:
     # 05/11: Instagram + garimpo levam ~10–15 min antes da fila. Com a fila do run anterior ainda cheia,
     # solta 1 oferta antes e 1 depois do Instagram para não abrir buraco entre uma execução e a seguinte.
     def um_post():
+        # 05/11 (run #311): saiu 13h35 colado no 13h34 da execução anterior; respeita o intervalo mínimo
+        ult = max((v for v in ultimo_post(h, datetime.now(FUSO)).values() if v), default=None)
+        if ult and (datetime.now(FUSO) - datetime.now(FUSO).replace(hour=int(ult[:2]), minute=int(ult[3:]))).total_seconds() \
+                < config.intervalo_posts(datetime.now(FUSO).hour)[0] * 60:
+            return
         if os.environ.get("TELEGRAM_BOT_TOKEN") and h.get("fila"):
             soltar_fila(h, telegram, datetime.now(FUSO), atraso=False)
     um_post()
