@@ -81,3 +81,12 @@
 - Alavanca nova: o Reels já terminava com o convite dos 4 canais (a ideia de ontem já existia). Mudei a capa do Reels de ofertas: em vez de "ACHADOS DO PAPA", mostra "ATÉ X% OFF EM MARCA BOA" com o maior desconto real do lote (da loja, nada inventado) e "segue o Papa"; a legenda abre com o mesmo gancho e pede para seguir o @papa.garimpou. Capa encolhe a fonte se a linha não couber. Ensaio OK.
 - Próximo: medir seguidores em 05/11; se o Reels não puxar, testar Reels de 1 oferta só (a mais forte do dia).
 - Pedido ao dono: (1) a rotina local do garimpo Amazon precisa rodar a cada ~1–2 h entre 8h e 22h (ontem ficou 4 h parada); (2) conferir o link da bio (0 cliques há 2 dias); (3) divulgar os 4 canais no status do WhatsApp (custo zero).
+
+## 2026-11-05 (rotina do CEO)
+- Visto (04/11): 30 execuções, 25 stories ativos (piso ok), feed ok (3 Reels + posts). Telegram: 21 achadinhos, 14 marcas, 15 tech. Seguidores 138→151 (+13), **alcance 149→4.203** (no 1º dia da capa "ATÉ X% OFF" no Reels), visitas 93, 1 clique na bio, convite medido 0 entradas. Membros: 3+3+5+5 = 16.
+- Erros: só o vigia ("garimpo parado desde 03/11 20:04" e "desde 12:46", tech com 2 na fila). É a rotina local do garimpo Amazon, fora deste repositório.
+- META: Instagram 151 de 195 até 10/11 (no ritmo: precisa ~7/dia, fez +13). Telegram 16 de 80 até 10/11 (**atrasado**).
+- Medição da loja oficial Shopee (pedida em 04/11): 2.503 itens vistos, 36 aprovados; caíram 1.532 por vendas longe, 745 por nota, 63 só por ter 250–499 vendas. Decidido: na Shopee **loja oficial** o mínimo de vendas cai de 500 para 250 (nota 4,6, desconto e lista de marcas iguais; Amazon/ML seguem 500). Loja oficial já garante original e 250+ vendas segue sendo prova social: até ~63 ofertas boas a mais por dia, menos fila seca.
+- Alavanca nova (Telegram atrasado): o Reels é o que trouxe gente nova (alcance 28×) e todo Reels termina com o convite dos 4 canais. O post de achado das 09:35 vira o **4º Reels do dia** (ofertas diferentes dos outros 3; sem oferta nova, Reels de dica do banco). Mesmo número de publicações por dia. Ensaio OK.
+- Próximo: medir em 06/11 se o alcance se mantém e se membros sobem; contar quantas Shopee oficiais com 250–499 vendas foram postadas.
+- Pedido ao dono: (1) a rotina local do garimpo Amazon segue parando (vigia avisou 2×); (2) divulgar os 4 canais no status do WhatsApp (custo zero).

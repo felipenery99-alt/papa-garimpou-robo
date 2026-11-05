@@ -19,6 +19,12 @@ def marca_da_oferta(oferta: dict, canal: str) -> str | None:
     return None
 
 
+def vendas_minimas(oferta: dict) -> int:
+    if str(oferta.get("id", "")).startswith("shopee") and oferta.get("loja_oficial"):
+        return config.VENDAS_MINIMAS_SHOPEE_OFICIAL
+    return config.VENDAS_MINIMAS
+
+
 def avaliar(oferta: dict, canal: str) -> tuple[bool, str]:
     """(aprovada, motivo). Critério de dono: na dúvida, reprova."""
     nome = _norm(oferta.get("nome", ""))
@@ -39,7 +45,7 @@ def avaliar(oferta: dict, canal: str) -> tuple[bool, str]:
         return False, "Shopee exige loja oficial"
     if (oferta.get("nota") or 0) < config.NOTA_MINIMA:
         return False, f"nota {oferta.get('nota')} < {config.NOTA_MINIMA}"
-    if (oferta.get("vendas") or 0) < config.VENDAS_MINIMAS:
+    if (oferta.get("vendas") or 0) < vendas_minimas(oferta):
         return False, f"poucas vendas ({oferta.get('vendas')})"
     minimo = config.DESCONTO_MINIMO if canal == "marcas" else config.DESCONTO_MINIMO_ACHADINHOS
     if (oferta.get("desconto") or 0) < minimo:

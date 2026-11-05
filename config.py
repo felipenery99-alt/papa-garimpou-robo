@@ -31,9 +31,12 @@ INSTAGRAM_AGENDA = [
     ("18:05", "a_ou_b"), ("19:15", "post_achado"), ("20:35", "story_top4"),
     ("21:20", "story_convite"),  # 29/10: 2º convite no pico da noite (Telegram parado em 2 membros/canal)
     # 29/10, dono: "alimentar o feed" — mais 4 posts de achado (sem oferta, sai peça do banco)
-    ("09:35", "post_achado"), ("14:25", "post_achado"), ("16:55", "post_achado"), ("20:50", "post_achado"),
+    ("14:25", "post_achado"), ("16:55", "post_achado"), ("20:50", "post_achado"),
     # 30/10 (CEO): Reels é o que alcança quem ainda não segue. 3 por dia nos picos, cada um com ofertas diferentes.
     ("12:40", "reels"), ("21:05", "reels"),
+    # 05/11 (CEO): alcance 149 → 4.203 no dia em que a capa do Reels virou "ATÉ X% OFF". Dobrar a aposta: o post de
+    # achado das 09:35 vira o 4º Reels (ofertas diferentes dos outros; sem oferta nova, sai Reels de dica do banco).
+    ("09:35", "reels"),
 ]
 
 # Dono, 28/10: "o Will posta 20 stories por dia pelo menos". Além da agenda acima, cada
@@ -96,6 +99,9 @@ NAO_REPETIR_DIAS = 7
 # ---------------------------------------------------------------------------
 NOTA_MINIMA = 4.6
 VENDAS_MINIMAS = 500
+# 05/11 (CEO): medição de 04/11 nas LOJAS OFICIAIS da Shopee: 36 aprovadas, 63 caíam só por ter 250–499 vendas.
+# Loja oficial já garante produto original; 250+ vendas segue sendo prova social. Vale só para Shopee loja oficial.
+VENDAS_MINIMAS_SHOPEE_OFICIAL = 250
 DESCONTO_MINIMO = 25          # % (marcas premium raramente passam de 40%)
 DESCONTO_MINIMO_ACHADINHOS = 30
 

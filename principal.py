@@ -116,7 +116,8 @@ def _motivo_oficial(o: dict, canal: str, ok: bool, motivo: str) -> str:
     if ok:
         return "aprovada"
     if motivo.startswith("poucas vendas"):
-        return "vendas perto (250+)" if (o.get("vendas") or 0) >= config.VENDAS_MINIMAS / 2 else "vendas longe"
+        minimo = qualidade.vendas_minimas(o)
+        return f"vendas perto ({minimo // 2}+)" if (o.get("vendas") or 0) >= minimo / 2 else "vendas longe"
     if motivo.startswith("desconto"):
         minimo = config.DESCONTO_MINIMO if canal == "marcas" else config.DESCONTO_MINIMO_ACHADINHOS
         return "desconto perto (até 10 pts)" if (o.get("desconto") or 0) >= minimo - 10 else "desconto longe"
