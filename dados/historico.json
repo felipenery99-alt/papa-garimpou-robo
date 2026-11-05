@@ -486,7 +486,11 @@
   "2026-11-05 achadinhos 13:35 amz-B099ZJQXMF",
   "2026-11-05 marcas 13:50 amz-B0F2JCBRV8",
   "2026-11-05 marcas 13:57 amz-B0FYQF77WN",
-  "2026-11-05 tech 14:12 amz-B0D1DSW8TF"
+  "2026-11-05 tech 14:12 amz-B0D1DSW8TF",
+  "2026-11-05 achadinhos 14:35 amz-B0BJHGBJHS",
+  "2026-11-05 tech 14:44 amz-B0H1F4TQ7C",
+  "2026-11-05 marcas 14:57 amz-B0CZM4X4HY",
+  "2026-11-05 achadinhos 15:03 amz-B0BXY561N5"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -981,7 +985,11 @@
   "amz-B099ZJQXMF": "2026-11-05T13:35:16.150345-03:00",
   "amz-B0F2JCBRV8": "2026-11-05T13:50:45.582546-03:00",
   "amz-B0FYQF77WN": "2026-11-05T13:57:17.385295-03:00",
-  "amz-B0D1DSW8TF": "2026-11-05T14:12:46.951779-03:00"
+  "amz-B0D1DSW8TF": "2026-11-05T14:12:46.951779-03:00",
+  "amz-B0BJHGBJHS": "2026-11-05T14:35:15.397718-03:00",
+  "amz-B0H1F4TQ7C": "2026-11-05T14:44:11.645780-03:00",
+  "amz-B0CZM4X4HY": "2026-11-05T14:57:34.501723-03:00",
+  "amz-B0BXY561N5": "2026-11-05T15:03:39.591088-03:00"
  },
  "ofertas_dia": [
   {
@@ -2807,6 +2815,67 @@
    "valida_ate": "2026-11-06T22:00:00-03:00",
    "entrou": "2026-11-05T12:29:48.873047-03:00",
    "dia": "2026-11-05"
+  },
+  {
+   "id": "amz-B0BJHGBJHS",
+   "canal": "achadinhos",
+   "nome": "Escova Secadora Mondial Golden Rose Bivolt",
+   "preco_antigo": 289.9,
+   "preco": 135.0,
+   "desconto": 53,
+   "link": "https://www.amazon.com.br/dp/B0BJHGBJHS?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71YHCb66s9L._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-06T22:00:00-03:00",
+   "entrou": "2026-11-05T12:06:27.043828-03:00",
+   "dia": "2026-11-05"
+  },
+  {
+   "id": "amz-B0H1F4TQ7C",
+   "canal": "tech",
+   "nome": "Caixa de Som Bluetooth JBL Go 5",
+   "preco_antigo": 359.0,
+   "preco": 227.71,
+   "desconto": 37,
+   "link": "https://www.amazon.com.br/dp/B0H1F4TQ7C?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71lgW9YIFJL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-06T22:00:00-03:00",
+   "gancho": "JBL GO 5 COM PREÇO DE GO MESMO",
+   "entrou": "2026-11-05T12:29:48.873047-03:00",
+   "dia": "2026-11-05"
+  },
+  {
+   "id": "amz-B0CZM4X4HY",
+   "canal": "marcas",
+   "nome": "Garrafa Térmica Stanley Tumbler",
+   "preco_antigo": 319.0,
+   "preco": 182.68,
+   "desconto": 43,
+   "link": "https://www.amazon.com.br/dp/B0CZM4X4HY?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/41TIt+zaRxL._AC_SL1200_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-06T22:00:00-03:00",
+   "entrou": "2026-11-05T12:29:48.873047-03:00",
+   "dia": "2026-11-05"
+  },
+  {
+   "id": "amz-B0BXY561N5",
+   "canal": "achadinhos",
+   "nome": "Cafeteira Espresso Oster PrimaLatte Touch (127V)",
+   "preco_antigo": 1999.0,
+   "preco": 890.89,
+   "desconto": 55,
+   "link": "https://www.amazon.com.br/dp/B0BXY561N5?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61duKqWRGPL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-06T22:00:00-03:00",
+   "entrou": "2026-11-05T12:06:27.043828-03:00",
+   "dia": "2026-11-05"
   }
  ],
  "ig_feitos": [
@@ -2945,10 +3014,10 @@
   "2026-11-05 12:40 reels",
   "2026-11-05 12:47 story_oferta",
   "2026-11-05 13:20 story_convite",
-  "2026-11-05 13:22 story_oferta"
+  "2026-11-05 13:22 story_oferta",
+  "2026-11-05 14:08 story_oferta"
  ],
  "ig_ofertas_usadas": [
-  "amz-B0HF1LQFDD",
   "amz-B0FDX5NC1G",
   "amz-B086YK7M5Y",
   "amz-B07M79GTYK",
@@ -3147,7 +3216,8 @@
   "amz-B0CGCHWKH1",
   "amz-B07MRMHML9",
   "amz-B09KYB18ZY",
-  "amz-B0C2JFGFK9"
+  "amz-B0C2JFGFK9",
+  "amz-B0CT5X3YM1"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
@@ -3201,34 +3271,6 @@
  "ultimo_pilar": "blackfriday",
  "fila": [
   {
-   "id": "amz-B0BJHGBJHS",
-   "canal": "achadinhos",
-   "nome": "Escova Secadora Mondial Golden Rose Bivolt",
-   "preco_antigo": 289.9,
-   "preco": 135.0,
-   "desconto": 53,
-   "link": "https://www.amazon.com.br/dp/B0BJHGBJHS?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/71YHCb66s9L._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-06T22:00:00-03:00",
-   "entrou": "2026-11-05T12:06:27.043828-03:00"
-  },
-  {
-   "id": "amz-B0BXY561N5",
-   "canal": "achadinhos",
-   "nome": "Cafeteira Espresso Oster PrimaLatte Touch (127V)",
-   "preco_antigo": 1999.0,
-   "preco": 890.89,
-   "desconto": 55,
-   "link": "https://www.amazon.com.br/dp/B0BXY561N5?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61duKqWRGPL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-06T22:00:00-03:00",
-   "entrou": "2026-11-05T12:06:27.043828-03:00"
-  },
-  {
    "id": "amz-B07K32CH6K",
    "canal": "achadinhos",
    "nome": "Jogo de Facas Tramontina Plenus 6 Peças com Cepo",
@@ -3240,36 +3282,6 @@
    "loja": "Vendido e entregue pela Amazon",
    "plataforma": "Amazon",
    "valida_ate": "2026-11-06T22:00:00-03:00",
-   "entrou": "2026-11-05T12:06:27.043828-03:00"
-  },
-  {
-   "id": "amz-B0GHSMPBP7",
-   "canal": "marcas",
-   "nome": "Tênis Mizuno Sunrise",
-   "preco_antigo": 449.99,
-   "preco": 229.9,
-   "desconto": 49,
-   "link": "https://www.amazon.com.br/dp/B0GHSMPBP7?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/717PU4k6AzL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-06T22:00:00-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "entrou": "2026-11-05T12:06:27.043828-03:00"
-  },
-  {
-   "id": "amz-B0H4RQ4MK8",
-   "canal": "marcas",
-   "nome": "Tênis Puma Caven 2.0 Feminino",
-   "preco_antigo": 449.99,
-   "preco": 212.9,
-   "desconto": 53,
-   "link": "https://www.amazon.com.br/dp/B0H4RQ4MK8?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61XvSb4WuOL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-06T22:00:00-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
    "entrou": "2026-11-05T12:06:27.043828-03:00"
   },
   {
@@ -3296,36 +3308,6 @@
    "desconto": 36,
    "link": "https://www.amazon.com.br/dp/B0BLZVD5S5?tag=papagarimpou-20",
    "imagem": "https://m.media-amazon.com/images/I/41qWhEJxnaL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-06T22:00:00-03:00",
-   "entrou": "2026-11-05T12:29:48.873047-03:00"
-  },
-  {
-   "id": "amz-B09VN2FCDF",
-   "canal": "marcas",
-   "nome": "Perfume Azzaro The Most Wanted Parfum Masculino",
-   "preco_antigo": 729.0,
-   "preco": 429.99,
-   "desconto": 41,
-   "link": "https://www.amazon.com.br/dp/B09VN2FCDF?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61nkCltKCaL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-06T22:00:00-03:00",
-   "extra": "Importado vendido e entregue pela própria Amazon",
-   "gancho": "AZZARO MOST WANTED COM 40% OFF",
-   "entrou": "2026-11-05T12:29:48.873047-03:00"
-  },
-  {
-   "id": "amz-B0CZM4X4HY",
-   "canal": "marcas",
-   "nome": "Garrafa Térmica Stanley Tumbler",
-   "preco_antigo": 319.0,
-   "preco": 182.68,
-   "desconto": 43,
-   "link": "https://www.amazon.com.br/dp/B0CZM4X4HY?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/41TIt+zaRxL._AC_SL1200_.jpg",
    "loja": "Vendido e entregue pela Amazon",
    "plataforma": "Amazon",
    "valida_ate": "2026-11-06T22:00:00-03:00",
@@ -3376,21 +3358,6 @@
    "plataforma": "Amazon",
    "valida_ate": "2026-11-06T22:00:00-03:00",
    "extra": "Preço a partir de: varia por tamanho e cor",
-   "entrou": "2026-11-05T12:29:48.873047-03:00"
-  },
-  {
-   "id": "amz-B0H1F4TQ7C",
-   "canal": "tech",
-   "nome": "Caixa de Som Bluetooth JBL Go 5",
-   "preco_antigo": 359.0,
-   "preco": 227.71,
-   "desconto": 37,
-   "link": "https://www.amazon.com.br/dp/B0H1F4TQ7C?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/71lgW9YIFJL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-06T22:00:00-03:00",
-   "gancho": "JBL GO 5 COM PREÇO DE GO MESMO",
    "entrou": "2026-11-05T12:29:48.873047-03:00"
   },
   {
@@ -4104,7 +4071,11 @@
   "cafeteiranespressoessenzaminipreta127v": "2026-11-05T13:35:16.150345-03:00",
   "tenispumaflyerlite3feminino": "2026-11-05T13:50:45.582546-03:00",
   "tenisasicsnovablast5trfeminino": "2026-11-05T13:57:17.385295-03:00",
-  "tecladomecanicogamersemfiologitechg515tkl": "2026-11-05T14:12:46.951779-03:00"
+  "tecladomecanicogamersemfiologitechg515tkl": "2026-11-05T14:12:46.951779-03:00",
+  "escovasecadoramondialgoldenrosebivolt": "2026-11-05T14:35:15.397718-03:00",
+  "caixadesombluetoothjblgo5": "2026-11-05T14:44:11.645780-03:00",
+  "garrafatermicastanleytumbler": "2026-11-05T14:57:34.501723-03:00",
+  "cafeteiraespressoosterprimalattetouch127v": "2026-11-05T15:03:39.591088-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
