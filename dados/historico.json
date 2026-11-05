@@ -465,7 +465,12 @@
   "2026-11-05 achadinhos 09:29 amz-B00WQSFO1E",
   "2026-11-05 tech 10:04 amz-B0CGCHWKH1",
   "2026-11-05 tech 10:11 amz-B07MRMHML9",
-  "2026-11-05 marcas 10:17 amz-B09KYB18ZY"
+  "2026-11-05 marcas 10:17 amz-B09KYB18ZY",
+  "2026-11-05 achadinhos 10:49 amz-B0C2JFGFK9",
+  "2026-11-05 marcas 10:56 amz-B0CT5X3YM1",
+  "2026-11-05 tech 11:00 amz-B0BS1QB15L",
+  "2026-11-05 achadinhos 11:04 amz-B07T4M1MQW",
+  "2026-11-05 marcas 11:07 amz-B0G4SQ6CFG"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -939,7 +944,12 @@
   "amz-B00WQSFO1E": "2026-11-05T09:29:47.217525-03:00",
   "amz-B0CGCHWKH1": "2026-11-05T10:04:41.250875-03:00",
   "amz-B07MRMHML9": "2026-11-05T10:11:30.833306-03:00",
-  "amz-B09KYB18ZY": "2026-11-05T10:17:27.642940-03:00"
+  "amz-B09KYB18ZY": "2026-11-05T10:17:27.642940-03:00",
+  "amz-B0C2JFGFK9": "2026-11-05T10:49:58.985507-03:00",
+  "amz-B0CT5X3YM1": "2026-11-05T10:56:03.956705-03:00",
+  "amz-B0BS1QB15L": "2026-11-05T11:00:22.711510-03:00",
+  "amz-B07T4M1MQW": "2026-11-05T11:04:36.084725-03:00",
+  "amz-B0G4SQ6CFG": "2026-11-05T11:07:43.562988-03:00"
  },
  "ofertas_dia": [
   {
@@ -2429,6 +2439,83 @@
    "gancho": "HERING BÁSICA A MENOS DE R$ 30 CADA",
    "entrou": "2026-11-05T08:17:52.120436-03:00",
    "dia": "2026-11-05"
+  },
+  {
+   "id": "amz-B0C2JFGFK9",
+   "canal": "achadinhos",
+   "nome": "Liquidificador Oster 1100 Full 3,2L",
+   "preco_antigo": 188.9,
+   "preco": 119.9,
+   "desconto": 37,
+   "link": "https://www.amazon.com.br/dp/B0C2JFGFK9?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61tP626zBVL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-06T22:00:00-03:00",
+   "entrou": "2026-11-05T08:17:52.120436-03:00",
+   "dia": "2026-11-05"
+  },
+  {
+   "id": "amz-B0CT5X3YM1",
+   "canal": "marcas",
+   "nome": "Garrafa Térmica Stanley Aerolight Fast Flow 710ml Polar",
+   "preco_antigo": 309.0,
+   "preco": 185.4,
+   "desconto": 40,
+   "link": "https://www.amazon.com.br/dp/B0CT5X3YM1?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/41mAScIa7wL._AC_SL1200_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-05T22:00:00-03:00",
+   "entrou": "2026-11-05T08:17:52.120436-03:00",
+   "dia": "2026-11-05"
+  },
+  {
+   "id": "amz-B0BS1QB15L",
+   "canal": "tech",
+   "nome": "Headphone Bluetooth Sony WH-CH520 com Microfone",
+   "preco_antigo": 599.0,
+   "preco": 352.64,
+   "desconto": 41,
+   "link": "https://www.amazon.com.br/dp/B0BS1QB15L?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/41PA8xgXx4L._AC_SL1200_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-05T22:00:00-03:00",
+   "gancho": "SONY COM 41% OFF NO OUVIDO",
+   "entrou": "2026-11-05T08:17:52.120436-03:00",
+   "dia": "2026-11-05"
+  },
+  {
+   "id": "amz-B07T4M1MQW",
+   "canal": "achadinhos",
+   "nome": "Panela Wok Tramontina Loreto Alumínio Vermelha",
+   "preco_antigo": 168.5,
+   "preco": 109.13,
+   "desconto": 35,
+   "link": "https://www.amazon.com.br/dp/B07T4M1MQW?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/519tpRBOkxL._AC_SL1200_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-06T22:00:00-03:00",
+   "entrou": "2026-11-05T08:17:52.120436-03:00",
+   "dia": "2026-11-05"
+  },
+  {
+   "id": "amz-B0G4SQ6CFG",
+   "canal": "marcas",
+   "nome": "Garrafa Térmica Stanley Aerolight Fast Flow 710ml Cream",
+   "preco_antigo": 309.0,
+   "preco": 166.86,
+   "desconto": 46,
+   "link": "https://www.amazon.com.br/dp/B0G4SQ6CFG?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/41q5iDZ3zWL._AC_SL1400_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-05T22:00:00-03:00",
+   "gancho": "STANLEY COM 46% OFF",
+   "entrou": "2026-11-05T08:17:52.120436-03:00",
+   "dia": "2026-11-05"
   }
  ],
  "ig_feitos": [
@@ -2555,7 +2642,9 @@
   "2026-11-05 08:52 story_oferta",
   "2026-11-05 feed",
   "2026-11-05 09:35 reels",
-  "2026-11-05 09:38 story_oferta"
+  "2026-11-05 09:38 story_oferta",
+  "2026-11-05 10:20 story_oferta",
+  "2026-11-05 10:24 story_oferta"
  ],
  "ig_ofertas_usadas": [
   "amz-B0GP7KDZRJ",
@@ -2751,7 +2840,9 @@
   "amz-B0FPG9431G",
   "amz-B0GHZ4VBHD",
   "amz-B09DCZWN1K",
-  "amz-B0CJ3WFW9H"
+  "amz-B0CJ3WFW9H",
+  "amz-B003JSEG4Q",
+  "amz-B0C15596N6"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
@@ -2804,34 +2895,6 @@
  },
  "ultimo_pilar": "blackfriday",
  "fila": [
-  {
-   "id": "amz-B0C2JFGFK9",
-   "canal": "achadinhos",
-   "nome": "Liquidificador Oster 1100 Full 3,2L",
-   "preco_antigo": 188.9,
-   "preco": 119.9,
-   "desconto": 37,
-   "link": "https://www.amazon.com.br/dp/B0C2JFGFK9?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61tP626zBVL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-06T22:00:00-03:00",
-   "entrou": "2026-11-05T08:17:52.120436-03:00"
-  },
-  {
-   "id": "amz-B07T4M1MQW",
-   "canal": "achadinhos",
-   "nome": "Panela Wok Tramontina Loreto Alumínio Vermelha",
-   "preco_antigo": 168.5,
-   "preco": 109.13,
-   "desconto": 35,
-   "link": "https://www.amazon.com.br/dp/B07T4M1MQW?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/519tpRBOkxL._AC_SL1200_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-06T22:00:00-03:00",
-   "entrou": "2026-11-05T08:17:52.120436-03:00"
-  },
   {
    "id": "amz-B07CKCWNRC",
    "canal": "achadinhos",
@@ -2889,35 +2952,6 @@
    "loja": "Vendido e entregue pela Amazon",
    "plataforma": "Amazon",
    "valida_ate": "2026-11-06T22:00:00-03:00",
-   "entrou": "2026-11-05T08:17:52.120436-03:00"
-  },
-  {
-   "id": "amz-B0CT5X3YM1",
-   "canal": "marcas",
-   "nome": "Garrafa Térmica Stanley Aerolight Fast Flow 710ml Polar",
-   "preco_antigo": 309.0,
-   "preco": 185.4,
-   "desconto": 40,
-   "link": "https://www.amazon.com.br/dp/B0CT5X3YM1?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/41mAScIa7wL._AC_SL1200_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-05T22:00:00-03:00",
-   "entrou": "2026-11-05T08:17:52.120436-03:00"
-  },
-  {
-   "id": "amz-B0G4SQ6CFG",
-   "canal": "marcas",
-   "nome": "Garrafa Térmica Stanley Aerolight Fast Flow 710ml Cream",
-   "preco_antigo": 309.0,
-   "preco": 166.86,
-   "desconto": 46,
-   "link": "https://www.amazon.com.br/dp/B0G4SQ6CFG?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/41q5iDZ3zWL._AC_SL1400_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-05T22:00:00-03:00",
-   "gancho": "STANLEY COM 46% OFF",
    "entrou": "2026-11-05T08:17:52.120436-03:00"
   },
   {
@@ -3011,21 +3045,6 @@
    "plataforma": "Amazon",
    "valida_ate": "2026-11-06T22:00:00-03:00",
    "extra": "Preço a partir de: varia por tamanho e cor",
-   "entrou": "2026-11-05T08:17:52.120436-03:00"
-  },
-  {
-   "id": "amz-B0BS1QB15L",
-   "canal": "tech",
-   "nome": "Headphone Bluetooth Sony WH-CH520 com Microfone",
-   "preco_antigo": 599.0,
-   "preco": 352.64,
-   "desconto": 41,
-   "link": "https://www.amazon.com.br/dp/B0BS1QB15L?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/41PA8xgXx4L._AC_SL1200_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-05T22:00:00-03:00",
-   "gancho": "SONY COM 41% OFF NO OUVIDO",
    "entrou": "2026-11-05T08:17:52.120436-03:00"
   },
   {
@@ -3473,6 +3492,21 @@
    "link": "https://s.shopee.com.br/7VHirfmdqM",
    "canal": "marcas",
    "entrou": "2026-11-05T09:48:52.178517-03:00"
+  },
+  {
+   "id": "amz-B0CJJXQ1CF",
+   "canal": "marcas",
+   "nome": "Kit 5 Camisetas Masculinas Básicas Hering",
+   "preco_antigo": 249.99,
+   "preco": 132.98,
+   "desconto": 47,
+   "link": "https://www.amazon.com.br/dp/B0CJJXQ1CF?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/41rZclSGzuL._AC_SL1000_.jpg",
+   "loja": "Loja oficial Hering · entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-05T22:00:00-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "entrou": "2026-11-05T10:34:46.474925-03:00"
   }
  ],
  "menus_fixados": [
@@ -3800,7 +3834,12 @@
   "refiloralbprecisionclean4unidades": "2026-11-05T09:29:47.217525-03:00",
   "jogolittlenightmares3paraps5": "2026-11-05T10:04:41.250875-03:00",
   "headsetgamerlogitechg432somsurround71": "2026-11-05T10:11:30.833306-03:00",
-  "kit3camisetasmasculinasbasicashering": "2026-11-05T10:17:27.642940-03:00"
+  "kit3camisetasmasculinasbasicashering": "2026-11-05T10:17:27.642940-03:00",
+  "liquidificadoroster1100full32l": "2026-11-05T10:49:58.985507-03:00",
+  "garrafatermicastanleyaerolightfastflow710mlpolar": "2026-11-05T10:56:03.956705-03:00",
+  "headphonebluetoothsonywhch520commicrofone": "2026-11-05T11:00:22.711510-03:00",
+  "panelawoktramontinaloretoaluminiovermelha": "2026-11-05T11:04:36.084725-03:00",
+  "garrafatermicastanleyaerolightfastflow710mlcream": "2026-11-05T11:07:43.562988-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
