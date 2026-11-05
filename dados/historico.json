@@ -454,7 +454,8 @@
   "2026-11-04 achadinhos 20:25 amz-B0B8Q6VLRB",
   "2026-11-04 tech 20:44 amz-B09LYZP1LG",
   "2026-11-04 marcas 20:55 amz-B0BPJS7Y2J",
-  "2026-11-04 tech 21:05 amz-B07C55K2YS"
+  "2026-11-04 tech 21:05 amz-B07C55K2YS",
+  "2026-11-04 achadinhos 21:16 amz-B0DVCJ2W2T"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -917,7 +918,8 @@
   "amz-B0B8Q6VLRB": "2026-11-04T20:25:11.215396-03:00",
   "amz-B09LYZP1LG": "2026-11-04T20:44:10.489385-03:00",
   "amz-B0BPJS7Y2J": "2026-11-04T20:55:59.505984-03:00",
-  "amz-B07C55K2YS": "2026-11-04T21:05:01.076286-03:00"
+  "amz-B07C55K2YS": "2026-11-04T21:05:01.076286-03:00",
+  "amz-B0DVCJ2W2T": "2026-11-04T21:16:57.448752-03:00"
  },
  "ofertas_dia": [
   {
@@ -3056,6 +3058,21 @@
    "gancho": "TECLADO + MOUSE LOGITECH PELA METADE",
    "entrou": "2026-11-04T18:03:20.894594-03:00",
    "dia": "2026-11-04"
+  },
+  {
+   "id": "amz-B0DVCJ2W2T",
+   "canal": "achadinhos",
+   "nome": "Parafusadeira Bosch GSR 1000 Smart + Kit 33 peças",
+   "preco_antigo": 568.9,
+   "preco": 397.24,
+   "desconto": 30,
+   "link": "https://www.amazon.com.br/dp/B0DVCJ2W2T?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61GBiWLIcXL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-05T22:00:00-03:00",
+   "entrou": "2026-11-04T18:03:20.894594-03:00",
+   "dia": "2026-11-04"
   }
  ],
  "ig_feitos": [
@@ -3208,7 +3225,13 @@
   "2026-11-04 feed",
   "2026-11-04 19:15 post_achado",
   "2026-11-04 19:17 story_oferta",
-  "2026-11-04 20:03 story_oferta"
+  "2026-11-04 20:03 story_oferta",
+  "2026-11-04 20:35 story_top4",
+  "2026-11-04 feed",
+  "2026-11-04 20:50 post_achado",
+  "2026-11-04 feed",
+  "2026-11-04 21:05 reels",
+  "2026-11-04 20:38 story_oferta"
  ],
  "ig_ofertas_usadas": [
   "amz-B0GP7KDZRJ",
@@ -3398,11 +3421,13 @@
   "amz-B0DB8TRNZX",
   "shopee-58209674589",
   "amz-B0D27SFGFJ",
-  "amz-B0BYWL962Q"
+  "amz-B0BYWL962Q",
+  "amz-B0G87ZRVV1",
+  "amz-B08R9341ZB"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
- "ig_ultimo_reel": "2026-11-04T17:46:21.913058-03:00",
+ "ig_ultimo_reel": "2026-11-04T21:05:21.555762-03:00",
  "pecas_usadas": {
   "ac-preco-inflado": "2026-10-27",
   "dc-7-dias": "2026-10-27",
@@ -3513,20 +3538,6 @@
    "link": "https://s.shopee.com.br/4Ve3BRxgAE",
    "canal": "marcas",
    "entrou": "2026-11-04T17:46:21.913058-03:00"
-  },
-  {
-   "id": "amz-B0DVCJ2W2T",
-   "canal": "achadinhos",
-   "nome": "Parafusadeira Bosch GSR 1000 Smart + Kit 33 peças",
-   "preco_antigo": 568.9,
-   "preco": 397.24,
-   "desconto": 30,
-   "link": "https://www.amazon.com.br/dp/B0DVCJ2W2T?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61GBiWLIcXL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-05T22:00:00-03:00",
-   "entrou": "2026-11-04T18:03:20.894594-03:00"
   },
   {
    "id": "amz-B0BF7GG972",
@@ -4182,7 +4193,8 @@
   "protetorsolarfacialeucerinfps70": "2026-11-04T20:25:11.215396-03:00",
   "tecladosemfiologitechmxkeysminiiluminado": "2026-11-04T20:44:10.489385-03:00",
   "tenispumaxray2squarefeminino": "2026-11-04T20:55:59.505984-03:00",
-  "combotecladoemousesemfiologitech": "2026-11-04T21:05:01.076286-03:00"
+  "combotecladoemousesemfiologitech": "2026-11-04T21:05:01.076286-03:00",
+  "parafusadeiraboschgsr1000smartkit33pecas": "2026-11-04T21:16:57.448752-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
@@ -4259,16 +4271,21 @@
    "amz-B0BYK9KP3W"
   ],
   "2026-11-04": [
-   "amz-B0DH9Y4MMF",
-   "amz-B0G87ZRVV1",
-   "amz-B0CVCG6S9C",
-   "amz-B0G4SQNDHB",
    "amz-B0FFTQD31C",
-   "amz-B0917MY5RD",
    "amz-B0FWS3N7RN",
+   "amz-B0GHSCS2P5",
+   "amz-B07C55K2YS",
+   "shopee-22592962752",
+   "amz-B0G87ZRVV1",
+   "amz-B0CRTYZG5C",
+   "amz-B0CVCG6S9C",
+   "amz-B0917MY5RD",
    "amz-B0CVXT6NQB",
    "amz-B0GHSGXFPB",
-   "amz-B0GHSCS2P5"
+   "amz-B0H4RGVYS2",
+   "amz-B0DH9Y4MMF",
+   "shopee-58209674589",
+   "amz-B0G4SQNDHB"
   ]
  },
  "vendas_shopee": {},
