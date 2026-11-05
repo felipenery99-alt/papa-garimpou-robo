@@ -617,19 +617,19 @@
   "erros": [
    "Instagram 2026-11-05 12:40 reels falhou: Instagram recusou o envio do vídeo: {'debug_info': {'retriable': False, 'type': 'ProcessingFailedError', 'message': 'Request processing failed'}}. Não publiquei."
   ],
-  "ultima_execucao": "17:14",
-  "execucoes": 17,
+  "ultima_execucao": "17:57",
+  "execucoes": 18,
   "telegram_posts": {
-   "achadinhos": 19,
-   "marcas": 15,
-   "tech": 14
+   "achadinhos": 23,
+   "marcas": 16,
+   "tech": 15
   },
   "ultimo_post": {
-   "achadinhos": "17:57",
-   "marcas": "17:43",
-   "tech": "17:32"
+   "achadinhos": "18:31",
+   "marcas": "18:37",
+   "tech": "18:24"
   },
-  "ultimo_garimpo": "05/11 15:46",
+  "ultimo_garimpo": "05/11 17:44",
   "convites_story": {
    "story-20261101": 0,
    "story-20261102": 0,
@@ -666,9 +666,13 @@
    "14:25 post_achado",
    "15:03 story_oferta",
    "16:05 adivinha_resposta",
-   "feed",
    "16:55 post_achado",
-   "16:44 story_oferta"
+   "16:44 story_oferta",
+   "feed",
+   "17:30 reels",
+   "17:36 story_oferta",
+   "18:05 a_ou_b",
+   "18:09 story_oferta"
   ],
   "shopee_ligada": true,
   "shopee_oficial_ids": {
@@ -791,7 +795,7 @@
    "shopee-21897631761": "aprovada",
    "shopee-18797677549": "aprovada",
    "shopee-21199205245": "aprovada",
-   "shopee-11098381324": "aprovada",
+   "shopee-11098381324": "vendas perto (125+)",
    "shopee-23702004611": "vendas perto (125+)",
    "shopee-20697627058": "vendas longe",
    "shopee-22599687370": "vendas longe",
@@ -1047,7 +1051,7 @@
    "shopee-58260861578": "vendas longe",
    "shopee-22192397274": "vendas longe",
    "shopee-15848213372": "desconto perto (até 10 pts)",
-   "shopee-20999203046": "desconto perto (até 10 pts)",
+   "shopee-20999203046": "aprovada",
    "shopee-22197499150": "desconto longe",
    "shopee-18799069741": "desconto longe",
    "shopee-23599291516": "desconto perto (até 10 pts)",
@@ -1758,7 +1762,7 @@
    "shopee-58259209874": "vendas longe",
    "shopee-58269895516": "nota",
    "shopee-58219885018": "vendas longe",
-   "shopee-49667761129": "vendas longe",
+   "shopee-49667761129": "nota",
    "shopee-43928740995": "vendas longe",
    "shopee-53056188323": "vendas longe",
    "shopee-22798809434": "vendas longe",
@@ -3315,23 +3319,27 @@
    "shopee-58268073317": "nota",
    "shopee-23799121923": "vendas longe",
    "shopee-22299046153": "vendas longe",
-   "shopee-51768818448": "nota"
+   "shopee-51768818448": "nota",
+   "shopee-22792667980": "vendas longe",
+   "shopee-22993935577": "vendas longe",
+   "shopee-43521747323": "vendas longe",
+   "shopee-58220178437": "vendas longe"
   },
   "shopee_oficial": {
-   "vendas longe": 1459,
-   "nota": 843,
-   "vendas perto (125+)": 105,
+   "vendas longe": 1462,
+   "nota": 844,
+   "vendas perto (125+)": 106,
    "outro: marca fora da lista boa": 80,
    "aprovada": 66,
    "desconto longe": 59,
-   "desconto perto (até 10 pts)": 22,
+   "desconto perto (até 10 pts)": 21,
    "outro: palavra proibida: compatível": 10
   },
   "instagram": {
    "seguidores": 153,
-   "posts": 71,
+   "posts": 72,
    "reach": 5648,
-   "profile_views": 103,
+   "profile_views": 105,
    "website_clicks": 1,
    "stories_ativos": 25
   }

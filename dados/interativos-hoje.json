@@ -30,6 +30,30 @@
      "canal": "marcas"
     }
    ]
+  },
+  {
+   "tipo": "a_ou_b",
+   "hora": "18:17",
+   "produtos": [
+    {
+     "nome": "Refil Desodorante Corporal Natura Essencial Atrai Masculino",
+     "preco_antigo": 56.9,
+     "preco": 28.45,
+     "desconto": 50,
+     "link": "https://s.shopee.com.br/906WeNmgIM",
+     "loja": "NATURA",
+     "canal": "achadinhos"
+    },
+    {
+     "nome": "Extratora e Higienizadora Portatil WAP SpotCleaner W3 1450W",
+     "preco_antigo": 1195.63,
+     "preco": 549.99,
+     "desconto": 54,
+     "link": "https://s.shopee.com.br/4Ve7urNSxv",
+     "loja": "LOI BRASIL",
+     "canal": "achadinhos"
+    }
+   ]
   }
  ]
 }
