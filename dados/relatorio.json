@@ -530,15 +530,15 @@
    "⚠️ Garimpo parado desde 03/11 20:04 — abrir o app Claude e conferir as rotinas\nPouca oferta na fila: tech 2.",
    "⚠️ Garimpo parado desde 12:46 — abrir o app Claude e conferir as rotinas\nPouca oferta na fila: tech 2."
   ],
-  "ultima_execucao": "21:05",
-  "execucoes": 25,
+  "ultima_execucao": "21:33",
+  "execucoes": 26,
   "telegram_posts": {
-   "achadinhos": 20,
+   "achadinhos": 21,
    "marcas": 14,
    "tech": 15
   },
   "ultimo_post": {
-   "achadinhos": "21:16",
+   "achadinhos": "21:44",
    "marcas": "20:55",
    "tech": "21:05"
   },
@@ -592,13 +592,15 @@
    "20:50 post_achado",
    "feed",
    "21:05 reels",
-   "20:38 story_oferta"
+   "20:38 story_oferta",
+   "21:20 story_convite",
+   "21:24 story_oferta"
   ],
   "shopee_ligada": true,
   "instagram": {
-   "seguidores": 149,
+   "seguidores": 150,
    "posts": 67,
-   "reach": 3314,
+   "reach": 3455,
    "profile_views": 92,
    "website_clicks": 1,
    "stories_ativos": 25
@@ -3100,10 +3102,11 @@
    "shopee-51510115696": "vendas longe",
    "shopee-45216289429": "vendas longe",
    "shopee-44555801258": "vendas longe",
-   "shopee-16061507753": "vendas longe"
+   "shopee-16061507753": "vendas longe",
+   "shopee-22294467647": "vendas longe"
   },
   "shopee_oficial": {
-   "vendas longe": 1528,
+   "vendas longe": 1529,
    "nota": 744,
    "outro: marca fora da lista boa": 74,
    "vendas perto (250+)": 63,

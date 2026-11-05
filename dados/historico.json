@@ -455,7 +455,8 @@
   "2026-11-04 tech 20:44 amz-B09LYZP1LG",
   "2026-11-04 marcas 20:55 amz-B0BPJS7Y2J",
   "2026-11-04 tech 21:05 amz-B07C55K2YS",
-  "2026-11-04 achadinhos 21:16 amz-B0DVCJ2W2T"
+  "2026-11-04 achadinhos 21:16 amz-B0DVCJ2W2T",
+  "2026-11-04 achadinhos 21:44 amz-B0BF7GG972"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -919,7 +920,8 @@
   "amz-B09LYZP1LG": "2026-11-04T20:44:10.489385-03:00",
   "amz-B0BPJS7Y2J": "2026-11-04T20:55:59.505984-03:00",
   "amz-B07C55K2YS": "2026-11-04T21:05:01.076286-03:00",
-  "amz-B0DVCJ2W2T": "2026-11-04T21:16:57.448752-03:00"
+  "amz-B0DVCJ2W2T": "2026-11-04T21:16:57.448752-03:00",
+  "amz-B0BF7GG972": "2026-11-04T21:44:49.035877-03:00"
  },
  "ofertas_dia": [
   {
@@ -3073,6 +3075,22 @@
    "valida_ate": "2026-11-05T22:00:00-03:00",
    "entrou": "2026-11-04T18:03:20.894594-03:00",
    "dia": "2026-11-04"
+  },
+  {
+   "id": "amz-B0BF7GG972",
+   "canal": "achadinhos",
+   "nome": "Air Fryer Electrolux 5L sem Óleo",
+   "preco_antigo": 649.0,
+   "preco": 321.0,
+   "desconto": 51,
+   "link": "https://www.amazon.com.br/dp/B0BF7GG972?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51fiJ2hwp4L._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-05T22:00:00-03:00",
+   "gancho": "AIR FRYER ELECTROLUX PELA METADE",
+   "entrou": "2026-11-04T18:03:20.894594-03:00",
+   "dia": "2026-11-04"
   }
  ],
  "ig_feitos": [
@@ -3231,7 +3249,9 @@
   "2026-11-04 20:50 post_achado",
   "2026-11-04 feed",
   "2026-11-04 21:05 reels",
-  "2026-11-04 20:38 story_oferta"
+  "2026-11-04 20:38 story_oferta",
+  "2026-11-04 21:20 story_convite",
+  "2026-11-04 21:24 story_oferta"
  ],
  "ig_ofertas_usadas": [
   "amz-B0GP7KDZRJ",
@@ -3423,7 +3443,8 @@
   "amz-B0D27SFGFJ",
   "amz-B0BYWL962Q",
   "amz-B0G87ZRVV1",
-  "amz-B08R9341ZB"
+  "amz-B08R9341ZB",
+  "amz-B0FPG9431G"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
@@ -3538,21 +3559,6 @@
    "link": "https://s.shopee.com.br/4Ve3BRxgAE",
    "canal": "marcas",
    "entrou": "2026-11-04T17:46:21.913058-03:00"
-  },
-  {
-   "id": "amz-B0BF7GG972",
-   "canal": "achadinhos",
-   "nome": "Air Fryer Electrolux 5L sem Óleo",
-   "preco_antigo": 649.0,
-   "preco": 321.0,
-   "desconto": 51,
-   "link": "https://www.amazon.com.br/dp/B0BF7GG972?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51fiJ2hwp4L._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-05T22:00:00-03:00",
-   "gancho": "AIR FRYER ELECTROLUX PELA METADE",
-   "entrou": "2026-11-04T18:03:20.894594-03:00"
   },
   {
    "id": "amz-B0GHZ4VBHD",
@@ -4194,7 +4200,8 @@
   "tecladosemfiologitechmxkeysminiiluminado": "2026-11-04T20:44:10.489385-03:00",
   "tenispumaxray2squarefeminino": "2026-11-04T20:55:59.505984-03:00",
   "combotecladoemousesemfiologitech": "2026-11-04T21:05:01.076286-03:00",
-  "parafusadeiraboschgsr1000smartkit33pecas": "2026-11-04T21:16:57.448752-03:00"
+  "parafusadeiraboschgsr1000smartkit33pecas": "2026-11-04T21:16:57.448752-03:00",
+  "airfryerelectrolux5lsemoleo": "2026-11-04T21:44:49.035877-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
