@@ -617,17 +617,17 @@
   "erros": [
    "Instagram 2026-11-05 12:40 reels falhou: Instagram recusou o envio do vídeo: {'debug_info': {'retriable': False, 'type': 'ProcessingFailedError', 'message': 'Request processing failed'}}. Não publiquei."
   ],
-  "ultima_execucao": "16:27",
-  "execucoes": 16,
+  "ultima_execucao": "17:14",
+  "execucoes": 17,
   "telegram_posts": {
-   "achadinhos": 18,
-   "marcas": 14,
-   "tech": 13
+   "achadinhos": 19,
+   "marcas": 15,
+   "tech": 14
   },
   "ultimo_post": {
-   "achadinhos": "17:00",
-   "marcas": "16:53",
-   "tech": "17:10"
+   "achadinhos": "17:57",
+   "marcas": "17:43",
+   "tech": "17:32"
   },
   "ultimo_garimpo": "05/11 15:46",
   "convites_story": {
@@ -665,7 +665,10 @@
    "15:00 adivinha",
    "14:25 post_achado",
    "15:03 story_oferta",
-   "16:05 adivinha_resposta"
+   "16:05 adivinha_resposta",
+   "feed",
+   "16:55 post_achado",
+   "16:44 story_oferta"
   ],
   "shopee_ligada": true,
   "shopee_oficial_ids": {
@@ -749,8 +752,8 @@
    "shopee-22998796938": "vendas perto (125+)",
    "shopee-22894686061": "vendas perto (125+)",
    "shopee-23093815030": "vendas perto (125+)",
-   "shopee-48660343762": "vendas longe",
-   "shopee-21997320392": "vendas perto (125+)",
+   "shopee-48660343762": "vendas perto (125+)",
+   "shopee-21997320392": "vendas longe",
    "shopee-19298272743": "vendas longe",
    "shopee-22898316738": "vendas longe",
    "shopee-23098316432": "vendas longe",
@@ -1112,7 +1115,7 @@
    "shopee-58206741539": "vendas longe",
    "shopee-58200262014": "vendas longe",
    "shopee-22094261029": "vendas longe",
-   "shopee-58220374332": "nota",
+   "shopee-58220374332": "vendas longe",
    "shopee-58252571563": "vendas longe",
    "shopee-23598698257": "vendas longe",
    "shopee-58260880782": "vendas longe",
@@ -1161,14 +1164,14 @@
    "shopee-52364763614": "aprovada",
    "shopee-58209674409": "desconto longe",
    "shopee-49514712582": "vendas perto (125+)",
-   "shopee-58211443678": "vendas perto (125+)",
+   "shopee-58211443678": "aprovada",
    "shopee-46264725019": "vendas longe",
-   "shopee-58209674461": "vendas longe",
+   "shopee-58209674461": "vendas perto (125+)",
    "shopee-48814717502": "vendas longe",
    "shopee-49064981274": "vendas perto (125+)",
    "shopee-29595378062": "vendas longe",
    "shopee-55314692576": "vendas longe",
-   "shopee-46611963995": "vendas longe",
+   "shopee-46611963995": "vendas perto (125+)",
    "shopee-58209674424": "vendas longe",
    "shopee-58209720113": "vendas longe",
    "shopee-55014684903": "vendas longe",
@@ -1664,10 +1667,10 @@
    "shopee-58215922877": "vendas perto (125+)",
    "shopee-49507610530": "vendas perto (125+)",
    "shopee-19299842169": "vendas perto (125+)",
-   "shopee-23899230870": "vendas perto (125+)",
+   "shopee-23899230870": "vendas longe",
    "shopee-41700871789": "vendas perto (125+)",
    "shopee-57657281247": "vendas perto (125+)",
-   "shopee-57358143909": "vendas perto (125+)",
+   "shopee-57358143909": "vendas longe",
    "shopee-43430912812": "vendas perto (125+)",
    "shopee-58206144838": "vendas longe",
    "shopee-23091131346": "vendas longe",
@@ -2251,7 +2254,7 @@
    "shopee-15346286898": "vendas perto (125+)",
    "shopee-14220095723": "vendas longe",
    "shopee-19016455571": "vendas longe",
-   "shopee-10677614679": "vendas longe",
+   "shopee-10677614679": "vendas perto (125+)",
    "shopee-19898986202": "vendas longe",
    "shopee-58261590590": "nota",
    "shopee-58261585700": "nota",
@@ -2373,7 +2376,7 @@
    "shopee-58205154034": "nota",
    "shopee-58205153819": "nota",
    "shopee-58205153814": "nota",
-   "shopee-49466429818": "nota",
+   "shopee-49466429818": "vendas longe",
    "shopee-58212201527": "vendas longe",
    "shopee-58259210097": "vendas longe",
    "shopee-58209214129": "vendas longe",
@@ -3309,23 +3312,26 @@
    "shopee-22594341444": "nota",
    "shopee-22798676628": "nota",
    "shopee-23495281990": "nota",
-   "shopee-58268073317": "nota"
+   "shopee-58268073317": "nota",
+   "shopee-23799121923": "vendas longe",
+   "shopee-22299046153": "vendas longe",
+   "shopee-51768818448": "nota"
   },
   "shopee_oficial": {
-   "vendas longe": 1456,
-   "nota": 844,
+   "vendas longe": 1459,
+   "nota": 843,
    "vendas perto (125+)": 105,
    "outro: marca fora da lista boa": 80,
-   "aprovada": 65,
+   "aprovada": 66,
    "desconto longe": 59,
    "desconto perto (até 10 pts)": 22,
    "outro: palavra proibida: compatível": 10
   },
   "instagram": {
-   "seguidores": 152,
-   "posts": 70,
+   "seguidores": 153,
+   "posts": 71,
    "reach": 5648,
-   "profile_views": 99,
+   "profile_views": 103,
    "website_clicks": 1,
    "stories_ativos": 25
   }
