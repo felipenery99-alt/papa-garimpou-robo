@@ -3494,21 +3494,6 @@
  "ultimo_pilar": "mito",
  "fila": [
   {
-   "id": "amz-B0FH3W32GS",
-   "canal": "marcas",
-   "nome": "Tênis Fila Racer Fastpace Masculino",
-   "preco_antigo": 499.99,
-   "preco": 209.9,
-   "desconto": 58,
-   "link": "https://www.amazon.com.br/dp/B0FH3W32GS?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/518oCv3h4wL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-05T22:00:00-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "entrou": "2026-11-04T19:12:58.693089-03:00"
-  },
-  {
    "id": "amz-B0BT22CQQ9",
    "canal": "achadinhos",
    "nome": "Aspirador de Pó Vertical WAP High Speed Plus 3 em 1",
@@ -3850,6 +3835,21 @@
    "valida_ate": "2026-11-05T22:00:00-03:00",
    "gancho": "SONY COM 41% OFF NO OUVIDO",
    "entrou": "2026-11-04T22:26:39.687438-03:00"
+  },
+  {
+   "id": "amz-B0FH3W32GS",
+   "canal": "marcas",
+   "nome": "Tênis Fila Racer Fastpace Masculino",
+   "preco_antigo": 499.99,
+   "preco": 209.9,
+   "desconto": 58,
+   "link": "https://www.amazon.com.br/dp/B0FH3W32GS?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/518oCv3h4wL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-05T22:00:00-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "entrou": "2026-11-04T23:28:07.574424-03:00"
   }
  ],
  "menus_fixados": [
@@ -4282,7 +4282,7 @@
    "entradas": []
   }
  },
- "tg_offset": 354369944,
+ "tg_offset": 354369945,
  "adivinha": {
   "dia": "2026-11-04",
   "oferta": {
