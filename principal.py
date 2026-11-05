@@ -539,7 +539,13 @@ def soltar_fila(h: dict, telegram, limite: datetime, atraso: bool = True) -> int
                 telegram.avisar_dono(f"canal geral não recebeu {oferta['id']}: {e}")
             h["postados"][oferta["id"]] = agora.isoformat()
             h.setdefault("postados_nome", {})[chave_nome(oferta["nome"])] = agora.isoformat()
-            h.setdefault("ofertas_dia", []).append({**oferta, "canal": canal, "dia": hoje})
+            registro = {**oferta, "canal": canal, "dia": hoje}
+            if "so_telegram_ate" in oferta:
+                # 05/11 (CEO): oferta forte do dia sai primeiro só no Telegram; o Instagram só pode usar 2 h depois
+                # do post (ou depois da hora marcada, se for mais tarde)
+                registro["so_telegram_ate"] = max(str(oferta.get("so_telegram_ate") or ""),
+                                                  (agora + timedelta(hours=2)).isoformat())
+            h.setdefault("ofertas_dia", []).append(registro)
             h["slots_feitos"].append(chave)
             salvar_hist(h)   # grava a cada post: se o job cair, não repete
             print(f"postado {chave}: {oferta['nome'][:60]}")
@@ -574,10 +580,10 @@ def soltar_fila(h: dict, telegram, limite: datetime, atraso: bool = True) -> int
 
 # 04/11 (Central): TODO Reel (de ofertas ou do banco de dicas) sai com a chamada para seguir na legenda
 SIGA_REEL = "\n\n👉 Siga @papa.garimpou pra não perder"
-LEGENDA_CTA = ("\n\nComenta QUERO que o Papa te manda o link no direct 💎\n"
-               "Achou coisa boa de marca, o Papa posta na hora. Só loja oficial, grátis no Telegram.\n"
-               "Comenta CANAIS que eu te mando os 4 canais no direct 📲\n\n"
-               "#publi link de afiliado")
+# 05/11 (CEO): seguidor do Instagram não vira membro do Telegram. Fecho único: comentar TELEGRAM → convite no direct
+# (link "ig-dm"). Sem hashtag; o aviso de publicidade fica em texto.
+LEGENDA_CTA = ("\n\nQuer as ofertas antes de todo mundo? Comenta TELEGRAM que o Papa te manda o convite no direct 💎\n\n"
+               "Publi · link de afiliado")
 
 
 def reels_do_banco(h: dict, agora: datetime) -> tuple[list[bytes], str]:
@@ -666,7 +672,8 @@ def publicar_salvavel(h: dict, agora: datetime, tag: str) -> bool:
     import artes
     import instagram
     semana = (agora - timedelta(days=7)).date().isoformat()
-    pool = [o for o in h.get("ofertas_dia", []) if o.get("dia", "") >= semana] + carregar_manuais(h, agora)
+    pool = [o for o in h.get("ofertas_dia", []) if o.get("dia", "") >= semana and liberada_ig(o, agora)] \
+        + [o for o in carregar_manuais(h, agora) if "so_telegram_ate" not in o]
     n = len(config.SALVAVEIS)
     for k in range(n):
         cat, palavras, teto = config.SALVAVEIS[(agora.isocalendar()[1] + k) % n]
@@ -682,15 +689,23 @@ def publicar_salvavel(h: dict, agora: datetime, tag: str) -> bool:
         top = top[:5]
         lista = "\n".join(f"{i+1}. {o['nome'][:60]} — {post._brl(o['preco'])}" for i, o in enumerate(top))
         leg = (f"😎💎 Os 5 melhores {cat} de marca até R$ {teto}\n\n{lista}\n\nSalva esse post pra não perder.\n"
-               "Comenta QUERO que eu mando os links 💎\n\n#publi link de afiliado")
+               "Comenta QUERO que eu mando os links 💎\n\nPubli · link de afiliado")
         slides = [artes.capa_salvavel(cat, teto)] + [artes.post_oferta(o, o["canal"]) for o in top]
         mid = instagram.carrossel(slides, f"{tag}-salvavel", leg)
         dm = f"Oi! Aqui é o Papa 😎💎\n\nOs 5 melhores {cat} até R$ {teto}:\n\n" + "\n\n".join(
             f"{i+1}. {o['nome'][:60]} — {post._brl(o['preco'])}\n{o['link']}" for i, o in enumerate(top))
-        h.setdefault("ig_dm_links", {})[mid] = dm + "\n\nPreço pode mudar a qualquer momento. #publi link de afiliado"
+        h.setdefault("ig_dm_links", {})[mid] = dm + "\n\nPreço pode mudar a qualquer momento. Publi · link de afiliado"
         registrar_interativo(agora, "carrossel_salvavel", top)
         return True
     return False
+
+
+SELO_PRIMEIRO = "SAIU PRIMEIRO NO TELEGRAM"
+
+
+def liberada_ig(o: dict, agora: datetime) -> bool:
+    """05/11 (CEO): oferta com "so_telegram_ate" só vai ao Instagram depois dessa hora."""
+    return not o.get("so_telegram_ate") or str(o["so_telegram_ate"]) <= agora.isoformat()
 
 
 ENTRE_TAREFAS = [lambda: None]   # main põe aqui o "solta 1 post se já deu o intervalo"
@@ -722,7 +737,10 @@ def rodar_instagram(h: dict, agora: datetime) -> None:
     tag = agora.strftime("%Y%m%d")
     feitos = h.setdefault("ig_feitos", [])
     usadas = h.setdefault("ig_ofertas_usadas", [])
-    ofertas = [o for o in h.get("ofertas_dia", []) if o.get("dia") == hoje and o["id"] not in usadas]
+    ofertas = [o for o in h.get("ofertas_dia", []) if o.get("dia") == hoje and o["id"] not in usadas
+               and liberada_ig(o, agora)]
+    # a que saiu primeiro no Telegram, quando libera, é a próxima do Instagram (com o selo)
+    ofertas.sort(key=lambda o: "so_telegram_ate" not in o)
     # Carrossel especial escolhido à mão (ex.: post para impulsionar): sai uma vez, na primeira execução
     esp_arq = Path(__file__).parent / "instagram_especial.json"
     if esp_arq.exists():
@@ -826,7 +844,8 @@ def rodar_instagram(h: dict, agora: datetime) -> None:
                     instagram.story(artes.story_blackfriday(bf), f"{tag}-blackfriday-{hh}.jpg")
                 else:
                     instagram.story(artes.story_convite(), f"{tag}-convite-{hh}.jpg")
-            elif tipo == "story_top4" and len([o for o in h.get("ofertas_dia", []) if o.get("dia") == hoje]) >= 4:
+            elif tipo == "story_top4" and len([o for o in h.get("ofertas_dia", []) if o.get("dia") == hoje
+                                               and liberada_ig(o, agora)]) >= 4:
                 # 4 melhores achados do dia num story só (maior desconto primeiro); preço sempre o real
                 top = sorted((o for o in h["ofertas_dia"] if o.get("dia") == hoje),
                              key=lambda o: (o.get("desconto") or 0, qualidade.pontuar(o)), reverse=True)[:4]
@@ -843,7 +862,8 @@ def rodar_instagram(h: dict, agora: datetime) -> None:
                         instagram.story(artes.peca(pc), f"{tag}-{pc['id']}.jpg")
                 else:
                     o = ofertas.pop(0)
-                    instagram.story(artes.story_oferta(o, o["canal"]), f"{tag}-story-{o['id']}.jpg")
+                    instagram.story(artes.story_oferta(o, o["canal"], selo=SELO_PRIMEIRO if "so_telegram_ate" in o else ""),
+                                    f"{tag}-story-{o['id']}.jpg")
                     usadas.append(o["id"])
             elif tipo == "post_achado":
                 if not ofertas:
@@ -853,13 +873,16 @@ def rodar_instagram(h: dict, agora: datetime) -> None:
                 o = max(ofertas, key=qualidade.pontuar)
                 ofertas.remove(o)
                 leg = f"😎💎 Achado do dia: {o['nome']}\n\nDe {post._brl(o['preco_antigo'])} por {post._brl(o['preco'])} ({o['desconto']}% OFF)" if o.get("preco_antigo") else f"😎💎 Achado do dia: {o['nome']} por {post._brl(o['preco'])}"
+                if "so_telegram_ate" in o:
+                    leg = "⚡ Saiu primeiro no Telegram.\n\n" + leg
                 instagram.foto(artes.post_oferta(o, o["canal"]), f"{tag}-post-{o['id']}.jpg", leg + LEGENDA_CTA)
                 usadas.append(o["id"])
             elif tipo == "reels":
                 import video
                 # 30/10: até 3 Reels/dia; cada um usa ofertas que ainda não saíram em Reels hoje
                 ja = set(h.setdefault("ig_reels_ofertas", {}).get(hoje, []))
-                top = sorted((o for o in h.get("ofertas_dia", []) if o.get("dia") == hoje and o["id"] not in ja),
+                top = sorted((o for o in h.get("ofertas_dia", []) if o.get("dia") == hoje and o["id"] not in ja
+                              and liberada_ig(o, agora)),
                              key=qualidade.pontuar, reverse=True)[:5]
                 if len(top) >= 3:
                     # 04/11 (Instagram atrasado na meta): a capa genérica "ACHADOS DO PAPA" não prende quem
@@ -884,7 +907,7 @@ def rodar_instagram(h: dict, agora: datetime) -> None:
                 h["ig_ultimo_reel"] = agora.isoformat()
             elif tipo == "carrossel_top5":
                 top = sorted(h.get("ofertas_dia", []), key=qualidade.pontuar, reverse=True)
-                top = [o for o in top if o.get("dia") == hoje][:5]
+                top = [o for o in top if o.get("dia") == hoje and liberada_ig(o, agora)][:5]
                 if len(top) < 3:
                     post_do_banco(h, agora, chave)   # sem ofertas: post do banco no lugar do carrossel
                     feitos.append(chave)
@@ -927,6 +950,8 @@ def rodar_instagram(h: dict, agora: datetime) -> None:
 
 
 CONVITE_STORY = PASTA / "dados" / "convite-story.txt"
+CONVITES = PASTA / "dados" / "convites.json"
+CONVITES_ORIGEM = ("ig-bio", "ig-story", "ig-dm")
 
 
 STORY_LINK = PASTA / "dados" / "story-link.txt"
@@ -944,7 +969,7 @@ def preparar_story_link(h: dict, agora: datetime) -> None:
         return
     import artes
     import instagram
-    fortes = [o for o in h.get("ofertas_dia", []) if o.get("dia") == hoje and o.get("preco_antigo")
+    fortes = [o for o in h.get("ofertas_dia", []) if o.get("dia") == hoje and o.get("preco_antigo") and liberada_ig(o, agora)
               and (o.get("desconto") or 0) >= 20 and o.get("imagem")]
     # sábado: o story com link chama para o TOP 10 da semana (sessão Instagram, 01/11)
     arte = artes.story_link(None, top10=True) if agora.weekday() == config.TOP10_DIA_SEMANA else None
@@ -973,16 +998,22 @@ def convites_story(h: dict, telegram, agora: datetime) -> None:
     nome "story-AAAAMMDD", gravado em dados/convite-story.txt para a sessão Instagram usar,
     e contagem de quem entrou por cada link (chat_member do getUpdates)."""
     conv = h.setdefault("convites_story", {})
-    nome = f"story-{agora:%Y%m%d}"
-    if nome not in conv:
-        try:
-            conv[nome] = {"link": telegram.criar_convite(config.GERAL, nome), "entradas": []}
-            CONVITE_STORY.write_text(f"{nome} {conv[nome]['link']}\n", encoding="utf-8")
-        except Exception as e:
-            if h.get("convite_erro") != agora.date().isoformat():
-                h["convite_erro"] = agora.date().isoformat()
-                telegram.avisar_dono(f"não consegui criar o convite {nome} em {config.GERAL}: {e} "
-                                     "(o robô precisa da permissão 'Convidar usuários' no canal)")
+    # 05/11 (CEO): links fixos por origem do Instagram (bio, story, direct) no canal geral, criados uma vez;
+    # ficam em dados/convites.json e o "ig-story" vai para convite-story.txt (substitui o link diário).
+    nome = "ig-story"
+    for n in CONVITES_ORIGEM:
+        if n not in conv:
+            try:
+                conv[n] = {"link": telegram.criar_convite(config.GERAL, n), "entradas": []}
+            except Exception as e:
+                if h.get("convite_erro") != agora.date().isoformat():
+                    h["convite_erro"] = agora.date().isoformat()
+                    telegram.avisar_dono(f"não consegui criar o convite {n} em {config.GERAL}: {e} "
+                                         "(o robô precisa da permissão 'Convidar usuários' no canal)")
+    if all(n in conv for n in CONVITES_ORIGEM):
+        CONVITES.write_text(json.dumps({n: conv[n]["link"] for n in CONVITES_ORIGEM}, ensure_ascii=False, indent=1),
+                            encoding="utf-8")
+        CONVITE_STORY.write_text(f"{nome} {conv[nome]['link']}\n", encoding="utf-8")
     try:
         novas, h["tg_offset"] = telegram.entradas_por_convite(h.get("tg_offset"))
     except Exception as e:
@@ -994,7 +1025,7 @@ def convites_story(h: dict, telegram, agora: datetime) -> None:
         chave = hashlib.sha256(f"papa{uid}".encode()).hexdigest()[:10]
         if canal == config.GERAL and link in conv and chave not in conv[link]["entradas"]:
             conv[link]["entradas"].append(chave)
-    for velho in sorted(conv)[:-30]:
+    for velho in sorted(n for n in conv if n not in CONVITES_ORIGEM)[:-30]:
         conv.pop(velho)
     print(f"[convites] {nome}: {len(conv.get(nome, {}).get('entradas', []))} entrada(s) hoje")
 
