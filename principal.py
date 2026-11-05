@@ -1019,8 +1019,17 @@ def rodar_instagram(h: dict, agora: datetime) -> None:
             telegram.avisar_dono(f"INSTAGRAM BLOQUEADO (conta errada): {e}")
             return
         except Exception as e:
-            telegram.avisar_dono(f"Instagram {chave} falhou: {e}. Não publiquei.")
-            feitos.append(chave)
+            # 05/11 (1 ano sem o dono): antes a peça que falhava 1 vez era dada como feita e se perdia
+            # (post_achado 19h15, reels 12h40). Agora tenta de novo até 3 vezes dentro da janela de 50 min;
+            # as novas tentativas vêm do meio da fila (instagram_vencido), a cada poucos minutos.
+            tent = h.setdefault("ig_tentativas", {})
+            tent[chave] = tent.get(chave, 0) + 1
+            h["ig_tentativas"] = {k: v for k, v in tent.items() if k.startswith(hoje)}
+            if tent[chave] >= 3:
+                telegram.avisar_dono(f"Instagram {chave} falhou 3 vezes: {e}. Não publiquei.")
+                feitos.append(chave)
+            else:
+                print(f"[ig] {chave} falhou ({tent[chave]}ª vez), tento de novo: {e}")
     # Vigia: sempre pelo menos 3 stories no ar
     try:
         ativos = instagram.stories_ativos()
