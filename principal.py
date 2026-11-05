@@ -197,9 +197,30 @@ MENU_CANAIS = [
 ]
 
 
+BOAS_VINDAS_VERSAO = "bv1"   # mudar a versão faz o robô postar e fixar de novo
+BOAS_VINDAS = ("💎 Bem-vindo ao Papa Garimpou!\n"
+               "Aqui o Papa só posta coisa boa: marca conhecida, loja oficial e desconto de verdade, conferido na hora. "
+               "Nada de réplica, nada de preço inventado.\n\n"
+               "📢 Neste canal sai TUDO. Prefere só um assunto?\n"
+               "🏠 Achadinhos (casa, cozinha, beleza): t.me/papagarimpou\n"
+               "👟 Marcas (tênis, roupa, perfume, academia): t.me/papagarimpoumarcas\n"
+               "🎮 Tech (games, TV, fone, celular): t.me/papagarimpoutech\n\n"
+               "⚡ Todo dia tem oferta que sai primeiro aqui no Telegram, antes do Instagram.\n"
+               "🔔 Ative as notificações: oferta boa acaba rápido.")
+
+
 def publicar_menus(h: dict, telegram) -> None:
     feitos = h.setdefault("menus_fixados", [])
-    for destino in [*config.CANAIS.values(), config.GERAL]:
+    # 05/11 (CEO, via PG · Telegram): no canal geral a mensagem fixada é a de boas-vindas, no lugar do menu
+    chave = f"{BOAS_VINDAS_VERSAO} {config.GERAL}"
+    if chave not in feitos:
+        try:
+            telegram.postar_texto_fixado(config.GERAL, BOAS_VINDAS)
+            feitos.append(chave)
+            salvar_hist(h)
+        except Exception as e:
+            telegram.avisar_dono(f"boas-vindas fixada em {config.GERAL} falhou: {e}")
+    for destino in config.CANAIS.values():
         chave = f"{MENU_VERSAO} {destino}"
         if chave in feitos:
             continue
