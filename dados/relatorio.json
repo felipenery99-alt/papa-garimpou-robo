@@ -618,17 +618,17 @@
    "Instagram 2026-11-05 12:40 reels falhou: Instagram recusou o envio do vídeo: {'debug_info': {'retriable': False, 'type': 'ProcessingFailedError', 'message': 'Request processing failed'}}. Não publiquei.",
    "Instagram 2026-11-05 19:15 post_achado falhou: Command '['git', 'push', '-q']' returned non-zero exit status 1.. Não publiquei."
   ],
-  "ultima_execucao": "18:38",
-  "execucoes": 19,
+  "ultima_execucao": "19:23",
+  "execucoes": 20,
   "telegram_posts": {
-   "achadinhos": 25,
-   "marcas": 19,
-   "tech": 16
+   "achadinhos": 28,
+   "marcas": 20,
+   "tech": 18
   },
   "ultimo_post": {
-   "achadinhos": "19:13",
-   "marcas": "19:23",
-   "tech": "19:07"
+   "achadinhos": "19:59",
+   "marcas": "19:45",
+   "tech": "20:07"
   },
   "ultimo_garimpo": "05/11 17:44",
   "convites_story": {
@@ -636,7 +636,10 @@
    "story-20261102": 0,
    "story-20261103": 0,
    "story-20261104": 0,
-   "story-20261105": 0
+   "story-20261105": 0,
+   "ig-bio": 0,
+   "ig-story": 0,
+   "ig-dm": 0
   },
   "telegram_membros": {
    "achadinhos": 3,
@@ -676,7 +679,8 @@
    "18:09 story_oferta",
    "18:42 story_oferta",
    "19:15 post_achado",
-   "19:17 story_oferta"
+   "19:17 story_oferta",
+   "20:03 story_oferta"
   ],
   "shopee_ligada": true,
   "shopee_oficial_ids": {
@@ -3327,10 +3331,11 @@
    "shopee-22792667980": "vendas longe",
    "shopee-22993935577": "vendas longe",
    "shopee-43521747323": "vendas longe",
-   "shopee-58220178437": "vendas longe"
+   "shopee-58220178437": "vendas longe",
+   "shopee-12776070203": "vendas longe"
   },
   "shopee_oficial": {
-   "vendas longe": 1463,
+   "vendas longe": 1464,
    "nota": 843,
    "vendas perto (125+)": 106,
    "outro: marca fora da lista boa": 80,
@@ -3340,12 +3345,18 @@
    "outro: palavra proibida: compatível": 10
   },
   "instagram": {
-   "seguidores": 154,
+   "seguidores": 188,
    "posts": 72,
-   "reach": 5648,
-   "profile_views": 105,
+   "reach": 5650,
+   "profile_views": 110,
    "website_clicks": 1,
    "stories_ativos": 25
+  },
+  "meta_token": {
+   "tipo": "SYSTEM_USER",
+   "valido": true,
+   "vence": "não vence",
+   "acesso_vence": "-"
   }
  }
 }

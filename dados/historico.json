@@ -516,7 +516,13 @@
   "2026-11-05 marcas 19:00 amz-B0DCWT7ZZM",
   "2026-11-05 tech 19:07 shopee-58206235171",
   "2026-11-05 achadinhos 19:13 amz-B0719S9TPB",
-  "2026-11-05 marcas 19:23 amz-B002PEFNCE"
+  "2026-11-05 marcas 19:23 amz-B002PEFNCE",
+  "2026-11-05 achadinhos 19:31 amz-B09XBNTHCC",
+  "2026-11-05 achadinhos 19:38 amz-B07QK91PTZ",
+  "2026-11-05 marcas 19:45 amz-B0D1YHFWTD",
+  "2026-11-05 tech 19:51 amz-B0FPM2VC6Q",
+  "2026-11-05 achadinhos 19:59 amz-B0BCTC7FL7",
+  "2026-11-05 tech 20:07 amz-B0DB6DF87Y"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -1041,7 +1047,13 @@
   "amz-B0DCWT7ZZM": "2026-11-05T19:00:13.682236-03:00",
   "shopee-58206235171": "2026-11-05T19:07:36.031573-03:00",
   "amz-B0719S9TPB": "2026-11-05T19:13:56.723444-03:00",
-  "amz-B002PEFNCE": "2026-11-05T19:23:01.327920-03:00"
+  "amz-B002PEFNCE": "2026-11-05T19:23:01.327920-03:00",
+  "amz-B09XBNTHCC": "2026-11-05T19:31:27.772451-03:00",
+  "amz-B07QK91PTZ": "2026-11-05T19:38:58.340226-03:00",
+  "amz-B0D1YHFWTD": "2026-11-05T19:45:05.835492-03:00",
+  "amz-B0FPM2VC6Q": "2026-11-05T19:51:40.524274-03:00",
+  "amz-B0BCTC7FL7": "2026-11-05T19:59:38.380120-03:00",
+  "amz-B0DB6DF87Y": "2026-11-05T20:07:40.619603-03:00"
  },
  "ofertas_dia": [
   {
@@ -3362,6 +3374,102 @@
    "extra": "Importado vendido pela própria Amazon",
    "entrou": "2026-11-05T17:57:44.400936-03:00",
    "dia": "2026-11-05"
+  },
+  {
+   "id": "amz-B09XBNTHCC",
+   "canal": "achadinhos",
+   "nome": "Jogo de Panelas Tramontina Solar Aço Inox Fundo Triplo 6 peças",
+   "preco_antigo": 901.55,
+   "preco": 617.0,
+   "desconto": 32,
+   "link": "https://www.amazon.com.br/dp/B09XBNTHCC?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71VmsOgNbGL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-06T22:00:00-03:00",
+   "gancho": "PANELA TRAMONTINA INOX PRA VIDA TODA",
+   "entrou": "2026-11-05T17:57:44.400936-03:00",
+   "dia": "2026-11-05"
+  },
+  {
+   "id": "amz-B07QK91PTZ",
+   "canal": "achadinhos",
+   "nome": "Liquidificador Mondial Turbo Power 550W",
+   "preco_antigo": 159.9,
+   "preco": 94.02,
+   "desconto": 41,
+   "link": "https://www.amazon.com.br/dp/B07QK91PTZ?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71KFAoTV+hL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-06T22:00:00-03:00",
+   "extra": "Versão 220V",
+   "entrou": "2026-11-05T17:57:44.400936-03:00",
+   "dia": "2026-11-05"
+  },
+  {
+   "id": "amz-B0D1YHFWTD",
+   "canal": "marcas",
+   "nome": "Tênis de Corrida Puma Scendo Pro 2 Unissex",
+   "preco_antigo": 499.99,
+   "preco": 239.9,
+   "desconto": 52,
+   "link": "https://www.amazon.com.br/dp/B0D1YHFWTD?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71-EO0OOR8L._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-06T22:00:00-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "gancho": "PUMA DE CORRIDA PELA METADE",
+   "entrou": "2026-11-05T17:57:44.400936-03:00",
+   "dia": "2026-11-05"
+  },
+  {
+   "id": "amz-B0FPM2VC6Q",
+   "canal": "tech",
+   "nome": "Mouse sem fio Logitech MX Master 4",
+   "preco_antigo": 799.9,
+   "preco": 519.9,
+   "desconto": 35,
+   "link": "https://www.amazon.com.br/dp/B0FPM2VC6Q?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61z3ENJubZL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-06T22:00:00-03:00",
+   "gancho": "MX MASTER 4 COM 280 CONTO A MENOS",
+   "entrou": "2026-11-05T17:57:44.400936-03:00",
+   "dia": "2026-11-05"
+  },
+  {
+   "id": "amz-B0BCTC7FL7",
+   "canal": "achadinhos",
+   "nome": "Escova de Dente Elétrica Infantil Oral-B Spider-Man",
+   "preco_antigo": 312.84,
+   "preco": 189.97,
+   "desconto": 39,
+   "link": "https://www.amazon.com.br/dp/B0BCTC7FL7?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61TJuFv3EfL._AC_SL1200_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-06T22:00:00-03:00",
+   "entrou": "2026-11-05T17:57:44.400936-03:00",
+   "dia": "2026-11-05"
+  },
+  {
+   "id": "amz-B0DB6DF87Y",
+   "canal": "tech",
+   "nome": "Monitor Gamer LG UltraGear 27\" 27GS60F IPS Full HD 180Hz 1ms",
+   "preco_antigo": 1299.0,
+   "preco": 900.0,
+   "desconto": 31,
+   "link": "https://www.amazon.com.br/dp/B0DB6DF87Y?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61BjJMCrKrL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-06T22:00:00-03:00",
+   "gancho": "MONITOR LG ULTRAGEAR 180HZ ABAIXO DE MIL",
+   "entrou": "2026-11-05T17:57:44.400936-03:00",
+   "dia": "2026-11-05"
   }
  ],
  "ig_feitos": [
@@ -3508,7 +3616,6 @@
   "story especial pede-pro-papa 2026-11-05",
   "2026-11-05 16:55 post_achado",
   "2026-11-05 16:44 story_oferta",
-  "2026-11-05 feed",
   "2026-11-05 17:30 reels",
   "2026-11-05 17:36 story_oferta",
   "2026-11-05 18:05 a_ou_b",
@@ -3516,7 +3623,8 @@
   "2026-11-05 18:42 story_oferta",
   "pedido proc-20261105-1",
   "2026-11-05 19:15 post_achado",
-  "2026-11-05 19:17 story_oferta"
+  "2026-11-05 19:17 story_oferta",
+  "2026-11-05 20:03 story_oferta"
  ],
  "ig_ofertas_usadas": [
   "amz-B09V1SM8QB",
@@ -3718,7 +3826,8 @@
   "shopee-19497608994",
   "amz-B07CKCWNRC",
   "amz-B0FQXCBFCF",
-  "amz-B086XNNSDN"
+  "amz-B086XNNSDN",
+  "shopee-22493521596"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
@@ -3772,50 +3881,6 @@
  "ultimo_pilar": "blackfriday",
  "fila": [
   {
-   "id": "amz-B09XBNTHCC",
-   "canal": "achadinhos",
-   "nome": "Jogo de Panelas Tramontina Solar Aço Inox Fundo Triplo 6 peças",
-   "preco_antigo": 901.55,
-   "preco": 617.0,
-   "desconto": 32,
-   "link": "https://www.amazon.com.br/dp/B09XBNTHCC?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/71VmsOgNbGL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-06T22:00:00-03:00",
-   "gancho": "PANELA TRAMONTINA INOX PRA VIDA TODA",
-   "entrou": "2026-11-05T17:57:44.400936-03:00"
-  },
-  {
-   "id": "amz-B07QK91PTZ",
-   "canal": "achadinhos",
-   "nome": "Liquidificador Mondial Turbo Power 550W",
-   "preco_antigo": 159.9,
-   "preco": 94.02,
-   "desconto": 41,
-   "link": "https://www.amazon.com.br/dp/B07QK91PTZ?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/71KFAoTV+hL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-06T22:00:00-03:00",
-   "extra": "Versão 220V",
-   "entrou": "2026-11-05T17:57:44.400936-03:00"
-  },
-  {
-   "id": "amz-B0BCTC7FL7",
-   "canal": "achadinhos",
-   "nome": "Escova de Dente Elétrica Infantil Oral-B Spider-Man",
-   "preco_antigo": 312.84,
-   "preco": 189.97,
-   "desconto": 39,
-   "link": "https://www.amazon.com.br/dp/B0BCTC7FL7?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61TJuFv3EfL._AC_SL1200_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-06T22:00:00-03:00",
-   "entrou": "2026-11-05T17:57:44.400936-03:00"
-  },
-  {
    "id": "amz-B0GMKMD6SR",
    "canal": "achadinhos",
    "nome": "Air Fryer Forno Oven Mondial 12L Inox Preto",
@@ -3843,67 +3908,6 @@
    "plataforma": "Amazon",
    "valida_ate": "2026-11-06T22:00:00-03:00",
    "extra": "Versão 220V",
-   "entrou": "2026-11-05T17:57:44.400936-03:00"
-  },
-  {
-   "id": "amz-B0D1YHFWTD",
-   "canal": "marcas",
-   "nome": "Tênis de Corrida Puma Scendo Pro 2 Unissex",
-   "preco_antigo": 499.99,
-   "preco": 239.9,
-   "desconto": 52,
-   "link": "https://www.amazon.com.br/dp/B0D1YHFWTD?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/71-EO0OOR8L._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-06T22:00:00-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "gancho": "PUMA DE CORRIDA PELA METADE",
-   "entrou": "2026-11-05T17:57:44.400936-03:00"
-  },
-  {
-   "id": "amz-B0BG98GFDY",
-   "canal": "marcas",
-   "nome": "Tênis ASICS Japan S Masculino",
-   "preco_antigo": 399.99,
-   "preco": 249.9,
-   "desconto": 38,
-   "link": "https://www.amazon.com.br/dp/B0BG98GFDY?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/41oGsxTASGL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-06T22:00:00-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "entrou": "2026-11-05T17:57:44.400936-03:00"
-  },
-  {
-   "id": "amz-B0FPM2VC6Q",
-   "canal": "tech",
-   "nome": "Mouse sem fio Logitech MX Master 4",
-   "preco_antigo": 799.9,
-   "preco": 519.9,
-   "desconto": 35,
-   "link": "https://www.amazon.com.br/dp/B0FPM2VC6Q?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61z3ENJubZL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-06T22:00:00-03:00",
-   "gancho": "MX MASTER 4 COM 280 CONTO A MENOS",
-   "entrou": "2026-11-05T17:57:44.400936-03:00"
-  },
-  {
-   "id": "amz-B0DB6DF87Y",
-   "canal": "tech",
-   "nome": "Monitor Gamer LG UltraGear 27\" 27GS60F IPS Full HD 180Hz 1ms",
-   "preco_antigo": 1299.0,
-   "preco": 900.0,
-   "desconto": 31,
-   "link": "https://www.amazon.com.br/dp/B0DB6DF87Y?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61BjJMCrKrL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-06T22:00:00-03:00",
-   "gancho": "MONITOR LG ULTRAGEAR 180HZ ABAIXO DE MIL",
    "entrou": "2026-11-05T17:57:44.400936-03:00"
   },
   {
@@ -4188,13 +4192,45 @@
    "plataforma": "Amazon",
    "valida_ate": "2026-11-06T22:00:00-03:00",
    "entrou": "2026-11-05T18:38:18.814239-03:00"
+  },
+  {
+   "id": "proc-20261105-1",
+   "canal": "achadinhos",
+   "nome": "Perfume Armani Acqua di Giò Profondo Eau de Parfum Masculino 200ml",
+   "produto": "Acqua di Giò Profondo",
+   "preco_antigo": 1299.0,
+   "preco": 748.99,
+   "desconto": 42,
+   "link": "https://www.amazon.com.br/dp/B0D6X6P478?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/617SfRQs9cL._AC_SL1500_.jpg",
+   "loja": "Amazon",
+   "plataforma": "amazon",
+   "dia": "2026-11-05",
+   "extra": "Muita gente procurando Acqua di Giò Profondo essa semana… o Papa garimpou",
+   "entrou": "2026-11-05T19:23:23.511573-03:00"
+  },
+  {
+   "id": "amz-B0CWLMCJDM",
+   "canal": "achadinhos",
+   "nome": "Air Fryer Britânia 5,5L 1500W",
+   "preco_antigo": 501.49,
+   "preco": 271.22,
+   "desconto": 46,
+   "link": "https://www.amazon.com.br/dp/B0CWLMCJDM?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51qDxilXGWL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-06T22:00:00-03:00",
+   "gancho": "AIR FRYER BRITÂNIA QUASE PELA METADE",
+   "entrou": "2026-11-05T19:23:23.511573-03:00"
   }
  ],
  "menus_fixados": [
   "v1 @papagarimpou",
   "v1 @papagarimpoumarcas",
   "v1 @papagarimpoutech",
-  "v1 @papagarimpouofertas"
+  "v1 @papagarimpouofertas",
+  "bv1 @papagarimpouofertas"
  ],
  "feed_dia": {
   "2026-11-03": 1
@@ -4566,7 +4602,13 @@
   "garrafatermicastanleyquickflip710mlrosequartz": "2026-11-05T19:00:13.682236-03:00",
   "caixadesomjblboombox4bluetooth34hip68210rmslaranja": "2026-11-05T19:07:36.031573-03:00",
   "perfumearmanistrongerwithyoueaudetoilette": "2026-11-05T19:13:56.723444-03:00",
-  "perfumecalvinkleineternityforheredp30ml": "2026-11-05T19:23:01.327920-03:00"
+  "perfumecalvinkleineternityforheredp30ml": "2026-11-05T19:23:01.327920-03:00",
+  "jogodepanelastramontinasolaracoinoxfundotriplo6pecas": "2026-11-05T19:31:27.772451-03:00",
+  "liquidificadormondialturbopower550w": "2026-11-05T19:38:58.340226-03:00",
+  "tenisdecorridapumascendopro2unissex": "2026-11-05T19:45:05.835492-03:00",
+  "mousesemfiologitechmxmaster4": "2026-11-05T19:51:40.524274-03:00",
+  "escovadedenteeletricainfantiloralbspiderman": "2026-11-05T19:59:38.380120-03:00",
+  "monitorgamerlgultragear2727gs60fipsfullhd180hz1ms": "2026-11-05T20:07:40.619603-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
@@ -4699,6 +4741,18 @@
   "story-20261105": {
    "link": "https://t.me/+xijMK4-yHn85NDAx",
    "entradas": []
+  },
+  "ig-bio": {
+   "link": "https://t.me/+NbXHSqMA25tiNWU5",
+   "entradas": []
+  },
+  "ig-story": {
+   "link": "https://t.me/+j5Qb0Yt36v0wYzhh",
+   "entradas": []
+  },
+  "ig-dm": {
+   "link": "https://t.me/+s8tDV3rEu4AwOWIx",
+   "entradas": []
   }
  },
  "tg_offset": 354369945,
@@ -4728,5 +4782,12 @@
  "ultimo_garimpo": "2026-11-05T17:44:47-03:00",
  "vigia_aviso_post": "2026-11-03T15:13:56.183802-03:00",
  "vigia_aviso_garimpo": "2026-11-04T16:54:34.643581-03:00",
- "resumo_enviado": "2026-11-04"
+ "resumo_enviado": "2026-11-04",
+ "token_conferido": "2026-11-05",
+ "meta_token": {
+  "tipo": "SYSTEM_USER",
+  "valido": true,
+  "vence": "não vence",
+  "acesso_vence": "-"
+ }
 }
