@@ -56,6 +56,9 @@ jobs:
               avisar "⚠️ Robô Papa Garimpou sem terminar uma execução há mais de 90 min (última: $(TZ=America/Sao_Paulo date -d "$fim_ok" +%H:%M)). O guardião está de olho e dispara de novo." && ultimo_aviso=$agora_s
             fi
           }
+          # 05/11 (1 ano sem o dono): o GitHub desliga o "schedule" de repositório sem atividade por 60 dias.
+          # Os commits de histórico do robô já contam como atividade; por garantia, religa os dois workflows a cada volta.
+          for w in robo.yml guardiao.yml; do gh api -X PUT "repos/$REPO/actions/workflows/$w/enable" >/dev/null 2>&1 || true; done
           # Mesmos horários (UTC, HHMM) do robo.yml
           SLOTS="1107 1152 1238 1324 1411 1456 1519 1547 1622 1708 1803 1851 1944 2036 2109 2142 2217 2303 2338 0024"
           fim=$(( $(date +%s) + 340*60 ))

@@ -1,5 +1,8 @@
 """Envio para o Telegram via Bot API, com trava de destino."""
+import json
 import os
+import re
+from pathlib import Path
 
 import requests
 
@@ -113,13 +116,48 @@ def entradas_por_convite(offset: int | None) -> tuple[list[tuple[str, str, int]]
     return saida, prox
 
 
-def avisar_dono(texto: str, prefixo: bool = True) -> None:
+ALERTAS = Path(__file__).parent / "dados" / "alertas.json"
+
+
+def _segurar(texto: str) -> bool:
+    """05/11 (dono: 1 ano sem entrar no Claude): erro comum o robô tenta de novo sozinho na próxima
+    execução; só vira aviso no celular se o MESMO erro (texto sem números) continuar por 24 h,
+    e depois no máximo 1 vez a cada 24 h. Erro que some por 48 h é esquecido."""
+    from datetime import datetime, timedelta
+    agora = datetime.now()
+    assin = re.sub(r"\d+", "#", texto)[:80]
+    try:
+        vistos = json.loads(ALERTAS.read_text(encoding="utf-8"))
+    except Exception:
+        vistos = {}
+    vistos = {k: v for k, v in vistos.items() if agora - datetime.fromisoformat(v["ultimo"]) < timedelta(hours=48)}
+    v = vistos.setdefault(assin, {"primeiro": agora.isoformat(), "ultimo": agora.isoformat(), "enviado": ""})
+    v["ultimo"] = agora.isoformat()
+    segura = agora - datetime.fromisoformat(v["primeiro"]) < timedelta(hours=24) or \
+        (v["enviado"] and agora - datetime.fromisoformat(v["enviado"]) < timedelta(hours=24))
+    if not segura:
+        v["enviado"] = agora.isoformat()
+    try:
+        ALERTAS.parent.mkdir(exist_ok=True)
+        ALERTAS.write_text(json.dumps(vistos, ensure_ascii=False, indent=1), encoding="utf-8")
+    except Exception:
+        pass
+    return segura
+
+
+def avisar_dono(texto: str, prefixo: bool = True, urgente: bool | None = None) -> None:
     """Aviso de problema. Vai só para o chat do dono com o robô (ALERTA_CHAT_ID).
     Nunca para os canais. Se não houver chat configurado, só registra no log.
-    `prefixo=False` (03/11, vigia): o texto já vem pronto, sem "⚠️ Robô Papa Garimpou:"."""
+    `prefixo=False` (03/11, vigia): o texto já vem pronto, sem "⚠️ Robô Papa Garimpou:".
+    Urgente (vigia, destino/conta bloqueados, token vencendo) sai na hora; o resto espera 24 h (ver _segurar)."""
     chat = os.environ.get("ALERTA_CHAT_ID", "").strip()
     print(f"[ALERTA] {texto}")
     ERROS.append(texto[:300])
+    if urgente is None:
+        urgente = not prefixo or "BLOQUEADO" in texto or "TOKEN" in texto.upper()
+    if not urgente and _segurar(texto):
+        print("[ALERTA] erro comum: o robô tenta de novo; só aviso o dono se durar 24 h")
+        return
     if not chat or not os.environ.get("TELEGRAM_BOT_TOKEN"):
         return
     try:

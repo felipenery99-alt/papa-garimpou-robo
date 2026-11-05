@@ -29,7 +29,9 @@ def mesclar(nosso: dict, remoto: dict) -> dict:
     if "ig_giro" in remoto or "ig_giro" in nosso:
         out["ig_giro"] = max(remoto.get("ig_giro", 0), nosso.get("ig_giro", 0))
     # a fila desta execução não pode trazer de volta o que a outra já postou
-    out["fila"] = [o for o in nosso.get("fila", []) if o.get("id") not in out.get("postados", {})]
+    # (05/11: reprise de oferta antiga ainda no preço volta à fila; só sai se foi postada DEPOIS de entrar na fila)
+    out["fila"] = [o for o in nosso.get("fila", [])
+                   if o.get("id") not in out.get("postados", {}) or out["postados"][o["id"]] < o.get("entrou", "")]
     return out
 
 

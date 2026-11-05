@@ -38,8 +38,9 @@ def salvar_hist(h: dict) -> None:
     limite = (datetime.now(FUSO) - timedelta(days=30)).date().isoformat()
     h["slots_feitos"] = [s for s in h["slots_feitos"] if s[:10] >= limite]
     h["postados"] = {k: v for k, v in h["postados"].items() if v[:10] >= limite}
-    dois_dias = (datetime.now(FUSO) - timedelta(days=2)).date().isoformat()
-    h["ofertas_dia"] = [o for o in h.get("ofertas_dia", []) if o.get("dia", "") >= dois_dias]
+    # 05/11: guardava só 2 dias, mas o Top 10 da semana (7 dias) e a reprise (garimpo sem o PC, 7–10 dias) precisam de mais
+    dez_dias = (datetime.now(FUSO) - timedelta(days=10)).date().isoformat()
+    h["ofertas_dia"] = [o for o in h.get("ofertas_dia", []) if o.get("dia", "") >= dez_dias]
     HIST.parent.mkdir(exist_ok=True)
     HIST.write_text(json.dumps(h, ensure_ascii=False, indent=1), encoding="utf-8")
 
@@ -59,6 +60,8 @@ def gravar_relatorio(h: dict, agora: datetime) -> None:
     dia["execucoes"] = dia.get("execucoes", 0) + 1
     dia["telegram_posts"] = {c: sum(1 for s in h["slots_feitos"] if s.startswith(f"{hoje} {c}")) for c in config.CANAIS}
     dia["ultimo_post"] = ultimo_post(h, agora)
+    if h.get("meta_token"):
+        dia["meta_token"] = h["meta_token"]
     if h.get("ultimo_garimpo"):
         dia["ultimo_garimpo"] = datetime.fromisoformat(h["ultimo_garimpo"]).strftime("%d/%m %H:%M")
     dia["convites_story"] = {n: len(c["entradas"]) for n, c in h.get("convites_story", {}).items()}
@@ -360,6 +363,36 @@ def conferir_oferta(o: dict, agora: datetime) -> dict | None:
     return {**o, **m}
 
 
+def oferta_viva(o: dict, agora: datetime) -> dict | None:
+    """05/11 (1 ano sem o dono): última conferência antes de postar. Venceu (valida_ate) → não sai.
+    Shopee há mais de 2 h na fila → reconfere preço e regras pela API. Link que responde 404/410 → não sai.
+    (Amazon e outras lojas às vezes recusam robô com 403/503: isso não conta como link morto.)"""
+    import requests
+    if o.get("valida_ate") and o["valida_ate"] < agora.isoformat():
+        return None
+    if o["id"].startswith("shopee-") and o.get("entrou", agora.isoformat()) < (agora - timedelta(hours=2)).isoformat():
+        # só derruba se a API achar o item e ele não passar mais nas regras; não achar na busca não é prova
+        try:
+            import shopee
+            achados = [n for n in shopee._pagina(o["nome"][:60], 1, 20) if n["id"] == o["id"]]
+        except Exception:
+            achados = []
+        if achados:
+            o = {**o, **achados[0], "canal": o["canal"]}
+            if not qualidade.avaliar(o, o["canal"])[0]:
+                return None
+    if o.get("link"):
+        try:
+            r = requests.get(o["link"], timeout=12, allow_redirects=True, stream=True,
+                             headers={"User-Agent": "Mozilla/5.0 (PapaGarimpou link check)"})
+            r.close()
+            if r.status_code in (404, 410):
+                return None
+        except requests.RequestException:
+            pass   # rede instável não derruba a oferta
+    return o
+
+
 def ranking_semana(h: dict, agora: datetime, n: int) -> list[dict]:
     """Maiores descontos reais dos últimos 7 dias que continuam válidos (um por produto)."""
     semana = (agora - timedelta(days=7)).date().isoformat()
@@ -463,6 +496,43 @@ def ultimo_garimpo() -> datetime | None:
     return None
 
 
+def garimpo_reserva(h: dict, shopee, agora: datetime, ult_garimpo: datetime | None) -> None:
+    """05/11 (dono: 1 ano sem entrar no Claude): o garimpo de Amazon/ML depende do app no PC. Se um canal está
+    com menos de RESERVA_FILA_MIN ofertas válidas na fila e não chega commit "Garimpo" há RESERVA_SEM_GARIMPO_H,
+    o robô se vira só com o que roda na nuvem: (1) Shopee mais fundo (páginas 3–4, termos sorteados) e
+    (2) reprise de ofertas postadas há 7–10 dias que AINDA estão no preço (reconferidas: Shopee pela API,
+    manual só se ainda no arquivo e na validade). Mesmas regras de qualidade; só loja oficial na Shopee."""
+    import random
+    if ult_garimpo and agora - ult_garimpo < timedelta(hours=config.RESERVA_SEM_GARIMPO_H):
+        return
+    for canal in config.CANAIS:
+        na_fila = [f for f in h.get("fila", []) if f.get("canal") == canal
+                   and not ja_postado_recente(h, f["id"], agora, f.get("nome", ""))]
+        if len(na_fila) >= config.RESERVA_FILA_MIN:
+            continue
+        print(f"[reserva] {canal}: {len(na_fila)} na fila e garimpo do PC parado; buscando na nuvem")
+        if shopee and not shopee.LIMITE_ATINGIDO[0]:
+            termos = random.sample(config.BUSCAS[canal], min(config.RESERVA_TERMOS, len(config.BUSCAS[canal])))
+            try:
+                entrar_na_fila(h, canal, garimpar_todas(canal, shopee.buscar_fundo, h, agora, termos), agora)
+            except Exception as e:
+                print(f"[reserva] Shopee {canal}: {e}")
+        ids_fila = {f["id"] for f in h.get("fila", [])}
+        velhas = sorted((o for o in h.get("ofertas_dia", []) if o.get("canal") == canal and o["id"] not in ids_fila
+                         and not ja_postado_recente(h, o["id"], agora, o.get("nome", ""))),
+                        key=qualidade.pontuar, reverse=True)
+        voltaram = []
+        for o in velhas[:config.RESERVA_REPRISE_TENTAR]:
+            novo = conferir_oferta(o, agora)
+            if novo:
+                voltaram.append({k: v for k, v in novo.items() if k not in ("dia", "so_telegram_ate")})
+            if len(voltaram) >= config.RESERVA_REPRISE_MAX:
+                break
+        if voltaram:
+            entrar_na_fila(h, canal, voltaram, agora)
+            print(f"[reserva] {canal}: {len(voltaram)} reprise(s) ainda no preço")
+
+
 def vigiar(h: dict, telegram, agora: datetime, ult_garimpo: datetime | None) -> None:
     """03/11 (dono): vigia de inatividade. Garimpo velho ou canal sem oferta na fila → aviso; canal sem post
     há VIGIA_POST_H → aviso. Cada tipo no máximo 1 vez a cada VIGIA_REPETIR_H (gravado no histórico)."""
@@ -549,6 +619,11 @@ def soltar_fila(h: dict, telegram, limite: datetime, atraso: bool = True) -> int
         h["fila"].remove(oferta)
         if ja_postado_recente(h, oferta["id"], agora, oferta.get("nome", "")):
             continue
+        viva = oferta_viva(oferta, agora)
+        if not viva:
+            print(f"[fila] {oferta['id']} saiu da fila: vencida, link morto ou fora do preço")
+            continue
+        oferta = viva
         hoje = agora.date().isoformat()
         chave = f"{hoje} {canal} {agora:%H:%M} {oferta['id']}"
         try:
@@ -1001,7 +1076,7 @@ def preparar_story_link(h: dict, agora: datetime) -> None:
         except Exception as e:   # foto que não baixa: tenta a próxima
             print(f"[story-link] {o['id']}: {e}")
     try:
-        url = instagram.hospedar(f"{agora:%Y%m%d}-story-link.jpg", arte or artes.story_link(None))
+        url = instagram.hospedar(f"{agora:%Y%m%d}-story-link.jpg", arte or artes.story_link(None), permanente=True)
         try:   # 3ª coluna: cópia no fbcdn, que a Business Suite deixa baixar (raw.githubusercontent não)
             fb = " | " + instagram.foto_fbcdn(url)
         except Exception as e:
@@ -1049,6 +1124,32 @@ def convites_story(h: dict, telegram, agora: datetime) -> None:
     for velho in sorted(n for n in conv if n not in CONVITES_ORIGEM)[:-30]:
         conv.pop(velho)
     print(f"[convites] {nome}: {len(conv.get(nome, {}).get('entradas', []))} entrada(s) hoje")
+
+
+def conferir_token_meta(h: dict, telegram, agora: datetime) -> None:
+    """05/11 (1 ano sem o dono): 1 vez por dia confere o META_TOKEN. Faltando 15 dias ou menos para vencer
+    (token ou acesso a dados), avisa o dono todo dia até ele trocar: só ele consegue gerar outro."""
+    import os
+    if not os.environ.get("META_TOKEN") or h.get("token_conferido") == agora.date().isoformat():
+        return
+    import instagram
+    try:
+        v = instagram.validade_token()
+    except Exception as e:
+        telegram.avisar_dono(f"não consegui conferir a validade do META_TOKEN: {e}")
+        return
+    h["token_conferido"] = agora.date().isoformat()
+    h["meta_token"] = {"tipo": v["tipo"], "valido": v["valido"],
+                       "vence": datetime.fromtimestamp(v["vence"], FUSO).strftime("%d/%m/%Y") if v["vence"] else "não vence",
+                       "acesso_vence": datetime.fromtimestamp(v["acesso_vence"], FUSO).strftime("%d/%m/%Y") if v["acesso_vence"] else "-"}
+    limite = (agora + timedelta(days=15)).timestamp()
+    if not v["valido"]:
+        telegram.avisar_dono("TOKEN da Meta inválido: o Instagram parou. Gerar um token novo de Página (não vence) "
+                             "e trocar o segredo META_TOKEN no GitHub.", urgente=True)
+    elif (v["vence"] and v["vence"] < limite) or (v["acesso_vence"] and v["acesso_vence"] < limite):
+        telegram.avisar_dono(f"TOKEN da Meta ({v['tipo']}) vence em {h['meta_token']['vence']} "
+                             f"(acesso a dados até {h['meta_token']['acesso_vence']}). Trocar por um token de Página "
+                             "que não vence e atualizar o segredo META_TOKEN no GitHub.", urgente=True)
 
 
 RESUMO_DONO = Path(__file__).parent / "dados" / "resumo_dono.json"
@@ -1266,6 +1367,7 @@ def main() -> int:
         telegram.avisar_dono(f"Instagram: erro geral {e}")
     um_post()
     enviar_resumo_dono(h, telegram, agora)
+    conferir_token_meta(h, telegram, agora)
     if not os.environ.get("TELEGRAM_BOT_TOKEN"):
         print("TELEGRAM_BOT_TOKEN ausente — nada postado")
         salvar_hist(h)
@@ -1300,6 +1402,7 @@ def main() -> int:
         ult = ultimo_garimpo()
         if ult:
             h["ultimo_garimpo"] = ult.isoformat()
+        garimpo_reserva(h, shopee if shopee_ok else None, agora, ult)
         vigiar(h, telegram, agora, ult)
     except Exception as e:
         print(f"[vigia] falhou: {e}")

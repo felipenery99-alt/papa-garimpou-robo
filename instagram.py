@@ -44,8 +44,87 @@ def conta() -> dict:
     raise ContaErrada(f"Instagram @{config.INSTAGRAM_PERMITIDO} não encontrado no token: {r}")
 
 
-def hospedar(nome: str, conteudo: bytes) -> str:
-    """Grava a imagem em midia/, publica no repositório e devolve a URL pública."""
+def validade_token() -> dict:
+    """05/11 (1 ano sem o dono): tipo e vencimento do META_TOKEN (debug_token). expires_at 0 = não vence.
+    data_access_expires_at = até quando a Meta deixa ler dados sem o dono entrar de novo (90 dias de uso)."""
+    t = _token()
+    d = requests.get(f"{G}/debug_token", params={"input_token": t, "access_token": t}, timeout=30).json().get("data", {})
+    if not d:
+        raise RuntimeError("debug_token sem dados")
+    return {"tipo": d.get("type"), "valido": d.get("is_valid"), "vence": d.get("expires_at") or 0,
+            "acesso_vence": d.get("data_access_expires_at") or 0, "escopos": d.get("scopes", [])}
+
+
+# 05/11 (1 ano sem o dono): cada imagem no main ficava para sempre no histórico do git (~7 MB/dia → ~2,5 GB/ano).
+# Agora as imagens do Instagram vão para um ramo à parte, recriado vazio todo dia: a Meta só precisa do link
+# por alguns minutos, e o que fica de fora do main o GitHub limpa sozinho. Só o story-link (que a rodada usa
+# como arquivo local) continua no main.
+RAMO_MIDIA = "midia-temp"
+_RAMO_PRONTO = [""]
+
+
+def _gh(metodo: str, caminho: str, **kw) -> dict:
+    repo = os.environ.get("GITHUB_REPOSITORY", "")
+    r = requests.request(metodo, f"https://api.github.com/repos/{repo}{caminho}", timeout=60,
+                         headers={"Authorization": f"Bearer {os.environ['GITHUB_TOKEN']}",
+                                  "Accept": "application/vnd.github+json"}, **kw)
+    if r.status_code >= 400:
+        raise RuntimeError(f"GitHub {metodo} {caminho}: {r.status_code} {r.text[:200]}")
+    return r.json() if r.text else {}
+
+
+def _ramo_do_dia() -> None:
+    """Garante o ramo de mídia de hoje: se a ponta não for de hoje, recria o ramo com um commit sem passado."""
+    hoje = datetime.now().strftime("%Y-%m-%d")
+    if _RAMO_PRONTO[0] == hoje:
+        return
+    try:
+        ponta = _gh("GET", f"/git/ref/heads/{RAMO_MIDIA}")["object"]["sha"]
+        if _gh("GET", f"/git/commits/{ponta}")["message"].startswith(f"midia {hoje}"):
+            _RAMO_PRONTO[0] = hoje
+            return
+        existe = True
+    except RuntimeError:
+        existe = False
+    blob = _gh("POST", "/git/blobs", json={"content": "Imagens temporárias do Instagram (recriado todo dia).\n",
+                                            "encoding": "utf-8"})["sha"]
+    arvore = _gh("POST", "/git/trees", json={"tree": [{"path": "LEIA.txt", "mode": "100644", "type": "blob",
+                                                       "sha": blob}]})["sha"]
+    commit = _gh("POST", "/git/commits", json={"message": f"midia {hoje}", "tree": arvore, "parents": []})["sha"]
+    if existe:
+        _gh("PATCH", f"/git/refs/heads/{RAMO_MIDIA}", json={"sha": commit, "force": True})
+    else:
+        _gh("POST", "/git/refs", json={"ref": f"refs/heads/{RAMO_MIDIA}", "sha": commit})
+    _RAMO_PRONTO[0] = hoje
+
+
+def _esperar_raw(url: str, nome: str) -> None:
+    # 02/11: story das 08:52 falhou com 2207052 ("Only photo or video"): a Meta buscou o link raw antes de
+    # ele servir a imagem. Só devolve a URL quando ela responde 200 com content-type de imagem.
+    for _ in range(12):
+        try:
+            r = requests.head(url, timeout=15, allow_redirects=True)
+            if r.status_code == 200 and r.headers.get("content-type", "").startswith("image/"):
+                return
+        except requests.RequestException:
+            pass
+        time.sleep(5)
+    raise RuntimeError(f"mídia {nome} não ficou disponível no GitHub em 60 s")
+
+
+def hospedar(nome: str, conteudo: bytes, permanente: bool = False) -> str:
+    """Publica a imagem e devolve a URL pública. `permanente` (story-link): grava em midia/ do main."""
+    import base64
+    if os.environ.get("GITHUB_ACTIONS") and os.environ.get("GITHUB_TOKEN") and not permanente:
+        try:
+            _ramo_do_dia()
+            _gh("PUT", f"/contents/{nome}", json={"message": f"mídia {nome}", "branch": RAMO_MIDIA,
+                                                   "content": base64.b64encode(conteudo).decode()})
+            url = f"https://raw.githubusercontent.com/{os.environ.get('GITHUB_REPOSITORY', '')}/{RAMO_MIDIA}/{nome}"
+            _esperar_raw(url, nome)
+            return url
+        except Exception as e:   # se o ramo falhar, segue pelo jeito antigo (main) para não perder a peça
+            print(f"[midia] ramo {RAMO_MIDIA} falhou ({e}); usando midia/ do main")
     MIDIA.mkdir(exist_ok=True)
     (MIDIA / nome).write_bytes(conteudo)
     if os.environ.get("GITHUB_ACTIONS"):
@@ -55,18 +134,7 @@ def hospedar(nome: str, conteudo: bytes) -> str:
             subprocess.run(["git", "commit", "-m", f"mídia {nome}"], cwd=PASTA, check=True)
             subprocess.run(["git", "pull", "--rebase", "--autostash", "-q"], cwd=PASTA, check=True)
             subprocess.run(["git", "push", "-q"], cwd=PASTA, check=True)
-        # 02/11: story das 08:52 falhou com 2207052 ("Only photo or video"): a Meta buscou o link raw antes de
-        # ele servir a imagem. Só devolve a URL quando ela responde 200 com content-type de imagem.
-        for _ in range(12):
-            try:
-                r = requests.head(REPO_RAW + nome, timeout=15, allow_redirects=True)
-                if r.status_code == 200 and r.headers.get("content-type", "").startswith("image/"):
-                    break
-            except requests.RequestException:
-                pass
-            time.sleep(5)
-        else:
-            raise RuntimeError(f"mídia {nome} não ficou disponível no GitHub em 60 s")
+        _esperar_raw(REPO_RAW + nome, nome)
     return REPO_RAW + nome
 
 
@@ -103,11 +171,31 @@ def _esperar(container: str, limite=60):
         time.sleep(3)
 
 
+_COTA = {"quando": 0.0, "livre": 999}
+
+
+def _cota_livre(ig_id: str) -> int:
+    """05/11 (1 ano sem o dono): limite da Meta para publicações pela API em 24 h (content_publishing_limit).
+    Consulta no máximo a cada 10 min; se a consulta falhar, não trava a publicação."""
+    if time.time() - _COTA["quando"] > 600:
+        try:
+            d = requests.get(f"{G}/{ig_id}/content_publishing_limit", timeout=30,
+                             params={"access_token": _token(), "fields": "quota_usage,config"}).json()["data"][0]
+            _COTA["livre"] = int(d.get("config", {}).get("quota_total", 100)) - int(d.get("quota_usage", 0))
+        except Exception:
+            _COTA["livre"] = 999
+        _COTA["quando"] = time.time()
+    return _COTA["livre"]
+
+
 def _publicar(ig_id: str, container: str) -> str:
+    if _cota_livre(ig_id) <= 5:   # folga: o resto fica para depois, sem erro da Meta
+        raise RuntimeError("cota de publicações do Instagram em 24 h quase no fim; peça adiada")
     _esperar(container)
     for tentativa in range(6):
         r = requests.post(f"{G}/{ig_id}/media_publish", data={"access_token": _token(), "creation_id": container}, timeout=60).json()
         if "id" in r:
+            _COTA["livre"] -= 1
             return r["id"]
         # 2207027 = "mídia não está pronta": a Meta ainda está processando; espera e tenta de novo
         if r.get("error", {}).get("error_subcode") != 2207027:
