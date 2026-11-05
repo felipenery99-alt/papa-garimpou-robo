@@ -935,22 +935,6 @@
   "gancho": "MIZUNO COM MAIS DA METADE DE DESCONTO"
  },
  {
-  "id": "amz-B0D9TZ7623",
-  "canal": "marcas",
-  "nome": "Tênis New Balance BB80 Unissex",
-  "preco_antigo": 399.99,
-  "preco": 182.99,
-  "desconto": 54,
-  "link": "https://www.amazon.com.br/dp/B0D9TZ7623?tag=papagarimpou-20",
-  "imagem": "https://m.media-amazon.com/images/I/419F9U09zOL._AC_SL1000_.jpg",
-  "loja": "Vendido e entregue pela Amazon",
-  "plataforma": "Amazon",
-  "valida_ate": "2026-11-06T22:00:00-03:00",
-  "extra": "Preço a partir de: varia por tamanho e cor",
-  "nao_antes": "2026-11-06T09:00:00-03:00",
-  "so_telegram_ate": "2026-11-06T11:00:00-03:00"
- },
- {
   "id": "amz-B099ZJQXMF",
   "canal": "achadinhos",
   "nome": "Cafeteira Nespresso Essenza Mini Preta (127V)",
@@ -1749,7 +1733,9 @@
   "loja": "Vendido e entregue pela Amazon",
   "plataforma": "Amazon",
   "valida_ate": "2026-11-06T22:00:00-03:00",
-  "gancho": "LACOSTE RED 125ML PELA METADE, VENDIDO PELA AMAZON"
+  "gancho": "LACOSTE RED 125ML PELA METADE, VENDIDO PELA AMAZON",
+  "nao_antes": "2026-11-06T09:00:00-03:00",
+  "so_telegram_ate": "2026-11-06T11:00:00-03:00"
  },
  {
   "id": "amz-B0DZ33GNYP",
