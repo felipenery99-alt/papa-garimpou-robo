@@ -451,7 +451,10 @@
   "2026-11-04 tech 19:36 amz-B01JPOLKDW",
   "2026-11-04 achadinhos 19:47 amz-B0B872NVW4",
   "2026-11-04 marcas 19:58 amz-B0H4RGVYS2",
-  "2026-11-04 achadinhos 20:25 amz-B0B8Q6VLRB"
+  "2026-11-04 achadinhos 20:25 amz-B0B8Q6VLRB",
+  "2026-11-04 tech 20:44 amz-B09LYZP1LG",
+  "2026-11-04 marcas 20:55 amz-B0BPJS7Y2J",
+  "2026-11-04 tech 21:05 amz-B07C55K2YS"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -911,7 +914,10 @@
   "amz-B01JPOLKDW": "2026-11-04T19:36:41.616437-03:00",
   "amz-B0B872NVW4": "2026-11-04T19:47:08.844079-03:00",
   "amz-B0H4RGVYS2": "2026-11-04T19:58:00.916150-03:00",
-  "amz-B0B8Q6VLRB": "2026-11-04T20:25:11.215396-03:00"
+  "amz-B0B8Q6VLRB": "2026-11-04T20:25:11.215396-03:00",
+  "amz-B09LYZP1LG": "2026-11-04T20:44:10.489385-03:00",
+  "amz-B0BPJS7Y2J": "2026-11-04T20:55:59.505984-03:00",
+  "amz-B07C55K2YS": "2026-11-04T21:05:01.076286-03:00"
  },
  "ofertas_dia": [
   {
@@ -3003,6 +3009,53 @@
    "valida_ate": "2026-11-05T22:00:00-03:00",
    "entrou": "2026-11-04T18:03:20.894594-03:00",
    "dia": "2026-11-04"
+  },
+  {
+   "id": "amz-B09LYZP1LG",
+   "canal": "tech",
+   "nome": "Teclado Sem Fio Logitech MX Keys Mini Iluminado",
+   "preco_antigo": 799.9,
+   "preco": 499.9,
+   "desconto": 38,
+   "link": "https://www.amazon.com.br/dp/B09LYZP1LG?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71zMNFAsOnL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-05T22:00:00-03:00",
+   "entrou": "2026-11-04T18:03:20.894594-03:00",
+   "dia": "2026-11-04"
+  },
+  {
+   "id": "amz-B0BPJS7Y2J",
+   "canal": "marcas",
+   "nome": "Tênis Puma X-Ray 2 Square Feminino",
+   "preco_antigo": 599.99,
+   "preco": 319.9,
+   "desconto": 47,
+   "link": "https://www.amazon.com.br/dp/B0BPJS7Y2J?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/510UmMoraHL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-04T22:00:00-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "entrou": "2026-11-04T17:46:21.913058-03:00",
+   "dia": "2026-11-04"
+  },
+  {
+   "id": "amz-B07C55K2YS",
+   "canal": "tech",
+   "nome": "Combo Teclado e Mouse Sem Fio Logitech",
+   "preco_antigo": 299.0,
+   "preco": 149.9,
+   "desconto": 50,
+   "link": "https://www.amazon.com.br/dp/B07C55K2YS?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61J+g-r1uML._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-05T22:00:00-03:00",
+   "gancho": "TECLADO + MOUSE LOGITECH PELA METADE",
+   "entrou": "2026-11-04T18:03:20.894594-03:00",
+   "dia": "2026-11-04"
   }
  ],
  "ig_feitos": [
@@ -3398,21 +3451,6 @@
  "ultimo_pilar": "mito",
  "fila": [
   {
-   "id": "amz-B0BPJS7Y2J",
-   "canal": "marcas",
-   "nome": "Tênis Puma X-Ray 2 Square Feminino",
-   "preco_antigo": 599.99,
-   "preco": 319.9,
-   "desconto": 47,
-   "link": "https://www.amazon.com.br/dp/B0BPJS7Y2J?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/510UmMoraHL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-04T22:00:00-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "entrou": "2026-11-04T17:46:21.913058-03:00"
-  },
-  {
    "id": "amz-B0CZLXLN8P",
    "canal": "marcas",
    "nome": "Garrafa Térmica Stanley Flip Straw 500ml",
@@ -3667,35 +3705,6 @@
    "plataforma": "Amazon",
    "valida_ate": "2026-11-05T22:00:00-03:00",
    "gancho": "STANLEY COM 46% OFF",
-   "entrou": "2026-11-04T18:03:20.894594-03:00"
-  },
-  {
-   "id": "amz-B09LYZP1LG",
-   "canal": "tech",
-   "nome": "Teclado Sem Fio Logitech MX Keys Mini Iluminado",
-   "preco_antigo": 799.9,
-   "preco": 499.9,
-   "desconto": 38,
-   "link": "https://www.amazon.com.br/dp/B09LYZP1LG?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/71zMNFAsOnL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-05T22:00:00-03:00",
-   "entrou": "2026-11-04T18:03:20.894594-03:00"
-  },
-  {
-   "id": "amz-B07C55K2YS",
-   "canal": "tech",
-   "nome": "Combo Teclado e Mouse Sem Fio Logitech",
-   "preco_antigo": 299.0,
-   "preco": 149.9,
-   "desconto": 50,
-   "link": "https://www.amazon.com.br/dp/B07C55K2YS?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61J+g-r1uML._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-05T22:00:00-03:00",
-   "gancho": "TECLADO + MOUSE LOGITECH PELA METADE",
    "entrou": "2026-11-04T18:03:20.894594-03:00"
   },
   {
@@ -4170,7 +4179,10 @@
   "mousesemfiologitechm330silentplus": "2026-11-04T19:36:41.616437-03:00",
   "protetorsolarfaciallarocheposayanthelioscomcor": "2026-11-04T19:47:08.844079-03:00",
   "tenispumacaven20feminino": "2026-11-04T19:58:00.916150-03:00",
-  "protetorsolarfacialeucerinfps70": "2026-11-04T20:25:11.215396-03:00"
+  "protetorsolarfacialeucerinfps70": "2026-11-04T20:25:11.215396-03:00",
+  "tecladosemfiologitechmxkeysminiiluminado": "2026-11-04T20:44:10.489385-03:00",
+  "tenispumaxray2squarefeminino": "2026-11-04T20:55:59.505984-03:00",
+  "combotecladoemousesemfiologitech": "2026-11-04T21:05:01.076286-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
