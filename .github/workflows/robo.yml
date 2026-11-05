@@ -42,7 +42,7 @@ concurrency:
 jobs:
   postar:
     runs-on: ubuntu-latest
-    timeout-minutes: 55   # a fila solta ofertas por até ~45 min
+    timeout-minutes: 60   # 05/11: a fila solta ofertas até 46 min após o início (FILA_JANELA_MIN)
     steps:
       - uses: actions/checkout@v4
         with:

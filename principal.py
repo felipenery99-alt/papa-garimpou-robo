@@ -473,17 +473,16 @@ def vigiar(h: dict, telegram, agora: datetime, ult_garimpo: datetime | None) -> 
 
 
 def ate_proxima_execucao(agora: datetime) -> datetime:
-    """A fila corre até 3 min antes da próxima execução do robo.yml (nunca depois das 22h)."""
+    """A fila corre até FILA_JANELA_MIN depois do início da execução (nunca depois das 22h).
+    05/11: antes parava 3 min antes do próximo horário do robo.yml. Mas o cron do GitHub falha e quem dispara
+    é o guardião, ~10 min depois do horário; com Instagram + garimpo (~15 min) sobravam ~15 min de fila =
+    ~3 posts e buraco de 30 min. Agora corre até perto do timeout do job; a execução seguinte espera na
+    fila do concurrency e começa logo depois, então os posts saem contínuos."""
     fim = agora.replace(hour=config.JANELA_FIM[0], minute=config.JANELA_FIM[1], second=0, microsecond=0)
-    for hm in config.EXECUCOES:
-        prox = agora.replace(hour=int(hm[:2]), minute=int(hm[3:]), second=0, microsecond=0)
-        if prox > agora + timedelta(minutes=5):
-            fim = min(fim, prox - timedelta(minutes=3))
-            break
-    return min(fim, agora + timedelta(minutes=45))
+    return min(fim, agora + timedelta(minutes=config.FILA_JANELA_MIN))
 
 
-def soltar_fila(h: dict, telegram, limite: datetime) -> int:
+def soltar_fila(h: dict, telegram, limite: datetime, atraso: bool = True) -> int:
     """Posta uma oferta por vez, alternando os canais de nicho (cada uma também vai para o
     canal geral), com intervalo sorteado. O que sobrar fica na fila para a próxima execução."""
     import os
@@ -491,7 +490,7 @@ def soltar_fila(h: dict, telegram, limite: datetime) -> int:
     import time as _time
     erros = 0
     vez = 0
-    if h.get("fila") and not os.environ.get("PAPA_SEM_ATRASO"):
+    if atraso and h.get("fila") and not os.environ.get("PAPA_SEM_ATRASO"):
         # 1º post não sai no minuto exato da execução (dono, 28/10: horários aleatórios)
         _time.sleep(random.uniform(*config.ATRASO_INICIAL_MIN) * 60)
     while h.get("fila"):
@@ -1156,10 +1155,17 @@ def main() -> int:
     import shopee
     h = carregar_hist()
     hoje = agora.date().isoformat()
+    # 05/11: Instagram + garimpo levam ~10–15 min antes da fila. Com a fila do run anterior ainda cheia,
+    # solta 1 oferta antes e 1 depois do Instagram para não abrir buraco entre uma execução e a seguinte.
+    def um_post():
+        if os.environ.get("TELEGRAM_BOT_TOKEN") and h.get("fila"):
+            soltar_fila(h, telegram, datetime.now(FUSO), atraso=False)
+    um_post()
     try:
         rodar_instagram(h, agora)
     except Exception as e:
         telegram.avisar_dono(f"Instagram: erro geral {e}")
+    um_post()
     enviar_resumo_dono(h, telegram, agora)
     if not os.environ.get("TELEGRAM_BOT_TOKEN"):
         print("TELEGRAM_BOT_TOKEN ausente — nada postado")

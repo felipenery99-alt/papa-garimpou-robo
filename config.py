@@ -71,6 +71,7 @@ INTERVALO_POSTS_MIN = (6, 8)   # minutos entre um post e o próximo (sorteado, a
 INTERVALO_MANHA_MIN = (3, 8)
 INTERVALO_TARDE_MIN = (6, 16)
 ATRASO_INICIAL_MIN = (0.5, 4)
+FILA_JANELA_MIN = 46   # 05/11: a fila corre até 46 min após o início da execução (timeout do job = 55 min)
 
 
 def intervalo_posts(hora: int) -> tuple[float, float]:
