@@ -1,57 +1,18 @@
 {
- "dia": "2026-11-05",
+ "dia": "2026-11-06",
  "itens": [
   {
    "tipo": "adivinha",
-   "hora": "15:13",
+   "hora": "15:03",
    "produtos": [
     {
-     "nome": "Kit 2 Camisas Polo Básicas Hering",
-     "preco_antigo": 219.99,
-     "preco": 85.49,
-     "desconto": 61,
-     "link": "https://www.amazon.com.br/dp/B0CVXSX2P5?tag=papagarimpou-20",
-     "loja": "Vendido e entregue pela Netshoes · Amazon",
+     "nome": "Garrafa Térmica Contigo Matterhorn Inox 591ml",
+     "preco_antigo": 109.9,
+     "preco": 44.63,
+     "desconto": 59,
+     "link": "https://www.amazon.com.br/dp/B07K8XJF9D?tag=papagarimpou-20",
+     "loja": "Vendido e entregue pela Amazon",
      "canal": "marcas"
-    }
-   ]
-  },
-  {
-   "tipo": "adivinha_resposta",
-   "hora": "16:27",
-   "produtos": [
-    {
-     "nome": "Kit 2 Camisas Polo Básicas Hering",
-     "preco_antigo": 219.99,
-     "preco": 85.49,
-     "desconto": 61,
-     "link": "https://www.amazon.com.br/dp/B0CVXSX2P5?tag=papagarimpou-20",
-     "loja": "Vendido e entregue pela Netshoes · Amazon",
-     "canal": "marcas"
-    }
-   ]
-  },
-  {
-   "tipo": "a_ou_b",
-   "hora": "18:17",
-   "produtos": [
-    {
-     "nome": "Refil Desodorante Corporal Natura Essencial Atrai Masculino",
-     "preco_antigo": 56.9,
-     "preco": 28.45,
-     "desconto": 50,
-     "link": "https://s.shopee.com.br/906WeNmgIM",
-     "loja": "NATURA",
-     "canal": "achadinhos"
-    },
-    {
-     "nome": "Extratora e Higienizadora Portatil WAP SpotCleaner W3 1450W",
-     "preco_antigo": 1195.63,
-     "preco": 549.99,
-     "desconto": 54,
-     "link": "https://s.shopee.com.br/4Ve7urNSxv",
-     "loja": "LOI BRASIL",
-     "canal": "achadinhos"
     }
    ]
   }

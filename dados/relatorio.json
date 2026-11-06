@@ -719,17 +719,17 @@
   "erros": [
    "⚠️ Garimpo parado desde 10:16 — abrir o app Claude e conferir as rotinas\nPouca oferta na fila: achadinhos 2."
   ],
-  "ultima_execucao": "13:37",
-  "execucoes": 11,
+  "ultima_execucao": "14:22",
+  "execucoes": 12,
   "telegram_posts": {
-   "achadinhos": 27,
-   "marcas": 15,
-   "tech": 8
+   "achadinhos": 30,
+   "marcas": 17,
+   "tech": 9
   },
   "ultimo_post": {
-   "achadinhos": "14:15",
-   "marcas": "14:21",
-   "tech": "14:08"
+   "achadinhos": "14:57",
+   "marcas": "15:03",
+   "tech": "14:50"
   },
   "meta_token": {
    "tipo": "SYSTEM_USER",
@@ -737,7 +737,7 @@
    "vence": "não vence",
    "acesso_vence": "-"
   },
-  "ultimo_garimpo": "06/11 10:16",
+  "ultimo_garimpo": "06/11 13:58",
   "convites_story": {
    "story-20261101": 0,
    "story-20261102": 0,
@@ -764,17 +764,19 @@
    "10:20 story_oferta",
    "10:24 story_oferta",
    "11:11 story_oferta",
-   "feed",
    "11:50 carrossel_top5",
    "11:56 story_oferta",
    "12:15 story_top4",
    "12:19 story_oferta",
-   "feed",
    "12:40 reels",
    "12:47 story_oferta",
    "13:20 story_convite",
    "13:22 story_oferta",
-   "14:08 story_oferta"
+   "14:08 story_oferta",
+   "feed",
+   "14:25 post_achado",
+   "15:00 adivinha",
+   "15:03 story_oferta"
   ],
   "shopee_ligada": true,
   "shopee_oficial_ids": {
@@ -3369,10 +3371,10 @@
    "outro: palavra proibida: compatível": 9
   },
   "instagram": {
-   "seguidores": 350,
-   "posts": 78,
-   "reach": 1273,
-   "profile_views": 181,
+   "seguidores": 352,
+   "posts": 79,
+   "reach": 1279,
+   "profile_views": 188,
    "website_clicks": 1,
    "stories_ativos": 25
   }
