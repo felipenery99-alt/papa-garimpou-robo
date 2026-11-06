@@ -716,18 +716,20 @@
   }
  },
  "2026-11-06": {
-  "erros": [],
-  "ultima_execucao": "12:52",
-  "execucoes": 10,
+  "erros": [
+   "⚠️ Garimpo parado desde 10:16 — abrir o app Claude e conferir as rotinas\nPouca oferta na fila: achadinhos 2."
+  ],
+  "ultima_execucao": "13:37",
+  "execucoes": 11,
   "telegram_posts": {
-   "achadinhos": 24,
-   "marcas": 13,
-   "tech": 7
+   "achadinhos": 27,
+   "marcas": 15,
+   "tech": 8
   },
   "ultimo_post": {
-   "achadinhos": "13:30",
-   "marcas": "13:36",
-   "tech": "13:22"
+   "achadinhos": "14:15",
+   "marcas": "14:21",
+   "tech": "14:08"
   },
   "meta_token": {
    "tipo": "SYSTEM_USER",
@@ -771,7 +773,8 @@
    "12:40 reels",
    "12:47 story_oferta",
    "13:20 story_convite",
-   "13:22 story_oferta"
+   "13:22 story_oferta",
+   "14:08 story_oferta"
   ],
   "shopee_ligada": true,
   "shopee_oficial_ids": {
@@ -1760,7 +1763,7 @@
    "shopee-58206725032": "desconto longe",
    "shopee-50559775356": "aprovada",
    "shopee-22799189910": "vendas perto (125+)",
-   "shopee-22493521596": "desconto longe",
+   "shopee-22493521596": "aprovada",
    "shopee-58210668407": "vendas perto (125+)",
    "shopee-23294173040": "vendas perto (125+)",
    "shopee-45758904446": "vendas perto (125+)",
@@ -3360,16 +3363,16 @@
    "nota": 804,
    "vendas perto (125+)": 105,
    "outro: marca fora da lista boa": 79,
-   "aprovada": 68,
-   "desconto longe": 55,
+   "aprovada": 69,
+   "desconto longe": 54,
    "desconto perto (até 10 pts)": 23,
    "outro: palavra proibida: compatível": 9
   },
   "instagram": {
-   "seguidores": 348,
+   "seguidores": 350,
    "posts": 78,
-   "reach": 1271,
-   "profile_views": 174,
+   "reach": 1273,
+   "profile_views": 181,
    "website_clicks": 1,
    "stories_ativos": 25
   }
