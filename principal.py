@@ -512,14 +512,17 @@ def garimpo_reserva(h: dict, shopee, agora: datetime, ult_garimpo: datetime | No
     (2) reprise de ofertas postadas há 7–10 dias que AINDA estão no preço (reconferidas: Shopee pela API,
     manual só se ainda no arquivo e na validade). Mesmas regras de qualidade; só loja oficial na Shopee."""
     import random
-    if ult_garimpo and agora - ult_garimpo < timedelta(hours=config.RESERVA_SEM_GARIMPO_H):
-        return
+    # 06/11 (PG · Telegram): o garimpo do PC roda 4×/dia e a fila fica sem folga. Gatilhos: fila < 5 com o PC
+    # sem garimpar há 3 h, OU canal com fila zerada e sem post há 30 min (8h–21h), mesmo com garimpo recente.
+    pc_parado = not ult_garimpo or agora - ult_garimpo >= timedelta(hours=config.RESERVA_SEM_GARIMPO_H)
+    no_horario = 8 <= agora.hour < 21
     for canal in config.CANAIS:
         na_fila = [f for f in h.get("fila", []) if f.get("canal") == canal
                    and not ja_postado_recente(h, f["id"], agora, f.get("nome", ""))]
-        if len(na_fila) >= config.RESERVA_FILA_MIN:
+        zerado = not na_fila and no_horario and minutos_parado(h, canal, agora) >= config.RESERVA_ZERADO_MIN
+        if not ((len(na_fila) < config.RESERVA_FILA_MIN and pc_parado) or zerado):
             continue
-        print(f"[reserva] {canal}: {len(na_fila)} na fila e garimpo do PC parado; buscando na nuvem")
+        print(f"[reserva] {canal}: {len(na_fila)} na fila ({'zerado' if zerado else 'garimpo do PC parado'}); buscando na nuvem")
         if shopee and not shopee.LIMITE_ATINGIDO[0]:
             termos = random.sample(config.BUSCAS[canal], min(config.RESERVA_TERMOS, len(config.BUSCAS[canal])))
             try:
@@ -671,6 +674,16 @@ def soltar_fila(h: dict, telegram, limite: datetime, atraso: bool = True) -> int
         # 05/11: a execução agora dura ~45 min; horário do Instagram que vence no meio da fila sai na hora,
         # em vez de esperar a próxima execução (que podia passar da janela de 50 min e perder o horário)
         agora_ig = datetime.now(FUSO)
+        # 06/11: canal que zera no meio da execução não espera a próxima (a cada 15 min no máximo)
+        if (h.get("reserva_meio", "") < (agora_ig - timedelta(minutes=15)).isoformat()
+                and any(not any(f["canal"] == c for f in h.get("fila", [])) for c in config.CANAIS)):
+            h["reserva_meio"] = agora_ig.isoformat()
+            try:
+                import shopee
+                ult = datetime.fromisoformat(h["ultimo_garimpo"]) if h.get("ultimo_garimpo") else None
+                garimpo_reserva(h, shopee if os.environ.get("SHOPEE_APP_ID") else None, agora_ig, ult)
+            except Exception as e:
+                print(f"[reserva] no meio da fila falhou: {e}")
         if instagram_vencido(h, agora_ig):
             try:
                 # aqui a própria fila cuida do ritmo: sem post extra entre as peças

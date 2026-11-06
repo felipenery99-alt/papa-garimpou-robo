@@ -87,7 +87,8 @@ VIGIA_POST_H = 2
 VIGIA_REPETIR_H = 3
 # 05/11 (1 ano sem o dono): garimpo na nuvem quando o do PC para (ver principal.garimpo_reserva)
 RESERVA_FILA_MIN = 5
-RESERVA_SEM_GARIMPO_H = 6
+RESERVA_SEM_GARIMPO_H = 3      # 06/11: era 6; o garimpo do PC roda 4×/dia e a fila fica sem folga
+RESERVA_ZERADO_MIN = 30        # canal com fila zerada e sem post há 30 min (8h–21h) aciona a reserva mesmo com garimpo recente
 RESERVA_TERMOS = 6
 RESERVA_REPRISE_TENTAR = 8      # quantas ofertas antigas reconferir por canal por execução (cada Shopee = 1 chamada)
 RESERVA_REPRISE_MAX = 3
