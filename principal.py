@@ -525,8 +525,16 @@ def garimpo_reserva(h: dict, shopee, agora: datetime, ult_garimpo: datetime | No
         print(f"[reserva] {canal}: {len(na_fila)} na fila ({'zerado' if zerado else 'garimpo do PC parado'}); buscando na nuvem")
         if shopee and not shopee.LIMITE_ATINGIDO[0]:
             termos = random.sample(config.BUSCAS[canal], min(config.RESERVA_TERMOS, len(config.BUSCAS[canal])))
+            fonte = shopee.buscar_fundo
+            # 06/11 (fila vazia 15h–18h): canal zerado faz varredura completa (todos os termos, páginas 3–6),
+            # no máximo 1 vez por hora por canal, para não estourar o limite da API
+            cheia = h.setdefault("reserva_cheia", {})
+            if zerado and cheia.get(canal, "") < (agora - timedelta(hours=1)).isoformat():
+                cheia[canal] = agora.isoformat()
+                termos = list(config.BUSCAS[canal])
+                fonte = lambda t: shopee.buscar_fundo(t, paginas=(3, 4, 5, 6))
             try:
-                entrar_na_fila(h, canal, garimpar_todas(canal, shopee.buscar_fundo, h, agora, termos), agora)
+                entrar_na_fila(h, canal, garimpar_todas(canal, fonte, h, agora, termos), agora)
             except Exception as e:
                 print(f"[reserva] Shopee {canal}: {e}")
         ids_fila = {f["id"] for f in h.get("fila", [])}

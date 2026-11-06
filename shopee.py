@@ -104,10 +104,10 @@ def buscar(termo: str, limite: int = 50) -> list[dict]:
 
 
 
-def buscar_fundo(termo: str, limite: int = 50) -> list[dict]:
-    """Canal parado (01/11): páginas 3 e 4 do termo, que a busca normal não alcança."""
+def buscar_fundo(termo: str, limite: int = 50, paginas: tuple = (3, 4)) -> list[dict]:
+    """Canal parado (01/11): páginas 3 e 4 do termo, que a busca normal não alcança (06/11: até a 6 no canal zerado)."""
     saida = []
-    for pg in (3, 4):
+    for pg in paginas:
         try:
             saida += _pagina(termo, pg, limite)
         except Exception:
