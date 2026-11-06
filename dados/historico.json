@@ -5180,10 +5180,10 @@
   "2026-11-06 14:25 post_achado",
   "2026-11-06 15:00 adivinha",
   "2026-11-06 15:03 story_oferta",
-  "2026-11-06 16:05 adivinha_resposta"
+  "2026-11-06 16:05 adivinha_resposta",
+  "2026-11-06 16:44 story_oferta"
  ],
  "ig_ofertas_usadas": [
-  "amz-B0GJMKLJ3P",
   "amz-B0F63BW9RD",
   "amz-B08QV3XK76",
   "amz-B07VPFHSDT",
@@ -5382,7 +5382,8 @@
   "amz-B0DVCJGRDG",
   "shopee-52364763614",
   "amz-B07K8XJF9D",
-  "amz-B09SNCWJYL"
+  "amz-B09SNCWJYL",
+  "amz-B0CXL7LNPQ"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
@@ -6089,7 +6090,7 @@
  "pede_semana": "2026-45",
  "ultimo_garimpo": "2026-11-06T13:58:12-03:00",
  "vigia_aviso_post": "2026-11-03T15:13:56.183802-03:00",
- "vigia_aviso_garimpo": "2026-11-06T13:37:20.870599-03:00",
+ "vigia_aviso_garimpo": "2026-11-06T16:50:20.086802-03:00",
  "resumo_enviado": "2026-11-05",
  "token_conferido": "2026-11-06",
  "meta_token": {
