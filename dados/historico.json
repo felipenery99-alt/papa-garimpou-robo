@@ -5184,10 +5184,12 @@
   "2026-11-06 16:44 story_oferta",
   "story especial pede-pro-papa 2026-11-06",
   "2026-11-06 feed",
-  "2026-11-06 16:55 post_achado"
+  "2026-11-06 16:55 post_achado",
+  "2026-11-06 feed",
+  "2026-11-06 17:30 reels",
+  "2026-11-06 17:36 story_oferta"
  ],
  "ig_ofertas_usadas": [
-  "amz-B08QV3XK76",
   "amz-B07VPFHSDT",
   "amz-B0FFTRFCDM",
   "amz-B0CP689L59",
@@ -5386,11 +5388,12 @@
   "amz-B07K8XJF9D",
   "amz-B09SNCWJYL",
   "amz-B0CXL7LNPQ",
-  "shopee-21897631761"
+  "shopee-21897631761",
+  "amz-B094X2N4HV"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
- "ig_ultimo_reel": "2026-11-06T12:43:12.944415-03:00",
+ "ig_ultimo_reel": "2026-11-06T17:41:02.761076-03:00",
  "pecas_usadas": {
   "ac-preco-inflado": "2026-10-27",
   "dc-7-dias": "2026-10-27",
@@ -6020,16 +6023,21 @@
    "shopee-22493521596"
   ],
   "2026-11-06": [
-   "shopee-20111903242",
-   "amz-B01GFYMUPM",
-   "shopee-58201181466",
-   "amz-B0FH3YBBB6",
-   "shopee-52364763614",
+   "amz-B07Y2C1PWG",
+   "shopee-21116473058",
    "amz-B0BYK5T45C",
+   "shopee-52364763614",
+   "shopee-13361302152",
+   "shopee-9511754133",
    "shopee-58211443678",
-   "shopee-23593120156",
+   "shopee-21897631761",
+   "shopee-58201181466",
+   "amz-B01GFYMUPM",
+   "amz-B0FH3YBBB6",
    "shopee-20397809626",
-   "amz-B07Y2C1PWG"
+   "shopee-22997647570",
+   "shopee-20111903242",
+   "shopee-23593120156"
   ]
  },
  "vendas_shopee": {},
@@ -6105,7 +6113,8 @@
  "avisos_parado": [
   "2026-11-05 noite tech",
   "2026-11-06 tarde achadinhos",
-  "2026-11-06 tarde marcas"
+  "2026-11-06 tarde marcas",
+  "2026-11-06 tarde tech"
  ],
  "reserva_meio": "2026-11-06T16:26:54.879180-03:00"
 }
