@@ -610,7 +610,9 @@
   "2026-11-06 tech 16:49 amz-B0CSK79LMB",
   "2026-11-06 marcas 18:20 shopee-42130479011",
   "2026-11-06 tech 19:04 shopee-3258773144",
-  "2026-11-06 tech 19:18 shopee-41117508450"
+  "2026-11-06 tech 19:18 shopee-41117508450",
+  "2026-11-06 achadinhos 19:28 shopee-20298661104",
+  "2026-11-06 tech 19:35 shopee-23592990089"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -805,7 +807,7 @@
   "shopee-22299370593": "2026-10-30T18:30:44.365296-03:00",
   "shopee-23802004388": "2026-10-30T18:55:18.024260-03:00",
   "shopee-18996964739": "2026-10-30T19:04:24.463104-03:00",
-  "shopee-20298661104": "2026-10-30T19:16:41.877384-03:00",
+  "shopee-20298661104": "2026-11-06T19:28:02.167889-03:00",
   "nike-015654ID": "2026-10-30T19:25:26.522904-03:00",
   "amz-B07TV9B7Z3": "2026-10-30T19:39:26.311919-03:00",
   "shopee-19161663337": "2026-10-30T19:46:46.432306-03:00",
@@ -1225,7 +1227,8 @@
   "amz-B0G452FS75": "2026-11-06T16:44:03.522093-03:00",
   "amz-B0CSK79LMB": "2026-11-06T16:49:48.237388-03:00",
   "shopee-3258773144": "2026-11-06T19:04:02.088681-03:00",
-  "shopee-41117508450": "2026-11-06T19:18:15.321266-03:00"
+  "shopee-41117508450": "2026-11-06T19:18:15.321266-03:00",
+  "shopee-23592990089": "2026-11-06T19:35:50.027373-03:00"
  },
  "ofertas_dia": [
   {
@@ -5094,6 +5097,42 @@
    "canal": "tech",
    "entrou": "2026-11-06T18:38:22.297894-03:00",
    "dia": "2026-11-06"
+  },
+  {
+   "id": "shopee-20298661104",
+   "plataforma": "Shopee",
+   "nome": "Sanduicheira Britânia Chapas Antiaderentes 750W BGR02PI",
+   "loja": "Britânia Oficial",
+   "loja_oficial": true,
+   "preco": 69.9,
+   "preco_antigo": 148.72,
+   "desconto": 53,
+   "vendas": 751,
+   "nota": 4.9,
+   "comissao_pct": 3.0,
+   "imagem": "https://cf.shopee.com.br/file/sg-11134201-825b1-mudio5k1r2ti36",
+   "link": "https://s.shopee.com.br/7puZGEDO2n",
+   "canal": "achadinhos",
+   "entrou": "2026-11-06T19:18:40.407411-03:00",
+   "dia": "2026-11-06"
+  },
+  {
+   "id": "shopee-23592990089",
+   "plataforma": "Shopee",
+   "nome": "Baseus Carregador De Parede Rápido Tipo C Super Si Qc 20w para Celulares iPhone Samsung e Outros",
+   "loja": "Baseus Oficial",
+   "loja_oficial": true,
+   "preco": 95.9,
+   "preco_antigo": 168.25,
+   "desconto": 43,
+   "vendas": 502,
+   "nota": 5.0,
+   "comissao_pct": 8.0,
+   "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdvh8jhg6v2198",
+   "link": "https://s.shopee.com.br/6L5oIoIhfU",
+   "canal": "tech",
+   "entrou": "2026-11-06T18:38:22.297894-03:00",
+   "dia": "2026-11-06"
   }
  ],
  "ig_feitos": [
@@ -5247,11 +5286,12 @@
   "2026-11-06 17:36 story_oferta",
   "2026-11-06 18:05 a_ou_b",
   "2026-11-06 18:09 story_oferta",
-  "2026-11-06 18:42 story_oferta"
+  "2026-11-06 18:42 story_oferta",
+  "2026-11-06 feed",
+  "2026-11-06 19:15 post_achado",
+  "2026-11-06 19:17 story_oferta"
  ],
  "ig_ofertas_usadas": [
-  "amz-B0G67DQWZ4",
-  "amz-B09C4T66X3",
   "amz-B0CCXLPKPJ",
   "amz-B0DKY6272P",
   "amz-B0BH59HP23",
@@ -5449,7 +5489,9 @@
   "shopee-13361302152",
   "shopee-21116473058",
   "amz-B0F3FTNCXK",
-  "amz-B0D6Z9YQFD"
+  "amz-B0D6Z9YQFD",
+  "shopee-3258773144",
+  "amz-B0D2RKQWB4"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
@@ -5501,25 +5543,7 @@
   "2026-11-05": 1
  },
  "ultimo_pilar": "blackfriday",
- "fila": [
-  {
-   "id": "shopee-23592990089",
-   "plataforma": "Shopee",
-   "nome": "Baseus Carregador De Parede Rápido Tipo C Super Si Qc 20w para Celulares iPhone Samsung e Outros",
-   "loja": "Baseus Oficial",
-   "loja_oficial": true,
-   "preco": 95.9,
-   "preco_antigo": 168.25,
-   "desconto": 43,
-   "vendas": 502,
-   "nota": 5.0,
-   "comissao_pct": 8.0,
-   "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdvh8jhg6v2198",
-   "link": "https://s.shopee.com.br/6L5oIoIhfU",
-   "canal": "tech",
-   "entrou": "2026-11-06T18:38:22.297894-03:00"
-  }
- ],
+ "fila": [],
  "menus_fixados": [
   "v1 @papagarimpou",
   "v1 @papagarimpoumarcas",
@@ -5567,7 +5591,7 @@
   "heliceventiladormondial30cmultracores": "2026-10-30T18:30:44.365296-03:00",
   "secadortaiffstylepreto2000w127v": "2026-10-30T18:55:18.024260-03:00",
   "creatinapote150gmaxtitanium": "2026-10-30T19:04:24.463104-03:00",
-  "sanduicheirabritaniachapasantiaderentes750wbgr02pi": "2026-10-30T19:16:41.877384-03:00",
+  "sanduicheirabritaniachapasantiaderentes750wbgr02pi": "2026-11-06T19:28:02.167889-03:00",
   "meianikeperformancelightweight3pares": "2026-10-30T19:25:26.522904-03:00",
   "tecladogamerhyperxalloycorergbabnt2": "2026-10-30T19:39:26.311919-03:00",
   "camerainteligentefullhdim3cbrancaintelbras": "2026-10-30T19:46:46.432306-03:00",
@@ -5987,7 +6011,8 @@
   "pendrivesandiskusbc64gbedicaocopadomundo2026": "2026-11-06T16:44:03.522093-03:00",
   "tablettcla1plus128gbtela122": "2026-11-06T16:49:48.237388-03:00",
   "baseusenerfillfn22fastcharger1cpd20w30w45wsafetyprotectionsminigantechadapterforiphone17": "2026-11-06T19:04:02.088681-03:00",
-  "headphonebaseusbh1ncsemfiobluetooth60anc45dbgravesfortes80hbateriasomhires": "2026-11-06T19:18:15.321266-03:00"
+  "headphonebaseusbh1ncsemfiobluetooth60anc45dbgravesfortes80hbateriasomhires": "2026-11-06T19:18:15.321266-03:00",
+  "baseuscarregadordeparederapidotipocsupersiqc20wparacelularesiphonesamsungeoutros": "2026-11-06T19:35:50.027373-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
@@ -6196,7 +6221,8 @@
   "2026-11-06 tarde marcas",
   "2026-11-06 tarde tech",
   "2026-11-06 noite achadinhos",
-  "2026-11-06 noite tech"
+  "2026-11-06 noite tech",
+  "2026-11-06 noite marcas"
  ],
  "reserva_meio": "2026-11-06T19:10:54.677700-03:00",
  "reserva_cheia": {
