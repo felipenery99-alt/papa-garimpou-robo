@@ -607,7 +607,8 @@
   "2026-11-06 tech 16:27 amz-B0H98RHRR4",
   "2026-11-06 tech 16:34 amz-B0FGDLNWWT",
   "2026-11-06 tech 16:44 amz-B0G452FS75",
-  "2026-11-06 tech 16:49 amz-B0CSK79LMB"
+  "2026-11-06 tech 16:49 amz-B0CSK79LMB",
+  "2026-11-06 marcas 18:20 shopee-42130479011"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -796,7 +797,7 @@
   "ml-MLB3972494245": "2026-10-30T17:23:13.096486-03:00",
   "shopee-19599030130": "2026-10-30T17:26:08.609606-03:00",
   "shopee-44228031982": "2026-10-30T17:51:14.275986-03:00",
-  "shopee-42130479011": "2026-10-30T17:57:59.280802-03:00",
+  "shopee-42130479011": "2026-11-06T18:20:03.897621-03:00",
   "shopee-23499563838": "2026-10-30T18:00:40.252268-03:00",
   "shopee-58262054508": "2026-10-30T18:25:04.494548-03:00",
   "shopee-22299370593": "2026-10-30T18:30:44.365296-03:00",
@@ -5035,6 +5036,24 @@
    "gancho": "🔥 TABLETÃO DE 12 POLEGADAS COM MIL REAIS A MENOS",
    "entrou": "2026-11-06T15:04:09.863606-03:00",
    "dia": "2026-11-06"
+  },
+  {
+   "id": "shopee-42130479011",
+   "plataforma": "Shopee",
+   "nome": "Creatina Sabor 7Belo Max Titanium 300g Creatina 7 Belo",
+   "loja": "Hard Extreme",
+   "loja_oficial": true,
+   "preco": 51.49,
+   "preco_antigo": 190.7,
+   "desconto": 73,
+   "vendas": 549,
+   "nota": 4.9,
+   "comissao_pct": 7.0,
+   "imagem": "https://cf.shopee.com.br/file/br-11134207-820l5-mnn3go0t0e0x13",
+   "link": "https://s.shopee.com.br/AUvMcCLd6x",
+   "canal": "marcas",
+   "entrou": "2026-11-06T18:10:57.341699-03:00",
+   "dia": "2026-11-06"
   }
  ],
  "ig_feitos": [
@@ -5183,11 +5202,11 @@
   "2026-11-06 16:05 adivinha_resposta",
   "2026-11-06 16:44 story_oferta",
   "story especial pede-pro-papa 2026-11-06",
-  "2026-11-06 feed",
   "2026-11-06 16:55 post_achado",
-  "2026-11-06 feed",
   "2026-11-06 17:30 reels",
-  "2026-11-06 17:36 story_oferta"
+  "2026-11-06 17:36 story_oferta",
+  "2026-11-06 18:05 a_ou_b",
+  "2026-11-06 18:09 story_oferta"
  ],
  "ig_ofertas_usadas": [
   "amz-B07VPFHSDT",
@@ -5389,7 +5408,10 @@
   "amz-B09SNCWJYL",
   "amz-B0CXL7LNPQ",
   "shopee-21897631761",
-  "amz-B094X2N4HV"
+  "amz-B094X2N4HV",
+  "shopee-13361302152",
+  "shopee-21116473058",
+  "amz-B0F3FTNCXK"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
@@ -5483,7 +5505,7 @@
   "camisetanikedrifitacademymasculina": "2026-10-30T17:23:13.096486-03:00",
   "heliceparaventiladormondial6pas30cm": "2026-10-30T17:26:08.609606-03:00",
   "kitprotetorsolar50fps200mlprotetorsolar50fps100mlniveasunniveasun200ml100ml": "2026-10-30T17:51:14.275986-03:00",
-  "creatinasabor7belomaxtitanium300gcreatina7belo": "2026-10-30T17:57:59.280802-03:00",
+  "creatinasabor7belomaxtitanium300gcreatina7belo": "2026-11-06T18:20:03.897621-03:00",
   "kit2botaotimerknobairfryermondialafn40afn50afn60afn80": "2026-10-30T18:00:40.252268-03:00",
   "promocaokitqueroseneperfumadonaturacleankit2litroslimpezaprofundaconcentrada": "2026-10-30T18:25:04.494548-03:00",
   "heliceventiladormondial30cmultracores": "2026-10-30T18:30:44.365296-03:00",
@@ -6114,7 +6136,9 @@
   "2026-11-05 noite tech",
   "2026-11-06 tarde achadinhos",
   "2026-11-06 tarde marcas",
-  "2026-11-06 tarde tech"
+  "2026-11-06 tarde tech",
+  "2026-11-06 noite achadinhos",
+  "2026-11-06 noite tech"
  ],
  "reserva_meio": "2026-11-06T16:26:54.879180-03:00"
 }
