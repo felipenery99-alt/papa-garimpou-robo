@@ -605,7 +605,9 @@
   "2026-11-06 tech 16:11 amz-B0DK3TXCZH",
   "2026-11-06 marcas 16:18 shopee-9511754133",
   "2026-11-06 tech 16:27 amz-B0H98RHRR4",
-  "2026-11-06 tech 16:34 amz-B0FGDLNWWT"
+  "2026-11-06 tech 16:34 amz-B0FGDLNWWT",
+  "2026-11-06 tech 16:44 amz-B0G452FS75",
+  "2026-11-06 tech 16:49 amz-B0CSK79LMB"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -1216,7 +1218,9 @@
   "amz-B0B8TQ7YRW": "2026-11-06T16:03:36.320190-03:00",
   "amz-B0DK3TXCZH": "2026-11-06T16:11:07.593655-03:00",
   "amz-B0H98RHRR4": "2026-11-06T16:27:18.847062-03:00",
-  "amz-B0FGDLNWWT": "2026-11-06T16:34:07.907257-03:00"
+  "amz-B0FGDLNWWT": "2026-11-06T16:34:07.907257-03:00",
+  "amz-B0G452FS75": "2026-11-06T16:44:03.522093-03:00",
+  "amz-B0CSK79LMB": "2026-11-06T16:49:48.237388-03:00"
  },
  "ofertas_dia": [
   {
@@ -4999,6 +5003,38 @@
    "gancho": "310HZ: O MONITOR É MAIS RÁPIDO QUE SEU REFLEXO",
    "entrou": "2026-11-06T12:52:13.102692-03:00",
    "dia": "2026-11-06"
+  },
+  {
+   "id": "amz-B0G452FS75",
+   "canal": "tech",
+   "nome": "Pendrive SanDisk USB-C 64GB edição Copa do Mundo 2026",
+   "preco_antigo": 144.43,
+   "preco": 89.99,
+   "desconto": 38,
+   "link": "https://www.amazon.com.br/dp/B0G452FS75?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/611axxII-TL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-07T22:00:00-03:00",
+   "gancho": "🔥 PENDRIVE DA COPA PRA GUARDAR OS GOLS",
+   "entrou": "2026-11-06T15:04:09.863606-03:00",
+   "dia": "2026-11-06"
+  },
+  {
+   "id": "amz-B0CSK79LMB",
+   "canal": "tech",
+   "nome": "Tablet TCL A1 Plus 128GB tela 12,2\"",
+   "preco_antigo": 2499.0,
+   "preco": 1449.0,
+   "desconto": 42,
+   "link": "https://www.amazon.com.br/dp/B0CSK79LMB?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61yV06xWv5L._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-07T22:00:00-03:00",
+   "gancho": "🔥 TABLETÃO DE 12 POLEGADAS COM MIL REAIS A MENOS",
+   "entrou": "2026-11-06T15:04:09.863606-03:00",
+   "dia": "2026-11-06"
   }
  ],
  "ig_feitos": [
@@ -5398,38 +5434,7 @@
   "2026-11-05": 1
  },
  "ultimo_pilar": "blackfriday",
- "fila": [
-  {
-   "id": "amz-B0G452FS75",
-   "canal": "tech",
-   "nome": "Pendrive SanDisk USB-C 64GB edição Copa do Mundo 2026",
-   "preco_antigo": 144.43,
-   "preco": 89.99,
-   "desconto": 38,
-   "link": "https://www.amazon.com.br/dp/B0G452FS75?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/611axxII-TL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-07T22:00:00-03:00",
-   "gancho": "🔥 PENDRIVE DA COPA PRA GUARDAR OS GOLS",
-   "entrou": "2026-11-06T15:04:09.863606-03:00"
-  },
-  {
-   "id": "amz-B0CSK79LMB",
-   "canal": "tech",
-   "nome": "Tablet TCL A1 Plus 128GB tela 12,2\"",
-   "preco_antigo": 2499.0,
-   "preco": 1449.0,
-   "desconto": 42,
-   "link": "https://www.amazon.com.br/dp/B0CSK79LMB?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61yV06xWv5L._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-07T22:00:00-03:00",
-   "gancho": "🔥 TABLETÃO DE 12 POLEGADAS COM MIL REAIS A MENOS",
-   "entrou": "2026-11-06T15:04:09.863606-03:00"
-  }
- ],
+ "fila": [],
  "menus_fixados": [
   "v1 @papagarimpou",
   "v1 @papagarimpoumarcas",
@@ -5893,7 +5898,9 @@
   "perfumelattafaasadeaudeparfum100ml": "2026-11-06T16:03:36.320190-03:00",
   "fonebluetoothjbltunebuds2branco": "2026-11-06T16:11:07.593655-03:00",
   "smartwatchamazfitbipmaxamoled207": "2026-11-06T16:27:18.847062-03:00",
-  "monitorgameraocagon25310hzips25g4s": "2026-11-06T16:34:07.907257-03:00"
+  "monitorgameraocagon25310hzips25g4s": "2026-11-06T16:34:07.907257-03:00",
+  "pendrivesandiskusbc64gbedicaocopadomundo2026": "2026-11-06T16:44:03.522093-03:00",
+  "tablettcla1plus128gbtela122": "2026-11-06T16:49:48.237388-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
@@ -6092,7 +6099,8 @@
   "acesso_vence": "-"
  },
  "avisos_parado": [
-  "2026-11-05 noite tech"
+  "2026-11-05 noite tech",
+  "2026-11-06 tarde achadinhos"
  ],
  "reserva_meio": "2026-11-06T16:26:54.879180-03:00"
 }
