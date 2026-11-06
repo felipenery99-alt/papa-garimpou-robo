@@ -6092,7 +6092,7 @@
  "story_link_dia": "2026-11-06",
  "pede_semana": "2026-45",
  "ultimo_garimpo": "2026-11-06T13:58:12-03:00",
- "vigia_aviso_post": "2026-11-03T15:13:56.183802-03:00",
+ "vigia_aviso_post": "2026-11-06T17:26:15.920568-03:00",
  "vigia_aviso_garimpo": "2026-11-06T16:50:20.086802-03:00",
  "resumo_enviado": "2026-11-05",
  "token_conferido": "2026-11-06",
@@ -6104,7 +6104,8 @@
  },
  "avisos_parado": [
   "2026-11-05 noite tech",
-  "2026-11-06 tarde achadinhos"
+  "2026-11-06 tarde achadinhos",
+  "2026-11-06 tarde marcas"
  ],
  "reserva_meio": "2026-11-06T16:26:54.879180-03:00"
 }
