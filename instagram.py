@@ -237,6 +237,11 @@ def carrossel(imagens: list[bytes], prefixo: str, legenda: str, colaboradores: l
                                           **({"collaborators": json.dumps(colaboradores)} if colaboradores else {})))
 
 
+def permalink(media_id: str) -> str:
+    r = requests.get(f"{G}/{media_id}", params={"access_token": _token(), "fields": "permalink,shortcode"}, timeout=30).json()
+    return r.get("permalink") or r.get("shortcode") or str(r)
+
+
 def reels(video: bytes, legenda: str) -> str:
     """Publica um Reels (também vai para o feed). O vídeo sobe direto para a Meta
     (upload resumable), sem passar pelo repositório, para não inchar o git."""

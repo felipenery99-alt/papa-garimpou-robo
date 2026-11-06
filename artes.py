@@ -443,6 +443,31 @@ def capa_salvavel(categoria: str, teto: int) -> bytes:
     return _jpeg(img)
 
 
+def card_porta(titulo: list[str], linhas: list[str], paleta: int = 0, rodape: str = "") -> bytes:
+    """06/11 (CEO): cartões de texto (1080x1350) do carrossel "porta de entrada", fixado no topo do perfil."""
+    tema = PALETAS_OFERTA[paleta]
+    img = _gradiente(1080, 1350, *tema["fundo"]).convert("RGBA")
+    d = ImageDraw.Draw(img)
+    img.alpha_composite(_selo(300), (382, 110))
+    y = 500
+    for t in titulo:
+        f = _fonte(118)
+        while d.textlength(t, font=f) > 960:
+            f = _fonte(f.size - 4)
+        _centro(d, y, t, f, tema["texto"])
+        y += f.size + 18
+    y += 40
+    for l in linhas:
+        _centro(d, y, l, _fonte(54, "Bold"), (255, 255, 255) if paleta != 6 else tema["texto"])
+        y += 74
+    if rodape:
+        f = _fonte(58)
+        w = d.textlength(rodape, font=f) + 90
+        d.rounded_rectangle(((1080 - w) / 2, 1170, (1080 + w) / 2, 1270), radius=50, fill=tema["destaque"])
+        _centro(d, 1183, rodape, f, tema["destaque_txt"])
+    return _jpeg(img)
+
+
 def capa_semana(n: int = 5) -> bytes:
     """Capa do carrossel de sábado: Top N da semana (maiores descontos ainda no preço)."""
     tema = PALETAS_OFERTA[2]

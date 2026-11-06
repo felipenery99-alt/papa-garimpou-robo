@@ -361,8 +361,13 @@ def conferir_oferta(o: dict, agora: datetime) -> dict | None:
         novo = {**o, **achados[0], "canal": o["canal"]}
         return novo if qualidade.avaliar(novo, o["canal"])[0] else None
     man = {m["id"]: m for m in (json.loads(MANUAIS.read_text(encoding="utf-8")) if MANUAIS.exists() else [])}
+    # 06/11: a sessão Telegram passou a tirar do arquivo o que já foi postado. Sem o item no arquivo, vale a
+    # validade que veio com ele (gravada no histórico); sem validade nenhuma, fica de fora (na dúvida, não entra).
     m = man.get(o["id"])
-    if not m or (m.get("valida_ate") and m["valida_ate"] < agora.isoformat()):
+    if m is None and not o.get("valida_ate"):
+        return None
+    m = m or o
+    if m.get("valida_ate") and m["valida_ate"] < agora.isoformat():
         return None
     return {**o, **m}
 
@@ -768,6 +773,53 @@ def publicar_interativo(tipo: str, h: dict, agora: datetime, tag: str, ofertas: 
     return True
 
 
+PORTA = PASTA / "dados" / "porta.txt"
+PORTA_VERSAO = "porta-v1"
+
+
+def publicar_porta(h: dict, agora: datetime, tag: str) -> None:
+    """06/11 (CEO): carrossel "porta de entrada" para fixar no topo do perfil (seguidor → membro do Telegram).
+    Sai uma vez (PORTA_VERSAO). 3 cartões de texto + 3 ofertas reais da semana ainda no preço (reconferidas).
+    Grava id e link do post em dados/porta.txt para a sessão Instagram fixar."""
+    import artes
+    import instagram
+    feitos = h.setdefault("ig_feitos", [])
+    if PORTA_VERSAO in feitos or agora.hour < 8:
+        return
+    semana = (agora - timedelta(days=7)).date().isoformat()
+    candidatas = sorted((o for o in h.get("ofertas_dia", []) if o.get("dia", "") >= semana and o.get("preco_antigo")
+                         and liberada_ig(o, agora)), key=qualidade.pontuar, reverse=True)
+    top, nomes = [], set()
+    for o in candidatas:
+        if chave_nome(o["nome"]) in nomes:
+            continue
+        novo = conferir_oferta(o, agora)
+        if novo:
+            top.append(novo)
+            nomes.add(chave_nome(o["nome"]))
+        if len(top) == 3:
+            break
+    if len(top) < 3:
+        print(f"[porta] só {len(top)} oferta(s) ainda no preço; tento na próxima execução")
+        return
+    slides = [artes.card_porta(["QUER O LINK", "DAS OFERTAS?"], ["Marca boa, loja oficial,", "desconto de verdade."], 0,
+                               "arrasta pro lado →"),
+              artes.card_porta(["ELAS SAEM", "PRIMEIRO NO", "TELEGRAM"], ["Grátis. Sem spam.", "Sai quando quiser."], 1)] \
+        + [artes.post_oferta(o, o["canal"]) for o in top] \
+        + [artes.card_porta(["COMENTA", "TELEGRAM"], ["que o Papa te manda", "o convite no direct ↓"], 4, "COMENTA: TELEGRAM")]
+    lista = "\n".join(f"{i+1}. {o['nome'][:60]} — {post._brl(o['preco'])}" for i, o in enumerate(top))
+    leg = ("😎💎 Quer o link das ofertas? Elas saem primeiro no Telegram: grátis, sem spam, sai quando quiser.\n\n"
+           f"Algumas desta semana (preço da loja na hora do post):\n{lista}" + LEGENDA_CTA)
+    mid = instagram.carrossel(slides, f"{tag}-porta", leg)
+    try:
+        link = instagram.permalink(mid)
+    except Exception as e:
+        link = f"(sem permalink: {e})"
+    PORTA.write_text(f"{mid} {link}\n", encoding="utf-8")
+    feitos.append(PORTA_VERSAO)
+    print(f"[ig] porta de entrada publicada: {link}")
+
+
 def publicar_salvavel(h: dict, agora: datetime, tag: str) -> bool:
     """Carrossel semanal "salvável": 5 melhores <categoria> de marca até R$ X (ofertas reais dos últimos
     7 dias + fila manual), girando a categoria. Quem comenta QUERO recebe os 5 links no direct."""
@@ -843,6 +895,10 @@ def rodar_instagram(h: dict, agora: datetime) -> None:
                and liberada_ig(o, agora)]
     # a que saiu primeiro no Telegram, quando libera, é a próxima do Instagram (com o selo)
     ofertas.sort(key=lambda o: "so_telegram_ate" not in o)
+    try:
+        publicar_porta(h, agora, tag)
+    except Exception as e:
+        telegram.avisar_dono(f"Instagram: carrossel porta de entrada falhou: {e}")
     # Carrossel especial escolhido à mão (ex.: post para impulsionar): sai uma vez, na primeira execução
     esp_arq = Path(__file__).parent / "instagram_especial.json"
     if esp_arq.exists():
