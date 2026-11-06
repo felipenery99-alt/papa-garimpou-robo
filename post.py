@@ -42,7 +42,8 @@ GANCHOS = [
     (r"shampoo|facial|hidrat|protetor|s[ée]rum|maquiagem|cabelo|barbeador|aparador",
      ["AUTOCUIDADO SEM PESAR NO BOLSO", "A PELE PEDIU, O PAPA ACHOU"]),
 ]
-GANCHOS_GERAIS = ["O PAPA GARIMPOU ESSA", "BAIXOU! CORRE QUE É POR TEMPO LIMITADO", "ACHADO DE MARCA COM PREÇO DE AMIGO"]
+# 06/11: tirado "BAIXOU! CORRE QUE É POR TEMPO LIMITADO" (urgência inventada: o Papa não sabe se a oferta tem prazo)
+GANCHOS_GERAIS = ["O PAPA GARIMPOU ESSA", "PREÇO BOM DE MARCA BOA", "ACHADO DE MARCA COM PREÇO DE AMIGO"]
 
 
 def gancho(oferta: dict) -> str:
