@@ -599,7 +599,13 @@
   "2026-11-06 tech 15:28 amz-B0FVBH3L33",
   "2026-11-06 marcas 15:34 shopee-22897053962",
   "2026-11-06 tech 15:42 amz-B0DVMQVVDY",
-  "2026-11-06 marcas 15:48 shopee-50559775356"
+  "2026-11-06 marcas 15:48 shopee-50559775356",
+  "2026-11-06 marcas 15:59 amz-B0GHSFJZGX",
+  "2026-11-06 marcas 16:03 amz-B0B8TQ7YRW",
+  "2026-11-06 tech 16:11 amz-B0DK3TXCZH",
+  "2026-11-06 marcas 16:18 shopee-9511754133",
+  "2026-11-06 tech 16:27 amz-B0H98RHRR4",
+  "2026-11-06 tech 16:34 amz-B0FGDLNWWT"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -764,7 +770,7 @@
   "shopee-58255413156": "2026-10-30T13:01:32.427662-03:00",
   "ml-MLBU4074557041": "2026-10-30T13:11:10.532773-03:00",
   "shopee-21897631761": "2026-11-06T15:13:49.462838-03:00",
-  "shopee-9511754133": "2026-10-30T13:52:01.273245-03:00",
+  "shopee-9511754133": "2026-11-06T16:18:53.425191-03:00",
   "shopee-18797677549": "2026-10-30T14:05:13.376756-03:00",
   "shopee-20299205359": "2026-10-30T14:19:24.024099-03:00",
   "shopee-22397314985": "2026-10-30T14:33:24.012715-03:00",
@@ -1205,7 +1211,12 @@
   "amz-B0FVBH3L33": "2026-11-06T15:28:06.631407-03:00",
   "shopee-22897053962": "2026-11-06T15:34:30.918732-03:00",
   "amz-B0DVMQVVDY": "2026-11-06T15:42:08.252705-03:00",
-  "shopee-50559775356": "2026-11-06T15:48:40.924455-03:00"
+  "shopee-50559775356": "2026-11-06T15:48:40.924455-03:00",
+  "amz-B0GHSFJZGX": "2026-11-06T15:59:01.908176-03:00",
+  "amz-B0B8TQ7YRW": "2026-11-06T16:03:36.320190-03:00",
+  "amz-B0DK3TXCZH": "2026-11-06T16:11:07.593655-03:00",
+  "amz-B0H98RHRR4": "2026-11-06T16:27:18.847062-03:00",
+  "amz-B0FGDLNWWT": "2026-11-06T16:34:07.907257-03:00"
  },
  "ofertas_dia": [
   {
@@ -4889,6 +4900,105 @@
    "canal": "marcas",
    "entrou": "2026-11-06T12:52:13.102692-03:00",
    "dia": "2026-11-06"
+  },
+  {
+   "id": "amz-B0GHSFJZGX",
+   "canal": "marcas",
+   "nome": "Tênis Mizuno Space 6",
+   "preco_antigo": 379.99,
+   "preco": 229.9,
+   "desconto": 39,
+   "link": "https://www.amazon.com.br/dp/B0GHSFJZGX?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/7118EafoNrL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-07T22:00:00-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "entrou": "2026-11-06T14:22:26.862703-03:00",
+   "dia": "2026-11-06"
+  },
+  {
+   "id": "amz-B0B8TQ7YRW",
+   "canal": "marcas",
+   "nome": "Perfume Lattafa Asad Eau de Parfum 100ml",
+   "preco_antigo": 339.0,
+   "preco": 177.9,
+   "desconto": 48,
+   "link": "https://www.amazon.com.br/dp/B0B8TQ7YRW?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61gxV0Gl6hL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-07T22:00:00-03:00",
+   "extra": "Vendido pela própria Amazon.com.br",
+   "gancho": "LATTAFA ASAD VENDIDO PELA AMAZON",
+   "entrou": "2026-11-06T14:22:26.862703-03:00",
+   "dia": "2026-11-06"
+  },
+  {
+   "id": "amz-B0DK3TXCZH",
+   "canal": "tech",
+   "nome": "Fone Bluetooth JBL Tune Buds 2 Branco",
+   "preco_antigo": 599.0,
+   "preco": 341.05,
+   "desconto": 43,
+   "link": "https://www.amazon.com.br/dp/B0DK3TXCZH?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51IQTz7idCL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-06T22:00:00-03:00",
+   "gancho": "JBL NO OUVIDO COM 43% OFF, O PAPA ESCUTOU ESSA",
+   "entrou": "2026-11-06T12:52:13.102692-03:00",
+   "dia": "2026-11-06"
+  },
+  {
+   "id": "shopee-9511754133",
+   "plataforma": "Shopee",
+   "nome": "Creatina Max Titanium 300g Pura",
+   "loja": "Hard Extreme",
+   "loja_oficial": true,
+   "preco": 41.0,
+   "preco_antigo": 178.26,
+   "desconto": 77,
+   "vendas": 6476,
+   "nota": 4.9,
+   "comissao_pct": 10.0,
+   "imagem": "https://cf.shopee.com.br/file/sg-11134201-22100-7b7tjvynfbivb7",
+   "link": "https://s.shopee.com.br/4LKh608GDJ",
+   "canal": "marcas",
+   "entrou": "2026-11-06T15:04:09.863606-03:00",
+   "dia": "2026-11-06"
+  },
+  {
+   "id": "amz-B0H98RHRR4",
+   "canal": "tech",
+   "nome": "Smartwatch Amazfit Bip Max AMOLED 2,07\"",
+   "preco_antigo": 699.0,
+   "preco": 483.55,
+   "desconto": 31,
+   "link": "https://www.amazon.com.br/dp/B0H98RHRR4?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61yapcUVHcL._AC_SL1000_.jpg",
+   "loja": "Loja oficial Amazfit · entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-06T22:00:00-03:00",
+   "gancho": "20 DIAS DE BATERIA E O PREÇO TAMBÉM DESCARREGOU",
+   "entrou": "2026-11-06T12:52:13.102692-03:00",
+   "dia": "2026-11-06"
+  },
+  {
+   "id": "amz-B0FGDLNWWT",
+   "canal": "tech",
+   "nome": "Monitor Gamer AOC AGON 25\" 310Hz IPS 25G4S",
+   "preco_antigo": 1499.0,
+   "preco": 999.97,
+   "desconto": 33,
+   "link": "https://www.amazon.com.br/dp/B0FGDLNWWT?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71mc98kWRjL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-06T22:00:00-03:00",
+   "gancho": "310HZ: O MONITOR É MAIS RÁPIDO QUE SEU REFLEXO",
+   "entrou": "2026-11-06T12:52:13.102692-03:00",
+   "dia": "2026-11-06"
   }
  ],
  "ig_feitos": [
@@ -5033,7 +5143,8 @@
   "2026-11-06 14:08 story_oferta",
   "2026-11-06 14:25 post_achado",
   "2026-11-06 15:00 adivinha",
-  "2026-11-06 15:03 story_oferta"
+  "2026-11-06 15:03 story_oferta",
+  "2026-11-06 16:05 adivinha_resposta"
  ],
  "ig_ofertas_usadas": [
   "amz-B0GJMKLJ3P",
@@ -5289,82 +5400,6 @@
  "ultimo_pilar": "blackfriday",
  "fila": [
   {
-   "id": "amz-B0DK3TXCZH",
-   "canal": "tech",
-   "nome": "Fone Bluetooth JBL Tune Buds 2 Branco",
-   "preco_antigo": 599.0,
-   "preco": 341.05,
-   "desconto": 43,
-   "link": "https://www.amazon.com.br/dp/B0DK3TXCZH?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51IQTz7idCL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-06T22:00:00-03:00",
-   "gancho": "JBL NO OUVIDO COM 43% OFF, O PAPA ESCUTOU ESSA",
-   "entrou": "2026-11-06T12:52:13.102692-03:00"
-  },
-  {
-   "id": "amz-B0H98RHRR4",
-   "canal": "tech",
-   "nome": "Smartwatch Amazfit Bip Max AMOLED 2,07\"",
-   "preco_antigo": 699.0,
-   "preco": 483.55,
-   "desconto": 31,
-   "link": "https://www.amazon.com.br/dp/B0H98RHRR4?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61yapcUVHcL._AC_SL1000_.jpg",
-   "loja": "Loja oficial Amazfit · entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-06T22:00:00-03:00",
-   "gancho": "20 DIAS DE BATERIA E O PREÇO TAMBÉM DESCARREGOU",
-   "entrou": "2026-11-06T12:52:13.102692-03:00"
-  },
-  {
-   "id": "amz-B0FGDLNWWT",
-   "canal": "tech",
-   "nome": "Monitor Gamer AOC AGON 25\" 310Hz IPS 25G4S",
-   "preco_antigo": 1499.0,
-   "preco": 999.97,
-   "desconto": 33,
-   "link": "https://www.amazon.com.br/dp/B0FGDLNWWT?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/71mc98kWRjL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-06T22:00:00-03:00",
-   "gancho": "310HZ: O MONITOR É MAIS RÁPIDO QUE SEU REFLEXO",
-   "entrou": "2026-11-06T12:52:13.102692-03:00"
-  },
-  {
-   "id": "amz-B0GHSFJZGX",
-   "canal": "marcas",
-   "nome": "Tênis Mizuno Space 6",
-   "preco_antigo": 379.99,
-   "preco": 229.9,
-   "desconto": 39,
-   "link": "https://www.amazon.com.br/dp/B0GHSFJZGX?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/7118EafoNrL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-07T22:00:00-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "entrou": "2026-11-06T14:22:26.862703-03:00"
-  },
-  {
-   "id": "amz-B0B8TQ7YRW",
-   "canal": "marcas",
-   "nome": "Perfume Lattafa Asad Eau de Parfum 100ml",
-   "preco_antigo": 339.0,
-   "preco": 177.9,
-   "desconto": 48,
-   "link": "https://www.amazon.com.br/dp/B0B8TQ7YRW?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61gxV0Gl6hL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-07T22:00:00-03:00",
-   "extra": "Vendido pela própria Amazon.com.br",
-   "gancho": "LATTAFA ASAD VENDIDO PELA AMAZON",
-   "entrou": "2026-11-06T14:22:26.862703-03:00"
-  },
-  {
    "id": "amz-B0G452FS75",
    "canal": "tech",
    "nome": "Pendrive SanDisk USB-C 64GB edição Copa do Mundo 2026",
@@ -5393,23 +5428,6 @@
    "valida_ate": "2026-11-07T22:00:00-03:00",
    "gancho": "🔥 TABLETÃO DE 12 POLEGADAS COM MIL REAIS A MENOS",
    "entrou": "2026-11-06T15:04:09.863606-03:00"
-  },
-  {
-   "id": "shopee-9511754133",
-   "plataforma": "Shopee",
-   "nome": "Creatina Max Titanium 300g Pura",
-   "loja": "Hard Extreme",
-   "loja_oficial": true,
-   "preco": 41.0,
-   "preco_antigo": 178.26,
-   "desconto": 77,
-   "vendas": 6476,
-   "nota": 4.9,
-   "comissao_pct": 10.0,
-   "imagem": "https://cf.shopee.com.br/file/sg-11134201-22100-7b7tjvynfbivb7",
-   "link": "https://s.shopee.com.br/4LKh608GDJ",
-   "canal": "marcas",
-   "entrou": "2026-11-06T15:04:09.863606-03:00"
   }
  ],
  "menus_fixados": [
@@ -5429,7 +5447,7 @@
   "laminarefilduplocompativelbarbeadorphilipsonebladereposicaoqp14xqp25xqp26xqp27xqp28xqp65xqp66x": "2026-10-30T13:01:32.427662-03:00",
   "tenisnikerevolution8feminino": "2026-10-30T13:11:10.532773-03:00",
   "secadordecabelotaiffnewtourmalineprofissional2100w": "2026-11-06T15:13:49.462838-03:00",
-  "creatinamaxtitanium300gpura": "2026-10-30T13:52:01.273245-03:00",
+  "creatinamaxtitanium300gpura": "2026-11-06T16:18:53.425191-03:00",
   "secadordecabelotaiffstyleprofissionaloriginal2000w": "2026-10-30T14:05:13.376756-03:00",
   "secadordecabelotaiffblackionprofissionaloriginal2000w": "2026-10-30T14:19:24.024099-03:00",
   "creatinapote100gmaxtitanium": "2026-10-30T14:33:24.012715-03:00",
@@ -5870,7 +5888,12 @@
   "caixadesomjblgripaprovadaguapreta": "2026-11-06T15:28:06.631407-03:00",
   "kitcom3camisetasmasculinasbasicasslimhering": "2026-11-06T15:34:30.918732-03:00",
   "fonesemfiophilipstwstat1109bluetooth": "2026-11-06T15:42:08.252705-03:00",
-  "tenisdecorridaunissexrespiravelchallenger6olympikus": "2026-11-06T15:48:40.924455-03:00"
+  "tenisdecorridaunissexrespiravelchallenger6olympikus": "2026-11-06T15:48:40.924455-03:00",
+  "tenismizunospace6": "2026-11-06T15:59:01.908176-03:00",
+  "perfumelattafaasadeaudeparfum100ml": "2026-11-06T16:03:36.320190-03:00",
+  "fonebluetoothjbltunebuds2branco": "2026-11-06T16:11:07.593655-03:00",
+  "smartwatchamazfitbipmaxamoled207": "2026-11-06T16:27:18.847062-03:00",
+  "monitorgameraocagon25310hzips25g4s": "2026-11-06T16:34:07.907257-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
@@ -6071,5 +6094,5 @@
  "avisos_parado": [
   "2026-11-05 noite tech"
  ],
- "reserva_meio": "2026-11-06T15:48:12.681037-03:00"
+ "reserva_meio": "2026-11-06T16:26:54.879180-03:00"
 }
