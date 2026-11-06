@@ -608,7 +608,9 @@
   "2026-11-06 tech 16:34 amz-B0FGDLNWWT",
   "2026-11-06 tech 16:44 amz-B0G452FS75",
   "2026-11-06 tech 16:49 amz-B0CSK79LMB",
-  "2026-11-06 marcas 18:20 shopee-42130479011"
+  "2026-11-06 marcas 18:20 shopee-42130479011",
+  "2026-11-06 tech 19:04 shopee-3258773144",
+  "2026-11-06 tech 19:18 shopee-41117508450"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -1221,7 +1223,9 @@
   "amz-B0H98RHRR4": "2026-11-06T16:27:18.847062-03:00",
   "amz-B0FGDLNWWT": "2026-11-06T16:34:07.907257-03:00",
   "amz-B0G452FS75": "2026-11-06T16:44:03.522093-03:00",
-  "amz-B0CSK79LMB": "2026-11-06T16:49:48.237388-03:00"
+  "amz-B0CSK79LMB": "2026-11-06T16:49:48.237388-03:00",
+  "shopee-3258773144": "2026-11-06T19:04:02.088681-03:00",
+  "shopee-41117508450": "2026-11-06T19:18:15.321266-03:00"
  },
  "ofertas_dia": [
   {
@@ -5054,6 +5058,42 @@
    "canal": "marcas",
    "entrou": "2026-11-06T18:10:57.341699-03:00",
    "dia": "2026-11-06"
+  },
+  {
+   "id": "shopee-3258773144",
+   "plataforma": "Shopee",
+   "nome": "Baseus EnerFill FN22 Fast Charger 1C PD 20W/30W/45W Safety Protections Mini Gan Tech Adapter for IPhone 17",
+   "loja": "Baseus Oficial Store",
+   "loja_oficial": true,
+   "preco": 48.99,
+   "preco_antigo": 139.97,
+   "desconto": 65,
+   "vendas": 496,
+   "nota": 4.9,
+   "comissao_pct": 7.0,
+   "imagem": "https://cf.shopee.com.br/file/cn-11134207-820l4-mmzna00skykoe1",
+   "link": "https://s.shopee.com.br/BVAxTgBAm",
+   "canal": "tech",
+   "entrou": "2026-11-06T18:38:22.297894-03:00",
+   "dia": "2026-11-06"
+  },
+  {
+   "id": "shopee-41117508450",
+   "plataforma": "Shopee",
+   "nome": "Headphone Baseus BH1 NC Sem Fio Bluetooth 6.0 ANC -45 dB Graves Fortes 80h Bateria Som Hi-Res",
+   "loja": "Baseus Oficial",
+   "loja_oficial": true,
+   "preco": 179.0,
+   "preco_antigo": 372.92,
+   "desconto": 52,
+   "vendas": 349,
+   "nota": 4.9,
+   "comissao_pct": 8.0,
+   "imagem": "https://cf.shopee.com.br/file/br-11134207-820mb-moeztwaqtibpb4",
+   "link": "https://s.shopee.com.br/8VAIsnWWOP",
+   "canal": "tech",
+   "entrou": "2026-11-06T18:38:22.297894-03:00",
+   "dia": "2026-11-06"
   }
  ],
  "ig_feitos": [
@@ -5206,13 +5246,10 @@
   "2026-11-06 17:30 reels",
   "2026-11-06 17:36 story_oferta",
   "2026-11-06 18:05 a_ou_b",
-  "2026-11-06 18:09 story_oferta"
+  "2026-11-06 18:09 story_oferta",
+  "2026-11-06 18:42 story_oferta"
  ],
  "ig_ofertas_usadas": [
-  "amz-B07VPFHSDT",
-  "amz-B0FFTRFCDM",
-  "amz-B0CP689L59",
-  "amz-B0HF1N8QGR",
   "amz-B0G67DQWZ4",
   "amz-B09C4T66X3",
   "amz-B0CCXLPKPJ",
@@ -5411,7 +5448,8 @@
   "amz-B094X2N4HV",
   "shopee-13361302152",
   "shopee-21116473058",
-  "amz-B0F3FTNCXK"
+  "amz-B0F3FTNCXK",
+  "amz-B0D6Z9YQFD"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
@@ -5463,7 +5501,25 @@
   "2026-11-05": 1
  },
  "ultimo_pilar": "blackfriday",
- "fila": [],
+ "fila": [
+  {
+   "id": "shopee-23592990089",
+   "plataforma": "Shopee",
+   "nome": "Baseus Carregador De Parede Rápido Tipo C Super Si Qc 20w para Celulares iPhone Samsung e Outros",
+   "loja": "Baseus Oficial",
+   "loja_oficial": true,
+   "preco": 95.9,
+   "preco_antigo": 168.25,
+   "desconto": 43,
+   "vendas": 502,
+   "nota": 5.0,
+   "comissao_pct": 8.0,
+   "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdvh8jhg6v2198",
+   "link": "https://s.shopee.com.br/6L5oIoIhfU",
+   "canal": "tech",
+   "entrou": "2026-11-06T18:38:22.297894-03:00"
+  }
+ ],
  "menus_fixados": [
   "v1 @papagarimpou",
   "v1 @papagarimpoumarcas",
@@ -5929,7 +5985,9 @@
   "smartwatchamazfitbipmaxamoled207": "2026-11-06T16:27:18.847062-03:00",
   "monitorgameraocagon25310hzips25g4s": "2026-11-06T16:34:07.907257-03:00",
   "pendrivesandiskusbc64gbedicaocopadomundo2026": "2026-11-06T16:44:03.522093-03:00",
-  "tablettcla1plus128gbtela122": "2026-11-06T16:49:48.237388-03:00"
+  "tablettcla1plus128gbtela122": "2026-11-06T16:49:48.237388-03:00",
+  "baseusenerfillfn22fastcharger1cpd20w30w45wsafetyprotectionsminigantechadapterforiphone17": "2026-11-06T19:04:02.088681-03:00",
+  "headphonebaseusbh1ncsemfiobluetooth60anc45dbgravesfortes80hbateriasomhires": "2026-11-06T19:18:15.321266-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
@@ -6140,5 +6198,10 @@
   "2026-11-06 noite achadinhos",
   "2026-11-06 noite tech"
  ],
- "reserva_meio": "2026-11-06T16:26:54.879180-03:00"
+ "reserva_meio": "2026-11-06T19:10:54.677700-03:00",
+ "reserva_cheia": {
+  "achadinhos": "2026-11-06T18:38:22.297894-03:00",
+  "tech": "2026-11-06T18:38:22.297894-03:00",
+  "marcas": "2026-11-06T19:10:54.677700-03:00"
+ }
 }
