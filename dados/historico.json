@@ -3905,10 +3905,6 @@
   "2026-11-05 21:24 story_oferta"
  ],
  "ig_ofertas_usadas": [
-  "amz-B09V1SM8QB",
-  "amz-B0FPNXM7TF",
-  "amz-B09KYCNZHM",
-  "amz-B07GPRWFC5",
   "amz-B087CT8PWY",
   "amz-B083V5LJPF",
   "amz-B09JH4PD8Q",
@@ -5239,7 +5235,7 @@
  "ultimo_garimpo": "2026-11-05T22:01:35-03:00",
  "vigia_aviso_post": "2026-11-03T15:13:56.183802-03:00",
  "vigia_aviso_garimpo": "2026-11-05T20:08:11.064906-03:00",
- "resumo_enviado": "2026-11-04",
+ "resumo_enviado": "2026-11-05",
  "token_conferido": "2026-11-05",
  "meta_token": {
   "tipo": "SYSTEM_USER",
