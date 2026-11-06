@@ -727,8 +727,8 @@
    "canal tech sem oferta na fila há 82 min (busca extra também não achou). Abastecer ofertas_manuais.json.",
    "canal marcas sem oferta na fila há 59 min (busca extra também não achou). Abastecer ofertas_manuais.json."
   ],
-  "ultima_execucao": "19:18",
-  "execucoes": 23,
+  "ultima_execucao": "19:36",
+  "execucoes": 24,
   "telegram_posts": {
    "achadinhos": 32,
    "marcas": 24,
@@ -5792,11 +5792,18 @@
    "shopee-58258964147": "nota",
    "shopee-44284366171": "vendas longe",
    "shopee-47917710331": "vendas longe",
-   "shopee-45667398606": "nota"
+   "shopee-45667398606": "nota",
+   "shopee-40659470836": "vendas longe",
+   "shopee-54219721287": "nota",
+   "shopee-41585394478": "nota",
+   "shopee-23692886665": "vendas longe",
+   "shopee-23692886645": "vendas longe",
+   "shopee-22797383485": "vendas longe",
+   "shopee-22792892155": "vendas longe"
   },
   "shopee_oficial": {
-   "vendas longe": 2601,
-   "nota": 1955,
+   "vendas longe": 2606,
+   "nota": 1957,
    "outro: marca fora da lista boa": 117,
    "vendas perto (125+)": 112,
    "aprovada": 77,
@@ -5806,10 +5813,10 @@
    "outro: palavra proibida: universal": 1
   },
   "instagram": {
-   "seguidores": 373,
+   "seguidores": 374,
    "posts": 82,
-   "reach": 1284,
-   "profile_views": 210,
+   "reach": 1288,
+   "profile_views": 213,
    "website_clicks": 2,
    "stories_ativos": 25
   }
