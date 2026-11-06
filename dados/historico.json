@@ -534,7 +534,10 @@
   "2026-11-05 marcas 21:12 amz-B0GMS6H7HG",
   "2026-11-05 marcas 21:18 amz-B000LCV6KK",
   "2026-11-05 marcas 21:26 amz-B0FLQL3VZT",
-  "2026-11-05 marcas 21:33 amz-B0CPT537TY"
+  "2026-11-05 marcas 21:33 amz-B0CPT537TY",
+  "2026-11-05 marcas 21:43 amz-B0DZ33GNYP",
+  "2026-11-05 marcas 21:49 amz-B0FWS5QZH2",
+  "2026-11-05 marcas 21:56 amz-B0H5MJ2GZS"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -1077,7 +1080,10 @@
   "amz-B0GMS6H7HG": "2026-11-05T21:12:13.880622-03:00",
   "amz-B000LCV6KK": "2026-11-05T21:18:39.196646-03:00",
   "amz-B0FLQL3VZT": "2026-11-05T21:26:44.409843-03:00",
-  "amz-B0CPT537TY": "2026-11-05T21:33:49.017508-03:00"
+  "amz-B0CPT537TY": "2026-11-05T21:33:49.017508-03:00",
+  "amz-B0DZ33GNYP": "2026-11-05T21:43:37.174072-03:00",
+  "amz-B0FWS5QZH2": "2026-11-05T21:49:43.552108-03:00",
+  "amz-B0H5MJ2GZS": "2026-11-05T21:56:09.479086-03:00"
  },
  "ofertas_dia": [
   {
@@ -3686,6 +3692,56 @@
    "gancho": "LACOSTE RED 125ML PELA METADE, VENDIDO PELA AMAZON",
    "entrou": "2026-11-05T20:50:16.528849-03:00",
    "dia": "2026-11-05"
+  },
+  {
+   "id": "amz-B0DZ33GNYP",
+   "canal": "marcas",
+   "nome": "Camiseta Insider Performance T-shirt 2.0 Masculina",
+   "preco_antigo": 249.0,
+   "preco": 113.13,
+   "desconto": 55,
+   "link": "https://www.amazon.com.br/dp/B0DZ33GNYP?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/41RG623ckzL._AC_SL1000_.jpg",
+   "loja": "Loja oficial Insider · entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-06T22:00:00-03:00",
+   "gancho": "INSIDER COM 55% OFF: A CAMISETA QUE AGUENTA O TREINO E A REUNIÃO",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "entrou": "2026-11-05T20:50:16.528849-03:00",
+   "dia": "2026-11-05"
+  },
+  {
+   "id": "amz-B0FWS5QZH2",
+   "canal": "marcas",
+   "nome": "Kit 2 Camisetas Reserva com Bolso Pica-Pau",
+   "preco_antigo": 338.0,
+   "preco": 134.9,
+   "desconto": 60,
+   "link": "https://www.amazon.com.br/dp/B0FWS5QZH2?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/41E9X77z5zL._AC_SL1200_.jpg",
+   "loja": "Loja oficial Reserva · entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-06T22:00:00-03:00",
+   "gancho": "2 CAMISETAS RESERVA COM 60% OFF: O PICA-PAU APROVA",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "entrou": "2026-11-05T20:50:16.528849-03:00",
+   "dia": "2026-11-05"
+  },
+  {
+   "id": "amz-B0H5MJ2GZS",
+   "canal": "marcas",
+   "nome": "Mochila Mizuno Endevour 22 Litros Off White",
+   "preco_antigo": 199.99,
+   "preco": 96.05,
+   "desconto": 52,
+   "link": "https://www.amazon.com.br/dp/B0H5MJ2GZS?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51Ho-40NZhL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-06T22:00:00-03:00",
+   "gancho": "MOCHILA MIZUNO PELA METADE: CABE O TREINO E O MARMITEX",
+   "entrou": "2026-11-05T20:50:16.528849-03:00",
+   "dia": "2026-11-05"
   }
  ],
  "ig_feitos": [
@@ -4104,55 +4160,7 @@
   "2026-11-05": 1
  },
  "ultimo_pilar": "blackfriday",
- "fila": [
-  {
-   "id": "amz-B0DZ33GNYP",
-   "canal": "marcas",
-   "nome": "Camiseta Insider Performance T-shirt 2.0 Masculina",
-   "preco_antigo": 249.0,
-   "preco": 113.13,
-   "desconto": 55,
-   "link": "https://www.amazon.com.br/dp/B0DZ33GNYP?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/41RG623ckzL._AC_SL1000_.jpg",
-   "loja": "Loja oficial Insider · entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-06T22:00:00-03:00",
-   "gancho": "INSIDER COM 55% OFF: A CAMISETA QUE AGUENTA O TREINO E A REUNIÃO",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "entrou": "2026-11-05T20:50:16.528849-03:00"
-  },
-  {
-   "id": "amz-B0FWS5QZH2",
-   "canal": "marcas",
-   "nome": "Kit 2 Camisetas Reserva com Bolso Pica-Pau",
-   "preco_antigo": 338.0,
-   "preco": 134.9,
-   "desconto": 60,
-   "link": "https://www.amazon.com.br/dp/B0FWS5QZH2?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/41E9X77z5zL._AC_SL1200_.jpg",
-   "loja": "Loja oficial Reserva · entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-06T22:00:00-03:00",
-   "gancho": "2 CAMISETAS RESERVA COM 60% OFF: O PICA-PAU APROVA",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "entrou": "2026-11-05T20:50:16.528849-03:00"
-  },
-  {
-   "id": "amz-B0H5MJ2GZS",
-   "canal": "marcas",
-   "nome": "Mochila Mizuno Endevour 22 Litros Off White",
-   "preco_antigo": 199.99,
-   "preco": 96.05,
-   "desconto": 52,
-   "link": "https://www.amazon.com.br/dp/B0H5MJ2GZS?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51Ho-40NZhL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-06T22:00:00-03:00",
-   "gancho": "MOCHILA MIZUNO PELA METADE: CABE O TREINO E O MARMITEX",
-   "entrou": "2026-11-05T20:50:16.528849-03:00"
-  }
- ],
+ "fila": [],
  "menus_fixados": [
   "v1 @papagarimpou",
   "v1 @papagarimpoumarcas",
@@ -4548,7 +4556,10 @@
   "tenisdecorridaunderarmourchargedquicker2": "2026-11-05T21:12:13.880622-03:00",
   "relogiocasiodigitalaq230a7dmqprata": "2026-11-05T21:18:39.196646-03:00",
   "tenisdetreinounderarmourtribasereps2se": "2026-11-05T21:26:44.409843-03:00",
-  "perfumelacosteredmasculinoedt125ml": "2026-11-05T21:33:49.017508-03:00"
+  "perfumelacosteredmasculinoedt125ml": "2026-11-05T21:33:49.017508-03:00",
+  "camisetainsiderperformancetshirt20masculina": "2026-11-05T21:43:37.174072-03:00",
+  "kit2camisetasreservacombolsopicapau": "2026-11-05T21:49:43.552108-03:00",
+  "mochilamizunoendevour22litrosoffwhite": "2026-11-05T21:56:09.479086-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
@@ -4734,5 +4745,8 @@
   "valido": true,
   "vence": "não vence",
   "acesso_vence": "-"
- }
+ },
+ "avisos_parado": [
+  "2026-11-05 noite tech"
+ ]
 }
