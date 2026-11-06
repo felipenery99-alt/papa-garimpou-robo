@@ -620,8 +620,8 @@
    "⚠️ Fila vazia (marcas), último garimpo 17:44 — abrir o app Claude e conferir as rotinas",
    "canal tech sem oferta na fila há 51 min (busca extra também não achou). Abastecer ofertas_manuais.json."
   ],
-  "ultima_execucao": "22:47",
-  "execucoes": 26,
+  "ultima_execucao": "23:25",
+  "execucoes": 27,
   "telegram_posts": {
    "achadinhos": 31,
    "marcas": 29,
@@ -3360,23 +3360,26 @@
    "shopee-58220444294": "vendas longe",
    "shopee-58220452473": "nota",
    "shopee-23094547197": "outro: marca fora da lista boa",
-   "shopee-22593947940": "vendas longe"
+   "shopee-22593947940": "vendas longe",
+   "shopee-23298198388": "vendas longe",
+   "shopee-58263776868": "outro: palavra proibida: compatível",
+   "shopee-57061308811": "nota"
   },
   "shopee_oficial": {
-   "vendas longe": 1482,
-   "nota": 845,
+   "vendas longe": 1483,
+   "nota": 846,
    "vendas perto (125+)": 106,
    "outro: marca fora da lista boa": 81,
    "aprovada": 65,
    "desconto longe": 57,
    "desconto perto (até 10 pts)": 24,
-   "outro: palavra proibida: compatível": 10
+   "outro: palavra proibida: compatível": 11
   },
   "instagram": {
-   "seguidores": 282,
+   "seguidores": 291,
    "posts": 74,
    "reach": 5659,
-   "profile_views": 137,
+   "profile_views": 138,
    "website_clicks": 1,
    "stories_ativos": 25
   },
