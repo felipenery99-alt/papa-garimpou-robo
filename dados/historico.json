@@ -544,7 +544,12 @@
   "2026-11-06 marcas 08:41 amz-B0FBY8JN4T",
   "2026-11-06 tech 08:48 amz-B0GFNW2VCL",
   "2026-11-06 achadinhos 08:55 amz-B07Y2C1PWG",
-  "2026-11-06 marcas 09:03 amz-B0H7FM41M4"
+  "2026-11-06 marcas 09:03 amz-B0H7FM41M4",
+  "2026-11-06 achadinhos 09:13 amz-B0FQFPXPDS",
+  "2026-11-06 achadinhos 09:21 amz-B01GFYMUPM",
+  "2026-11-06 marcas 09:28 amz-B0FH3YBBB6",
+  "2026-11-06 tech 09:37 amz-B0FPDW9PLB",
+  "2026-11-06 achadinhos 09:44 amz-B0DVCJGRDG"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -1097,7 +1102,12 @@
   "amz-B0FBY8JN4T": "2026-11-06T08:41:14.884192-03:00",
   "amz-B0GFNW2VCL": "2026-11-06T08:48:39.433478-03:00",
   "amz-B07Y2C1PWG": "2026-11-06T08:55:37.870790-03:00",
-  "amz-B0H7FM41M4": "2026-11-06T09:03:30.935728-03:00"
+  "amz-B0H7FM41M4": "2026-11-06T09:03:30.935728-03:00",
+  "amz-B0FQFPXPDS": "2026-11-06T09:13:52.735926-03:00",
+  "amz-B01GFYMUPM": "2026-11-06T09:21:47.831223-03:00",
+  "amz-B0FH3YBBB6": "2026-11-06T09:28:47.256626-03:00",
+  "amz-B0FPDW9PLB": "2026-11-06T09:37:12.413183-03:00",
+  "amz-B0DVCJGRDG": "2026-11-06T09:44:58.707144-03:00"
  },
  "ofertas_dia": [
   {
@@ -3872,6 +3882,89 @@
    "extra": "Preço a partir de: varia por tamanho e cor",
    "entrou": "2026-11-06T08:17:57.514188-03:00",
    "dia": "2026-11-06"
+  },
+  {
+   "id": "amz-B0FQFPXPDS",
+   "canal": "achadinhos",
+   "nome": "Secador de Cabelo Philips Série 8000 Secagem Ultrarrápida",
+   "preco_antigo": 1429.9,
+   "preco": 698.95,
+   "desconto": 51,
+   "link": "https://www.amazon.com.br/dp/B0FQFPXPDS?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/41nxr0tAgcL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-06T22:00:00-03:00",
+   "gancho": "SECADOR TOP DA PHILIPS PELA METADE, SECA ATÉ O PREÇO",
+   "nao_antes": "2026-11-06T09:00:00-03:00",
+   "so_telegram_ate": "2026-11-06T11:13:52.735926-03:00",
+   "entrou": "2026-11-06T08:17:57.514188-03:00",
+   "dia": "2026-11-06"
+  },
+  {
+   "id": "amz-B01GFYMUPM",
+   "canal": "achadinhos",
+   "nome": "Serra Mármore Makita 110mm",
+   "preco_antigo": 533.95,
+   "preco": 341.91,
+   "desconto": 36,
+   "link": "https://www.amazon.com.br/dp/B01GFYMUPM?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51dhO-mIjNL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-06T22:00:00-03:00",
+   "gancho": "MAKITA CORTA PISO E CORTA R$ 190 DO PREÇO",
+   "entrou": "2026-11-06T08:17:57.514188-03:00",
+   "dia": "2026-11-06"
+  },
+  {
+   "id": "amz-B0FH3YBBB6",
+   "canal": "marcas",
+   "nome": "Tênis Fila Fastness Masculino",
+   "preco_antigo": 349.99,
+   "preco": 196.99,
+   "desconto": 44,
+   "link": "https://www.amazon.com.br/dp/B0FH3YBBB6?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51iSDzfkmXL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-06T22:00:00-03:00",
+   "gancho": "FILA FASTNESS COM 44% OFF: CORRER ATRÁS DE OFERTA NUNCA FOI TÃO CONFORTÁVEL",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "entrou": "2026-11-06T08:17:57.514188-03:00",
+   "dia": "2026-11-06"
+  },
+  {
+   "id": "amz-B0FPDW9PLB",
+   "canal": "tech",
+   "nome": "Monitor Gamer TCL 25\" QD-Mini LED 300Hz",
+   "preco_antigo": 1799.0,
+   "preco": 1159.2,
+   "desconto": 36,
+   "link": "https://www.amazon.com.br/dp/B0FPDW9PLB?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/91P194qjQmL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-06T22:00:00-03:00",
+   "gancho": "MINI LED E 300HZ COM 36% OFF, TÁ ROUBADO",
+   "entrou": "2026-11-06T08:17:57.514188-03:00",
+   "dia": "2026-11-06"
+  },
+  {
+   "id": "amz-B0DVCJGRDG",
+   "canal": "achadinhos",
+   "nome": "Kit Furadeira de Impacto Bosch GSB 13 RE + X-Line 33 peças",
+   "preco_antigo": 639.8,
+   "preco": 420.66,
+   "desconto": 34,
+   "link": "https://www.amazon.com.br/dp/B0DVCJGRDG?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/513dD1baaRL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-06T22:00:00-03:00",
+   "gancho": "BOSCH COM KIT DE 33 PEÇAS: FURA PAREDE, NÃO O BOLSO",
+   "entrou": "2026-11-06T08:17:57.514188-03:00",
+   "dia": "2026-11-06"
   }
  ],
  "ig_feitos": [
@@ -3998,13 +4091,12 @@
   "porta-v1",
   "2026-11-06 08:07 story_oferta",
   "2026-11-06 08:45 story_oferta",
-  "2026-11-06 08:52 story_oferta"
+  "2026-11-06 08:52 story_oferta",
+  "2026-11-06 feed",
+  "2026-11-06 09:35 reels",
+  "2026-11-06 09:38 story_oferta"
  ],
  "ig_ofertas_usadas": [
-  "amz-B087CT8PWY",
-  "amz-B083V5LJPF",
-  "amz-B09JH4PD8Q",
-  "amz-B0FMYSGWLK",
   "amz-B0CWBJTLF4",
   "amz-B0G731G5GK",
   "amz-B0G1TS4K54",
@@ -4203,11 +4295,12 @@
   "shopee-16168525614",
   "shopee-20111903242",
   "amz-B0BYK5T45C",
-  "amz-B076X6TXTC"
+  "amz-B076X6TXTC",
+  "amz-B0FBY8JN4T"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
- "ig_ultimo_reel": "2026-11-05T21:11:27.049191-03:00",
+ "ig_ultimo_reel": "2026-11-06T09:36:24.700168-03:00",
  "pecas_usadas": {
   "ac-preco-inflado": "2026-10-27",
   "dc-7-dias": "2026-10-27",
@@ -4256,53 +4349,6 @@
  },
  "ultimo_pilar": "blackfriday",
  "fila": [
-  {
-   "id": "amz-B0FQFPXPDS",
-   "canal": "achadinhos",
-   "nome": "Secador de Cabelo Philips Série 8000 Secagem Ultrarrápida",
-   "preco_antigo": 1429.9,
-   "preco": 698.95,
-   "desconto": 51,
-   "link": "https://www.amazon.com.br/dp/B0FQFPXPDS?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/41nxr0tAgcL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-06T22:00:00-03:00",
-   "gancho": "SECADOR TOP DA PHILIPS PELA METADE, SECA ATÉ O PREÇO",
-   "nao_antes": "2026-11-06T09:00:00-03:00",
-   "so_telegram_ate": "2026-11-06T11:00:00-03:00",
-   "entrou": "2026-11-06T08:17:57.514188-03:00"
-  },
-  {
-   "id": "amz-B01GFYMUPM",
-   "canal": "achadinhos",
-   "nome": "Serra Mármore Makita 110mm",
-   "preco_antigo": 533.95,
-   "preco": 341.91,
-   "desconto": 36,
-   "link": "https://www.amazon.com.br/dp/B01GFYMUPM?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51dhO-mIjNL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-06T22:00:00-03:00",
-   "gancho": "MAKITA CORTA PISO E CORTA R$ 190 DO PREÇO",
-   "entrou": "2026-11-06T08:17:57.514188-03:00"
-  },
-  {
-   "id": "amz-B0DVCJGRDG",
-   "canal": "achadinhos",
-   "nome": "Kit Furadeira de Impacto Bosch GSB 13 RE + X-Line 33 peças",
-   "preco_antigo": 639.8,
-   "preco": 420.66,
-   "desconto": 34,
-   "link": "https://www.amazon.com.br/dp/B0DVCJGRDG?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/513dD1baaRL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-06T22:00:00-03:00",
-   "gancho": "BOSCH COM KIT DE 33 PEÇAS: FURA PAREDE, NÃO O BOLSO",
-   "entrou": "2026-11-06T08:17:57.514188-03:00"
-  },
   {
    "id": "amz-B09SNCWJYL",
    "canal": "achadinhos",
@@ -4406,22 +4452,6 @@
    "plataforma": "Amazon",
    "valida_ate": "2026-11-06T22:00:00-03:00",
    "gancho": "ESCOVA SECADORA QUASE PELA METADE, ESCOVA ATÉ O PREÇO",
-   "entrou": "2026-11-06T08:17:57.514188-03:00"
-  },
-  {
-   "id": "amz-B0FH3YBBB6",
-   "canal": "marcas",
-   "nome": "Tênis Fila Fastness Masculino",
-   "preco_antigo": 349.99,
-   "preco": 196.99,
-   "desconto": 44,
-   "link": "https://www.amazon.com.br/dp/B0FH3YBBB6?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51iSDzfkmXL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-06T22:00:00-03:00",
-   "gancho": "FILA FASTNESS COM 44% OFF: CORRER ATRÁS DE OFERTA NUNCA FOI TÃO CONFORTÁVEL",
-   "extra": "Preço a partir de: varia por tamanho e cor",
    "entrou": "2026-11-06T08:17:57.514188-03:00"
   },
   {
@@ -4529,21 +4559,6 @@
    "plataforma": "Amazon",
    "valida_ate": "2026-11-06T22:00:00-03:00",
    "gancho": "OAKLEY HOLBROOK 43% OFF: O SOL FICA FORTE, O PREÇO FICA FRACO",
-   "entrou": "2026-11-06T08:17:57.514188-03:00"
-  },
-  {
-   "id": "amz-B0FPDW9PLB",
-   "canal": "tech",
-   "nome": "Monitor Gamer TCL 25\" QD-Mini LED 300Hz",
-   "preco_antigo": 1799.0,
-   "preco": 1159.2,
-   "desconto": 36,
-   "link": "https://www.amazon.com.br/dp/B0FPDW9PLB?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/91P194qjQmL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-06T22:00:00-03:00",
-   "gancho": "MINI LED E 300HZ COM 36% OFF, TÁ ROUBADO",
    "entrou": "2026-11-06T08:17:57.514188-03:00"
   },
   {
@@ -5274,7 +5289,12 @@
   "tenismasculinoreeboknanogym": "2026-11-06T08:41:14.884192-03:00",
   "jogocodeveiniiplaystation5": "2026-11-06T08:48:39.433478-03:00",
   "geldelimpezafaciallarocheposayeffaclaraltatolerancia": "2026-11-06T08:55:37.870790-03:00",
-  "kit6cuecasboxerpumasemcosturatoquegeladodryfit": "2026-11-06T09:03:30.935728-03:00"
+  "kit6cuecasboxerpumasemcosturatoquegeladodryfit": "2026-11-06T09:03:30.935728-03:00",
+  "secadordecabelophilipsserie8000secagemultrarrapida": "2026-11-06T09:13:52.735926-03:00",
+  "serramarmoremakita110mm": "2026-11-06T09:21:47.831223-03:00",
+  "tenisfilafastnessmasculino": "2026-11-06T09:28:47.256626-03:00",
+  "monitorgamertcl25qdminiled300hz": "2026-11-06T09:37:12.413183-03:00",
+  "kitfuradeiradeimpactoboschgsb13rexline33pecas": "2026-11-06T09:44:58.707144-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
@@ -5388,6 +5408,13 @@
    "amz-B07MRMHML9",
    "amz-B0C15596N6",
    "shopee-22493521596"
+  ],
+  "2026-11-06": [
+   "amz-B0FH3YBBB6",
+   "shopee-20111903242",
+   "amz-B01GFYMUPM",
+   "amz-B07Y2C1PWG",
+   "amz-B0BYK5T45C"
   ]
  },
  "vendas_shopee": {},
