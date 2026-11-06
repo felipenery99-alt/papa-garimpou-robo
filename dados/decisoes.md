@@ -90,3 +90,11 @@
 - Alavanca nova (Telegram atrasado): o Reels é o que trouxe gente nova (alcance 28×) e todo Reels termina com o convite dos 4 canais. O post de achado das 09:35 vira o **4º Reels do dia** (ofertas diferentes dos outros 3; sem oferta nova, Reels de dica do banco). Mesmo número de publicações por dia. Ensaio OK.
 - Próximo: medir em 06/11 se o alcance se mantém e se membros sobem; contar quantas Shopee oficiais com 250–499 vendas foram postadas.
 - Pedido ao dono: (1) a rotina local do garimpo Amazon segue parando (vigia avisou 2×); (2) divulgar os 4 canais no status do WhatsApp (custo zero).
+
+## 2026-11-06 (rotina do CEO)
+- Visto (05/11): 27 execuções, 25 stories ativos (piso ok), feed ok. Telegram: 31 achadinhos, 29 marcas, 21 tech. **Seguidores 151→291 (+140, recorde)**, alcance 5.659, visitas 138, 1 clique na bio. Membros: 3+3+5+5 = 16 (parado).
+- Erros: Reels 12:40 (ProcessingFailedError da Meta) e post_achado 19:15 (push recusado); os dois já corrigidos em 05/11 (até 3 novas tentativas por peça e push com 5 tentativas). Vigia: fila vazia do Marcas e tech sem oferta por 51 min (rotina local do garimpo).
+- META: Instagram 291 de 195 até 10/11 (**batida antes do prazo**) → meta de 17/11 sobe 30%: 300 → 390. Telegram 16 de 80 até 10/11 (**atrasado**).
+- Alavanca nova (Telegram atrasado): quem comenta QUERO no carrossel recebe a DM com os links de produto, mas sem convite do Telegram. Agora essa DM termina com "Quer achados assim todo dia, grátis? Entra no Telegram do Papa" + convite medido "ig-dm". É o lead mais quente; custo zero. Ensaio OK.
+- Próximo: medir em 07/11 entradas pelo convite ig-dm e se o alcance do Reels se mantém.
+- Pedido ao dono: (1) a rotina local do garimpo segue deixando a fila secar à tarde; (2) divulgar os 4 canais no status do WhatsApp (custo zero).
