@@ -620,8 +620,8 @@
    "⚠️ Fila vazia (marcas), último garimpo 17:44 — abrir o app Claude e conferir as rotinas",
    "canal tech sem oferta na fila há 51 min (busca extra também não achou). Abastecer ofertas_manuais.json."
   ],
-  "ultima_execucao": "21:34",
-  "execucoes": 23,
+  "ultima_execucao": "22:06",
+  "execucoes": 24,
   "telegram_posts": {
    "achadinhos": 31,
    "marcas": 29,
@@ -632,7 +632,7 @@
    "marcas": "21:56",
    "tech": "20:43"
   },
-  "ultimo_garimpo": "05/11 20:49",
+  "ultimo_garimpo": "05/11 22:01",
   "convites_story": {
    "story-20261101": 0,
    "story-20261102": 0,
@@ -1068,7 +1068,7 @@
    "shopee-15848213372": "desconto perto (até 10 pts)",
    "shopee-20999203046": "aprovada",
    "shopee-22197499150": "desconto longe",
-   "shopee-18799069741": "desconto longe",
+   "shopee-18799069741": "desconto perto (até 10 pts)",
    "shopee-23599291516": "desconto perto (até 10 pts)",
    "shopee-23892661522": "desconto perto (até 10 pts)",
    "shopee-58254966835": "desconto perto (até 10 pts)",
@@ -1271,7 +1271,7 @@
    "shopee-58217294676": "vendas longe",
    "shopee-22899187560": "vendas longe",
    "shopee-58219289376": "nota",
-   "shopee-58270837352": "nota",
+   "shopee-58270837352": "vendas longe",
    "shopee-58269181039": "nota",
    "shopee-58204215663": "vendas longe",
    "shopee-58219289403": "nota",
@@ -3362,17 +3362,17 @@
    "shopee-23094547197": "outro: marca fora da lista boa"
   },
   "shopee_oficial": {
-   "vendas longe": 1480,
-   "nota": 846,
+   "vendas longe": 1481,
+   "nota": 845,
    "vendas perto (125+)": 106,
    "outro: marca fora da lista boa": 81,
    "aprovada": 65,
-   "desconto longe": 58,
-   "desconto perto (até 10 pts)": 23,
+   "desconto longe": 57,
+   "desconto perto (até 10 pts)": 24,
    "outro: palavra proibida: compatível": 10
   },
   "instagram": {
-   "seguidores": 265,
+   "seguidores": 273,
    "posts": 74,
    "reach": 5653,
    "profile_views": 133,
