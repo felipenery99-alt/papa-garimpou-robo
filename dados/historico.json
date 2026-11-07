@@ -5309,11 +5309,13 @@
   "2026-11-06 feed",
   "2026-11-06 19:15 post_achado",
   "2026-11-06 19:17 story_oferta",
-  "2026-11-06 20:03 story_oferta"
+  "2026-11-06 20:03 story_oferta",
+  "2026-11-06 20:35 story_top4",
+  "2026-11-06 feed",
+  "2026-11-06 20:50 post_achado",
+  "2026-11-06 20:38 story_oferta"
  ],
  "ig_ofertas_usadas": [
-  "amz-B0DKY6272P",
-  "amz-B0BH59HP23",
   "amz-B08TLH52PQ",
   "amz-B09KYBB6YN",
   "amz-B0BFT7XG6C",
@@ -5511,7 +5513,9 @@
   "amz-B0D6Z9YQFD",
   "shopee-3258773144",
   "amz-B0D2RKQWB4",
-  "amz-B0941752F2"
+  "amz-B0941752F2",
+  "shopee-41117508450",
+  "amz-B0C9K6SKTG"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
