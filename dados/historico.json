@@ -5617,7 +5617,8 @@
   "2026-11-07 14:25 post_achado",
   "2026-11-07 15:00 adivinha",
   "2026-11-07 15:03 story_oferta",
-  "2026-11-07 16:05 adivinha_resposta"
+  "2026-11-07 16:05 adivinha_resposta",
+  "2026-11-07 16:44 story_oferta"
  ],
  "ig_ofertas_usadas": [
   "shopee-9511754133",
@@ -5870,12 +5871,13 @@
   "bf-2026-11-07": "2026-11-07",
   "bs-anonimo": "2026-11-07",
   "ac-entrega-falsa": "2026-11-07",
-  "dc-historico": "2026-11-07"
+  "dc-historico": "2026-11-07",
+  "ac-sorteio-fake": "2026-11-07"
  },
  "pecas_dia": {
-  "2026-11-07": 5
+  "2026-11-07": 6
  },
- "ultimo_pilar": "dica",
+ "ultimo_pilar": "anticilada",
  "fila": [],
  "menus_fixados": [
   "v1 @papagarimpou",
