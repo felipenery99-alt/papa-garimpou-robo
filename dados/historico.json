@@ -624,7 +624,8 @@
   "2026-11-07 achadinhos 09:18 shopee-58261216325",
   "2026-11-07 marcas 09:26 shopee-18216465769",
   "2026-11-07 achadinhos 09:33 shopee-58254966835",
-  "2026-11-07 achadinhos 09:43 shopee-27231768018"
+  "2026-11-07 achadinhos 09:43 shopee-27231768018",
+  "2026-11-07 achadinhos 09:52 shopee-21997684262"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -836,7 +837,7 @@
   "nike-016269ID": "2026-10-30T21:58:28.949352-03:00",
   "shopee-27231768018": "2026-11-07T09:43:24.086407-03:00",
   "nike-004386ID": "2026-10-31T08:27:49.576516-03:00",
-  "shopee-21997684262": "2026-10-31T08:34:14.238285-03:00",
+  "shopee-21997684262": "2026-11-07T09:52:26.330308-03:00",
   "nike-079609MT": "2026-10-31T08:39:18.146993-03:00",
   "shopee-23094056729": "2026-10-31T08:43:34.716805-03:00",
   "shopee-22396095321": "2026-10-31T09:05:11.173180-03:00",
@@ -5367,6 +5368,24 @@
    "canal": "achadinhos",
    "entrou": "2026-11-07T09:02:42.188661-03:00",
    "dia": "2026-11-07"
+  },
+  {
+   "id": "shopee-21997684262",
+   "plataforma": "Shopee",
+   "nome": "Sanduicheira e Grill Britânia 2 em 1 750W BGRE01",
+   "loja": "Britânia Oficial",
+   "loja_oficial": true,
+   "preco": 79.9,
+   "preco_antigo": 140.18,
+   "desconto": 43,
+   "vendas": 1061,
+   "nota": 4.9,
+   "comissao_pct": 3.0,
+   "imagem": "https://cf.shopee.com.br/file/sg-11134201-8258u-mudiny7ntseea9",
+   "link": "https://s.shopee.com.br/6q224OHC4Z",
+   "canal": "achadinhos",
+   "entrou": "2026-11-07T09:02:42.188661-03:00",
+   "dia": "2026-11-07"
   }
  ],
  "ig_feitos": [
@@ -5755,25 +5774,7 @@
   "2026-11-05": 1
  },
  "ultimo_pilar": "blackfriday",
- "fila": [
-  {
-   "id": "shopee-21997684262",
-   "plataforma": "Shopee",
-   "nome": "Sanduicheira e Grill Britânia 2 em 1 750W BGRE01",
-   "loja": "Britânia Oficial",
-   "loja_oficial": true,
-   "preco": 79.9,
-   "preco_antigo": 140.18,
-   "desconto": 43,
-   "vendas": 1061,
-   "nota": 4.9,
-   "comissao_pct": 3.0,
-   "imagem": "https://cf.shopee.com.br/file/sg-11134201-8258u-mudiny7ntseea9",
-   "link": "https://s.shopee.com.br/6q224OHC4Z",
-   "canal": "achadinhos",
-   "entrou": "2026-11-07T09:02:42.188661-03:00"
-  }
- ],
+ "fila": [],
  "menus_fixados": [
   "v1 @papagarimpou",
   "v1 @papagarimpoumarcas",
@@ -5838,7 +5839,7 @@
   "camisetanikesportswearclubmasculina": "2026-10-30T21:58:28.949352-03:00",
   "cafeteiraeletricaelectroluxecm1015xicaras600wgrafite110v": "2026-11-07T09:43:24.086407-03:00",
   "camisetajordansportswearjumpmanairmasculina": "2026-10-31T08:27:49.576516-03:00",
-  "sanduicheiraegrillbritania2em1750wbgre01": "2026-10-31T08:34:14.238285-03:00",
+  "sanduicheiraegrillbritania2em1750wbgre01": "2026-11-07T09:52:26.330308-03:00",
   "camisetacorinthiansnike2026treinomasculina": "2026-10-31T08:39:18.146993-03:00",
   "jogodefaqueirotramontinabuzios24pecastalheresemacoinox": "2026-10-31T08:43:34.716805-03:00",
   "sanduicheiraegrillbritaniabgr27ipress2em1850w": "2026-10-31T09:05:11.173180-03:00",
@@ -6476,7 +6477,7 @@
  "reserva_meio": "2026-11-07T09:40:45.583971-03:00",
  "reserva_cheia": {
   "achadinhos": "2026-11-06T19:59:07.580270-03:00",
-  "tech": "2026-11-07T08:41:33.940477-03:00",
+  "tech": "2026-11-07T09:48:21.830394-03:00",
   "marcas": "2026-11-06T20:33:45.303011-03:00"
  }
 }
