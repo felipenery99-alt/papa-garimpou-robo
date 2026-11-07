@@ -842,8 +842,8 @@
    "⚠️ Canal sem post: achadinhos 4 h — abrir o app Claude e conferir as rotinas",
    "⚠️ Garimpo parado desde 06/11 13:58 — abrir o app Claude e conferir as rotinas\nPouca oferta na fila: achadinhos 0, marcas 0, tech 0."
   ],
-  "ultima_execucao": "14:51",
-  "execucoes": 14,
+  "ultima_execucao": "15:10",
+  "execucoes": 15,
   "telegram_posts": {
    "achadinhos": 9,
    "marcas": 5,
@@ -899,7 +899,9 @@
    "13:22 story_oferta",
    "14:08 story_oferta",
    "feed",
-   "14:25 post_achado"
+   "14:25 post_achado",
+   "15:00 adivinha",
+   "15:03 story_oferta"
   ],
   "shopee_ligada": true,
   "shopee_oficial_ids": {
@@ -5836,7 +5838,7 @@
    "shopee-58269176914": "nota",
    "shopee-58219165197": "nota",
    "shopee-58215080658": "nota",
-   "shopee-58221231257": "nota",
+   "shopee-58221231257": "vendas longe",
    "shopee-58216127861": "nota",
    "shopee-58221260467": "nota",
    "shopee-58219165077": "nota",
@@ -6473,11 +6475,18 @@
    "shopee-58254137771": "nota",
    "shopee-58254719403": "nota",
    "shopee-58254141192": "nota",
-   "shopee-20499839294": "outro: palavra proibida: compatível"
+   "shopee-20499839294": "outro: palavra proibida: compatível",
+   "shopee-58267275436": "nota",
+   "shopee-58267185899": "nota",
+   "shopee-58267180881": "nota",
+   "shopee-58267180869": "nota",
+   "shopee-58267178941": "nota",
+   "shopee-58267178926": "nota",
+   "shopee-23698804423": "nota"
   },
   "shopee_oficial": {
-   "vendas longe": 2825,
-   "nota": 2290,
+   "vendas longe": 2826,
+   "nota": 2296,
    "outro: marca fora da lista boa": 122,
    "vendas perto (125+)": 113,
    "aprovada": 79,
@@ -6490,7 +6499,7 @@
    "seguidores": 387,
    "posts": 88,
    "reach": 75,
-   "profile_views": 141,
+   "profile_views": 143,
    "website_clicks": 2,
    "stories_ativos": 25
   }
