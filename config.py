@@ -92,6 +92,20 @@ RESERVA_ZERADO_MIN = 30        # canal com fila zerada e sem post há 30 min (8h
 RESERVA_TERMOS = 6
 RESERVA_REPRISE_TENTAR = 8      # quantas ofertas antigas reconferir por canal por execução (cada Shopee = 1 chamada)
 RESERVA_REPRISE_MAX = 3
+# 07/11 (CEO; PC desligado 06/11 18h → 07/11 20h, 17 posts no dia): canal zerado há RESERVA_FOLGA_MIN minutos
+# aceita reprise de ofertas postadas há REPRISE_FOLGA_DIAS+ dias (reconferidas no preço) e a faixa "quase boa" da Shopee
+RESERVA_FOLGA_MIN = 120
+REPRISE_FOLGA_DIAS = 3
+FOLGA_VENDAS_SHOPEE = 125
+FOLGA_DESCONTO_PTS = 5
+# 07/11 (CEO): PC desligado de 06/11 18h a 07/11 20h → achadinhos 502 min sem post (17 posts no dia contra 76).
+# Canal zerado há RESERVA_RELAXA_MIN: reprise de ofertas postadas há >= RESERVA_REPRISE_DIAS_ZERADO dias (reconferidas)
+# e faixa "quase boa" da Shopee (só loja oficial, marca boa, nota mínima igual): vendas >= VENDAS_QUASE_SHOPEE_OFICIAL
+# e desconto até DESCONTO_FOLGA_QUASE pontos abaixo do mínimo.
+RESERVA_RELAXA_MIN = 120
+RESERVA_REPRISE_DIAS_ZERADO = 3
+VENDAS_QUASE_SHOPEE_OFICIAL = 125
+DESCONTO_FOLGA_QUASE = 5
 VIGIA_FILA_MIN = 3    # 03/11: garimpo velho só gera aviso se algum canal tiver menos que isso de ofertas válidas na fila
 BUSCA_EXTRA_TERMOS = 4        # canal parado e sem item na fila: busca extra (páginas 3–4) em N termos sorteados do nicho
 FILA_VALIDADE_H = 4            # oferta parada na fila há mais que isso sai (o preço pode ter mudado)

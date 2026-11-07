@@ -68,6 +68,9 @@ def gravar_relatorio(h: dict, agora: datetime) -> None:
     dia["telegram_membros"] = {c: telegram.membros(d) for c, d in {**config.CANAIS, "geral": config.GERAL}.items()}
     dia["instagram_feito"] = [f[11:] for f in h.get("ig_feitos", []) if f.startswith(hoje)]
     dia["shopee_ligada"] = bool(os.environ.get("SHOPEE_APP_ID"))
+    if h.get("reserva_resultado", {}).get(hoje):
+        dia["reserva_resultado"] = h["reserva_resultado"][hoje]
+    h["reserva_resultado"] = {k: v for k, v in h.get("reserva_resultado", {}).items() if k >= (agora.date() - timedelta(days=3)).isoformat()}
     if OFICIAL_SHOPEE:   # ofertas únicas de loja oficial vistas no dia, pelo último motivo
         ids = {**dia.get("shopee_oficial_ids", {}), **OFICIAL_SHOPEE}
         dia["shopee_oficial_ids"] = ids
@@ -99,8 +102,8 @@ def chave_nome(nome: str) -> str:
     return re.sub(r"[^a-z0-9]", "", n)
 
 
-def ja_postado_recente(h: dict, oferta_id: str, agora: datetime, nome: str = "") -> bool:
-    limite = agora - timedelta(days=config.NAO_REPETIR_DIAS)
+def ja_postado_recente(h: dict, oferta_id: str, agora: datetime, nome: str = "", dias: int | None = None) -> bool:
+    limite = agora - timedelta(days=dias or config.NAO_REPETIR_DIAS)
     if nome and any(o.get("dia", "") >= limite.date().isoformat() and chave_nome(o.get("nome", "")) == chave_nome(nome)
                     for o in h.get("ofertas_dia", [])):
         return True   # cobre o que foi postado antes de existir postados_nome
@@ -129,7 +132,8 @@ def _motivo_oficial(o: dict, canal: str, ok: bool, motivo: str) -> str:
     return "outro: " + re.sub(r"\(.*?\)|\d+", "", motivo).strip()[:40]
 
 
-def garimpar_todas(canal: str, fonte, h: dict, agora: datetime, termos: list[str] | None = None) -> list[dict]:
+def garimpar_todas(canal: str, fonte, h: dict, agora: datetime, termos: list[str] | None = None,
+                   quase: bool = False) -> list[dict]:
     """Todas as ofertas boas e não postadas de todas as buscas do canal, melhores primeiro.
     Sem cota: o único filtro é a qualidade (regra do dono: achou coisa boa, posta)."""
     reprovados = {}
@@ -149,6 +153,10 @@ def garimpar_todas(canal: str, fonte, h: dict, agora: datetime, termos: list[str
             ok, motivo = qualidade.avaliar(o, canal)
             if str(o.get("id", "")).startswith("shopee") and o.get("loja_oficial"):
                 OFICIAL_SHOPEE[o["id"]] = _motivo_oficial(o, canal, ok, motivo)
+            if not ok and quase:
+                ok, motivo = qualidade.avaliar(o, canal, quase=True)
+                if ok:
+                    o = {**o, "quase": True}
             if ok and not ja_postado_recente(h, o["id"], agora, o.get("nome", "")):
                 boas[o["id"]] = o
             elif not ok:
@@ -523,6 +531,10 @@ def garimpo_reserva(h: dict, shopee, agora: datetime, ult_garimpo: datetime | No
         if not ((len(na_fila) < config.RESERVA_FILA_MIN and pc_parado) or zerado):
             continue
         print(f"[reserva] {canal}: {len(na_fila)} na fila ({'zerado' if zerado else 'garimpo do PC parado'}); buscando na nuvem")
+        # 07/11 (CEO): zerado há 2 h → faixa quase boa da Shopee + reprise de 3 dias
+        longo = zerado and minutos_parado(h, canal, agora) >= config.RESERVA_RELAXA_MIN
+        res = h.setdefault("reserva_resultado", {}).setdefault(agora.date().isoformat(), {}).setdefault(
+            canal, {"busca": 0, "quase": 0, "reprise": 0})
         if shopee and not shopee.LIMITE_ATINGIDO[0]:
             termos = random.sample(config.BUSCAS[canal], min(config.RESERVA_TERMOS, len(config.BUSCAS[canal])))
             fonte = shopee.buscar_fundo
@@ -534,12 +546,18 @@ def garimpo_reserva(h: dict, shopee, agora: datetime, ult_garimpo: datetime | No
                 termos = list(config.BUSCAS[canal])
                 fonte = lambda t: shopee.buscar_fundo(t, paginas=(3, 4, 5, 6))
             try:
-                entrar_na_fila(h, canal, garimpar_todas(canal, fonte, h, agora, termos), agora)
+                achadas = garimpar_todas(canal, fonte, h, agora, termos, quase=longo)
+                antes = {f["id"] for f in h.get("fila", [])}
+                entrar_na_fila(h, canal, achadas, agora)
+                novas = [o for o in achadas if o["id"] not in antes]
+                res["quase"] += sum(1 for o in novas if o.get("quase"))
+                res["busca"] += sum(1 for o in novas if not o.get("quase"))
             except Exception as e:
                 print(f"[reserva] Shopee {canal}: {e}")
         ids_fila = {f["id"] for f in h.get("fila", [])}
         velhas = sorted((o for o in h.get("ofertas_dia", []) if o.get("canal") == canal and o["id"] not in ids_fila
-                         and not ja_postado_recente(h, o["id"], agora, o.get("nome", ""))),
+                         and not ja_postado_recente(h, o["id"], agora, o.get("nome", ""),
+                                                    config.RESERVA_REPRISE_DIAS_ZERADO if longo else None)),
                         key=qualidade.pontuar, reverse=True)
         voltaram = []
         for o in velhas[:config.RESERVA_REPRISE_TENTAR]:
@@ -550,6 +568,7 @@ def garimpo_reserva(h: dict, shopee, agora: datetime, ult_garimpo: datetime | No
                 break
         if voltaram:
             entrar_na_fila(h, canal, voltaram, agora)
+            res["reprise"] += len(voltaram)
             print(f"[reserva] {canal}: {len(voltaram)} reprise(s) ainda no preço")
 
 

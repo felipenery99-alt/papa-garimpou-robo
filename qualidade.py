@@ -25,7 +25,7 @@ def vendas_minimas(oferta: dict) -> int:
     return config.VENDAS_MINIMAS
 
 
-def avaliar(oferta: dict, canal: str) -> tuple[bool, str]:
+def avaliar(oferta: dict, canal: str, quase: bool = False) -> tuple[bool, str]:
     """(aprovada, motivo). Critério de dono: na dúvida, reprova."""
     nome = _norm(oferta.get("nome", ""))
     for p in config.PALAVRAS_PROIBIDAS:
@@ -45,9 +45,14 @@ def avaliar(oferta: dict, canal: str) -> tuple[bool, str]:
         return False, "Shopee exige loja oficial"
     if (oferta.get("nota") or 0) < config.NOTA_MINIMA:
         return False, f"nota {oferta.get('nota')} < {config.NOTA_MINIMA}"
-    if (oferta.get("vendas") or 0) < vendas_minimas(oferta):
+    vmin = vendas_minimas(oferta)
+    if quase and str(oferta.get("id", "")).startswith("shopee") and oferta.get("loja_oficial"):
+        vmin = config.VENDAS_QUASE_SHOPEE_OFICIAL   # 07/11: só na reserva com canal zerado há 2 h
+    if (oferta.get("vendas") or 0) < vmin:
         return False, f"poucas vendas ({oferta.get('vendas')})"
     minimo = config.DESCONTO_MINIMO if canal == "marcas" else config.DESCONTO_MINIMO_ACHADINHOS
+    if quase:
+        minimo -= config.DESCONTO_FOLGA_QUASE
     if (oferta.get("desconto") or 0) < minimo:
         return False, f"desconto {oferta.get('desconto')}% < {minimo}%"
     if not oferta.get("link") or not oferta.get("imagem"):
