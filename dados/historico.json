@@ -5644,7 +5644,9 @@
   "2026-11-07 16:55 post_achado",
   "2026-11-07 feed",
   "2026-11-07 17:30 reels",
-  "2026-11-07 17:36 story_oferta"
+  "2026-11-07 17:36 story_oferta",
+  "2026-11-07 18:05 a_ou_b",
+  "2026-11-07 18:09 story_oferta"
  ],
  "ig_ofertas_usadas": [
   "amz-B0CCSLRZ19",
@@ -5899,12 +5901,14 @@
   "ac-entrega-falsa": "2026-11-07",
   "dc-historico": "2026-11-07",
   "ac-sorteio-fake": "2026-11-07",
-  "cv-pior-compra": "2026-11-07"
+  "cv-pior-compra": "2026-11-07",
+  "ac-site-copia": "2026-11-07",
+  "dc-avaliar-vendedor": "2026-11-07"
  },
  "pecas_dia": {
-  "2026-11-07": 6
+  "2026-11-07": 8
  },
- "ultimo_pilar": "conversa",
+ "ultimo_pilar": "dica",
  "fila": [],
  "menus_fixados": [
   "v1 @papagarimpou",
@@ -6621,11 +6625,14 @@
   "2026-11-07 manhã achadinhos",
   "2026-11-07 tarde achadinhos",
   "2026-11-07 tarde tech",
-  "2026-11-07 tarde marcas"
+  "2026-11-07 tarde marcas",
+  "2026-11-07 noite achadinhos",
+  "2026-11-07 noite marcas",
+  "2026-11-07 noite tech"
  ],
  "reserva_meio": "2026-11-07T14:07:53.556946-03:00",
  "reserva_cheia": {
-  "achadinhos": "2026-11-07T17:02:10.047999-03:00",
+  "achadinhos": "2026-11-07T18:14:06.605022-03:00",
   "tech": "2026-11-07T17:46:54.896811-03:00",
   "marcas": "2026-11-07T17:46:54.896811-03:00"
  }

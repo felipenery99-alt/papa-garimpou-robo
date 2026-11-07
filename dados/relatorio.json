@@ -842,10 +842,13 @@
    "⚠️ Canal sem post: achadinhos 4 h — abrir o app Claude e conferir as rotinas",
    "⚠️ Garimpo parado desde 06/11 13:58 — abrir o app Claude e conferir as rotinas\nPouca oferta na fila: achadinhos 0, marcas 0, tech 0.",
    "⚠️ Canal sem post: achadinhos 8 h, marcas 5 h — abrir o app Claude e conferir as rotinas",
-   "⚠️ Garimpo parado desde 06/11 13:58 — abrir o app Claude e conferir as rotinas\nPouca oferta na fila: achadinhos 0, marcas 0, tech 0."
+   "⚠️ Garimpo parado desde 06/11 13:58 — abrir o app Claude e conferir as rotinas\nPouca oferta na fila: achadinhos 0, marcas 0, tech 0.",
+   "canal achadinhos sem oferta na fila há 502 min (busca extra também não achou). Abastecer ofertas_manuais.json.",
+   "canal marcas sem oferta na fila há 358 min (busca extra também não achou). Abastecer ofertas_manuais.json.",
+   "canal tech sem oferta na fila há 58 min (busca extra também não achou). Abastecer ofertas_manuais.json."
   ],
-  "ultima_execucao": "17:46",
-  "execucoes": 22,
+  "ultima_execucao": "18:14",
+  "execucoes": 23,
   "telegram_posts": {
    "achadinhos": 9,
    "marcas": 5,
@@ -910,7 +913,9 @@
    "16:55 post_achado",
    "feed",
    "17:30 reels",
-   "17:36 story_oferta"
+   "17:36 story_oferta",
+   "18:05 a_ou_b",
+   "18:09 story_oferta"
   ],
   "shopee_ligada": true,
   "shopee_oficial_ids": {
