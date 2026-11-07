@@ -5313,7 +5313,9 @@
   "2026-11-06 20:35 story_top4",
   "2026-11-06 feed",
   "2026-11-06 20:50 post_achado",
-  "2026-11-06 20:38 story_oferta"
+  "2026-11-06 20:38 story_oferta",
+  "2026-11-06 feed",
+  "2026-11-06 21:05 reels"
  ],
  "ig_ofertas_usadas": [
   "amz-B08TLH52PQ",
@@ -5519,7 +5521,7 @@
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
- "ig_ultimo_reel": "2026-11-06T17:41:02.761076-03:00",
+ "ig_ultimo_reel": "2026-11-06T21:17:33.699550-03:00",
  "pecas_usadas": {
   "ac-preco-inflado": "2026-10-27",
   "dc-7-dias": "2026-10-27",
@@ -6152,21 +6154,26 @@
    "shopee-22493521596"
   ],
   "2026-11-06": [
-   "amz-B07Y2C1PWG",
-   "shopee-21116473058",
-   "amz-B0BYK5T45C",
-   "shopee-52364763614",
-   "shopee-13361302152",
-   "shopee-9511754133",
    "shopee-58211443678",
-   "shopee-21897631761",
-   "shopee-58201181466",
-   "amz-B01GFYMUPM",
-   "amz-B0FH3YBBB6",
+   "shopee-3258773144",
+   "shopee-52364763614",
    "shopee-20397809626",
-   "shopee-22997647570",
+   "amz-B01GFYMUPM",
+   "shopee-41117508450",
+   "amz-B07Y2C1PWG",
+   "shopee-58201181466",
+   "shopee-21897631761",
+   "shopee-9511754133",
+   "shopee-23592990089",
    "shopee-20111903242",
-   "shopee-23593120156"
+   "shopee-23593120156",
+   "shopee-42130479011",
+   "shopee-22997647570",
+   "shopee-21116473058",
+   "amz-B0FH3YBBB6",
+   "shopee-20298661104",
+   "shopee-13361302152",
+   "amz-B0BYK5T45C"
   ]
  },
  "vendas_shopee": {},
