@@ -842,8 +842,8 @@
    "⚠️ Canal sem post: achadinhos 4 h — abrir o app Claude e conferir as rotinas",
    "⚠️ Garimpo parado desde 06/11 13:58 — abrir o app Claude e conferir as rotinas\nPouca oferta na fila: achadinhos 0, marcas 0, tech 0."
   ],
-  "ultima_execucao": "15:44",
-  "execucoes": 16,
+  "ultima_execucao": "16:01",
+  "execucoes": 17,
   "telegram_posts": {
    "achadinhos": 9,
    "marcas": 5,
@@ -3978,7 +3978,7 @@
    "shopee-23899380327": "vendas longe",
    "shopee-23798455217": "nota",
    "shopee-20898132459": "vendas longe",
-   "shopee-58220452271": "nota",
+   "shopee-58220452271": "vendas longe",
    "shopee-58218125207": "nota",
    "shopee-22198091265": "vendas longe",
    "shopee-23094547197": "outro: marca fora da lista boa",
@@ -6482,12 +6482,14 @@
    "shopee-58267180869": "nota",
    "shopee-58267178941": "nota",
    "shopee-58267178926": "nota",
-   "shopee-23698804423": "nota"
+   "shopee-23698804423": "nota",
+   "shopee-23293721805": "outro: marca fora da lista boa",
+   "shopee-58220521672": "nota"
   },
   "shopee_oficial": {
-   "vendas longe": 2826,
+   "vendas longe": 2827,
    "nota": 2296,
-   "outro: marca fora da lista boa": 122,
+   "outro: marca fora da lista boa": 123,
    "vendas perto (125+)": 113,
    "aprovada": 79,
    "desconto longe": 59,
