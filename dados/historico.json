@@ -619,7 +619,12 @@
   "2026-11-07 achadinhos 08:34 shopee-20299205359",
   "2026-11-07 marcas 08:47 shopee-18996964739",
   "2026-11-07 achadinhos 08:54 shopee-22693266079",
-  "2026-11-07 marcas 09:02 shopee-21916807534"
+  "2026-11-07 marcas 09:02 shopee-21916807534",
+  "2026-11-07 achadinhos 09:11 shopee-20999203046",
+  "2026-11-07 achadinhos 09:18 shopee-58261216325",
+  "2026-11-07 marcas 09:26 shopee-18216465769",
+  "2026-11-07 achadinhos 09:33 shopee-58254966835",
+  "2026-11-07 achadinhos 09:43 shopee-27231768018"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -801,7 +806,7 @@
   "shopee-20799892548": "2026-10-30T16:26:36.118648-03:00",
   "amz-B0FJPBWMLC": "2026-10-30T16:33:16.136410-03:00",
   "amz-B0GVP9G4SJ": "2026-10-30T16:40:39.724553-03:00",
-  "shopee-20999203046": "2026-10-30T16:48:27.084414-03:00",
+  "shopee-20999203046": "2026-11-07T09:11:34.606076-03:00",
   "ml-MLB3727972293": "2026-10-30T16:57:14.024144-03:00",
   "amz-B0GR11L1VP": "2026-10-30T17:06:02.337517-03:00",
   "shopee-22594312519": "2026-10-30T17:14:23.189553-03:00",
@@ -829,7 +834,7 @@
   "ml-MLBU3221577323": "2026-10-30T21:37:21.086230-03:00",
   "amz-B0FDXB22BL": "2026-10-30T21:50:41.883071-03:00",
   "nike-016269ID": "2026-10-30T21:58:28.949352-03:00",
-  "shopee-27231768018": "2026-10-31T08:20:59.295755-03:00",
+  "shopee-27231768018": "2026-11-07T09:43:24.086407-03:00",
   "nike-004386ID": "2026-10-31T08:27:49.576516-03:00",
   "shopee-21997684262": "2026-10-31T08:34:14.238285-03:00",
   "nike-079609MT": "2026-10-31T08:39:18.146993-03:00",
@@ -1238,7 +1243,10 @@
   "shopee-23592990089": "2026-11-06T19:35:50.027373-03:00",
   "shopee-41478796304": "2026-11-07T08:26:30.347405-03:00",
   "shopee-22693266079": "2026-11-07T08:54:37.265674-03:00",
-  "shopee-21916807534": "2026-11-07T09:02:14.685032-03:00"
+  "shopee-21916807534": "2026-11-07T09:02:14.685032-03:00",
+  "shopee-58261216325": "2026-11-07T09:18:22.433210-03:00",
+  "shopee-18216465769": "2026-11-07T09:26:34.269334-03:00",
+  "shopee-58254966835": "2026-11-07T09:33:22.565900-03:00"
  },
  "ofertas_dia": [
   {
@@ -5269,6 +5277,96 @@
    "canal": "marcas",
    "entrou": "2026-11-07T08:17:20.758448-03:00",
    "dia": "2026-11-07"
+  },
+  {
+   "id": "shopee-20999203046",
+   "plataforma": "Shopee",
+   "nome": "Ventilador Mondial 30cm Vsp 30 B 60hz Loi",
+   "loja": "LOI BRASIL",
+   "loja_oficial": true,
+   "preco": 139.99,
+   "preco_antigo": 199.99,
+   "desconto": 30,
+   "vendas": 4245,
+   "nota": 4.9,
+   "comissao_pct": 6.0,
+   "imagem": "https://cf.shopee.com.br/file/br-11134207-820lg-mralqrfevhfp9f",
+   "link": "https://s.shopee.com.br/60Sv4rBdTl",
+   "canal": "achadinhos",
+   "entrou": "2026-11-07T08:17:20.758448-03:00",
+   "dia": "2026-11-07"
+  },
+  {
+   "id": "shopee-58261216325",
+   "plataforma": "Shopee",
+   "nome": "Câmera Inteligente Interna iM1 2MP Intelbras",
+   "loja": "Intelbras Oficial",
+   "loja_oficial": true,
+   "preco": 105.0,
+   "preco_antigo": 150.0,
+   "desconto": 30,
+   "vendas": 430,
+   "nota": 5.0,
+   "comissao_pct": 5.0,
+   "imagem": "https://cf.shopee.com.br/file/sg-11134201-8257x-mszml69qio0a86",
+   "link": "https://s.shopee.com.br/40hqhANdms",
+   "canal": "achadinhos",
+   "entrou": "2026-11-07T08:17:20.758448-03:00",
+   "dia": "2026-11-07"
+  },
+  {
+   "id": "shopee-18216465769",
+   "plataforma": "Shopee",
+   "nome": "Kit 10 Pares Meias Lupo Sport Cano Invisível Algodão Soquete Sapatilha Unissex Original Confortável",
+   "loja": "Deccó",
+   "loja_oficial": true,
+   "preco": 76.29,
+   "preco_antigo": 136.23,
+   "desconto": 44,
+   "vendas": 758,
+   "nota": 4.9,
+   "comissao_pct": 7.0,
+   "imagem": "https://cf.shopee.com.br/file/br-11134207-820l4-mq6aqvo690cje6",
+   "link": "https://s.shopee.com.br/906WeWZlWR",
+   "canal": "marcas",
+   "entrou": "2026-11-07T08:17:20.758448-03:00",
+   "dia": "2026-11-07"
+  },
+  {
+   "id": "shopee-58254966835",
+   "plataforma": "Shopee",
+   "nome": "Ventilador de Mesa 40Cm 6 Pás Preto Mondial VSP40 127V",
+   "loja": "Casa & Vídeo",
+   "loja_oficial": true,
+   "preco": 139.9,
+   "preco_antigo": 199.86,
+   "desconto": 30,
+   "vendas": 1809,
+   "nota": 5.0,
+   "comissao_pct": 3.0,
+   "imagem": "https://cf.shopee.com.br/file/sg-11134201-8257w-muy2yss48uf68b",
+   "link": "https://s.shopee.com.br/5q9UsYCGoo",
+   "canal": "achadinhos",
+   "entrou": "2026-11-07T08:17:20.758448-03:00",
+   "dia": "2026-11-07"
+  },
+  {
+   "id": "shopee-27231768018",
+   "plataforma": "Shopee",
+   "nome": "Cafeteira Elétrica Electrolux Ecm10 15 Xícaras 600w Grafite 110V",
+   "loja": "123 Comprou!",
+   "loja_oficial": true,
+   "preco": 122.9,
+   "preco_antigo": 223.45,
+   "desconto": 45,
+   "vendas": 594,
+   "nota": 4.9,
+   "comissao_pct": 3.0,
+   "imagem": "https://cf.shopee.com.br/file/sg-11134201-7repc-m83ssyedawlt1e",
+   "link": "https://s.shopee.com.br/3g50IYC3Va",
+   "canal": "achadinhos",
+   "entrou": "2026-11-07T09:02:42.188661-03:00",
+   "dia": "2026-11-07"
   }
  ],
  "ig_feitos": [
@@ -5400,10 +5498,12 @@
   "2026-11-06 21:24 story_oferta",
   "2026-11-07 08:07 story_oferta",
   "2026-11-07 08:45 story_oferta",
-  "2026-11-07 08:52 story_oferta"
+  "2026-11-07 08:52 story_oferta",
+  "2026-11-07 feed",
+  "2026-11-07 09:35 reels",
+  "2026-11-07 09:38 story_oferta"
  ],
  "ig_ofertas_usadas": [
-  "amz-B0G6G4WFQ3",
   "amz-B0FV4DRRW9",
   "amz-B0CX1TKC62",
   "amz-B0G5BP29ZZ",
@@ -5602,11 +5702,12 @@
   "amz-B08L6YHZ75",
   "shopee-18797677549",
   "shopee-41478796304",
-  "shopee-20299205359"
+  "shopee-20299205359",
+  "shopee-22693266079"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
- "ig_ultimo_reel": "2026-11-06T21:17:33.699550-03:00",
+ "ig_ultimo_reel": "2026-11-07T09:40:45.583971-03:00",
  "pecas_usadas": {
   "ac-preco-inflado": "2026-10-27",
   "dc-7-dias": "2026-10-27",
@@ -5656,72 +5757,21 @@
  "ultimo_pilar": "blackfriday",
  "fila": [
   {
-   "id": "shopee-20999203046",
+   "id": "shopee-21997684262",
    "plataforma": "Shopee",
-   "nome": "Ventilador Mondial 30cm Vsp 30 B 60hz Loi",
-   "loja": "LOI BRASIL",
+   "nome": "Sanduicheira e Grill Britânia 2 em 1 750W BGRE01",
+   "loja": "Britânia Oficial",
    "loja_oficial": true,
-   "preco": 139.99,
-   "preco_antigo": 199.99,
-   "desconto": 30,
-   "vendas": 4245,
+   "preco": 79.9,
+   "preco_antigo": 140.18,
+   "desconto": 43,
+   "vendas": 1061,
    "nota": 4.9,
-   "comissao_pct": 6.0,
-   "imagem": "https://cf.shopee.com.br/file/br-11134207-820lg-mralqrfevhfp9f",
-   "link": "https://s.shopee.com.br/60Sv4rBdTl",
-   "canal": "achadinhos",
-   "entrou": "2026-11-07T08:17:20.758448-03:00"
-  },
-  {
-   "id": "shopee-58261216325",
-   "plataforma": "Shopee",
-   "nome": "Câmera Inteligente Interna iM1 2MP Intelbras",
-   "loja": "Intelbras Oficial",
-   "loja_oficial": true,
-   "preco": 105.0,
-   "preco_antigo": 150.0,
-   "desconto": 30,
-   "vendas": 430,
-   "nota": 5.0,
-   "comissao_pct": 5.0,
-   "imagem": "https://cf.shopee.com.br/file/sg-11134201-8257x-mszml69qio0a86",
-   "link": "https://s.shopee.com.br/40hqhANdms",
-   "canal": "achadinhos",
-   "entrou": "2026-11-07T08:17:20.758448-03:00"
-  },
-  {
-   "id": "shopee-58254966835",
-   "plataforma": "Shopee",
-   "nome": "Ventilador de Mesa 40Cm 6 Pás Preto Mondial VSP40 127V",
-   "loja": "Casa & Vídeo",
-   "loja_oficial": true,
-   "preco": 139.9,
-   "preco_antigo": 199.86,
-   "desconto": 30,
-   "vendas": 1809,
-   "nota": 5.0,
    "comissao_pct": 3.0,
-   "imagem": "https://cf.shopee.com.br/file/sg-11134201-8257w-muy2yss48uf68b",
-   "link": "https://s.shopee.com.br/5q9UsYCGoo",
+   "imagem": "https://cf.shopee.com.br/file/sg-11134201-8258u-mudiny7ntseea9",
+   "link": "https://s.shopee.com.br/6q224OHC4Z",
    "canal": "achadinhos",
-   "entrou": "2026-11-07T08:17:20.758448-03:00"
-  },
-  {
-   "id": "shopee-18216465769",
-   "plataforma": "Shopee",
-   "nome": "Kit 10 Pares Meias Lupo Sport Cano Invisível Algodão Soquete Sapatilha Unissex Original Confortável",
-   "loja": "Deccó",
-   "loja_oficial": true,
-   "preco": 76.29,
-   "preco_antigo": 136.23,
-   "desconto": 44,
-   "vendas": 758,
-   "nota": 4.9,
-   "comissao_pct": 7.0,
-   "imagem": "https://cf.shopee.com.br/file/br-11134207-820l4-mq6aqvo690cje6",
-   "link": "https://s.shopee.com.br/906WeWZlWR",
-   "canal": "marcas",
-   "entrou": "2026-11-07T08:17:20.758448-03:00"
+   "entrou": "2026-11-07T09:02:42.188661-03:00"
   }
  ],
  "menus_fixados": [
@@ -5758,7 +5808,7 @@
   "fritadeiraeletricasemoleoairfryermondial5lgrandfamilyafn50timer1900w": "2026-10-30T16:26:36.118648-03:00",
   "tenisnewbalancefreshfoamarishiv4masculino": "2026-10-30T16:33:16.136410-03:00",
   "fonebluetoothjbltune780nccomcancelamentoderuido": "2026-10-30T16:40:39.724553-03:00",
-  "ventiladormondial30cmvsp30b60hzloi": "2026-10-30T16:48:27.084414-03:00",
+  "ventiladormondial30cmvsp30b60hzloi": "2026-11-07T09:11:34.606076-03:00",
   "tenisnikejourneyrunmasculino": "2026-10-30T16:57:14.024144-03:00",
   "fonebluetoothjbltune730btoverearate76hdebateria": "2026-10-30T17:06:02.337517-03:00",
   "faqueirotramontinaoriginalleme20pecascomlaminasemacoinoxecabosdepolipropilenovermelhopretocinza": "2026-10-30T17:14:23.189553-03:00",
@@ -5786,7 +5836,7 @@
   "kit5camisetasbasicasslimhering": "2026-10-30T21:37:21.086230-03:00",
   "samsunggalaxywatch840mmltegrafite": "2026-10-30T21:50:41.883071-03:00",
   "camisetanikesportswearclubmasculina": "2026-10-30T21:58:28.949352-03:00",
-  "cafeteiraeletricaelectroluxecm1015xicaras600wgrafite110v": "2026-10-31T08:20:59.295755-03:00",
+  "cafeteiraeletricaelectroluxecm1015xicaras600wgrafite110v": "2026-11-07T09:43:24.086407-03:00",
   "camisetajordansportswearjumpmanairmasculina": "2026-10-31T08:27:49.576516-03:00",
   "sanduicheiraegrillbritania2em1750wbgre01": "2026-10-31T08:34:14.238285-03:00",
   "camisetacorinthiansnike2026treinomasculina": "2026-10-31T08:39:18.146993-03:00",
@@ -6195,7 +6245,10 @@
   "baseuscarregadordeparederapidotipocsupersiqc20wparacelularesiphonesamsungeoutros": "2026-11-06T19:35:50.027373-03:00",
   "cuscuzeirapequenatramontinaemaluminiocomrevestimentointernoeexternoemantiaderente10cm08l": "2026-11-07T08:26:30.347405-03:00",
   "faqueirotramontinaacoinoxbuzios36pecas": "2026-11-07T08:54:37.265674-03:00",
-  "kitcom6paresdemeiasluposportcanomedioesportivaadultoemalgodao": "2026-11-07T09:02:14.685032-03:00"
+  "kitcom6paresdemeiasluposportcanomedioesportivaadultoemalgodao": "2026-11-07T09:02:14.685032-03:00",
+  "camerainteligenteinternaim12mpintelbras": "2026-11-07T09:18:22.433210-03:00",
+  "kit10paresmeiasluposportcanoinvisivelalgodaosoquetesapatilhaunissexoriginalconfortavel": "2026-11-07T09:26:34.269334-03:00",
+  "ventiladordemesa40cm6paspretomondialvsp40127v": "2026-11-07T09:33:22.565900-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
@@ -6331,6 +6384,13 @@
    "shopee-20298661104",
    "shopee-13361302152",
    "amz-B0BYK5T45C"
+  ],
+  "2026-11-07": [
+   "shopee-41478796304",
+   "shopee-20299205359",
+   "shopee-18797677549",
+   "shopee-21916807534",
+   "shopee-18996964739"
   ]
  },
  "vendas_shopee": {},
@@ -6410,9 +6470,10 @@
   "2026-11-06 tarde tech",
   "2026-11-06 noite achadinhos",
   "2026-11-06 noite tech",
-  "2026-11-06 noite marcas"
+  "2026-11-06 noite marcas",
+  "2026-11-07 manhã tech"
  ],
- "reserva_meio": "2026-11-07T09:01:03.011534-03:00",
+ "reserva_meio": "2026-11-07T09:40:45.583971-03:00",
  "reserva_cheia": {
   "achadinhos": "2026-11-06T19:59:07.580270-03:00",
   "tech": "2026-11-07T08:41:33.940477-03:00",
