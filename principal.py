@@ -367,7 +367,7 @@ def conferir_oferta(o: dict, agora: datetime) -> dict | None:
         if not achados:
             return None
         novo = {**o, **achados[0], "canal": o["canal"]}
-        return novo if qualidade.avaliar(novo, o["canal"])[0] else None
+        return novo if qualidade.avaliar(novo, o["canal"], quase=bool(o.get("quase")))[0] else None
     man = {m["id"]: m for m in (json.loads(MANUAIS.read_text(encoding="utf-8")) if MANUAIS.exists() else [])}
     # 06/11: a sessão Telegram passou a tirar do arquivo o que já foi postado. Sem o item no arquivo, vale a
     # validade que veio com ele (gravada no histórico); sem validade nenhuma, fica de fora (na dúvida, não entra).
@@ -396,7 +396,7 @@ def oferta_viva(o: dict, agora: datetime) -> dict | None:
             achados = []
         if achados:
             o = {**o, **achados[0], "canal": o["canal"]}
-            if not qualidade.avaliar(o, o["canal"])[0]:
+            if not qualidade.avaliar(o, o["canal"], quase=bool(o.get("quase")))[0]:   # 07/11: faixa quase boa mantém a folga
                 return None
     if o.get("link"):
         try:
@@ -526,7 +526,7 @@ def garimpo_reserva(h: dict, shopee, agora: datetime, ult_garimpo: datetime | No
     no_horario = 8 <= agora.hour < 21
     for canal in config.CANAIS:
         na_fila = [f for f in h.get("fila", []) if f.get("canal") == canal
-                   and not ja_postado_recente(h, f["id"], agora, f.get("nome", ""))]
+                   and not ja_postado_recente(h, f["id"], agora, f.get("nome", ""), f.get("reprise_dias"))]
         zerado = not na_fila and no_horario and minutos_parado(h, canal, agora) >= config.RESERVA_ZERADO_MIN
         if not ((len(na_fila) < config.RESERVA_FILA_MIN and pc_parado) or zerado):
             continue
@@ -555,7 +555,9 @@ def garimpo_reserva(h: dict, shopee, agora: datetime, ult_garimpo: datetime | No
             except Exception as e:
                 print(f"[reserva] Shopee {canal}: {e}")
         ids_fila = {f["id"] for f in h.get("fila", [])}
+        # 07/11: oferta manual já vencida não tem como ser reconferida; nem gasta tentativa
         velhas = sorted((o for o in h.get("ofertas_dia", []) if o.get("canal") == canal and o["id"] not in ids_fila
+                         and (o["id"].startswith("shopee-") or (o.get("valida_ate") or "") >= agora.isoformat())
                          and not ja_postado_recente(h, o["id"], agora, o.get("nome", ""),
                                                     config.RESERVA_REPRISE_DIAS_ZERADO if longo else None)),
                         key=qualidade.pontuar, reverse=True)
@@ -563,7 +565,9 @@ def garimpo_reserva(h: dict, shopee, agora: datetime, ult_garimpo: datetime | No
         for o in velhas[:config.RESERVA_REPRISE_TENTAR]:
             novo = conferir_oferta(o, agora)
             if novo:
-                voltaram.append({k: v for k, v in novo.items() if k not in ("dia", "so_telegram_ate")})
+                # "reprise_dias": a fila e o vigia usam este prazo para não descartar a reprise como repetida
+                voltaram.append({**{k: v for k, v in novo.items() if k not in ("dia", "so_telegram_ate")},
+                                 "reprise_dias": config.RESERVA_REPRISE_DIAS_ZERADO if longo else config.NAO_REPETIR_DIAS})
             if len(voltaram) >= config.RESERVA_REPRISE_MAX:
                 break
         if voltaram:
@@ -586,7 +590,7 @@ def vigiar(h: dict, telegram, agora: datetime, ult_garimpo: datetime | None) -> 
     # válidas = ainda não postadas e dentro da validade
     na_fila = {c: sum(1 for f in h.get("fila", []) if f.get("canal") == c
                       and not (f.get("valida_ate") and f["valida_ate"] < agora.isoformat())
-                      and not ja_postado_recente(h, f["id"], agora, f.get("nome", "")))
+                      and not ja_postado_recente(h, f["id"], agora, f.get("nome", ""), f.get("reprise_dias")))
                for c in config.CANAIS}
     vazios = [c for c, n in na_fila.items() if n == 0]
     # 03/11 18h59 alarme falso: a rotina não garimpa (nem faz commit) com a fila cheia. Commit velho só é
@@ -634,7 +638,7 @@ def soltar_fila(h: dict, telegram, limite: datetime, atraso: bool = True) -> int
         agora = datetime.now(FUSO)
         # 01/11 (Telegram): item com "nao_antes" fica na fila sem sair até esse horário
         # repetido sai da fila antes de escolher o canal (senão o canal "da vez" gastava a vez sem postar)
-        h["fila"] = [f for f in h["fila"] if not ja_postado_recente(h, f["id"], agora, f.get("nome", ""))]
+        h["fila"] = [f for f in h["fila"] if not ja_postado_recente(h, f["id"], agora, f.get("nome", ""), f.get("reprise_dias"))]
         pode = [f for f in h["fila"] if not f.get("nao_antes") or f["nao_antes"] <= agora.isoformat()]
         if not pode:
             print("fila: só itens com nao_antes no futuro, esperam")
@@ -658,7 +662,7 @@ def soltar_fila(h: dict, telegram, limite: datetime, atraso: bool = True) -> int
             do_canal.sort(key=lambda f: (not f.get("nao_antes"), not qualidade.eh_perfume(f)))
         oferta = do_canal[0]
         h["fila"].remove(oferta)
-        if ja_postado_recente(h, oferta["id"], agora, oferta.get("nome", "")):
+        if ja_postado_recente(h, oferta["id"], agora, oferta.get("nome", ""), oferta.get("reprise_dias")):
             continue
         viva = oferta_viva(oferta, agora)
         if not viva:
