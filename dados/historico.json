@@ -5616,7 +5616,8 @@
   "2026-11-07 feed",
   "2026-11-07 14:25 post_achado",
   "2026-11-07 15:00 adivinha",
-  "2026-11-07 15:03 story_oferta"
+  "2026-11-07 15:03 story_oferta",
+  "2026-11-07 16:05 adivinha_resposta"
  ],
  "ig_ofertas_usadas": [
   "shopee-9511754133",
@@ -5868,12 +5869,13 @@
   "bs-um-dia": "2026-11-07",
   "bf-2026-11-07": "2026-11-07",
   "bs-anonimo": "2026-11-07",
-  "ac-entrega-falsa": "2026-11-07"
+  "ac-entrega-falsa": "2026-11-07",
+  "dc-historico": "2026-11-07"
  },
  "pecas_dia": {
-  "2026-11-07": 4
+  "2026-11-07": 5
  },
- "ultimo_pilar": "anticilada",
+ "ultimo_pilar": "dica",
  "fila": [],
  "menus_fixados": [
   "v1 @papagarimpou",
@@ -6590,6 +6592,6 @@
  "reserva_cheia": {
   "achadinhos": "2026-11-07T16:01:46.903571-03:00",
   "tech": "2026-11-07T16:01:46.903571-03:00",
-  "marcas": "2026-11-07T15:10:37.343115-03:00"
+  "marcas": "2026-11-07T16:25:11.030862-03:00"
  }
 }
