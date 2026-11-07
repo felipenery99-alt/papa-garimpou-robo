@@ -5612,10 +5612,11 @@
   "2026-11-07 12:47 story_oferta",
   "2026-11-07 13:20 story_convite",
   "2026-11-07 13:22 story_oferta",
-  "2026-11-07 14:08 story_oferta"
+  "2026-11-07 14:08 story_oferta",
+  "2026-11-07 feed",
+  "2026-11-07 14:25 post_achado"
  ],
  "ig_ofertas_usadas": [
-  "amz-B0FK6N3H12",
   "shopee-9511754133",
   "amz-B0CCSLRZ19",
   "amz-B09BYL7M6N",
@@ -5814,7 +5815,8 @@
   "shopee-58261216325",
   "shopee-18216465769",
   "shopee-58254966835",
-  "shopee-19399263103"
+  "shopee-19399263103",
+  "shopee-23792931413"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
@@ -6556,7 +6558,7 @@
  "pede_semana": "2026-45",
  "ultimo_garimpo": "2026-11-06T13:58:12-03:00",
  "vigia_aviso_post": "2026-11-07T14:15:58.745452-03:00",
- "vigia_aviso_garimpo": "2026-11-07T11:21:26.796147-03:00",
+ "vigia_aviso_garimpo": "2026-11-07T14:30:56.547264-03:00",
  "resumo_enviado": "2026-11-05",
  "token_conferido": "2026-11-07",
  "meta_token": {
