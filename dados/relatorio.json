@@ -840,10 +840,11 @@
    "canal tech sem oferta na fila há 246 min (busca extra também não achou). Abastecer ofertas_manuais.json.",
    "canal marcas sem oferta na fila há 76 min (busca extra também não achou). Abastecer ofertas_manuais.json.",
    "⚠️ Canal sem post: achadinhos 4 h — abrir o app Claude e conferir as rotinas",
-   "⚠️ Garimpo parado desde 06/11 13:58 — abrir o app Claude e conferir as rotinas\nPouca oferta na fila: achadinhos 0, marcas 0, tech 0."
+   "⚠️ Garimpo parado desde 06/11 13:58 — abrir o app Claude e conferir as rotinas\nPouca oferta na fila: achadinhos 0, marcas 0, tech 0.",
+   "⚠️ Canal sem post: achadinhos 8 h, marcas 5 h — abrir o app Claude e conferir as rotinas"
   ],
-  "ultima_execucao": "17:02",
-  "execucoes": 20,
+  "ultima_execucao": "17:23",
+  "execucoes": 21,
   "telegram_posts": {
    "achadinhos": 9,
    "marcas": 5,
@@ -6512,7 +6513,7 @@
    "outro: palavra proibida: universal": 1
   },
   "instagram": {
-   "seguidores": 389,
+   "seguidores": 390,
    "posts": 89,
    "reach": 75,
    "profile_views": 145,
