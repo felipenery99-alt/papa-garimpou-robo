@@ -629,7 +629,8 @@
   "2026-11-07 marcas 11:30 shopee-58260024078",
   "2026-11-07 marcas 12:16 shopee-23398337380",
   "2026-11-07 tech 14:01 shopee-19399263103",
-  "2026-11-07 tech 14:15 shopee-23792931413"
+  "2026-11-07 tech 14:15 shopee-23792931413",
+  "2026-11-07 tech 17:16 shopee-20198314386"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -1253,7 +1254,8 @@
   "shopee-18216465769": "2026-11-07T09:26:34.269334-03:00",
   "shopee-58254966835": "2026-11-07T09:33:22.565900-03:00",
   "shopee-19399263103": "2026-11-07T14:01:45.335517-03:00",
-  "shopee-23792931413": "2026-11-07T14:15:35.733417-03:00"
+  "shopee-23792931413": "2026-11-07T14:15:35.733417-03:00",
+  "shopee-20198314386": "2026-11-07T17:16:24.317742-03:00"
  },
  "ofertas_dia": [
   {
@@ -5464,6 +5466,24 @@
    "canal": "tech",
    "entrou": "2026-11-07T13:32:26.339578-03:00",
    "dia": "2026-11-07"
+  },
+  {
+   "id": "shopee-20198314386",
+   "plataforma": "Shopee",
+   "nome": "Caixa de Som Jbl Boombox 4 Bluetooth 34h Ip68 210rms Preta",
+   "loja": "Rep Store",
+   "loja_oficial": true,
+   "preco": 2417.06,
+   "preco_antigo": 4096.71,
+   "desconto": 41,
+   "vendas": 253,
+   "nota": 4.9,
+   "comissao_pct": 3.0,
+   "imagem": "https://cf.shopee.com.br/file/sg-11134201-824g9-mernkc7rt8naf6",
+   "link": "https://s.shopee.com.br/4LKigoF7Sc",
+   "canal": "tech",
+   "entrou": "2026-11-07T17:02:10.047999-03:00",
+   "dia": "2026-11-07"
   }
  ],
  "ig_feitos": [
@@ -5618,7 +5638,10 @@
   "2026-11-07 15:00 adivinha",
   "2026-11-07 15:03 story_oferta",
   "2026-11-07 16:05 adivinha_resposta",
-  "2026-11-07 16:44 story_oferta"
+  "2026-11-07 16:44 story_oferta",
+  "story especial pede-pro-papa 2026-11-07",
+  "2026-11-07 feed",
+  "2026-11-07 16:55 post_achado"
  ],
  "ig_ofertas_usadas": [
   "shopee-9511754133",
@@ -5872,12 +5895,13 @@
   "bs-anonimo": "2026-11-07",
   "ac-entrega-falsa": "2026-11-07",
   "dc-historico": "2026-11-07",
-  "ac-sorteio-fake": "2026-11-07"
+  "ac-sorteio-fake": "2026-11-07",
+  "cv-pior-compra": "2026-11-07"
  },
  "pecas_dia": {
   "2026-11-07": 6
  },
- "ultimo_pilar": "anticilada",
+ "ultimo_pilar": "conversa",
  "fila": [],
  "menus_fixados": [
   "v1 @papagarimpou",
@@ -5887,7 +5911,7 @@
   "bv1 @papagarimpouofertas"
  ],
  "feed_dia": {
-  "2026-11-03": 1
+  "2026-11-07": 1
  },
  "postados_nome": {
   "escovasecadormodeladorataiffovaleasypinkoriginal": "2026-11-06T14:15:15.520776-03:00",
@@ -6355,7 +6379,8 @@
   "kit10paresmeiasluposportcanoinvisivelalgodaosoquetesapatilhaunissexoriginalconfortavel": "2026-11-07T09:26:34.269334-03:00",
   "ventiladordemesa40cm6paspretomondialvsp40127v": "2026-11-07T09:33:22.565900-03:00",
   "baseuscaborapidousbparatipocbaseuscafulenylon2a2metrospretoparaiphone1516android": "2026-11-07T14:01:45.335517-03:00",
-  "baseuscabousbparatipocnylon3a1metrocafulecarregamentorapidoiphone1516android": "2026-11-07T14:15:35.733417-03:00"
+  "baseuscabousbparatipocnylon3a1metrocafulecarregamentorapidoiphone1516android": "2026-11-07T14:15:35.733417-03:00",
+  "caixadesomjblboombox4bluetooth34hip68210rmspreta": "2026-11-07T17:16:24.317742-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
@@ -6562,7 +6587,7 @@
   }
  },
  "ig_dm_links": {},
- "story_link_dia": "2026-11-06",
+ "story_link_dia": "2026-11-07",
  "pede_semana": "2026-45",
  "ultimo_garimpo": "2026-11-06T13:58:12-03:00",
  "vigia_aviso_post": "2026-11-07T14:15:58.745452-03:00",
@@ -6592,7 +6617,7 @@
  ],
  "reserva_meio": "2026-11-07T14:07:53.556946-03:00",
  "reserva_cheia": {
-  "achadinhos": "2026-11-07T16:01:46.903571-03:00",
+  "achadinhos": "2026-11-07T17:02:10.047999-03:00",
   "tech": "2026-11-07T16:01:46.903571-03:00",
   "marcas": "2026-11-07T16:25:11.030862-03:00"
  }
