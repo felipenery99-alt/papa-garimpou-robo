@@ -847,8 +847,8 @@
    "canal marcas sem oferta na fila há 358 min (busca extra também não achou). Abastecer ofertas_manuais.json.",
    "canal tech sem oferta na fila há 58 min (busca extra também não achou). Abastecer ofertas_manuais.json."
   ],
-  "ultima_execucao": "18:14",
-  "execucoes": 23,
+  "ultima_execucao": "18:33",
+  "execucoes": 24,
   "telegram_posts": {
    "achadinhos": 9,
    "marcas": 5,
@@ -6567,7 +6567,7 @@
    "outro: palavra proibida: universal": 1
   },
   "instagram": {
-   "seguidores": 392,
+   "seguidores": 393,
    "posts": 90,
    "reach": 75,
    "profile_views": 145,
