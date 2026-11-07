@@ -838,10 +838,11 @@
    "⚠️ Garimpo parado desde 06/11 13:58 — abrir o app Claude e conferir as rotinas\nPouca oferta na fila: achadinhos 0, marcas 0, tech 0.",
    "canal achadinhos sem oferta na fila há 134 min (busca extra também não achou). Abastecer ofertas_manuais.json.",
    "canal tech sem oferta na fila há 246 min (busca extra também não achou). Abastecer ofertas_manuais.json.",
-   "canal marcas sem oferta na fila há 76 min (busca extra também não achou). Abastecer ofertas_manuais.json."
+   "canal marcas sem oferta na fila há 76 min (busca extra também não achou). Abastecer ofertas_manuais.json.",
+   "⚠️ Canal sem post: achadinhos 4 h — abrir o app Claude e conferir as rotinas"
   ],
-  "ultima_execucao": "13:32",
-  "execucoes": 11,
+  "ultima_execucao": "14:15",
+  "execucoes": 12,
   "telegram_posts": {
    "achadinhos": 9,
    "marcas": 5,
@@ -894,7 +895,8 @@
    "12:40 reels",
    "12:47 story_oferta",
    "13:20 story_convite",
-   "13:22 story_oferta"
+   "13:22 story_oferta",
+   "14:08 story_oferta"
   ],
   "shopee_ligada": true,
   "shopee_oficial_ids": {
@@ -3472,7 +3474,7 @@
    "shopee-47218637557": "nota",
    "shopee-22995173633": "nota",
    "shopee-22095302419": "nota",
-   "shopee-41785071328": "nota",
+   "shopee-41785071328": "vendas longe",
    "shopee-58216374413": "nota",
    "shopee-58216378069": "nota",
    "shopee-58264873805": "nota",
@@ -6470,8 +6472,8 @@
    "shopee-58254141192": "nota"
   },
   "shopee_oficial": {
-   "vendas longe": 2824,
-   "nota": 2291,
+   "vendas longe": 2825,
+   "nota": 2290,
    "outro: marca fora da lista boa": 122,
    "vendas perto (125+)": 113,
    "aprovada": 79,
@@ -6481,7 +6483,7 @@
    "outro: palavra proibida: universal": 1
   },
   "instagram": {
-   "seguidores": 385,
+   "seguidores": 386,
    "posts": 87,
    "reach": 74,
    "profile_views": 141,
