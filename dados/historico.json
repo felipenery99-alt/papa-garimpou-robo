@@ -625,7 +625,8 @@
   "2026-11-07 marcas 09:26 shopee-18216465769",
   "2026-11-07 achadinhos 09:33 shopee-58254966835",
   "2026-11-07 achadinhos 09:43 shopee-27231768018",
-  "2026-11-07 achadinhos 09:52 shopee-21997684262"
+  "2026-11-07 achadinhos 09:52 shopee-21997684262",
+  "2026-11-07 marcas 11:30 shopee-58260024078"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -857,7 +858,7 @@
   "shopee-20516472434": "2026-10-31T10:40:16.563374-03:00",
   "amz-B0D9KV9YWZ": "2026-10-31T10:45:50.166542-03:00",
   "amz-B09XJK1XS1": "2026-10-31T10:49:05.387675-03:00",
-  "shopee-58260024078": "2026-10-31T10:55:25.387827-03:00",
+  "shopee-58260024078": "2026-11-07T11:30:06.770342-03:00",
   "amz-B0CX1SDR83": "2026-10-31T11:02:22.623738-03:00",
   "shopee-22194331598": "2026-10-31T11:06:47.647165-03:00",
   "amz-B09GCJZ45Z": "2026-10-31T11:26:55.900377-03:00",
@@ -5386,6 +5387,24 @@
    "canal": "achadinhos",
    "entrou": "2026-11-07T09:02:42.188661-03:00",
    "dia": "2026-11-07"
+  },
+  {
+   "id": "shopee-58260024078",
+   "plataforma": "Shopee",
+   "nome": "Kit 2 Creatina Max Titanium 300g Pura",
+   "loja": "Hard Extreme",
+   "loja_oficial": true,
+   "preco": 68.99,
+   "preco_antigo": 149.98,
+   "desconto": 54,
+   "vendas": 538,
+   "nota": 5.0,
+   "comissao_pct": 8.0,
+   "imagem": "https://cf.shopee.com.br/file/br-11134207-820mc-mnsw2jxtutxe75",
+   "link": "https://s.shopee.com.br/AKbxxWgdYX",
+   "canal": "marcas",
+   "entrou": "2026-11-07T11:21:26.796147-03:00",
+   "dia": "2026-11-07"
   }
  ],
  "ig_feitos": [
@@ -5522,10 +5541,10 @@
   "2026-11-07 09:35 reels",
   "2026-11-07 09:38 story_oferta",
   "2026-11-07 10:20 story_oferta",
-  "2026-11-07 10:24 story_oferta"
+  "2026-11-07 10:24 story_oferta",
+  "2026-11-07 11:11 story_oferta"
  ],
  "ig_ofertas_usadas": [
-  "amz-B0G5BP29ZZ",
   "amz-B0CKD98ZHR",
   "amz-B0DN34CS3X",
   "amz-B07RQ9RGPS",
@@ -5724,7 +5743,8 @@
   "shopee-20299205359",
   "shopee-22693266079",
   "shopee-21916807534",
-  "shopee-20999203046"
+  "shopee-20999203046",
+  "shopee-58261216325"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
@@ -5861,7 +5881,7 @@
   "kitde6paresmeiaslupokidsinfantilcanocurtoalgodaotamanho24ao35": "2026-10-31T10:40:16.563374-03:00",
   "smarttvlg554kuhd55ut8050comalexaechromecast": "2026-10-31T10:45:50.166542-03:00",
   "kit8poteshermeticoselectroluxcomvedacaodesilicone": "2026-10-31T10:49:05.387675-03:00",
-  "kit2creatinamaxtitanium300gpura": "2026-10-31T10:55:25.387827-03:00",
+  "kit2creatinamaxtitanium300gpura": "2026-11-07T11:30:06.770342-03:00",
   "liquidificadorphilipswalitaserie3000turbo1200w110v": "2026-10-31T11:02:22.623738-03:00",
   "wheypromaxtitaniumproteinprocombcaaeaminoacidos1kg": "2026-10-31T11:06:47.647165-03:00",
   "multiprocessadorphilipswalitapowerchop750w110v": "2026-10-31T11:26:55.900377-03:00",
@@ -6457,7 +6477,7 @@
  "pede_semana": "2026-45",
  "ultimo_garimpo": "2026-11-06T13:58:12-03:00",
  "vigia_aviso_post": "2026-11-07T10:34:37.597636-03:00",
- "vigia_aviso_garimpo": "2026-11-07T08:17:20.758448-03:00",
+ "vigia_aviso_garimpo": "2026-11-07T11:21:26.796147-03:00",
  "resumo_enviado": "2026-11-05",
  "token_conferido": "2026-11-07",
  "meta_token": {
@@ -6475,12 +6495,13 @@
   "2026-11-06 noite tech",
   "2026-11-06 noite marcas",
   "2026-11-07 manhã tech",
-  "2026-11-07 manhã marcas"
+  "2026-11-07 manhã marcas",
+  "2026-11-07 manhã achadinhos"
  ],
  "reserva_meio": "2026-11-07T09:40:45.583971-03:00",
  "reserva_cheia": {
   "achadinhos": "2026-11-07T10:34:37.597636-03:00",
-  "tech": "2026-11-07T09:48:21.830394-03:00",
+  "tech": "2026-11-07T11:21:26.796147-03:00",
   "marcas": "2026-11-07T10:34:37.597636-03:00"
  }
 }
