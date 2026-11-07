@@ -5520,11 +5520,11 @@
   "2026-11-07 08:52 story_oferta",
   "2026-11-07 feed",
   "2026-11-07 09:35 reels",
-  "2026-11-07 09:38 story_oferta"
+  "2026-11-07 09:38 story_oferta",
+  "2026-11-07 10:20 story_oferta",
+  "2026-11-07 10:24 story_oferta"
  ],
  "ig_ofertas_usadas": [
-  "amz-B0FV4DRRW9",
-  "amz-B0CX1TKC62",
   "amz-B0G5BP29ZZ",
   "amz-B0CKD98ZHR",
   "amz-B0DN34CS3X",
@@ -5722,7 +5722,9 @@
   "shopee-18797677549",
   "shopee-41478796304",
   "shopee-20299205359",
-  "shopee-22693266079"
+  "shopee-22693266079",
+  "shopee-21916807534",
+  "shopee-20999203046"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
@@ -6454,7 +6456,7 @@
  "story_link_dia": "2026-11-06",
  "pede_semana": "2026-45",
  "ultimo_garimpo": "2026-11-06T13:58:12-03:00",
- "vigia_aviso_post": "2026-11-06T20:33:45.303011-03:00",
+ "vigia_aviso_post": "2026-11-07T10:34:37.597636-03:00",
  "vigia_aviso_garimpo": "2026-11-07T08:17:20.758448-03:00",
  "resumo_enviado": "2026-11-05",
  "token_conferido": "2026-11-07",
@@ -6472,12 +6474,13 @@
   "2026-11-06 noite achadinhos",
   "2026-11-06 noite tech",
   "2026-11-06 noite marcas",
-  "2026-11-07 manhã tech"
+  "2026-11-07 manhã tech",
+  "2026-11-07 manhã marcas"
  ],
  "reserva_meio": "2026-11-07T09:40:45.583971-03:00",
  "reserva_cheia": {
-  "achadinhos": "2026-11-06T19:59:07.580270-03:00",
+  "achadinhos": "2026-11-07T10:34:37.597636-03:00",
   "tech": "2026-11-07T09:48:21.830394-03:00",
-  "marcas": "2026-11-06T20:33:45.303011-03:00"
+  "marcas": "2026-11-07T10:34:37.597636-03:00"
  }
 }
