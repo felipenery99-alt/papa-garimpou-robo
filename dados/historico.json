@@ -692,7 +692,13 @@
   "2026-11-08 marcas 15:12 shopee-22194331598",
   "2026-11-08 achadinhos 15:28 shopee-22192651105",
   "2026-11-08 tech 15:35 shopee-58206236149",
-  "2026-11-08 tech 15:53 shopee-58262394728"
+  "2026-11-08 tech 15:53 shopee-58262394728",
+  "2026-11-08 achadinhos 16:01 shopee-46611963995",
+  "2026-11-08 marcas 16:06 shopee-21049729949",
+  "2026-11-08 marcas 16:14 shopee-44106064553",
+  "2026-11-08 tech 16:22 shopee-58260087298",
+  "2026-11-08 achadinhos 16:28 shopee-23398535010",
+  "2026-11-08 marcas 16:34 shopee-49507610530"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -1369,7 +1375,13 @@
   "shopee-11444965462": "2026-11-08T15:02:27.342103-03:00",
   "shopee-22192651105": "2026-11-08T15:28:25.308685-03:00",
   "shopee-58206236149": "2026-11-08T15:35:53.823466-03:00",
-  "shopee-58262394728": "2026-11-08T15:53:28.883076-03:00"
+  "shopee-58262394728": "2026-11-08T15:53:28.883076-03:00",
+  "shopee-46611963995": "2026-11-08T16:01:22.649531-03:00",
+  "shopee-21049729949": "2026-11-08T16:06:22.657956-03:00",
+  "shopee-44106064553": "2026-11-08T16:14:25.164707-03:00",
+  "shopee-58260087298": "2026-11-08T16:22:02.216589-03:00",
+  "shopee-23398535010": "2026-11-08T16:28:20.218160-03:00",
+  "shopee-49507610530": "2026-11-08T16:34:35.146641-03:00"
  },
  "ofertas_dia": [
   {
@@ -6621,6 +6633,120 @@
    "canal": "tech",
    "entrou": "2026-11-08T13:29:59.688675-03:00",
    "dia": "2026-11-08"
+  },
+  {
+   "id": "shopee-46611963995",
+   "plataforma": "Shopee",
+   "nome": "Presente Natura Essencial Masculino Miniaturas 3un",
+   "loja": "NATURA",
+   "loja_oficial": true,
+   "preco": 205.74,
+   "preco_antigo": 342.9,
+   "desconto": 40,
+   "vendas": 144,
+   "nota": 5.0,
+   "comissao_pct": 13.0,
+   "imagem": "https://cf.shopee.com.br/file/sg-11134201-823qb-mp9vinao270tc3",
+   "link": "https://s.shopee.com.br/1W0ahVHS6r",
+   "quase": true,
+   "canal": "achadinhos",
+   "entrou": "2026-11-08T15:03:56.919405-03:00",
+   "dia": "2026-11-08"
+  },
+  {
+   "id": "shopee-21049729949",
+   "plataforma": "Shopee",
+   "nome": "Creatina Pura 300g - Max Titanium",
+   "loja": "Empório Natugreen",
+   "loja_oficial": true,
+   "preco": 48.99,
+   "preco_antigo": 195.96,
+   "desconto": 75,
+   "vendas": 192,
+   "nota": 4.9,
+   "comissao_pct": 3.0,
+   "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lyurzqrok1atf2",
+   "link": "https://s.shopee.com.br/9pfid0PlOp",
+   "quase": true,
+   "canal": "marcas",
+   "entrou": "2026-11-08T15:43:20.079794-03:00",
+   "dia": "2026-11-08"
+  },
+  {
+   "id": "shopee-44106064553",
+   "plataforma": "Shopee",
+   "nome": "Barra De Proteína Ovomaltine Protein Crisp Bar 45g Display 12 unidades Integralmedica",
+   "loja": "DaFabricaSuplementos",
+   "loja_oficial": true,
+   "preco": 99.99,
+   "preco_antigo": 169.47,
+   "desconto": 41,
+   "vendas": 208,
+   "nota": 5.0,
+   "comissao_pct": 11.0,
+   "imagem": "https://cf.shopee.com.br/file/br-11134211-7r98o-mbychrgq6b1524",
+   "link": "https://s.shopee.com.br/9fMIQi3zml",
+   "quase": true,
+   "canal": "marcas",
+   "entrou": "2026-11-08T15:43:20.079794-03:00",
+   "dia": "2026-11-08"
+  },
+  {
+   "id": "shopee-58260087298",
+   "plataforma": "Shopee",
+   "nome": "TP-Link EX1500 Roteador Wi-Fi 6 AX1500 Dual Band, 4 portas Gigabit",
+   "loja": "TP-Link Brasil",
+   "loja_oficial": true,
+   "preco": 177.0,
+   "preco_antigo": 249.3,
+   "desconto": 29,
+   "vendas": 287,
+   "nota": 5.0,
+   "comissao_pct": 8.0,
+   "imagem": "https://cf.shopee.com.br/file/br-11134207-820lq-mq5aj15b1hxd47",
+   "link": "https://s.shopee.com.br/BVD7MS3Jk",
+   "quase": true,
+   "canal": "tech",
+   "entrou": "2026-11-08T13:29:59.688675-03:00",
+   "dia": "2026-11-08"
+  },
+  {
+   "id": "shopee-23398535010",
+   "plataforma": "Shopee",
+   "nome": "Sanduicheira E Grill 2 Em 1 Redstone 750w Bgr16 Cor Preto Com Prata Britânia",
+   "loja": "INTER LEVEL BRASIL",
+   "loja_oficial": true,
+   "preco": 139.99,
+   "preco_antigo": 218.73,
+   "desconto": 36,
+   "vendas": 128,
+   "nota": 4.9,
+   "comissao_pct": 12.0,
+   "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-ma1etid7kym1b1",
+   "link": "https://s.shopee.com.br/8fTlEeiFuo",
+   "quase": true,
+   "canal": "achadinhos",
+   "entrou": "2026-11-08T15:03:56.919405-03:00",
+   "dia": "2026-11-08"
+  },
+  {
+   "id": "shopee-49507610530",
+   "plataforma": "Shopee",
+   "nome": "Tênis Casual Eros 2 Confortável Unissex - Olympikus",
+   "loja": "Tubarão Max",
+   "loja_oficial": true,
+   "preco": 169.9,
+   "preco_antigo": 320.57,
+   "desconto": 47,
+   "vendas": 139,
+   "nota": 4.9,
+   "comissao_pct": 3.0,
+   "imagem": "https://cf.shopee.com.br/file/sg-11134201-82614-mm6e87jda6fce9",
+   "link": "https://s.shopee.com.br/1gK0ttEnZk",
+   "quase": true,
+   "canal": "marcas",
+   "entrou": "2026-11-08T15:43:20.079794-03:00",
+   "dia": "2026-11-08"
   }
  ],
  "ig_feitos": [
@@ -6772,7 +6898,8 @@
   "2026-11-08 feed",
   "2026-11-08 14:25 post_achado",
   "2026-11-08 15:00 adivinha",
-  "2026-11-08 15:03 story_oferta"
+  "2026-11-08 15:03 story_oferta",
+  "2026-11-08 16:05 adivinha_resposta"
  ],
  "ig_ofertas_usadas": [
   "shopee-23094056729",
@@ -7041,24 +7168,6 @@
  "ultimo_pilar": "dica",
  "fila": [
   {
-   "id": "shopee-58260087298",
-   "plataforma": "Shopee",
-   "nome": "TP-Link EX1500 Roteador Wi-Fi 6 AX1500 Dual Band, 4 portas Gigabit",
-   "loja": "TP-Link Brasil",
-   "loja_oficial": true,
-   "preco": 177.0,
-   "preco_antigo": 249.3,
-   "desconto": 29,
-   "vendas": 287,
-   "nota": 5.0,
-   "comissao_pct": 8.0,
-   "imagem": "https://cf.shopee.com.br/file/br-11134207-820lq-mq5aj15b1hxd47",
-   "link": "https://s.shopee.com.br/BVD7MS3Jk",
-   "quase": true,
-   "canal": "tech",
-   "entrou": "2026-11-08T13:29:59.688675-03:00"
-  },
-  {
    "id": "shopee-23899333842",
    "plataforma": "Shopee",
    "nome": "Smartphone Motorola Moto G06 4G 256GB 4GB RAM Câmera Traseira 50MP + Câmera Frontal 8MP Tela de 6,9\" 5200 mAh -  Bege",
@@ -7093,42 +7202,6 @@
    "canal": "tech",
    "entrou": "2026-11-08T13:29:59.688675-03:00",
    "reprise_dias": 2
-  },
-  {
-   "id": "shopee-46611963995",
-   "plataforma": "Shopee",
-   "nome": "Presente Natura Essencial Masculino Miniaturas 3un",
-   "loja": "NATURA",
-   "loja_oficial": true,
-   "preco": 205.74,
-   "preco_antigo": 342.9,
-   "desconto": 40,
-   "vendas": 144,
-   "nota": 5.0,
-   "comissao_pct": 13.0,
-   "imagem": "https://cf.shopee.com.br/file/sg-11134201-823qb-mp9vinao270tc3",
-   "link": "https://s.shopee.com.br/1W0ahVHS6r",
-   "quase": true,
-   "canal": "achadinhos",
-   "entrou": "2026-11-08T15:03:56.919405-03:00"
-  },
-  {
-   "id": "shopee-23398535010",
-   "plataforma": "Shopee",
-   "nome": "Sanduicheira E Grill 2 Em 1 Redstone 750w Bgr16 Cor Preto Com Prata Britânia",
-   "loja": "INTER LEVEL BRASIL",
-   "loja_oficial": true,
-   "preco": 139.99,
-   "preco_antigo": 218.73,
-   "desconto": 36,
-   "vendas": 128,
-   "nota": 4.9,
-   "comissao_pct": 12.0,
-   "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-ma1etid7kym1b1",
-   "link": "https://s.shopee.com.br/8fTlEeiFuo",
-   "quase": true,
-   "canal": "achadinhos",
-   "entrou": "2026-11-08T15:03:56.919405-03:00"
   },
   {
    "id": "shopee-58203329255",
@@ -7273,60 +7346,6 @@
    "canal": "achadinhos",
    "entrou": "2026-11-08T15:03:56.919405-03:00",
    "reprise_dias": 2
-  },
-  {
-   "id": "shopee-21049729949",
-   "plataforma": "Shopee",
-   "nome": "Creatina Pura 300g - Max Titanium",
-   "loja": "Empório Natugreen",
-   "loja_oficial": true,
-   "preco": 48.99,
-   "preco_antigo": 195.96,
-   "desconto": 75,
-   "vendas": 192,
-   "nota": 4.9,
-   "comissao_pct": 3.0,
-   "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lyurzqrok1atf2",
-   "link": "https://s.shopee.com.br/9pfid0PlOp",
-   "quase": true,
-   "canal": "marcas",
-   "entrou": "2026-11-08T15:43:20.079794-03:00"
-  },
-  {
-   "id": "shopee-44106064553",
-   "plataforma": "Shopee",
-   "nome": "Barra De Proteína Ovomaltine Protein Crisp Bar 45g Display 12 unidades Integralmedica",
-   "loja": "DaFabricaSuplementos",
-   "loja_oficial": true,
-   "preco": 99.99,
-   "preco_antigo": 169.47,
-   "desconto": 41,
-   "vendas": 208,
-   "nota": 5.0,
-   "comissao_pct": 11.0,
-   "imagem": "https://cf.shopee.com.br/file/br-11134211-7r98o-mbychrgq6b1524",
-   "link": "https://s.shopee.com.br/9fMIQi3zml",
-   "quase": true,
-   "canal": "marcas",
-   "entrou": "2026-11-08T15:43:20.079794-03:00"
-  },
-  {
-   "id": "shopee-49507610530",
-   "plataforma": "Shopee",
-   "nome": "Tênis Casual Eros 2 Confortável Unissex - Olympikus",
-   "loja": "Tubarão Max",
-   "loja_oficial": true,
-   "preco": 169.9,
-   "preco_antigo": 320.57,
-   "desconto": 47,
-   "vendas": 139,
-   "nota": 4.9,
-   "comissao_pct": 3.0,
-   "imagem": "https://cf.shopee.com.br/file/sg-11134201-82614-mm6e87jda6fce9",
-   "link": "https://s.shopee.com.br/1gK0ttEnZk",
-   "quase": true,
-   "canal": "marcas",
-   "entrou": "2026-11-08T15:43:20.079794-03:00"
   },
   {
    "id": "shopee-58253650623",
@@ -7912,7 +7931,13 @@
   "cabousbdedadosmotorolaoriginalusbc1metro": "2026-11-08T15:02:27.342103-03:00",
   "eudoraclub6voyagedeocoloniamasculino95ml": "2026-11-08T15:28:25.308685-03:00",
   "caixadesomjblboombox4aprovadeaguamarrom": "2026-11-08T15:35:53.823466-03:00",
-  "fonedeouvidobluetoothjbltune530btoverearsemfioate76horasdebateriapreto": "2026-11-08T15:53:28.883076-03:00"
+  "fonedeouvidobluetoothjbltune530btoverearsemfioate76horasdebateriapreto": "2026-11-08T15:53:28.883076-03:00",
+  "presentenaturaessencialmasculinominiaturas3un": "2026-11-08T16:01:22.649531-03:00",
+  "creatinapura300gmaxtitanium": "2026-11-08T16:06:22.657956-03:00",
+  "barradeproteinaovomaltineproteincrispbar45gdisplay12unidadesintegralmedica": "2026-11-08T16:14:25.164707-03:00",
+  "tplinkex1500roteadorwifi6ax1500dualband4portasgigabit": "2026-11-08T16:22:02.216589-03:00",
+  "sanduicheiraegrill2em1redstone750wbgr16corpretocompratabritania": "2026-11-08T16:28:20.218160-03:00",
+  "teniscasualeros2confortavelunissexolympikus": "2026-11-08T16:34:35.146641-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
@@ -8184,7 +8209,7 @@
   "marcas": "2026-11-08T15:43:20.079794-03:00"
  },
  "top10_dia": "2026-11-07",
- "manuais_lidos": "2026-11-08T15:43:20.079794-03:00",
+ "manuais_lidos": "2026-11-08T16:34:31.760364-03:00",
  "reserva_resultado": {
   "2026-11-07": {
    "achadinhos": {
@@ -8222,7 +8247,7 @@
    "hora": "2026-11-08T12:05:00.233577-03:00"
   }
  },
- "ig_respondido_em": "2026-11-08T15:43:20.079794-03:00",
+ "ig_respondido_em": "2026-11-08T16:34:31.760364-03:00",
  "dm_auto": {
   "2026-11-08": {
    "com_palavra": 0,

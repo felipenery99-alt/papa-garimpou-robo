@@ -15,6 +15,21 @@
      "canal": "marcas"
     }
    ]
+  },
+  {
+   "tipo": "adivinha_resposta",
+   "hora": "16:06",
+   "produtos": [
+    {
+     "nome": "Insider Daily T-shirt Feminina",
+     "preco_antigo": 139.0,
+     "preco": 53.09,
+     "desconto": 62,
+     "link": "https://www.amazon.com.br/dp/B0BHMDJG7M?tag=papagarimpou-20",
+     "loja": "Vendido e entregue pela Amazon",
+     "canal": "marcas"
+    }
+   ]
   }
  ]
 }

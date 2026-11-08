@@ -966,17 +966,17 @@
    "Página do Facebook parada: o META_TOKEN não tem a permissão pages_manage_posts. No app da Meta (developers.facebook.com) incluir pages_manage_posts, gerar um token de Página novo com ela e trocar o Secret META_TOKEN no GitHub. O robô volta a postar sozinho quando o token mudar.",
    "⚠️ Garimpo parado desde 07:44 — abrir o app Claude e conferir as rotinas\nPouca oferta na fila: marcas 0."
   ],
-  "ultima_execucao": "15:03",
-  "execucoes": 11,
+  "ultima_execucao": "15:54",
+  "execucoes": 12,
   "telegram_posts": {
-   "achadinhos": 20,
-   "marcas": 20,
-   "tech": 15
+   "achadinhos": 22,
+   "marcas": 23,
+   "tech": 16
   },
   "ultimo_post": {
-   "achadinhos": "15:28",
-   "marcas": "15:12",
-   "tech": "15:53"
+   "achadinhos": "16:28",
+   "marcas": "16:34",
+   "tech": "16:22"
   },
   "meta_token": {
    "tipo": "SYSTEM_USER",
@@ -1025,7 +1025,8 @@
    "feed",
    "14:25 post_achado",
    "15:00 adivinha",
-   "15:03 story_oferta"
+   "15:03 story_oferta",
+   "16:05 adivinha_resposta"
   ],
   "shopee_ligada": true,
   "reserva_resultado": {
@@ -5502,15 +5503,15 @@
    "desconto perto (até 10 pts)": 23
   },
   "instagram": {
-   "seguidores": 397,
+   "seguidores": 398,
    "posts": 97,
    "reach": 33,
-   "profile_views": 24,
+   "profile_views": 25,
    "website_clicks": 1,
    "stories_ativos": 25
   },
   "reels_alcance": {
-   "atualizado": "2026-11-08T15:03:56.919405-03:00",
+   "atualizado": "2026-11-08T15:54:08.917038-03:00",
    "itens": [
     {
      "id": "18031310432866524",
