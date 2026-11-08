@@ -961,18 +961,20 @@
   "erros": [
    "Página do Facebook: 2026-11-08 10:10 oferta falhou 3 vezes: Página recusou o post: {'message': '(#200) The permission(s) pages_manage_posts are not available. It could because either they are deprecated or need to be approved by App Review.', 'type': 'OAuthExc",
    "⚠️ Garimpo parado desde 07:44 — abrir o app Claude e conferir as rotinas\nPouca oferta na fila: achadinhos 0.",
-   "canal achadinhos sem oferta na fila há 75 min (busca extra também não achou). Abastecer ofertas_manuais.json."
+   "canal achadinhos sem oferta na fila há 75 min (busca extra também não achou). Abastecer ofertas_manuais.json.",
+   "⚠️ Canal sem post: achadinhos 2 h — abrir o app Claude e conferir as rotinas",
+   "Página do Facebook parada: o META_TOKEN não tem a permissão pages_manage_posts. No app da Meta (developers.facebook.com) incluir pages_manage_posts, gerar um token de Página novo com ela e trocar o Secret META_TOKEN no GitHub. O robô volta a postar sozinho quando o token mudar."
   ],
-  "ultima_execucao": "12:06",
-  "execucoes": 7,
+  "ultima_execucao": "12:51",
+  "execucoes": 8,
   "telegram_posts": {
-   "achadinhos": 13,
-   "marcas": 14,
+   "achadinhos": 16,
+   "marcas": 16,
    "tech": 9
   },
   "ultimo_post": {
-   "achadinhos": "10:51",
-   "marcas": "12:43",
+   "achadinhos": "13:38",
+   "marcas": "13:14",
    "tech": "12:50"
   },
   "meta_token": {
@@ -1010,26 +1012,26 @@
    "10:20 story_oferta",
    "10:24 story_oferta",
    "11:11 story_oferta",
-   "feed",
    "11:50 carrossel_top5",
    "11:56 story_oferta",
-   "feed",
    "12:00 reels",
    "12:15 story_top4",
    "12:19 story_oferta",
-   "12:47 story_oferta"
+   "12:47 story_oferta",
+   "13:20 story_convite",
+   "13:22 story_oferta"
   ],
   "shopee_ligada": true,
   "reserva_resultado": {
    "tech": {
-    "busca": 0,
-    "quase": 0,
-    "reprise": 0
+    "busca": 1,
+    "quase": 7,
+    "reprise": 1
    },
    "achadinhos": {
     "busca": 0,
-    "quase": 0,
-    "reprise": 0
+    "quase": 2,
+    "reprise": 3
    },
    "marcas": {
     "busca": 0,
@@ -4712,17 +4714,59 @@
    "shopee-22198091265": "vendas longe",
    "shopee-58256288895": "desconto longe",
    "shopee-23494418184": "vendas perto (125+)",
-   "shopee-58258888968": "vendas perto (125+)"
+   "shopee-58258888968": "vendas perto (125+)",
+   "shopee-23093825130": "nota",
+   "shopee-58270529650": "nota",
+   "shopee-23993065202": "vendas longe",
+   "shopee-23692886661": "vendas longe",
+   "shopee-23692886645": "vendas longe",
+   "shopee-22797383485": "vendas longe",
+   "shopee-22792892155": "vendas longe",
+   "shopee-22498993249": "vendas longe",
+   "shopee-58263574170": "nota",
+   "shopee-23299439754": "nota",
+   "shopee-47656725823": "nota",
+   "shopee-23692886665": "vendas longe",
+   "shopee-22598803034": "vendas longe",
+   "shopee-23493529678": "outro: palavra proibida: compatível",
+   "shopee-23294209802": "outro: palavra proibida: compatível",
+   "shopee-56114371185": "vendas longe",
+   "shopee-58267582822": "vendas longe",
+   "shopee-19897984745": "outro: palavra proibida: compatível",
+   "shopee-22394189179": "outro: palavra proibida: compatível",
+   "shopee-23493331932": "vendas longe",
+   "shopee-22997774416": "outro: palavra proibida: compatível",
+   "shopee-22094199088": "outro: palavra proibida: compatível",
+   "shopee-20298273928": "outro: palavra proibida: compatível",
+   "shopee-58267081043": "vendas longe",
+   "shopee-23398675848": "outro: palavra proibida: compatível",
+   "shopee-23294209767": "outro: palavra proibida: compatível",
+   "shopee-22895515256": "outro: palavra proibida: compatível",
+   "shopee-58203148437": "outro: palavra proibida: compatível",
+   "shopee-58257970691": "outro: palavra proibida: compatível",
+   "shopee-58261645723": "vendas longe",
+   "shopee-58207968485": "outro: palavra proibida: compatível",
+   "shopee-20299834523": "outro: palavra proibida: compatível",
+   "shopee-23197171734": "outro: palavra proibida: compatível",
+   "shopee-23398720706": "outro: palavra proibida: compatível",
+   "shopee-22994324562": "outro: palavra proibida: compatível",
+   "shopee-20399834491": "outro: palavra proibida: compatível",
+   "shopee-58203148421": "outro: palavra proibida: compatível",
+   "shopee-23599173746": "outro: palavra proibida: compatível",
+   "shopee-18198147670": "outro: palavra proibida: compatível",
+   "shopee-58206303543": "vendas longe",
+   "shopee-22292691651": "vendas longe",
+   "shopee-23398675863": "outro: palavra proibida: compatível"
   },
   "shopee_oficial": {
-   "vendas longe": 2160,
-   "nota": 1132,
+   "vendas longe": 2175,
+   "nota": 1137,
    "vendas perto (125+)": 110,
    "outro: marca fora da lista boa": 103,
    "aprovada": 74,
    "desconto longe": 61,
-   "desconto perto (até 10 pts)": 23,
-   "outro: palavra proibida: compatível": 12
+   "outro: palavra proibida: compatível": 34,
+   "desconto perto (até 10 pts)": 23
   },
   "instagram": {
    "seguidores": 395,
@@ -4733,7 +4777,7 @@
    "stories_ativos": 25
   },
   "reels_alcance": {
-   "atualizado": "2026-11-08T12:06:21.767001-03:00",
+   "atualizado": "2026-11-08T12:51:05.072627-03:00",
    "itens": [
     {
      "id": "18031310432866524",
@@ -4748,7 +4792,7 @@
      "id": "18109659884021018",
      "hora": "07/11 21:34",
      "capa": "ate_off",
-     "reach": 1,
+     "reach": 2,
      "views": 1,
      "shares": 0,
      "saved": 0
@@ -4965,10 +5009,10 @@
    "posts": 0,
    "ultimo": null,
    "erro": {
-    "hora": "08/11 10:34",
-    "erro": "Página recusou o post: {'message': '(#200) The permission(s) pages_manage_posts are not available. It could because either they are deprecated or need to be approved by App Review.', 'type': 'OAuthException', 'code': 200, 'fbtrace_id': 'AaxPuqreALUF8dKSC8VymBi'}"
+    "hora": "08/11 13:21",
+    "erro": "Página recusou o post: {'message': '(#200) The permission(s) pages_manage_posts are not available. It could because either they are deprecated or need to be approved by App Review.', 'type': 'OAuthException', 'code': 200, 'fbtrace_id': 'ABlCA9V1QzfBJpKFyOC-S4g'}"
    },
-   "parado_sem_permissao": null
+   "parado_sem_permissao": "08/11 13:21"
   }
  }
 }
