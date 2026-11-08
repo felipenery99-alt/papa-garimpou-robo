@@ -262,6 +262,39 @@ def stories_ativos() -> int:
     return len(r.get("data", []))
 
 
+def reels_alcance(dias: int = 7) -> list[dict]:
+    """08/11 (CEO): alcance de cada Reels dos últimos `dias` dias (reach, views, shares, saved).
+    'plays' saiu da Graph API em 2025 e virou 'views'; métrica recusada não derruba as outras."""
+    from datetime import datetime, timedelta, timezone
+    c = conta()
+    desde = datetime.now(timezone.utc) - timedelta(days=dias)
+    r = requests.get(f"{G}/{c['ig_id']}/media", timeout=30, params={
+        "access_token": _token(), "limit": 60,
+        "fields": "id,timestamp,media_product_type,caption,permalink"}).json()
+    if "error" in r:
+        raise RuntimeError(f"lista de mídias: {r['error'].get('message')}")
+    saida = []
+    for m in r.get("data", []):
+        quando = datetime.fromisoformat(m["timestamp"].replace("+0000", "+00:00"))
+        if m.get("media_product_type") != "REELS" or quando < desde:
+            continue
+        num = {}
+        ins = requests.get(f"{G}/{m['id']}/insights", timeout=30, params={
+            "access_token": _token(), "metric": "reach,views,shares,saved"}).json()
+        if "error" in ins:   # uma métrica fora do ar: pede uma por vez
+            for met in ("reach", "views", "plays", "shares", "saved"):
+                um = requests.get(f"{G}/{m['id']}/insights", timeout=30,
+                                  params={"access_token": _token(), "metric": met}).json()
+                for d in um.get("data", []):
+                    num[d["name"]] = (d.get("values") or [{}])[0].get("value", d.get("total_value", {}).get("value"))
+        else:
+            for d in ins.get("data", []):
+                num[d["name"]] = (d.get("values") or [{}])[0].get("value", d.get("total_value", {}).get("value"))
+        saida.append({"id": m["id"], "quando": quando.isoformat(), "legenda": (m.get("caption") or "")[:80],
+                      "link": m.get("permalink"), **num})
+    return saida
+
+
 def metricas() -> dict:
     """Seguidores, posts e alcance do dia (para o relatório)."""
     c = conta()

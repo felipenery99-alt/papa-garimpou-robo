@@ -88,6 +88,12 @@ def gravar_relatorio(h: dict, agora: datetime) -> None:
             dia["instagram"]["stories_ativos"] = instagram.stories_ativos()
         except Exception as e:
             dia["instagram"] = {"erro": str(e)[:200]}
+        try:
+            ra = atualizar_reels_alcance(h, agora)
+            if ra:
+                dia["reels_alcance"] = ra
+        except Exception as e:
+            dia["reels_alcance"] = {"erro": str(e)[:200]}
     dia["erros"] = (dia.get("erros", []) + telegram.ERROS)[-30:]
     for velho in sorted(rel)[:-14]:
         rel.pop(velho)
@@ -375,7 +381,7 @@ def conferir_oferta(o: dict, agora: datetime) -> dict | None:
             return None
         import shopee
         try:
-            achados = [n for n in shopee._pagina(o["nome"][:60], 1, 20) if n["id"] == o["id"]]
+            achados = [n for n in shopee._pagina(o["nome"][:60], 1, 50) if n["id"] == o["id"]]   # 08/11: era 20
         except Exception:
             return None
         if not achados:
@@ -563,6 +569,13 @@ def garimpo_reserva(h: dict, shopee, agora: datetime, ult_garimpo: datetime | No
                 cheia[canal] = agora.isoformat()
                 termos = list(config.BUSCAS[canal])
                 fonte = lambda t: shopee.buscar_fundo(t, paginas=(3, 4, 5, 6))
+                if longo:
+                    # 08/11 (CEO: reserva_resultado zerado em 07 e 08/11): a faixa quase boa só olhava as páginas
+                    # 3–6, mas as "vendas perto (125+)" (~100/dia) aparecem nas páginas 1–2 da busca normal, que
+                    # as reprovou pela regra cheia e nunca mais as via. Zerado há 2 h: páginas 1–2 + "oficial" + 3–4.
+                    fonte = lambda t: shopee.buscar(t) + shopee.buscar_fundo(t, paginas=(3, 4))
+            elif longo:
+                fonte = shopee.buscar   # varredura cheia já feita nesta hora: faixa quase boa nas páginas 1–2
             try:
                 achadas = garimpar_todas(canal, fonte, h, agora, termos, quase=longo)
                 antes = {f["id"] for f in h.get("fila", [])}
@@ -573,21 +586,30 @@ def garimpo_reserva(h: dict, shopee, agora: datetime, ult_garimpo: datetime | No
             except Exception as e:
                 print(f"[reserva] Shopee {canal}: {e}")
         ids_fila = {f["id"] for f in h.get("fila", [])}
-        # 07/11: oferta manual já vencida não tem como ser reconferida; nem gasta tentativa
-        velhas = sorted((o for o in h.get("ofertas_dia", []) if o.get("canal") == canal and o["id"] not in ids_fila
-                         and (o["id"].startswith("shopee-") or (o.get("valida_ate") or "") >= agora.isoformat())
-                         and not ja_postado_recente(h, o["id"], agora, o.get("nome", ""),
-                                                    config.RESERVA_REPRISE_DIAS_ZERADO if longo else None)),
-                        key=qualidade.pontuar, reverse=True)
+        # 08/11: sem nada novo na busca, a reprise desce de 3 para 2 dias (canal zerado há 2 h tem que postar).
+        # Sem o canal zerado há 2 h a reprise segue em 7 dias (não repetir), como antes.
+        prazos = ([config.RESERVA_REPRISE_DIAS_ZERADO, config.RESERVA_REPRISE_DIAS_MINIMO] if longo
+                  else [config.NAO_REPETIR_DIAS])
         voltaram = []
-        for o in velhas[:config.RESERVA_REPRISE_TENTAR]:
-            novo = conferir_oferta(o, agora)
-            if novo:
-                # "reprise_dias": a fila e o vigia usam este prazo para não descartar a reprise como repetida
-                voltaram.append({**{k: v for k, v in novo.items() if k not in ("dia", "so_telegram_ate")},
-                                 "reprise_dias": config.RESERVA_REPRISE_DIAS_ZERADO if longo else config.NAO_REPETIR_DIAS})
-            if len(voltaram) >= config.RESERVA_REPRISE_MAX:
+        tentadas = 0
+        for dias in prazos:
+            if voltaram:
                 break
+            # 07/11: oferta manual já vencida não tem como ser reconferida; nem gasta tentativa
+            velhas = sorted((o for o in h.get("ofertas_dia", []) if o.get("canal") == canal and o["id"] not in ids_fila
+                             and (o["id"].startswith("shopee-") or (o.get("valida_ate") or "") >= agora.isoformat())
+                             and not ja_postado_recente(h, o["id"], agora, o.get("nome", ""), dias)),
+                            key=qualidade.pontuar, reverse=True)
+            for o in velhas:
+                if tentadas >= config.RESERVA_REPRISE_TENTAR or len(voltaram) >= config.RESERVA_REPRISE_MAX:
+                    break
+                tentadas += 1
+                ids_fila.add(o["id"])
+                novo = conferir_oferta(o, agora)
+                if novo:
+                    # "reprise_dias": a fila e o vigia usam este prazo para não descartar a reprise como repetida
+                    voltaram.append({**{k: v for k, v in novo.items() if k not in ("dia", "so_telegram_ate")},
+                                     "reprise_dias": dias})
         if voltaram:
             entrar_na_fila(h, canal, voltaram, agora)
             res["reprise"] += len(voltaram)
@@ -771,14 +793,62 @@ LEGENDA_CTA = ("\n\nQuer as ofertas antes de todo mundo? Comenta TELEGRAM que o 
                "Publi · link de afiliado")
 
 
+# 08/11 (CEO): 1ª linha da legenda de todo Reels é gancho de compartilhamento (alterna por dia/horário)
+GANCHOS_REEL = ["Manda pra quem tá precisando disso 👇", "Salva pra não perder 📌"]
+
+
+def gancho_reel(agora: datetime) -> str:
+    return GANCHOS_REEL[(agora.timetuple().tm_yday + agora.hour) % len(GANCHOS_REEL)] + "\n\n"
+
+
+def capa_da_legenda(leg: str) -> str:
+    """Tipo de capa de um Reels antigo (antes do registro em ig_reels_log), pelo texto da legenda."""
+    if re.search(r"Até \d+% OFF", leg or ""):
+        return "ate_off"
+    if "achados do Papa" in (leg or ""):
+        return "achados"
+    return "banco"
+
+
+def atualizar_reels_alcance(h: dict, agora: datetime) -> dict | None:
+    """08/11 (CEO): alcance de cada Reels dos últimos 7 dias, por tipo de capa, e a capa campeã
+    (maior alcance médio com pelo menos REELS_CAMPEAO_MIN Reels). Atualiza a cada 3 h."""
+    import instagram
+    ra = h.get("reels_alcance") or {}
+    if ra.get("atualizado", "") > (agora - timedelta(hours=3)).isoformat():
+        return ra
+    log = h.get("ig_reels_log", {})
+    itens = []
+    for m in instagram.reels_alcance(7):
+        quando = datetime.fromisoformat(m["quando"]).astimezone(FUSO)
+        itens.append({"id": m["id"], "hora": f"{quando:%d/%m %H:%M}",
+                      "capa": log.get(m["id"], {}).get("capa") or capa_da_legenda(m.get("legenda", "")),
+                      "reach": m.get("reach"), "views": m.get("views", m.get("plays")),
+                      "shares": m.get("shares"), "saved": m.get("saved")})
+    por_capa = {}
+    for i in itens:
+        if i["reach"] is not None:
+            por_capa.setdefault(i["capa"], []).append(i["reach"])
+    medias = {c: {"n": len(v), "alcance_medio": round(sum(v) / len(v))} for c, v in por_capa.items()}
+    validas = {c: m for c, m in medias.items() if m["n"] >= config.REELS_CAMPEAO_MIN}
+    campeao = None
+    if validas and len(medias) >= 2:   # melhor média entre as capas com 3+ Reels, e só se superar as outras
+        melhor = max(validas, key=lambda c: validas[c]["alcance_medio"])
+        if all(validas[melhor]["alcance_medio"] >= m["alcance_medio"] for m in medias.values()):
+            campeao = melhor
+    h["reels_alcance"] = {"atualizado": agora.isoformat(), "itens": itens, "por_capa": medias, "campeao": campeao}
+    h["ig_reels_log"] = {k: v for k, v in log.items() if v.get("hora", "") >= (agora - timedelta(days=10)).isoformat()}
+    return h["reels_alcance"]
+
+
 def reels_do_banco(h: dict, agora: datetime) -> tuple[list[bytes], str]:
     """Reels sem oferta: capa + 3 peças de pilares diferentes do banco + convite."""
     import artes
     pcs = conteudo.escolher(h, agora.date(), n=3)
     quadros = [artes.capa_reel(("O PAPA", "ENSINA"), "3 coisas antes de comprar")] + [artes.peca(p) for p in pcs]
-    quadros.append(artes.story_convite())
+    quadros += [artes.story_convite(), artes.quadro_compartilhar()]
     leg = "😎💎 " + " / ".join(p["titulo"][0].title() for p in pcs) + "\n\n" + pcs[0]["legenda"].replace("😎💎 ", "")
-    return quadros, leg + SIGA_REEL + LEGENDA_CTA
+    return quadros, gancho_reel(agora) + leg + SIGA_REEL + LEGENDA_CTA
 
 
 def post_do_banco(h: dict, agora: datetime, chave: str) -> None:
@@ -1120,26 +1190,33 @@ def rodar_instagram(h: dict, agora: datetime) -> None:
                 top = sorted((o for o in h.get("ofertas_dia", []) if o.get("dia") == hoje and o["id"] not in ja
                               and liberada_ig(o, agora)),
                              key=qualidade.pontuar, reverse=True)[:5]
-                if len(top) >= 3:
+                # 08/11 (CEO): a capa campeã da medição (reels_alcance) manda no formato
+                campeao = (h.get("reels_alcance") or {}).get("campeao")
+                if len(top) >= 3 and campeao != "banco":
                     # 04/11 (Instagram atrasado na meta): a capa genérica "ACHADOS DO PAPA" não prende quem
                     # rola o feed. Capa com o maior desconto REAL do lote (vem da loja) e chamada para seguir.
                     maior = max(int(o.get("desconto") or 0) for o in top)
-                    if maior >= 20:
+                    if maior >= 20 and campeao != "achados":
+                        tipo_capa = "ate_off"
                         capa = artes.capa_reel((f"ATÉ {maior}% OFF", "EM MARCA BOA"),
                                                f"{len(top)} achados de hoje · segue o Papa")
                         topo = f"😎💎 Até {maior}% OFF em marca boa: os {len(top)} achados do Papa hoje"
                     else:
+                        tipo_capa = "achados"
                         capa = artes.capa_reel(("ACHADOS", "DO PAPA"), "Os melhores de hoje")
                         topo = "😎💎 Os achados do Papa hoje"
-                    quadros = ([capa] + [artes.story_oferta(o, o["canal"]) for o in top] + [artes.story_convite()])
+                    quadros = ([capa] + [artes.story_oferta(o, o["canal"]) for o in top]
+                               + [artes.story_convite(), artes.quadro_compartilhar()])
                     lista = "\n".join(f"{i+1}. {o['nome'][:60]} — {post._brl(o['preco'])}" for i, o in enumerate(top))
-                    leg = (topo + "\n\n" + lista
+                    leg = (gancho_reel(agora) + topo + "\n\n" + lista
                            + SIGA_REEL + LEGENDA_CTA)
                     h["ig_reels_ofertas"][hoje] = list(ja | {o["id"] for o in top})
                 else:
                     # sem oferta nova suficiente: Reels de dica do banco (alcance não pode parar)
+                    tipo_capa = "banco"
                     quadros, leg = reels_do_banco(h, agora)
-                instagram.reels(video.reel(quadros), leg)
+                rid = instagram.reels(video.reel(quadros), leg)
+                h.setdefault("ig_reels_log", {})[str(rid)] = {"capa": tipo_capa, "hora": agora.isoformat()}
                 h["ig_ultimo_reel"] = agora.isoformat()
             elif tipo == "carrossel_top5":
                 top = sorted(h.get("ofertas_dia", []), key=qualidade.pontuar, reverse=True)

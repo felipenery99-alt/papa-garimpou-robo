@@ -193,6 +193,11 @@ def capa_reel(linhas=("ACHADOS", "DO PAPA"), sub="Só marca boa, com desconto de
     return _jpeg(img)
 
 
+def quadro_compartilhar() -> bytes:
+    """08/11 (CEO: alcance cai sem rodada de seguir): último quadro de todo Reels pede compartilhamento."""
+    return capa_reel(("MANDA PRA", "UM AMIGO"), "Quem tá precisando disso?")
+
+
 def story_convite() -> bytes:
     """Story fixo de convite: mostra os 4 canais para a pessoa escolher o seu."""
     # 30/10: o convite antigo ("@papagarimpou") não virava clique (2 cliques/dia, 2 membros/canal).

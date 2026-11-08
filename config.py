@@ -27,17 +27,18 @@ INSTAGRAM_AGENDA = [
     ("08:45", "story_oferta"), ("10:20", "story_oferta"), ("11:50", "carrossel_top5"),
     # 01/11 (Central): interativos "responde no direct" no lugar de story de oferta comum —
     # adivinha o preço 15h (resposta ~1 h depois), A ou B 18h05; às quintas o post das 19h15 vira o carrossel salvável
-    ("12:15", "story_top4"), ("13:20", "story_convite"), ("15:00", "adivinha"), ("17:30", "reels"),
+    ("12:15", "story_top4"), ("13:20", "story_convite"), ("15:00", "adivinha"), ("18:30", "reels"),
     ("18:05", "a_ou_b"), ("19:15", "post_achado"), ("20:35", "story_top4"),
     ("21:20", "story_convite"),  # 29/10: 2º convite no pico da noite (Telegram parado em 2 membros/canal)
     # 29/10, dono: "alimentar o feed" — mais 4 posts de achado (sem oferta, sai peça do banco)
-    ("14:25", "post_achado"), ("16:55", "post_achado"), ("20:50", "post_achado"),
+    ("14:25", "post_achado"), ("16:55", "post_achado"), ("20:30", "reels"), ("20:50", "post_achado"),
     # 30/10 (CEO): Reels é o que alcança quem ainda não segue. 3 por dia nos picos, cada um com ofertas diferentes.
-    ("12:40", "reels"), ("21:05", "reels"),
-    # 05/11 (CEO): alcance 149 → 4.203 no dia em que a capa do Reels virou "ATÉ X% OFF". Dobrar a aposta: o post de
-    # achado das 09:35 vira o 4º Reels (ofertas diferentes dos outros; sem oferta nova, sai Reels de dica do banco).
-    ("09:35", "reels"),
+    # 05/11 (CEO): alcance 149 → 4.203 no dia em que a capa do Reels virou "ATÉ X% OFF" → 4 Reels por dia.
+    # 08/11 (CEO): os 4 Reels saem nos picos (12h, 18h30, 20h30, 21h30), não de manhã cedo; 09:35 volta a ser post.
+    ("12:00", "reels"), ("21:30", "reels"),
+    ("09:35", "post_achado"),
 ]
+REELS_CAMPEAO_MIN = 3   # 08/11: capa só vira "campeã" (formato dos 4 Reels) com pelo menos 3 Reels medidos
 
 # Dono, 28/10: "o Will posta 20 stories por dia pelo menos". Além da agenda acima, cada
 # execução do robo.yml publica 1 story (oferta do dia; sem oferta, peça do banco) → ~25/dia.
@@ -98,6 +99,7 @@ RESERVA_REPRISE_MAX = 3
 # e desconto até DESCONTO_FOLGA_QUASE pontos abaixo do mínimo.
 RESERVA_RELAXA_MIN = 120
 RESERVA_REPRISE_DIAS_ZERADO = 3
+RESERVA_REPRISE_DIAS_MINIMO = 2   # 08/11: sem nada na busca nem na reprise de 3 dias, tenta 2 dias
 VENDAS_QUASE_SHOPEE_OFICIAL = 125
 DESCONTO_FOLGA_QUASE = 5
 VIGIA_FILA_MIN = 3    # 03/11: garimpo velho só gera aviso se algum canal tiver menos que isso de ofertas válidas na fila
