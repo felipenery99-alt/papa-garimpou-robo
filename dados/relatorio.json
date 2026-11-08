@@ -959,17 +959,17 @@
  },
  "2026-11-08": {
   "erros": [],
-  "ultima_execucao": "03:22",
-  "execucoes": 1,
+  "ultima_execucao": "08:17",
+  "execucoes": 2,
   "telegram_posts": {
-   "achadinhos": 0,
-   "marcas": 0,
-   "tech": 0
+   "achadinhos": 4,
+   "marcas": 2,
+   "tech": 1
   },
   "ultimo_post": {
-   "achadinhos": null,
-   "marcas": null,
-   "tech": null
+   "achadinhos": "08:53",
+   "marcas": "09:01",
+   "tech": "08:45"
   },
   "meta_token": {
    "tipo": "SYSTEM_USER",
@@ -977,7 +977,7 @@
    "vence": "não vence",
    "acesso_vence": "-"
   },
-  "ultimo_garimpo": "07/11 20:17",
+  "ultimo_garimpo": "08/11 07:44",
   "convites_story": {
    "story-20261101": 0,
    "story-20261102": 0,
@@ -994,7 +994,11 @@
    "tech": 5,
    "geral": 5
   },
-  "instagram_feito": [],
+  "instagram_feito": [
+   "08:07 story_oferta",
+   "08:45 story_oferta",
+   "08:52 story_oferta"
+  ],
   "shopee_ligada": true,
   "reserva_resultado": {
    "tech": {
@@ -3504,12 +3508,35 @@
    "shopee-57508358100": "nota",
    "shopee-58204712497": "nota",
    "shopee-23794908092": "nota",
-   "shopee-23194899156": "vendas longe"
+   "shopee-23194899156": "vendas longe",
+   "shopee-23893428347": "vendas perto (125+)",
+   "shopee-57611505686": "vendas longe",
+   "shopee-50456146191": "vendas longe",
+   "shopee-22493944676": "nota",
+   "shopee-46615373274": "nota",
+   "shopee-22998321717": "nota",
+   "shopee-22997900096": "nota",
+   "shopee-22697909879": "vendas longe",
+   "shopee-58204545677": "nota",
+   "shopee-58265817911": "nota",
+   "shopee-58265811626": "nota",
+   "shopee-58265806896": "nota",
+   "shopee-58265798378": "nota",
+   "shopee-58255453629": "nota",
+   "shopee-23497480600": "nota",
+   "shopee-23397480774": "vendas longe",
+   "shopee-19597676112": "nota",
+   "shopee-19497676133": "nota",
+   "shopee-23398955694": "nota",
+   "shopee-23394459218": "nota",
+   "shopee-22493578520": "nota",
+   "shopee-46758986232": "vendas longe",
+   "shopee-58206324352": "vendas longe"
   },
   "shopee_oficial": {
-   "vendas longe": 1408,
-   "nota": 750,
-   "vendas perto (125+)": 102,
+   "vendas longe": 1414,
+   "nota": 766,
+   "vendas perto (125+)": 103,
    "outro: marca fora da lista boa": 76,
    "aprovada": 75,
    "desconto longe": 59,
@@ -3517,12 +3544,235 @@
    "outro: palavra proibida: compatível": 9
   },
   "instagram": {
-   "seguidores": 397,
+   "seguidores": 398,
    "posts": 93,
-   "reach": 87,
-   "profile_views": 154,
-   "website_clicks": 2,
+   "reach": 27,
+   "profile_views": 20,
+   "website_clicks": 0,
    "stories_ativos": 25
+  },
+  "reels_alcance": {
+   "atualizado": "2026-11-08T08:17:58.003249-03:00",
+   "itens": [
+    {
+     "id": "18109659884021018",
+     "hora": "07/11 21:34",
+     "capa": "ate_off",
+     "reach": 1,
+     "views": 0,
+     "shares": 0,
+     "saved": 0
+    },
+    {
+     "id": "18099200774659510",
+     "hora": "07/11 17:47",
+     "capa": "ate_off",
+     "reach": 1,
+     "views": 2,
+     "shares": 0,
+     "saved": 0
+    },
+    {
+     "id": "17972342708962353",
+     "hora": "07/11 12:57",
+     "capa": "ate_off",
+     "reach": 2,
+     "views": 2,
+     "shares": 0,
+     "saved": 0
+    },
+    {
+     "id": "17959487874255407",
+     "hora": "07/11 09:43",
+     "capa": "ate_off",
+     "reach": 2,
+     "views": 2,
+     "shares": 0,
+     "saved": 0
+    },
+    {
+     "id": "18078811799755716",
+     "hora": "06/11 21:18",
+     "capa": "ate_off",
+     "reach": 2,
+     "views": 3,
+     "shares": 0,
+     "saved": 0
+    },
+    {
+     "id": "18106700942636815",
+     "hora": "06/11 17:41",
+     "capa": "ate_off",
+     "reach": 3,
+     "views": 6,
+     "shares": 0,
+     "saved": 0
+    },
+    {
+     "id": "17914316847507916",
+     "hora": "06/11 12:43",
+     "capa": "ate_off",
+     "reach": 4,
+     "views": 5,
+     "shares": 0,
+     "saved": 0
+    },
+    {
+     "id": "18128890189921037",
+     "hora": "06/11 09:37",
+     "capa": "ate_off",
+     "reach": 4,
+     "views": 5,
+     "shares": 0,
+     "saved": 0
+    },
+    {
+     "id": "18448470532130420",
+     "hora": "05/11 21:12",
+     "capa": "ate_off",
+     "reach": 7,
+     "views": 9,
+     "shares": 0,
+     "saved": 0
+    },
+    {
+     "id": "18131767375697608",
+     "hora": "05/11 17:58",
+     "capa": "ate_off",
+     "reach": 12,
+     "views": 10,
+     "shares": 0,
+     "saved": 0
+    },
+    {
+     "id": "18117298514013300",
+     "hora": "05/11 09:49",
+     "capa": "ate_off",
+     "reach": 5,
+     "views": 4,
+     "shares": 0,
+     "saved": 0
+    },
+    {
+     "id": "18117525467133810",
+     "hora": "04/11 21:06",
+     "capa": "ate_off",
+     "reach": 3,
+     "views": 3,
+     "shares": 0,
+     "saved": 0
+    },
+    {
+     "id": "17944766091377269",
+     "hora": "04/11 17:46",
+     "capa": "ate_off",
+     "reach": 4,
+     "views": 5,
+     "shares": 0,
+     "saved": 0
+    },
+    {
+     "id": "18035538695908345",
+     "hora": "04/11 12:58",
+     "capa": "ate_off",
+     "reach": 7,
+     "views": 8,
+     "shares": 0,
+     "saved": 0
+    },
+    {
+     "id": "18146516452573869",
+     "hora": "03/11 21:16",
+     "capa": "achados",
+     "reach": 9,
+     "views": 12,
+     "shares": 0,
+     "saved": 0
+    },
+    {
+     "id": "17927663994203104",
+     "hora": "03/11 17:39",
+     "capa": "achados",
+     "reach": 3,
+     "views": 3,
+     "shares": 0,
+     "saved": 0
+    },
+    {
+     "id": "18179680531450658",
+     "hora": "03/11 12:58",
+     "capa": "achados",
+     "reach": 5,
+     "views": 5,
+     "shares": 0,
+     "saved": 0
+    },
+    {
+     "id": "18339461824274572",
+     "hora": "02/11 21:35",
+     "capa": "achados",
+     "reach": 5,
+     "views": 4,
+     "shares": 0,
+     "saved": 0
+    },
+    {
+     "id": "17865374301695416",
+     "hora": "02/11 17:44",
+     "capa": "achados",
+     "reach": 5,
+     "views": 6,
+     "shares": 0,
+     "saved": 0
+    },
+    {
+     "id": "17913409260558795",
+     "hora": "02/11 12:58",
+     "capa": "achados",
+     "reach": 119,
+     "views": 130,
+     "shares": 0,
+     "saved": 0
+    },
+    {
+     "id": "18028710917713954",
+     "hora": "01/11 21:18",
+     "capa": "achados",
+     "reach": 8,
+     "views": 9,
+     "shares": 0,
+     "saved": 0
+    },
+    {
+     "id": "18135291779498436",
+     "hora": "01/11 17:38",
+     "capa": "achados",
+     "reach": 5,
+     "views": 4,
+     "shares": 0,
+     "saved": 0
+    },
+    {
+     "id": "18137438149737853",
+     "hora": "01/11 12:58",
+     "capa": "achados",
+     "reach": 6,
+     "views": 9,
+     "shares": 0,
+     "saved": 0
+    }
+   ],
+   "por_capa": {
+    "ate_off": {
+     "n": 14,
+     "alcance_medio": 4
+    },
+    "achados": {
+     "n": 9,
+     "alcance_medio": 18
+    }
+   },
+   "campeao": "achados"
   }
  }
 }

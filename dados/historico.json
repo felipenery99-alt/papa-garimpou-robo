@@ -637,7 +637,14 @@
   "2026-11-07 achadinhos 21:32 amz-B005SWH9BS",
   "2026-11-07 achadinhos 21:42 amz-B0CCX8VRYN",
   "2026-11-07 achadinhos 21:50 amz-B0GHZ827S2",
-  "2026-11-07 marcas 21:57 amz-B0FH3W32GS"
+  "2026-11-07 marcas 21:57 amz-B0FH3W32GS",
+  "2026-11-08 achadinhos 08:17 amz-B0CPT5XTTC",
+  "2026-11-08 achadinhos 08:27 amz-B0CBSZ6YXZ",
+  "2026-11-08 achadinhos 08:31 amz-B0B5XFFPYN",
+  "2026-11-08 marcas 08:39 amz-B07JZFBJ9P",
+  "2026-11-08 tech 08:45 amz-B07JQKQ91F",
+  "2026-11-08 achadinhos 08:53 amz-B0D693LTY5",
+  "2026-11-08 marcas 09:01 amz-B0G4SQ89P1"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -1269,7 +1276,14 @@
   "amz-B005SWH9BS": "2026-11-07T21:32:50.721066-03:00",
   "amz-B0CCX8VRYN": "2026-11-07T21:42:41.626653-03:00",
   "amz-B0GHZ827S2": "2026-11-07T21:50:04.727478-03:00",
-  "amz-B0FH3W32GS": "2026-11-07T21:57:10.074230-03:00"
+  "amz-B0FH3W32GS": "2026-11-07T21:57:10.074230-03:00",
+  "amz-B0CPT5XTTC": "2026-11-08T08:17:58.010638-03:00",
+  "amz-B0CBSZ6YXZ": "2026-11-08T08:27:16.228895-03:00",
+  "amz-B0B5XFFPYN": "2026-11-08T08:31:30.882990-03:00",
+  "amz-B07JZFBJ9P": "2026-11-08T08:39:03.262679-03:00",
+  "amz-B07JQKQ91F": "2026-11-08T08:45:51.370048-03:00",
+  "amz-B0D693LTY5": "2026-11-08T08:53:47.200849-03:00",
+  "amz-B0G4SQ89P1": "2026-11-08T09:01:28.114161-03:00"
  },
  "ofertas_dia": [
   {
@@ -5607,6 +5621,112 @@
    "extra": "Preço a partir de: varia por tamanho e cor",
    "entrou": "2026-11-07T20:48:38.675963-03:00",
    "dia": "2026-11-07"
+  },
+  {
+   "id": "amz-B0CPT5XTTC",
+   "canal": "achadinhos",
+   "nome": "Perfume Lacoste L.12.12 Rose Sparkling EDT 50ml",
+   "preco_antigo": 499.0,
+   "preco": 344.38,
+   "desconto": 31,
+   "link": "https://www.amazon.com.br/dp/B0CPT5XTTC?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71lOebcdtmL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-08T22:00:00-03:00",
+   "entrou": "2026-11-08T03:22:32.908033-03:00",
+   "dia": "2026-11-08"
+  },
+  {
+   "id": "amz-B0CBSZ6YXZ",
+   "canal": "achadinhos",
+   "nome": "Aspirador de Pó Vertical Britânia 2 em 1 BAS1295P 1250W",
+   "preco_antigo": 204.0,
+   "preco": 109.9,
+   "desconto": 46,
+   "link": "https://www.amazon.com.br/dp/B0CBSZ6YXZ?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/41DJWLonAjL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-08T22:00:00-03:00",
+   "extra": "Versão 127V",
+   "entrou": "2026-11-08T08:17:58.003249-03:00",
+   "dia": "2026-11-08"
+  },
+  {
+   "id": "amz-B0B5XFFPYN",
+   "canal": "achadinhos",
+   "nome": "Perfume Lancôme Idôle Nectar EDP Feminino",
+   "preco_antigo": 549.0,
+   "preco": 301.58,
+   "desconto": 45,
+   "link": "https://www.amazon.com.br/dp/B0B5XFFPYN?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61QWJyz5bXL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-08T22:00:00-03:00",
+   "entrou": "2026-11-08T08:17:58.003249-03:00",
+   "dia": "2026-11-08"
+  },
+  {
+   "id": "amz-B07JZFBJ9P",
+   "canal": "marcas",
+   "nome": "Perfume Armani Stronger With You Intensely Masculino",
+   "preco_antigo": 799.0,
+   "preco": 499.67,
+   "desconto": 37,
+   "link": "https://www.amazon.com.br/dp/B07JZFBJ9P?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71MDnyOiJOL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-08T22:00:00-03:00",
+   "entrou": "2026-11-08T08:17:58.003249-03:00",
+   "dia": "2026-11-08"
+  },
+  {
+   "id": "amz-B07JQKQ91F",
+   "canal": "tech",
+   "nome": "Fone de Ouvido JBL C50HI In Ear com Microfone Preto",
+   "preco_antigo": 74.9,
+   "preco": 45.61,
+   "desconto": 39,
+   "link": "https://www.amazon.com.br/dp/B07JQKQ91F?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51ijOG7u83L._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-08T22:00:00-03:00",
+   "entrou": "2026-11-08T08:17:58.003249-03:00",
+   "dia": "2026-11-08"
+  },
+  {
+   "id": "amz-B0D693LTY5",
+   "canal": "achadinhos",
+   "nome": "Aspirador de Pó e Água Kärcher WDL 1s 1700W Tanque Inox 12L",
+   "preco_antigo": 479.0,
+   "preco": 299.0,
+   "desconto": 38,
+   "link": "https://www.amazon.com.br/dp/B0D693LTY5?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/513YhMkpAFL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-08T22:00:00-03:00",
+   "entrou": "2026-11-08T08:17:58.003249-03:00",
+   "dia": "2026-11-08"
+  },
+  {
+   "id": "amz-B0G4SQ89P1",
+   "canal": "marcas",
+   "nome": "Garrafa Térmica Stanley Aerolight Fast Flow Cornflower",
+   "preco_antigo": 309.0,
+   "preco": 165.04,
+   "desconto": 47,
+   "link": "https://www.amazon.com.br/dp/B0G4SQ89P1?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/41-l9bnjXqL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-08T22:00:00-03:00",
+   "entrou": "2026-11-08T08:17:58.003249-03:00",
+   "dia": "2026-11-08"
   }
  ],
  "ig_feitos": [
@@ -5736,7 +5856,10 @@
   "2026-11-07 21:20 story_convite",
   "2026-11-07 20:50 post_achado",
   "2026-11-07 21:05 reels",
-  "2026-11-07 21:24 story_oferta"
+  "2026-11-07 21:24 story_oferta",
+  "2026-11-08 08:07 story_oferta",
+  "2026-11-08 08:45 story_oferta",
+  "2026-11-08 08:52 story_oferta"
  ],
  "ig_ofertas_usadas": [
   "amz-B0DTKSNQF3",
@@ -5938,7 +6061,10 @@
   "shopee-23792931413",
   "shopee-20198314386",
   "amz-B0DXR7GNWJ",
-  "amz-B076KRB8LP"
+  "amz-B076KRB8LP",
+  "amz-B0CPT5XTTC",
+  "amz-B0CBSZ6YXZ",
+  "amz-B0B5XFFPYN"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
@@ -6005,89 +6131,75 @@
  "ultimo_pilar": "dica",
  "fila": [
   {
-   "id": "amz-B0CPT5XTTC",
+   "id": "amz-B0G5ZWQR36",
    "canal": "achadinhos",
-   "nome": "Perfume Lacoste L.12.12 Rose Sparkling EDT 50ml",
-   "preco_antigo": 499.0,
-   "preco": 344.38,
+   "nome": "Air Fryer Oven WAP Multi Comb Digital 16L",
+   "preco_antigo": 1199.9,
+   "preco": 499.0,
+   "desconto": 58,
+   "link": "https://www.amazon.com.br/dp/B0G5ZWQR36?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/41QUBLK96KL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-09T22:00:00-03:00",
+   "gancho": "FORNO AIR FRYER WAP COM 58% OFF",
+   "entrou": "2026-11-08T08:17:58.003249-03:00"
+  },
+  {
+   "id": "amz-B08R8246HC",
+   "canal": "achadinhos",
+   "nome": "Liquidificador Philips Walita Daily 550W jarra San",
+   "preco_antigo": 139.9,
+   "preco": 80.97,
+   "desconto": 42,
+   "link": "https://www.amazon.com.br/dp/B08R8246HC?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71BbY0v83ZL._AC_SL1500_.jpg",
+   "loja": "Vendido por Magalu · entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-09T22:00:00-03:00",
+   "entrou": "2026-11-08T08:17:58.003249-03:00"
+  },
+  {
+   "id": "amz-B07ZH9GHV9",
+   "canal": "achadinhos",
+   "nome": "Aspirador de Pó e Água WAP Barril GTW 20 Litros",
+   "preco_antigo": 729.9,
+   "preco": 360.06,
+   "desconto": 51,
+   "link": "https://www.amazon.com.br/dp/B07ZH9GHV9?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61mq7fJyAUL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-09T22:00:00-03:00",
+   "entrou": "2026-11-08T08:17:58.003249-03:00"
+  },
+  {
+   "id": "amz-B0B9V6YMM5",
+   "canal": "achadinhos",
+   "nome": "Aspirador de Pó e Água WAP GTW Inox 15 1700W",
+   "preco_antigo": 499.9,
+   "preco": 333.91,
+   "desconto": 33,
+   "link": "https://www.amazon.com.br/dp/B0B9V6YMM5?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/81EdGYPhyML._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-09T22:00:00-03:00",
+   "entrou": "2026-11-08T08:17:58.003249-03:00"
+  },
+  {
+   "id": "amz-B07VPFC6RN",
+   "canal": "achadinhos",
+   "nome": "Secador de Cabelo Taiff Style 333 2000W",
+   "preco_antigo": 229.9,
+   "preco": 158.62,
    "desconto": 31,
-   "link": "https://www.amazon.com.br/dp/B0CPT5XTTC?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/71lOebcdtmL._AC_SL1500_.jpg",
+   "link": "https://www.amazon.com.br/dp/B07VPFC6RN?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61EW-1ytQ+L._AC_SL1500_.jpg",
    "loja": "Vendido e entregue pela Amazon",
    "plataforma": "Amazon",
-   "valida_ate": "2026-11-08T22:00:00-03:00",
-   "entrou": "2026-11-08T03:22:32.908033-03:00"
-  },
-  {
-   "id": "amz-B0CBSZ6YXZ",
-   "canal": "achadinhos",
-   "nome": "Aspirador de Pó Vertical Britânia 2 em 1 BAS1295P 1250W",
-   "preco_antigo": 204.0,
-   "preco": 109.9,
-   "desconto": 46,
-   "link": "https://www.amazon.com.br/dp/B0CBSZ6YXZ?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/41DJWLonAjL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-08T22:00:00-03:00",
-   "extra": "Versão 127V",
-   "entrou": "2026-11-08T03:22:32.908033-03:00"
-  },
-  {
-   "id": "amz-B0B5XFFPYN",
-   "canal": "achadinhos",
-   "nome": "Perfume Lancôme Idôle Nectar EDP Feminino",
-   "preco_antigo": 549.0,
-   "preco": 301.58,
-   "desconto": 45,
-   "link": "https://www.amazon.com.br/dp/B0B5XFFPYN?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61QWJyz5bXL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-08T22:00:00-03:00",
-   "entrou": "2026-11-08T03:22:32.908033-03:00"
-  },
-  {
-   "id": "amz-B0D693LTY5",
-   "canal": "achadinhos",
-   "nome": "Aspirador de Pó e Água Kärcher WDL 1s 1700W Tanque Inox 12L",
-   "preco_antigo": 479.0,
-   "preco": 299.0,
-   "desconto": 38,
-   "link": "https://www.amazon.com.br/dp/B0D693LTY5?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/513YhMkpAFL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-08T22:00:00-03:00",
-   "entrou": "2026-11-08T03:22:32.908033-03:00"
-  },
-  {
-   "id": "amz-B07JZFBJ9P",
-   "canal": "marcas",
-   "nome": "Perfume Armani Stronger With You Intensely Masculino",
-   "preco_antigo": 799.0,
-   "preco": 499.67,
-   "desconto": 37,
-   "link": "https://www.amazon.com.br/dp/B07JZFBJ9P?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/71MDnyOiJOL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-08T22:00:00-03:00",
-   "entrou": "2026-11-08T03:22:32.908033-03:00"
-  },
-  {
-   "id": "amz-B0G4SQ89P1",
-   "canal": "marcas",
-   "nome": "Garrafa Térmica Stanley Aerolight Fast Flow Cornflower",
-   "preco_antigo": 309.0,
-   "preco": 165.04,
-   "desconto": 47,
-   "link": "https://www.amazon.com.br/dp/B0G4SQ89P1?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/41-l9bnjXqL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-08T22:00:00-03:00",
-   "entrou": "2026-11-08T03:22:32.908033-03:00"
+   "valida_ate": "2026-11-09T22:00:00-03:00",
+   "entrou": "2026-11-08T08:17:58.003249-03:00"
   },
   {
    "id": "amz-B0FD4QYX8Q",
@@ -6101,7 +6213,7 @@
    "loja": "Vendido e entregue pela Amazon",
    "plataforma": "Amazon",
    "valida_ate": "2026-11-08T22:00:00-03:00",
-   "entrou": "2026-11-08T03:22:32.908033-03:00"
+   "entrou": "2026-11-08T08:17:58.003249-03:00"
   },
   {
    "id": "amz-B0DPJDYDZS",
@@ -6116,7 +6228,7 @@
    "plataforma": "Amazon",
    "valida_ate": "2026-11-08T22:00:00-03:00",
    "extra": "Preço a partir de: varia por tamanho e cor",
-   "entrou": "2026-11-08T03:22:32.908033-03:00"
+   "entrou": "2026-11-08T08:17:58.003249-03:00"
   },
   {
    "id": "amz-B0BHMDJG7M",
@@ -6132,7 +6244,7 @@
    "valida_ate": "2026-11-08T22:00:00-03:00",
    "extra": "Preço a partir de: varia por tamanho e cor",
    "gancho": "INSIDER COM PREÇO DE CAMISETA COMUM",
-   "entrou": "2026-11-08T03:22:32.908033-03:00"
+   "entrou": "2026-11-08T08:17:58.003249-03:00"
   },
   {
    "id": "amz-B0DXQ7B33K",
@@ -6146,7 +6258,7 @@
    "loja": "Vendido e entregue pela Amazon",
    "plataforma": "Amazon",
    "valida_ate": "2026-11-08T22:00:00-03:00",
-   "entrou": "2026-11-08T03:22:32.908033-03:00"
+   "entrou": "2026-11-08T08:17:58.003249-03:00"
   },
   {
    "id": "amz-B000P22TIY",
@@ -6161,7 +6273,7 @@
    "plataforma": "Amazon",
    "valida_ate": "2026-11-08T22:00:00-03:00",
    "gancho": "CHEIRO DE GRIFE POR CEM CONTO",
-   "entrou": "2026-11-08T03:22:32.908033-03:00"
+   "entrou": "2026-11-08T08:17:58.003249-03:00"
   },
   {
    "id": "amz-B0BNPBPS3K",
@@ -6176,7 +6288,7 @@
    "plataforma": "Amazon",
    "valida_ate": "2026-11-08T22:00:00-03:00",
    "extra": "Preço a partir de: varia por tamanho e cor",
-   "entrou": "2026-11-08T03:22:32.908033-03:00"
+   "entrou": "2026-11-08T08:17:58.003249-03:00"
   },
   {
    "id": "amz-B0BCV3YJZ9",
@@ -6191,21 +6303,7 @@
    "plataforma": "Amazon",
    "valida_ate": "2026-11-08T22:00:00-03:00",
    "extra": "Preço a partir de: varia por tamanho e cor",
-   "entrou": "2026-11-08T03:22:32.908033-03:00"
-  },
-  {
-   "id": "amz-B07JQKQ91F",
-   "canal": "tech",
-   "nome": "Fone de Ouvido JBL C50HI In Ear com Microfone Preto",
-   "preco_antigo": 74.9,
-   "preco": 45.61,
-   "desconto": 39,
-   "link": "https://www.amazon.com.br/dp/B07JQKQ91F?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51ijOG7u83L._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-08T22:00:00-03:00",
-   "entrou": "2026-11-08T03:22:32.908033-03:00"
+   "entrou": "2026-11-08T08:17:58.003249-03:00"
   },
   {
    "id": "amz-B0FTZN4CM3",
@@ -6219,7 +6317,7 @@
    "loja": "Vendido por parceiro · entregue pela Amazon",
    "plataforma": "Amazon",
    "valida_ate": "2026-11-08T22:00:00-03:00",
-   "entrou": "2026-11-08T03:22:32.908033-03:00"
+   "entrou": "2026-11-08T08:17:58.003249-03:00"
   },
   {
    "id": "amz-B09NQNWT76",
@@ -6233,7 +6331,7 @@
    "loja": "Vendido e entregue pela Amazon",
    "plataforma": "Amazon",
    "valida_ate": "2026-11-08T22:00:00-03:00",
-   "entrou": "2026-11-08T03:22:32.908033-03:00"
+   "entrou": "2026-11-08T08:17:58.003249-03:00"
   },
   {
    "id": "amz-B0DJ1QD7SL",
@@ -6247,7 +6345,78 @@
    "loja": "Vendido e entregue pela Amazon",
    "plataforma": "Amazon",
    "valida_ate": "2026-11-08T22:00:00-03:00",
-   "entrou": "2026-11-08T03:22:32.908033-03:00"
+   "entrou": "2026-11-08T08:17:58.003249-03:00"
+  },
+  {
+   "id": "amz-B0D8DBW4NW",
+   "canal": "tech",
+   "nome": "Monitor Gamer LG 27\" IPS 100Hz Full HD 27MS500",
+   "preco_antigo": 999.0,
+   "preco": 673.55,
+   "desconto": 33,
+   "link": "https://www.amazon.com.br/dp/B0D8DBW4NW?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61AbFrfPiHL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-09T22:00:00-03:00",
+   "entrou": "2026-11-08T08:17:58.003249-03:00"
+  },
+  {
+   "id": "amz-B0DKWQ5WSZ",
+   "canal": "tech",
+   "nome": "Resident Evil 3 - PlayStation 5 (Capcom)",
+   "preco_antigo": 179.97,
+   "preco": 116.43,
+   "desconto": 35,
+   "link": "https://www.amazon.com.br/dp/B0DKWQ5WSZ?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/81tGy+M9pBL._AC_SL1500_.jpg",
+   "loja": "Vendido por Amazon Global",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-09T22:00:00-03:00",
+   "entrou": "2026-11-08T08:17:58.003249-03:00"
+  },
+  {
+   "id": "amz-B0DJG1VFQN",
+   "canal": "tech",
+   "nome": "Mouse Gamer sem fio Logitech G PRO 2 Lightspeed",
+   "preco_antigo": 799.9,
+   "preco": 539.91,
+   "desconto": 33,
+   "link": "https://www.amazon.com.br/dp/B0DJG1VFQN?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51WjjFOXzNL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-09T22:00:00-03:00",
+   "entrou": "2026-11-08T08:17:58.003249-03:00"
+  },
+  {
+   "id": "amz-B0GVW8464B",
+   "canal": "tech",
+   "nome": "Combo Samsung Smart TV 43\" QLED Q5F + Soundbar HW-B400F",
+   "preco_antigo": 3806.0,
+   "preco": 2490.63,
+   "desconto": 35,
+   "link": "https://www.amazon.com.br/dp/B0GVW8464B?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/513sHm9G9XL._AC_SL1000_.jpg",
+   "loja": "Loja oficial Samsung · entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-09T22:00:00-03:00",
+   "gancho": "TV QLED E SOUNDBAR SAMSUNG NO MESMO COMBO",
+   "entrou": "2026-11-08T08:17:58.003249-03:00"
+  },
+  {
+   "id": "amz-B0FF6FZF9Y",
+   "canal": "tech",
+   "nome": "Smart TV Samsung 32\" HD LS32H5000 2025 Tizen",
+   "preco_antigo": 1379.0,
+   "preco": 901.55,
+   "desconto": 35,
+   "link": "https://www.amazon.com.br/dp/B0FF6FZF9Y?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61tCoc7NunL._AC_SL1368_.jpg",
+   "loja": "Vendido por parceiro · entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-09T22:00:00-03:00",
+   "entrou": "2026-11-08T08:17:58.003249-03:00"
   },
   {
    "id": "shopee-23802004388",
@@ -6264,7 +6433,7 @@
    "imagem": "https://cf.shopee.com.br/file/sg-11134201-8259s-muv42vzvrldt17",
    "link": "https://s.shopee.com.br/60T03hKQA3",
    "canal": "achadinhos",
-   "entrou": "2026-11-08T03:22:32.908033-03:00"
+   "entrou": "2026-11-08T08:17:58.003249-03:00"
   },
   {
    "id": "shopee-23094056729",
@@ -6281,7 +6450,7 @@
    "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdq0lnzoxgb5c7",
    "link": "https://s.shopee.com.br/5VWjSoqFLW",
    "canal": "achadinhos",
-   "entrou": "2026-11-08T03:22:32.908033-03:00"
+   "entrou": "2026-11-08T08:17:58.003249-03:00"
   },
   {
    "id": "shopee-23298467238",
@@ -6298,7 +6467,7 @@
    "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mbs24ze44pqx41",
    "link": "https://s.shopee.com.br/6figqxlnyt",
    "canal": "achadinhos",
-   "entrou": "2026-11-08T03:22:32.908033-03:00"
+   "entrou": "2026-11-08T08:17:58.003249-03:00"
   },
   {
    "id": "shopee-16185215321",
@@ -6315,7 +6484,7 @@
    "imagem": "https://cf.shopee.com.br/file/br-11134207-820l4-mt86z476awap25",
    "link": "https://s.shopee.com.br/qktuKJG9q",
    "canal": "marcas",
-   "entrou": "2026-11-08T03:22:32.908033-03:00"
+   "entrou": "2026-11-08T08:17:58.003249-03:00"
   },
   {
    "id": "shopee-20516472434",
@@ -6332,7 +6501,7 @@
    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lo-mv3i1326hlaa96",
    "link": "https://s.shopee.com.br/50aSs64UMc",
    "canal": "marcas",
-   "entrou": "2026-11-08T03:22:32.908033-03:00"
+   "entrou": "2026-11-08T08:17:58.003249-03:00"
   },
   {
    "id": "shopee-22194331598",
@@ -6349,7 +6518,128 @@
    "imagem": "https://cf.shopee.com.br/file/br-11134207-820mf-mtfc9yq6ld6p5f",
    "link": "https://s.shopee.com.br/4qH2fipU2y",
    "canal": "marcas",
-   "entrou": "2026-11-08T03:22:32.908033-03:00"
+   "entrou": "2026-11-08T08:17:58.003249-03:00"
+  },
+  {
+   "id": "amz-B07K1FVM4S",
+   "canal": "marcas",
+   "nome": "Perfume Versace Eros Flame EDP 100ml Masculino",
+   "preco_antigo": 803.46,
+   "preco": 557.93,
+   "desconto": 31,
+   "link": "https://www.amazon.com.br/dp/B07K1FVM4S?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71lvbztOYSL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-08T13:00:00-03:00",
+   "nao_antes": "2026-11-08T10:00:00-03:00",
+   "entrou": "2026-11-08T09:01:27.697587-03:00"
+  },
+  {
+   "id": "amz-B0DP6HXJNH",
+   "canal": "marcas",
+   "nome": "Perfume Armaf Island Bliss EDP 100ml Masculino",
+   "preco_antigo": 607.43,
+   "preco": 360.8,
+   "desconto": 41,
+   "link": "https://www.amazon.com.br/dp/B0DP6HXJNH?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51EHM9KxDVL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-08T13:00:00-03:00",
+   "nao_antes": "2026-11-08T10:00:00-03:00",
+   "entrou": "2026-11-08T09:01:27.697587-03:00"
+  },
+  {
+   "id": "amz-B0D5C1F58W",
+   "canal": "marcas",
+   "nome": "Perfume Armani Acqua di Giò Parfum Masculino",
+   "preco_antigo": 999.0,
+   "preco": 597.39,
+   "desconto": 40,
+   "link": "https://www.amazon.com.br/dp/B0D5C1F58W?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61isdoYoLfL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-08T13:00:00-03:00",
+   "nao_antes": "2026-11-08T10:00:00-03:00",
+   "entrou": "2026-11-08T09:01:27.697587-03:00"
+  },
+  {
+   "id": "amz-B01JG5V0E4",
+   "canal": "marcas",
+   "nome": "Perfume Versace Dylan Blue Pour Homme EDT Masculino",
+   "preco_antigo": 743.13,
+   "preco": 512.92,
+   "desconto": 31,
+   "link": "https://www.amazon.com.br/dp/B01JG5V0E4?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61XyyWtqQwL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-08T13:00:00-03:00",
+   "nao_antes": "2026-11-08T10:00:00-03:00",
+   "gancho": "DOMINGO DO PERFUME: VERSACE NA FAIXA",
+   "entrou": "2026-11-08T09:01:27.697587-03:00"
+  },
+  {
+   "id": "amz-B0GKR1ZX8Y",
+   "canal": "marcas",
+   "nome": "Perfume Lacoste Original Femme EDP 40ml",
+   "preco_antigo": 319.1,
+   "preco": 199.0,
+   "desconto": 38,
+   "link": "https://www.amazon.com.br/dp/B0GKR1ZX8Y?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51ImdReTMkL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-08T13:00:00-03:00",
+   "nao_antes": "2026-11-08T10:00:00-03:00",
+   "entrou": "2026-11-08T09:01:27.697587-03:00"
+  },
+  {
+   "id": "amz-B0CQ3V2KK9",
+   "canal": "marcas",
+   "nome": "Perfume Ralph Lauren Polo 67 EDT Masculino",
+   "preco_antigo": 809.0,
+   "preco": 429.75,
+   "desconto": 47,
+   "link": "https://www.amazon.com.br/dp/B0CQ3V2KK9?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51CQcWgPmlL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-08T13:00:00-03:00",
+   "nao_antes": "2026-11-08T10:00:00-03:00",
+   "entrou": "2026-11-08T09:01:27.697587-03:00"
+  },
+  {
+   "id": "amz-B0F1GHWGD9",
+   "canal": "marcas",
+   "nome": "Perfume Montblanc Explorer Extreme Parfum 60ml",
+   "preco_antigo": 824.28,
+   "preco": 437.67,
+   "desconto": 47,
+   "link": "https://www.amazon.com.br/dp/B0F1GHWGD9?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71QE9qHaMWL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-08T13:00:00-03:00",
+   "nao_antes": "2026-11-08T10:00:00-03:00",
+   "entrou": "2026-11-08T09:01:27.697587-03:00"
+  },
+  {
+   "id": "amz-B00I7PK3GQ",
+   "canal": "marcas",
+   "nome": "Perfume Lancôme La Vie Est Belle EDP Feminino",
+   "preco_antigo": 1099.0,
+   "preco": 598.49,
+   "desconto": 46,
+   "link": "https://www.amazon.com.br/dp/B00I7PK3GQ?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61KS24LVgXL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-08T13:00:00-03:00",
+   "nao_antes": "2026-11-08T10:00:00-03:00",
+   "entrou": "2026-11-08T09:01:27.697587-03:00"
   }
  ],
  "menus_fixados": [
@@ -6836,7 +7126,14 @@
   "perfumeversaceyellowdiamondedtfeminino": "2026-11-07T21:32:50.721066-03:00",
   "refiloralbioparaescovaeletrica2unidades": "2026-11-07T21:42:41.626653-03:00",
   "airfryerovenphilco11l8funcoespaf11b1800w": "2026-11-07T21:50:04.727478-03:00",
-  "tenismasculinofilaracerfastpace": "2026-11-07T21:57:10.074230-03:00"
+  "tenismasculinofilaracerfastpace": "2026-11-07T21:57:10.074230-03:00",
+  "perfumelacostel1212rosesparklingedt50ml": "2026-11-08T08:17:58.010638-03:00",
+  "aspiradordepoverticalbritania2em1bas1295p1250w": "2026-11-08T08:27:16.228895-03:00",
+  "perfumelancomeidolenectaredpfeminino": "2026-11-08T08:31:30.882990-03:00",
+  "perfumearmanistrongerwithyouintenselymasculino": "2026-11-08T08:39:03.262679-03:00",
+  "fonedeouvidojblc50hiinearcommicrofonepreto": "2026-11-08T08:45:51.370048-03:00",
+  "aspiradordepoeaguakarcherwdl1s1700wtanqueinox12l": "2026-11-08T08:53:47.200849-03:00",
+  "garrafatermicastanleyaerolightfastflowcornflower": "2026-11-08T09:01:28.114161-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
@@ -7055,7 +7352,7 @@
  "ig_dm_links": {},
  "story_link_dia": "2026-11-07",
  "pede_semana": "2026-45",
- "ultimo_garimpo": "2026-11-07T20:17:46-03:00",
+ "ultimo_garimpo": "2026-11-08T07:44:48-03:00",
  "vigia_aviso_post": "2026-11-07T17:23:25.696493-03:00",
  "vigia_aviso_garimpo": "2026-11-07T17:46:54.896811-03:00",
  "resumo_enviado": "2026-11-07",
@@ -7091,7 +7388,7 @@
   "marcas": "2026-11-07T20:03:50.806494-03:00"
  },
  "top10_dia": "2026-11-07",
- "manuais_lidos": "2026-11-08T03:33:36.139521-03:00",
+ "manuais_lidos": "2026-11-08T09:01:27.697587-03:00",
  "reserva_resultado": {
   "2026-11-07": {
    "achadinhos": {
@@ -7112,5 +7409,6 @@
     "reprise": 0
    }
   }
- }
+ },
+ "ig_reels_log": {}
 }
