@@ -847,17 +847,17 @@
    "canal marcas sem oferta na fila há 358 min (busca extra também não achou). Abastecer ofertas_manuais.json.",
    "canal tech sem oferta na fila há 58 min (busca extra também não achou). Abastecer ofertas_manuais.json."
   ],
-  "ultima_execucao": "20:03",
-  "execucoes": 27,
+  "ultima_execucao": "20:48",
+  "execucoes": 28,
   "telegram_posts": {
-   "achadinhos": 9,
-   "marcas": 5,
-   "tech": 3
+   "achadinhos": 11,
+   "marcas": 6,
+   "tech": 4
   },
   "ultimo_post": {
-   "achadinhos": "09:52",
-   "marcas": "12:16",
-   "tech": "17:16"
+   "achadinhos": "21:32",
+   "marcas": "21:01",
+   "tech": "21:29"
   },
   "meta_token": {
    "tipo": "SYSTEM_USER",
@@ -892,35 +892,31 @@
    "10:20 story_oferta",
    "10:24 story_oferta",
    "11:11 story_oferta",
-   "feed",
    "11:50 carrossel_top5",
    "11:56 story_oferta",
    "12:15 story_top4",
    "12:19 story_oferta",
-   "feed",
    "12:40 reels",
    "12:47 story_oferta",
    "13:20 story_convite",
    "13:22 story_oferta",
    "14:08 story_oferta",
-   "feed",
    "14:25 post_achado",
    "15:00 adivinha",
    "15:03 story_oferta",
    "16:05 adivinha_resposta",
    "16:44 story_oferta",
-   "feed",
    "16:55 post_achado",
-   "feed",
    "17:30 reels",
    "17:36 story_oferta",
    "18:05 a_ou_b",
    "18:09 story_oferta",
    "18:42 story_oferta",
-   "feed",
    "19:15 post_achado",
    "19:17 story_oferta",
-   "20:03 story_oferta"
+   "20:03 story_oferta",
+   "20:35 story_top4",
+   "20:38 story_oferta"
   ],
   "shopee_ligada": true,
   "shopee_oficial_ids": {
@@ -2886,7 +2882,7 @@
    "shopee-58259400522": "vendas longe",
    "shopee-58208978612": "nota",
    "shopee-58262202903": "nota",
-   "shopee-58267101012": "nota",
+   "shopee-58267101012": "vendas longe",
    "shopee-58267089927": "nota",
    "shopee-58267100632": "nota",
    "shopee-58217096745": "nota",
@@ -6570,8 +6566,8 @@
    "shopee-40831416232": "nota"
   },
   "shopee_oficial": {
-   "vendas longe": 2835,
-   "nota": 2349,
+   "vendas longe": 2836,
+   "nota": 2348,
    "outro: marca fora da lista boa": 123,
    "vendas perto (125+)": 113,
    "aprovada": 80,
@@ -6581,10 +6577,10 @@
    "outro: palavra proibida: universal": 1
   },
   "instagram": {
-   "seguidores": 394,
+   "seguidores": 395,
    "posts": 91,
-   "reach": 78,
-   "profile_views": 148,
+   "reach": 82,
+   "profile_views": 149,
    "website_clicks": 2,
    "stories_ativos": 25
   }
