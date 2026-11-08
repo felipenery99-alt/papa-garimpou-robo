@@ -650,7 +650,14 @@
   "2026-11-08 marcas 09:23 amz-B0FD4QYX8Q",
   "2026-11-08 tech 09:30 amz-B0FTZN4CM3",
   "2026-11-08 achadinhos 09:37 amz-B07ZH9GHV9",
-  "2026-11-08 marcas 09:45 amz-B0DPJDYDZS"
+  "2026-11-08 marcas 09:45 amz-B0DPJDYDZS",
+  "2026-11-08 achadinhos 09:52 amz-B0B9V6YMM5",
+  "2026-11-08 achadinhos 09:58 amz-B07VPFC6RN",
+  "2026-11-08 achadinhos 10:02 shopee-23802004388",
+  "2026-11-08 marcas 10:09 amz-B07K1FVM4S",
+  "2026-11-08 tech 10:17 amz-B09NQNWT76",
+  "2026-11-08 achadinhos 10:25 shopee-23094056729",
+  "2026-11-08 marcas 10:33 amz-B0DP6HXJNH"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -843,7 +850,7 @@
   "shopee-23499563838": "2026-10-30T18:00:40.252268-03:00",
   "shopee-58262054508": "2026-10-30T18:25:04.494548-03:00",
   "shopee-22299370593": "2026-10-30T18:30:44.365296-03:00",
-  "shopee-23802004388": "2026-10-30T18:55:18.024260-03:00",
+  "shopee-23802004388": "2026-11-08T10:02:22.424150-03:00",
   "shopee-18996964739": "2026-11-07T08:47:25.546920-03:00",
   "shopee-20298661104": "2026-11-06T19:28:02.167889-03:00",
   "nike-015654ID": "2026-10-30T19:25:26.522904-03:00",
@@ -864,7 +871,7 @@
   "nike-004386ID": "2026-10-31T08:27:49.576516-03:00",
   "shopee-21997684262": "2026-11-07T09:52:26.330308-03:00",
   "nike-079609MT": "2026-10-31T08:39:18.146993-03:00",
-  "shopee-23094056729": "2026-10-31T08:43:34.716805-03:00",
+  "shopee-23094056729": "2026-11-08T10:25:31.657692-03:00",
   "shopee-22396095321": "2026-10-31T09:05:11.173180-03:00",
   "nike-014592IE": "2026-10-31T09:09:36.026022-03:00",
   "amz-B0FKV9146V": "2026-10-31T09:14:25.908003-03:00",
@@ -1295,7 +1302,12 @@
   "amz-B0FD4QYX8Q": "2026-11-08T09:23:18.337332-03:00",
   "amz-B0FTZN4CM3": "2026-11-08T09:30:09.497288-03:00",
   "amz-B07ZH9GHV9": "2026-11-08T09:37:48.179287-03:00",
-  "amz-B0DPJDYDZS": "2026-11-08T09:45:07.447212-03:00"
+  "amz-B0DPJDYDZS": "2026-11-08T09:45:07.447212-03:00",
+  "amz-B0B9V6YMM5": "2026-11-08T09:52:30.963724-03:00",
+  "amz-B07VPFC6RN": "2026-11-08T09:58:18.838294-03:00",
+  "amz-B07K1FVM4S": "2026-11-08T10:09:30.192281-03:00",
+  "amz-B09NQNWT76": "2026-11-08T10:17:27.287354-03:00",
+  "amz-B0DP6HXJNH": "2026-11-08T10:33:24.433851-03:00"
  },
  "ofertas_dia": [
   {
@@ -5831,6 +5843,119 @@
    "extra": "Preço a partir de: varia por tamanho e cor",
    "entrou": "2026-11-08T08:17:58.003249-03:00",
    "dia": "2026-11-08"
+  },
+  {
+   "id": "amz-B0B9V6YMM5",
+   "canal": "achadinhos",
+   "nome": "Aspirador de Pó e Água WAP GTW Inox 15 1700W",
+   "preco_antigo": 499.9,
+   "preco": 333.91,
+   "desconto": 33,
+   "link": "https://www.amazon.com.br/dp/B0B9V6YMM5?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/81EdGYPhyML._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-09T22:00:00-03:00",
+   "entrou": "2026-11-08T08:17:58.003249-03:00",
+   "dia": "2026-11-08"
+  },
+  {
+   "id": "amz-B07VPFC6RN",
+   "canal": "achadinhos",
+   "nome": "Secador de Cabelo Taiff Style 333 2000W",
+   "preco_antigo": 229.9,
+   "preco": 158.62,
+   "desconto": 31,
+   "link": "https://www.amazon.com.br/dp/B07VPFC6RN?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61EW-1ytQ+L._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-09T22:00:00-03:00",
+   "entrou": "2026-11-08T08:17:58.003249-03:00",
+   "dia": "2026-11-08"
+  },
+  {
+   "id": "shopee-23802004388",
+   "plataforma": "Shopee",
+   "nome": "Secador Taiff Style Preto 2000W 127V",
+   "loja": "Lojas REDE",
+   "loja_oficial": true,
+   "preco": 229.9,
+   "preco_antigo": 403.33,
+   "desconto": 43,
+   "vendas": 1018,
+   "nota": 4.9,
+   "comissao_pct": 3.0,
+   "imagem": "https://cf.shopee.com.br/file/sg-11134201-8259s-muv42vzvrldt17",
+   "link": "https://s.shopee.com.br/60T03hKQA3",
+   "canal": "achadinhos",
+   "entrou": "2026-11-08T08:17:58.003249-03:00",
+   "dia": "2026-11-08"
+  },
+  {
+   "id": "amz-B07K1FVM4S",
+   "canal": "marcas",
+   "nome": "Perfume Versace Eros Flame EDP 100ml Masculino",
+   "preco_antigo": 803.46,
+   "preco": 557.93,
+   "desconto": 31,
+   "link": "https://www.amazon.com.br/dp/B07K1FVM4S?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71lvbztOYSL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-08T13:00:00-03:00",
+   "nao_antes": "2026-11-08T10:00:00-03:00",
+   "entrou": "2026-11-08T09:01:27.697587-03:00",
+   "dia": "2026-11-08"
+  },
+  {
+   "id": "amz-B09NQNWT76",
+   "canal": "tech",
+   "nome": "Mouse sem fio Logitech Signature M650",
+   "preco_antigo": 229.9,
+   "preco": 150.0,
+   "desconto": 35,
+   "link": "https://www.amazon.com.br/dp/B09NQNWT76?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71qC2tQiocL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-08T22:00:00-03:00",
+   "entrou": "2026-11-08T08:17:58.003249-03:00",
+   "dia": "2026-11-08"
+  },
+  {
+   "id": "shopee-23094056729",
+   "plataforma": "Shopee",
+   "nome": "Jogo de Faqueiro Tramontina Búzios 24 Peças Talheres em Aço Inox",
+   "loja": "MONTLAR",
+   "loja_oficial": true,
+   "preco": 77.89,
+   "preco_antigo": 119.83,
+   "desconto": 35,
+   "vendas": 1865,
+   "nota": 4.9,
+   "comissao_pct": 6.0,
+   "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdq0lnzoxgb5c7",
+   "link": "https://s.shopee.com.br/5VWjSoqFLW",
+   "canal": "achadinhos",
+   "entrou": "2026-11-08T08:17:58.003249-03:00",
+   "dia": "2026-11-08"
+  },
+  {
+   "id": "amz-B0DP6HXJNH",
+   "canal": "marcas",
+   "nome": "Perfume Armaf Island Bliss EDP 100ml Masculino",
+   "preco_antigo": 607.43,
+   "preco": 360.8,
+   "desconto": 41,
+   "link": "https://www.amazon.com.br/dp/B0DP6HXJNH?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51EHM9KxDVL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-08T13:00:00-03:00",
+   "nao_antes": "2026-11-08T10:00:00-03:00",
+   "entrou": "2026-11-08T09:01:27.697587-03:00",
+   "dia": "2026-11-08"
   }
  ],
  "ig_feitos": [
@@ -5966,11 +6091,11 @@
   "2026-11-08 08:52 story_oferta",
   "2026-11-08 feed",
   "2026-11-08 09:35 post_achado",
-  "2026-11-08 09:38 story_oferta"
+  "2026-11-08 09:38 story_oferta",
+  "2026-11-08 10:20 story_oferta",
+  "2026-11-08 10:24 story_oferta"
  ],
  "ig_ofertas_usadas": [
-  "amz-B07FN1MZBH",
-  "shopee-42130479011",
   "amz-B0CLSTLZ4W",
   "amz-B0CVXT26K5",
   "shopee-22997647570",
@@ -6168,7 +6293,9 @@
   "amz-B0CBSZ6YXZ",
   "amz-B0B5XFFPYN",
   "amz-B0G5ZWQR36",
-  "amz-B07JZFBJ9P"
+  "amz-B07JZFBJ9P",
+  "amz-B07JQKQ91F",
+  "amz-B0D693LTY5"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
@@ -6234,34 +6361,6 @@
  },
  "ultimo_pilar": "dica",
  "fila": [
-  {
-   "id": "amz-B0B9V6YMM5",
-   "canal": "achadinhos",
-   "nome": "Aspirador de Pó e Água WAP GTW Inox 15 1700W",
-   "preco_antigo": 499.9,
-   "preco": 333.91,
-   "desconto": 33,
-   "link": "https://www.amazon.com.br/dp/B0B9V6YMM5?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/81EdGYPhyML._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-09T22:00:00-03:00",
-   "entrou": "2026-11-08T08:17:58.003249-03:00"
-  },
-  {
-   "id": "amz-B07VPFC6RN",
-   "canal": "achadinhos",
-   "nome": "Secador de Cabelo Taiff Style 333 2000W",
-   "preco_antigo": 229.9,
-   "preco": 158.62,
-   "desconto": 31,
-   "link": "https://www.amazon.com.br/dp/B07VPFC6RN?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61EW-1ytQ+L._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-09T22:00:00-03:00",
-   "entrou": "2026-11-08T08:17:58.003249-03:00"
-  },
   {
    "id": "amz-B0BHMDJG7M",
    "canal": "marcas",
@@ -6335,20 +6434,6 @@
    "plataforma": "Amazon",
    "valida_ate": "2026-11-08T22:00:00-03:00",
    "extra": "Preço a partir de: varia por tamanho e cor",
-   "entrou": "2026-11-08T08:17:58.003249-03:00"
-  },
-  {
-   "id": "amz-B09NQNWT76",
-   "canal": "tech",
-   "nome": "Mouse sem fio Logitech Signature M650",
-   "preco_antigo": 229.9,
-   "preco": 150.0,
-   "desconto": 35,
-   "link": "https://www.amazon.com.br/dp/B09NQNWT76?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/71qC2tQiocL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-08T22:00:00-03:00",
    "entrou": "2026-11-08T08:17:58.003249-03:00"
   },
   {
@@ -6437,40 +6522,6 @@
    "entrou": "2026-11-08T08:17:58.003249-03:00"
   },
   {
-   "id": "shopee-23802004388",
-   "plataforma": "Shopee",
-   "nome": "Secador Taiff Style Preto 2000W 127V",
-   "loja": "Lojas REDE",
-   "loja_oficial": true,
-   "preco": 229.9,
-   "preco_antigo": 403.33,
-   "desconto": 43,
-   "vendas": 1018,
-   "nota": 4.9,
-   "comissao_pct": 3.0,
-   "imagem": "https://cf.shopee.com.br/file/sg-11134201-8259s-muv42vzvrldt17",
-   "link": "https://s.shopee.com.br/60T03hKQA3",
-   "canal": "achadinhos",
-   "entrou": "2026-11-08T08:17:58.003249-03:00"
-  },
-  {
-   "id": "shopee-23094056729",
-   "plataforma": "Shopee",
-   "nome": "Jogo de Faqueiro Tramontina Búzios 24 Peças Talheres em Aço Inox",
-   "loja": "MONTLAR",
-   "loja_oficial": true,
-   "preco": 77.89,
-   "preco_antigo": 119.83,
-   "desconto": 35,
-   "vendas": 1865,
-   "nota": 4.9,
-   "comissao_pct": 6.0,
-   "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdq0lnzoxgb5c7",
-   "link": "https://s.shopee.com.br/5VWjSoqFLW",
-   "canal": "achadinhos",
-   "entrou": "2026-11-08T08:17:58.003249-03:00"
-  },
-  {
    "id": "shopee-23298467238",
    "plataforma": "Shopee",
    "nome": "Faqueiro Inox Tramontina Ipanema 30 Peças Jogo De Talheres Cor Preto",
@@ -6537,36 +6588,6 @@
    "link": "https://s.shopee.com.br/4qH2fipU2y",
    "canal": "marcas",
    "entrou": "2026-11-08T08:17:58.003249-03:00"
-  },
-  {
-   "id": "amz-B07K1FVM4S",
-   "canal": "marcas",
-   "nome": "Perfume Versace Eros Flame EDP 100ml Masculino",
-   "preco_antigo": 803.46,
-   "preco": 557.93,
-   "desconto": 31,
-   "link": "https://www.amazon.com.br/dp/B07K1FVM4S?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/71lvbztOYSL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-08T13:00:00-03:00",
-   "nao_antes": "2026-11-08T10:00:00-03:00",
-   "entrou": "2026-11-08T09:01:27.697587-03:00"
-  },
-  {
-   "id": "amz-B0DP6HXJNH",
-   "canal": "marcas",
-   "nome": "Perfume Armaf Island Bliss EDP 100ml Masculino",
-   "preco_antigo": 607.43,
-   "preco": 360.8,
-   "desconto": 41,
-   "link": "https://www.amazon.com.br/dp/B0DP6HXJNH?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51EHM9KxDVL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-08T13:00:00-03:00",
-   "nao_antes": "2026-11-08T10:00:00-03:00",
-   "entrou": "2026-11-08T09:01:27.697587-03:00"
   },
   {
    "id": "amz-B0D5C1F58W",
@@ -6705,7 +6726,7 @@
   "kit2botaotimerknobairfryermondialafn40afn50afn60afn80": "2026-10-30T18:00:40.252268-03:00",
   "promocaokitqueroseneperfumadonaturacleankit2litroslimpezaprofundaconcentrada": "2026-10-30T18:25:04.494548-03:00",
   "heliceventiladormondial30cmultracores": "2026-10-30T18:30:44.365296-03:00",
-  "secadortaiffstylepreto2000w127v": "2026-10-30T18:55:18.024260-03:00",
+  "secadortaiffstylepreto2000w127v": "2026-11-08T10:02:22.424150-03:00",
   "creatinapote150gmaxtitanium": "2026-11-07T08:47:25.546920-03:00",
   "sanduicheirabritaniachapasantiaderentes750wbgr02pi": "2026-11-06T19:28:02.167889-03:00",
   "meianikeperformancelightweight3pares": "2026-10-30T19:25:26.522904-03:00",
@@ -6726,7 +6747,7 @@
   "camisetajordansportswearjumpmanairmasculina": "2026-10-31T08:27:49.576516-03:00",
   "sanduicheiraegrillbritania2em1750wbgre01": "2026-11-07T09:52:26.330308-03:00",
   "camisetacorinthiansnike2026treinomasculina": "2026-10-31T08:39:18.146993-03:00",
-  "jogodefaqueirotramontinabuzios24pecastalheresemacoinox": "2026-10-31T08:43:34.716805-03:00",
+  "jogodefaqueirotramontinabuzios24pecastalheresemacoinox": "2026-11-08T10:25:31.657692-03:00",
   "sanduicheiraegrillbritaniabgr27ipress2em1850w": "2026-10-31T09:05:11.173180-03:00",
   "tenisnikesbchron2canvasunissex": "2026-10-31T09:09:36.026022-03:00",
   "headsetgamerjblquantum250comcancelamentoderuido": "2026-10-31T09:14:25.908003-03:00",
@@ -7157,7 +7178,12 @@
   "kitcalvinkleinckoneedt200mllocaogeldebanho": "2026-11-08T09:23:18.337332-03:00",
   "monitorgamerlg2020u401a75hz2ms": "2026-11-08T09:30:09.497288-03:00",
   "aspiradordepoeaguawapbarrilgtw20litros": "2026-11-08T09:37:48.179287-03:00",
-  "kit3regatasslimheringmasculinas": "2026-11-08T09:45:07.447212-03:00"
+  "kit3regatasslimheringmasculinas": "2026-11-08T09:45:07.447212-03:00",
+  "aspiradordepoeaguawapgtwinox151700w": "2026-11-08T09:52:30.963724-03:00",
+  "secadordecabelotaiffstyle3332000w": "2026-11-08T09:58:18.838294-03:00",
+  "perfumeversaceerosflameedp100mlmasculino": "2026-11-08T10:09:30.192281-03:00",
+  "mousesemfiologitechsignaturem650": "2026-11-08T10:17:27.287354-03:00",
+  "perfumearmafislandblissedp100mlmasculino": "2026-11-08T10:33:24.433851-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
@@ -7420,7 +7446,7 @@
   "marcas": "2026-11-07T20:03:50.806494-03:00"
  },
  "top10_dia": "2026-11-07",
- "manuais_lidos": "2026-11-08T09:44:52.425196-03:00",
+ "manuais_lidos": "2026-11-08T10:33:24.236302-03:00",
  "reserva_resultado": {
   "2026-11-07": {
    "achadinhos": {
@@ -7443,7 +7469,7 @@
   }
  },
  "ig_reels_log": {},
- "ig_respondido_em": "2026-11-08T09:44:52.425196-03:00",
+ "ig_respondido_em": "2026-11-08T10:24:57.624190-03:00",
  "dm_auto": {
   "2026-11-08": {
    "com_palavra": 0,
@@ -7454,6 +7480,12 @@
  },
  "fb_feitos": [],
  "fb_usadas": [],
- "fb_tentativas": {},
- "fb_posts": {}
+ "fb_tentativas": {
+  "2026-11-08 10:10 oferta": 2
+ },
+ "fb_posts": {},
+ "fb_erro": {
+  "hora": "08/11 10:24",
+  "erro": "Página recusou o post: {'message': '(#200) The permission(s) pages_manage_posts are not available. It could because either they are deprecated or need to be approved by App Review.', 'type': 'OAuthException', 'code': 200, 'fbtrace_id': 'AMHyaipUHfUXsUO0ViB01I9'}"
+ }
 }

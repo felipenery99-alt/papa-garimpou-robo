@@ -959,17 +959,17 @@
  },
  "2026-11-08": {
   "erros": [],
-  "ultima_execucao": "09:02",
-  "execucoes": 3,
+  "ultima_execucao": "09:49",
+  "execucoes": 4,
   "telegram_posts": {
-   "achadinhos": 7,
-   "marcas": 4,
-   "tech": 2
+   "achadinhos": 11,
+   "marcas": 6,
+   "tech": 3
   },
   "ultimo_post": {
-   "achadinhos": "09:37",
-   "marcas": "09:45",
-   "tech": "09:30"
+   "achadinhos": "10:25",
+   "marcas": "10:33",
+   "tech": "10:17"
   },
   "meta_token": {
    "tipo": "SYSTEM_USER",
@@ -1002,7 +1002,9 @@
    "08:52 story_oferta",
    "feed",
    "09:35 post_achado",
-   "09:38 story_oferta"
+   "09:38 story_oferta",
+   "10:20 story_oferta",
+   "10:24 story_oferta"
   ],
   "shopee_ligada": true,
   "reserva_resultado": {
@@ -3538,28 +3540,102 @@
    "shopee-46758986232": "vendas longe",
    "shopee-58206324352": "vendas longe",
    "shopee-22599684119": "nota",
-   "shopee-58258299806": "vendas longe"
+   "shopee-58258299806": "vendas longe",
+   "shopee-22098240139": "vendas perto (125+)",
+   "shopee-23392934755": "vendas longe",
+   "shopee-47117706146": "vendas perto (125+)",
+   "shopee-22993116408": "vendas longe",
+   "shopee-58255539198": "vendas longe",
+   "shopee-58203329255": "vendas perto (125+)",
+   "shopee-23698068860": "vendas longe",
+   "shopee-44325174144": "vendas longe",
+   "shopee-23091131346": "vendas longe",
+   "shopee-58205163695": "vendas longe",
+   "shopee-58267775026": "vendas perto (125+)",
+   "shopee-58257755715": "nota",
+   "shopee-52460853914": "nota",
+   "shopee-23193403134": "nota",
+   "shopee-22993403670": "nota",
+   "shopee-52669730702": "vendas longe",
+   "shopee-58221231257": "vendas longe",
+   "shopee-58208047804": "nota",
+   "shopee-45216289429": "vendas longe",
+   "shopee-22494347520": "vendas longe",
+   "shopee-58265801656": "nota",
+   "shopee-58265799505": "nota",
+   "shopee-58265798035": "nota",
+   "shopee-58265797733": "nota",
+   "shopee-58258113427": "vendas longe",
+   "shopee-58254723307": "nota",
+   "shopee-58215830090": "nota",
+   "shopee-58215817128": "vendas longe",
+   "shopee-58215817126": "nota",
+   "shopee-58215813320": "nota",
+   "shopee-58215809558": "nota",
+   "shopee-58215808950": "nota",
+   "shopee-58215807913": "nota",
+   "shopee-58215807106": "nota",
+   "shopee-58215805963": "nota",
+   "shopee-58215804390": "nota",
+   "shopee-58215802978": "nota",
+   "shopee-58205154041": "nota",
+   "shopee-58205153825": "nota",
+   "shopee-58204733260": "nota",
+   "shopee-58204732936": "nota",
+   "shopee-23094845908": "nota",
+   "shopee-22594341444": "nota",
+   "shopee-22494347519": "nota",
+   "shopee-22494347463": "nota",
+   "shopee-22494347389": "vendas longe",
+   "shopee-22394389607": "nota",
+   "shopee-22299530370": "nota",
+   "shopee-22294398845": "vendas longe",
+   "shopee-22194360890": "nota",
+   "shopee-22095222733": "nota",
+   "shopee-22094889602": "nota",
+   "shopee-58215825827": "nota",
+   "shopee-58262327785": "nota",
+   "shopee-58254163235": "nota",
+   "shopee-58212345283": "nota",
+   "shopee-21573206066": "nota",
+   "shopee-19199595484": "nota",
+   "shopee-19173194961": "nota",
+   "shopee-18698007602": "nota",
+   "shopee-16092677231": "nota",
+   "shopee-56316805805": "desconto longe",
+   "shopee-22094994527": "vendas longe",
+   "shopee-58217145985": "nota",
+   "shopee-58262198398": "nota",
+   "shopee-58258974625": "vendas longe",
+   "shopee-58258970635": "nota",
+   "shopee-58258968788": "nota",
+   "shopee-58258302649": "vendas longe",
+   "shopee-58217230822": "nota",
+   "shopee-22698850420": "vendas longe",
+   "shopee-20199673919": "vendas longe",
+   "shopee-18298014380": "vendas longe",
+   "shopee-58269749331": "nota"
   },
   "shopee_oficial": {
-   "vendas longe": 1415,
-   "nota": 767,
-   "vendas perto (125+)": 103,
+   "vendas longe": 1436,
+   "nota": 815,
+   "vendas perto (125+)": 107,
    "outro: marca fora da lista boa": 76,
    "aprovada": 75,
-   "desconto longe": 59,
+   "desconto longe": 60,
    "desconto perto (até 10 pts)": 22,
    "outro: palavra proibida: compatível": 9
   },
   "instagram": {
    "seguidores": 398,
    "posts": 94,
-   "reach": 27,
+   "reach": 28,
    "profile_views": 20,
    "website_clicks": 0,
    "stories_ativos": 25
   },
   "reels_alcance": {
-   "atualizado": "2026-11-08T09:02:20.446839-03:00",
+   "atualizado": "2026-11-08T09:49:00.778078-03:00",
    "itens": [
     {
      "id": "18109659884021018",
@@ -3781,7 +3857,10 @@
   "facebook": {
    "posts": 0,
    "ultimo": null,
-   "erro": null
+   "erro": {
+    "hora": "08/11 10:24",
+    "erro": "Página recusou o post: {'message': '(#200) The permission(s) pages_manage_posts are not available. It could because either they are deprecated or need to be approved by App Review.', 'type': 'OAuthException', 'code': 200, 'fbtrace_id': 'AMHyaipUHfUXsUO0ViB01I9'}"
+   }
   }
  }
 }
