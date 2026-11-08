@@ -713,7 +713,10 @@
   "2026-11-08 achadinhos 18:19 shopee-18199337362",
   "2026-11-08 achadinhos 18:26 shopee-16887696614",
   "2026-11-08 achadinhos 18:36 shopee-16168525614",
-  "2026-11-08 tech 18:43 shopee-40275577235"
+  "2026-11-08 tech 18:43 shopee-40275577235",
+  "2026-11-08 marcas 19:13 shopee-22493521596",
+  "2026-11-08 marcas 19:21 shopee-56159571991",
+  "2026-11-08 achadinhos 19:35 shopee-58209674589"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -1168,7 +1171,7 @@
   "amz-B0CD14V4RQ": "2026-11-04T18:42:09.733592-03:00",
   "amz-B077L9HSQL": "2026-11-04T18:53:13.244967-03:00",
   "amz-B0CQ7N63YB": "2026-11-04T19:06:33.886721-03:00",
-  "shopee-58209674589": "2026-11-04T19:12:37.483253-03:00",
+  "shopee-58209674589": "2026-11-08T19:35:48.380305-03:00",
   "amz-B0CRTYZG5C": "2026-11-04T19:22:33.915284-03:00",
   "amz-B01JPOLKDW": "2026-11-04T19:36:41.616437-03:00",
   "amz-B0B872NVW4": "2026-11-04T19:47:08.844079-03:00",
@@ -1197,9 +1200,9 @@
   "amz-B0CVXSX2P5": "2026-11-05T11:43:21.899600-03:00",
   "amz-B0FQXCBFCF": "2026-11-05T11:50:08.158022-03:00",
   "amz-B086XNNSDN": "2026-11-05T12:25:21.393662-03:00",
-  "shopee-22493521596": "2026-11-05T12:45:06.979383-03:00",
+  "shopee-22493521596": "2026-11-08T19:13:45.954669-03:00",
   "shopee-23793236583": "2026-11-05T12:57:21.491364-03:00",
-  "shopee-56159571991": "2026-11-05T12:58:26.193199-03:00",
+  "shopee-56159571991": "2026-11-08T19:21:36.349047-03:00",
   "shopee-16168525614": "2026-11-08T18:36:49.523697-03:00",
   "amz-B0FMFRFNWG": "2026-11-05T13:20:01.538228-03:00",
   "amz-B0F253GVWR": "2026-11-05T13:26:13.963625-03:00",
@@ -7057,6 +7060,63 @@
    "entrou": "2026-11-08T18:33:48.187248-03:00",
    "reprise_dias": 2,
    "dia": "2026-11-08"
+  },
+  {
+   "id": "shopee-22493521596",
+   "plataforma": "Shopee",
+   "nome": "Tênis Olympikus Atmos Feminino Original",
+   "loja": "Cabana Magazine®",
+   "loja_oficial": true,
+   "preco": 148.87,
+   "preco_antigo": 209.68,
+   "desconto": 29,
+   "vendas": 285,
+   "nota": 4.9,
+   "comissao_pct": 13.0,
+   "imagem": "https://cf.shopee.com.br/file/br-11134207-820lw-mspog5ou4v0ncf",
+   "link": "https://s.shopee.com.br/LodJRJsHM",
+   "canal": "marcas",
+   "entrou": "2026-11-08T18:44:22.674425-03:00",
+   "reprise_dias": 2,
+   "dia": "2026-11-08"
+  },
+  {
+   "id": "shopee-56159571991",
+   "plataforma": "Shopee",
+   "nome": "Tênis Feminino de Caminhada Casual Elevado - Olympikus",
+   "loja": "Tubarão Max",
+   "loja_oficial": true,
+   "preco": 239.99,
+   "preco_antigo": 328.75,
+   "desconto": 27,
+   "vendas": 304,
+   "nota": 4.9,
+   "comissao_pct": 3.0,
+   "imagem": "https://cf.shopee.com.br/file/sg-11134201-820lk-mnk5a79obkea88",
+   "link": "https://s.shopee.com.br/9fMIQakLL5",
+   "canal": "marcas",
+   "entrou": "2026-11-08T18:44:22.674425-03:00",
+   "reprise_dias": 2,
+   "dia": "2026-11-08"
+  },
+  {
+   "id": "shopee-58209674589",
+   "plataforma": "Shopee",
+   "nome": "Desodorante Corporal Natura Kaiak O2 Masculino 100 ml",
+   "loja": "NATURA",
+   "loja_oficial": true,
+   "preco": 34.14,
+   "preco_antigo": 56.9,
+   "desconto": 40,
+   "vendas": 553,
+   "nota": 4.9,
+   "comissao_pct": 13.0,
+   "imagem": "https://cf.shopee.com.br/file/sg-11134201-820m1-mnk66jbfb01vdf",
+   "link": "https://s.shopee.com.br/W83VfHGxZ",
+   "canal": "achadinhos",
+   "entrou": "2026-11-08T19:07:25.311437-03:00",
+   "reprise_dias": 3,
+   "dia": "2026-11-08"
   }
  ],
  "ig_feitos": [
@@ -7219,11 +7279,12 @@
   "2026-11-08 18:09 story_oferta",
   "2026-11-08 feed",
   "2026-11-08 18:30 reels",
-  "2026-11-08 18:42 story_oferta"
+  "2026-11-08 18:42 story_oferta",
+  "2026-11-08 feed",
+  "2026-11-08 19:15 post_achado",
+  "2026-11-08 19:17 story_oferta"
  ],
  "ig_ofertas_usadas": [
-  "shopee-16185215321",
-  "amz-B0DY2FPRJD",
   "amz-B0F3Q2JH5Y",
   "nike-114071IF",
   "amz-B0FRHHNVLV",
@@ -7421,7 +7482,9 @@
   "shopee-58002598728",
   "shopee-22195023298",
   "amz-B07K1FVM4S",
-  "amz-B09NQNWT76"
+  "amz-B09NQNWT76",
+  "shopee-46611963995",
+  "shopee-23094056729"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
@@ -7794,7 +7857,7 @@
   "airfryerphilcopfr15pg44l1500w": "2026-11-04T18:42:09.733592-03:00",
   "jogodepanelastramontinaacoinoxfundotriplo3pecas": "2026-11-04T18:53:13.244967-03:00",
   "tenisnewbalance574v2masculino": "2026-11-04T19:06:33.886721-03:00",
-  "desodorantecorporalnaturakaiako2masculino100ml": "2026-11-04T19:12:37.483253-03:00",
+  "desodorantecorporalnaturakaiako2masculino100ml": "2026-11-08T19:35:48.380305-03:00",
   "fonebluetoothankersoundcorep30icomanc": "2026-11-04T19:22:33.915284-03:00",
   "mousesemfiologitechm330silentplus": "2026-11-04T19:36:41.616437-03:00",
   "protetorsolarfaciallarocheposayanthelioscomcor": "2026-11-04T19:47:08.844079-03:00",
@@ -7823,9 +7886,9 @@
   "kit2camisaspolobasicashering": "2026-11-05T11:43:21.899600-03:00",
   "caixadesomlgxboomstage301240wbluetoothipx4": "2026-11-05T11:50:08.158022-03:00",
   "jogodepanelastramontinaparis5pecasvermelho": "2026-11-05T12:25:21.393662-03:00",
-  "tenisolympikusatmosfemininooriginal": "2026-11-05T12:45:06.979383-03:00",
+  "tenisolympikusatmosfemininooriginal": "2026-11-08T19:13:45.954669-03:00",
   "smarttv43lgfullhd43lr67thinqaiwifibluetoothhdr": "2026-11-05T12:57:21.491364-03:00",
-  "tenisfemininodecaminhadacasualelevadoolympikus": "2026-11-05T12:58:26.193199-03:00",
+  "tenisfemininodecaminhadacasualelevadoolympikus": "2026-11-08T19:21:36.349047-03:00",
   "pranchachapinhataiffprofissionalclassicaceramica180cbivolt": "2026-11-08T18:36:49.523697-03:00",
   "tabletsamsunggalaxytabs10lite128gb": "2026-11-05T13:20:01.538228-03:00",
   "sanduicheiraegrillbritania2em1750w127v": "2026-11-05T13:26:13.963625-03:00",
@@ -8275,7 +8338,7 @@
  "pede_semana": "2026-45",
  "ultimo_garimpo": "2026-11-08T07:44:48-03:00",
  "vigia_aviso_post": "2026-11-08T12:51:05.072627-03:00",
- "vigia_aviso_garimpo": "2026-11-08T15:03:56.919405-03:00",
+ "vigia_aviso_garimpo": "2026-11-08T18:44:22.674425-03:00",
  "resumo_enviado": "2026-11-07",
  "token_conferido": "2026-11-08",
  "meta_token": {
@@ -8303,14 +8366,14 @@
   "2026-11-07 noite tech",
   "2026-11-08 tarde achadinhos"
  ],
- "reserva_meio": "2026-11-08T18:33:48.187248-03:00",
+ "reserva_meio": "2026-11-08T19:29:08.480588-03:00",
  "reserva_cheia": {
-  "achadinhos": "2026-11-08T15:03:56.919405-03:00",
-  "tech": "2026-11-08T17:39:03.934682-03:00",
-  "marcas": "2026-11-08T15:43:20.079794-03:00"
+  "achadinhos": "2026-11-08T19:07:25.311437-03:00",
+  "tech": "2026-11-08T19:29:08.480588-03:00",
+  "marcas": "2026-11-08T18:44:22.674425-03:00"
  },
  "top10_dia": "2026-11-07",
- "manuais_lidos": "2026-11-08T18:33:48.187248-03:00",
+ "manuais_lidos": "2026-11-08T19:21:06.304520-03:00",
  "reserva_resultado": {
   "2026-11-07": {
    "achadinhos": {
@@ -8333,12 +8396,12 @@
    "achadinhos": {
     "busca": 0,
     "quase": 12,
-    "reprise": 4
+    "reprise": 5
    },
    "marcas": {
     "busca": 0,
     "quase": 5,
-    "reprise": 1
+    "reprise": 3
    }
   }
  },
@@ -8352,7 +8415,7 @@
    "hora": "2026-11-08T18:33:48.187248-03:00"
   }
  },
- "ig_respondido_em": "2026-11-08T18:43:26.756107-03:00",
+ "ig_respondido_em": "2026-11-08T19:21:06.304520-03:00",
  "dm_auto": {
   "2026-11-08": {
    "com_palavra": 0,
