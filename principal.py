@@ -68,6 +68,9 @@ def gravar_relatorio(h: dict, agora: datetime) -> None:
     dia["telegram_membros"] = {c: telegram.membros(d) for c, d in {**config.CANAIS, "geral": config.GERAL}.items()}
     dia["instagram_feito"] = [f[11:] for f in h.get("ig_feitos", []) if f.startswith(hoje)]
     dia["shopee_ligada"] = bool(os.environ.get("SHOPEE_APP_ID"))
+    if h.get("dm_auto", {}).get(hoje):   # 08/11 (Central): convite no direct por comentário
+        dia["dm_auto"] = h["dm_auto"][hoje]
+    dia["facebook"] = {"posts": h.get("fb_posts", {}).get(hoje, 0), "ultimo": h.get("fb_ultimo"), "erro": h.get("fb_erro")}
     if h.get("reserva_resultado", {}).get(hoje):
         dia["reserva_resultado"] = h["reserva_resultado"][hoje]
     h["reserva_resultado"] = {k: v for k, v in h.get("reserva_resultado", {}).items() if k >= (agora.date() - timedelta(days=3)).isoformat()}
@@ -700,6 +703,12 @@ def soltar_fila(h: dict, telegram, limite: datetime, atraso: bool = True) -> int
                     garimpo_reserva(h, shopee if os.environ.get("SHOPEE_APP_ID") else None, agora_ig, ult)
                 except Exception as e:
                     print(f"[reserva] no meio da fila falhou: {e}")
+            if os.environ.get("META_TOKEN") and h.get("ig_respondido_em", "") < (agora_ig - timedelta(minutes=10)).isoformat():
+                responder_ig(h, agora_ig)   # 08/11 (Central): pedido de TELEGRAM nos comentários não espera a próxima execução
+                try:
+                    publicar_facebook(h, agora_ig)
+                except Exception as e:
+                    print(f"[fb] {e}")
             if instagram_vencido(h, agora_ig):
                 try:
                     # aqui a própria fila cuida do ritmo: sem post extra entre as peças
@@ -789,7 +798,7 @@ def soltar_fila(h: dict, telegram, limite: datetime, atraso: bool = True) -> int
 SIGA_REEL = "\n\n👉 Siga @papa.garimpou pra não perder"
 # 05/11 (CEO): seguidor do Instagram não vira membro do Telegram. Fecho único: comentar TELEGRAM → convite no direct
 # (link "ig-dm"). Sem hashtag; o aviso de publicidade fica em texto.
-LEGENDA_CTA = ("\n\nQuer as ofertas antes de todo mundo? Comenta TELEGRAM que o Papa te manda o convite no direct 💎\n\n"
+LEGENDA_CTA = ("\n\nQuer as ofertas antes de todo mundo? Comenta TELEGRAM que eu te mando o link do grupo no direct 💎\n\n"
                "Publi · link de afiliado")
 
 
@@ -1011,6 +1020,89 @@ def liberada_ig(o: dict, agora: datetime) -> bool:
 
 
 ENTRE_TAREFAS = [lambda: None]   # main põe aqui o "solta 1 post se já deu o intervalo"
+
+
+def responder_ig(h: dict, agora: datetime) -> None:
+    """Comentário com TELEGRAM/QUERO/LINK → convite no direct (private reply). 08/11 (Central): conta no
+    histórico (dm_auto do dia, vai para o relatório) e roda também no meio da fila, a cada 10 min."""
+    import instagram
+    h["ig_respondido_em"] = agora.isoformat()
+    antes = dict(instagram.DM_CONTAGEM)
+    try:
+        resp = instagram.responder_comentarios(set(h.setdefault("ig_comentarios", [])), h.get("ig_dm_links"))
+        h["ig_comentarios"] = (h["ig_comentarios"] + resp)[-500:]
+        if resp:
+            print(f"[ig] respondi {len(resp)} comentário(s)")
+    except Exception as e:
+        instagram.DM_CONTAGEM["ultimo_erro"] = f"{e}"[:200]
+        print(f"[ig] comentários: {e}")
+    dia = h.setdefault("dm_auto", {}).setdefault(agora.date().isoformat(),
+                                                   {"com_palavra": 0, "dm_ok": 0, "dm_falha": 0, "ultimo_erro": ""})
+    for k in ("com_palavra", "dm_ok", "dm_falha"):
+        dia[k] += instagram.DM_CONTAGEM[k] - antes[k]
+    if instagram.DM_CONTAGEM["ultimo_erro"] != antes["ultimo_erro"]:
+        dia["ultimo_erro"] = instagram.DM_CONTAGEM["ultimo_erro"]
+    h["dm_auto"] = {d: v for d, v in h["dm_auto"].items() if d >= (agora.date() - timedelta(days=7)).isoformat()}
+
+
+def publicar_facebook(h: dict, agora: datetime) -> None:
+    """08/11 (Central): Página do Facebook, mesmo token. FB_OFERTAS_HORAS: 1 oferta já postada no Telegram
+    (foto + legenda com o link de afiliado clicável), sem repetir; FB_CONVITE_HORA: 1 post com o convite
+    fb-pagina do Telegram. Cada horário sai uma vez por dia, até 50 min depois."""
+    import os
+    if not config.FB_PAGINA_ATIVA or not os.environ.get("META_TOKEN"):
+        return
+    import artes
+    import instagram
+    hoje = agora.date().isoformat()
+    feitos = h.setdefault("fb_feitos", [])
+    usadas = h.setdefault("fb_usadas", [])
+    tarefas = [(x, "oferta") for x in config.FB_OFERTAS_HORAS] + [(config.FB_CONVITE_HORA, "convite")]
+    for hora, tipo in tarefas:
+        hh, mm = map(int, hora.split(":"))
+        momento = agora.replace(hour=hh, minute=mm, second=0, microsecond=0)
+        chave = f"{hoje} {hora} {tipo}"
+        if not (momento <= agora <= momento + timedelta(minutes=50)) or chave in feitos:
+            continue
+        tent = h.setdefault("fb_tentativas", {})
+        try:
+            if tipo == "oferta":
+                ok = [o for o in h.get("ofertas_dia", []) if o.get("dia") == hoje and o["id"] not in usadas
+                      and liberada_ig(o, agora) and o.get("imagem") and oferta_viva(o, agora)]
+                if not ok:
+                    print(f"[fb] {hora}: nenhuma oferta do dia livre para a Página")
+                    feitos.append(chave)
+                    continue
+                o = max(ok, key=qualidade.pontuar)
+                url = instagram.hospedar(f"{agora:%Y%m%d}-fb-{o['id']}.jpg", artes.post_oferta(o, o["canal"]))
+                pid = instagram.pagina_foto(url, post.legenda(o, o["canal"]))
+                usadas.append(o["id"])
+            else:
+                conv = json.loads(CONVITES.read_text(encoding="utf-8")) if CONVITES.exists() else {}
+                link = conv.get("fb-pagina") or "https://t.me/papagarimpouofertas"
+                url = instagram.hospedar(f"{agora:%Y%m%d}-fb-convite.jpg", artes.story_convite())
+                pid = instagram.pagina_foto(url, FB_CONVITE.format(link=link))
+            feitos.append(chave)
+            dia = h.setdefault("fb_posts", {})
+            dia[hoje] = dia.get(hoje, 0) + 1
+            h["fb_ultimo"] = {"hora": f"{agora:%d/%m %H:%M}", "tipo": tipo, "id": pid}
+            print(f"[fb] publicado {chave}: {pid}")
+        except Exception as e:
+            tent[chave] = tent.get(chave, 0) + 1
+            h["fb_erro"] = {"hora": f"{agora:%d/%m %H:%M}", "erro": str(e)[:300]}
+            print(f"[fb] {chave} falhou ({tent[chave]}ª): {e}")
+            if tent[chave] >= 3:
+                feitos.append(chave)
+                import telegram
+                telegram.avisar_dono(f"Página do Facebook: {chave} falhou 3 vezes: {str(e)[:200]}")
+    h["fb_feitos"] = [f for f in feitos if f[:10] >= (agora.date() - timedelta(days=3)).isoformat()]
+    h["fb_usadas"] = usadas[-200:]
+    h["fb_tentativas"] = {k: v for k, v in h.get("fb_tentativas", {}).items() if k.startswith(hoje)}
+    h["fb_posts"] = {d: v for d, v in h.get("fb_posts", {}).items() if d >= (agora.date() - timedelta(days=7)).isoformat()}
+
+
+FB_CONVITE = ("😎💎 Achado bom de marca, em loja oficial, sai primeiro no Telegram do Papa. É grátis!\n\n"
+              "👉 Entra aqui: {link}\n\nNão tem Telegram? Veja no navegador: https://t.me/s/papagarimpouofertas")
 
 
 def instagram_vencido(h: dict, agora: datetime) -> bool:
@@ -1259,13 +1351,11 @@ def rodar_instagram(h: dict, agora: datetime) -> None:
             print(f"[ig] vigia: havia {ativos} stories no ar, publiquei {min(faltam, 3)}")
     except Exception as e:
         print(f"[ig] vigia de stories: {e}")
+    responder_ig(h, agora)
     try:
-        resp = instagram.responder_comentarios(set(h.setdefault("ig_comentarios", [])), h.get("ig_dm_links"))
-        h["ig_comentarios"] += resp
-        if resp:
-            print(f"[ig] respondi {len(resp)} comentário(s)")
+        publicar_facebook(h, agora)
     except Exception as e:
-        print(f"[ig] comentários: {e}")
+        print(f"[fb] {e}")
     instagram.limpar_midia(hoje)
     h["ig_feitos"] = [f for f in feitos if f[:10] >= (agora.date() - timedelta(days=3)).isoformat()]
     h["ig_ofertas_usadas"] = usadas[-200:]
@@ -1273,7 +1363,7 @@ def rodar_instagram(h: dict, agora: datetime) -> None:
 
 CONVITE_STORY = PASTA / "dados" / "convite-story.txt"
 CONVITES = PASTA / "dados" / "convites.json"
-CONVITES_ORIGEM = ("ig-bio", "ig-story", "ig-dm")
+CONVITES_ORIGEM = ("ig-bio", "ig-story", "ig-dm", "ig-dm-auto", "fb-pagina")   # 08/11: +resposta automática e Página FB
 
 
 STORY_LINK = PASTA / "dados" / "story-link.txt"

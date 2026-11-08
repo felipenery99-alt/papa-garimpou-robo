@@ -8,7 +8,7 @@ import sys
 def mesclar(nosso: dict, remoto: dict) -> dict:
     out = dict(remoto)
     out.update(nosso)
-    for k in ("slots_feitos", "ig_feitos", "ig_ofertas_usadas", "ig_comentarios", "menus_fixados"):
+    for k in ("slots_feitos", "ig_feitos", "ig_ofertas_usadas", "ig_comentarios", "menus_fixados", "fb_feitos", "fb_usadas"):
         out[k] = list(dict.fromkeys(remoto.get(k, []) + nosso.get(k, [])))
     for k in ("postados", "postados_nome", "pecas_usadas", "ig_reels_ofertas", "vendas_shopee", "ig_dm_links", "ig_reels_log"):
         out[k] = {**remoto.get(k, {}), **nosso.get(k, {})}

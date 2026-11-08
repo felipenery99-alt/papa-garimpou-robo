@@ -323,7 +323,8 @@ def _resposta_dm() -> str:
     """05/11 (CEO): quem comenta TELEGRAM recebe o convite "ig-dm" (conta quantos entram por ele) no lugar
     do link público do canal geral. Sem o arquivo de convites, vai o texto de sempre."""
     try:
-        link = json.loads((PASTA / "dados" / "convites.json").read_text(encoding="utf-8"))["ig-dm"]
+        conv = json.loads((PASTA / "dados" / "convites.json").read_text(encoding="utf-8"))
+        link = conv.get("ig-dm-auto") or conv["ig-dm"]   # 08/11 (Central): convite próprio da resposta automática
     except Exception:
         return RESPOSTA_DM
     return RESPOSTA_DM.replace("https://t.me/papagarimpouofertas", link)
@@ -333,11 +334,16 @@ def _convite_extra() -> str:
     """06/11 (CEO): seguidores 151→291 em 1 dia e membros parados em 16. Quem pede os links de produto
     (QUERO no carrossel) é o lead mais quente: a DM de links passa a terminar com o convite do Telegram."""
     try:
-        link = json.loads((PASTA / "dados" / "convites.json").read_text(encoding="utf-8"))["ig-dm"]
+        conv = json.loads((PASTA / "dados" / "convites.json").read_text(encoding="utf-8"))
+        link = conv.get("ig-dm-auto") or conv["ig-dm"]
     except Exception:
         link = "https://t.me/papagarimpouofertas"
     return (f"\n\n💎 Quer achados assim todo dia, grátis? Entra no Telegram do Papa: {link}"
             "\nSem Telegram? Abre no navegador: https://t.me/s/papagarimpouofertas")
+
+
+# 08/11 (Central): quantos comentários foram lidos e quantos receberam o direct, com o erro exato da API
+DM_CONTAGEM = {"comentarios_lidos": 0, "com_palavra": 0, "dm_ok": 0, "dm_falha": 0, "ultimo_erro": ""}
 
 
 def responder_comentarios(ja_respondidos: set, dm_por_post: dict | None = None) -> list[str]:
@@ -346,25 +352,50 @@ def responder_comentarios(ja_respondidos: set, dm_por_post: dict | None = None) 
     `dm_por_post` (01/11): texto próprio por post, ex. os 5 links do carrossel salvável."""
     c = conta()
     feitos = []
-    posts = requests.get(f"{G}/{c['ig_id']}/media", params={"access_token": _token(), "fields": "id", "limit": 6}, timeout=30).json()
+    posts = requests.get(f"{G}/{c['ig_id']}/media", params={"access_token": _token(), "fields": "id", "limit": 10}, timeout=30).json()
+    if "error" in posts:
+        DM_CONTAGEM["ultimo_erro"] = f"media: {posts['error'].get('message')}"[:200]
     for p in posts.get("data", []):
         coms = requests.get(f"{G}/{p['id']}/comments", params={"access_token": _token(), "fields": "id,text,username"}, timeout=30).json()
+        if "error" in coms:
+            DM_CONTAGEM["ultimo_erro"] = f"comments: {coms['error'].get('message')}"[:200]
         for cm in coms.get("data", []):
+            if cm["id"] not in ja_respondidos:
+                DM_CONTAGEM["comentarios_lidos"] += 1
             if cm["id"] in ja_respondidos or cm.get("username") == config.INSTAGRAM_PERMITIDO:
                 continue
             texto = (cm.get("text") or "").strip().lower()
             if not any(texto.startswith(k) or k in texto.split() for k in PALAVRAS_CHAVE):
                 continue
+            DM_CONTAGEM["com_palavra"] += 1
             pede_canais = any(texto.startswith(k) or k in texto.split() for k in PALAVRAS_CANAIS)
             ok_dm = False
             if c.get("page_token"):
                 r = requests.post(f"{G}/{c['page_id']}/messages", params={"access_token": c["page_token"]},
                                   json={"recipient": {"comment_id": cm["id"]}, "message": {"text": _resposta_dm() if pede_canais or p["id"] not in (dm_por_post or {}) else dm_por_post[p["id"]] + _convite_extra()}}, timeout=30).json()
                 ok_dm = "message_id" in r or "recipient_id" in r
+                DM_CONTAGEM["dm_ok" if ok_dm else "dm_falha"] += 1
+                if not ok_dm:
+                    DM_CONTAGEM["ultimo_erro"] = f"private reply: {r.get('error', r)}"[:200]
+            else:
+                DM_CONTAGEM["dm_falha"] += 1
+                DM_CONTAGEM["ultimo_erro"] = "sem page_token em /me/accounts"
             publica = "Te mandei no direct! 💎" if ok_dm else "Os links estão na bio, é grátis! 💎"
             requests.post(f"{G}/{cm['id']}/replies", data={"access_token": _token(), "message": publica}, timeout=30)
             feitos.append(cm["id"])
     return feitos
+
+
+def pagina_foto(url: str, legenda: str) -> str:
+    """08/11 (Central): post PUBLICADO na Página do Facebook (foto + texto; link no texto fica clicável).
+    Devolve o id do post; recusa da API sobe com o erro exato."""
+    c = conta()
+    tk = c["page_token"] or _token()
+    r = requests.post(f"{G}/{c['page_id']}/photos", data={"access_token": tk, "url": url, "caption": legenda,
+                      "published": "true"}, timeout=60).json()
+    if "id" not in r:
+        raise RuntimeError(f"Página recusou o post: {r.get('error', r)}")
+    return r.get("post_id") or r["id"]
 
 
 def limpar_midia(hoje: str, dias=2):

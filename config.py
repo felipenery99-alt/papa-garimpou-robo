@@ -224,3 +224,9 @@ BUSCAS = {
         "cafeteira oster", "kit panelas tramontina antiaderente",
     ],
 }
+
+# 08/11 (Central): Página do Facebook (mesmo token). 4 ofertas por dia (já postadas no Telegram, link clicável)
+# + 1 post com o convite "fb-pagina" do Telegram.
+FB_PAGINA_ATIVA = True
+FB_OFERTAS_HORAS = ["10:10", "13:10", "17:10", "19:40"]
+FB_CONVITE_HORA = "20:10"
