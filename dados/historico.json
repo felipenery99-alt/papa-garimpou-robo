@@ -683,7 +683,12 @@
   "2026-11-08 achadinhos 13:57 shopee-19497608994",
   "2026-11-08 marcas 14:05 amz-B0BCV3YJZ9",
   "2026-11-08 tech 14:12 shopee-58002598728",
-  "2026-11-08 achadinhos 14:20 shopee-23494777148"
+  "2026-11-08 achadinhos 14:20 shopee-23494777148",
+  "2026-11-08 achadinhos 14:30 shopee-49064981274",
+  "2026-11-08 marcas 14:39 shopee-16185215321",
+  "2026-11-08 tech 14:47 shopee-22195023298",
+  "2026-11-08 marcas 14:55 shopee-20516472434",
+  "2026-11-08 tech 15:02 shopee-11444965462"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -908,11 +913,11 @@
   "amz-B0F3Q2JH5Y": "2026-10-31T09:51:44.240247-03:00",
   "nike-114071IF": "2026-10-31T09:58:53.643828-03:00",
   "amz-B0FRHHNVLV": "2026-10-31T10:04:50.214952-03:00",
-  "shopee-16185215321": "2026-10-31T10:08:58.895685-03:00",
+  "shopee-16185215321": "2026-11-08T14:39:46.914838-03:00",
   "amz-B0DDZ4QF35": "2026-10-31T10:12:25.104592-03:00",
   "amz-B0CRXH4928": "2026-10-31T10:18:19.660187-03:00",
   "amz-B07C56GRM1": "2026-10-31T10:36:46.796462-03:00",
-  "shopee-20516472434": "2026-10-31T10:40:16.563374-03:00",
+  "shopee-20516472434": "2026-11-08T14:55:58.291676-03:00",
   "amz-B0D9KV9YWZ": "2026-10-31T10:45:50.166542-03:00",
   "amz-B09XJK1XS1": "2026-10-31T10:49:05.387675-03:00",
   "shopee-58260024078": "2026-11-07T11:30:06.770342-03:00",
@@ -1354,7 +1359,10 @@
   "amz-B0BNPBPS3K": "2026-11-08T13:14:27.193620-03:00",
   "shopee-49606086815": "2026-11-08T13:22:24.930363-03:00",
   "amz-B0BCV3YJZ9": "2026-11-08T14:05:06.127737-03:00",
-  "shopee-58002598728": "2026-11-08T14:12:55.488332-03:00"
+  "shopee-58002598728": "2026-11-08T14:12:55.488332-03:00",
+  "shopee-49064981274": "2026-11-08T14:30:20.393231-03:00",
+  "shopee-22195023298": "2026-11-08T14:47:15.342899-03:00",
+  "shopee-11444965462": "2026-11-08T15:02:27.342103-03:00"
  },
  "ofertas_dia": [
   {
@@ -6439,6 +6447,98 @@
    "entrou": "2026-11-08T12:51:05.072627-03:00",
    "reprise_dias": 2,
    "dia": "2026-11-08"
+  },
+  {
+   "id": "shopee-49064981274",
+   "plataforma": "Shopee",
+   "nome": "Desodorante Corporal Natura Homem Cor.agio 100ml",
+   "loja": "NATURA",
+   "loja_oficial": true,
+   "preco": 29.16,
+   "preco_antigo": 72.9,
+   "desconto": 60,
+   "vendas": 293,
+   "nota": 4.9,
+   "comissao_pct": 13.0,
+   "imagem": "https://cf.shopee.com.br/file/sg-11134201-8259t-mr6a2rvb1gchc3",
+   "link": "https://s.shopee.com.br/5LDJzqURaO",
+   "canal": "achadinhos",
+   "entrou": "2026-11-08T14:21:00.499626-03:00",
+   "dia": "2026-11-08"
+  },
+  {
+   "id": "shopee-16185215321",
+   "plataforma": "Shopee",
+   "nome": "Kit 6 Cuecas Boxer Lupo Microfibra Poliamida Sem Costura Masculina Respirável Confortável Original",
+   "loja": "Osure",
+   "loja_oficial": true,
+   "preco": 128.99,
+   "preco_antigo": 201.55,
+   "desconto": 36,
+   "vendas": 738,
+   "nota": 4.9,
+   "comissao_pct": 21.0,
+   "imagem": "https://cf.shopee.com.br/file/br-11134207-820l4-mt86z476awap25",
+   "link": "https://s.shopee.com.br/qktuKJG9q",
+   "canal": "marcas",
+   "entrou": "2026-11-08T12:51:05.072627-03:00",
+   "dia": "2026-11-08"
+  },
+  {
+   "id": "shopee-22195023298",
+   "plataforma": "Shopee",
+   "nome": "TP-Link EX3000 Roteador Wi-Fi 6 AX3000 Dual Band, 4 portas Gigabit",
+   "loja": "TP-Link Brasil",
+   "loja_oficial": true,
+   "preco": 221.54,
+   "preco_antigo": 381.97,
+   "desconto": 42,
+   "vendas": 175,
+   "nota": 4.9,
+   "comissao_pct": 11.0,
+   "imagem": "https://cf.shopee.com.br/file/br-11134207-820la-moifp6zqrk003c",
+   "link": "https://s.shopee.com.br/W83VyQmdq",
+   "quase": true,
+   "canal": "tech",
+   "entrou": "2026-11-08T13:29:59.688675-03:00",
+   "dia": "2026-11-08"
+  },
+  {
+   "id": "shopee-20516472434",
+   "plataforma": "Shopee",
+   "nome": "Kit De 6 Pares Meias Lupo Kids Infantil Cano Curto Algodão Tamanho 24 ao 35",
+   "loja": "Deccó",
+   "loja_oficial": true,
+   "preco": 55.1,
+   "preco_antigo": 96.67,
+   "desconto": 43,
+   "vendas": 992,
+   "nota": 4.9,
+   "comissao_pct": 13.0,
+   "imagem": "https://cf.shopee.com.br/file/br-11134207-820lo-mv3i1326hlaa96",
+   "link": "https://s.shopee.com.br/50aSs64UMc",
+   "canal": "marcas",
+   "entrou": "2026-11-08T12:51:05.072627-03:00",
+   "dia": "2026-11-08"
+  },
+  {
+   "id": "shopee-11444965462",
+   "plataforma": "Shopee",
+   "nome": "Cabo USB De Dados Motorola Original Usb-C 1 Metro",
+   "loja": "Distribuidor de Acessórios Motorola",
+   "loja_oficial": true,
+   "preco": 35.0,
+   "preco_antigo": 50.0,
+   "desconto": 30,
+   "vendas": 229,
+   "nota": 4.9,
+   "comissao_pct": 16.0,
+   "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lsidpa3luxizbe",
+   "link": "https://s.shopee.com.br/qktuet6rS",
+   "quase": true,
+   "canal": "tech",
+   "entrou": "2026-11-08T13:29:59.688675-03:00",
+   "dia": "2026-11-08"
   }
  ],
  "ig_feitos": [
@@ -6586,11 +6686,12 @@
   "2026-11-08 12:47 story_oferta",
   "2026-11-08 13:20 story_convite",
   "2026-11-08 13:22 story_oferta",
-  "2026-11-08 14:08 story_oferta"
+  "2026-11-08 14:08 story_oferta",
+  "2026-11-08 feed",
+  "2026-11-08 14:25 post_achado",
+  "2026-11-08 15:00 adivinha"
  ],
  "ig_ofertas_usadas": [
-  "nike-004386ID",
-  "shopee-21997684262",
   "nike-079609MT",
   "shopee-23094056729",
   "shopee-22396095321",
@@ -6788,7 +6889,9 @@
   "amz-B0FD4QYX8Q",
   "amz-B0FTZN4CM3",
   "amz-B07ZH9GHV9",
-  "amz-B0DPJDYDZS"
+  "amz-B0DPJDYDZS",
+  "shopee-49064981274",
+  "amz-B0BHMDJG7M"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
@@ -6855,40 +6958,6 @@
  "ultimo_pilar": "dica",
  "fila": [
   {
-   "id": "shopee-16185215321",
-   "plataforma": "Shopee",
-   "nome": "Kit 6 Cuecas Boxer Lupo Microfibra Poliamida Sem Costura Masculina Respirável Confortável Original",
-   "loja": "Osure",
-   "loja_oficial": true,
-   "preco": 128.99,
-   "preco_antigo": 201.55,
-   "desconto": 36,
-   "vendas": 738,
-   "nota": 4.9,
-   "comissao_pct": 21.0,
-   "imagem": "https://cf.shopee.com.br/file/br-11134207-820l4-mt86z476awap25",
-   "link": "https://s.shopee.com.br/qktuKJG9q",
-   "canal": "marcas",
-   "entrou": "2026-11-08T12:51:05.072627-03:00"
-  },
-  {
-   "id": "shopee-20516472434",
-   "plataforma": "Shopee",
-   "nome": "Kit De 6 Pares Meias Lupo Kids Infantil Cano Curto Algodão Tamanho 24 ao 35",
-   "loja": "Deccó",
-   "loja_oficial": true,
-   "preco": 55.1,
-   "preco_antigo": 96.67,
-   "desconto": 43,
-   "vendas": 992,
-   "nota": 4.9,
-   "comissao_pct": 13.0,
-   "imagem": "https://cf.shopee.com.br/file/br-11134207-820lo-mv3i1326hlaa96",
-   "link": "https://s.shopee.com.br/50aSs64UMc",
-   "canal": "marcas",
-   "entrou": "2026-11-08T12:51:05.072627-03:00"
-  },
-  {
    "id": "shopee-22194331598",
    "plataforma": "Shopee",
    "nome": "Whey Pro Max Titanium Protein Pro Com Bcaa E Aminoácidos 1kg",
@@ -6904,42 +6973,6 @@
    "link": "https://s.shopee.com.br/4qH2fipU2y",
    "canal": "marcas",
    "entrou": "2026-11-08T12:51:05.072627-03:00"
-  },
-  {
-   "id": "shopee-22195023298",
-   "plataforma": "Shopee",
-   "nome": "TP-Link EX3000 Roteador Wi-Fi 6 AX3000 Dual Band, 4 portas Gigabit",
-   "loja": "TP-Link Brasil",
-   "loja_oficial": true,
-   "preco": 221.54,
-   "preco_antigo": 381.97,
-   "desconto": 42,
-   "vendas": 175,
-   "nota": 4.9,
-   "comissao_pct": 11.0,
-   "imagem": "https://cf.shopee.com.br/file/br-11134207-820la-moifp6zqrk003c",
-   "link": "https://s.shopee.com.br/W83VyQmdq",
-   "quase": true,
-   "canal": "tech",
-   "entrou": "2026-11-08T13:29:59.688675-03:00"
-  },
-  {
-   "id": "shopee-11444965462",
-   "plataforma": "Shopee",
-   "nome": "Cabo USB De Dados Motorola Original Usb-C 1 Metro",
-   "loja": "Distribuidor de Acessórios Motorola",
-   "loja_oficial": true,
-   "preco": 35.0,
-   "preco_antigo": 50.0,
-   "desconto": 30,
-   "vendas": 229,
-   "nota": 4.9,
-   "comissao_pct": 16.0,
-   "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lsidpa3luxizbe",
-   "link": "https://s.shopee.com.br/qktuet6rS",
-   "quase": true,
-   "canal": "tech",
-   "entrou": "2026-11-08T13:29:59.688675-03:00"
   },
   {
    "id": "shopee-58206236149",
@@ -7109,11 +7142,11 @@
   "airfryermidea55l": "2026-10-31T09:51:44.240247-03:00",
   "nikedunklowretrose": "2026-10-31T09:58:53.643828-03:00",
   "airfryerovenelectroluxporritalobo12l220v": "2026-10-31T10:04:50.214952-03:00",
-  "kit6cuecasboxerlupomicrofibrapoliamidasemcosturamasculinarespiravelconfortaveloriginal": "2026-10-31T10:08:58.895685-03:00",
+  "kit6cuecasboxerlupomicrofibrapoliamidasemcosturamasculinarespiravelconfortaveloriginal": "2026-11-08T14:39:46.914838-03:00",
   "mousegamersemfiologitechg309lightspeed": "2026-10-31T10:12:25.104592-03:00",
   "poteshermeticosdevidroelectroluxavacuo2unid": "2026-10-31T10:18:19.660187-03:00",
   "protetorsolarniveasunprotectehidratafps50": "2026-10-31T10:36:46.796462-03:00",
-  "kitde6paresmeiaslupokidsinfantilcanocurtoalgodaotamanho24ao35": "2026-10-31T10:40:16.563374-03:00",
+  "kitde6paresmeiaslupokidsinfantilcanocurtoalgodaotamanho24ao35": "2026-11-08T14:55:58.291676-03:00",
   "smarttvlg554kuhd55ut8050comalexaechromecast": "2026-10-31T10:45:50.166542-03:00",
   "kit8poteshermeticoselectroluxcomvedacaodesilicone": "2026-10-31T10:49:05.387675-03:00",
   "kit2creatinamaxtitanium300gpura": "2026-11-07T11:30:06.770342-03:00",
@@ -7555,7 +7588,10 @@
   "camisetabasicamasculinaheringsupercottoncombolso": "2026-11-08T13:14:27.193620-03:00",
   "ventiladormesamondialnvsp30b230cmsuperpowerii60w": "2026-11-08T13:22:24.930363-03:00",
   "tenisolympikusultraleve130gfeminino": "2026-11-08T14:05:06.127737-03:00",
-  "carregadorportatilbaseuspicogoam415000mah10000mah20wmagneticomagsafeusbc60wpowerbank": "2026-11-08T14:12:55.488332-03:00"
+  "carregadorportatilbaseuspicogoam415000mah10000mah20wmagneticomagsafeusbc60wpowerbank": "2026-11-08T14:12:55.488332-03:00",
+  "desodorantecorporalnaturahomemcoragio100ml": "2026-11-08T14:30:20.393231-03:00",
+  "tplinkex3000roteadorwifi6ax3000dualband4portasgigabit": "2026-11-08T14:47:15.342899-03:00",
+  "cabousbdedadosmotorolaoriginalusbc1metro": "2026-11-08T15:02:27.342103-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
@@ -7768,22 +7804,23 @@
  },
  "tg_offset": 354369946,
  "adivinha": {
-  "dia": "2026-11-06",
+  "dia": "2026-11-08",
   "oferta": {
-   "id": "amz-B07K8XJF9D",
+   "id": "amz-B0BHMDJG7M",
    "canal": "marcas",
-   "nome": "Garrafa Térmica Contigo Matterhorn Inox 591ml",
-   "preco_antigo": 109.9,
-   "preco": 44.63,
-   "desconto": 59,
-   "link": "https://www.amazon.com.br/dp/B07K8XJF9D?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/41k8bj588BL._AC_SL1000_.jpg",
+   "nome": "Insider Daily T-shirt Feminina",
+   "preco_antigo": 139.0,
+   "preco": 53.09,
+   "desconto": 62,
+   "link": "https://www.amazon.com.br/dp/B0BHMDJG7M?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51pr3rn-HqL._AC_SL1500_.jpg",
    "loja": "Vendido e entregue pela Amazon",
    "plataforma": "Amazon",
-   "valida_ate": "2026-11-06T22:00:00-03:00",
-   "gancho": "GARRAFA CONTIGO COM 59% OFF: ÁGUA GELADA O DIA TODO E O BOLSO AGRADECE",
-   "entrou": "2026-11-06T08:17:57.514188-03:00",
-   "dia": "2026-11-06"
+   "valida_ate": "2026-11-08T22:00:00-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "gancho": "INSIDER COM PREÇO DE CAMISETA COMUM",
+   "entrou": "2026-11-08T12:22:36.359446-03:00",
+   "dia": "2026-11-08"
   }
  },
  "ig_dm_links": {},
@@ -7819,14 +7856,14 @@
   "2026-11-07 noite tech",
   "2026-11-08 tarde achadinhos"
  ],
- "reserva_meio": "2026-11-08T13:29:59.688675-03:00",
+ "reserva_meio": "2026-11-08T14:54:55.919783-03:00",
  "reserva_cheia": {
   "achadinhos": "2026-11-08T12:22:36.359446-03:00",
   "tech": "2026-11-08T13:29:59.688675-03:00",
   "marcas": "2026-11-07T20:03:50.806494-03:00"
  },
  "top10_dia": "2026-11-07",
- "manuais_lidos": "2026-11-08T14:12:33.494973-03:00",
+ "manuais_lidos": "2026-11-08T14:54:55.919783-03:00",
  "reserva_resultado": {
   "2026-11-07": {
    "achadinhos": {
@@ -7864,7 +7901,7 @@
    "hora": "2026-11-08T12:05:00.233577-03:00"
   }
  },
- "ig_respondido_em": "2026-11-08T14:12:33.494973-03:00",
+ "ig_respondido_em": "2026-11-08T15:02:11.874967-03:00",
  "dm_auto": {
   "2026-11-08": {
    "com_palavra": 0,

@@ -1,56 +1,17 @@
 {
- "dia": "2026-11-06",
+ "dia": "2026-11-08",
  "itens": [
   {
    "tipo": "adivinha",
-   "hora": "15:03",
+   "hora": "15:02",
    "produtos": [
     {
-     "nome": "Garrafa Térmica Contigo Matterhorn Inox 591ml",
-     "preco_antigo": 109.9,
-     "preco": 44.63,
-     "desconto": 59,
-     "link": "https://www.amazon.com.br/dp/B07K8XJF9D?tag=papagarimpou-20",
+     "nome": "Insider Daily T-shirt Feminina",
+     "preco_antigo": 139.0,
+     "preco": 53.09,
+     "desconto": 62,
+     "link": "https://www.amazon.com.br/dp/B0BHMDJG7M?tag=papagarimpou-20",
      "loja": "Vendido e entregue pela Amazon",
-     "canal": "marcas"
-    }
-   ]
-  },
-  {
-   "tipo": "adivinha_resposta",
-   "hora": "16:10",
-   "produtos": [
-    {
-     "nome": "Garrafa Térmica Contigo Matterhorn Inox 591ml",
-     "preco_antigo": 109.9,
-     "preco": 44.63,
-     "desconto": 59,
-     "link": "https://www.amazon.com.br/dp/B07K8XJF9D?tag=papagarimpou-20",
-     "loja": "Vendido e entregue pela Amazon",
-     "canal": "marcas"
-    }
-   ]
-  },
-  {
-   "tipo": "a_ou_b",
-   "hora": "18:10",
-   "produtos": [
-    {
-     "nome": "Kit 6 Pares Meias Lupo Cano Curto Baixo Soquete Algodão Confortável Unissex Masculina Feminina Original",
-     "preco_antigo": 90.89,
-     "preco": 49.99,
-     "desconto": 45,
-     "link": "https://s.shopee.com.br/2qVtJC27e4",
-     "loja": "Osure",
-     "canal": "marcas"
-    },
-    {
-     "nome": "Kit De 9 Pares Meias Lupo Kids Infantil Cano Curto Algodão Tamanho 24 ao 36",
-     "preco_antigo": 144.54,
-     "preco": 80.94,
-     "desconto": 44,
-     "link": "https://s.shopee.com.br/1BNfK83aQ9",
-     "loja": "Deccó",
      "canal": "marcas"
     }
    ]
