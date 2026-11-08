@@ -7027,5 +7027,19 @@
   "marcas": "2026-11-07T20:03:50.806494-03:00"
  },
  "top10_dia": "2026-11-07",
- "manuais_lidos": "2026-11-07T22:40:27.552616-03:00"
+ "manuais_lidos": "2026-11-07T23:29:10.040216-03:00",
+ "reserva_resultado": {
+  "2026-11-07": {
+   "achadinhos": {
+    "busca": 0,
+    "quase": 0,
+    "reprise": 0
+   },
+   "tech": {
+    "busca": 0,
+    "quase": 0,
+    "reprise": 0
+   }
+  }
+ }
 }
