@@ -708,7 +708,12 @@
   "2026-11-08 achadinhos 17:29 shopee-23298537624",
   "2026-11-08 achadinhos 17:47 shopee-23098514649",
   "2026-11-08 tech 17:55 shopee-9739004991",
-  "2026-11-08 tech 18:01 shopee-58250795411"
+  "2026-11-08 tech 18:01 shopee-58250795411",
+  "2026-11-08 marcas 18:11 shopee-22592962752",
+  "2026-11-08 achadinhos 18:19 shopee-18199337362",
+  "2026-11-08 achadinhos 18:26 shopee-16887696614",
+  "2026-11-08 achadinhos 18:36 shopee-16168525614",
+  "2026-11-08 tech 18:43 shopee-40275577235"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -1158,7 +1163,7 @@
   "amz-B07VMBV72P": "2026-11-04T17:40:23.683101-03:00",
   "amz-B0GP2QD973": "2026-11-04T17:55:54.625082-03:00",
   "amz-B08ZFKKPDS": "2026-11-04T18:02:54.066582-03:00",
-  "shopee-22592962752": "2026-11-04T18:14:33.331440-03:00",
+  "shopee-22592962752": "2026-11-08T18:11:12.167190-03:00",
   "amz-B0D6NLHV8N": "2026-11-04T18:30:22.767187-03:00",
   "amz-B0CD14V4RQ": "2026-11-04T18:42:09.733592-03:00",
   "amz-B077L9HSQL": "2026-11-04T18:53:13.244967-03:00",
@@ -1195,7 +1200,7 @@
   "shopee-22493521596": "2026-11-05T12:45:06.979383-03:00",
   "shopee-23793236583": "2026-11-05T12:57:21.491364-03:00",
   "shopee-56159571991": "2026-11-05T12:58:26.193199-03:00",
-  "shopee-16168525614": "2026-11-05T13:12:05.627368-03:00",
+  "shopee-16168525614": "2026-11-08T18:36:49.523697-03:00",
   "amz-B0FMFRFNWG": "2026-11-05T13:20:01.538228-03:00",
   "amz-B0F253GVWR": "2026-11-05T13:26:13.963625-03:00",
   "amz-B07643MPGS": "2026-11-05T13:34:29.207115-03:00",
@@ -1218,7 +1223,7 @@
   "shopee-22599383562": "2026-11-08T13:38:11.676764-03:00",
   "shopee-15714692913": "2026-11-05T16:53:48.183189-03:00",
   "shopee-22594959465": "2026-11-05T17:00:37.959972-03:00",
-  "shopee-40275577235": "2026-11-05T17:10:21.213518-03:00",
+  "shopee-40275577235": "2026-11-08T18:43:42.905672-03:00",
   "amz-B07K986YLL": "2026-11-05T17:32:30.439994-03:00",
   "amz-B0GXLZ1Z88": "2026-11-05T17:43:06.818028-03:00",
   "amz-B0DKJYNXM4": "2026-11-05T17:57:15.959411-03:00",
@@ -1400,7 +1405,9 @@
   "shopee-58217263099": "2026-11-08T17:19:31.620012-03:00",
   "shopee-23298537624": "2026-11-08T17:29:48.929494-03:00",
   "shopee-23098514649": "2026-11-08T17:47:33.139384-03:00",
-  "shopee-58250795411": "2026-11-08T18:01:32.288471-03:00"
+  "shopee-58250795411": "2026-11-08T18:01:32.288471-03:00",
+  "shopee-18199337362": "2026-11-08T18:19:21.991344-03:00",
+  "shopee-16887696614": "2026-11-08T18:26:11.622997-03:00"
  },
  "ofertas_dia": [
   {
@@ -6955,6 +6962,101 @@
    "canal": "tech",
    "entrou": "2026-11-08T17:39:03.934682-03:00",
    "dia": "2026-11-08"
+  },
+  {
+   "id": "shopee-22592962752",
+   "plataforma": "Shopee",
+   "nome": "Creatina Monohidratada 100g - Max Titanium",
+   "loja": "Empório Natugreen",
+   "loja_oficial": true,
+   "preco": 22.9,
+   "preco_antigo": 63.61,
+   "desconto": 64,
+   "vendas": 558,
+   "nota": 4.9,
+   "comissao_pct": 3.0,
+   "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rd5l-ltzwqst90q7a46",
+   "link": "https://s.shopee.com.br/9zz8pJP83k",
+   "canal": "marcas",
+   "entrou": "2026-11-08T15:43:20.079794-03:00",
+   "reprise_dias": 3,
+   "dia": "2026-11-08"
+  },
+  {
+   "id": "shopee-18199337362",
+   "plataforma": "Shopee",
+   "nome": "Parafusadeira e Furadeira à Bateria 12V GSR 120-LI com 1 Bateria e Maleta BOSCH Bivolt",
+   "loja": "Palácio das Ferramentas 01",
+   "loja_oficial": true,
+   "preco": 404.9,
+   "preco_antigo": 562.36,
+   "desconto": 28,
+   "vendas": 130,
+   "nota": 5.0,
+   "comissao_pct": 3.0,
+   "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdxb-lxqvrx46qhjg31",
+   "link": "https://s.shopee.com.br/7VHnqTvp47",
+   "quase": true,
+   "canal": "achadinhos",
+   "entrou": "2026-11-08T15:03:56.919405-03:00",
+   "dia": "2026-11-08"
+  },
+  {
+   "id": "shopee-16887696614",
+   "plataforma": "Shopee",
+   "nome": "KIT NIVEA Protetor Solar Fps30 200ml + Protetor Fps30 100ml",
+   "loja": "NIVEA OFICIAL",
+   "loja_oficial": true,
+   "preco": 49.9,
+   "preco_antigo": 69.31,
+   "desconto": 28,
+   "vendas": 170,
+   "nota": 4.9,
+   "comissao_pct": 3.0,
+   "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-meedgoz0mlts21",
+   "link": "https://s.shopee.com.br/8VAL2NZ930",
+   "quase": true,
+   "canal": "achadinhos",
+   "entrou": "2026-11-08T15:03:56.919405-03:00",
+   "dia": "2026-11-08"
+  },
+  {
+   "id": "shopee-16168525614",
+   "plataforma": "Shopee",
+   "nome": "Prancha Chapinha Taiff Profissional Clássica Cerâmica 180°c Bivolt",
+   "loja": "MUNDO DA LELE",
+   "loja_oficial": true,
+   "preco": 128.28,
+   "preco_antigo": 200.44,
+   "desconto": 36,
+   "vendas": 289,
+   "nota": 4.9,
+   "comissao_pct": 3.0,
+   "imagem": "https://cf.shopee.com.br/file/sg-11134201-22110-zal4jyse1bkvd7",
+   "link": "https://s.shopee.com.br/906bdGpIy0",
+   "canal": "achadinhos",
+   "entrou": "2026-11-08T15:03:56.919405-03:00",
+   "reprise_dias": 2,
+   "dia": "2026-11-08"
+  },
+  {
+   "id": "shopee-40275577235",
+   "plataforma": "Shopee",
+   "nome": "Smart TV Samsung 32\" HD Tizen HDR Wi-Fi HDMI Bivolt Preta",
+   "loja": "123 Comprou!",
+   "loja_oficial": true,
+   "preco": 1119.0,
+   "preco_antigo": 1621.74,
+   "desconto": 31,
+   "vendas": 259,
+   "nota": 4.9,
+   "comissao_pct": 3.0,
+   "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mg5gx2k4a9s06d",
+   "link": "https://s.shopee.com.br/1BNkJD6aQI",
+   "canal": "tech",
+   "entrou": "2026-11-08T18:33:48.187248-03:00",
+   "reprise_dias": 2,
+   "dia": "2026-11-08"
   }
  ],
  "ig_feitos": [
@@ -7112,13 +7214,14 @@
   "2026-11-08 feed",
   "2026-11-08 16:55 post_achado",
   "story especial pede-pro-papa 2026-11-08",
-  "2026-11-08 17:36 story_oferta"
+  "2026-11-08 17:36 story_oferta",
+  "2026-11-08 18:05 a_ou_b",
+  "2026-11-08 18:09 story_oferta",
+  "2026-11-08 feed",
+  "2026-11-08 18:30 reels",
+  "2026-11-08 18:42 story_oferta"
  ],
  "ig_ofertas_usadas": [
-  "amz-B0FKV9146V",
-  "amz-B0D98WR6YM",
-  "nike-023968ID",
-  "amz-B0H46S7TG8",
   "shopee-16185215321",
   "amz-B0DY2FPRJD",
   "amz-B0F3Q2JH5Y",
@@ -7314,11 +7417,15 @@
   "amz-B0B9V6YMM5",
   "amz-B07VPFC6RN",
   "shopee-21049729949",
-  "shopee-23802004388"
+  "shopee-23802004388",
+  "shopee-58002598728",
+  "shopee-22195023298",
+  "amz-B07K1FVM4S",
+  "amz-B09NQNWT76"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
- "ig_ultimo_reel": "2026-11-08T12:05:00.233577-03:00",
+ "ig_ultimo_reel": "2026-11-08T18:33:48.187248-03:00",
  "pecas_usadas": {
   "ac-preco-inflado": "2026-10-27",
   "dc-7-dias": "2026-10-27",
@@ -7379,80 +7486,7 @@
   "2026-11-07": 12
  },
  "ultimo_pilar": "dica",
- "fila": [
-  {
-   "id": "shopee-18199337362",
-   "plataforma": "Shopee",
-   "nome": "Parafusadeira e Furadeira à Bateria 12V GSR 120-LI com 1 Bateria e Maleta BOSCH Bivolt",
-   "loja": "Palácio das Ferramentas 01",
-   "loja_oficial": true,
-   "preco": 404.9,
-   "preco_antigo": 562.36,
-   "desconto": 28,
-   "vendas": 130,
-   "nota": 5.0,
-   "comissao_pct": 3.0,
-   "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdxb-lxqvrx46qhjg31",
-   "link": "https://s.shopee.com.br/7VHnqTvp47",
-   "quase": true,
-   "canal": "achadinhos",
-   "entrou": "2026-11-08T15:03:56.919405-03:00"
-  },
-  {
-   "id": "shopee-16887696614",
-   "plataforma": "Shopee",
-   "nome": "KIT NIVEA Protetor Solar Fps30 200ml + Protetor Fps30 100ml",
-   "loja": "NIVEA OFICIAL",
-   "loja_oficial": true,
-   "preco": 49.9,
-   "preco_antigo": 69.31,
-   "desconto": 28,
-   "vendas": 159,
-   "nota": 4.9,
-   "comissao_pct": 3.0,
-   "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-meedgoz0mlts21",
-   "link": "https://s.shopee.com.br/8VAL2NZ930",
-   "quase": true,
-   "canal": "achadinhos",
-   "entrou": "2026-11-08T15:03:56.919405-03:00"
-  },
-  {
-   "id": "shopee-16168525614",
-   "plataforma": "Shopee",
-   "nome": "Prancha Chapinha Taiff Profissional Clássica Cerâmica 180°c Bivolt",
-   "loja": "MUNDO DA LELE",
-   "loja_oficial": true,
-   "preco": 128.28,
-   "preco_antigo": 200.44,
-   "desconto": 36,
-   "vendas": 313,
-   "nota": 4.9,
-   "comissao_pct": 3.0,
-   "imagem": "https://cf.shopee.com.br/file/sg-11134201-22110-zal4jyse1bkvd7",
-   "link": "https://s.shopee.com.br/906bdGpIy0",
-   "canal": "achadinhos",
-   "entrou": "2026-11-08T15:03:56.919405-03:00",
-   "reprise_dias": 2
-  },
-  {
-   "id": "shopee-22592962752",
-   "plataforma": "Shopee",
-   "nome": "Creatina Monohidratada 100g - Max Titanium",
-   "loja": "Empório Natugreen",
-   "loja_oficial": true,
-   "preco": 22.9,
-   "preco_antigo": 63.61,
-   "desconto": 64,
-   "vendas": 558,
-   "nota": 4.9,
-   "comissao_pct": 3.0,
-   "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rd5l-ltzwqst90q7a46",
-   "link": "https://s.shopee.com.br/9zz8pJP83k",
-   "canal": "marcas",
-   "entrou": "2026-11-08T15:43:20.079794-03:00",
-   "reprise_dias": 3
-  }
- ],
+ "fila": [],
  "menus_fixados": [
   "v1 @papagarimpou",
   "v1 @papagarimpoumarcas",
@@ -7755,7 +7789,7 @@
   "secadordecabelotaiffstyle2000w127v": "2026-11-04T17:40:23.683101-03:00",
   "jogodepanelastramontinaveroneseceramico5pecas": "2026-11-04T17:55:54.625082-03:00",
   "perfumeazzarothemostwantedintensemasculinoedp": "2026-11-04T18:02:54.066582-03:00",
-  "creatinamonohidratada100gmaxtitanium": "2026-11-04T18:14:33.331440-03:00",
+  "creatinamonohidratada100gmaxtitanium": "2026-11-08T18:11:12.167190-03:00",
   "headsetgamerjblquantum100m2commicrofone": "2026-11-04T18:30:22.767187-03:00",
   "airfryerphilcopfr15pg44l1500w": "2026-11-04T18:42:09.733592-03:00",
   "jogodepanelastramontinaacoinoxfundotriplo3pecas": "2026-11-04T18:53:13.244967-03:00",
@@ -7792,7 +7826,7 @@
   "tenisolympikusatmosfemininooriginal": "2026-11-05T12:45:06.979383-03:00",
   "smarttv43lgfullhd43lr67thinqaiwifibluetoothhdr": "2026-11-05T12:57:21.491364-03:00",
   "tenisfemininodecaminhadacasualelevadoolympikus": "2026-11-05T12:58:26.193199-03:00",
-  "pranchachapinhataiffprofissionalclassicaceramica180cbivolt": "2026-11-05T13:12:05.627368-03:00",
+  "pranchachapinhataiffprofissionalclassicaceramica180cbivolt": "2026-11-08T18:36:49.523697-03:00",
   "tabletsamsunggalaxytabs10lite128gb": "2026-11-05T13:20:01.538228-03:00",
   "sanduicheiraegrillbritania2em1750w127v": "2026-11-05T13:26:13.963625-03:00",
   "combotecladoemousesemfiologitechmk235": "2026-11-05T13:34:29.207115-03:00",
@@ -7815,7 +7849,7 @@
   "furadeiradeimpactogsb450restdbosch450wkitmaletacom300pcseacessorios": "2026-11-08T13:38:11.676764-03:00",
   "kit2cuecasboxerlupomicrofibrapoliamidasemcosturaconfortavelcuecamasculinaoriginal": "2026-11-05T16:53:48.183189-03:00",
   "refildesodorantecorporalnaturaessencialatraimasculino": "2026-11-05T17:00:37.959972-03:00",
-  "smarttvsamsung32hdtizenhdrwifihdmibivoltpreta": "2026-11-05T17:10:21.213518-03:00",
+  "smarttvsamsung32hdtizenhdrwifihdmibivoltpreta": "2026-11-08T18:43:42.905672-03:00",
   "webcamlogitechc920sfullhd1080pcommicrofone": "2026-11-05T17:32:30.439994-03:00",
   "kit12paresmeialuposapatilhainvisivel": "2026-11-05T17:43:06.818028-03:00",
   "kit6poteshermeticoselectroluxempilhaveis": "2026-11-05T17:57:15.959411-03:00",
@@ -7997,7 +8031,9 @@
   "tenispumacourtclassiccleanmasculinooriginalcomnotafiscalegarantia": "2026-11-08T17:19:31.620012-03:00",
   "tampaparamicroondaselectroluxpretabpafreetampaparamicroondaselectroluxpretabpafree": "2026-11-08T17:29:48.929494-03:00",
   "cafeteiraeletricaelectroluxdigital38xicarasexperienceprogramavelcomtimercorinoxecm30": "2026-11-08T17:47:33.139384-03:00",
-  "controleparaxboxsemfiocarbonblack": "2026-11-08T18:01:32.288471-03:00"
+  "controleparaxboxsemfiocarbonblack": "2026-11-08T18:01:32.288471-03:00",
+  "parafusadeiraefuradeiraabateria12vgsr120licom1bateriaemaletaboschbivolt": "2026-11-08T18:19:21.991344-03:00",
+  "kitniveaprotetorsolarfps30200mlprotetorfps30100ml": "2026-11-08T18:26:11.622997-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
@@ -8157,11 +8193,16 @@
    "shopee-58254966835"
   ],
   "2026-11-08": [
-   "shopee-23094056729",
-   "shopee-23802004388",
    "shopee-23298467238",
+   "shopee-23094056729",
+   "shopee-21049729949",
    "amz-B0G5ZWQR36",
-   "shopee-18597753531"
+   "shopee-23802004388",
+   "shopee-49064981274",
+   "shopee-18597753531",
+   "shopee-41253171051",
+   "shopee-22599383562",
+   "shopee-16185215321"
   ]
  },
  "vendas_shopee": {},
@@ -8262,14 +8303,14 @@
   "2026-11-07 noite tech",
   "2026-11-08 tarde achadinhos"
  ],
- "reserva_meio": "2026-11-08T17:39:03.934682-03:00",
+ "reserva_meio": "2026-11-08T18:33:48.187248-03:00",
  "reserva_cheia": {
   "achadinhos": "2026-11-08T15:03:56.919405-03:00",
   "tech": "2026-11-08T17:39:03.934682-03:00",
   "marcas": "2026-11-08T15:43:20.079794-03:00"
  },
  "top10_dia": "2026-11-07",
- "manuais_lidos": "2026-11-08T17:54:57.298777-03:00",
+ "manuais_lidos": "2026-11-08T18:33:48.187248-03:00",
  "reserva_resultado": {
   "2026-11-07": {
    "achadinhos": {
@@ -8287,7 +8328,7 @@
    "tech": {
     "busca": 2,
     "quase": 8,
-    "reprise": 1
+    "reprise": 2
    },
    "achadinhos": {
     "busca": 0,
@@ -8305,9 +8346,13 @@
   "18031310432866524": {
    "capa": "ate_off",
    "hora": "2026-11-08T12:05:00.233577-03:00"
+  },
+  "18498252658111064": {
+   "capa": "ate_off",
+   "hora": "2026-11-08T18:33:48.187248-03:00"
   }
  },
- "ig_respondido_em": "2026-11-08T17:54:57.298777-03:00",
+ "ig_respondido_em": "2026-11-08T18:43:26.756107-03:00",
  "dm_auto": {
   "2026-11-08": {
    "com_palavra": 0,

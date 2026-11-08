@@ -30,6 +30,30 @@
      "canal": "marcas"
     }
    ]
+  },
+  {
+   "tipo": "a_ou_b",
+   "hora": "18:17",
+   "produtos": [
+    {
+     "nome": "Carregador Portátil Baseus PicoGo AM41 5000mAh / 10000mAh 20W Magnético MagSafe USB-C 60W PowerBank",
+     "preco_antigo": 352.75,
+     "preco": 179.9,
+     "desconto": 49,
+     "link": "https://s.shopee.com.br/9AQ0ZUvaPK",
+     "loja": "Baseus Oficial",
+     "canal": "tech"
+    },
+    {
+     "nome": "TP-Link EX3000 Roteador Wi-Fi 6 AX3000 Dual Band, 4 portas Gigabit",
+     "preco_antigo": 381.97,
+     "preco": 221.54,
+     "desconto": 42,
+     "link": "https://s.shopee.com.br/W83VyQmdq",
+     "loja": "TP-Link Brasil",
+     "canal": "tech"
+    }
+   ]
   }
  ]
 }
