@@ -663,7 +663,12 @@
   "2026-11-08 tech 10:59 amz-B0DJ1QD7SL",
   "2026-11-08 marcas 11:05 amz-B0D5C1F58W",
   "2026-11-08 tech 11:13 amz-B0D8DBW4NW",
-  "2026-11-08 marcas 11:21 amz-B01JG5V0E4"
+  "2026-11-08 marcas 11:21 amz-B01JG5V0E4",
+  "2026-11-08 marcas 11:30 amz-B0GKR1ZX8Y",
+  "2026-11-08 marcas 11:40 amz-B0CQ3V2KK9",
+  "2026-11-08 tech 11:48 amz-B0DKWQ5WSZ",
+  "2026-11-08 marcas 11:58 amz-B0F1GHWGD9",
+  "2026-11-08 tech 12:05 amz-B0DJG1VFQN"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -1318,7 +1323,12 @@
   "amz-B0DJ1QD7SL": "2026-11-08T10:59:23.961343-03:00",
   "amz-B0D5C1F58W": "2026-11-08T11:05:50.075043-03:00",
   "amz-B0D8DBW4NW": "2026-11-08T11:13:27.665287-03:00",
-  "amz-B01JG5V0E4": "2026-11-08T11:21:14.331052-03:00"
+  "amz-B01JG5V0E4": "2026-11-08T11:21:14.331052-03:00",
+  "amz-B0GKR1ZX8Y": "2026-11-08T11:30:10.836799-03:00",
+  "amz-B0CQ3V2KK9": "2026-11-08T11:40:58.630870-03:00",
+  "amz-B0DKWQ5WSZ": "2026-11-08T11:48:43.696256-03:00",
+  "amz-B0F1GHWGD9": "2026-11-08T11:58:10.403529-03:00",
+  "amz-B0DJG1VFQN": "2026-11-08T12:05:44.248007-03:00"
  },
  "ofertas_dia": [
   {
@@ -6066,6 +6076,84 @@
    "gancho": "DOMINGO DO PERFUME: VERSACE NA FAIXA",
    "entrou": "2026-11-08T09:01:27.697587-03:00",
    "dia": "2026-11-08"
+  },
+  {
+   "id": "amz-B0GKR1ZX8Y",
+   "canal": "marcas",
+   "nome": "Perfume Lacoste Original Femme EDP 40ml",
+   "preco_antigo": 319.1,
+   "preco": 199.0,
+   "desconto": 38,
+   "link": "https://www.amazon.com.br/dp/B0GKR1ZX8Y?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51ImdReTMkL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-08T13:00:00-03:00",
+   "nao_antes": "2026-11-08T10:00:00-03:00",
+   "entrou": "2026-11-08T09:01:27.697587-03:00",
+   "dia": "2026-11-08"
+  },
+  {
+   "id": "amz-B0CQ3V2KK9",
+   "canal": "marcas",
+   "nome": "Perfume Ralph Lauren Polo 67 EDT Masculino",
+   "preco_antigo": 809.0,
+   "preco": 429.75,
+   "desconto": 47,
+   "link": "https://www.amazon.com.br/dp/B0CQ3V2KK9?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51CQcWgPmlL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-08T13:00:00-03:00",
+   "nao_antes": "2026-11-08T10:00:00-03:00",
+   "entrou": "2026-11-08T09:01:27.697587-03:00",
+   "dia": "2026-11-08"
+  },
+  {
+   "id": "amz-B0DKWQ5WSZ",
+   "canal": "tech",
+   "nome": "Resident Evil 3 - PlayStation 5 (Capcom)",
+   "preco_antigo": 179.97,
+   "preco": 116.43,
+   "desconto": 35,
+   "link": "https://www.amazon.com.br/dp/B0DKWQ5WSZ?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/81tGy+M9pBL._AC_SL1500_.jpg",
+   "loja": "Vendido por Amazon Global",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-09T22:00:00-03:00",
+   "entrou": "2026-11-08T08:17:58.003249-03:00",
+   "dia": "2026-11-08"
+  },
+  {
+   "id": "amz-B0F1GHWGD9",
+   "canal": "marcas",
+   "nome": "Perfume Montblanc Explorer Extreme Parfum 60ml",
+   "preco_antigo": 824.28,
+   "preco": 437.67,
+   "desconto": 47,
+   "link": "https://www.amazon.com.br/dp/B0F1GHWGD9?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71QE9qHaMWL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-08T13:00:00-03:00",
+   "nao_antes": "2026-11-08T10:00:00-03:00",
+   "entrou": "2026-11-08T09:01:27.697587-03:00",
+   "dia": "2026-11-08"
+  },
+  {
+   "id": "amz-B0DJG1VFQN",
+   "canal": "tech",
+   "nome": "Mouse Gamer sem fio Logitech G PRO 2 Lightspeed",
+   "preco_antigo": 799.9,
+   "preco": 539.91,
+   "desconto": 33,
+   "link": "https://www.amazon.com.br/dp/B0DJG1VFQN?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51WjjFOXzNL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-09T22:00:00-03:00",
+   "entrou": "2026-11-08T08:17:58.003249-03:00",
+   "dia": "2026-11-08"
   }
  ],
  "ig_feitos": [
@@ -6204,11 +6292,14 @@
   "2026-11-08 09:38 story_oferta",
   "2026-11-08 10:20 story_oferta",
   "2026-11-08 10:24 story_oferta",
-  "2026-11-08 11:11 story_oferta"
+  "2026-11-08 11:11 story_oferta",
+  "2026-11-08 feed",
+  "2026-11-08 11:50 carrossel_top5",
+  "2026-11-08 11:56 story_oferta",
+  "2026-11-08 feed",
+  "2026-11-08 12:00 reels"
  ],
  "ig_ofertas_usadas": [
-  "amz-B0CLSTLZ4W",
-  "amz-B0CVXT26K5",
   "shopee-22997647570",
   "shopee-18996964739",
   "shopee-22593622212",
@@ -6407,11 +6498,12 @@
   "amz-B07JZFBJ9P",
   "amz-B07JQKQ91F",
   "amz-B0D693LTY5",
-  "amz-B0G4SQ89P1"
+  "amz-B0G4SQ89P1",
+  "amz-B08R8246HC"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
- "ig_ultimo_reel": "2026-11-07T21:33:16.690780-03:00",
+ "ig_ultimo_reel": "2026-11-08T12:05:00.233577-03:00",
  "pecas_usadas": {
   "ac-preco-inflado": "2026-10-27",
   "dc-7-dias": "2026-10-27",
@@ -6549,34 +6641,6 @@
    "entrou": "2026-11-08T08:17:58.003249-03:00"
   },
   {
-   "id": "amz-B0DKWQ5WSZ",
-   "canal": "tech",
-   "nome": "Resident Evil 3 - PlayStation 5 (Capcom)",
-   "preco_antigo": 179.97,
-   "preco": 116.43,
-   "desconto": 35,
-   "link": "https://www.amazon.com.br/dp/B0DKWQ5WSZ?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/81tGy+M9pBL._AC_SL1500_.jpg",
-   "loja": "Vendido por Amazon Global",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-09T22:00:00-03:00",
-   "entrou": "2026-11-08T08:17:58.003249-03:00"
-  },
-  {
-   "id": "amz-B0DJG1VFQN",
-   "canal": "tech",
-   "nome": "Mouse Gamer sem fio Logitech G PRO 2 Lightspeed",
-   "preco_antigo": 799.9,
-   "preco": 539.91,
-   "desconto": 33,
-   "link": "https://www.amazon.com.br/dp/B0DJG1VFQN?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51WjjFOXzNL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-09T22:00:00-03:00",
-   "entrou": "2026-11-08T08:17:58.003249-03:00"
-  },
-  {
    "id": "amz-B0GVW8464B",
    "canal": "tech",
    "nome": "Combo Samsung Smart TV 43\" QLED Q5F + Soundbar HW-B400F",
@@ -6655,51 +6719,6 @@
    "link": "https://s.shopee.com.br/4qH2fipU2y",
    "canal": "marcas",
    "entrou": "2026-11-08T08:17:58.003249-03:00"
-  },
-  {
-   "id": "amz-B0GKR1ZX8Y",
-   "canal": "marcas",
-   "nome": "Perfume Lacoste Original Femme EDP 40ml",
-   "preco_antigo": 319.1,
-   "preco": 199.0,
-   "desconto": 38,
-   "link": "https://www.amazon.com.br/dp/B0GKR1ZX8Y?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51ImdReTMkL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-08T13:00:00-03:00",
-   "nao_antes": "2026-11-08T10:00:00-03:00",
-   "entrou": "2026-11-08T09:01:27.697587-03:00"
-  },
-  {
-   "id": "amz-B0CQ3V2KK9",
-   "canal": "marcas",
-   "nome": "Perfume Ralph Lauren Polo 67 EDT Masculino",
-   "preco_antigo": 809.0,
-   "preco": 429.75,
-   "desconto": 47,
-   "link": "https://www.amazon.com.br/dp/B0CQ3V2KK9?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51CQcWgPmlL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-08T13:00:00-03:00",
-   "nao_antes": "2026-11-08T10:00:00-03:00",
-   "entrou": "2026-11-08T09:01:27.697587-03:00"
-  },
-  {
-   "id": "amz-B0F1GHWGD9",
-   "canal": "marcas",
-   "nome": "Perfume Montblanc Explorer Extreme Parfum 60ml",
-   "preco_antigo": 824.28,
-   "preco": 437.67,
-   "desconto": 47,
-   "link": "https://www.amazon.com.br/dp/B0F1GHWGD9?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/71QE9qHaMWL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-08T13:00:00-03:00",
-   "nao_antes": "2026-11-08T10:00:00-03:00",
-   "entrou": "2026-11-08T09:01:27.697587-03:00"
   },
   {
    "id": "amz-B00I7PK3GQ",
@@ -7224,7 +7243,12 @@
   "mousetrackballsemfiologitechergom575scliquesilencioso": "2026-11-08T10:59:23.961343-03:00",
   "perfumearmaniacquadigioparfummasculino": "2026-11-08T11:05:50.075043-03:00",
   "monitorgamerlg27ips100hzfullhd27ms500": "2026-11-08T11:13:27.665287-03:00",
-  "perfumeversacedylanbluepourhommeedtmasculino": "2026-11-08T11:21:14.331052-03:00"
+  "perfumeversacedylanbluepourhommeedtmasculino": "2026-11-08T11:21:14.331052-03:00",
+  "perfumelacosteoriginalfemmeedp40ml": "2026-11-08T11:30:10.836799-03:00",
+  "perfumeralphlaurenpolo67edtmasculino": "2026-11-08T11:40:58.630870-03:00",
+  "residentevil3playstation5capcom": "2026-11-08T11:48:43.696256-03:00",
+  "perfumemontblancexplorerextremeparfum60ml": "2026-11-08T11:58:10.403529-03:00",
+  "mousegamersemfiologitechgpro2lightspeed": "2026-11-08T12:05:44.248007-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
@@ -7382,6 +7406,13 @@
    "shopee-27231768018",
    "shopee-19399263103",
    "shopee-58254966835"
+  ],
+  "2026-11-08": [
+   "shopee-23094056729",
+   "shopee-23802004388",
+   "shopee-23298467238",
+   "amz-B0G5ZWQR36",
+   "shopee-18597753531"
   ]
  },
  "vendas_shopee": {},
@@ -7453,7 +7484,7 @@
  "pede_semana": "2026-45",
  "ultimo_garimpo": "2026-11-08T07:44:48-03:00",
  "vigia_aviso_post": "2026-11-07T17:23:25.696493-03:00",
- "vigia_aviso_garimpo": "2026-11-07T17:46:54.896811-03:00",
+ "vigia_aviso_garimpo": "2026-11-08T11:21:54.822318-03:00",
  "resumo_enviado": "2026-11-07",
  "token_conferido": "2026-11-08",
  "meta_token": {
@@ -7480,14 +7511,14 @@
   "2026-11-07 noite marcas",
   "2026-11-07 noite tech"
  ],
- "reserva_meio": "2026-11-08T11:20:01.105216-03:00",
+ "reserva_meio": "2026-11-08T11:56:09.597759-03:00",
  "reserva_cheia": {
-  "achadinhos": "2026-11-07T19:22:38.765799-03:00",
+  "achadinhos": "2026-11-08T11:21:54.822318-03:00",
   "tech": "2026-11-07T20:03:50.806494-03:00",
   "marcas": "2026-11-07T20:03:50.806494-03:00"
  },
  "top10_dia": "2026-11-07",
- "manuais_lidos": "2026-11-08T11:20:01.105216-03:00",
+ "manuais_lidos": "2026-11-08T11:56:09.597759-03:00",
  "reserva_resultado": {
   "2026-11-07": {
    "achadinhos": {
@@ -7514,8 +7545,13 @@
    }
   }
  },
- "ig_reels_log": {},
- "ig_respondido_em": "2026-11-08T11:13:08.219449-03:00",
+ "ig_reels_log": {
+  "18031310432866524": {
+   "capa": "ate_off",
+   "hora": "2026-11-08T12:05:00.233577-03:00"
+  }
+ },
+ "ig_respondido_em": "2026-11-08T12:05:00.233577-03:00",
  "dm_auto": {
   "2026-11-08": {
    "com_palavra": 0,
