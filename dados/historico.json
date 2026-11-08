@@ -634,7 +634,10 @@
   "2026-11-07 achadinhos 20:53 amz-B076KRB8LP",
   "2026-11-07 marcas 21:01 amz-B0DD4S8ZD1",
   "2026-11-07 tech 21:29 amz-B0DXR7GNWJ",
-  "2026-11-07 achadinhos 21:32 amz-B005SWH9BS"
+  "2026-11-07 achadinhos 21:32 amz-B005SWH9BS",
+  "2026-11-07 achadinhos 21:42 amz-B0CCX8VRYN",
+  "2026-11-07 achadinhos 21:50 amz-B0GHZ827S2",
+  "2026-11-07 marcas 21:57 amz-B0FH3W32GS"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -1263,7 +1266,10 @@
   "amz-B076KRB8LP": "2026-11-07T20:53:04.320175-03:00",
   "amz-B0DD4S8ZD1": "2026-11-07T21:01:17.904450-03:00",
   "amz-B0DXR7GNWJ": "2026-11-07T21:29:16.766842-03:00",
-  "amz-B005SWH9BS": "2026-11-07T21:32:50.721066-03:00"
+  "amz-B005SWH9BS": "2026-11-07T21:32:50.721066-03:00",
+  "amz-B0CCX8VRYN": "2026-11-07T21:42:41.626653-03:00",
+  "amz-B0GHZ827S2": "2026-11-07T21:50:04.727478-03:00",
+  "amz-B0FH3W32GS": "2026-11-07T21:57:10.074230-03:00"
  },
  "ofertas_dia": [
   {
@@ -5554,6 +5560,53 @@
    "valida_ate": "2026-11-08T22:00:00-03:00",
    "entrou": "2026-11-07T20:48:38.675963-03:00",
    "dia": "2026-11-07"
+  },
+  {
+   "id": "amz-B0CCX8VRYN",
+   "canal": "achadinhos",
+   "nome": "Refil Oral-B iO para Escova Elétrica (2 unidades)",
+   "preco_antigo": 109.7,
+   "preco": 64.59,
+   "desconto": 41,
+   "link": "https://www.amazon.com.br/dp/B0CCX8VRYN?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51rV6mHGpjL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-08T22:00:00-03:00",
+   "entrou": "2026-11-07T20:48:38.675963-03:00",
+   "dia": "2026-11-07"
+  },
+  {
+   "id": "amz-B0GHZ827S2",
+   "canal": "achadinhos",
+   "nome": "Air Fryer Oven Philco 11L 8 Funções PAF11B 1800W",
+   "preco_antigo": 699.0,
+   "preco": 332.4,
+   "desconto": 52,
+   "link": "https://www.amazon.com.br/dp/B0GHZ827S2?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51d-zEpU9vL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-08T22:00:00-03:00",
+   "extra": "Versão 127V",
+   "entrou": "2026-11-07T20:48:38.675963-03:00",
+   "dia": "2026-11-07"
+  },
+  {
+   "id": "amz-B0FH3W32GS",
+   "canal": "marcas",
+   "nome": "Tênis Masculino Fila Racer Fastpace",
+   "preco_antigo": 499.99,
+   "preco": 209.9,
+   "desconto": 58,
+   "link": "https://www.amazon.com.br/dp/B0FH3W32GS?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/518oCv3h4wL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-08T22:00:00-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "entrou": "2026-11-07T20:48:38.675963-03:00",
+   "dia": "2026-11-07"
   }
  ],
  "ig_feitos": [
@@ -5715,11 +5768,15 @@
   "2026-11-07 20:03 story_oferta",
   "story especial top10-rolando 2026-11-07",
   "2026-11-07 20:35 story_top4",
-  "2026-11-07 20:38 story_oferta"
+  "2026-11-07 20:38 story_oferta",
+  "2026-11-07 21:20 story_convite",
+  "2026-11-07 feed",
+  "2026-11-07 20:50 post_achado",
+  "2026-11-07 feed",
+  "2026-11-07 21:05 reels",
+  "2026-11-07 21:24 story_oferta"
  ],
  "ig_ofertas_usadas": [
-  "amz-B0CCSLRZ19",
-  "amz-B09BYL7M6N",
   "amz-B0DTKSNQF3",
   "shopee-22397314985",
   "amz-B0D8QJRBV3",
@@ -5917,11 +5974,13 @@
   "shopee-58254966835",
   "shopee-19399263103",
   "shopee-23792931413",
-  "shopee-20198314386"
+  "shopee-20198314386",
+  "amz-B0DXR7GNWJ",
+  "amz-B076KRB8LP"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
- "ig_ultimo_reel": "2026-11-07T17:46:54.896811-03:00",
+ "ig_ultimo_reel": "2026-11-07T21:33:16.690780-03:00",
  "pecas_usadas": {
   "ac-preco-inflado": "2026-10-27",
   "dc-7-dias": "2026-10-27",
@@ -5984,35 +6043,6 @@
  "ultimo_pilar": "dica",
  "fila": [
   {
-   "id": "amz-B0CCX8VRYN",
-   "canal": "achadinhos",
-   "nome": "Refil Oral-B iO para Escova Elétrica (2 unidades)",
-   "preco_antigo": 109.7,
-   "preco": 64.59,
-   "desconto": 41,
-   "link": "https://www.amazon.com.br/dp/B0CCX8VRYN?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51rV6mHGpjL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-08T22:00:00-03:00",
-   "entrou": "2026-11-07T20:48:38.675963-03:00"
-  },
-  {
-   "id": "amz-B0GHZ827S2",
-   "canal": "achadinhos",
-   "nome": "Air Fryer Oven Philco 11L 8 Funções PAF11B 1800W",
-   "preco_antigo": 699.0,
-   "preco": 332.4,
-   "desconto": 52,
-   "link": "https://www.amazon.com.br/dp/B0GHZ827S2?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51d-zEpU9vL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-08T22:00:00-03:00",
-   "extra": "Versão 127V",
-   "entrou": "2026-11-07T20:48:38.675963-03:00"
-  },
-  {
    "id": "amz-B0CPT5XTTC",
    "canal": "achadinhos",
    "nome": "Perfume Lacoste L.12.12 Rose Sparkling EDT 50ml",
@@ -6067,21 +6097,6 @@
    "loja": "Vendido e entregue pela Amazon",
    "plataforma": "Amazon",
    "valida_ate": "2026-11-08T22:00:00-03:00",
-   "entrou": "2026-11-07T20:48:38.675963-03:00"
-  },
-  {
-   "id": "amz-B0FH3W32GS",
-   "canal": "marcas",
-   "nome": "Tênis Masculino Fila Racer Fastpace",
-   "preco_antigo": 499.99,
-   "preco": 209.9,
-   "desconto": 58,
-   "link": "https://www.amazon.com.br/dp/B0FH3W32GS?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/518oCv3h4wL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-08T22:00:00-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
    "entrou": "2026-11-07T20:48:38.675963-03:00"
   },
   {
@@ -6754,7 +6769,10 @@
   "marteleteperfuradorboschgbh224d820wcommaleta": "2026-11-07T20:53:04.320175-03:00",
   "kit6paresdemeiasesportivaslupoalgodao": "2026-11-07T21:01:17.904450-03:00",
   "appleiphone16e128gbpreto": "2026-11-07T21:29:16.766842-03:00",
-  "perfumeversaceyellowdiamondedtfeminino": "2026-11-07T21:32:50.721066-03:00"
+  "perfumeversaceyellowdiamondedtfeminino": "2026-11-07T21:32:50.721066-03:00",
+  "refiloralbioparaescovaeletrica2unidades": "2026-11-07T21:42:41.626653-03:00",
+  "airfryerovenphilco11l8funcoespaf11b1800w": "2026-11-07T21:50:04.727478-03:00",
+  "tenismasculinofilaracerfastpace": "2026-11-07T21:57:10.074230-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
@@ -6892,21 +6910,26 @@
    "amz-B0BYK5T45C"
   ],
   "2026-11-07": [
-   "shopee-27231768018",
-   "shopee-21997684262",
+   "shopee-58260024078",
+   "shopee-18797677549",
    "shopee-22693266079",
    "shopee-20999203046",
    "shopee-21916807534",
-   "shopee-20299205359",
-   "shopee-23792931413",
-   "shopee-18996964739",
-   "shopee-19399263103",
    "shopee-23398337380",
+   "amz-B0DD4S8ZD1",
+   "shopee-58261216325",
+   "shopee-20299205359",
+   "shopee-18216465769",
    "shopee-41478796304",
-   "shopee-18797677549",
-   "shopee-58260024078",
+   "shopee-21997684262",
+   "shopee-18996964739",
    "shopee-20198314386",
-   "shopee-18216465769"
+   "amz-B0DXR7GNWJ",
+   "shopee-23792931413",
+   "amz-B005SWH9BS",
+   "shopee-27231768018",
+   "shopee-19399263103",
+   "shopee-58254966835"
   ]
  },
  "vendas_shopee": {},
@@ -7003,5 +7026,6 @@
   "tech": "2026-11-07T20:03:50.806494-03:00",
   "marcas": "2026-11-07T20:03:50.806494-03:00"
  },
- "top10_dia": "2026-11-07"
+ "top10_dia": "2026-11-07",
+ "manuais_lidos": "2026-11-07T21:50:04.383764-03:00"
 }
