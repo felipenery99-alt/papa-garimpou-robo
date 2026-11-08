@@ -70,7 +70,8 @@ def gravar_relatorio(h: dict, agora: datetime) -> None:
     dia["shopee_ligada"] = bool(os.environ.get("SHOPEE_APP_ID"))
     if h.get("dm_auto", {}).get(hoje):   # 08/11 (Central): convite no direct por comentário
         dia["dm_auto"] = h["dm_auto"][hoje]
-    dia["facebook"] = {"posts": h.get("fb_posts", {}).get(hoje, 0), "ultimo": h.get("fb_ultimo"), "erro": h.get("fb_erro")}
+    dia["facebook"] = {"posts": h.get("fb_posts", {}).get(hoje, 0), "ultimo": h.get("fb_ultimo"), "erro": h.get("fb_erro"),
+                      "parado_sem_permissao": (h.get("fb_sem_permissao") or {}).get("desde")}
     if h.get("reserva_resultado", {}).get(hoje):
         dia["reserva_resultado"] = h["reserva_resultado"][hoje]
     h["reserva_resultado"] = {k: v for k, v in h.get("reserva_resultado", {}).items() if k >= (agora.date() - timedelta(days=3)).isoformat()}
@@ -1052,9 +1053,19 @@ def publicar_facebook(h: dict, agora: datetime) -> None:
     import os
     if not config.FB_PAGINA_ATIVA or not os.environ.get("META_TOKEN"):
         return
+    import hashlib
     import artes
     import instagram
     hoje = agora.date().isoformat()
+    # 08/11 (1º post recusado: "(#200) pages_manage_posts not available"): sem a permissão no token não adianta
+    # tentar a cada horário (cada tentativa sobe uma imagem no GitHub). Para até o META_TOKEN mudar; o dono é
+    # avisado uma vez só, com o passo a passo.
+    marca = hashlib.sha256(os.environ["META_TOKEN"].encode()).hexdigest()[:12]
+    bloq = h.get("fb_sem_permissao") or {}
+    if bloq.get("token") == marca:
+        return
+    if bloq:
+        h.pop("fb_sem_permissao", None)   # token novo: volta a tentar
     feitos = h.setdefault("fb_feitos", [])
     usadas = h.setdefault("fb_usadas", [])
     tarefas = [(x, "oferta") for x in config.FB_OFERTAS_HORAS] + [(config.FB_CONVITE_HORA, "convite")]
@@ -1091,6 +1102,14 @@ def publicar_facebook(h: dict, agora: datetime) -> None:
             tent[chave] = tent.get(chave, 0) + 1
             h["fb_erro"] = {"hora": f"{agora:%d/%m %H:%M}", "erro": str(e)[:300]}
             print(f"[fb] {chave} falhou ({tent[chave]}ª): {e}")
+            if "pages_manage_posts" in str(e) or "(#200)" in str(e):
+                h["fb_sem_permissao"] = {"token": marca, "desde": f"{agora:%d/%m %H:%M}"}
+                import telegram
+                telegram.avisar_dono("Página do Facebook parada: o META_TOKEN não tem a permissão pages_manage_posts. "
+                                     "No app da Meta (developers.facebook.com) incluir pages_manage_posts, gerar um "
+                                     "token de Página novo com ela e trocar o Secret META_TOKEN no GitHub. "
+                                     "O robô volta a postar sozinho quando o token mudar.")
+                break
             if tent[chave] >= 3:
                 feitos.append(chave)
                 import telegram
