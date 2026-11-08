@@ -657,7 +657,13 @@
   "2026-11-08 marcas 10:09 amz-B07K1FVM4S",
   "2026-11-08 tech 10:17 amz-B09NQNWT76",
   "2026-11-08 achadinhos 10:25 shopee-23094056729",
-  "2026-11-08 marcas 10:33 amz-B0DP6HXJNH"
+  "2026-11-08 marcas 10:33 amz-B0DP6HXJNH",
+  "2026-11-08 achadinhos 10:44 shopee-23298467238",
+  "2026-11-08 achadinhos 10:51 shopee-18597753531",
+  "2026-11-08 tech 10:59 amz-B0DJ1QD7SL",
+  "2026-11-08 marcas 11:05 amz-B0D5C1F58W",
+  "2026-11-08 tech 11:13 amz-B0D8DBW4NW",
+  "2026-11-08 marcas 11:21 amz-B01JG5V0E4"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -929,7 +935,7 @@
   "amz-B09XJL4B9H": "2026-11-01T09:54:42.474828-03:00",
   "amz-B0CC6MGM1B": "2026-11-01T09:58:48.637360-03:00",
   "amz-B0DF2WSGF6": "2026-11-01T10:02:52.200028-03:00",
-  "shopee-18597753531": "2026-11-01T10:10:44.843406-03:00",
+  "shopee-18597753531": "2026-11-08T10:51:27.803636-03:00",
   "amz-B0CP2RKYMY": "2026-11-01T10:18:02.537735-03:00",
   "amz-B0DD1M9WJT": "2026-11-01T11:31:00-03:00",
   "amz-B08LPJ1FTK": "2026-11-01T11:34:00-03:00",
@@ -1307,7 +1313,12 @@
   "amz-B07VPFC6RN": "2026-11-08T09:58:18.838294-03:00",
   "amz-B07K1FVM4S": "2026-11-08T10:09:30.192281-03:00",
   "amz-B09NQNWT76": "2026-11-08T10:17:27.287354-03:00",
-  "amz-B0DP6HXJNH": "2026-11-08T10:33:24.433851-03:00"
+  "amz-B0DP6HXJNH": "2026-11-08T10:33:24.433851-03:00",
+  "shopee-23298467238": "2026-11-08T10:44:17.441370-03:00",
+  "amz-B0DJ1QD7SL": "2026-11-08T10:59:23.961343-03:00",
+  "amz-B0D5C1F58W": "2026-11-08T11:05:50.075043-03:00",
+  "amz-B0D8DBW4NW": "2026-11-08T11:13:27.665287-03:00",
+  "amz-B01JG5V0E4": "2026-11-08T11:21:14.331052-03:00"
  },
  "ofertas_dia": [
   {
@@ -5956,6 +5967,105 @@
    "nao_antes": "2026-11-08T10:00:00-03:00",
    "entrou": "2026-11-08T09:01:27.697587-03:00",
    "dia": "2026-11-08"
+  },
+  {
+   "id": "shopee-23298467238",
+   "plataforma": "Shopee",
+   "nome": "Faqueiro Inox Tramontina Ipanema 30 Peças Jogo De Talheres Cor Preto",
+   "loja": "MONTLAR",
+   "loja_oficial": true,
+   "preco": 86.49,
+   "preco_antigo": 129.09,
+   "desconto": 33,
+   "vendas": 335,
+   "nota": 5.0,
+   "comissao_pct": 3.0,
+   "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mbs24ze44pqx41",
+   "link": "https://s.shopee.com.br/6figqxlnyt",
+   "canal": "achadinhos",
+   "entrou": "2026-11-08T08:17:58.003249-03:00",
+   "dia": "2026-11-08"
+  },
+  {
+   "id": "shopee-18597753531",
+   "plataforma": "Shopee",
+   "nome": "Aspirador de Pó e Água Wap GTW 10 1400W 10 Litros Amarelo/Preto 127V FW005705",
+   "loja": "Webcontinental ES",
+   "loja_oficial": true,
+   "preco": 262.0,
+   "preco_antigo": 403.08,
+   "desconto": 35,
+   "vendas": 663,
+   "nota": 4.9,
+   "comissao_pct": 7.0,
+   "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdwc-m0z2bbz1q0sn91",
+   "link": "https://s.shopee.com.br/8VALVyJzZD",
+   "canal": "achadinhos",
+   "entrou": "2026-11-08T10:34:39.807532-03:00",
+   "dia": "2026-11-08"
+  },
+  {
+   "id": "amz-B0DJ1QD7SL",
+   "canal": "tech",
+   "nome": "Mouse Trackball sem fio Logitech ERGO M575S Clique Silencioso",
+   "preco_antigo": 329.9,
+   "preco": 188.91,
+   "desconto": 43,
+   "link": "https://www.amazon.com.br/dp/B0DJ1QD7SL?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51ncb3XF4ML._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-08T22:00:00-03:00",
+   "entrou": "2026-11-08T08:17:58.003249-03:00",
+   "dia": "2026-11-08"
+  },
+  {
+   "id": "amz-B0D5C1F58W",
+   "canal": "marcas",
+   "nome": "Perfume Armani Acqua di Giò Parfum Masculino",
+   "preco_antigo": 999.0,
+   "preco": 597.39,
+   "desconto": 40,
+   "link": "https://www.amazon.com.br/dp/B0D5C1F58W?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61isdoYoLfL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-08T13:00:00-03:00",
+   "nao_antes": "2026-11-08T10:00:00-03:00",
+   "entrou": "2026-11-08T09:01:27.697587-03:00",
+   "dia": "2026-11-08"
+  },
+  {
+   "id": "amz-B0D8DBW4NW",
+   "canal": "tech",
+   "nome": "Monitor Gamer LG 27\" IPS 100Hz Full HD 27MS500",
+   "preco_antigo": 999.0,
+   "preco": 673.55,
+   "desconto": 33,
+   "link": "https://www.amazon.com.br/dp/B0D8DBW4NW?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61AbFrfPiHL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-09T22:00:00-03:00",
+   "entrou": "2026-11-08T08:17:58.003249-03:00",
+   "dia": "2026-11-08"
+  },
+  {
+   "id": "amz-B01JG5V0E4",
+   "canal": "marcas",
+   "nome": "Perfume Versace Dylan Blue Pour Homme EDT Masculino",
+   "preco_antigo": 743.13,
+   "preco": 512.92,
+   "desconto": 31,
+   "link": "https://www.amazon.com.br/dp/B01JG5V0E4?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61XyyWtqQwL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-08T13:00:00-03:00",
+   "nao_antes": "2026-11-08T10:00:00-03:00",
+   "gancho": "DOMINGO DO PERFUME: VERSACE NA FAIXA",
+   "entrou": "2026-11-08T09:01:27.697587-03:00",
+   "dia": "2026-11-08"
   }
  ],
  "ig_feitos": [
@@ -6093,7 +6203,8 @@
   "2026-11-08 09:35 post_achado",
   "2026-11-08 09:38 story_oferta",
   "2026-11-08 10:20 story_oferta",
-  "2026-11-08 10:24 story_oferta"
+  "2026-11-08 10:24 story_oferta",
+  "2026-11-08 11:11 story_oferta"
  ],
  "ig_ofertas_usadas": [
   "amz-B0CLSTLZ4W",
@@ -6295,7 +6406,8 @@
   "amz-B0G5ZWQR36",
   "amz-B07JZFBJ9P",
   "amz-B07JQKQ91F",
-  "amz-B0D693LTY5"
+  "amz-B0D693LTY5",
+  "amz-B0G4SQ89P1"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
@@ -6437,34 +6549,6 @@
    "entrou": "2026-11-08T08:17:58.003249-03:00"
   },
   {
-   "id": "amz-B0DJ1QD7SL",
-   "canal": "tech",
-   "nome": "Mouse Trackball sem fio Logitech ERGO M575S Clique Silencioso",
-   "preco_antigo": 329.9,
-   "preco": 188.91,
-   "desconto": 43,
-   "link": "https://www.amazon.com.br/dp/B0DJ1QD7SL?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51ncb3XF4ML._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-08T22:00:00-03:00",
-   "entrou": "2026-11-08T08:17:58.003249-03:00"
-  },
-  {
-   "id": "amz-B0D8DBW4NW",
-   "canal": "tech",
-   "nome": "Monitor Gamer LG 27\" IPS 100Hz Full HD 27MS500",
-   "preco_antigo": 999.0,
-   "preco": 673.55,
-   "desconto": 33,
-   "link": "https://www.amazon.com.br/dp/B0D8DBW4NW?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61AbFrfPiHL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-09T22:00:00-03:00",
-   "entrou": "2026-11-08T08:17:58.003249-03:00"
-  },
-  {
    "id": "amz-B0DKWQ5WSZ",
    "canal": "tech",
    "nome": "Resident Evil 3 - PlayStation 5 (Capcom)",
@@ -6522,23 +6606,6 @@
    "entrou": "2026-11-08T08:17:58.003249-03:00"
   },
   {
-   "id": "shopee-23298467238",
-   "plataforma": "Shopee",
-   "nome": "Faqueiro Inox Tramontina Ipanema 30 Peças Jogo De Talheres Cor Preto",
-   "loja": "MONTLAR",
-   "loja_oficial": true,
-   "preco": 86.49,
-   "preco_antigo": 129.09,
-   "desconto": 33,
-   "vendas": 335,
-   "nota": 5.0,
-   "comissao_pct": 3.0,
-   "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mbs24ze44pqx41",
-   "link": "https://s.shopee.com.br/6figqxlnyt",
-   "canal": "achadinhos",
-   "entrou": "2026-11-08T08:17:58.003249-03:00"
-  },
-  {
    "id": "shopee-16185215321",
    "plataforma": "Shopee",
    "nome": "Kit 6 Cuecas Boxer Lupo Microfibra Poliamida Sem Costura Masculina Respirável Confortável Original",
@@ -6588,37 +6655,6 @@
    "link": "https://s.shopee.com.br/4qH2fipU2y",
    "canal": "marcas",
    "entrou": "2026-11-08T08:17:58.003249-03:00"
-  },
-  {
-   "id": "amz-B0D5C1F58W",
-   "canal": "marcas",
-   "nome": "Perfume Armani Acqua di Giò Parfum Masculino",
-   "preco_antigo": 999.0,
-   "preco": 597.39,
-   "desconto": 40,
-   "link": "https://www.amazon.com.br/dp/B0D5C1F58W?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61isdoYoLfL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-08T13:00:00-03:00",
-   "nao_antes": "2026-11-08T10:00:00-03:00",
-   "entrou": "2026-11-08T09:01:27.697587-03:00"
-  },
-  {
-   "id": "amz-B01JG5V0E4",
-   "canal": "marcas",
-   "nome": "Perfume Versace Dylan Blue Pour Homme EDT Masculino",
-   "preco_antigo": 743.13,
-   "preco": 512.92,
-   "desconto": 31,
-   "link": "https://www.amazon.com.br/dp/B01JG5V0E4?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61XyyWtqQwL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-08T13:00:00-03:00",
-   "nao_antes": "2026-11-08T10:00:00-03:00",
-   "gancho": "DOMINGO DO PERFUME: VERSACE NA FAIXA",
-   "entrou": "2026-11-08T09:01:27.697587-03:00"
   },
   {
    "id": "amz-B0GKR1ZX8Y",
@@ -6805,7 +6841,7 @@
   "kit12poteshermeticoselectrolux": "2026-11-01T09:54:42.474828-03:00",
   "tenisdecorridamizunowavefalconmasculino": "2026-11-01T09:58:48.637360-03:00",
   "monitorgamerlg24ips100hzfullhd": "2026-11-01T10:02:52.200028-03:00",
-  "aspiradordepoeaguawapgtw101400w10litrosamarelopreto127vfw005705": "2026-11-01T10:10:44.843406-03:00",
+  "aspiradordepoeaguawapgtw101400w10litrosamarelopreto127vfw005705": "2026-11-08T10:51:27.803636-03:00",
   "tenisnewbalance574v2unissex": "2026-11-01T10:18:02.537735-03:00",
   "airfryerfornophilipswalitaserie5000220v": "2026-11-01T11:31:00-03:00",
   "camisetaheringmasculinagolavregular": "2026-11-01T11:34:00-03:00",
@@ -7183,7 +7219,12 @@
   "secadordecabelotaiffstyle3332000w": "2026-11-08T09:58:18.838294-03:00",
   "perfumeversaceerosflameedp100mlmasculino": "2026-11-08T10:09:30.192281-03:00",
   "mousesemfiologitechsignaturem650": "2026-11-08T10:17:27.287354-03:00",
-  "perfumearmafislandblissedp100mlmasculino": "2026-11-08T10:33:24.433851-03:00"
+  "perfumearmafislandblissedp100mlmasculino": "2026-11-08T10:33:24.433851-03:00",
+  "faqueiroinoxtramontinaipanema30pecasjogodetalherescorpreto": "2026-11-08T10:44:17.441370-03:00",
+  "mousetrackballsemfiologitechergom575scliquesilencioso": "2026-11-08T10:59:23.961343-03:00",
+  "perfumearmaniacquadigioparfummasculino": "2026-11-08T11:05:50.075043-03:00",
+  "monitorgamerlg27ips100hzfullhd27ms500": "2026-11-08T11:13:27.665287-03:00",
+  "perfumeversacedylanbluepourhommeedtmasculino": "2026-11-08T11:21:14.331052-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
@@ -7439,14 +7480,14 @@
   "2026-11-07 noite marcas",
   "2026-11-07 noite tech"
  ],
- "reserva_meio": "2026-11-07T14:07:53.556946-03:00",
+ "reserva_meio": "2026-11-08T11:20:01.105216-03:00",
  "reserva_cheia": {
   "achadinhos": "2026-11-07T19:22:38.765799-03:00",
   "tech": "2026-11-07T20:03:50.806494-03:00",
   "marcas": "2026-11-07T20:03:50.806494-03:00"
  },
  "top10_dia": "2026-11-07",
- "manuais_lidos": "2026-11-08T10:33:24.236302-03:00",
+ "manuais_lidos": "2026-11-08T11:20:01.105216-03:00",
  "reserva_resultado": {
   "2026-11-07": {
    "achadinhos": {
@@ -7465,11 +7506,16 @@
     "busca": 0,
     "quase": 0,
     "reprise": 0
+   },
+   "achadinhos": {
+    "busca": 0,
+    "quase": 0,
+    "reprise": 0
    }
   }
  },
  "ig_reels_log": {},
- "ig_respondido_em": "2026-11-08T10:24:57.624190-03:00",
+ "ig_respondido_em": "2026-11-08T11:13:08.219449-03:00",
  "dm_auto": {
   "2026-11-08": {
    "com_palavra": 0,
@@ -7478,14 +7524,16 @@
    "ultimo_erro": ""
   }
  },
- "fb_feitos": [],
+ "fb_feitos": [
+  "2026-11-08 10:10 oferta"
+ ],
  "fb_usadas": [],
  "fb_tentativas": {
-  "2026-11-08 10:10 oferta": 2
+  "2026-11-08 10:10 oferta": 3
  },
  "fb_posts": {},
  "fb_erro": {
-  "hora": "08/11 10:24",
-  "erro": "Página recusou o post: {'message': '(#200) The permission(s) pages_manage_posts are not available. It could because either they are deprecated or need to be approved by App Review.', 'type': 'OAuthException', 'code': 200, 'fbtrace_id': 'AMHyaipUHfUXsUO0ViB01I9'}"
+  "hora": "08/11 10:34",
+  "erro": "Página recusou o post: {'message': '(#200) The permission(s) pages_manage_posts are not available. It could because either they are deprecated or need to be approved by App Review.', 'type': 'OAuthException', 'code': 200, 'fbtrace_id': 'AaxPuqreALUF8dKSC8VymBi'}"
  }
 }
