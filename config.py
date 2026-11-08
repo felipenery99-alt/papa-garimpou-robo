@@ -97,7 +97,7 @@ RESERVA_REPRISE_MAX = 3
 # Canal zerado há RESERVA_RELAXA_MIN: reprise de ofertas postadas há >= RESERVA_REPRISE_DIAS_ZERADO dias (reconferidas)
 # e faixa "quase boa" da Shopee (só loja oficial, marca boa, nota mínima igual): vendas >= VENDAS_QUASE_SHOPEE_OFICIAL
 # e desconto até DESCONTO_FOLGA_QUASE pontos abaixo do mínimo.
-RESERVA_RELAXA_MIN = 120
+RESERVA_RELAXA_MIN = 30   # 08/11 (vigia: achadinhos 10:51→12:12 sem post): era 120; a varredura só com a regra cheia dá 0 (07 e 08/11), então canal zerado já entra direto na faixa quase boa (só oficial) + reprise 3→2 dias
 RESERVA_REPRISE_DIAS_ZERADO = 3
 RESERVA_REPRISE_DIAS_MINIMO = 2   # 08/11: sem nada na busca nem na reprise de 3 dias, tenta 2 dias
 VENDAS_QUASE_SHOPEE_OFICIAL = 125
