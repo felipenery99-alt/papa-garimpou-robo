@@ -847,8 +847,8 @@
    "canal marcas sem oferta na fila há 358 min (busca extra também não achou). Abastecer ofertas_manuais.json.",
    "canal tech sem oferta na fila há 58 min (busca extra também não achou). Abastecer ofertas_manuais.json."
   ],
-  "ultima_execucao": "21:33",
-  "execucoes": 29,
+  "ultima_execucao": "21:57",
+  "execucoes": 30,
   "telegram_posts": {
    "achadinhos": 13,
    "marcas": 7,
@@ -877,8 +877,8 @@
    "ig-dm": 0
   },
   "telegram_membros": {
-   "achadinhos": 3,
-   "marcas": 3,
+   "achadinhos": null,
+   "marcas": null,
    "tech": 5,
    "geral": 5
   },
