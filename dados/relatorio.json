@@ -965,19 +965,20 @@
    "⚠️ Canal sem post: achadinhos 2 h — abrir o app Claude e conferir as rotinas",
    "Página do Facebook parada: o META_TOKEN não tem a permissão pages_manage_posts. No app da Meta (developers.facebook.com) incluir pages_manage_posts, gerar um token de Página novo com ela e trocar o Secret META_TOKEN no GitHub. O robô volta a postar sozinho quando o token mudar.",
    "⚠️ Garimpo parado desde 07:44 — abrir o app Claude e conferir as rotinas\nPouca oferta na fila: marcas 0.",
-   "⚠️ Garimpo parado desde 07:44 — abrir o app Claude e conferir as rotinas\nPouca oferta na fila: achadinhos 0, marcas 2, tech 0."
+   "⚠️ Garimpo parado desde 07:44 — abrir o app Claude e conferir as rotinas\nPouca oferta na fila: achadinhos 0, marcas 2, tech 0.",
+   "canal tech sem oferta na fila há 53 min (busca extra também não achou). Abastecer ofertas_manuais.json."
   ],
-  "ultima_execucao": "18:44",
-  "execucoes": 16,
+  "ultima_execucao": "19:36",
+  "execucoes": 17,
   "telegram_posts": {
-   "achadinhos": 31,
-   "marcas": 28,
-   "tech": 20
+   "achadinhos": 32,
+   "marcas": 29,
+   "tech": 22
   },
   "ultimo_post": {
-   "achadinhos": "19:35",
-   "marcas": "19:21",
-   "tech": "18:43"
+   "achadinhos": "20:21",
+   "marcas": "20:07",
+   "tech": "20:14"
   },
   "meta_token": {
    "tipo": "SYSTEM_USER",
@@ -1039,7 +1040,8 @@
    "18:42 story_oferta",
    "feed",
    "19:15 post_achado",
-   "19:17 story_oferta"
+   "19:17 story_oferta",
+   "20:03 story_oferta"
   ],
   "shopee_ligada": true,
   "reserva_resultado": {
@@ -1450,7 +1452,7 @@
    "shopee-23992641053": "vendas perto (125+)",
    "shopee-22292859488": "desconto longe",
    "shopee-58253934349": "vendas perto (125+)",
-   "shopee-58204159335": "desconto perto (até 10 pts)",
+   "shopee-58204159335": "desconto longe",
    "shopee-22596933198": "desconto longe",
    "shopee-21897513654": "desconto longe",
    "shopee-22294462886": "desconto perto (até 10 pts)",
@@ -5613,9 +5615,9 @@
    "vendas perto (125+)": 111,
    "outro: marca fora da lista boa": 105,
    "aprovada": 74,
-   "desconto longe": 60,
+   "desconto longe": 61,
    "outro: palavra proibida: compatível": 34,
-   "desconto perto (até 10 pts)": 23
+   "desconto perto (até 10 pts)": 22
   },
   "instagram": {
    "seguidores": 402,
@@ -5626,7 +5628,7 @@
    "stories_ativos": 25
   },
   "reels_alcance": {
-   "atualizado": "2026-11-08T18:44:22.674425-03:00",
+   "atualizado": "2026-11-08T19:36:21.050681-03:00",
    "itens": [
     {
      "id": "18498252658111064",
