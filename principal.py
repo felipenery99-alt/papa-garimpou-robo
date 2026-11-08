@@ -297,13 +297,27 @@ def carregar_pedidos(agora: datetime) -> list[dict]:
     return validos
 
 
-def carregar_manuais(h: dict, agora: datetime) -> list[dict]:
+def manuais_do_github() -> str | None:
+    """07/11: o garimpo do PC grava ofertas_manuais.json no meio de uma execução (ex.: 20h17) e a execução em
+    curso só lia o arquivo do início; os nichos ficavam até 45 min sem as ofertas novas. Lê a versão do main."""
+    import subprocess
+    try:
+        subprocess.run(["git", "fetch", "-q", "origin", "main"], cwd=PASTA, check=True, timeout=60)
+        return subprocess.run(["git", "show", "origin/main:ofertas_manuais.json"], cwd=PASTA, capture_output=True,
+                              text=True, encoding="utf-8", check=True, timeout=60).stdout
+    except Exception as e:
+        print(f"[manuais] não li a versão nova do GitHub: {e}")
+        return None
+
+
+def carregar_manuais(h: dict, agora: datetime, texto: str | None = None) -> list[dict]:
     """Ofertas conferidas à mão (Amazon, Magalu, Awin): entram na fila enquanto não forem postadas
-    e não passarem da validade (`valida_ate`, ISO). Canal desconhecido é ignorado."""
+    e não passarem da validade (`valida_ate`, ISO). Canal desconhecido é ignorado.
+    `texto`: conteúdo do arquivo vindo do GitHub (recarga no meio da execução)."""
     lista = carregar_pedidos(agora)   # pedido atendido também vai para a fila do canal
-    if MANUAIS.exists():
+    if texto is not None or MANUAIS.exists():
         try:
-            lista += json.loads(MANUAIS.read_text(encoding="utf-8"))
+            lista += json.loads(texto if texto is not None else MANUAIS.read_text(encoding="utf-8"))
         except Exception as e:
             print(f"ofertas_manuais.json inválido: {e}")
     boas = []
@@ -455,7 +469,11 @@ def top10_semana(h: dict, telegram, agora: datetime) -> None:
         except Exception as e:
             telegram.avisar_dono(f"Top 10 #{pos} falhou: {e}")
         if pos > 1 and not os.environ.get("PAPA_SEM_ATRASO"):
-            _time.sleep(config.TOP10_INTERVALO_MIN * 60)
+            # 07/11: os 30 min do Top 10 travavam a fila dos nichos; nas esperas sai post de nicho se já deu o intervalo
+            fim_espera = _time.time() + config.TOP10_INTERVALO_MIN * 60
+            while _time.time() < fim_espera:
+                ENTRE_TAREFAS[0]()
+                _time.sleep(min(30, max(0, fim_espera - _time.time())))
 
 
 def em_bloco_perfume(agora: datetime) -> bool:
@@ -634,15 +652,54 @@ def soltar_fila(h: dict, telegram, limite: datetime, atraso: bool = True) -> int
     if atraso and h.get("fila") and not os.environ.get("PAPA_SEM_ATRASO"):
         # 1º post não sai no minuto exato da execução (dono, 28/10: horários aleatórios)
         _time.sleep(random.uniform(*config.ATRASO_INICIAL_MIN) * 60)
-    while h.get("fila"):
+    while True:
+        if atraso:   # 07/11: manutenção no topo do laço; roda também com a fila vazia
+            # 05/11: a execução agora dura ~45 min; horário do Instagram que vence no meio da fila sai na hora,
+            # em vez de esperar a próxima execução (que podia passar da janela de 50 min e perder o horário)
+            agora_ig = datetime.now(FUSO)
+            # 07/11: garimpo do PC que chega no meio da execução entra na fila na hora (confere a cada 10 min)
+            if h.get("manuais_lidos", "") < (agora_ig - timedelta(minutes=10)).isoformat():
+                h["manuais_lidos"] = agora_ig.isoformat()
+                texto = manuais_do_github()
+                if texto:
+                    novas = carregar_manuais(h, agora_ig, texto)
+                    antes = len(h.get("fila", []))
+                    for c in config.CANAIS:
+                        entrar_na_fila(h, c, [o for o in novas if o["canal"] == c], agora_ig)
+                    if len(h.get("fila", [])) > antes:
+                        print(f"[manuais] {len(h['fila']) - antes} oferta(s) nova(s) do garimpo entraram no meio da execução")
+            # 06/11: canal que zera no meio da execução não espera a próxima (a cada 15 min no máximo)
+            if (h.get("reserva_meio", "") < (agora_ig - timedelta(minutes=15)).isoformat()
+                    and any(not any(f["canal"] == c for f in h.get("fila", [])) for c in config.CANAIS)):
+                h["reserva_meio"] = agora_ig.isoformat()
+                try:
+                    import shopee
+                    ult = datetime.fromisoformat(h["ultimo_garimpo"]) if h.get("ultimo_garimpo") else None
+                    garimpo_reserva(h, shopee if os.environ.get("SHOPEE_APP_ID") else None, agora_ig, ult)
+                except Exception as e:
+                    print(f"[reserva] no meio da fila falhou: {e}")
+            if instagram_vencido(h, agora_ig):
+                try:
+                    # aqui a própria fila cuida do ritmo: sem post extra entre as peças
+                    gancho, ENTRE_TAREFAS[0] = ENTRE_TAREFAS[0], (lambda: None)
+                    try:
+                        rodar_instagram(h, agora_ig)
+                    finally:
+                        ENTRE_TAREFAS[0] = gancho
+                except Exception as e:
+                    telegram.avisar_dono(f"Instagram: erro geral {e}")
         agora = datetime.now(FUSO)
         # 01/11 (Telegram): item com "nao_antes" fica na fila sem sair até esse horário
         # repetido sai da fila antes de escolher o canal (senão o canal "da vez" gastava a vez sem postar)
         h["fila"] = [f for f in h["fila"] if not ja_postado_recente(h, f["id"], agora, f.get("nome", ""), f.get("reprise_dias"))]
         pode = [f for f in h["fila"] if not f.get("nao_antes") or f["nao_antes"] <= agora.isoformat()]
         if not pode:
-            print("fila: só itens com nao_antes no futuro, esperam")
-            break
+            # 07/11: fila vazia (ou só nao_antes no futuro) não encerra a execução: espera 1 min e confere de novo
+            # (garimpo novo do PC e reserva da nuvem entram pela manutenção do topo do laço)
+            if not atraso or datetime.now(FUSO) + timedelta(seconds=60) > limite:
+                break
+            _time.sleep(60)
+            continue
         canais = [c for c in config.CANAIS if any(f["canal"] == c for f in pode)]
         # 01/11: canal parado há mais de CANAL_PARADO_MIN passa na frente (o mais parado primeiro)
         parados = sorted((c for c in canais if minutos_parado(h, c, agora) >= config.CANAL_PARADO_MIN),
@@ -699,32 +756,9 @@ def soltar_fila(h: dict, telegram, limite: datetime, atraso: bool = True) -> int
             if erros >= 3:
                 return erros
         espera = random.uniform(*config.intervalo_posts(datetime.now(FUSO).hour)) * 60
-        if not h["fila"] or datetime.now(FUSO) + timedelta(seconds=espera) > limite:
+        if datetime.now(FUSO) + timedelta(seconds=espera) > limite or not atraso:
             break
         _time.sleep(espera)
-        # 05/11: a execução agora dura ~45 min; horário do Instagram que vence no meio da fila sai na hora,
-        # em vez de esperar a próxima execução (que podia passar da janela de 50 min e perder o horário)
-        agora_ig = datetime.now(FUSO)
-        # 06/11: canal que zera no meio da execução não espera a próxima (a cada 15 min no máximo)
-        if (h.get("reserva_meio", "") < (agora_ig - timedelta(minutes=15)).isoformat()
-                and any(not any(f["canal"] == c for f in h.get("fila", [])) for c in config.CANAIS)):
-            h["reserva_meio"] = agora_ig.isoformat()
-            try:
-                import shopee
-                ult = datetime.fromisoformat(h["ultimo_garimpo"]) if h.get("ultimo_garimpo") else None
-                garimpo_reserva(h, shopee if os.environ.get("SHOPEE_APP_ID") else None, agora_ig, ult)
-            except Exception as e:
-                print(f"[reserva] no meio da fila falhou: {e}")
-        if instagram_vencido(h, agora_ig):
-            try:
-                # aqui a própria fila cuida do ritmo: sem post extra entre as peças
-                gancho, ENTRE_TAREFAS[0] = ENTRE_TAREFAS[0], (lambda: None)
-                try:
-                    rodar_instagram(h, agora_ig)
-                finally:
-                    ENTRE_TAREFAS[0] = gancho
-            except Exception as e:
-                telegram.avisar_dono(f"Instagram: erro geral {e}")
     print(f"fila: {len(h.get('fila', []))} oferta(s) esperando a próxima execução")
     return erros
 
