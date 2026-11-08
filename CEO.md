@@ -27,7 +27,7 @@ Ponto de partida: 3 seguidores no Instagram em 28/10. Metas de **seguidores do @
 | 03/11/2026 | 50 | 30 |
 | 10/11/2026 | 195 (era 150; +30% em 30/10, meta de 03/11 batida antes) | 80 |
 | 17/11/2026 | 390 (era 300; +30% em 06/11, meta de 10/11 batida antes) | 150 |
-| 27/11/2026 (Black Friday) | 600 | 300 |
+| 27/11/2026 (Black Friday) | 780 (era 600; +30% em 08/11, meta de 17/11 batida antes) | 300 |
 | 31/12/2026 | 2.000 | 1.000 |
 
 **Meta do dono (28/10, sem impulsionamento por enquanto): 1.000 seguidores no Instagram o quanto antes.** Alavancas orgânicas: seguir 100+/dia público de perfis parecidos (rotina local), comentários em perfis grandes, Reels de achados (é o que mais trouxe gente para o maior concorrente), stories ~25/dia, feed variado, catálogos de canais do Telegram. Priorize sempre o que aumenta seguidores.

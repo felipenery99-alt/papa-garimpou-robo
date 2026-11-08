@@ -98,3 +98,12 @@
 - Alavanca nova (Telegram atrasado): quem comenta QUERO no carrossel recebe a DM com os links de produto, mas sem convite do Telegram. Agora essa DM termina com "Quer achados assim todo dia, grátis? Entra no Telegram do Papa" + convite medido "ig-dm". É o lead mais quente; custo zero. Ensaio OK.
 - Próximo: medir em 07/11 entradas pelo convite ig-dm e se o alcance do Reels se mantém.
 - Pedido ao dono: (1) a rotina local do garimpo segue deixando a fila secar à tarde; (2) divulgar os 4 canais no status do WhatsApp (custo zero).
+
+## 2026-11-08 (rotina do CEO, domingo)
+- Visto (07/11): 32 execuções, 25 stories ativos (piso ok), feed ok (4 Reels + 4 posts). Telegram caiu para 13 achadinhos, 7 marcas, 4 tech: garimpo local parado de 06/11 13:58 a 07/11 20:17 (PC desligado), fila zerou e achadinhos ficou 8 h sem post; a reserva de 07/11 entrou à noite (reserva_resultado ainda zerado). Seguidores 380→395, alcance 85 (o pico de 5.659 não se manteve). Membros 3+3+5+5 = 16, parado há 5 dias; convites medidos (ig-dm, ig-story, ig-bio) com 0 entradas.
+- META: Instagram 395 de 390 até 17/11 (**batida antes do prazo**) → meta de 27/11 sobe 30%: 600 → 780. Telegram 16 de 80 até 10/11 (**atrasado**).
+- Alavanca nova (Telegram atrasado): o anúncio teve 95 cliques e 0 membro, sinal de que muita gente não tem o app. As DMs automáticas (CANAIS/TELEGRAM e QUERO do carrossel) agora terminam com "Não tem Telegram? Veja os achados no navegador: t.me/s/papagarimpouofertas", e a peça nova "SEM TELEGRAM? VEJA NO NAVEGADOR" entra no giro dos stories. Ensaio OK.
+- Domingo: +30 peças no `conteudo.py` (137 no total, 125 servem para story): anticilada (kit de 1 peça, perfume barato, app de cupom), dica (ficha técnica, TV x sala, air fryer em litros), mito (garantia legal de 90 dias, art. 26; desistência na loja física), Black Friday sem urgência falsa e 4 de conversa. Artes conferidas.
+- Pesquisa de contas grandes: (1) o Telegram não recomenda canal, quase todo membro novo vem do Instagram → chamada clara em toda peça (já temos rodapé + DMs); (2) destaque fixo no perfil apontando para o canal → só dá para criar pelo app.
+- Próximo: medir em 09/11 se o ritmo de posts volta com o garimpo e se reserva_resultado mostra a Shopee cobrindo a fila seca.
+- Pedido ao dono: (1) criar um destaque "TELEGRAM" no perfil com o story de convite (o robô não consegue pela API); (2) deixar o PC do garimpo ligado à noite e no fim de semana; (3) entrar de novo no Instagram no Chrome (login caiu em 07/11).

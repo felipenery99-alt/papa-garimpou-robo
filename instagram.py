@@ -281,7 +281,9 @@ RESPOSTA_DM = ("Oi! Aqui é o Papa 😎💎\n\nAchou coisa boa de marca, em loja
                "eu posto na hora, grátis no Telegram:\n\n🛒 Achadinhos: https://t.me/papagarimpou\n"
                "👕 Marcas e esporte: https://t.me/papagarimpoumarcas\n"
                "📱 Eletrônicos e games: https://t.me/papagarimpoutech\n"
-               "💎 Quer tudo num lugar só? https://t.me/papagarimpouofertas\n\nÉ só entrar e ativar as notificações!")
+               "💎 Quer tudo num lugar só? https://t.me/papagarimpouofertas\n\nÉ só entrar e ativar as notificações!"
+               # 08/11 (CEO): anúncio deu 95 cliques e 0 membro; quem não tem o app vê os achados sem instalar
+               "\n\nNão tem Telegram? Veja os achados no navegador: https://t.me/s/papagarimpouofertas")
 
 
 def _resposta_dm() -> str:
@@ -301,7 +303,8 @@ def _convite_extra() -> str:
         link = json.loads((PASTA / "dados" / "convites.json").read_text(encoding="utf-8"))["ig-dm"]
     except Exception:
         link = "https://t.me/papagarimpouofertas"
-    return f"\n\n💎 Quer achados assim todo dia, grátis? Entra no Telegram do Papa: {link}"
+    return (f"\n\n💎 Quer achados assim todo dia, grátis? Entra no Telegram do Papa: {link}"
+            "\nSem Telegram? Abre no navegador: https://t.me/s/papagarimpouofertas")
 
 
 def responder_comentarios(ja_respondidos: set, dm_por_post: dict | None = None) -> list[str]:
