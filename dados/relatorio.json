@@ -959,17 +959,17 @@
  },
  "2026-11-08": {
   "erros": [],
-  "ultima_execucao": "08:17",
-  "execucoes": 2,
+  "ultima_execucao": "09:02",
+  "execucoes": 3,
   "telegram_posts": {
-   "achadinhos": 4,
-   "marcas": 2,
-   "tech": 1
+   "achadinhos": 7,
+   "marcas": 4,
+   "tech": 2
   },
   "ultimo_post": {
-   "achadinhos": "08:53",
-   "marcas": "09:01",
-   "tech": "08:45"
+   "achadinhos": "09:37",
+   "marcas": "09:45",
+   "tech": "09:30"
   },
   "meta_token": {
    "tipo": "SYSTEM_USER",
@@ -986,7 +986,9 @@
    "story-20261105": 0,
    "ig-bio": 0,
    "ig-story": 0,
-   "ig-dm": 0
+   "ig-dm": 0,
+   "ig-dm-auto": 0,
+   "fb-pagina": 0
   },
   "telegram_membros": {
    "achadinhos": 3,
@@ -997,7 +999,10 @@
   "instagram_feito": [
    "08:07 story_oferta",
    "08:45 story_oferta",
-   "08:52 story_oferta"
+   "08:52 story_oferta",
+   "feed",
+   "09:35 post_achado",
+   "09:38 story_oferta"
   ],
   "shopee_ligada": true,
   "reserva_resultado": {
@@ -3531,11 +3536,13 @@
    "shopee-23394459218": "nota",
    "shopee-22493578520": "nota",
    "shopee-46758986232": "vendas longe",
-   "shopee-58206324352": "vendas longe"
+   "shopee-58206324352": "vendas longe",
+   "shopee-22599684119": "nota",
+   "shopee-58258299806": "vendas longe"
   },
   "shopee_oficial": {
-   "vendas longe": 1414,
-   "nota": 766,
+   "vendas longe": 1415,
+   "nota": 767,
    "vendas perto (125+)": 103,
    "outro: marca fora da lista boa": 76,
    "aprovada": 75,
@@ -3545,14 +3552,14 @@
   },
   "instagram": {
    "seguidores": 398,
-   "posts": 93,
+   "posts": 94,
    "reach": 27,
    "profile_views": 20,
    "website_clicks": 0,
    "stories_ativos": 25
   },
   "reels_alcance": {
-   "atualizado": "2026-11-08T08:17:58.003249-03:00",
+   "atualizado": "2026-11-08T09:02:20.446839-03:00",
    "itens": [
     {
      "id": "18109659884021018",
@@ -3751,15 +3758,6 @@
      "views": 4,
      "shares": 0,
      "saved": 0
-    },
-    {
-     "id": "18137438149737853",
-     "hora": "01/11 12:58",
-     "capa": "achados",
-     "reach": 6,
-     "views": 9,
-     "shares": 0,
-     "saved": 0
     }
    ],
    "por_capa": {
@@ -3768,11 +3766,22 @@
      "alcance_medio": 4
     },
     "achados": {
-     "n": 9,
-     "alcance_medio": 18
+     "n": 8,
+     "alcance_medio": 20
     }
    },
    "campeao": "achados"
+  },
+  "dm_auto": {
+   "com_palavra": 0,
+   "dm_ok": 0,
+   "dm_falha": 0,
+   "ultimo_erro": ""
+  },
+  "facebook": {
+   "posts": 0,
+   "ultimo": null,
+   "erro": null
   }
  }
 }

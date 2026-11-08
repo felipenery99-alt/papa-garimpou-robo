@@ -644,7 +644,13 @@
   "2026-11-08 marcas 08:39 amz-B07JZFBJ9P",
   "2026-11-08 tech 08:45 amz-B07JQKQ91F",
   "2026-11-08 achadinhos 08:53 amz-B0D693LTY5",
-  "2026-11-08 marcas 09:01 amz-B0G4SQ89P1"
+  "2026-11-08 marcas 09:01 amz-B0G4SQ89P1",
+  "2026-11-08 achadinhos 09:10 amz-B0G5ZWQR36",
+  "2026-11-08 achadinhos 09:16 amz-B08R8246HC",
+  "2026-11-08 marcas 09:23 amz-B0FD4QYX8Q",
+  "2026-11-08 tech 09:30 amz-B0FTZN4CM3",
+  "2026-11-08 achadinhos 09:37 amz-B07ZH9GHV9",
+  "2026-11-08 marcas 09:45 amz-B0DPJDYDZS"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -1283,7 +1289,13 @@
   "amz-B07JZFBJ9P": "2026-11-08T08:39:03.262679-03:00",
   "amz-B07JQKQ91F": "2026-11-08T08:45:51.370048-03:00",
   "amz-B0D693LTY5": "2026-11-08T08:53:47.200849-03:00",
-  "amz-B0G4SQ89P1": "2026-11-08T09:01:28.114161-03:00"
+  "amz-B0G4SQ89P1": "2026-11-08T09:01:28.114161-03:00",
+  "amz-B0G5ZWQR36": "2026-11-08T09:10:54.174013-03:00",
+  "amz-B08R8246HC": "2026-11-08T09:16:49.171429-03:00",
+  "amz-B0FD4QYX8Q": "2026-11-08T09:23:18.337332-03:00",
+  "amz-B0FTZN4CM3": "2026-11-08T09:30:09.497288-03:00",
+  "amz-B07ZH9GHV9": "2026-11-08T09:37:48.179287-03:00",
+  "amz-B0DPJDYDZS": "2026-11-08T09:45:07.447212-03:00"
  },
  "ofertas_dia": [
   {
@@ -5727,6 +5739,98 @@
    "valida_ate": "2026-11-08T22:00:00-03:00",
    "entrou": "2026-11-08T08:17:58.003249-03:00",
    "dia": "2026-11-08"
+  },
+  {
+   "id": "amz-B0G5ZWQR36",
+   "canal": "achadinhos",
+   "nome": "Air Fryer Oven WAP Multi Comb Digital 16L",
+   "preco_antigo": 1199.9,
+   "preco": 499.0,
+   "desconto": 58,
+   "link": "https://www.amazon.com.br/dp/B0G5ZWQR36?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/41QUBLK96KL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-09T22:00:00-03:00",
+   "gancho": "FORNO AIR FRYER WAP COM 58% OFF",
+   "entrou": "2026-11-08T08:17:58.003249-03:00",
+   "dia": "2026-11-08"
+  },
+  {
+   "id": "amz-B08R8246HC",
+   "canal": "achadinhos",
+   "nome": "Liquidificador Philips Walita Daily 550W jarra San",
+   "preco_antigo": 139.9,
+   "preco": 80.97,
+   "desconto": 42,
+   "link": "https://www.amazon.com.br/dp/B08R8246HC?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71BbY0v83ZL._AC_SL1500_.jpg",
+   "loja": "Vendido por Magalu · entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-09T22:00:00-03:00",
+   "entrou": "2026-11-08T08:17:58.003249-03:00",
+   "dia": "2026-11-08"
+  },
+  {
+   "id": "amz-B0FD4QYX8Q",
+   "canal": "marcas",
+   "nome": "Kit Calvin Klein CK One EDT 200ml + Loção + Gel de Banho",
+   "preco_antigo": 699.0,
+   "preco": 440.61,
+   "desconto": 37,
+   "link": "https://www.amazon.com.br/dp/B0FD4QYX8Q?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61Aplh+XRXL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-08T22:00:00-03:00",
+   "entrou": "2026-11-08T08:17:58.003249-03:00",
+   "dia": "2026-11-08"
+  },
+  {
+   "id": "amz-B0FTZN4CM3",
+   "canal": "tech",
+   "nome": "Monitor Gamer LG 20\" 20U401A 75Hz 2ms",
+   "preco_antigo": 499.0,
+   "preco": 310.65,
+   "desconto": 38,
+   "link": "https://www.amazon.com.br/dp/B0FTZN4CM3?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51YC16k39FL._AC_SL1500_.jpg",
+   "loja": "Vendido por parceiro · entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-08T22:00:00-03:00",
+   "entrou": "2026-11-08T08:17:58.003249-03:00",
+   "dia": "2026-11-08"
+  },
+  {
+   "id": "amz-B07ZH9GHV9",
+   "canal": "achadinhos",
+   "nome": "Aspirador de Pó e Água WAP Barril GTW 20 Litros",
+   "preco_antigo": 729.9,
+   "preco": 360.06,
+   "desconto": 51,
+   "link": "https://www.amazon.com.br/dp/B07ZH9GHV9?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61mq7fJyAUL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-09T22:00:00-03:00",
+   "entrou": "2026-11-08T08:17:58.003249-03:00",
+   "dia": "2026-11-08"
+  },
+  {
+   "id": "amz-B0DPJDYDZS",
+   "canal": "marcas",
+   "nome": "Kit 3 Regatas Slim Hering Masculinas",
+   "preco_antigo": 109.99,
+   "preco": 56.9,
+   "desconto": 48,
+   "link": "https://www.amazon.com.br/dp/B0DPJDYDZS?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/515ApClViqL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-08T22:00:00-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "entrou": "2026-11-08T08:17:58.003249-03:00",
+   "dia": "2026-11-08"
   }
  ],
  "ig_feitos": [
@@ -5859,14 +5963,12 @@
   "2026-11-07 21:24 story_oferta",
   "2026-11-08 08:07 story_oferta",
   "2026-11-08 08:45 story_oferta",
-  "2026-11-08 08:52 story_oferta"
+  "2026-11-08 08:52 story_oferta",
+  "2026-11-08 feed",
+  "2026-11-08 09:35 post_achado",
+  "2026-11-08 09:38 story_oferta"
  ],
  "ig_ofertas_usadas": [
-  "amz-B0DTKSNQF3",
-  "shopee-22397314985",
-  "amz-B0D8QJRBV3",
-  "amz-B0BYK2VCP7",
-  "amz-B0G455TF9J",
   "amz-B07FN1MZBH",
   "shopee-42130479011",
   "amz-B0CLSTLZ4W",
@@ -6064,7 +6166,9 @@
   "amz-B076KRB8LP",
   "amz-B0CPT5XTTC",
   "amz-B0CBSZ6YXZ",
-  "amz-B0B5XFFPYN"
+  "amz-B0B5XFFPYN",
+  "amz-B0G5ZWQR36",
+  "amz-B07JZFBJ9P"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
@@ -6131,49 +6235,6 @@
  "ultimo_pilar": "dica",
  "fila": [
   {
-   "id": "amz-B0G5ZWQR36",
-   "canal": "achadinhos",
-   "nome": "Air Fryer Oven WAP Multi Comb Digital 16L",
-   "preco_antigo": 1199.9,
-   "preco": 499.0,
-   "desconto": 58,
-   "link": "https://www.amazon.com.br/dp/B0G5ZWQR36?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/41QUBLK96KL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-09T22:00:00-03:00",
-   "gancho": "FORNO AIR FRYER WAP COM 58% OFF",
-   "entrou": "2026-11-08T08:17:58.003249-03:00"
-  },
-  {
-   "id": "amz-B08R8246HC",
-   "canal": "achadinhos",
-   "nome": "Liquidificador Philips Walita Daily 550W jarra San",
-   "preco_antigo": 139.9,
-   "preco": 80.97,
-   "desconto": 42,
-   "link": "https://www.amazon.com.br/dp/B08R8246HC?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/71BbY0v83ZL._AC_SL1500_.jpg",
-   "loja": "Vendido por Magalu · entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-09T22:00:00-03:00",
-   "entrou": "2026-11-08T08:17:58.003249-03:00"
-  },
-  {
-   "id": "amz-B07ZH9GHV9",
-   "canal": "achadinhos",
-   "nome": "Aspirador de Pó e Água WAP Barril GTW 20 Litros",
-   "preco_antigo": 729.9,
-   "preco": 360.06,
-   "desconto": 51,
-   "link": "https://www.amazon.com.br/dp/B07ZH9GHV9?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61mq7fJyAUL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-09T22:00:00-03:00",
-   "entrou": "2026-11-08T08:17:58.003249-03:00"
-  },
-  {
    "id": "amz-B0B9V6YMM5",
    "canal": "achadinhos",
    "nome": "Aspirador de Pó e Água WAP GTW Inox 15 1700W",
@@ -6199,35 +6260,6 @@
    "loja": "Vendido e entregue pela Amazon",
    "plataforma": "Amazon",
    "valida_ate": "2026-11-09T22:00:00-03:00",
-   "entrou": "2026-11-08T08:17:58.003249-03:00"
-  },
-  {
-   "id": "amz-B0FD4QYX8Q",
-   "canal": "marcas",
-   "nome": "Kit Calvin Klein CK One EDT 200ml + Loção + Gel de Banho",
-   "preco_antigo": 699.0,
-   "preco": 440.61,
-   "desconto": 37,
-   "link": "https://www.amazon.com.br/dp/B0FD4QYX8Q?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61Aplh+XRXL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-08T22:00:00-03:00",
-   "entrou": "2026-11-08T08:17:58.003249-03:00"
-  },
-  {
-   "id": "amz-B0DPJDYDZS",
-   "canal": "marcas",
-   "nome": "Kit 3 Regatas Slim Hering Masculinas",
-   "preco_antigo": 109.99,
-   "preco": 56.9,
-   "desconto": 48,
-   "link": "https://www.amazon.com.br/dp/B0DPJDYDZS?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/515ApClViqL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-08T22:00:00-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
    "entrou": "2026-11-08T08:17:58.003249-03:00"
   },
   {
@@ -6303,20 +6335,6 @@
    "plataforma": "Amazon",
    "valida_ate": "2026-11-08T22:00:00-03:00",
    "extra": "Preço a partir de: varia por tamanho e cor",
-   "entrou": "2026-11-08T08:17:58.003249-03:00"
-  },
-  {
-   "id": "amz-B0FTZN4CM3",
-   "canal": "tech",
-   "nome": "Monitor Gamer LG 20\" 20U401A 75Hz 2ms",
-   "preco_antigo": 499.0,
-   "preco": 310.65,
-   "desconto": 38,
-   "link": "https://www.amazon.com.br/dp/B0FTZN4CM3?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51YC16k39FL._AC_SL1500_.jpg",
-   "loja": "Vendido por parceiro · entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-08T22:00:00-03:00",
    "entrou": "2026-11-08T08:17:58.003249-03:00"
   },
   {
@@ -7133,7 +7151,13 @@
   "perfumearmanistrongerwithyouintenselymasculino": "2026-11-08T08:39:03.262679-03:00",
   "fonedeouvidojblc50hiinearcommicrofonepreto": "2026-11-08T08:45:51.370048-03:00",
   "aspiradordepoeaguakarcherwdl1s1700wtanqueinox12l": "2026-11-08T08:53:47.200849-03:00",
-  "garrafatermicastanleyaerolightfastflowcornflower": "2026-11-08T09:01:28.114161-03:00"
+  "garrafatermicastanleyaerolightfastflowcornflower": "2026-11-08T09:01:28.114161-03:00",
+  "airfryerovenwapmulticombdigital16l": "2026-11-08T09:10:54.174013-03:00",
+  "liquidificadorphilipswalitadaily550wjarrasan": "2026-11-08T09:16:49.171429-03:00",
+  "kitcalvinkleinckoneedt200mllocaogeldebanho": "2026-11-08T09:23:18.337332-03:00",
+  "monitorgamerlg2020u401a75hz2ms": "2026-11-08T09:30:09.497288-03:00",
+  "aspiradordepoeaguawapbarrilgtw20litros": "2026-11-08T09:37:48.179287-03:00",
+  "kit3regatasslimheringmasculinas": "2026-11-08T09:45:07.447212-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
@@ -7327,6 +7351,14 @@
   "ig-dm": {
    "link": "https://t.me/+s8tDV3rEu4AwOWIx",
    "entradas": []
+  },
+  "ig-dm-auto": {
+   "link": "https://t.me/+McVueaCVfSdhZmVh",
+   "entradas": []
+  },
+  "fb-pagina": {
+   "link": "https://t.me/+bHiHFdoQDediMDMx",
+   "entradas": []
   }
  },
  "tg_offset": 354369946,
@@ -7388,7 +7420,7 @@
   "marcas": "2026-11-07T20:03:50.806494-03:00"
  },
  "top10_dia": "2026-11-07",
- "manuais_lidos": "2026-11-08T09:01:27.697587-03:00",
+ "manuais_lidos": "2026-11-08T09:44:52.425196-03:00",
  "reserva_resultado": {
   "2026-11-07": {
    "achadinhos": {
@@ -7410,5 +7442,18 @@
    }
   }
  },
- "ig_reels_log": {}
+ "ig_reels_log": {},
+ "ig_respondido_em": "2026-11-08T09:44:52.425196-03:00",
+ "dm_auto": {
+  "2026-11-08": {
+   "com_palavra": 0,
+   "dm_ok": 0,
+   "dm_falha": 0,
+   "ultimo_erro": ""
+  }
+ },
+ "fb_feitos": [],
+ "fb_usadas": [],
+ "fb_tentativas": {},
+ "fb_posts": {}
 }
