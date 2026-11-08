@@ -698,7 +698,13 @@
   "2026-11-08 marcas 16:14 shopee-44106064553",
   "2026-11-08 tech 16:22 shopee-58260087298",
   "2026-11-08 achadinhos 16:28 shopee-23398535010",
-  "2026-11-08 marcas 16:34 shopee-49507610530"
+  "2026-11-08 marcas 16:34 shopee-49507610530",
+  "2026-11-08 achadinhos 16:44 shopee-58203329255",
+  "2026-11-08 achadinhos 16:51 shopee-23204913091",
+  "2026-11-08 marcas 16:58 shopee-58253650623",
+  "2026-11-08 tech 17:05 shopee-23899333842",
+  "2026-11-08 achadinhos 17:12 shopee-23702004611",
+  "2026-11-08 marcas 17:19 shopee-58217263099"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -1381,7 +1387,13 @@
   "shopee-44106064553": "2026-11-08T16:14:25.164707-03:00",
   "shopee-58260087298": "2026-11-08T16:22:02.216589-03:00",
   "shopee-23398535010": "2026-11-08T16:28:20.218160-03:00",
-  "shopee-49507610530": "2026-11-08T16:34:35.146641-03:00"
+  "shopee-49507610530": "2026-11-08T16:34:35.146641-03:00",
+  "shopee-58203329255": "2026-11-08T16:44:48.311865-03:00",
+  "shopee-23204913091": "2026-11-08T16:51:47.758717-03:00",
+  "shopee-58253650623": "2026-11-08T16:58:59.376380-03:00",
+  "shopee-23899333842": "2026-11-08T17:05:54.399381-03:00",
+  "shopee-23702004611": "2026-11-08T17:12:25.656352-03:00",
+  "shopee-58217263099": "2026-11-08T17:19:31.620012-03:00"
  },
  "ofertas_dia": [
   {
@@ -6747,6 +6759,120 @@
    "canal": "marcas",
    "entrou": "2026-11-08T15:43:20.079794-03:00",
    "dia": "2026-11-08"
+  },
+  {
+   "id": "shopee-58203329255",
+   "plataforma": "Shopee",
+   "nome": "Eudora Instance Morango Irresistível Spray 200ml",
+   "loja": "Eudora_Oficial",
+   "loja_oficial": true,
+   "preco": 36.9,
+   "preco_antigo": 75.31,
+   "desconto": 51,
+   "vendas": 176,
+   "nota": 4.9,
+   "comissao_pct": 3.0,
+   "imagem": "https://cf.shopee.com.br/file/sg-11134201-825zo-mjihjj9iz30n30",
+   "link": "https://s.shopee.com.br/8KqvGeKt9h",
+   "quase": true,
+   "canal": "achadinhos",
+   "entrou": "2026-11-08T15:03:56.919405-03:00",
+   "dia": "2026-11-08"
+  },
+  {
+   "id": "shopee-23204913091",
+   "plataforma": "Shopee",
+   "nome": "Câmera Inteligente Wi-Fi iM5 SC Full HD Branca Intelbras",
+   "loja": "Intelbras Oficial",
+   "loja_oficial": true,
+   "preco": 229.9,
+   "preco_antigo": 403.33,
+   "desconto": 43,
+   "vendas": 239,
+   "nota": 5.0,
+   "comissao_pct": 5.0,
+   "imagem": "https://cf.shopee.com.br/file/sg-11134201-81zut-miq4iyy1cmwy46",
+   "link": "https://s.shopee.com.br/5LDJGUdfmA",
+   "quase": true,
+   "canal": "achadinhos",
+   "entrou": "2026-11-08T15:03:56.919405-03:00",
+   "dia": "2026-11-08"
+  },
+  {
+   "id": "shopee-58253650623",
+   "plataforma": "Shopee",
+   "nome": "Barra Proteína VO2 Whey Bar 12 Unidades - Integralmedica",
+   "loja": "Loja Integralmedica",
+   "loja_oficial": true,
+   "preco": 52.0,
+   "preco_antigo": 77.61,
+   "desconto": 33,
+   "vendas": 132,
+   "nota": 4.9,
+   "comissao_pct": 3.0,
+   "imagem": "https://cf.shopee.com.br/file/sg-11134201-82582-msmrpwnh39j67d",
+   "link": "https://s.shopee.com.br/70LXFoE9CV",
+   "quase": true,
+   "canal": "marcas",
+   "entrou": "2026-11-08T15:43:20.079794-03:00",
+   "dia": "2026-11-08"
+  },
+  {
+   "id": "shopee-23899333842",
+   "plataforma": "Shopee",
+   "nome": "Smartphone Motorola Moto G06 4G 256GB 4GB RAM Câmera Traseira 50MP + Câmera Frontal 8MP Tela de 6,9\" 5200 mAh -  Bege",
+   "loja": "MOBCOM STORE",
+   "loja_oficial": true,
+   "preco": 1079.0,
+   "preco_antigo": 1498.61,
+   "desconto": 28,
+   "vendas": 625,
+   "nota": 5.0,
+   "comissao_pct": 3.0,
+   "imagem": "https://cf.shopee.com.br/file/sg-11134201-8260n-mkjj2alrvkec32",
+   "link": "https://s.shopee.com.br/6L5qSlTqBl",
+   "quase": true,
+   "canal": "tech",
+   "entrou": "2026-11-08T13:29:59.688675-03:00",
+   "dia": "2026-11-08"
+  },
+  {
+   "id": "shopee-23702004611",
+   "plataforma": "Shopee",
+   "nome": "Secador Taiff Style Preto 2000W 220V",
+   "loja": "Lojas REDE",
+   "loja_oficial": true,
+   "preco": 229.9,
+   "preco_antigo": 403.33,
+   "desconto": 43,
+   "vendas": 135,
+   "nota": 4.9,
+   "comissao_pct": 3.0,
+   "imagem": "https://cf.shopee.com.br/file/sg-11134201-8258u-mutaoxew2l8hd8",
+   "link": "https://s.shopee.com.br/AUvPPy3I2G",
+   "quase": true,
+   "canal": "achadinhos",
+   "entrou": "2026-11-08T15:03:56.919405-03:00",
+   "dia": "2026-11-08"
+  },
+  {
+   "id": "shopee-58217263099",
+   "plataforma": "Shopee",
+   "nome": "Tênis Puma Court Classic Clean Masculino Original com Nota Fiscal e Garantia",
+   "loja": "B2 Online",
+   "loja_oficial": true,
+   "preco": 229.9,
+   "preco_antigo": 328.43,
+   "desconto": 30,
+   "vendas": 141,
+   "nota": 5.0,
+   "comissao_pct": 3.0,
+   "imagem": "https://cf.shopee.com.br/file/br-11134207-820m4-msjv99l4v7k5a8",
+   "link": "https://s.shopee.com.br/7pueFGLj0v",
+   "quase": true,
+   "canal": "marcas",
+   "entrou": "2026-11-08T15:43:20.079794-03:00",
+   "dia": "2026-11-08"
   }
  ],
  "ig_feitos": [
@@ -6899,11 +7025,12 @@
   "2026-11-08 14:25 post_achado",
   "2026-11-08 15:00 adivinha",
   "2026-11-08 15:03 story_oferta",
-  "2026-11-08 16:05 adivinha_resposta"
+  "2026-11-08 16:05 adivinha_resposta",
+  "2026-11-08 16:44 story_oferta",
+  "2026-11-08 feed",
+  "2026-11-08 16:55 post_achado"
  ],
  "ig_ofertas_usadas": [
-  "shopee-23094056729",
-  "shopee-22396095321",
   "nike-014592IE",
   "amz-B0FKV9146V",
   "amz-B0D98WR6YM",
@@ -7101,7 +7228,9 @@
   "amz-B0DPJDYDZS",
   "shopee-49064981274",
   "amz-B0BHMDJG7M",
-  "amz-B0B9V6YMM5"
+  "amz-B0B9V6YMM5",
+  "amz-B07VPFC6RN",
+  "shopee-21049729949"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
@@ -7168,24 +7297,6 @@
  "ultimo_pilar": "dica",
  "fila": [
   {
-   "id": "shopee-23899333842",
-   "plataforma": "Shopee",
-   "nome": "Smartphone Motorola Moto G06 4G 256GB 4GB RAM Câmera Traseira 50MP + Câmera Frontal 8MP Tela de 6,9\" 5200 mAh -  Bege",
-   "loja": "MOBCOM STORE",
-   "loja_oficial": true,
-   "preco": 1079.0,
-   "preco_antigo": 1498.61,
-   "desconto": 28,
-   "vendas": 625,
-   "nota": 5.0,
-   "comissao_pct": 3.0,
-   "imagem": "https://cf.shopee.com.br/file/sg-11134201-8260n-mkjj2alrvkec32",
-   "link": "https://s.shopee.com.br/6L5qSlTqBl",
-   "quase": true,
-   "canal": "tech",
-   "entrou": "2026-11-08T13:29:59.688675-03:00"
-  },
-  {
    "id": "shopee-40275577235",
    "plataforma": "Shopee",
    "nome": "Smart TV Samsung 32\" HD Tizen HDR Wi-Fi HDMI Bivolt Preta",
@@ -7202,60 +7313,6 @@
    "canal": "tech",
    "entrou": "2026-11-08T13:29:59.688675-03:00",
    "reprise_dias": 2
-  },
-  {
-   "id": "shopee-58203329255",
-   "plataforma": "Shopee",
-   "nome": "Eudora Instance Morango Irresistível Spray 200ml",
-   "loja": "Eudora_Oficial",
-   "loja_oficial": true,
-   "preco": 36.9,
-   "preco_antigo": 75.31,
-   "desconto": 51,
-   "vendas": 176,
-   "nota": 4.9,
-   "comissao_pct": 3.0,
-   "imagem": "https://cf.shopee.com.br/file/sg-11134201-825zo-mjihjj9iz30n30",
-   "link": "https://s.shopee.com.br/8KqvGeKt9h",
-   "quase": true,
-   "canal": "achadinhos",
-   "entrou": "2026-11-08T15:03:56.919405-03:00"
-  },
-  {
-   "id": "shopee-23204913091",
-   "plataforma": "Shopee",
-   "nome": "Câmera Inteligente Wi-Fi iM5 SC Full HD Branca Intelbras",
-   "loja": "Intelbras Oficial",
-   "loja_oficial": true,
-   "preco": 229.9,
-   "preco_antigo": 403.33,
-   "desconto": 43,
-   "vendas": 239,
-   "nota": 5.0,
-   "comissao_pct": 5.0,
-   "imagem": "https://cf.shopee.com.br/file/sg-11134201-81zut-miq4iyy1cmwy46",
-   "link": "https://s.shopee.com.br/5LDJGUdfmA",
-   "quase": true,
-   "canal": "achadinhos",
-   "entrou": "2026-11-08T15:03:56.919405-03:00"
-  },
-  {
-   "id": "shopee-23702004611",
-   "plataforma": "Shopee",
-   "nome": "Secador Taiff Style Preto 2000W 220V",
-   "loja": "Lojas REDE",
-   "loja_oficial": true,
-   "preco": 229.9,
-   "preco_antigo": 403.33,
-   "desconto": 43,
-   "vendas": 145,
-   "nota": 4.9,
-   "comissao_pct": 3.0,
-   "imagem": "https://cf.shopee.com.br/file/sg-11134201-8258u-mutaoxew2l8hd8",
-   "link": "https://s.shopee.com.br/AUvPPy3I2G",
-   "quase": true,
-   "canal": "achadinhos",
-   "entrou": "2026-11-08T15:03:56.919405-03:00"
   },
   {
    "id": "shopee-23298537624",
@@ -7346,42 +7403,6 @@
    "canal": "achadinhos",
    "entrou": "2026-11-08T15:03:56.919405-03:00",
    "reprise_dias": 2
-  },
-  {
-   "id": "shopee-58253650623",
-   "plataforma": "Shopee",
-   "nome": "Barra Proteína VO2 Whey Bar 12 Unidades - Integralmedica",
-   "loja": "Loja Integralmedica",
-   "loja_oficial": true,
-   "preco": 52.0,
-   "preco_antigo": 77.61,
-   "desconto": 33,
-   "vendas": 132,
-   "nota": 4.9,
-   "comissao_pct": 3.0,
-   "imagem": "https://cf.shopee.com.br/file/sg-11134201-82582-msmrpwnh39j67d",
-   "link": "https://s.shopee.com.br/70LXFoE9CV",
-   "quase": true,
-   "canal": "marcas",
-   "entrou": "2026-11-08T15:43:20.079794-03:00"
-  },
-  {
-   "id": "shopee-58217263099",
-   "plataforma": "Shopee",
-   "nome": "Tênis Puma Court Classic Clean Masculino Original com Nota Fiscal e Garantia",
-   "loja": "B2 Online",
-   "loja_oficial": true,
-   "preco": 229.9,
-   "preco_antigo": 328.43,
-   "desconto": 30,
-   "vendas": 141,
-   "nota": 5.0,
-   "comissao_pct": 3.0,
-   "imagem": "https://cf.shopee.com.br/file/br-11134207-820m4-msjv99l4v7k5a8",
-   "link": "https://s.shopee.com.br/7pueFGLj0v",
-   "quase": true,
-   "canal": "marcas",
-   "entrou": "2026-11-08T15:43:20.079794-03:00"
   },
   {
    "id": "shopee-22592962752",
@@ -7937,7 +7958,13 @@
   "barradeproteinaovomaltineproteincrispbar45gdisplay12unidadesintegralmedica": "2026-11-08T16:14:25.164707-03:00",
   "tplinkex1500roteadorwifi6ax1500dualband4portasgigabit": "2026-11-08T16:22:02.216589-03:00",
   "sanduicheiraegrill2em1redstone750wbgr16corpretocompratabritania": "2026-11-08T16:28:20.218160-03:00",
-  "teniscasualeros2confortavelunissexolympikus": "2026-11-08T16:34:35.146641-03:00"
+  "teniscasualeros2confortavelunissexolympikus": "2026-11-08T16:34:35.146641-03:00",
+  "eudorainstancemorangoirresistivelspray200ml": "2026-11-08T16:44:48.311865-03:00",
+  "camerainteligentewifiim5scfullhdbrancaintelbras": "2026-11-08T16:51:47.758717-03:00",
+  "barraproteinavo2wheybar12unidadesintegralmedica": "2026-11-08T16:58:59.376380-03:00",
+  "smartphonemotorolamotog064g256gb4gbramcameratraseira50mpcamerafrontal8mptelade695200mahbege": "2026-11-08T17:05:54.399381-03:00",
+  "secadortaiffstylepreto2000w220v": "2026-11-08T17:12:25.656352-03:00",
+  "tenispumacourtclassiccleanmasculinooriginalcomnotafiscalegarantia": "2026-11-08T17:19:31.620012-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
@@ -8209,7 +8236,7 @@
   "marcas": "2026-11-08T15:43:20.079794-03:00"
  },
  "top10_dia": "2026-11-07",
- "manuais_lidos": "2026-11-08T16:34:31.760364-03:00",
+ "manuais_lidos": "2026-11-08T17:19:31.352670-03:00",
  "reserva_resultado": {
   "2026-11-07": {
    "achadinhos": {
@@ -8247,7 +8274,7 @@
    "hora": "2026-11-08T12:05:00.233577-03:00"
   }
  },
- "ig_respondido_em": "2026-11-08T16:34:31.760364-03:00",
+ "ig_respondido_em": "2026-11-08T17:12:23.021662-03:00",
  "dm_auto": {
   "2026-11-08": {
    "com_palavra": 0,
