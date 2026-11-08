@@ -27,20 +27,6 @@
   "valida_ate": "2026-11-08T22:00:00-03:00"
  },
  {
-  "id": "amz-B07K1FVM4S",
-  "canal": "marcas",
-  "nome": "Perfume Versace Eros Flame EDP 100ml Masculino",
-  "preco_antigo": 803.46,
-  "preco": 557.93,
-  "desconto": 31,
-  "link": "https://www.amazon.com.br/dp/B07K1FVM4S?tag=papagarimpou-20",
-  "imagem": "https://m.media-amazon.com/images/I/71lvbztOYSL._AC_SL1500_.jpg",
-  "loja": "Vendido e entregue pela Amazon",
-  "plataforma": "Amazon",
-  "valida_ate": "2026-11-08T13:00:00-03:00",
-  "nao_antes": "2026-11-08T10:00:00-03:00"
- },
- {
   "id": "amz-B0DD4S8ZD1",
   "canal": "marcas",
   "nome": "Kit 6 Pares de Meias Esportivas Lupo Algodão",
@@ -82,20 +68,6 @@
   "gancho": "IPHONE 16E QUASE PELA METADE"
  },
  {
-  "id": "amz-B0DP6HXJNH",
-  "canal": "marcas",
-  "nome": "Perfume Armaf Island Bliss EDP 100ml Masculino",
-  "preco_antigo": 607.43,
-  "preco": 360.8,
-  "desconto": 41,
-  "link": "https://www.amazon.com.br/dp/B0DP6HXJNH?tag=papagarimpou-20",
-  "imagem": "https://m.media-amazon.com/images/I/51EHM9KxDVL._AC_SL1500_.jpg",
-  "loja": "Vendido e entregue pela Amazon",
-  "plataforma": "Amazon",
-  "valida_ate": "2026-11-08T13:00:00-03:00",
-  "nao_antes": "2026-11-08T10:00:00-03:00"
- },
- {
   "id": "amz-B07JZFBJ9P",
   "canal": "marcas",
   "nome": "Perfume Armani Stronger With You Intensely Masculino",
@@ -107,20 +79,6 @@
   "loja": "Vendido e entregue pela Amazon",
   "plataforma": "Amazon",
   "valida_ate": "2026-11-08T22:00:00-03:00"
- },
- {
-  "id": "amz-B0D5C1F58W",
-  "canal": "marcas",
-  "nome": "Perfume Armani Acqua di Giò Parfum Masculino",
-  "preco_antigo": 999.0,
-  "preco": 597.39,
-  "desconto": 40,
-  "link": "https://www.amazon.com.br/dp/B0D5C1F58W?tag=papagarimpou-20",
-  "imagem": "https://m.media-amazon.com/images/I/61isdoYoLfL._AC_SL1500_.jpg",
-  "loja": "Vendido e entregue pela Amazon",
-  "plataforma": "Amazon",
-  "valida_ate": "2026-11-08T13:00:00-03:00",
-  "nao_antes": "2026-11-08T10:00:00-03:00"
  },
  {
   "id": "amz-B07JQKQ91F",
@@ -162,21 +120,6 @@
   "valida_ate": "2026-11-08T22:00:00-03:00"
  },
  {
-  "id": "amz-B01JG5V0E4",
-  "canal": "marcas",
-  "nome": "Perfume Versace Dylan Blue Pour Homme EDT Masculino",
-  "preco_antigo": 743.13,
-  "preco": 512.92,
-  "desconto": 31,
-  "link": "https://www.amazon.com.br/dp/B01JG5V0E4?tag=papagarimpou-20",
-  "imagem": "https://m.media-amazon.com/images/I/61XyyWtqQwL._AC_SL1500_.jpg",
-  "loja": "Vendido e entregue pela Amazon",
-  "plataforma": "Amazon",
-  "valida_ate": "2026-11-08T13:00:00-03:00",
-  "nao_antes": "2026-11-08T10:00:00-03:00",
-  "gancho": "DOMINGO DO PERFUME: VERSACE NA FAIXA"
- },
- {
   "id": "amz-B0CCX8VRYN",
   "canal": "achadinhos",
   "nome": "Refil Oral-B iO para Escova Elétrica (2 unidades)",
@@ -201,20 +144,6 @@
   "loja": "Vendido e entregue pela Amazon",
   "plataforma": "Amazon",
   "valida_ate": "2026-11-08T22:00:00-03:00"
- },
- {
-  "id": "amz-B0GKR1ZX8Y",
-  "canal": "marcas",
-  "nome": "Perfume Lacoste Original Femme EDP 40ml",
-  "preco_antigo": 319.1,
-  "preco": 199.0,
-  "desconto": 38,
-  "link": "https://www.amazon.com.br/dp/B0GKR1ZX8Y?tag=papagarimpou-20",
-  "imagem": "https://m.media-amazon.com/images/I/51ImdReTMkL._AC_SL1500_.jpg",
-  "loja": "Vendido e entregue pela Amazon",
-  "plataforma": "Amazon",
-  "valida_ate": "2026-11-08T13:00:00-03:00",
-  "nao_antes": "2026-11-08T10:00:00-03:00"
  },
  {
   "id": "amz-B0DPJDYDZS",
@@ -258,34 +187,6 @@
   "valida_ate": "2026-11-08T22:00:00-03:00",
   "extra": "Preço a partir de: varia por tamanho e cor",
   "gancho": "INSIDER COM PREÇO DE CAMISETA COMUM"
- },
- {
-  "id": "amz-B0CQ3V2KK9",
-  "canal": "marcas",
-  "nome": "Perfume Ralph Lauren Polo 67 EDT Masculino",
-  "preco_antigo": 809.0,
-  "preco": 429.75,
-  "desconto": 47,
-  "link": "https://www.amazon.com.br/dp/B0CQ3V2KK9?tag=papagarimpou-20",
-  "imagem": "https://m.media-amazon.com/images/I/51CQcWgPmlL._AC_SL1500_.jpg",
-  "loja": "Vendido e entregue pela Amazon",
-  "plataforma": "Amazon",
-  "valida_ate": "2026-11-08T13:00:00-03:00",
-  "nao_antes": "2026-11-08T10:00:00-03:00"
- },
- {
-  "id": "amz-B0F1GHWGD9",
-  "canal": "marcas",
-  "nome": "Perfume Montblanc Explorer Extreme Parfum 60ml",
-  "preco_antigo": 824.28,
-  "preco": 437.67,
-  "desconto": 47,
-  "link": "https://www.amazon.com.br/dp/B0F1GHWGD9?tag=papagarimpou-20",
-  "imagem": "https://m.media-amazon.com/images/I/71QE9qHaMWL._AC_SL1500_.jpg",
-  "loja": "Vendido e entregue pela Amazon",
-  "plataforma": "Amazon",
-  "valida_ate": "2026-11-08T13:00:00-03:00",
-  "nao_antes": "2026-11-08T10:00:00-03:00"
  },
  {
   "id": "amz-B0CPT5XTTC",
@@ -353,20 +254,6 @@
   "plataforma": "Amazon",
   "valida_ate": "2026-11-08T22:00:00-03:00",
   "extra": "Versão 127V"
- },
- {
-  "id": "amz-B00I7PK3GQ",
-  "canal": "marcas",
-  "nome": "Perfume Lancôme La Vie Est Belle EDP Feminino",
-  "preco_antigo": 1099.0,
-  "preco": 598.49,
-  "desconto": 46,
-  "link": "https://www.amazon.com.br/dp/B00I7PK3GQ?tag=papagarimpou-20",
-  "imagem": "https://m.media-amazon.com/images/I/61KS24LVgXL._AC_SL1500_.jpg",
-  "loja": "Vendido e entregue pela Amazon",
-  "plataforma": "Amazon",
-  "valida_ate": "2026-11-08T13:00:00-03:00",
-  "nao_antes": "2026-11-08T10:00:00-03:00"
  },
  {
   "id": "amz-B0BNPBPS3K",
@@ -563,6 +450,32 @@
   "desconto": 31,
   "link": "https://www.amazon.com.br/dp/B07VPFC6RN?tag=papagarimpou-20",
   "imagem": "https://m.media-amazon.com/images/I/61EW-1ytQ+L._AC_SL1500_.jpg",
+  "loja": "Vendido e entregue pela Amazon",
+  "plataforma": "Amazon",
+  "valida_ate": "2026-11-09T22:00:00-03:00"
+ },
+ {
+  "id": "amz-B09VN2FCDF",
+  "canal": "marcas",
+  "nome": "Perfume Azzaro The Most Wanted Parfum",
+  "preco_antigo": 729.0,
+  "preco": 408.49,
+  "desconto": 44,
+  "link": "https://www.amazon.com.br/dp/B09VN2FCDF?tag=papagarimpou-20",
+  "imagem": "https://m.media-amazon.com/images/I/61nkCltKCaL._AC_SL1500_.jpg",
+  "loja": "Vendido e entregue pela Amazon",
+  "plataforma": "Amazon",
+  "valida_ate": "2026-11-09T22:00:00-03:00"
+ },
+ {
+  "id": "amz-B0DMTSC4GV",
+  "canal": "marcas",
+  "nome": "Garrafa Stanley Aerolight Flip Straw 710ml",
+  "preco_antigo": 325.0,
+  "preco": 150.75,
+  "desconto": 54,
+  "link": "https://www.amazon.com.br/dp/B0DMTSC4GV?tag=papagarimpou-20",
+  "imagem": "https://m.media-amazon.com/images/I/61LHaBKfV7L._AC_SL1500_.jpg",
   "loja": "Vendido e entregue pela Amazon",
   "plataforma": "Amazon",
   "valida_ate": "2026-11-09T22:00:00-03:00"
