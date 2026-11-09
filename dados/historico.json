@@ -733,7 +733,15 @@
   "2026-11-08 tech 21:34 amz-B0D9P282P2",
   "2026-11-08 achadinhos 21:42 amz-B08YLQNL4W",
   "2026-11-08 marcas 21:49 amz-B0GZX265S5",
-  "2026-11-08 achadinhos 21:59 amz-B0B46TH84S"
+  "2026-11-08 achadinhos 21:59 amz-B0B46TH84S",
+  "2026-11-09 achadinhos 08:17 shopee-22593528984",
+  "2026-11-09 achadinhos 08:24 amz-B0CNS3HRM3",
+  "2026-11-09 achadinhos 08:26 amz-B0B4PG4XP7",
+  "2026-11-09 marcas 08:34 amz-B0F5ZGSCQ5",
+  "2026-11-09 tech 08:42 amz-B0FK1JG2TT",
+  "2026-11-09 achadinhos 08:50 amz-B076H4BZ7L",
+  "2026-11-09 marcas 08:56 amz-B0FFD3W272",
+  "2026-11-09 tech 09:03 amz-B0H6VBFKNS"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -1444,7 +1452,15 @@
   "amz-B0D9P282P2": "2026-11-08T21:34:36.618301-03:00",
   "amz-B08YLQNL4W": "2026-11-08T21:42:24.458979-03:00",
   "amz-B0GZX265S5": "2026-11-08T21:49:46.896219-03:00",
-  "amz-B0B46TH84S": "2026-11-08T21:59:37.526698-03:00"
+  "amz-B0B46TH84S": "2026-11-08T21:59:37.526698-03:00",
+  "shopee-22593528984": "2026-11-09T08:17:39.845562-03:00",
+  "amz-B0CNS3HRM3": "2026-11-09T08:24:13.237400-03:00",
+  "amz-B0B4PG4XP7": "2026-11-09T08:26:43.120112-03:00",
+  "amz-B0F5ZGSCQ5": "2026-11-09T08:34:37.994198-03:00",
+  "amz-B0FK1JG2TT": "2026-11-09T08:42:30.634605-03:00",
+  "amz-B076H4BZ7L": "2026-11-09T08:50:30.821058-03:00",
+  "amz-B0FFD3W272": "2026-11-09T08:56:54.981619-03:00",
+  "amz-B0H6VBFKNS": "2026-11-09T09:03:35.342968-03:00"
  },
  "ofertas_dia": [
   {
@@ -7248,6 +7264,130 @@
    "gancho": "REVITALIFT COM 65% OFF",
    "entrou": "2026-11-08T20:00:40.706807-03:00",
    "dia": "2026-11-08"
+  },
+  {
+   "id": "shopee-22593528984",
+   "plataforma": "Shopee",
+   "nome": "Jogo de Panelas Tramontina Turim Antiaderente Vermelha 10 Peças",
+   "loja": "Efácil Oficial",
+   "loja_oficial": true,
+   "preco": 375.9,
+   "preco_antigo": 544.78,
+   "desconto": 31,
+   "vendas": 267,
+   "nota": 4.9,
+   "comissao_pct": 3.0,
+   "imagem": "https://cf.shopee.com.br/file/sg-11134201-824j9-mpib3puiv40c23",
+   "link": "https://s.shopee.com.br/9pficj65vS",
+   "canal": "achadinhos",
+   "entrou": "2026-11-09T03:55:49.470226-03:00",
+   "dia": "2026-11-09"
+  },
+  {
+   "id": "amz-B0CNS3HRM3",
+   "canal": "achadinhos",
+   "nome": "Lavadora de Alta Pressão Vonder LAV 1300",
+   "preco_antigo": 609.98,
+   "preco": 273.0,
+   "desconto": 55,
+   "link": "https://www.amazon.com.br/dp/B0CNS3HRM3?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71fwage-+zL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-09T22:00:00-03:00",
+   "entrou": "2026-11-09T08:17:39.840089-03:00",
+   "dia": "2026-11-09"
+  },
+  {
+   "id": "amz-B0B4PG4XP7",
+   "canal": "achadinhos",
+   "nome": "Chapinha Taiff Red Ion Bivolt",
+   "preco_antigo": 238.4,
+   "preco": 118.67,
+   "desconto": 50,
+   "link": "https://www.amazon.com.br/dp/B0B4PG4XP7?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/416YMvXdpNL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-09T22:00:00-03:00",
+   "entrou": "2026-11-09T08:17:39.840089-03:00",
+   "dia": "2026-11-09"
+  },
+  {
+   "id": "amz-B0F5ZGSCQ5",
+   "canal": "marcas",
+   "nome": "Copo Térmico Stanley 3 em 1 com Tampa e Canudo",
+   "preco_antigo": 219.0,
+   "preco": 98.55,
+   "desconto": 55,
+   "link": "https://www.amazon.com.br/dp/B0F5ZGSCQ5?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/41xI1zRe-wL._AC_SL1100_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-09T22:00:00-03:00",
+   "gancho": "STANLEY ABAIXO DE 100 REAIS",
+   "entrou": "2026-11-09T08:17:39.840089-03:00",
+   "dia": "2026-11-09"
+  },
+  {
+   "id": "amz-B0FK1JG2TT",
+   "canal": "tech",
+   "nome": "Caixa de Som Bluetooth Philips Party Speaker",
+   "preco_antigo": 1099.0,
+   "preco": 670.41,
+   "desconto": 39,
+   "link": "https://www.amazon.com.br/dp/B0FK1JG2TT?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61Yy6DQNrdL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-09T22:00:00-03:00",
+   "entrou": "2026-11-09T08:17:39.840089-03:00",
+   "dia": "2026-11-09"
+  },
+  {
+   "id": "amz-B076H4BZ7L",
+   "canal": "achadinhos",
+   "nome": "Aspirador de Água e Pó Electrolux com função sopro",
+   "preco_antigo": 369.9,
+   "preco": 241.53,
+   "desconto": 35,
+   "link": "https://www.amazon.com.br/dp/B076H4BZ7L?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61aSQDAP95L._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-09T22:00:00-03:00",
+   "entrou": "2026-11-09T08:17:39.840089-03:00",
+   "dia": "2026-11-09"
+  },
+  {
+   "id": "amz-B0FFD3W272",
+   "canal": "marcas",
+   "nome": "Copo Stanley Quencher ProTour Flip Straw",
+   "preco_antigo": 359.0,
+   "preco": 215.4,
+   "desconto": 40,
+   "link": "https://www.amazon.com.br/dp/B0FFD3W272?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/516BJXpMsOL._AC_SL1200_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-09T22:00:00-03:00",
+   "entrou": "2026-11-09T08:17:39.840089-03:00",
+   "dia": "2026-11-09"
+  },
+  {
+   "id": "amz-B0H6VBFKNS",
+   "canal": "tech",
+   "nome": "Smart TV Philips QLED 43\" Full HD",
+   "preco_antigo": 2149.0,
+   "preco": 1405.05,
+   "desconto": 35,
+   "link": "https://www.amazon.com.br/dp/B0H6VBFKNS?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71ic5FxLY+L._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-09T22:00:00-03:00",
+   "entrou": "2026-11-09T08:17:39.840089-03:00",
+   "dia": "2026-11-09"
   }
  ],
  "ig_feitos": [
@@ -7380,7 +7520,10 @@
   "2026-11-08 21:20 story_convite",
   "2026-11-08 21:24 story_oferta",
   "2026-11-08 21:30 reels",
-  "parceria jess-20261108"
+  "parceria jess-20261108",
+  "2026-11-09 08:07 story_oferta",
+  "2026-11-09 08:45 story_oferta",
+  "2026-11-09 08:52 story_oferta"
  ],
  "ig_ofertas_usadas": [
   "amz-B0DDZ4QF35",
@@ -7582,7 +7725,10 @@
   "amz-B0DP6HXJNH",
   "shopee-40275577235",
   "shopee-16185215321",
-  "shopee-23494777148"
+  "shopee-23494777148",
+  "shopee-22593528984",
+  "amz-B0CNS3HRM3",
+  "amz-B0B4PG4XP7"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
@@ -7649,99 +7795,6 @@
  "ultimo_pilar": "dica",
  "fila": [
   {
-   "id": "shopee-22593528984",
-   "plataforma": "Shopee",
-   "nome": "Jogo de Panelas Tramontina Turim Antiaderente Vermelha 10 Peças",
-   "loja": "Efácil Oficial",
-   "loja_oficial": true,
-   "preco": 375.9,
-   "preco_antigo": 544.78,
-   "desconto": 31,
-   "vendas": 267,
-   "nota": 4.9,
-   "comissao_pct": 3.0,
-   "imagem": "https://cf.shopee.com.br/file/sg-11134201-824j9-mpib3puiv40c23",
-   "link": "https://s.shopee.com.br/9pficj65vS",
-   "canal": "achadinhos",
-   "entrou": "2026-11-09T03:55:49.470226-03:00"
-  },
-  {
-   "id": "shopee-15346286898",
-   "plataforma": "Shopee",
-   "nome": "Kit 6 Pares Meias Lupo Cano Médio Alto Longo Algodão Original Casual Confortável Atoalhada Macia",
-   "loja": "Osure",
-   "loja_oficial": true,
-   "preco": 56.99,
-   "preco_antigo": 91.92,
-   "desconto": 38,
-   "vendas": 334,
-   "nota": 4.9,
-   "comissao_pct": 14.0,
-   "imagem": "https://cf.shopee.com.br/file/br-11134207-820m1-mqi3audn9lhd14",
-   "link": "https://s.shopee.com.br/2Vt7tVIPDT",
-   "canal": "marcas",
-   "entrou": "2026-11-09T03:55:49.470226-03:00"
-  },
-  {
-   "id": "shopee-22497648129",
-   "plataforma": "Shopee",
-   "nome": "Top Fitness Feminino Lupo Top Power Poliamida Sem Costura Alta Sustentação Sem Bojo Academia Diário",
-   "loja": "Osure",
-   "loja_oficial": true,
-   "preco": 39.99,
-   "preco_antigo": 70.16,
-   "desconto": 43,
-   "vendas": 1237,
-   "nota": 4.9,
-   "comissao_pct": 11.0,
-   "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m9of7btjnyux0c",
-   "link": "https://s.shopee.com.br/2LZhhC1r0X",
-   "canal": "marcas",
-   "entrou": "2026-11-09T03:55:49.470226-03:00"
-  },
-  {
-   "id": "amz-B0CNS3HRM3",
-   "canal": "achadinhos",
-   "nome": "Lavadora de Alta Pressão Vonder LAV 1300",
-   "preco_antigo": 609.98,
-   "preco": 273.0,
-   "desconto": 55,
-   "link": "https://www.amazon.com.br/dp/B0CNS3HRM3?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/71fwage-+zL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-09T22:00:00-03:00",
-   "entrou": "2026-11-09T04:07:45.275574-03:00"
-  },
-  {
-   "id": "amz-B0B4PG4XP7",
-   "canal": "achadinhos",
-   "nome": "Chapinha Taiff Red Ion Bivolt",
-   "preco_antigo": 238.4,
-   "preco": 118.67,
-   "desconto": 50,
-   "link": "https://www.amazon.com.br/dp/B0B4PG4XP7?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/416YMvXdpNL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-09T22:00:00-03:00",
-   "entrou": "2026-11-09T04:07:45.275574-03:00"
-  },
-  {
-   "id": "amz-B076H4BZ7L",
-   "canal": "achadinhos",
-   "nome": "Aspirador de Água e Pó Electrolux com função sopro",
-   "preco_antigo": 369.9,
-   "preco": 241.53,
-   "desconto": 35,
-   "link": "https://www.amazon.com.br/dp/B076H4BZ7L?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61aSQDAP95L._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-09T22:00:00-03:00",
-   "entrou": "2026-11-09T04:07:45.275574-03:00"
-  },
-  {
    "id": "amz-B0BMW92ZBT",
    "canal": "achadinhos",
    "nome": "Cafeteira Nescafé Dolce Gusto Genio S Plus Arno",
@@ -7753,7 +7806,7 @@
    "loja": "Vendido e entregue pela Amazon",
    "plataforma": "Amazon",
    "valida_ate": "2026-11-09T22:00:00-03:00",
-   "entrou": "2026-11-09T04:07:45.275574-03:00"
+   "entrou": "2026-11-09T08:17:39.840089-03:00"
   },
   {
    "id": "amz-B0FVYBPXBF",
@@ -7767,7 +7820,7 @@
    "loja": "Vendido e entregue pela Amazon",
    "plataforma": "Amazon",
    "valida_ate": "2026-11-09T22:00:00-03:00",
-   "entrou": "2026-11-09T04:07:45.275574-03:00"
+   "entrou": "2026-11-09T08:17:39.840089-03:00"
   },
   {
    "id": "amz-B07DP2S4PC",
@@ -7781,7 +7834,7 @@
    "loja": "Vendido e entregue pela Amazon",
    "plataforma": "Amazon",
    "valida_ate": "2026-11-09T22:00:00-03:00",
-   "entrou": "2026-11-09T04:07:45.275574-03:00"
+   "entrou": "2026-11-09T08:17:39.840089-03:00"
   },
   {
    "id": "amz-B0D8RLRMPM",
@@ -7795,7 +7848,7 @@
    "loja": "Vendido e entregue pela Amazon",
    "plataforma": "Amazon",
    "valida_ate": "2026-11-09T22:00:00-03:00",
-   "entrou": "2026-11-09T04:07:45.275574-03:00"
+   "entrou": "2026-11-09T08:17:39.840089-03:00"
   },
   {
    "id": "amz-B0C9TZPX5J",
@@ -7809,36 +7862,7 @@
    "loja": "Vendido e entregue pela Amazon",
    "plataforma": "Amazon",
    "valida_ate": "2026-11-09T22:00:00-03:00",
-   "entrou": "2026-11-09T04:07:45.275574-03:00"
-  },
-  {
-   "id": "amz-B0F5ZGSCQ5",
-   "canal": "marcas",
-   "nome": "Copo Térmico Stanley 3 em 1 com Tampa e Canudo",
-   "preco_antigo": 219.0,
-   "preco": 98.55,
-   "desconto": 55,
-   "link": "https://www.amazon.com.br/dp/B0F5ZGSCQ5?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/41xI1zRe-wL._AC_SL1100_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-09T22:00:00-03:00",
-   "gancho": "STANLEY ABAIXO DE 100 REAIS",
-   "entrou": "2026-11-09T04:07:45.275574-03:00"
-  },
-  {
-   "id": "amz-B0FFD3W272",
-   "canal": "marcas",
-   "nome": "Copo Stanley Quencher ProTour Flip Straw",
-   "preco_antigo": 359.0,
-   "preco": 215.4,
-   "desconto": 40,
-   "link": "https://www.amazon.com.br/dp/B0FFD3W272?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/516BJXpMsOL._AC_SL1200_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-09T22:00:00-03:00",
-   "entrou": "2026-11-09T04:07:45.275574-03:00"
+   "entrou": "2026-11-09T08:17:39.840089-03:00"
   },
   {
    "id": "amz-B07MPZLM1N",
@@ -7852,7 +7876,7 @@
    "loja": "Vendido e entregue pela Amazon",
    "plataforma": "Amazon",
    "valida_ate": "2026-11-09T22:00:00-03:00",
-   "entrou": "2026-11-09T04:07:45.275574-03:00"
+   "entrou": "2026-11-09T08:17:39.840089-03:00"
   },
   {
    "id": "amz-B008SBKTLI",
@@ -7867,7 +7891,7 @@
    "plataforma": "Amazon",
    "valida_ate": "2026-11-09T22:00:00-03:00",
    "gancho": "LA VIE EST BELLE QUASE PELA METADE",
-   "entrou": "2026-11-09T04:07:45.275574-03:00"
+   "entrou": "2026-11-09T08:17:39.840089-03:00"
   },
   {
    "id": "amz-B0D2RJN5Q3",
@@ -7882,7 +7906,7 @@
    "plataforma": "Amazon",
    "valida_ate": "2026-11-09T22:00:00-03:00",
    "extra": "Preço a partir de: varia por tamanho e cor",
-   "entrou": "2026-11-09T04:07:45.275574-03:00"
+   "entrou": "2026-11-09T08:17:39.840089-03:00"
   },
   {
    "id": "amz-B0CZLZKGVL",
@@ -7896,35 +7920,7 @@
    "loja": "Vendido e entregue pela Amazon",
    "plataforma": "Amazon",
    "valida_ate": "2026-11-09T22:00:00-03:00",
-   "entrou": "2026-11-09T04:07:45.275574-03:00"
-  },
-  {
-   "id": "amz-B0FK1JG2TT",
-   "canal": "tech",
-   "nome": "Caixa de Som Bluetooth Philips Party Speaker",
-   "preco_antigo": 1099.0,
-   "preco": 670.41,
-   "desconto": 39,
-   "link": "https://www.amazon.com.br/dp/B0FK1JG2TT?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61Yy6DQNrdL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-09T22:00:00-03:00",
-   "entrou": "2026-11-09T04:07:45.275574-03:00"
-  },
-  {
-   "id": "amz-B0H6VBFKNS",
-   "canal": "tech",
-   "nome": "Smart TV Philips QLED 43\" Full HD",
-   "preco_antigo": 2149.0,
-   "preco": 1405.05,
-   "desconto": 35,
-   "link": "https://www.amazon.com.br/dp/B0H6VBFKNS?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/71ic5FxLY+L._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-09T22:00:00-03:00",
-   "entrou": "2026-11-09T04:07:45.275574-03:00"
+   "entrou": "2026-11-09T08:17:39.840089-03:00"
   },
   {
    "id": "amz-B0DTJKLBBQ",
@@ -7938,7 +7934,7 @@
    "loja": "Vendido e entregue pela Amazon",
    "plataforma": "Amazon",
    "valida_ate": "2026-11-09T22:00:00-03:00",
-   "entrou": "2026-11-09T04:07:45.275574-03:00"
+   "entrou": "2026-11-09T08:17:39.840089-03:00"
   },
   {
    "id": "amz-B0D45QCBF7",
@@ -7952,7 +7948,41 @@
    "loja": "Vendido e entregue pela Amazon",
    "plataforma": "Amazon",
    "valida_ate": "2026-11-09T22:00:00-03:00",
-   "entrou": "2026-11-09T04:07:45.275574-03:00"
+   "entrou": "2026-11-09T08:17:39.840089-03:00"
+  },
+  {
+   "id": "shopee-21316811936",
+   "plataforma": "Shopee",
+   "nome": "Kit De 4 Cuecas Originais Lupo Basic Boxer Box Microfibra Sem Costura",
+   "loja": "Deccó",
+   "loja_oficial": true,
+   "preco": 101.78,
+   "preco_antigo": 181.75,
+   "desconto": 44,
+   "vendas": 776,
+   "nota": 4.9,
+   "comissao_pct": 7.0,
+   "imagem": "https://cf.shopee.com.br/file/br-11134207-820li-mukqo93lk3k3af",
+   "link": "https://s.shopee.com.br/1BNkIwHzTs",
+   "canal": "marcas",
+   "entrou": "2026-11-09T08:17:39.840089-03:00"
+  },
+  {
+   "id": "shopee-29083433141",
+   "plataforma": "Shopee",
+   "nome": "Kit 4 Cuecas Boxer Lupo Microfibra Poliamida Sem Costura Confortável Cueca Masculina Pacote Original",
+   "loja": "Osure",
+   "loja_oficial": true,
+   "preco": 109.99,
+   "preco_antigo": 186.42,
+   "desconto": 41,
+   "vendas": 1068,
+   "nota": 4.9,
+   "comissao_pct": 7.0,
+   "imagem": "https://cf.shopee.com.br/file/br-11134207-820m5-mt83mi11quwyf7",
+   "link": "https://s.shopee.com.br/1LhAVFHM8t",
+   "canal": "marcas",
+   "entrou": "2026-11-09T08:17:39.840089-03:00"
   }
  ],
  "menus_fixados": [
@@ -8518,7 +8548,15 @@
   "headsetgamerjblquantum100ncomfio": "2026-11-08T21:34:36.618301-03:00",
   "serumfacialnivealuminous630": "2026-11-08T21:42:24.458979-03:00",
   "wheyproteinintegralmedicanutriwhey": "2026-11-08T21:49:46.896219-03:00",
-  "serumnoturnolorealrevitalift": "2026-11-08T21:59:37.526698-03:00"
+  "serumnoturnolorealrevitalift": "2026-11-08T21:59:37.526698-03:00",
+  "jogodepanelastramontinaturimantiaderentevermelha10pecas": "2026-11-09T08:17:39.845562-03:00",
+  "lavadoradealtapressaovonderlav1300": "2026-11-09T08:24:13.237400-03:00",
+  "chapinhataiffredionbivolt": "2026-11-09T08:26:43.120112-03:00",
+  "copotermicostanley3em1comtampaecanudo": "2026-11-09T08:34:37.994198-03:00",
+  "caixadesombluetoothphilipspartyspeaker": "2026-11-09T08:42:30.634605-03:00",
+  "aspiradordeaguaepoelectroluxcomfuncaosopro": "2026-11-09T08:50:30.821058-03:00",
+  "copostanleyquencherprotourflipstraw": "2026-11-09T08:56:54.981619-03:00",
+  "smarttvphilipsqled43fullhd": "2026-11-09T09:03:35.342968-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
@@ -8806,7 +8844,7 @@
   "marcas": "2026-11-08T18:44:22.674425-03:00"
  },
  "top10_dia": "2026-11-07",
- "manuais_lidos": "2026-11-09T04:07:45.275574-03:00",
+ "manuais_lidos": "2026-11-09T08:56:39.702216-03:00",
  "reserva_resultado": {
   "2026-11-07": {
    "achadinhos": {
@@ -8863,7 +8901,7 @@
    "hora": "2026-11-08T21:33:47.773417-03:00"
   }
  },
- "ig_respondido_em": "2026-11-09T04:07:45.275574-03:00",
+ "ig_respondido_em": "2026-11-09T08:56:39.702216-03:00",
  "dm_auto": {
   "2026-11-08": {
    "com_palavra": 0,
