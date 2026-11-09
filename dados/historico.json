@@ -8793,7 +8793,7 @@
   "marcas": "2026-11-08T18:44:22.674425-03:00"
  },
  "top10_dia": "2026-11-07",
- "manuais_lidos": "2026-11-08T22:58:04.414227-03:00",
+ "manuais_lidos": "2026-11-08T23:44:41.522151-03:00",
  "reserva_resultado": {
   "2026-11-07": {
    "achadinhos": {
@@ -8843,7 +8843,7 @@
    "hora": "2026-11-08T21:33:47.773417-03:00"
   }
  },
- "ig_respondido_em": "2026-11-08T22:58:04.414227-03:00",
+ "ig_respondido_em": "2026-11-08T23:44:41.522151-03:00",
  "dm_auto": {
   "2026-11-08": {
    "com_palavra": 0,
@@ -8868,5 +8868,14 @@
  "fb_sem_permissao": {
   "token": "5591a4259fe9",
   "desde": "08/11 13:21"
+ },
+ "canais_info": {
+  "versao": "2026-11-08",
+  "resultado": {
+   "@papagarimpou": "setChatTitle: Bad Request: not enough rights to change chat title",
+   "@papagarimpoumarcas": "setChatTitle: Bad Request: not enough rights to change chat title",
+   "@papagarimpoutech": "ok",
+   "@papagarimpouofertas": "setChatTitle: Bad Request: not enough rights to change chat title"
+  }
  }
 }
