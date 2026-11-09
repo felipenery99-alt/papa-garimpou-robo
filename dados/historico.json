@@ -788,7 +788,9 @@
   "2026-11-09 marcas 16:17 amz-B0GW9M4TXB",
   "2026-11-09 achadinhos 16:25 amz-B0F8Y8N2ST",
   "2026-11-09 marcas 17:08 shopee-23094785146",
-  "2026-11-09 achadinhos 17:37 shopee-20111903242"
+  "2026-11-09 achadinhos 17:37 shopee-20111903242",
+  "2026-11-09 marcas 17:58 shopee-22697099204",
+  "2026-11-09 achadinhos 18:26 shopee-23593120156"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -1367,7 +1369,7 @@
   "amz-B0FH7LY3R4": "2026-11-06T11:48:58.433122-03:00",
   "shopee-58201181466": "2026-11-06T11:57:13.169279-03:00",
   "amz-B0CJW5Q9P2": "2026-11-06T12:03:23.217973-03:00",
-  "shopee-23593120156": "2026-11-06T12:15:17.145966-03:00",
+  "shopee-23593120156": "2026-11-09T18:26:20.160518-03:00",
   "shopee-23995913697": "2026-11-06T12:21:25.928234-03:00",
   "amz-B003DQPBXE": "2026-11-06T12:29:17.646740-03:00",
   "amz-B0G15924MD": "2026-11-06T12:36:04.600819-03:00",
@@ -1546,7 +1548,8 @@
   "shopee-23792931493": "2026-11-09T16:09:42.508897-03:00",
   "amz-B0GW9M4TXB": "2026-11-09T16:17:20.767941-03:00",
   "amz-B0F8Y8N2ST": "2026-11-09T16:25:14.206250-03:00",
-  "shopee-23094785146": "2026-11-09T17:08:13.173005-03:00"
+  "shopee-23094785146": "2026-11-09T17:08:13.173005-03:00",
+  "shopee-22697099204": "2026-11-09T17:58:16.158926-03:00"
  },
  "ofertas_dia": [
   {
@@ -8143,6 +8146,44 @@
    "entrou": "2026-11-09T17:35:56.883071-03:00",
    "reprise_dias": 2,
    "dia": "2026-11-09"
+  },
+  {
+   "id": "shopee-22697099204",
+   "plataforma": "Shopee",
+   "nome": "Kit Com 5 Camisetas Masculinas Básicas Slim Hering",
+   "loja": "Hering_Oficial",
+   "loja_oficial": true,
+   "preco": 149.99,
+   "preco_antigo": 249.98,
+   "desconto": 40,
+   "vendas": 155,
+   "nota": 4.9,
+   "comissao_pct": 3.0,
+   "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-ma08oe6ticzd8a",
+   "link": "https://s.shopee.com.br/6q273MR4x9",
+   "quase": true,
+   "canal": "marcas",
+   "entrou": "2026-11-09T17:54:45.499184-03:00",
+   "dia": "2026-11-09"
+  },
+  {
+   "id": "shopee-23593120156",
+   "plataforma": "Shopee",
+   "nome": "Panela Elétrica Mondial NPE-08-5X Fast Rice 5 Xícaras 400W",
+   "loja": "LOI BRASIL",
+   "loja_oficial": true,
+   "preco": 177.99,
+   "preco_antigo": 257.96,
+   "desconto": 31,
+   "vendas": 335,
+   "nota": 4.9,
+   "comissao_pct": 6.0,
+   "imagem": "https://cf.shopee.com.br/file/br-11134207-820li-mv4kjoqz8kche3",
+   "link": "https://s.shopee.com.br/3g55HWUOWm",
+   "canal": "achadinhos",
+   "entrou": "2026-11-09T18:25:34.231842-03:00",
+   "reprise_dias": 2,
+   "dia": "2026-11-09"
   }
  ],
  "ig_feitos": [
@@ -8296,13 +8337,13 @@
   "2026-11-09 15:00 adivinha",
   "2026-11-09 15:03 story_oferta",
   "2026-11-09 16:05 adivinha_resposta",
-  "2026-11-09 16:44 story_oferta"
+  "2026-11-09 16:44 story_oferta",
+  "story especial pede-pro-papa 2026-11-09",
+  "2026-11-09 17:36 story_oferta",
+  "2026-11-09 18:05 a_ou_b",
+  "2026-11-09 18:09 story_oferta"
  ],
  "ig_ofertas_usadas": [
-  "amz-B0DMV2VL35",
-  "amz-B0FKVWSM3N",
-  "amz-B09GL5MXNV",
-  "shopee-22497648129",
   "amz-B0GNDQ1SBY",
   "amz-B08LPJ1FTK",
   "amz-B0B72QZXCC",
@@ -8498,7 +8539,11 @@
   "amz-B0FVYBPXBF",
   "shopee-9511754133",
   "shopee-22997647570",
-  "shopee-22897053962"
+  "shopee-22897053962",
+  "shopee-42130479011",
+  "shopee-19997803637",
+  "shopee-23999162333",
+  "shopee-19161663337"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
@@ -8995,7 +9040,7 @@
   "rokustreamingstickhd2025": "2026-11-06T11:48:58.433122-03:00",
   "airfryerforno25lfrenchdoormondialpretoinox2000wafdo25lfd": "2026-11-06T11:57:13.169279-03:00",
   "shortsdetreinomasculinounderarmourtech7in": "2026-11-06T12:03:23.217973-03:00",
-  "panelaeletricamondialnpe085xfastrice5xicaras400w": "2026-11-06T12:15:17.145966-03:00",
+  "panelaeletricamondialnpe085xfastrice5xicaras400w": "2026-11-09T18:26:20.160518-03:00",
   "protetorsolarniveafacialantissinaisfps70toqueseco40ml": "2026-11-06T12:21:25.928234-03:00",
   "oculosdesoloakleyholbrookoo9102lmasculino": "2026-11-06T12:29:17.646740-03:00",
   "jogometroidprime4beyondnintendoswitch2": "2026-11-06T12:36:04.600819-03:00",
@@ -9174,7 +9219,8 @@
   "baseuscaboturbotipocptipoccafule60w20v3a2mquickcharge30iphone15eandroid": "2026-11-09T16:09:42.508897-03:00",
   "tenisfilarecoverymasculino": "2026-11-09T16:17:20.767941-03:00",
   "ventiladordemesaarnoxtreme740cm": "2026-11-09T16:25:14.206250-03:00",
-  "barradeproteinawheycrispbar12unintegralmedicaproteinadequalidadebaixacaloriaemuitosabor": "2026-11-09T17:08:13.173005-03:00"
+  "barradeproteinawheycrispbar12unintegralmedicaproteinadequalidadebaixacaloriaemuitosabor": "2026-11-09T17:08:13.173005-03:00",
+  "kitcom5camisetasmasculinasbasicasslimhering": "2026-11-09T17:58:16.158926-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
@@ -9431,7 +9477,7 @@
   }
  },
  "ig_dm_links": {},
- "story_link_dia": "2026-11-08",
+ "story_link_dia": "2026-11-09",
  "pede_semana": "2026-45",
  "ultimo_garimpo": "2026-11-09T13:49:52-03:00",
  "vigia_aviso_post": "2026-11-08T12:51:05.072627-03:00",
@@ -9465,14 +9511,14 @@
   "2026-11-08 noite tech",
   "2026-11-09 tarde tech"
  ],
- "reserva_meio": "2026-11-09T17:35:56.883071-03:00",
+ "reserva_meio": "2026-11-09T18:25:34.231842-03:00",
  "reserva_cheia": {
-  "achadinhos": "2026-11-09T17:04:01.787334-03:00",
-  "tech": "2026-11-09T17:04:01.787334-03:00",
-  "marcas": "2026-11-09T16:54:40.796722-03:00"
+  "achadinhos": "2026-11-09T18:09:55.295113-03:00",
+  "tech": "2026-11-09T18:09:55.295113-03:00",
+  "marcas": "2026-11-09T17:54:45.499184-03:00"
  },
  "top10_dia": "2026-11-07",
- "manuais_lidos": "2026-11-09T17:26:51.455947-03:00",
+ "manuais_lidos": "2026-11-09T18:16:28.199143-03:00",
  "reserva_resultado": {
   "2026-11-07": {
    "achadinhos": {
@@ -9512,11 +9558,11 @@
    "achadinhos": {
     "busca": 0,
     "quase": 3,
-    "reprise": 5
+    "reprise": 6
    },
    "marcas": {
     "busca": 0,
-    "quase": 4,
+    "quase": 5,
     "reprise": 3
    }
   }
@@ -9543,7 +9589,7 @@
    "hora": "2026-11-09T12:03:02.243406-03:00"
   }
  },
- "ig_respondido_em": "2026-11-09T17:26:51.455947-03:00",
+ "ig_respondido_em": "2026-11-09T18:20:28.518323-03:00",
  "dm_auto": {
   "2026-11-08": {
    "com_palavra": 0,
