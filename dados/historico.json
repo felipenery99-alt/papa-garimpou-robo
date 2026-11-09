@@ -782,7 +782,11 @@
   "2026-11-09 achadinhos 14:41 amz-B0F7J4VXKN",
   "2026-11-09 marcas 14:49 amz-B0BHKLB12W",
   "2026-11-09 achadinhos 14:58 amz-B09B15RDJ6",
-  "2026-11-09 marcas 15:06 amz-B0FTJ8941C"
+  "2026-11-09 marcas 15:06 amz-B0FTJ8941C",
+  "2026-11-09 achadinhos 16:01 amz-B09XFD2YMF",
+  "2026-11-09 tech 16:09 shopee-23792931493",
+  "2026-11-09 marcas 16:17 amz-B0GW9M4TXB",
+  "2026-11-09 achadinhos 16:25 amz-B0F8Y8N2ST"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -1535,7 +1539,11 @@
   "amz-B0F7J4VXKN": "2026-11-09T14:41:55.903253-03:00",
   "amz-B0BHKLB12W": "2026-11-09T14:49:42.942057-03:00",
   "amz-B09B15RDJ6": "2026-11-09T14:58:54.368595-03:00",
-  "amz-B0FTJ8941C": "2026-11-09T15:06:04.882463-03:00"
+  "amz-B0FTJ8941C": "2026-11-09T15:06:04.882463-03:00",
+  "amz-B09XFD2YMF": "2026-11-09T16:01:16.403930-03:00",
+  "shopee-23792931493": "2026-11-09T16:09:42.508897-03:00",
+  "amz-B0GW9M4TXB": "2026-11-09T16:17:20.767941-03:00",
+  "amz-B0F8Y8N2ST": "2026-11-09T16:25:14.206250-03:00"
  },
  "ofertas_dia": [
   {
@@ -8029,6 +8037,71 @@
    "valida_ate": "2026-11-10T22:00:00-03:00",
    "entrou": "2026-11-09T13:50:48.351451-03:00",
    "dia": "2026-11-09"
+  },
+  {
+   "id": "amz-B09XFD2YMF",
+   "canal": "achadinhos",
+   "nome": "Jogo de Facas Tramontina Plenus Inox 4 Peças",
+   "preco_antigo": 44.57,
+   "preco": 27.53,
+   "desconto": 38,
+   "link": "https://www.amazon.com.br/dp/B09XFD2YMF?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/719FUiUuSTL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-10T22:00:00-03:00",
+   "entrou": "2026-11-09T13:50:48.351451-03:00",
+   "dia": "2026-11-09"
+  },
+  {
+   "id": "shopee-23792931493",
+   "plataforma": "Shopee",
+   "nome": "Baseus Cabo Turbo Tipo-C P/ Tipo-C Cafule 60w 20v 3a 2m Quick Charge 3.0 iPhone 15 e Android",
+   "loja": "Baseus Oficial",
+   "loja_oficial": true,
+   "preco": 39.9,
+   "preco_antigo": 53.2,
+   "desconto": 25,
+   "vendas": 658,
+   "nota": 5.0,
+   "comissao_pct": 11.0,
+   "imagem": "https://cf.shopee.com.br/file/br-11134207-820lg-modrimw9i8ee31",
+   "link": "https://s.shopee.com.br/20wtjg76Eq",
+   "quase": true,
+   "canal": "tech",
+   "entrou": "2026-11-09T16:01:16.397156-03:00",
+   "dia": "2026-11-09"
+  },
+  {
+   "id": "amz-B0GW9M4TXB",
+   "canal": "marcas",
+   "nome": "Tênis Fila Recovery Masculino",
+   "preco_antigo": 399.99,
+   "preco": 226.01,
+   "desconto": 43,
+   "link": "https://www.amazon.com.br/dp/B0GW9M4TXB?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/511hEjWrYDL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-10T22:00:00-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "entrou": "2026-11-09T13:50:48.351451-03:00",
+   "dia": "2026-11-09"
+  },
+  {
+   "id": "amz-B0F8Y8N2ST",
+   "canal": "achadinhos",
+   "nome": "Ventilador de Mesa Arno X-Treme 7 40cm",
+   "preco_antigo": 474.99,
+   "preco": 235.0,
+   "desconto": 51,
+   "link": "https://www.amazon.com.br/dp/B0F8Y8N2ST?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71hIRn8rmOL._AC_SL1200_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-10T22:00:00-03:00",
+   "entrou": "2026-11-09T13:50:48.351451-03:00",
+   "dia": "2026-11-09"
   }
  ],
  "ig_feitos": [
@@ -8180,10 +8253,11 @@
   "2026-11-09 13:22 story_oferta",
   "2026-11-09 14:08 story_oferta",
   "2026-11-09 15:00 adivinha",
-  "2026-11-09 15:03 story_oferta"
+  "2026-11-09 15:03 story_oferta",
+  "2026-11-09 16:05 adivinha_resposta",
+  "2026-11-09 16:44 story_oferta"
  ],
  "ig_ofertas_usadas": [
-  "amz-B0CLF2RGNL",
   "amz-B0DMV2VL35",
   "amz-B0FKVWSM3N",
   "amz-B09GL5MXNV",
@@ -8382,7 +8456,8 @@
   "amz-B0DTJKLBBQ",
   "amz-B0FVYBPXBF",
   "shopee-9511754133",
-  "shopee-22997647570"
+  "shopee-22997647570",
+  "shopee-22897053962"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
@@ -8447,51 +8522,7 @@
   "2026-11-07": 12
  },
  "ultimo_pilar": "dica",
- "fila": [
-  {
-   "id": "amz-B09XFD2YMF",
-   "canal": "achadinhos",
-   "nome": "Jogo de Facas Tramontina Plenus Inox 4 Peças",
-   "preco_antigo": 44.57,
-   "preco": 27.53,
-   "desconto": 38,
-   "link": "https://www.amazon.com.br/dp/B09XFD2YMF?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/719FUiUuSTL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-10T22:00:00-03:00",
-   "entrou": "2026-11-09T13:50:48.351451-03:00"
-  },
-  {
-   "id": "amz-B0F8Y8N2ST",
-   "canal": "achadinhos",
-   "nome": "Ventilador de Mesa Arno X-Treme 7 40cm",
-   "preco_antigo": 474.99,
-   "preco": 235.0,
-   "desconto": 51,
-   "link": "https://www.amazon.com.br/dp/B0F8Y8N2ST?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/71hIRn8rmOL._AC_SL1200_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-10T22:00:00-03:00",
-   "entrou": "2026-11-09T13:50:48.351451-03:00"
-  },
-  {
-   "id": "amz-B0GW9M4TXB",
-   "canal": "marcas",
-   "nome": "Tênis Fila Recovery Masculino",
-   "preco_antigo": 399.99,
-   "preco": 226.01,
-   "desconto": 43,
-   "link": "https://www.amazon.com.br/dp/B0GW9M4TXB?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/511hEjWrYDL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-10T22:00:00-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "entrou": "2026-11-09T13:50:48.351451-03:00"
-  }
- ],
+ "fila": [],
  "menus_fixados": [
   "v1 @papagarimpou",
   "v1 @papagarimpoumarcas",
@@ -9097,7 +9128,11 @@
   "escovadedenteoralbiconicpremium": "2026-11-09T14:41:55.903253-03:00",
   "insidertechtshirtgolavmasculina": "2026-11-09T14:49:42.942057-03:00",
   "ventiladordemesamondial40cmsuperpower": "2026-11-09T14:58:54.368595-03:00",
-  "wheyconcentradomaismusaborpacoca": "2026-11-09T15:06:04.882463-03:00"
+  "wheyconcentradomaismusaborpacoca": "2026-11-09T15:06:04.882463-03:00",
+  "jogodefacastramontinaplenusinox4pecas": "2026-11-09T16:01:16.403930-03:00",
+  "baseuscaboturbotipocptipoccafule60w20v3a2mquickcharge30iphone15eandroid": "2026-11-09T16:09:42.508897-03:00",
+  "tenisfilarecoverymasculino": "2026-11-09T16:17:20.767941-03:00",
+  "ventiladordemesaarnoxtreme740cm": "2026-11-09T16:25:14.206250-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
@@ -9388,14 +9423,14 @@
   "2026-11-08 noite tech",
   "2026-11-09 tarde tech"
  ],
- "reserva_meio": "2026-11-09T14:55:53.826038-03:00",
+ "reserva_meio": "2026-11-09T16:32:26.678614-03:00",
  "reserva_cheia": {
   "achadinhos": "2026-11-09T12:52:07.030982-03:00",
-  "tech": "2026-11-09T14:55:53.826038-03:00",
+  "tech": "2026-11-09T16:01:16.397156-03:00",
   "marcas": "2026-11-09T12:52:07.030982-03:00"
  },
  "top10_dia": "2026-11-07",
- "manuais_lidos": "2026-11-09T15:05:22.775851-03:00",
+ "manuais_lidos": "2026-11-09T16:45:53.438455-03:00",
  "reserva_resultado": {
   "2026-11-07": {
    "achadinhos": {
@@ -9429,7 +9464,7 @@
   "2026-11-09": {
    "tech": {
     "busca": 0,
-    "quase": 4,
+    "quase": 5,
     "reprise": 0
    },
    "achadinhos": {
@@ -9466,7 +9501,7 @@
    "hora": "2026-11-09T12:03:02.243406-03:00"
   }
  },
- "ig_respondido_em": "2026-11-09T15:05:22.775851-03:00",
+ "ig_respondido_em": "2026-11-09T16:44:31.608944-03:00",
  "dm_auto": {
   "2026-11-08": {
    "com_palavra": 0,
