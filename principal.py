@@ -1358,7 +1358,18 @@ def rodar_instagram(h: dict, agora: datetime) -> None:
                              key=qualidade.pontuar, reverse=True)[:5]
                 # 08/11 (CEO): a capa campeã da medição (reels_alcance) manda no formato
                 campeao = (h.get("reels_alcance") or {}).get("campeao")
-                if len(top) >= 3 and campeao != "banco":
+                if top and agora.hour == 18 and campeao != "banco":
+                    # 09/11 (CEO): Reels de lista com capa de texto ficam em 3–5 de alcance. O das 18h30 testa
+                    # 1 oferta só (a mais forte): o produto com o preço real já no 1º quadro, vídeo curto (~8 s).
+                    o = top[0]
+                    tipo_capa = "uma_oferta"
+                    quadros = [artes.story_oferta(o, o["canal"]), artes.story_convite(), artes.quadro_compartilhar()]
+                    preco = (f"De {post._brl(o['preco_antigo'])} por {post._brl(o['preco'])} ({o['desconto']}% OFF)"
+                             if o.get("preco_antigo") else f"Por {post._brl(o['preco'])}")
+                    leg = (gancho_reel(agora) + f"😎💎 {o['nome'][:90]}\n\n{preco}"
+                           + SIGA_REEL + LEGENDA_CTA)
+                    h["ig_reels_ofertas"][hoje] = list(ja | {o["id"]})
+                elif len(top) >= 3 and campeao != "banco":
                     # 04/11 (Instagram atrasado na meta): a capa genérica "ACHADOS DO PAPA" não prende quem
                     # rola o feed. Capa com o maior desconto REAL do lote (vem da loja) e chamada para seguir.
                     maior = max(int(o.get("desconto") or 0) for o in top)

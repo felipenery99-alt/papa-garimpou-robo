@@ -107,3 +107,12 @@
 - Pesquisa de contas grandes: (1) o Telegram não recomenda canal, quase todo membro novo vem do Instagram → chamada clara em toda peça (já temos rodapé + DMs); (2) destaque fixo no perfil apontando para o canal → só dá para criar pelo app.
 - Próximo: medir em 09/11 se o ritmo de posts volta com o garimpo e se reserva_resultado mostra a Shopee cobrindo a fila seca.
 - Pedido ao dono: (1) criar um destaque "TELEGRAM" no perfil com o story de convite (o robô não consegue pela API); (2) deixar o PC do garimpo ligado à noite e no fim de semana; (3) entrar de novo no Instagram no Chrome (login caiu em 07/11).
+
+## 2026-11-09 (rotina do CEO)
+- Visto (08/11): 22 execuções (abaixo de 20+ das outras; última às 22:44), 25 stories ativos (piso ok), feed ok (4 Reels + 5 posts). Telegram: 39 achadinhos, 33 marcas, 24 tech (a reserva Shopee segurou a fila com o garimpo local parado das 07:44 às 19:56). Seguidores 395→405 (+10), **alcance 34**, visitas 29, 1 clique na bio. Membros 3+4+5+5 = 17.
+- Erros: Página do Facebook sem `pages_manage_posts` (o robô já parou de tentar); vigia de fila vazia (garimpo local).
+- Achado importante: a medição dos Reels (`reels_alcance`) mostra 3 a 12 de alcance por Reels desde 02/11, inclusive em 04–05/11. O pico de 4.203–5.659 **não veio do Reels** (a leitura de 05/11 estava errada); casa com as rodadas de seguir/comentar da rotina local: em 08/11, com 0 rodadas, o alcance caiu para 34.
+- META: Instagram 405 de 780 até 27/11 (**atrasado**: precisa ~21/dia, fez +10). Telegram 17 de 80 até 10/11 (**atrasado**, vai ser perdida).
+- Alavanca nova: o Reels das 18h30 vira teste de **1 oferta só** (a mais forte do dia): produto com preço real da loja no 1º quadro, ~8 s, convite + "manda pra um amigo" no fim; capa registrada como `uma_oferta` para comparar com os outros 3 Reels de lista. Ensaio OK.
+- Próximo: em 12/11 comparar alcance `uma_oferta` x `achados`/`ate_off`; se não passar de ~20, reduzir Reels de lista e manter só o que alcança.
+- Pedido ao dono: (1) **manter as rodadas de seguir/comentar todo dia** (é o que de fato traz alcance e seguidores); (2) token novo da Página do Facebook com `pages_manage_posts` no segredo META_TOKEN; (3) PC do garimpo ligado de manhã.
