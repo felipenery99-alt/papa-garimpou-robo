@@ -968,8 +968,8 @@
    "⚠️ Garimpo parado desde 07:44 — abrir o app Claude e conferir as rotinas\nPouca oferta na fila: achadinhos 0, marcas 2, tech 0.",
    "canal tech sem oferta na fila há 53 min (busca extra também não achou). Abastecer ofertas_manuais.json."
   ],
-  "ultima_execucao": "23:33",
-  "execucoes": 23,
+  "ultima_execucao": "23:55",
+  "execucoes": 24,
   "telegram_posts": {
    "achadinhos": 39,
    "marcas": 33,
@@ -5610,16 +5610,18 @@
    "shopee-49917752064": "nota",
    "shopee-45567748268": "nota",
    "shopee-43334387091": "nota",
-   "shopee-22599430464": "vendas longe"
+   "shopee-22599430464": "vendas longe",
+   "shopee-58259426065": "outro: palavra proibida: compatível",
+   "shopee-58207091215": "vendas longe"
   },
   "shopee_oficial": {
-   "vendas longe": 2451,
+   "vendas longe": 2452,
    "nota": 1688,
    "vendas perto (125+)": 111,
    "outro: marca fora da lista boa": 105,
    "aprovada": 74,
    "desconto longe": 60,
-   "outro: palavra proibida: compatível": 34,
+   "outro: palavra proibida: compatível": 35,
    "desconto perto (até 10 pts)": 23
   },
   "instagram": {
@@ -5631,7 +5633,7 @@
    "stories_ativos": 25
   },
   "reels_alcance": {
-   "atualizado": "2026-11-08T23:33:37.725541-03:00",
+   "atualizado": "2026-11-08T23:55:49.814409-03:00",
    "itens": [
     {
      "id": "18113940269176355",
