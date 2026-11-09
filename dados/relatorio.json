@@ -968,17 +968,17 @@
    "⚠️ Garimpo parado desde 07:44 — abrir o app Claude e conferir as rotinas\nPouca oferta na fila: achadinhos 0, marcas 2, tech 0.",
    "canal tech sem oferta na fila há 53 min (busca extra também não achou). Abastecer ofertas_manuais.json."
   ],
-  "ultima_execucao": "20:21",
-  "execucoes": 18,
+  "ultima_execucao": "21:05",
+  "execucoes": 19,
   "telegram_posts": {
-   "achadinhos": 35,
-   "marcas": 31,
-   "tech": 23
+   "achadinhos": 38,
+   "marcas": 33,
+   "tech": 24
   },
   "ultimo_post": {
-   "achadinhos": "20:58",
-   "marcas": "21:05",
-   "tech": "20:51"
+   "achadinhos": "21:42",
+   "marcas": "21:49",
+   "tech": "21:34"
   },
   "meta_token": {
    "tipo": "SYSTEM_USER",
@@ -1043,7 +1043,11 @@
    "20:30 reels",
    "20:38 story_oferta",
    "feed",
-   "20:50 post_achado"
+   "20:50 post_achado",
+   "21:20 story_convite",
+   "21:24 story_oferta",
+   "feed",
+   "21:30 reels"
   ],
   "shopee_ligada": true,
   "reserva_resultado": {
@@ -5623,15 +5627,24 @@
   },
   "instagram": {
    "seguidores": 403,
-   "posts": 102,
+   "posts": 103,
    "reach": 33,
    "profile_views": 26,
    "website_clicks": 1,
    "stories_ativos": 25
   },
   "reels_alcance": {
-   "atualizado": "2026-11-08T20:21:48.781660-03:00",
+   "atualizado": "2026-11-08T21:05:32.067273-03:00",
    "itens": [
+    {
+     "id": "18113940269176355",
+     "hora": "08/11 21:34",
+     "capa": "ate_off",
+     "reach": 0,
+     "views": 0,
+     "shares": 0,
+     "saved": 0
+    },
     {
      "id": "17960712615015330",
      "hora": "08/11 20:37",
@@ -5673,7 +5686,7 @@
      "hora": "07/11 17:47",
      "capa": "ate_off",
      "reach": 2,
-     "views": 3,
+     "views": 4,
      "shares": 0,
      "saved": 0
     },
@@ -5829,25 +5842,16 @@
      "views": 6,
      "shares": 0,
      "saved": 0
-    },
-    {
-     "id": "17913409260558795",
-     "hora": "02/11 12:58",
-     "capa": "achados",
-     "reach": 119,
-     "views": 130,
-     "shares": 0,
-     "saved": 0
     }
    ],
    "por_capa": {
     "ate_off": {
-     "n": 17,
+     "n": 18,
      "alcance_medio": 3
     },
     "achados": {
-     "n": 6,
-     "alcance_medio": 24
+     "n": 5,
+     "alcance_medio": 5
     }
    },
    "campeao": "achados"

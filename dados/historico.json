@@ -726,7 +726,13 @@
   "2026-11-08 marcas 20:44 amz-B0DMTSC4GV",
   "2026-11-08 tech 20:51 amz-B074L9L5KZ",
   "2026-11-08 achadinhos 20:58 amz-B076BL1265",
-  "2026-11-08 marcas 21:05 amz-B0FNY5CKD5"
+  "2026-11-08 marcas 21:05 amz-B0FNY5CKD5",
+  "2026-11-08 achadinhos 21:15 amz-B071VCX893",
+  "2026-11-08 achadinhos 21:19 amz-B08LF118LK",
+  "2026-11-08 marcas 21:26 amz-B0D1KV35W6",
+  "2026-11-08 tech 21:34 amz-B0D9P282P2",
+  "2026-11-08 achadinhos 21:42 amz-B08YLQNL4W",
+  "2026-11-08 marcas 21:49 amz-B0GZX265S5"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -1430,7 +1436,13 @@
   "amz-B0DMTSC4GV": "2026-11-08T20:44:28.795954-03:00",
   "amz-B074L9L5KZ": "2026-11-08T20:51:59.241319-03:00",
   "amz-B076BL1265": "2026-11-08T20:58:43.412763-03:00",
-  "amz-B0FNY5CKD5": "2026-11-08T21:05:02.540791-03:00"
+  "amz-B0FNY5CKD5": "2026-11-08T21:05:02.540791-03:00",
+  "amz-B071VCX893": "2026-11-08T21:15:05.211000-03:00",
+  "amz-B08LF118LK": "2026-11-08T21:19:32.538675-03:00",
+  "amz-B0D1KV35W6": "2026-11-08T21:26:15.800897-03:00",
+  "amz-B0D9P282P2": "2026-11-08T21:34:36.618301-03:00",
+  "amz-B08YLQNL4W": "2026-11-08T21:42:24.458979-03:00",
+  "amz-B0GZX265S5": "2026-11-08T21:49:46.896219-03:00"
  },
  "ofertas_dia": [
   {
@@ -7127,6 +7139,97 @@
    "extra": "Preço a partir de: varia por tamanho e cor",
    "entrou": "2026-11-08T20:00:40.706807-03:00",
    "dia": "2026-11-08"
+  },
+  {
+   "id": "amz-B071VCX893",
+   "canal": "achadinhos",
+   "nome": "Perfume Gabriela Sabatini EDT 60ml",
+   "preco_antigo": 169.0,
+   "preco": 75.78,
+   "desconto": 55,
+   "link": "https://www.amazon.com.br/dp/B071VCX893?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51UZdhsKyXL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-09T22:00:00-03:00",
+   "entrou": "2026-11-08T20:00:40.706807-03:00",
+   "dia": "2026-11-08"
+  },
+  {
+   "id": "amz-B08LF118LK",
+   "canal": "achadinhos",
+   "nome": "Máquina de Café Illy Iperespresso Cápsulas",
+   "preco_antigo": 530.0,
+   "preco": 249.89,
+   "desconto": 53,
+   "link": "https://www.amazon.com.br/dp/B08LF118LK?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/41oHI0SNZXL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-09T22:00:00-03:00",
+   "gancho": "ILLY PELA METADE DO PREÇO",
+   "entrou": "2026-11-08T20:00:40.706807-03:00",
+   "dia": "2026-11-08"
+  },
+  {
+   "id": "amz-B0D1KV35W6",
+   "canal": "marcas",
+   "nome": "Mochila Mizuno Fun New",
+   "preco_antigo": 169.99,
+   "preco": 89.9,
+   "desconto": 47,
+   "link": "https://www.amazon.com.br/dp/B0D1KV35W6?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/81WIHVB+ELL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-09T22:00:00-03:00",
+   "entrou": "2026-11-08T20:00:40.706807-03:00",
+   "dia": "2026-11-08"
+  },
+  {
+   "id": "amz-B0D9P282P2",
+   "canal": "tech",
+   "nome": "Headset Gamer JBL Quantum 100N com fio",
+   "preco_antigo": 229.0,
+   "preco": 149.77,
+   "desconto": 35,
+   "link": "https://www.amazon.com.br/dp/B0D9P282P2?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/612AwTC7HrL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-09T22:00:00-03:00",
+   "entrou": "2026-11-08T20:00:40.706807-03:00",
+   "dia": "2026-11-08"
+  },
+  {
+   "id": "amz-B08YLQNL4W",
+   "canal": "achadinhos",
+   "nome": "Sérum Facial Nivea Luminous 630",
+   "preco_antigo": 129.9,
+   "preco": 64.88,
+   "desconto": 50,
+   "link": "https://www.amazon.com.br/dp/B08YLQNL4W?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71p4HyifokL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-09T22:00:00-03:00",
+   "entrou": "2026-11-08T20:00:40.706807-03:00",
+   "dia": "2026-11-08"
+  },
+  {
+   "id": "amz-B0GZX265S5",
+   "canal": "marcas",
+   "nome": "Whey Protein Integralmedica NutriWhey",
+   "preco_antigo": 239.0,
+   "preco": 127.0,
+   "desconto": 47,
+   "link": "https://www.amazon.com.br/dp/B0GZX265S5?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61c0cjA4nKL._AC_SL1200_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-09T22:00:00-03:00",
+   "entrou": "2026-11-08T20:00:40.706807-03:00",
+   "dia": "2026-11-08"
   }
  ],
  "ig_feitos": [
@@ -7295,10 +7398,13 @@
   "2026-11-08 20:30 reels",
   "2026-11-08 20:38 story_oferta",
   "2026-11-08 feed",
-  "2026-11-08 20:50 post_achado"
+  "2026-11-08 20:50 post_achado",
+  "2026-11-08 21:20 story_convite",
+  "2026-11-08 21:24 story_oferta",
+  "2026-11-08 feed",
+  "2026-11-08 21:30 reels"
  ],
  "ig_ofertas_usadas": [
-  "shopee-20516472434",
   "amz-B0DDZ4QF35",
   "amz-B0CRXH4928",
   "amz-B07C56GRM1",
@@ -7497,11 +7603,12 @@
   "shopee-23094056729",
   "amz-B0DP6HXJNH",
   "shopee-40275577235",
-  "shopee-16185215321"
+  "shopee-16185215321",
+  "shopee-23494777148"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
- "ig_ultimo_reel": "2026-11-08T20:36:18.052370-03:00",
+ "ig_ultimo_reel": "2026-11-08T21:33:47.773417-03:00",
  "pecas_usadas": {
   "ac-preco-inflado": "2026-10-27",
   "dc-7-dias": "2026-10-27",
@@ -7563,49 +7670,6 @@
  },
  "ultimo_pilar": "dica",
  "fila": [
-  {
-   "id": "amz-B071VCX893",
-   "canal": "achadinhos",
-   "nome": "Perfume Gabriela Sabatini EDT 60ml",
-   "preco_antigo": 169.0,
-   "preco": 75.78,
-   "desconto": 55,
-   "link": "https://www.amazon.com.br/dp/B071VCX893?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51UZdhsKyXL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-09T22:00:00-03:00",
-   "entrou": "2026-11-08T20:00:40.706807-03:00"
-  },
-  {
-   "id": "amz-B08LF118LK",
-   "canal": "achadinhos",
-   "nome": "Máquina de Café Illy Iperespresso Cápsulas",
-   "preco_antigo": 530.0,
-   "preco": 249.89,
-   "desconto": 53,
-   "link": "https://www.amazon.com.br/dp/B08LF118LK?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/41oHI0SNZXL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-09T22:00:00-03:00",
-   "gancho": "ILLY PELA METADE DO PREÇO",
-   "entrou": "2026-11-08T20:00:40.706807-03:00"
-  },
-  {
-   "id": "amz-B08YLQNL4W",
-   "canal": "achadinhos",
-   "nome": "Sérum Facial Nivea Luminous 630",
-   "preco_antigo": 129.9,
-   "preco": 64.88,
-   "desconto": 50,
-   "link": "https://www.amazon.com.br/dp/B08YLQNL4W?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/71p4HyifokL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-09T22:00:00-03:00",
-   "entrou": "2026-11-08T20:00:40.706807-03:00"
-  },
   {
    "id": "amz-B0B46TH84S",
    "canal": "achadinhos",
@@ -7734,34 +7798,6 @@
    "entrou": "2026-11-08T20:00:40.706807-03:00"
   },
   {
-   "id": "amz-B0D1KV35W6",
-   "canal": "marcas",
-   "nome": "Mochila Mizuno Fun New",
-   "preco_antigo": 169.99,
-   "preco": 89.9,
-   "desconto": 47,
-   "link": "https://www.amazon.com.br/dp/B0D1KV35W6?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/81WIHVB+ELL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-09T22:00:00-03:00",
-   "entrou": "2026-11-08T20:00:40.706807-03:00"
-  },
-  {
-   "id": "amz-B0GZX265S5",
-   "canal": "marcas",
-   "nome": "Whey Protein Integralmedica NutriWhey",
-   "preco_antigo": 239.0,
-   "preco": 127.0,
-   "desconto": 47,
-   "link": "https://www.amazon.com.br/dp/B0GZX265S5?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61c0cjA4nKL._AC_SL1200_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-09T22:00:00-03:00",
-   "entrou": "2026-11-08T20:00:40.706807-03:00"
-  },
-  {
    "id": "amz-B0F5ZGSCQ5",
    "canal": "marcas",
    "nome": "Copo Térmico Stanley 3 em 1 com Tampa e Canudo",
@@ -7843,20 +7879,6 @@
    "desconto": 41,
    "link": "https://www.amazon.com.br/dp/B0CZLZKGVL?tag=papagarimpou-20",
    "imagem": "https://m.media-amazon.com/images/I/41jH2Vie+4L._AC_SL1200_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-09T22:00:00-03:00",
-   "entrou": "2026-11-08T20:00:40.706807-03:00"
-  },
-  {
-   "id": "amz-B0D9P282P2",
-   "canal": "tech",
-   "nome": "Headset Gamer JBL Quantum 100N com fio",
-   "preco_antigo": 229.0,
-   "preco": 149.77,
-   "desconto": 35,
-   "link": "https://www.amazon.com.br/dp/B0D9P282P2?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/612AwTC7HrL._AC_SL1500_.jpg",
    "loja": "Vendido e entregue pela Amazon",
    "plataforma": "Amazon",
    "valida_ate": "2026-11-09T22:00:00-03:00",
@@ -8475,7 +8497,13 @@
   "garrafastanleyaerolightflipstraw710ml": "2026-11-08T20:44:28.795954-03:00",
   "mousesemfiologitechm170": "2026-11-08T20:51:59.241319-03:00",
   "liquidificadorphilcoph9003l110v": "2026-11-08T20:58:43.412763-03:00",
-  "tenisfilafastnessfeminino": "2026-11-08T21:05:02.540791-03:00"
+  "tenisfilafastnessfeminino": "2026-11-08T21:05:02.540791-03:00",
+  "perfumegabrielasabatiniedt60ml": "2026-11-08T21:15:05.211000-03:00",
+  "maquinadecafeillyiperespressocapsulas": "2026-11-08T21:19:32.538675-03:00",
+  "mochilamizunofunnew": "2026-11-08T21:26:15.800897-03:00",
+  "headsetgamerjblquantum100ncomfio": "2026-11-08T21:34:36.618301-03:00",
+  "serumfacialnivealuminous630": "2026-11-08T21:42:24.458979-03:00",
+  "wheyproteinintegralmedicanutriwhey": "2026-11-08T21:49:46.896219-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
@@ -8635,21 +8663,26 @@
    "shopee-58254966835"
   ],
   "2026-11-08": [
-   "shopee-23802004388",
+   "shopee-22599383562",
+   "shopee-22195023298",
+   "shopee-41253171051",
+   "shopee-22898889018",
    "shopee-49064981274",
+   "shopee-44106064553",
    "amz-B0G5ZWQR36",
    "shopee-19497608994",
-   "shopee-22592962752",
-   "shopee-18597753531",
+   "shopee-11444965462",
+   "shopee-58002598728",
+   "shopee-16185215321",
    "shopee-20516472434",
+   "shopee-22592962752",
    "shopee-21049729949",
-   "shopee-41253171051",
-   "shopee-22599383562",
+   "shopee-18597753531",
    "shopee-58209674589",
-   "shopee-23094056729",
-   "shopee-23298467238",
+   "shopee-23802004388",
    "shopee-46611963995",
-   "shopee-16185215321"
+   "shopee-23298467238",
+   "shopee-23094056729"
   ]
  },
  "vendas_shopee": {},
@@ -8758,7 +8791,7 @@
   "marcas": "2026-11-08T18:44:22.674425-03:00"
  },
  "top10_dia": "2026-11-07",
- "manuais_lidos": "2026-11-08T21:04:59.743087-03:00",
+ "manuais_lidos": "2026-11-08T21:49:43.299877-03:00",
  "reserva_resultado": {
   "2026-11-07": {
    "achadinhos": {
@@ -8802,9 +8835,13 @@
   "17960712615015330": {
    "capa": "ate_off",
    "hora": "2026-11-08T20:36:18.052370-03:00"
+  },
+  "18113940269176355": {
+   "capa": "ate_off",
+   "hora": "2026-11-08T21:33:47.773417-03:00"
   }
  },
- "ig_respondido_em": "2026-11-08T21:04:59.743087-03:00",
+ "ig_respondido_em": "2026-11-08T21:49:43.299877-03:00",
  "dm_auto": {
   "2026-11-08": {
    "com_palavra": 0,
