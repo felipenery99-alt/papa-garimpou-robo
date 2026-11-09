@@ -786,7 +786,9 @@
   "2026-11-09 achadinhos 16:01 amz-B09XFD2YMF",
   "2026-11-09 tech 16:09 shopee-23792931493",
   "2026-11-09 marcas 16:17 amz-B0GW9M4TXB",
-  "2026-11-09 achadinhos 16:25 amz-B0F8Y8N2ST"
+  "2026-11-09 achadinhos 16:25 amz-B0F8Y8N2ST",
+  "2026-11-09 marcas 17:08 shopee-23094785146",
+  "2026-11-09 achadinhos 17:37 shopee-20111903242"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -1333,7 +1335,7 @@
   "amz-B0DZ33GNYP": "2026-11-05T21:43:37.174072-03:00",
   "amz-B0FWS5QZH2": "2026-11-05T21:49:43.552108-03:00",
   "amz-B0H5MJ2GZS": "2026-11-05T21:56:09.479086-03:00",
-  "shopee-20111903242": "2026-11-06T08:17:57.520323-03:00",
+  "shopee-20111903242": "2026-11-09T17:37:06.255281-03:00",
   "amz-B0BYK5T45C": "2026-11-06T08:28:02.579395-03:00",
   "amz-B076X6TXTC": "2026-11-06T08:33:23.925164-03:00",
   "amz-B0FBY8JN4T": "2026-11-06T08:41:14.884192-03:00",
@@ -1543,7 +1545,8 @@
   "amz-B09XFD2YMF": "2026-11-09T16:01:16.403930-03:00",
   "shopee-23792931493": "2026-11-09T16:09:42.508897-03:00",
   "amz-B0GW9M4TXB": "2026-11-09T16:17:20.767941-03:00",
-  "amz-B0F8Y8N2ST": "2026-11-09T16:25:14.206250-03:00"
+  "amz-B0F8Y8N2ST": "2026-11-09T16:25:14.206250-03:00",
+  "shopee-23094785146": "2026-11-09T17:08:13.173005-03:00"
  },
  "ofertas_dia": [
   {
@@ -8102,6 +8105,44 @@
    "valida_ate": "2026-11-10T22:00:00-03:00",
    "entrou": "2026-11-09T13:50:48.351451-03:00",
    "dia": "2026-11-09"
+  },
+  {
+   "id": "shopee-23094785146",
+   "plataforma": "Shopee",
+   "nome": "Barra de Proteína Whey Crisp Bar 12un Integralmedica - Proteína de Qualidade, Baixa Caloria e Muito Sabor",
+   "loja": "Loja Integralmedica",
+   "loja_oficial": true,
+   "preco": 100.0,
+   "preco_antigo": 126.58,
+   "desconto": 21,
+   "vendas": 189,
+   "nota": 5.0,
+   "comissao_pct": 3.0,
+   "imagem": "https://cf.shopee.com.br/file/sg-11134201-824ge-mpf3cw8mz7r453",
+   "link": "https://s.shopee.com.br/9AQ1pn5tna",
+   "quase": true,
+   "canal": "marcas",
+   "entrou": "2026-11-09T16:54:40.796722-03:00",
+   "dia": "2026-11-09"
+  },
+  {
+   "id": "shopee-20111903242",
+   "plataforma": "Shopee",
+   "nome": "Frigideira Funda Antiaderente Tramontina 24Cm",
+   "loja": "Lojas Montre",
+   "loja_oficial": true,
+   "preco": 77.99,
+   "preco_antigo": 132.19,
+   "desconto": 41,
+   "vendas": 520,
+   "nota": 4.9,
+   "comissao_pct": 13.0,
+   "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m1d3d2xvparkc5",
+   "link": "https://s.shopee.com.br/9zz8p25SaP",
+   "canal": "achadinhos",
+   "entrou": "2026-11-09T17:35:56.883071-03:00",
+   "reprise_dias": 2,
+   "dia": "2026-11-09"
   }
  ],
  "ig_feitos": [
@@ -8922,7 +8963,7 @@
   "camisetainsiderperformancetshirt20masculina": "2026-11-05T21:43:37.174072-03:00",
   "kit2camisetasreservacombolsopicapau": "2026-11-05T21:49:43.552108-03:00",
   "mochilamizunoendevour22litrosoffwhite": "2026-11-05T21:56:09.479086-03:00",
-  "frigideirafundaantiaderentetramontina24cm": "2026-11-06T08:17:57.520323-03:00",
+  "frigideirafundaantiaderentetramontina24cm": "2026-11-09T17:37:06.255281-03:00",
   "liquidificadorphilcoplq2100pi3l1200w220v": "2026-11-06T08:28:02.579395-03:00",
   "faqueirodechurrascotramontinalagunainox36pecas": "2026-11-06T08:33:23.925164-03:00",
   "tenismasculinoreeboknanogym": "2026-11-06T08:41:14.884192-03:00",
@@ -9132,7 +9173,8 @@
   "jogodefacastramontinaplenusinox4pecas": "2026-11-09T16:01:16.403930-03:00",
   "baseuscaboturbotipocptipoccafule60w20v3a2mquickcharge30iphone15eandroid": "2026-11-09T16:09:42.508897-03:00",
   "tenisfilarecoverymasculino": "2026-11-09T16:17:20.767941-03:00",
-  "ventiladordemesaarnoxtreme740cm": "2026-11-09T16:25:14.206250-03:00"
+  "ventiladordemesaarnoxtreme740cm": "2026-11-09T16:25:14.206250-03:00",
+  "barradeproteinawheycrispbar12unintegralmedicaproteinadequalidadebaixacaloriaemuitosabor": "2026-11-09T17:08:13.173005-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
@@ -9393,7 +9435,7 @@
  "pede_semana": "2026-45",
  "ultimo_garimpo": "2026-11-09T13:49:52-03:00",
  "vigia_aviso_post": "2026-11-08T12:51:05.072627-03:00",
- "vigia_aviso_garimpo": "2026-11-09T12:07:22.519963-03:00",
+ "vigia_aviso_garimpo": "2026-11-09T16:54:40.796722-03:00",
  "resumo_enviado": "2026-11-08",
  "token_conferido": "2026-11-09",
  "meta_token": {
@@ -9423,14 +9465,14 @@
   "2026-11-08 noite tech",
   "2026-11-09 tarde tech"
  ],
- "reserva_meio": "2026-11-09T16:32:26.678614-03:00",
+ "reserva_meio": "2026-11-09T17:35:56.883071-03:00",
  "reserva_cheia": {
-  "achadinhos": "2026-11-09T12:52:07.030982-03:00",
-  "tech": "2026-11-09T16:01:16.397156-03:00",
-  "marcas": "2026-11-09T12:52:07.030982-03:00"
+  "achadinhos": "2026-11-09T17:04:01.787334-03:00",
+  "tech": "2026-11-09T17:04:01.787334-03:00",
+  "marcas": "2026-11-09T16:54:40.796722-03:00"
  },
  "top10_dia": "2026-11-07",
- "manuais_lidos": "2026-11-09T16:45:53.438455-03:00",
+ "manuais_lidos": "2026-11-09T17:26:51.455947-03:00",
  "reserva_resultado": {
   "2026-11-07": {
    "achadinhos": {
@@ -9470,11 +9512,11 @@
    "achadinhos": {
     "busca": 0,
     "quase": 3,
-    "reprise": 4
+    "reprise": 5
    },
    "marcas": {
     "busca": 0,
-    "quase": 2,
+    "quase": 4,
     "reprise": 3
    }
   }
@@ -9501,7 +9543,7 @@
    "hora": "2026-11-09T12:03:02.243406-03:00"
   }
  },
- "ig_respondido_em": "2026-11-09T16:44:31.608944-03:00",
+ "ig_respondido_em": "2026-11-09T17:26:51.455947-03:00",
  "dm_auto": {
   "2026-11-08": {
    "com_palavra": 0,

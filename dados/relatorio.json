@@ -1335,18 +1335,19 @@
    "⚠️ Garimpo parado desde 08/11 19:56 — abrir o app Claude e conferir as rotinas\nPouca oferta na fila: tech 2.",
    "erro em 2026-11-09 achadinhos 09:58 amz-B07DP2S4PC: HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=60). Não postei.",
    "⚠️ Garimpo parado desde 08/11 19:56 — abrir o app Claude e conferir as rotinas\nPouca oferta na fila: achadinhos 1, marcas 0, tech 0.",
-   "canal tech sem oferta na fila há 65 min (busca extra também não achou). Abastecer ofertas_manuais.json."
+   "canal tech sem oferta na fila há 65 min (busca extra também não achou). Abastecer ofertas_manuais.json.",
+   "⚠️ Garimpo parado desde 13:49 — abrir o app Claude e conferir as rotinas\nPouca oferta na fila: achadinhos 0, marcas 2, tech 0."
   ],
-  "ultima_execucao": "16:01",
-  "execucoes": 11,
+  "ultima_execucao": "16:54",
+  "execucoes": 12,
   "telegram_posts": {
-   "achadinhos": 23,
-   "marcas": 19,
+   "achadinhos": 24,
+   "marcas": 20,
    "tech": 11
   },
   "ultimo_post": {
-   "achadinhos": "16:25",
-   "marcas": "16:17",
+   "achadinhos": "17:37",
+   "marcas": "17:08",
    "tech": "16:09"
   },
   "meta_token": {
@@ -1431,11 +1432,11 @@
    "achadinhos": {
     "busca": 0,
     "quase": 3,
-    "reprise": 4
+    "reprise": 5
    },
    "marcas": {
     "busca": 0,
-    "quase": 2,
+    "quase": 4,
     "reprise": 3
    }
   },
@@ -1554,10 +1555,10 @@
    "shopee-21897631761": "aprovada",
    "shopee-18797677549": "aprovada",
    "shopee-21199205245": "aprovada",
-   "shopee-11098381324": "vendas perto (125+)",
+   "shopee-11098381324": "aprovada",
    "shopee-53767669975": "vendas perto (125+)",
    "shopee-23702004611": "vendas perto (125+)",
-   "shopee-20697627058": "vendas longe",
+   "shopee-20697627058": "vendas perto (125+)",
    "shopee-22599687370": "vendas longe",
    "shopee-21357306803": "vendas longe",
    "shopee-21357306705": "vendas longe",
@@ -1657,10 +1658,10 @@
    "shopee-19161663337": "aprovada",
    "shopee-23494777148": "aprovada",
    "shopee-58261216325": "aprovada",
-   "shopee-23204913091": "vendas perto (125+)",
+   "shopee-23204913091": "aprovada",
    "shopee-58266090290": "desconto perto (até 10 pts)",
    "shopee-19161663389": "vendas perto (125+)",
-   "shopee-23494511696": "vendas longe",
+   "shopee-23494511696": "vendas perto (125+)",
    "shopee-20697211523": "vendas longe",
    "shopee-58213070757": "vendas longe",
    "shopee-23194395728": "vendas longe",
@@ -3728,7 +3729,7 @@
    "shopee-18499921197": "desconto perto (até 10 pts)",
    "shopee-58250795411": "vendas perto (125+)",
    "shopee-22893747649": "vendas perto (125+)",
-   "shopee-23194491840": "vendas perto (125+)",
+   "shopee-23194491840": "vendas longe",
    "shopee-22394989725": "vendas longe",
    "shopee-22195061065": "vendas perto (125+)",
    "shopee-58213040580": "vendas perto (125+)",
@@ -4636,28 +4637,43 @@
    "shopee-3258773144": "aprovada",
    "shopee-9739004991": "aprovada",
    "shopee-23592990089": "aprovada",
-   "shopee-23792931493": "desconto perto (até 10 pts)"
+   "shopee-23792931493": "desconto perto (até 10 pts)",
+   "shopee-58263776868": "outro: palavra proibida: compatível",
+   "shopee-58258974927": "nota",
+   "shopee-58258974886": "nota",
+   "shopee-58258974625": "vendas longe",
+   "shopee-58258972643": "nota",
+   "shopee-58258970673": "nota",
+   "shopee-58258970070": "nota",
+   "shopee-58258969830": "nota",
+   "shopee-58258968320": "nota",
+   "shopee-58258967906": "nota",
+   "shopee-58258967839": "vendas longe",
+   "shopee-58258967742": "nota",
+   "shopee-58258967292": "nota",
+   "shopee-58258964795": "nota",
+   "shopee-58258964147": "nota"
   },
   "shopee_oficial": {
-   "vendas longe": 1819,
-   "nota": 1009,
-   "vendas perto (125+)": 108,
+   "vendas longe": 1820,
+   "nota": 1021,
+   "vendas perto (125+)": 107,
    "outro: marca fora da lista boa": 76,
-   "aprovada": 69,
+   "aprovada": 71,
    "desconto longe": 58,
-   "outro: palavra proibida: compatível": 34,
+   "outro: palavra proibida: compatível": 35,
    "desconto perto (até 10 pts)": 24
   },
   "instagram": {
    "seguidores": 409,
    "posts": 105,
-   "reach": 728,
-   "profile_views": 46,
+   "reach": 789,
+   "profile_views": 50,
    "website_clicks": 2,
    "stories_ativos": 25
   },
   "reels_alcance": {
-   "atualizado": "2026-11-09T16:01:16.397156-03:00",
+   "atualizado": "2026-11-09T16:54:40.796722-03:00",
    "itens": [
     {
      "id": "18110328761352046",
@@ -4672,7 +4688,7 @@
      "id": "18113940269176355",
      "hora": "08/11 21:34",
      "capa": "ate_off",
-     "reach": 1,
+     "reach": 2,
      "views": 1,
      "shares": 0,
      "saved": 0
