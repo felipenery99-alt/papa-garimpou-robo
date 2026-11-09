@@ -732,7 +732,8 @@
   "2026-11-08 marcas 21:26 amz-B0D1KV35W6",
   "2026-11-08 tech 21:34 amz-B0D9P282P2",
   "2026-11-08 achadinhos 21:42 amz-B08YLQNL4W",
-  "2026-11-08 marcas 21:49 amz-B0GZX265S5"
+  "2026-11-08 marcas 21:49 amz-B0GZX265S5",
+  "2026-11-08 achadinhos 21:59 amz-B0B46TH84S"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -1442,7 +1443,8 @@
   "amz-B0D1KV35W6": "2026-11-08T21:26:15.800897-03:00",
   "amz-B0D9P282P2": "2026-11-08T21:34:36.618301-03:00",
   "amz-B08YLQNL4W": "2026-11-08T21:42:24.458979-03:00",
-  "amz-B0GZX265S5": "2026-11-08T21:49:46.896219-03:00"
+  "amz-B0GZX265S5": "2026-11-08T21:49:46.896219-03:00",
+  "amz-B0B46TH84S": "2026-11-08T21:59:37.526698-03:00"
  },
  "ofertas_dia": [
   {
@@ -7230,6 +7232,22 @@
    "valida_ate": "2026-11-09T22:00:00-03:00",
    "entrou": "2026-11-08T20:00:40.706807-03:00",
    "dia": "2026-11-08"
+  },
+  {
+   "id": "amz-B0B46TH84S",
+   "canal": "achadinhos",
+   "nome": "Sérum Noturno L'Oréal Revitalift",
+   "preco_antigo": 179.39,
+   "preco": 62.73,
+   "desconto": 65,
+   "link": "https://www.amazon.com.br/dp/B0B46TH84S?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/81Mx99CTb4L._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-09T22:00:00-03:00",
+   "gancho": "REVITALIFT COM 65% OFF",
+   "entrou": "2026-11-08T20:00:40.706807-03:00",
+   "dia": "2026-11-08"
   }
  ],
  "ig_feitos": [
@@ -7670,21 +7688,6 @@
  },
  "ultimo_pilar": "dica",
  "fila": [
-  {
-   "id": "amz-B0B46TH84S",
-   "canal": "achadinhos",
-   "nome": "Sérum Noturno L'Oréal Revitalift",
-   "preco_antigo": 179.39,
-   "preco": 62.73,
-   "desconto": 65,
-   "link": "https://www.amazon.com.br/dp/B0B46TH84S?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/81Mx99CTb4L._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-09T22:00:00-03:00",
-   "gancho": "REVITALIFT COM 65% OFF",
-   "entrou": "2026-11-08T20:00:40.706807-03:00"
-  },
   {
    "id": "amz-B0CNS3HRM3",
    "canal": "achadinhos",
@@ -8503,7 +8506,8 @@
   "mochilamizunofunnew": "2026-11-08T21:26:15.800897-03:00",
   "headsetgamerjblquantum100ncomfio": "2026-11-08T21:34:36.618301-03:00",
   "serumfacialnivealuminous630": "2026-11-08T21:42:24.458979-03:00",
-  "wheyproteinintegralmedicanutriwhey": "2026-11-08T21:49:46.896219-03:00"
+  "wheyproteinintegralmedicanutriwhey": "2026-11-08T21:49:46.896219-03:00",
+  "serumnoturnolorealrevitalift": "2026-11-08T21:59:37.526698-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
@@ -8791,7 +8795,7 @@
   "marcas": "2026-11-08T18:44:22.674425-03:00"
  },
  "top10_dia": "2026-11-07",
- "manuais_lidos": "2026-11-08T21:49:43.299877-03:00",
+ "manuais_lidos": "2026-11-08T22:03:00.146206-03:00",
  "reserva_resultado": {
   "2026-11-07": {
    "achadinhos": {
@@ -8841,7 +8845,7 @@
    "hora": "2026-11-08T21:33:47.773417-03:00"
   }
  },
- "ig_respondido_em": "2026-11-08T21:49:43.299877-03:00",
+ "ig_respondido_em": "2026-11-08T22:03:00.146206-03:00",
  "dm_auto": {
   "2026-11-08": {
    "com_palavra": 0,
