@@ -757,7 +757,11 @@
   "2026-11-09 tech 10:46 shopee-23999162333",
   "2026-11-09 tech 10:53 shopee-45910145137",
   "2026-11-09 marcas 11:00 shopee-29083433141",
-  "2026-11-09 tech 11:09 shopee-21998281414"
+  "2026-11-09 tech 11:09 shopee-21998281414",
+  "2026-11-09 achadinhos 11:29 shopee-21897631761",
+  "2026-11-09 achadinhos 11:37 shopee-52364763614",
+  "2026-11-09 marcas 11:49 shopee-9511754133",
+  "2026-11-09 tech 11:56 shopee-19997803637"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -921,8 +925,8 @@
   "ml-MLB5420759822": "2026-10-30T12:42:04.536653-03:00",
   "shopee-58255413156": "2026-10-30T13:01:32.427662-03:00",
   "ml-MLBU4074557041": "2026-10-30T13:11:10.532773-03:00",
-  "shopee-21897631761": "2026-11-06T15:13:49.462838-03:00",
-  "shopee-9511754133": "2026-11-06T16:18:53.425191-03:00",
+  "shopee-21897631761": "2026-11-09T11:29:58.634243-03:00",
+  "shopee-9511754133": "2026-11-09T11:49:06.916664-03:00",
   "shopee-18797677549": "2026-11-07T08:17:20.765679-03:00",
   "shopee-20299205359": "2026-11-07T08:34:24.879393-03:00",
   "shopee-22397314985": "2026-10-30T14:33:24.012715-03:00",
@@ -1328,7 +1332,7 @@
   "amz-B08L6YHZ75": "2026-11-06T10:50:32.575207-03:00",
   "amz-B004SOA3ZG": "2026-11-06T10:58:17.822266-03:00",
   "amz-B0GX2PLDZ9": "2026-11-06T11:05:42.945104-03:00",
-  "shopee-52364763614": "2026-11-06T11:13:23.415162-03:00",
+  "shopee-52364763614": "2026-11-09T11:37:12.359644-03:00",
   "amz-B0HBZ822QW": "2026-11-06T11:20:14.354086-03:00",
   "shopee-58211443678": "2026-11-06T11:30:35.256164-03:00",
   "shopee-20397809626": "2026-11-06T11:35:22.454069-03:00",
@@ -1492,7 +1496,8 @@
   "shopee-23999162333": "2026-11-09T10:46:19.643874-03:00",
   "shopee-45910145137": "2026-11-09T10:53:58.818905-03:00",
   "shopee-29083433141": "2026-11-09T11:00:17.698435-03:00",
-  "shopee-21998281414": "2026-11-09T11:09:14.410157-03:00"
+  "shopee-21998281414": "2026-11-09T11:09:14.410157-03:00",
+  "shopee-19997803637": "2026-11-09T11:56:23.407354-03:00"
  },
  "ofertas_dia": [
   {
@@ -7680,6 +7685,82 @@
    "canal": "tech",
    "entrou": "2026-11-09T10:34:49.724459-03:00",
    "dia": "2026-11-09"
+  },
+  {
+   "id": "shopee-21897631761",
+   "plataforma": "Shopee",
+   "nome": "Secador De Cabelo Taiff New Tourmaline Profissional 2100W",
+   "loja": "Beleza Renovada Oficial",
+   "loja_oficial": true,
+   "preco": 382.28,
+   "preco_antigo": 616.58,
+   "desconto": 38,
+   "vendas": 577,
+   "nota": 4.9,
+   "comissao_pct": 15.0,
+   "imagem": "https://cf.shopee.com.br/file/sg-11134201-822y1-moe6fix56ubw37",
+   "link": "https://s.shopee.com.br/7fbE2lE4mT",
+   "canal": "achadinhos",
+   "entrou": "2026-11-09T11:21:30.800722-03:00",
+   "reprise_dias": 2,
+   "dia": "2026-11-09"
+  },
+  {
+   "id": "shopee-52364763614",
+   "plataforma": "Shopee",
+   "nome": "Body Splash Natura Tododia Noz Pecã e Cacau Feminino 200ml",
+   "loja": "NATURA",
+   "loja_oficial": true,
+   "preco": 46.95,
+   "preco_antigo": 93.9,
+   "desconto": 50,
+   "vendas": 463,
+   "nota": 4.9,
+   "comissao_pct": 13.0,
+   "imagem": "https://cf.shopee.com.br/file/sg-11134201-8258s-mr1n0pofx6v9fa",
+   "link": "https://s.shopee.com.br/1gK0toCpau",
+   "canal": "achadinhos",
+   "entrou": "2026-11-09T11:21:30.800722-03:00",
+   "reprise_dias": 2,
+   "dia": "2026-11-09"
+  },
+  {
+   "id": "shopee-9511754133",
+   "plataforma": "Shopee",
+   "nome": "Creatina Max Titanium 300g Pura",
+   "loja": "Hard Extreme",
+   "loja_oficial": true,
+   "preco": 35.7,
+   "preco_antigo": 178.5,
+   "desconto": 80,
+   "vendas": 6587,
+   "nota": 4.9,
+   "comissao_pct": 10.0,
+   "imagem": "https://cf.shopee.com.br/file/sg-11134201-22100-7b7tjvynfbivb7",
+   "link": "https://s.shopee.com.br/5q9ZreezVv",
+   "canal": "marcas",
+   "entrou": "2026-11-09T11:45:03.865786-03:00",
+   "reprise_dias": 2,
+   "dia": "2026-11-09"
+  },
+  {
+   "id": "shopee-19997803637",
+   "plataforma": "Shopee",
+   "nome": "BETTDOW Samsung Tab S9/S9 FE Lite 11 polegadas Teclado Bluetooth + Capa com Slot para Caneta (Tablet Não Incluso)",
+   "loja": "Bettdow",
+   "loja_oficial": true,
+   "preco": 99.0,
+   "preco_antigo": 300.0,
+   "desconto": 67,
+   "vendas": 189,
+   "nota": 4.6,
+   "comissao_pct": 13.0,
+   "imagem": "https://cf.shopee.com.br/file/br-11134207-820ma-mrs4kxqeojra8c",
+   "link": "https://s.shopee.com.br/1W0ahszN3N",
+   "quase": true,
+   "canal": "tech",
+   "entrou": "2026-11-09T11:45:03.865786-03:00",
+   "dia": "2026-11-09"
   }
  ],
  "ig_feitos": [
@@ -7819,10 +7900,14 @@
   "2026-11-09 09:38 story_oferta",
   "2026-11-09 10:20 story_oferta",
   "2026-11-09 10:24 story_oferta",
-  "2026-11-09 11:11 story_oferta"
+  "2026-11-09 11:11 story_oferta",
+  "2026-11-09 feed",
+  "2026-11-09 11:50 carrossel_top5",
+  "2026-11-09 feed",
+  "2026-11-09 12:00 reels",
+  "2026-11-09 11:56 story_oferta"
  ],
  "ig_ofertas_usadas": [
-  "shopee-22194331598",
   "shopee-23398337380",
   "amz-B09GCJZ45Z",
   "amz-B07FFJ2T6T",
@@ -8021,11 +8106,12 @@
   "amz-B0F5ZGSCQ5",
   "amz-B0FK1JG2TT",
   "amz-B076H4BZ7L",
-  "amz-B0FFD3W272"
+  "amz-B0FFD3W272",
+  "amz-B0H6VBFKNS"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
- "ig_ultimo_reel": "2026-11-08T21:33:47.773417-03:00",
+ "ig_ultimo_reel": "2026-11-09T12:03:02.243406-03:00",
  "pecas_usadas": {
   "ac-preco-inflado": "2026-10-27",
   "dc-7-dias": "2026-10-27",
@@ -8103,8 +8189,8 @@
   "tenisnikerevolution8masculino": "2026-10-30T12:42:04.536653-03:00",
   "laminarefilduplocompativelbarbeadorphilipsonebladereposicaoqp14xqp25xqp26xqp27xqp28xqp65xqp66x": "2026-10-30T13:01:32.427662-03:00",
   "tenisnikerevolution8feminino": "2026-10-30T13:11:10.532773-03:00",
-  "secadordecabelotaiffnewtourmalineprofissional2100w": "2026-11-06T15:13:49.462838-03:00",
-  "creatinamaxtitanium300gpura": "2026-11-06T16:18:53.425191-03:00",
+  "secadordecabelotaiffnewtourmalineprofissional2100w": "2026-11-09T11:29:58.634243-03:00",
+  "creatinamaxtitanium300gpura": "2026-11-09T11:49:06.916664-03:00",
   "secadordecabelotaiffstyleprofissionaloriginal2000w": "2026-11-07T08:17:20.765679-03:00",
   "secadordecabelotaiffblackionprofissionaloriginal2000w": "2026-11-07T08:34:24.879393-03:00",
   "creatinapote100gmaxtitanium": "2026-10-30T14:33:24.012715-03:00",
@@ -8510,7 +8596,7 @@
   "escovasecadorabritaniasoft4em11300wbec07r": "2026-11-06T10:50:32.575207-03:00",
   "oculosdesolraybanwayfarerunissex54": "2026-11-06T10:58:17.822266-03:00",
   "headsetgamersemfiologitechgastroa20x": "2026-11-06T11:05:42.945104-03:00",
-  "bodysplashnaturatododianozpecaecacaufeminino200ml": "2026-11-06T11:13:23.415162-03:00",
+  "bodysplashnaturatododianozpecaecacaufeminino200ml": "2026-11-09T11:37:12.359644-03:00",
   "creatinapura500gbetaalanina500gdarklab": "2026-11-06T11:20:14.354086-03:00",
   "desodorantecorporalnaturaessencialmasculino100ml": "2026-11-06T11:30:35.256164-03:00",
   "aspiradordepoeaguawapgtw101400w10litrosamarelopreto220vfw005706": "2026-11-06T11:35:22.454069-03:00",
@@ -8674,7 +8760,8 @@
   "smarttvmonitorhd32samsungls32h5000fgxzdpreta": "2026-11-09T10:46:19.643874-03:00",
   "caixadesomjblpartyboxencore2bluetooth100wrmspreto": "2026-11-09T10:53:58.818905-03:00",
   "kit4cuecasboxerlupomicrofibrapoliamidasemcosturaconfortavelcuecamasculinapacoteoriginal": "2026-11-09T11:00:17.698435-03:00",
-  "caixadesombluetoothjblboombox4originalaprovadaguaeresistenteapoeiranf": "2026-11-09T11:09:14.410157-03:00"
+  "caixadesombluetoothjblboombox4originalaprovadaguaeresistenteapoeiranf": "2026-11-09T11:09:14.410157-03:00",
+  "bettdowsamsungtabs9s9felite11polegadastecladobluetoothcapacomslotparacanetatabletnaoincluso": "2026-11-09T11:56:23.407354-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
@@ -8854,6 +8941,13 @@
    "shopee-46611963995",
    "shopee-23298467238",
    "shopee-23094056729"
+  ],
+  "2026-11-09": [
+   "shopee-21897631761",
+   "shopee-19997803637",
+   "shopee-21316811936",
+   "shopee-9511754133",
+   "shopee-52364763614"
   ]
  },
  "vendas_shopee": {},
@@ -8955,14 +9049,14 @@
   "2026-11-08 tarde achadinhos",
   "2026-11-08 noite tech"
  ],
- "reserva_meio": "2026-11-09T11:07:24.387972-03:00",
+ "reserva_meio": "2026-11-09T12:03:02.243406-03:00",
  "reserva_cheia": {
   "achadinhos": "2026-11-09T11:07:24.387972-03:00",
-  "tech": "2026-11-09T10:34:49.724459-03:00",
-  "marcas": "2026-11-08T18:44:22.674425-03:00"
+  "tech": "2026-11-09T11:45:03.865786-03:00",
+  "marcas": "2026-11-09T11:45:03.865786-03:00"
  },
  "top10_dia": "2026-11-07",
- "manuais_lidos": "2026-11-09T11:16:31.143868-03:00",
+ "manuais_lidos": "2026-11-09T12:05:47.642456-03:00",
  "reserva_resultado": {
   "2026-11-07": {
    "achadinhos": {
@@ -8996,18 +9090,18 @@
   "2026-11-09": {
    "tech": {
     "busca": 0,
-    "quase": 3,
+    "quase": 4,
     "reprise": 0
    },
    "achadinhos": {
     "busca": 0,
     "quase": 0,
-    "reprise": 0
+    "reprise": 2
    },
    "marcas": {
     "busca": 0,
     "quase": 0,
-    "reprise": 0
+    "reprise": 1
    }
   }
  },
@@ -9027,9 +9121,13 @@
   "18113940269176355": {
    "capa": "ate_off",
    "hora": "2026-11-08T21:33:47.773417-03:00"
+  },
+  "18110328761352046": {
+   "capa": "ate_off",
+   "hora": "2026-11-09T12:03:02.243406-03:00"
   }
  },
- "ig_respondido_em": "2026-11-09T11:16:31.143868-03:00",
+ "ig_respondido_em": "2026-11-09T12:03:02.243406-03:00",
  "dm_auto": {
   "2026-11-08": {
    "com_palavra": 0,
@@ -9069,5 +9167,15 @@
    "@papagarimpoutech": "ok",
    "@papagarimpouofertas": "ok"
   }
+ },
+ "tiktok": {
+  "2026-11-09": [
+   {
+    "hora": "12:03",
+    "capa": "ate_off",
+    "legenda": "Manda pra quem tá precisando disso 👇\n😎💎 Até 80% OFF em marca boa: os 5 achados do Papa hoje\n\nLink no perfil: ofertas todo dia no Telegram do Papa 💎\n\nPubli · link de afiliado",
+    "url": "https://raw.githubusercontent.com/felipenery99-alt/papa-garimpou-robo/midia-temp/20261109-1203-tiktok.mp4"
+   }
+  ]
  }
 }
