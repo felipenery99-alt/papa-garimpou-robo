@@ -72,6 +72,8 @@ def gravar_relatorio(h: dict, agora: datetime) -> None:
         dia["dm_auto"] = h["dm_auto"][hoje]
     if h.get("canais_info"):
         dia["canais_info"] = h["canais_info"]
+    if h.get("tiktok", {}).get(hoje):
+        dia["tiktok"] = [{k: v for k, v in i.items() if k != "legenda"} for i in h["tiktok"][hoje]]
     dia["facebook"] = {"posts": h.get("fb_posts", {}).get(hoje, 0), "ultimo": h.get("fb_ultimo"), "erro": h.get("fb_erro"),
                       "parado_sem_permissao": (h.get("fb_sem_permissao") or {}).get("desde")}
     if h.get("reserva_resultado", {}).get(hoje):
@@ -851,6 +853,35 @@ def soltar_fila(h: dict, telegram, limite: datetime, atraso: bool = True) -> int
 
 
 # 04/11 (Central): TODO Reel (de ofertas ou do banco de dicas) sai com a chamada para seguir na legenda
+# 09/11 (CEO: TikTok mostra vídeo de conta nova para quem não segue; o Instagram segue o foco): todo Reels também
+# vira cópia para o TikTok — o mesmo vídeo 9:16 (feito aqui, sem marca de outra rede) e legenda curta com
+# "link no perfil" (TikTok não tem link clicável na legenda). O vídeo fica no ramo de mídia do dia; o PC baixa
+# com baixar_tiktok.py para posts\tiktok\AAAAMMDD e a PG · Instagram publica pelo Chrome M.
+TIKTOK_FECHO = "\n\nLink no perfil: ofertas todo dia no Telegram do Papa 💎\n\nPubli · link de afiliado"
+
+
+def legenda_tiktok(leg: str) -> str:
+    linhas = [x.strip() for x in (leg or "").split("\n") if x.strip()]
+    linhas = [x for x in linhas if x not in [g.strip() for g in GANCHOS_REEL]]
+    topo = linhas[0] if linhas else "😎💎 Achados do Papa"
+    return GANCHOS_REEL[0] + "\n" + topo[:150] + TIKTOK_FECHO
+
+
+def guardar_tiktok(h: dict, agora: datetime, mp4: bytes, leg: str, capa: str) -> None:
+    """Nunca derruba o Reels do Instagram: qualquer erro só fica registrado."""
+    import instagram
+    hoje = agora.date().isoformat()
+    item = {"hora": f"{agora:%H:%M}", "capa": capa, "legenda": legenda_tiktok(leg)}
+    try:
+        item["url"] = instagram.hospedar(f"{agora:%Y%m%d-%H%M}-tiktok.mp4", mp4)
+    except Exception as e:
+        item["erro"] = str(e)[:200]
+        print(f"[tiktok] cópia do vídeo falhou: {e}")
+    tk = h.setdefault("tiktok", {})
+    tk.setdefault(hoje, []).append(item)
+    h["tiktok"] = {d: v for d, v in tk.items() if d >= (agora.date() - timedelta(days=7)).isoformat()}
+
+
 SIGA_REEL = "\n\n👉 Siga @papa.garimpou pra não perder"
 # 05/11 (CEO): seguidor do Instagram não vira membro do Telegram. Fecho único: comentar TELEGRAM → convite no direct
 # (link "ig-dm"). Sem hashtag; o aviso de publicidade fica em texto.
@@ -1392,8 +1423,10 @@ def rodar_instagram(h: dict, agora: datetime) -> None:
                     # sem oferta nova suficiente: Reels de dica do banco (alcance não pode parar)
                     tipo_capa = "banco"
                     quadros, leg = reels_do_banco(h, agora)
-                rid = instagram.reels(video.reel(quadros), leg)
+                mp4 = video.reel(quadros)
+                rid = instagram.reels(mp4, leg)
                 h.setdefault("ig_reels_log", {})[str(rid)] = {"capa": tipo_capa, "hora": agora.isoformat()}
+                guardar_tiktok(h, agora, mp4, leg, tipo_capa)
                 h["ig_ultimo_reel"] = agora.isoformat()
             elif tipo == "carrossel_top5":
                 top = sorted(h.get("ofertas_dia", []), key=qualidade.pontuar, reverse=True)

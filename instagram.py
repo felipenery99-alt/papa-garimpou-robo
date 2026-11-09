@@ -104,7 +104,9 @@ def _esperar_raw(url: str, nome: str) -> None:
     for _ in range(12):
         try:
             r = requests.head(url, timeout=15, allow_redirects=True)
-            if r.status_code == 200 and r.headers.get("content-type", "").startswith("image/"):
+            tipo = r.headers.get("content-type", "")
+            # 09/11: vídeo do TikTok (.mp4) o raw serve como octet-stream; basta responder 200
+            if r.status_code == 200 and (tipo.startswith("image/") or not nome.endswith((".jpg", ".jpeg", ".png"))):
                 return
         except requests.RequestException:
             pass

@@ -22,6 +22,10 @@ def mesclar(nosso: dict, remoto: dict) -> dict:
     out["convites_story"] = {n: {"link": (b.get(n) or a[n])["link"],
                                  "entradas": list(dict.fromkeys(a.get(n, {}).get("entradas", []) + b.get(n, {}).get("entradas", [])))}
                              for n in {**a, **b}}
+    # 09/11: cópias do TikTok por dia (lista; junta sem repetir o mesmo horário)
+    a, b = remoto.get("tiktok", {}), nosso.get("tiktok", {})
+    if a or b:
+        out["tiktok"] = {d: list({i["hora"]: i for i in a.get(d, []) + b.get(d, [])}.values()) for d in {**a, **b}}
     if remoto.get("tg_offset") or nosso.get("tg_offset"):
         out["tg_offset"] = max(remoto.get("tg_offset") or 0, nosso.get("tg_offset") or 0)
     if remoto.get("resumo_enviado") or nosso.get("resumo_enviado"):   # 04/11: nunca reenviar o resumo do dono
