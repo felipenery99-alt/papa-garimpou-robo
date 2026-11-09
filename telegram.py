@@ -88,6 +88,34 @@ def membros(destino: str) -> int | None:
         return None
 
 
+def info_canal(destino: str) -> dict:
+    """getChat: título, descrição e permissões do robô não vêm juntos; aqui só título e descrição."""
+    if destino not in config.DESTINOS_PERMITIDOS:
+        raise DestinoProibido(destino)
+    r = requests.get(API.format(token=_token(), metodo="getChat"), params={"chat_id": destino}, timeout=30).json()
+    if not r.get("ok"):
+        raise RuntimeError(r.get("description", r))
+    return r["result"]
+
+
+def trocar_titulo_descricao(destino: str, titulo: str, descricao: str) -> list[str]:
+    """setChatTitle + setChatDescription (exige "Alterar informações do canal"). Pula o que já está igual."""
+    if destino not in config.DESTINOS_PERMITIDOS:
+        raise DestinoProibido(destino)
+    atual = info_canal(destino)
+    feito = []
+    for metodo, campo, valor in (("setChatTitle", "title", titulo), ("setChatDescription", "description", descricao)):
+        if (atual.get(campo) or "") == valor:
+            feito.append(f"{campo} já igual")
+            continue
+        r = requests.post(API.format(token=_token(), metodo=metodo),
+                          data={"chat_id": destino, campo: valor}, timeout=30).json()
+        if not r.get("ok") and "not modified" not in str(r.get("description", "")):
+            raise RuntimeError(f"{metodo}: {r.get('description', r)}")
+        feito.append(f"{campo} ok")
+    return feito
+
+
 def criar_convite(destino: str, nome: str) -> str:
     """Link de convite próprio (createChatInviteLink); exige o robô com "Convidar usuários" no canal."""
     if destino not in config.DESTINOS_PERMITIDOS:

@@ -70,6 +70,8 @@ def gravar_relatorio(h: dict, agora: datetime) -> None:
     dia["shopee_ligada"] = bool(os.environ.get("SHOPEE_APP_ID"))
     if h.get("dm_auto", {}).get(hoje):   # 08/11 (Central): convite no direct por comentário
         dia["dm_auto"] = h["dm_auto"][hoje]
+    if h.get("canais_info"):
+        dia["canais_info"] = h["canais_info"]
     dia["facebook"] = {"posts": h.get("fb_posts", {}).get(hoje, 0), "ultimo": h.get("fb_ultimo"), "erro": h.get("fb_erro"),
                       "parado_sem_permissao": (h.get("fb_sem_permissao") or {}).get("desde")}
     if h.get("reserva_resultado", {}).get(hoje):
@@ -228,6 +230,59 @@ BOAS_VINDAS = ("💎 Bem-vindo ao Papa Garimpou!\n"
                "🎮 Tech (games, TV, fone, celular): t.me/papagarimpoutech\n\n"
                "⚡ Todo dia tem oferta que sai primeiro aqui no Telegram, antes do Instagram.\n"
                "🔔 Ative as notificações: oferta boa acaba rápido.")
+
+
+# 08/11 (CEO via PG · Telegram, busca interna do Telegram): título e 1ª linha da descrição com as palavras que
+# as pessoas buscam. Aplica uma vez por versão; o bloco "Outros canais do Papa" da descrição atual é mantido.
+# Achadinhos e Marcas encurtados (mesmas palavras de busca) para caber em 255 com o bloco de links e o #publi.
+CANAIS_INFO_VERSAO = "2026-11-08"
+CANAIS_INFO = {
+    "@papagarimpou": ("Papa Garimpou 💎 Promoções, Cupons e Achadinhos",
+                      "🛒 Promoções e cupons: casa, cozinha, beleza, ferramentas. Achadinhos Amazon, Shopee, "
+                      "Mercado Livre e Magalu."),
+    "@papagarimpoumarcas": ("Papa Garimpou Marcas 💎 Promoções de Tênis, Roupa e Perfume",
+                            "👕 Promoções de tênis, roupa, perfume e academia ORIGINAIS. Amazon, Shopee, Mercado Livre, "
+                            "Nike e Netshoes, só loja oficial."),
+    "@papagarimpoutech": ("Papa Garimpou Tech 💎 Promoções de Eletrônicos e Games",
+                          "📱🎮 Promoções de celular, fone, TV, notebook e games. Ofertas Amazon, Shopee, "
+                          "Mercado Livre e Magalu com preço conferido."),
+    "@papagarimpouofertas": ("Papa Garimpou 💎 Ofertas e Promoções do Dia | Cupons",
+                             "💎 Todas as promoções e cupons do Papa num canal só: Amazon, Shopee, Mercado Livre "
+                             "e Magalu. Só marca boa e desconto de verdade."),
+}
+
+
+def nova_descricao(atual: str, primeira: str) -> str:
+    """Troca o texto antes do bloco "Outros canais" (ou a 1ª linha, se não houver o bloco) por `primeira`."""
+    atual = atual or ""
+    i = atual.lower().find("outros canais")
+    if i >= 0:
+        resto = atual[atual.rfind("\n", 0, i) + 1:]
+    else:
+        resto = atual.split("\n", 1)[1].lstrip("\n") if "\n" in atual else ""
+    return (primeira + ("\n\n" + resto if resto else "")).strip()
+
+
+def atualizar_canais_info(h: dict, telegram) -> None:
+    info = h.setdefault("canais_info", {})
+    if info.get("versao") == CANAIS_INFO_VERSAO and all(v == "ok" for v in info.get("resultado", {}).values()):
+        return
+    res = {}
+    for destino, (titulo, primeira) in CANAIS_INFO.items():
+        if info.get("versao") == CANAIS_INFO_VERSAO and info.get("resultado", {}).get(destino) == "ok":
+            res[destino] = "ok"
+            continue
+        try:
+            desc = nova_descricao(telegram.info_canal(destino).get("description", ""), primeira)
+            tam = len(desc.encode("utf-16-le")) // 2
+            if tam > 255:   # limite do Telegram para descrição de canal
+                raise RuntimeError(f"descrição com {tam} caracteres (máx. 255)")
+            print(f"[canais] {destino}: {telegram.trocar_titulo_descricao(destino, titulo, desc)}")
+            res[destino] = "ok"
+        except Exception as e:
+            res[destino] = str(e)[:200]
+            print(f"[canais] {destino} falhou: {e}")
+    h["canais_info"] = {"versao": CANAIS_INFO_VERSAO, "resultado": res}
 
 
 def publicar_menus(h: dict, telegram) -> None:
@@ -1712,6 +1767,10 @@ def main() -> int:
     # despejar tudo de uma vez, solta uma oferta a cada poucos minutos até perto da próxima execução.
     erros = 0
     publicar_menus(h, telegram)
+    try:
+        atualizar_canais_info(h, telegram)
+    except Exception as e:
+        print(f"[canais] {e}")
     pede_pro_papa_semanal(h, telegram, agora)
     # Ofertas garimpadas fora da Shopee (Amazon etc.), conferidas à mão e gravadas em ofertas_manuais.json
     for canal in config.CANAIS:
