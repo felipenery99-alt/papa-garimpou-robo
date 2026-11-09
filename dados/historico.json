@@ -741,7 +741,13 @@
   "2026-11-09 tech 08:42 amz-B0FK1JG2TT",
   "2026-11-09 achadinhos 08:50 amz-B076H4BZ7L",
   "2026-11-09 marcas 08:56 amz-B0FFD3W272",
-  "2026-11-09 tech 09:03 amz-B0H6VBFKNS"
+  "2026-11-09 tech 09:03 amz-B0H6VBFKNS",
+  "2026-11-09 achadinhos 09:11 amz-B0BMW92ZBT",
+  "2026-11-09 marcas 09:19 amz-B07MPZLM1N",
+  "2026-11-09 tech 09:25 amz-B0DTJKLBBQ",
+  "2026-11-09 achadinhos 09:32 amz-B0FVYBPXBF",
+  "2026-11-09 marcas 09:39 amz-B008SBKTLI",
+  "2026-11-09 tech 09:47 amz-B0D45QCBF7"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -1460,7 +1466,13 @@
   "amz-B0FK1JG2TT": "2026-11-09T08:42:30.634605-03:00",
   "amz-B076H4BZ7L": "2026-11-09T08:50:30.821058-03:00",
   "amz-B0FFD3W272": "2026-11-09T08:56:54.981619-03:00",
-  "amz-B0H6VBFKNS": "2026-11-09T09:03:35.342968-03:00"
+  "amz-B0H6VBFKNS": "2026-11-09T09:03:35.342968-03:00",
+  "amz-B0BMW92ZBT": "2026-11-09T09:11:27.577856-03:00",
+  "amz-B07MPZLM1N": "2026-11-09T09:19:30.158927-03:00",
+  "amz-B0DTJKLBBQ": "2026-11-09T09:25:44.766475-03:00",
+  "amz-B0FVYBPXBF": "2026-11-09T09:32:20.670498-03:00",
+  "amz-B008SBKTLI": "2026-11-09T09:39:06.313778-03:00",
+  "amz-B0D45QCBF7": "2026-11-09T09:47:05.018545-03:00"
  },
  "ofertas_dia": [
   {
@@ -7388,6 +7400,97 @@
    "valida_ate": "2026-11-09T22:00:00-03:00",
    "entrou": "2026-11-09T08:17:39.840089-03:00",
    "dia": "2026-11-09"
+  },
+  {
+   "id": "amz-B0BMW92ZBT",
+   "canal": "achadinhos",
+   "nome": "Cafeteira Nescafé Dolce Gusto Genio S Plus Arno",
+   "preco_antigo": 929.99,
+   "preco": 484.0,
+   "desconto": 48,
+   "link": "https://www.amazon.com.br/dp/B0BMW92ZBT?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51Zvl1ICcyL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-09T22:00:00-03:00",
+   "entrou": "2026-11-09T08:17:39.840089-03:00",
+   "dia": "2026-11-09"
+  },
+  {
+   "id": "amz-B07MPZLM1N",
+   "canal": "marcas",
+   "nome": "Creatina 100% Pure Atlhetica Nutrition 300g",
+   "preco_antigo": 69.59,
+   "preco": 33.15,
+   "desconto": 52,
+   "link": "https://www.amazon.com.br/dp/B07MPZLM1N?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61RtjUwr0UL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-09T22:00:00-03:00",
+   "entrou": "2026-11-09T08:17:39.840089-03:00",
+   "dia": "2026-11-09"
+  },
+  {
+   "id": "amz-B0DTJKLBBQ",
+   "canal": "tech",
+   "nome": "Mouse sem fio Logitech M240 Bluetooth",
+   "preco_antigo": 89.9,
+   "preco": 59.9,
+   "desconto": 33,
+   "link": "https://www.amazon.com.br/dp/B0DTJKLBBQ?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51QjFpLqLwL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-09T22:00:00-03:00",
+   "entrou": "2026-11-09T08:17:39.840089-03:00",
+   "dia": "2026-11-09"
+  },
+  {
+   "id": "amz-B0FVYBPXBF",
+   "canal": "achadinhos",
+   "nome": "Prancha de Cabelo WAP Intense Pro 250°C",
+   "preco_antigo": 399.9,
+   "preco": 189.9,
+   "desconto": 53,
+   "link": "https://www.amazon.com.br/dp/B0FVYBPXBF?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61PtB-oxU0L._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-09T22:00:00-03:00",
+   "entrou": "2026-11-09T08:17:39.840089-03:00",
+   "dia": "2026-11-09"
+  },
+  {
+   "id": "amz-B008SBKTLI",
+   "canal": "marcas",
+   "nome": "Perfume Lancôme La Vie est Belle EDP",
+   "preco_antigo": 809.0,
+   "preco": 422.99,
+   "desconto": 48,
+   "link": "https://www.amazon.com.br/dp/B008SBKTLI?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71EoeGFUpHL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-09T22:00:00-03:00",
+   "gancho": "LA VIE EST BELLE QUASE PELA METADE",
+   "entrou": "2026-11-09T08:17:39.840089-03:00",
+   "dia": "2026-11-09"
+  },
+  {
+   "id": "amz-B0D45QCBF7",
+   "canal": "tech",
+   "nome": "Fone sem fio HUAWEI FreeBuds SE 2",
+   "preco_antigo": 239.0,
+   "preco": 146.3,
+   "desconto": 39,
+   "link": "https://www.amazon.com.br/dp/B0D45QCBF7?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61iR-8Aj7CL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-09T22:00:00-03:00",
+   "entrou": "2026-11-09T08:17:39.840089-03:00",
+   "dia": "2026-11-09"
   }
  ],
  "ig_feitos": [
@@ -7523,13 +7626,10 @@
   "parceria jess-20261108",
   "2026-11-09 08:07 story_oferta",
   "2026-11-09 08:45 story_oferta",
-  "2026-11-09 08:52 story_oferta"
+  "2026-11-09 08:52 story_oferta",
+  "2026-11-09 09:38 story_oferta"
  ],
  "ig_ofertas_usadas": [
-  "amz-B0DDZ4QF35",
-  "amz-B0CRXH4928",
-  "amz-B07C56GRM1",
-  "amz-B0D9KV9YWZ",
   "shopee-58260024078",
   "amz-B09XJK1XS1",
   "amz-B0CX1SDR83",
@@ -7728,7 +7828,8 @@
   "shopee-23494777148",
   "shopee-22593528984",
   "amz-B0CNS3HRM3",
-  "amz-B0B4PG4XP7"
+  "amz-B0B4PG4XP7",
+  "amz-B0F5ZGSCQ5"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
@@ -7795,34 +7896,6 @@
  "ultimo_pilar": "dica",
  "fila": [
   {
-   "id": "amz-B0BMW92ZBT",
-   "canal": "achadinhos",
-   "nome": "Cafeteira Nescafé Dolce Gusto Genio S Plus Arno",
-   "preco_antigo": 929.99,
-   "preco": 484.0,
-   "desconto": 48,
-   "link": "https://www.amazon.com.br/dp/B0BMW92ZBT?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51Zvl1ICcyL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-09T22:00:00-03:00",
-   "entrou": "2026-11-09T08:17:39.840089-03:00"
-  },
-  {
-   "id": "amz-B0FVYBPXBF",
-   "canal": "achadinhos",
-   "nome": "Prancha de Cabelo WAP Intense Pro 250°C",
-   "preco_antigo": 399.9,
-   "preco": 189.9,
-   "desconto": 53,
-   "link": "https://www.amazon.com.br/dp/B0FVYBPXBF?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61PtB-oxU0L._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-09T22:00:00-03:00",
-   "entrou": "2026-11-09T08:17:39.840089-03:00"
-  },
-  {
    "id": "amz-B07DP2S4PC",
    "canal": "achadinhos",
    "nome": "Aparador de Pelos Mondial Super Groom 10",
@@ -7865,35 +7938,6 @@
    "entrou": "2026-11-09T08:17:39.840089-03:00"
   },
   {
-   "id": "amz-B07MPZLM1N",
-   "canal": "marcas",
-   "nome": "Creatina 100% Pure Atlhetica Nutrition 300g",
-   "preco_antigo": 69.59,
-   "preco": 33.15,
-   "desconto": 52,
-   "link": "https://www.amazon.com.br/dp/B07MPZLM1N?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61RtjUwr0UL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-09T22:00:00-03:00",
-   "entrou": "2026-11-09T08:17:39.840089-03:00"
-  },
-  {
-   "id": "amz-B008SBKTLI",
-   "canal": "marcas",
-   "nome": "Perfume Lancôme La Vie est Belle EDP",
-   "preco_antigo": 809.0,
-   "preco": 422.99,
-   "desconto": 48,
-   "link": "https://www.amazon.com.br/dp/B008SBKTLI?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/71EoeGFUpHL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-09T22:00:00-03:00",
-   "gancho": "LA VIE EST BELLE QUASE PELA METADE",
-   "entrou": "2026-11-09T08:17:39.840089-03:00"
-  },
-  {
    "id": "amz-B0D2RJN5Q3",
    "canal": "marcas",
    "nome": "Camiseta Puma Ess No. 1 Logo Feminina",
@@ -7917,34 +7961,6 @@
    "desconto": 41,
    "link": "https://www.amazon.com.br/dp/B0CZLZKGVL?tag=papagarimpou-20",
    "imagem": "https://m.media-amazon.com/images/I/41jH2Vie+4L._AC_SL1200_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-09T22:00:00-03:00",
-   "entrou": "2026-11-09T08:17:39.840089-03:00"
-  },
-  {
-   "id": "amz-B0DTJKLBBQ",
-   "canal": "tech",
-   "nome": "Mouse sem fio Logitech M240 Bluetooth",
-   "preco_antigo": 89.9,
-   "preco": 59.9,
-   "desconto": 33,
-   "link": "https://www.amazon.com.br/dp/B0DTJKLBBQ?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51QjFpLqLwL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-09T22:00:00-03:00",
-   "entrou": "2026-11-09T08:17:39.840089-03:00"
-  },
-  {
-   "id": "amz-B0D45QCBF7",
-   "canal": "tech",
-   "nome": "Fone sem fio HUAWEI FreeBuds SE 2",
-   "preco_antigo": 239.0,
-   "preco": 146.3,
-   "desconto": 39,
-   "link": "https://www.amazon.com.br/dp/B0D45QCBF7?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61iR-8Aj7CL._AC_SL1500_.jpg",
    "loja": "Vendido e entregue pela Amazon",
    "plataforma": "Amazon",
    "valida_ate": "2026-11-09T22:00:00-03:00",
@@ -8556,7 +8572,13 @@
   "caixadesombluetoothphilipspartyspeaker": "2026-11-09T08:42:30.634605-03:00",
   "aspiradordeaguaepoelectroluxcomfuncaosopro": "2026-11-09T08:50:30.821058-03:00",
   "copostanleyquencherprotourflipstraw": "2026-11-09T08:56:54.981619-03:00",
-  "smarttvphilipsqled43fullhd": "2026-11-09T09:03:35.342968-03:00"
+  "smarttvphilipsqled43fullhd": "2026-11-09T09:03:35.342968-03:00",
+  "cafeteiranescafedolcegustogeniosplusarno": "2026-11-09T09:11:27.577856-03:00",
+  "creatina100pureatlheticanutrition300g": "2026-11-09T09:19:30.158927-03:00",
+  "mousesemfiologitechm240bluetooth": "2026-11-09T09:25:44.766475-03:00",
+  "pranchadecabelowapintensepro250c": "2026-11-09T09:32:20.670498-03:00",
+  "perfumelancomelavieestbelleedp": "2026-11-09T09:39:06.313778-03:00",
+  "fonesemfiohuaweifreebudsse2": "2026-11-09T09:47:05.018545-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
@@ -8808,7 +8830,7 @@
  "pede_semana": "2026-45",
  "ultimo_garimpo": "2026-11-08T19:56:23-03:00",
  "vigia_aviso_post": "2026-11-08T12:51:05.072627-03:00",
- "vigia_aviso_garimpo": "2026-11-08T18:44:22.674425-03:00",
+ "vigia_aviso_garimpo": "2026-11-09T09:04:14.503618-03:00",
  "resumo_enviado": "2026-11-08",
  "token_conferido": "2026-11-09",
  "meta_token": {
@@ -8844,7 +8866,7 @@
   "marcas": "2026-11-08T18:44:22.674425-03:00"
  },
  "top10_dia": "2026-11-07",
- "manuais_lidos": "2026-11-09T08:56:39.702216-03:00",
+ "manuais_lidos": "2026-11-09T09:38:46.818889-03:00",
  "reserva_resultado": {
   "2026-11-07": {
    "achadinhos": {
@@ -8901,7 +8923,7 @@
    "hora": "2026-11-08T21:33:47.773417-03:00"
   }
  },
- "ig_respondido_em": "2026-11-09T08:56:39.702216-03:00",
+ "ig_respondido_em": "2026-11-09T09:38:46.818889-03:00",
  "dm_auto": {
   "2026-11-08": {
    "com_palavra": 0,
@@ -8936,10 +8958,10 @@
  "canais_info": {
   "versao": "2026-11-08",
   "resultado": {
-   "@papagarimpou": "setChatTitle: Bad Request: not enough rights to change chat title",
-   "@papagarimpoumarcas": "setChatTitle: Bad Request: not enough rights to change chat title",
+   "@papagarimpou": "ok",
+   "@papagarimpoumarcas": "ok",
    "@papagarimpoutech": "ok",
-   "@papagarimpouofertas": "setChatTitle: Bad Request: not enough rights to change chat title"
+   "@papagarimpouofertas": "ok"
   }
  }
 }
