@@ -7258,46 +7258,8 @@
   "story especial pede-pro-papa 2026-11-02",
   "story especial pede-pro-papa 2026-11-03",
   "story especial pede-pro-papa 2026-11-04",
-  "2026-11-05 08:07 story_oferta",
-  "2026-11-05 08:45 story_oferta",
-  "2026-11-05 08:52 story_oferta",
-  "2026-11-05 feed",
-  "2026-11-05 09:35 reels",
-  "2026-11-05 09:38 story_oferta",
-  "2026-11-05 10:20 story_oferta",
-  "2026-11-05 10:24 story_oferta",
-  "2026-11-05 11:11 story_oferta",
-  "2026-11-05 11:50 carrossel_top5",
-  "2026-11-05 11:56 story_oferta",
-  "2026-11-05 12:15 story_top4",
-  "2026-11-05 12:19 story_oferta",
-  "2026-11-05 12:40 reels",
-  "2026-11-05 12:47 story_oferta",
-  "2026-11-05 13:20 story_convite",
-  "2026-11-05 13:22 story_oferta",
-  "2026-11-05 14:08 story_oferta",
-  "2026-11-05 15:00 adivinha",
-  "2026-11-05 14:25 post_achado",
-  "2026-11-05 15:03 story_oferta",
-  "2026-11-05 16:05 adivinha_resposta",
   "story especial pede-pro-papa 2026-11-05",
-  "2026-11-05 16:55 post_achado",
-  "2026-11-05 16:44 story_oferta",
-  "2026-11-05 17:30 reels",
-  "2026-11-05 17:36 story_oferta",
-  "2026-11-05 18:05 a_ou_b",
-  "2026-11-05 18:09 story_oferta",
-  "2026-11-05 18:42 story_oferta",
   "pedido proc-20261105-1",
-  "2026-11-05 19:15 post_achado",
-  "2026-11-05 19:17 story_oferta",
-  "2026-11-05 20:03 story_oferta",
-  "2026-11-05 20:35 story_top4",
-  "2026-11-05 20:38 story_oferta",
-  "2026-11-05 20:50 post_achado",
-  "2026-11-05 21:05 reels",
-  "2026-11-05 21:20 story_convite",
-  "2026-11-05 21:24 story_oferta",
   "porta-v1",
   "2026-11-06 08:07 story_oferta",
   "2026-11-06 08:45 story_oferta",
@@ -7687,6 +7649,57 @@
  "ultimo_pilar": "dica",
  "fila": [
   {
+   "id": "shopee-22593528984",
+   "plataforma": "Shopee",
+   "nome": "Jogo de Panelas Tramontina Turim Antiaderente Vermelha 10 Peças",
+   "loja": "Efácil Oficial",
+   "loja_oficial": true,
+   "preco": 375.9,
+   "preco_antigo": 544.78,
+   "desconto": 31,
+   "vendas": 267,
+   "nota": 4.9,
+   "comissao_pct": 3.0,
+   "imagem": "https://cf.shopee.com.br/file/sg-11134201-824j9-mpib3puiv40c23",
+   "link": "https://s.shopee.com.br/9pficj65vS",
+   "canal": "achadinhos",
+   "entrou": "2026-11-09T03:55:49.470226-03:00"
+  },
+  {
+   "id": "shopee-15346286898",
+   "plataforma": "Shopee",
+   "nome": "Kit 6 Pares Meias Lupo Cano Médio Alto Longo Algodão Original Casual Confortável Atoalhada Macia",
+   "loja": "Osure",
+   "loja_oficial": true,
+   "preco": 56.99,
+   "preco_antigo": 91.92,
+   "desconto": 38,
+   "vendas": 334,
+   "nota": 4.9,
+   "comissao_pct": 14.0,
+   "imagem": "https://cf.shopee.com.br/file/br-11134207-820m1-mqi3audn9lhd14",
+   "link": "https://s.shopee.com.br/2Vt7tVIPDT",
+   "canal": "marcas",
+   "entrou": "2026-11-09T03:55:49.470226-03:00"
+  },
+  {
+   "id": "shopee-22497648129",
+   "plataforma": "Shopee",
+   "nome": "Top Fitness Feminino Lupo Top Power Poliamida Sem Costura Alta Sustentação Sem Bojo Academia Diário",
+   "loja": "Osure",
+   "loja_oficial": true,
+   "preco": 39.99,
+   "preco_antigo": 70.16,
+   "desconto": 43,
+   "vendas": 1237,
+   "nota": 4.9,
+   "comissao_pct": 11.0,
+   "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m9of7btjnyux0c",
+   "link": "https://s.shopee.com.br/2LZhhC1r0X",
+   "canal": "marcas",
+   "entrou": "2026-11-09T03:55:49.470226-03:00"
+  },
+  {
    "id": "amz-B0CNS3HRM3",
    "canal": "achadinhos",
    "nome": "Lavadora de Alta Pressão Vonder LAV 1300",
@@ -7698,7 +7711,7 @@
    "loja": "Vendido e entregue pela Amazon",
    "plataforma": "Amazon",
    "valida_ate": "2026-11-09T22:00:00-03:00",
-   "entrou": "2026-11-09T00:07:18.203850-03:00"
+   "entrou": "2026-11-09T04:07:45.275574-03:00"
   },
   {
    "id": "amz-B0B4PG4XP7",
@@ -7712,7 +7725,7 @@
    "loja": "Vendido e entregue pela Amazon",
    "plataforma": "Amazon",
    "valida_ate": "2026-11-09T22:00:00-03:00",
-   "entrou": "2026-11-09T00:07:18.203850-03:00"
+   "entrou": "2026-11-09T04:07:45.275574-03:00"
   },
   {
    "id": "amz-B076H4BZ7L",
@@ -7726,7 +7739,7 @@
    "loja": "Vendido e entregue pela Amazon",
    "plataforma": "Amazon",
    "valida_ate": "2026-11-09T22:00:00-03:00",
-   "entrou": "2026-11-09T00:07:18.203850-03:00"
+   "entrou": "2026-11-09T04:07:45.275574-03:00"
   },
   {
    "id": "amz-B0BMW92ZBT",
@@ -7740,7 +7753,7 @@
    "loja": "Vendido e entregue pela Amazon",
    "plataforma": "Amazon",
    "valida_ate": "2026-11-09T22:00:00-03:00",
-   "entrou": "2026-11-09T00:07:18.203850-03:00"
+   "entrou": "2026-11-09T04:07:45.275574-03:00"
   },
   {
    "id": "amz-B0FVYBPXBF",
@@ -7754,7 +7767,7 @@
    "loja": "Vendido e entregue pela Amazon",
    "plataforma": "Amazon",
    "valida_ate": "2026-11-09T22:00:00-03:00",
-   "entrou": "2026-11-09T00:07:18.203850-03:00"
+   "entrou": "2026-11-09T04:07:45.275574-03:00"
   },
   {
    "id": "amz-B07DP2S4PC",
@@ -7768,7 +7781,7 @@
    "loja": "Vendido e entregue pela Amazon",
    "plataforma": "Amazon",
    "valida_ate": "2026-11-09T22:00:00-03:00",
-   "entrou": "2026-11-09T00:07:18.203850-03:00"
+   "entrou": "2026-11-09T04:07:45.275574-03:00"
   },
   {
    "id": "amz-B0D8RLRMPM",
@@ -7782,7 +7795,7 @@
    "loja": "Vendido e entregue pela Amazon",
    "plataforma": "Amazon",
    "valida_ate": "2026-11-09T22:00:00-03:00",
-   "entrou": "2026-11-09T00:07:18.203850-03:00"
+   "entrou": "2026-11-09T04:07:45.275574-03:00"
   },
   {
    "id": "amz-B0C9TZPX5J",
@@ -7796,7 +7809,7 @@
    "loja": "Vendido e entregue pela Amazon",
    "plataforma": "Amazon",
    "valida_ate": "2026-11-09T22:00:00-03:00",
-   "entrou": "2026-11-09T00:07:18.203850-03:00"
+   "entrou": "2026-11-09T04:07:45.275574-03:00"
   },
   {
    "id": "amz-B0F5ZGSCQ5",
@@ -7811,7 +7824,7 @@
    "plataforma": "Amazon",
    "valida_ate": "2026-11-09T22:00:00-03:00",
    "gancho": "STANLEY ABAIXO DE 100 REAIS",
-   "entrou": "2026-11-09T00:07:18.203850-03:00"
+   "entrou": "2026-11-09T04:07:45.275574-03:00"
   },
   {
    "id": "amz-B0FFD3W272",
@@ -7825,7 +7838,7 @@
    "loja": "Vendido e entregue pela Amazon",
    "plataforma": "Amazon",
    "valida_ate": "2026-11-09T22:00:00-03:00",
-   "entrou": "2026-11-09T00:07:18.203850-03:00"
+   "entrou": "2026-11-09T04:07:45.275574-03:00"
   },
   {
    "id": "amz-B07MPZLM1N",
@@ -7839,7 +7852,7 @@
    "loja": "Vendido e entregue pela Amazon",
    "plataforma": "Amazon",
    "valida_ate": "2026-11-09T22:00:00-03:00",
-   "entrou": "2026-11-09T00:07:18.203850-03:00"
+   "entrou": "2026-11-09T04:07:45.275574-03:00"
   },
   {
    "id": "amz-B008SBKTLI",
@@ -7854,7 +7867,7 @@
    "plataforma": "Amazon",
    "valida_ate": "2026-11-09T22:00:00-03:00",
    "gancho": "LA VIE EST BELLE QUASE PELA METADE",
-   "entrou": "2026-11-09T00:07:18.203850-03:00"
+   "entrou": "2026-11-09T04:07:45.275574-03:00"
   },
   {
    "id": "amz-B0D2RJN5Q3",
@@ -7869,7 +7882,7 @@
    "plataforma": "Amazon",
    "valida_ate": "2026-11-09T22:00:00-03:00",
    "extra": "Preço a partir de: varia por tamanho e cor",
-   "entrou": "2026-11-09T00:07:18.203850-03:00"
+   "entrou": "2026-11-09T04:07:45.275574-03:00"
   },
   {
    "id": "amz-B0CZLZKGVL",
@@ -7883,7 +7896,7 @@
    "loja": "Vendido e entregue pela Amazon",
    "plataforma": "Amazon",
    "valida_ate": "2026-11-09T22:00:00-03:00",
-   "entrou": "2026-11-09T00:07:18.203850-03:00"
+   "entrou": "2026-11-09T04:07:45.275574-03:00"
   },
   {
    "id": "amz-B0FK1JG2TT",
@@ -7897,7 +7910,7 @@
    "loja": "Vendido e entregue pela Amazon",
    "plataforma": "Amazon",
    "valida_ate": "2026-11-09T22:00:00-03:00",
-   "entrou": "2026-11-09T00:07:18.203850-03:00"
+   "entrou": "2026-11-09T04:07:45.275574-03:00"
   },
   {
    "id": "amz-B0H6VBFKNS",
@@ -7911,7 +7924,7 @@
    "loja": "Vendido e entregue pela Amazon",
    "plataforma": "Amazon",
    "valida_ate": "2026-11-09T22:00:00-03:00",
-   "entrou": "2026-11-09T00:07:18.203850-03:00"
+   "entrou": "2026-11-09T04:07:45.275574-03:00"
   },
   {
    "id": "amz-B0DTJKLBBQ",
@@ -7925,7 +7938,7 @@
    "loja": "Vendido e entregue pela Amazon",
    "plataforma": "Amazon",
    "valida_ate": "2026-11-09T22:00:00-03:00",
-   "entrou": "2026-11-09T00:07:18.203850-03:00"
+   "entrou": "2026-11-09T04:07:45.275574-03:00"
   },
   {
    "id": "amz-B0D45QCBF7",
@@ -7939,7 +7952,7 @@
    "loja": "Vendido e entregue pela Amazon",
    "plataforma": "Amazon",
    "valida_ate": "2026-11-09T22:00:00-03:00",
-   "entrou": "2026-11-09T00:07:18.203850-03:00"
+   "entrou": "2026-11-09T04:07:45.275574-03:00"
   }
  ],
  "menus_fixados": [
@@ -8759,7 +8772,7 @@
  "vigia_aviso_post": "2026-11-08T12:51:05.072627-03:00",
  "vigia_aviso_garimpo": "2026-11-08T18:44:22.674425-03:00",
  "resumo_enviado": "2026-11-08",
- "token_conferido": "2026-11-08",
+ "token_conferido": "2026-11-09",
  "meta_token": {
   "tipo": "SYSTEM_USER",
   "valido": true,
@@ -8793,7 +8806,7 @@
   "marcas": "2026-11-08T18:44:22.674425-03:00"
  },
  "top10_dia": "2026-11-07",
- "manuais_lidos": "2026-11-09T00:07:18.203850-03:00",
+ "manuais_lidos": "2026-11-09T04:07:45.275574-03:00",
  "reserva_resultado": {
   "2026-11-07": {
    "achadinhos": {
@@ -8823,6 +8836,13 @@
     "quase": 5,
     "reprise": 3
    }
+  },
+  "2026-11-09": {
+   "tech": {
+    "busca": 0,
+    "quase": 0,
+    "reprise": 0
+   }
   }
  },
  "ig_reels_log": {
@@ -8843,7 +8863,7 @@
    "hora": "2026-11-08T21:33:47.773417-03:00"
   }
  },
- "ig_respondido_em": "2026-11-09T00:07:18.203850-03:00",
+ "ig_respondido_em": "2026-11-09T04:07:45.275574-03:00",
  "dm_auto": {
   "2026-11-08": {
    "com_palavra": 0,
