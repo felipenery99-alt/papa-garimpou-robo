@@ -761,7 +761,10 @@
   "2026-11-09 achadinhos 11:29 shopee-21897631761",
   "2026-11-09 achadinhos 11:37 shopee-52364763614",
   "2026-11-09 marcas 11:49 shopee-9511754133",
-  "2026-11-09 tech 11:56 shopee-19997803637"
+  "2026-11-09 tech 11:56 shopee-19997803637",
+  "2026-11-09 achadinhos 12:14 shopee-22997647570",
+  "2026-11-09 marcas 12:22 shopee-22897053962",
+  "2026-11-09 achadinhos 13:00 shopee-23295873027"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -920,7 +923,7 @@
   "amz-B07FN1MZBH": "2026-10-30T10:52:16.681310-03:00",
   "amz-B0CLSTLZ4W": "2026-10-30T10:58:06.564446-03:00",
   "amz-B0CVXT26K5": "2026-10-30T11:05:54.188731-03:00",
-  "shopee-22997647570": "2026-11-06T14:15:15.520776-03:00",
+  "shopee-22997647570": "2026-11-09T12:14:11.885117-03:00",
   "shopee-22593622212": "2026-10-30T12:34:39.404514-03:00",
   "ml-MLB5420759822": "2026-10-30T12:42:04.536653-03:00",
   "shopee-58255413156": "2026-10-30T13:01:32.427662-03:00",
@@ -1365,7 +1368,7 @@
   "amz-B0GQJLD98Z": "2026-11-06T15:03:45.750593-03:00",
   "shopee-21116473058": "2026-11-06T15:20:52.991260-03:00",
   "amz-B0FVBH3L33": "2026-11-06T15:28:06.631407-03:00",
-  "shopee-22897053962": "2026-11-06T15:34:30.918732-03:00",
+  "shopee-22897053962": "2026-11-09T12:22:49.009174-03:00",
   "amz-B0DVMQVVDY": "2026-11-06T15:42:08.252705-03:00",
   "shopee-50559775356": "2026-11-06T15:48:40.924455-03:00",
   "amz-B0GHSFJZGX": "2026-11-06T15:59:01.908176-03:00",
@@ -1497,7 +1500,8 @@
   "shopee-45910145137": "2026-11-09T10:53:58.818905-03:00",
   "shopee-29083433141": "2026-11-09T11:00:17.698435-03:00",
   "shopee-21998281414": "2026-11-09T11:09:14.410157-03:00",
-  "shopee-19997803637": "2026-11-09T11:56:23.407354-03:00"
+  "shopee-19997803637": "2026-11-09T11:56:23.407354-03:00",
+  "shopee-23295873027": "2026-11-09T13:00:13.400616-03:00"
  },
  "ofertas_dia": [
   {
@@ -7761,6 +7765,63 @@
    "canal": "tech",
    "entrou": "2026-11-09T11:45:03.865786-03:00",
    "dia": "2026-11-09"
+  },
+  {
+   "id": "shopee-22997647570",
+   "plataforma": "Shopee",
+   "nome": "Escova secador Modeladora Taiff Oval Easy Pink Original",
+   "loja": "Beleza Renovada Oficial",
+   "loja_oficial": true,
+   "preco": 199.99,
+   "preco_antigo": 454.52,
+   "desconto": 56,
+   "vendas": 647,
+   "nota": 4.9,
+   "comissao_pct": 12.0,
+   "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdwk-m1d2ehidujdhf5",
+   "link": "https://s.shopee.com.br/7pueF4DRRU",
+   "canal": "achadinhos",
+   "entrou": "2026-11-09T12:07:22.519963-03:00",
+   "reprise_dias": 2,
+   "dia": "2026-11-09"
+  },
+  {
+   "id": "shopee-22897053962",
+   "plataforma": "Shopee",
+   "nome": "Kit Com 3 Camisetas Masculinas Básicas Slim Hering",
+   "loja": "Hering_Oficial",
+   "loja_oficial": true,
+   "preco": 96.99,
+   "preco_antigo": 159.0,
+   "desconto": 39,
+   "vendas": 287,
+   "nota": 4.9,
+   "comissao_pct": 3.0,
+   "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdyb-mcjadz3n5vm6fc",
+   "link": "https://s.shopee.com.br/7AexRyPoHB",
+   "canal": "marcas",
+   "entrou": "2026-11-09T12:21:09.838755-03:00",
+   "reprise_dias": 2,
+   "dia": "2026-11-09"
+  },
+  {
+   "id": "shopee-23295873027",
+   "plataforma": "Shopee",
+   "nome": "Jogo de Frigideiras Tramontina 3pçs Caribe Revestimento Antiaderente Starflon Max",
+   "loja": "Lojas Montre",
+   "loja_oficial": true,
+   "preco": 115.99,
+   "preco_antigo": 170.57,
+   "desconto": 32,
+   "vendas": 232,
+   "nota": 4.9,
+   "comissao_pct": 13.0,
+   "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdgcwlbd0ogh10",
+   "link": "https://s.shopee.com.br/1BmuehWsf",
+   "quase": true,
+   "canal": "achadinhos",
+   "entrou": "2026-11-09T12:52:07.030982-03:00",
+   "dia": "2026-11-09"
   }
  ],
  "ig_feitos": [
@@ -7905,11 +7966,12 @@
   "2026-11-09 11:50 carrossel_top5",
   "2026-11-09 feed",
   "2026-11-09 12:00 reels",
-  "2026-11-09 11:56 story_oferta"
+  "2026-11-09 11:56 story_oferta",
+  "2026-11-09 12:15 story_top4",
+  "2026-11-09 12:19 story_oferta",
+  "2026-11-09 12:47 story_oferta"
  ],
  "ig_ofertas_usadas": [
-  "shopee-23398337380",
-  "amz-B09GCJZ45Z",
   "amz-B07FFJ2T6T",
   "amz-B0FRVB9JGD",
   "amz-B0F79VDTM4",
@@ -8107,7 +8169,9 @@
   "amz-B0FK1JG2TT",
   "amz-B076H4BZ7L",
   "amz-B0FFD3W272",
-  "amz-B0H6VBFKNS"
+  "amz-B0H6VBFKNS",
+  "amz-B0BMW92ZBT",
+  "amz-B07MPZLM1N"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
@@ -8172,7 +8236,116 @@
   "2026-11-07": 12
  },
  "ultimo_pilar": "dica",
- "fila": [],
+ "fila": [
+  {
+   "id": "shopee-19161663389",
+   "plataforma": "Shopee",
+   "nome": "Câmera Inteligente iM3 C Black Intelbras ",
+   "loja": "Intelbras Oficial",
+   "loja_oficial": true,
+   "preco": 160.0,
+   "preco_antigo": 258.06,
+   "desconto": 38,
+   "vendas": 179,
+   "nota": 5.0,
+   "comissao_pct": 5.0,
+   "imagem": "https://cf.shopee.com.br/file/sg-11134201-8258u-mv67501y835ybf",
+   "link": "https://s.shopee.com.br/7fbE2mUn2e",
+   "quase": true,
+   "canal": "achadinhos",
+   "entrou": "2026-11-09T12:52:07.030982-03:00"
+  },
+  {
+   "id": "shopee-58266090290",
+   "plataforma": "Shopee",
+   "nome": "Câmera Inteligente Interna Wi-fi Intelbras iMX C",
+   "loja": "Intelbras Oficial",
+   "loja_oficial": true,
+   "preco": 135.0,
+   "preco_antigo": 180.0,
+   "desconto": 25,
+   "vendas": 266,
+   "nota": 5.0,
+   "comissao_pct": 5.0,
+   "imagem": "https://cf.shopee.com.br/file/sg-11134201-825ad-mtr3m7axb3m0a7",
+   "link": "https://s.shopee.com.br/5VWjSnd2RD",
+   "quase": true,
+   "canal": "achadinhos",
+   "entrou": "2026-11-09T12:52:07.030982-03:00"
+  },
+  {
+   "id": "shopee-19161663337",
+   "plataforma": "Shopee",
+   "nome": "Câmera Inteligente Full HD Im3 C Branca Intelbras",
+   "loja": "Intelbras Oficial",
+   "loja_oficial": true,
+   "preco": 160.0,
+   "preco_antigo": 258.06,
+   "desconto": 38,
+   "vendas": 589,
+   "nota": 5.0,
+   "comissao_pct": 5.0,
+   "imagem": "https://cf.shopee.com.br/file/sg-11134201-82590-mszml69k740917",
+   "link": "https://s.shopee.com.br/6AmQG1aV5H",
+   "canal": "achadinhos",
+   "entrou": "2026-11-09T12:52:07.030982-03:00",
+   "reprise_dias": 2
+  },
+  {
+   "id": "shopee-43430912812",
+   "plataforma": "Shopee",
+   "nome": "Tênis de Caminhada Casual Index 4 Unissex Confortável - Olympikus",
+   "loja": "Tubarão Max",
+   "loja_oficial": true,
+   "preco": 157.41,
+   "preco_antigo": 291.5,
+   "desconto": 46,
+   "vendas": 181,
+   "nota": 4.9,
+   "comissao_pct": 3.0,
+   "imagem": "https://cf.shopee.com.br/file/br-11134207-820md-mr8vnxc447pg56",
+   "link": "https://s.shopee.com.br/30pOUL9is8",
+   "quase": true,
+   "canal": "marcas",
+   "entrou": "2026-11-09T12:52:07.030982-03:00"
+  },
+  {
+   "id": "shopee-19299842169",
+   "plataforma": "Shopee",
+   "nome": "Tênis de Caminhada Unissex Confortável Proof 3 - Olympikus",
+   "loja": "Tubarão Max",
+   "loja_oficial": true,
+   "preco": 162.82,
+   "preco_antigo": 285.65,
+   "desconto": 43,
+   "vendas": 139,
+   "nota": 4.9,
+   "comissao_pct": 3.0,
+   "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgmljz3uoa9xa3",
+   "link": "https://s.shopee.com.br/1qdR6CEAEn",
+   "quase": true,
+   "canal": "marcas",
+   "entrou": "2026-11-09T12:52:07.030982-03:00"
+  },
+  {
+   "id": "shopee-42130479011",
+   "plataforma": "Shopee",
+   "nome": "Creatina Sabor 7Belo Max Titanium 300g Creatina 7 Belo",
+   "loja": "Hard Extreme",
+   "loja_oficial": true,
+   "preco": 51.5,
+   "preco_antigo": 190.74,
+   "desconto": 73,
+   "vendas": 550,
+   "nota": 4.9,
+   "comissao_pct": 7.0,
+   "imagem": "https://cf.shopee.com.br/file/br-11134207-820l5-mnn3go0t0e0x13",
+   "link": "https://s.shopee.com.br/AKbzDvNrNq",
+   "canal": "marcas",
+   "entrou": "2026-11-09T12:52:07.030982-03:00",
+   "reprise_dias": 2
+  }
+ ],
  "menus_fixados": [
   "v1 @papagarimpou",
   "v1 @papagarimpoumarcas",
@@ -8184,7 +8357,7 @@
   "2026-11-07": 1
  },
  "postados_nome": {
-  "escovasecadormodeladorataiffovaleasypinkoriginal": "2026-11-06T14:15:15.520776-03:00",
+  "escovasecadormodeladorataiffovaleasypinkoriginal": "2026-11-09T12:14:11.885117-03:00",
   "borrachadevedacaopaneladepressao3l45le6l20cm24cmtramontinavancouver": "2026-10-30T12:34:39.404514-03:00",
   "tenisnikerevolution8masculino": "2026-10-30T12:42:04.536653-03:00",
   "laminarefilduplocompativelbarbeadorphilipsonebladereposicaoqp14xqp25xqp26xqp27xqp28xqp65xqp66x": "2026-10-30T13:01:32.427662-03:00",
@@ -8629,7 +8802,7 @@
   "tenisfilarecoveryfeminino": "2026-11-06T15:03:45.750593-03:00",
   "kitde9paresmeiaslupokidsinfantilcanocurtoalgodaotamanho24ao36": "2026-11-06T15:20:52.991260-03:00",
   "caixadesomjblgripaprovadaguapreta": "2026-11-06T15:28:06.631407-03:00",
-  "kitcom3camisetasmasculinasbasicasslimhering": "2026-11-06T15:34:30.918732-03:00",
+  "kitcom3camisetasmasculinasbasicasslimhering": "2026-11-09T12:22:49.009174-03:00",
   "fonesemfiophilipstwstat1109bluetooth": "2026-11-06T15:42:08.252705-03:00",
   "tenisdecorridaunissexrespiravelchallenger6olympikus": "2026-11-06T15:48:40.924455-03:00",
   "tenismizunospace6": "2026-11-06T15:59:01.908176-03:00",
@@ -8761,7 +8934,8 @@
   "caixadesomjblpartyboxencore2bluetooth100wrmspreto": "2026-11-09T10:53:58.818905-03:00",
   "kit4cuecasboxerlupomicrofibrapoliamidasemcosturaconfortavelcuecamasculinapacoteoriginal": "2026-11-09T11:00:17.698435-03:00",
   "caixadesombluetoothjblboombox4originalaprovadaguaeresistenteapoeiranf": "2026-11-09T11:09:14.410157-03:00",
-  "bettdowsamsungtabs9s9felite11polegadastecladobluetoothcapacomslotparacanetatabletnaoincluso": "2026-11-09T11:56:23.407354-03:00"
+  "bettdowsamsungtabs9s9felite11polegadastecladobluetoothcapacomslotparacanetatabletnaoincluso": "2026-11-09T11:56:23.407354-03:00",
+  "jogodefrigideirastramontina3pcscariberevestimentoantiaderentestarflonmax": "2026-11-09T13:00:13.400616-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
@@ -9020,7 +9194,7 @@
  "pede_semana": "2026-45",
  "ultimo_garimpo": "2026-11-08T19:56:23-03:00",
  "vigia_aviso_post": "2026-11-08T12:51:05.072627-03:00",
- "vigia_aviso_garimpo": "2026-11-09T09:04:14.503618-03:00",
+ "vigia_aviso_garimpo": "2026-11-09T12:07:22.519963-03:00",
  "resumo_enviado": "2026-11-08",
  "token_conferido": "2026-11-09",
  "meta_token": {
@@ -9049,14 +9223,14 @@
   "2026-11-08 tarde achadinhos",
   "2026-11-08 noite tech"
  ],
- "reserva_meio": "2026-11-09T12:03:02.243406-03:00",
+ "reserva_meio": "2026-11-09T12:52:07.030982-03:00",
  "reserva_cheia": {
-  "achadinhos": "2026-11-09T11:07:24.387972-03:00",
-  "tech": "2026-11-09T11:45:03.865786-03:00",
-  "marcas": "2026-11-09T11:45:03.865786-03:00"
+  "achadinhos": "2026-11-09T12:52:07.030982-03:00",
+  "tech": "2026-11-09T12:52:07.030982-03:00",
+  "marcas": "2026-11-09T12:52:07.030982-03:00"
  },
  "top10_dia": "2026-11-07",
- "manuais_lidos": "2026-11-09T12:05:47.642456-03:00",
+ "manuais_lidos": "2026-11-09T12:52:07.030982-03:00",
  "reserva_resultado": {
   "2026-11-07": {
    "achadinhos": {
@@ -9095,13 +9269,13 @@
    },
    "achadinhos": {
     "busca": 0,
-    "quase": 0,
-    "reprise": 2
+    "quase": 3,
+    "reprise": 4
    },
    "marcas": {
     "busca": 0,
-    "quase": 0,
-    "reprise": 1
+    "quase": 2,
+    "reprise": 3
    }
   }
  },
@@ -9127,7 +9301,7 @@
    "hora": "2026-11-09T12:03:02.243406-03:00"
   }
  },
- "ig_respondido_em": "2026-11-09T12:03:02.243406-03:00",
+ "ig_respondido_em": "2026-11-09T12:47:45.858857-03:00",
  "dm_auto": {
   "2026-11-08": {
    "com_palavra": 0,
