@@ -1340,17 +1340,17 @@
    "canal tech sem oferta na fila há 138 min (busca extra também não achou). Abastecer ofertas_manuais.json.",
    "⚠️ Canal sem post: tech 2 h — abrir o app Claude e conferir as rotinas"
   ],
-  "ultima_execucao": "18:27",
-  "execucoes": 14,
+  "ultima_execucao": "19:10",
+  "execucoes": 15,
   "telegram_posts": {
-   "achadinhos": 25,
-   "marcas": 22,
-   "tech": 13
+   "achadinhos": 27,
+   "marcas": 24,
+   "tech": 14
   },
   "ultimo_post": {
-   "achadinhos": "18:26",
-   "marcas": "19:02",
-   "tech": "19:09"
+   "achadinhos": "19:42",
+   "marcas": "19:49",
+   "tech": "19:34"
   },
   "meta_token": {
    "tipo": "SYSTEM_USER",
@@ -1358,7 +1358,7 @@
    "vence": "não vence",
    "acesso_vence": "-"
   },
-  "ultimo_garimpo": "09/11 13:49",
+  "ultimo_garimpo": "09/11 18:49",
   "convites_story": {
    "story-20261101": 0,
    "story-20261102": 0,
@@ -1402,9 +1402,11 @@
    "17:36 story_oferta",
    "18:05 a_ou_b",
    "18:09 story_oferta",
-   "feed",
    "18:30 reels",
-   "18:42 story_oferta"
+   "18:42 story_oferta",
+   "feed",
+   "19:15 post_achado",
+   "19:17 story_oferta"
   ],
   "shopee_ligada": true,
   "dm_auto": {
@@ -4830,11 +4832,12 @@
    "shopee-23221475806": "vendas longe",
    "shopee-58211551774": "nota",
    "shopee-23697149423": "vendas longe",
-   "shopee-22999785009": "vendas longe"
+   "shopee-22999785009": "vendas longe",
+   "shopee-58219288666": "nota"
   },
   "shopee_oficial": {
    "vendas longe": 1884,
-   "nota": 1114,
+   "nota": 1115,
    "vendas perto (125+)": 108,
    "outro: marca fora da lista boa": 89,
    "aprovada": 70,
@@ -4843,15 +4846,15 @@
    "desconto perto (até 10 pts)": 24
   },
   "instagram": {
-   "seguidores": 410,
-   "posts": 106,
-   "reach": 987,
+   "seguidores": 411,
+   "posts": 107,
+   "reach": 1014,
    "profile_views": 53,
    "website_clicks": 2,
    "stories_ativos": 25
   },
   "reels_alcance": {
-   "atualizado": "2026-11-09T18:27:03.734589-03:00",
+   "atualizado": "2026-11-09T19:10:11.842778-03:00",
    "itens": [
     {
      "id": "17914478403489685",

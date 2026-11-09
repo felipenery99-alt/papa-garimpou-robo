@@ -793,7 +793,12 @@
   "2026-11-09 achadinhos 18:26 shopee-23593120156",
   "2026-11-09 tech 18:54 amz-B09VV5LJS1",
   "2026-11-09 marcas 19:02 amz-B0DBW2Y9VH",
-  "2026-11-09 tech 19:09 amz-B098HXFLMW"
+  "2026-11-09 tech 19:09 amz-B098HXFLMW",
+  "2026-11-09 achadinhos 19:18 amz-B076MGRV7Z",
+  "2026-11-09 marcas 19:26 amz-B0DBRGYTDB",
+  "2026-11-09 tech 19:34 amz-B0CHB9PD4M",
+  "2026-11-09 achadinhos 19:42 amz-B0CZ9NMBNL",
+  "2026-11-09 marcas 19:49 amz-B07G6YD3GS"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -1555,7 +1560,12 @@
   "shopee-22697099204": "2026-11-09T17:58:16.158926-03:00",
   "amz-B09VV5LJS1": "2026-11-09T18:54:58.558004-03:00",
   "amz-B0DBW2Y9VH": "2026-11-09T19:02:49.610132-03:00",
-  "amz-B098HXFLMW": "2026-11-09T19:09:29.136453-03:00"
+  "amz-B098HXFLMW": "2026-11-09T19:09:29.136453-03:00",
+  "amz-B076MGRV7Z": "2026-11-09T19:18:55.162824-03:00",
+  "amz-B0DBRGYTDB": "2026-11-09T19:26:44.424033-03:00",
+  "amz-B0CHB9PD4M": "2026-11-09T19:34:28.975870-03:00",
+  "amz-B0CZ9NMBNL": "2026-11-09T19:42:18.331757-03:00",
+  "amz-B07G6YD3GS": "2026-11-09T19:49:21.531628-03:00"
  },
  "ofertas_dia": [
   {
@@ -8201,6 +8211,84 @@
    "valida_ate": "2026-11-10T22:00:00-03:00",
    "entrou": "2026-11-09T18:54:58.019882-03:00",
    "dia": "2026-11-09"
+  },
+  {
+   "id": "amz-B076MGRV7Z",
+   "canal": "achadinhos",
+   "nome": "Jogo de Panelas Inox Tramontina Allegra Fundo Triplo 7 Peças",
+   "preco_antigo": 1084.88,
+   "preco": 528.99,
+   "desconto": 51,
+   "link": "https://www.amazon.com.br/dp/B076MGRV7Z?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61XcPedn2DL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-10T22:00:00-03:00",
+   "gancho": "PANELAS INOX TRAMONTINA PELA METADE",
+   "entrou": "2026-11-09T18:54:58.019882-03:00",
+   "dia": "2026-11-09"
+  },
+  {
+   "id": "amz-B0DBRGYTDB",
+   "canal": "marcas",
+   "nome": "Perfume Armani Stronger With You Intensely EDP Masculino",
+   "preco_antigo": 649.0,
+   "preco": 400.58,
+   "desconto": 38,
+   "link": "https://www.amazon.com.br/dp/B0DBRGYTDB?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71TMbZM2+jL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-10T22:00:00-03:00",
+   "entrou": "2026-11-09T18:54:58.019882-03:00",
+   "dia": "2026-11-09"
+  },
+  {
+   "id": "amz-B0CHB9PD4M",
+   "canal": "tech",
+   "nome": "Teclado Ergonômico Sem Fio Logitech Wave Keys",
+   "preco_antigo": 479.9,
+   "preco": 299.9,
+   "desconto": 38,
+   "link": "https://www.amazon.com.br/dp/B0CHB9PD4M?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71Yp7pxBFOL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-10T22:00:00-03:00",
+   "entrou": "2026-11-09T18:54:58.019882-03:00",
+   "dia": "2026-11-09"
+  },
+  {
+   "id": "amz-B0CZ9NMBNL",
+   "canal": "achadinhos",
+   "nome": "Protetor Solar Australian Gold FPS 50 Gel Creme 200g",
+   "preco_antigo": 109.99,
+   "preco": 40.4,
+   "desconto": 63,
+   "link": "https://www.amazon.com.br/dp/B0CZ9NMBNL?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71UeDGD-YkL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-10T22:00:00-03:00",
+   "gancho": "AUSTRALIAN GOLD COM 63% OFF",
+   "entrou": "2026-11-09T18:54:58.019882-03:00",
+   "dia": "2026-11-09"
+  },
+  {
+   "id": "amz-B07G6YD3GS",
+   "canal": "marcas",
+   "nome": "Camiseta Reserva Bolso Pica-Pau Xadrez",
+   "preco_antigo": 129.0,
+   "preco": 62.9,
+   "desconto": 51,
+   "link": "https://www.amazon.com.br/dp/B07G6YD3GS?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/41lG5sHt+TL._AC_SL1000_.jpg",
+   "loja": "Loja oficial Reserva · entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-10T22:00:00-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "entrou": "2026-11-09T18:54:58.019882-03:00",
+   "dia": "2026-11-09"
   }
  ],
  "ig_feitos": [
@@ -8360,12 +8448,12 @@
   "2026-11-09 18:05 a_ou_b",
   "2026-11-09 18:09 story_oferta",
   "2026-11-09 18:30 reels",
-  "2026-11-09 18:42 story_oferta"
+  "2026-11-09 18:42 story_oferta",
+  "2026-11-09 feed",
+  "2026-11-09 19:15 post_achado",
+  "2026-11-09 19:17 story_oferta"
  ],
  "ig_ofertas_usadas": [
-  "amz-B0GNDQ1SBY",
-  "amz-B08LPJ1FTK",
-  "amz-B0B72QZXCC",
   "amz-B0D7DVQ188",
   "shopee-41253171051",
   "amz-B0G2T13LT6",
@@ -8563,7 +8651,9 @@
   "shopee-19997803637",
   "shopee-23999162333",
   "shopee-19161663337",
-  "amz-B008SBKTLI"
+  "amz-B008SBKTLI",
+  "shopee-21316811936",
+  "shopee-23593120156"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
@@ -8629,36 +8719,6 @@
  },
  "ultimo_pilar": "dica",
  "fila": [
-  {
-   "id": "amz-B076MGRV7Z",
-   "canal": "achadinhos",
-   "nome": "Jogo de Panelas Inox Tramontina Allegra Fundo Triplo 7 Peças",
-   "preco_antigo": 1084.88,
-   "preco": 528.99,
-   "desconto": 51,
-   "link": "https://www.amazon.com.br/dp/B076MGRV7Z?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61XcPedn2DL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-10T22:00:00-03:00",
-   "gancho": "PANELAS INOX TRAMONTINA PELA METADE",
-   "entrou": "2026-11-09T18:54:58.019882-03:00"
-  },
-  {
-   "id": "amz-B0CZ9NMBNL",
-   "canal": "achadinhos",
-   "nome": "Protetor Solar Australian Gold FPS 50 Gel Creme 200g",
-   "preco_antigo": 109.99,
-   "preco": 40.4,
-   "desconto": 63,
-   "link": "https://www.amazon.com.br/dp/B0CZ9NMBNL?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/71UeDGD-YkL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-10T22:00:00-03:00",
-   "gancho": "AUSTRALIAN GOLD COM 63% OFF",
-   "entrou": "2026-11-09T18:54:58.019882-03:00"
-  },
   {
    "id": "amz-B076MBZBFF",
    "canal": "achadinhos",
@@ -8758,35 +8818,6 @@
    "entrou": "2026-11-09T18:54:58.019882-03:00"
   },
   {
-   "id": "amz-B0DBRGYTDB",
-   "canal": "marcas",
-   "nome": "Perfume Armani Stronger With You Intensely EDP Masculino",
-   "preco_antigo": 649.0,
-   "preco": 400.58,
-   "desconto": 38,
-   "link": "https://www.amazon.com.br/dp/B0DBRGYTDB?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/71TMbZM2+jL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-10T22:00:00-03:00",
-   "entrou": "2026-11-09T18:54:58.019882-03:00"
-  },
-  {
-   "id": "amz-B07G6YD3GS",
-   "canal": "marcas",
-   "nome": "Camiseta Reserva Bolso Pica-Pau Xadrez",
-   "preco_antigo": 129.0,
-   "preco": 62.9,
-   "desconto": 51,
-   "link": "https://www.amazon.com.br/dp/B07G6YD3GS?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/41lG5sHt+TL._AC_SL1000_.jpg",
-   "loja": "Loja oficial Reserva · entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-10T22:00:00-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "entrou": "2026-11-09T18:54:58.019882-03:00"
-  },
-  {
    "id": "amz-B08P93WRTW",
    "canal": "marcas",
    "nome": "Camiseta Hering Slim Manga Longa Básica Masculina",
@@ -8856,20 +8887,6 @@
    "link": "https://www.amazon.com.br/dp/B0H6BZ86JZ?tag=papagarimpou-20",
    "imagem": "https://m.media-amazon.com/images/I/61Ty1rhO4GL._AC_SL1200_.jpg",
    "loja": "Loja oficial Dark Lab · entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-10T22:00:00-03:00",
-   "entrou": "2026-11-09T18:54:58.019882-03:00"
-  },
-  {
-   "id": "amz-B0CHB9PD4M",
-   "canal": "tech",
-   "nome": "Teclado Ergonômico Sem Fio Logitech Wave Keys",
-   "preco_antigo": 479.9,
-   "preco": 299.9,
-   "desconto": 38,
-   "link": "https://www.amazon.com.br/dp/B0CHB9PD4M?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/71Yp7pxBFOL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
    "plataforma": "Amazon",
    "valida_ate": "2026-11-10T22:00:00-03:00",
    "entrou": "2026-11-09T18:54:58.019882-03:00"
@@ -9618,7 +9635,12 @@
   "kitcom5camisetasmasculinasbasicasslimhering": "2026-11-09T17:58:16.158926-03:00",
   "controlesemfioxboxdeeppink": "2026-11-09T18:54:58.558004-03:00",
   "perfumelancomelavieestbelleelixirfeminino": "2026-11-09T19:02:49.610132-03:00",
-  "mousesemfiologitechliftverticalergonomico": "2026-11-09T19:09:29.136453-03:00"
+  "mousesemfiologitechliftverticalergonomico": "2026-11-09T19:09:29.136453-03:00",
+  "jogodepanelasinoxtramontinaallegrafundotriplo7pecas": "2026-11-09T19:18:55.162824-03:00",
+  "perfumearmanistrongerwithyouintenselyedpmasculino": "2026-11-09T19:26:44.424033-03:00",
+  "tecladoergonomicosemfiologitechwavekeys": "2026-11-09T19:34:28.975870-03:00",
+  "protetorsolaraustraliangoldfps50gelcreme200g": "2026-11-09T19:42:18.331757-03:00",
+  "camisetareservabolsopicapauxadrez": "2026-11-09T19:49:21.531628-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
@@ -9878,7 +9900,7 @@
  "ig_dm_links": {},
  "story_link_dia": "2026-11-09",
  "pede_semana": "2026-45",
- "ultimo_garimpo": "2026-11-09T13:49:52-03:00",
+ "ultimo_garimpo": "2026-11-09T18:49:39-03:00",
  "vigia_aviso_post": "2026-11-09T18:27:03.734589-03:00",
  "vigia_aviso_garimpo": "2026-11-09T16:54:40.796722-03:00",
  "resumo_enviado": "2026-11-08",
@@ -9918,7 +9940,7 @@
   "marcas": "2026-11-09T17:54:45.499184-03:00"
  },
  "top10_dia": "2026-11-07",
- "manuais_lidos": "2026-11-09T19:09:24.198238-03:00",
+ "manuais_lidos": "2026-11-09T19:42:17.922673-03:00",
  "reserva_resultado": {
   "2026-11-07": {
    "achadinhos": {
@@ -9993,7 +10015,7 @@
    "hora": "2026-11-09T18:33:41.886836-03:00"
   }
  },
- "ig_respondido_em": "2026-11-09T19:09:24.198238-03:00",
+ "ig_respondido_em": "2026-11-09T19:49:16.720999-03:00",
  "dm_auto": {
   "2026-11-08": {
    "com_palavra": 0,
