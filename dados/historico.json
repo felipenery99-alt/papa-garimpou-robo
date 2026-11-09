@@ -751,7 +751,13 @@
   "2026-11-09 marcas 10:06 amz-B0D2RJN5Q3",
   "2026-11-09 achadinhos 10:15 amz-B0D8RLRMPM",
   "2026-11-09 marcas 10:21 amz-B0CZLZKGVL",
-  "2026-11-09 achadinhos 10:28 amz-B0C9TZPX5J"
+  "2026-11-09 achadinhos 10:28 amz-B0C9TZPX5J",
+  "2026-11-09 achadinhos 10:34 amz-B07DP2S4PC",
+  "2026-11-09 marcas 10:40 shopee-21316811936",
+  "2026-11-09 tech 10:46 shopee-23999162333",
+  "2026-11-09 tech 10:53 shopee-45910145137",
+  "2026-11-09 marcas 11:00 shopee-29083433141",
+  "2026-11-09 tech 11:09 shopee-21998281414"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -1480,7 +1486,13 @@
   "amz-B0D2RJN5Q3": "2026-11-09T10:06:31.825961-03:00",
   "amz-B0D8RLRMPM": "2026-11-09T10:15:02.906798-03:00",
   "amz-B0CZLZKGVL": "2026-11-09T10:21:57.203635-03:00",
-  "amz-B0C9TZPX5J": "2026-11-09T10:28:46.673326-03:00"
+  "amz-B0C9TZPX5J": "2026-11-09T10:28:46.673326-03:00",
+  "amz-B07DP2S4PC": "2026-11-09T10:34:56.879845-03:00",
+  "shopee-21316811936": "2026-11-09T10:40:37.324794-03:00",
+  "shopee-23999162333": "2026-11-09T10:46:19.643874-03:00",
+  "shopee-45910145137": "2026-11-09T10:53:58.818905-03:00",
+  "shopee-29083433141": "2026-11-09T11:00:17.698435-03:00",
+  "shopee-21998281414": "2026-11-09T11:09:14.410157-03:00"
  },
  "ofertas_dia": [
   {
@@ -7560,6 +7572,114 @@
    "valida_ate": "2026-11-09T22:00:00-03:00",
    "entrou": "2026-11-09T08:17:39.840089-03:00",
    "dia": "2026-11-09"
+  },
+  {
+   "id": "amz-B07DP2S4PC",
+   "canal": "achadinhos",
+   "nome": "Aparador de Pelos Mondial Super Groom 10",
+   "preco_antigo": 189.9,
+   "preco": 99.0,
+   "desconto": 48,
+   "link": "https://www.amazon.com.br/dp/B07DP2S4PC?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61H70XOtzkL._AC_SL1413_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-09T22:00:00-03:00",
+   "entrou": "2026-11-09T10:14:08.187118-03:00",
+   "dia": "2026-11-09"
+  },
+  {
+   "id": "shopee-21316811936",
+   "plataforma": "Shopee",
+   "nome": "Kit De 4 Cuecas Originais Lupo Basic Boxer Box Microfibra Sem Costura",
+   "loja": "Deccó",
+   "loja_oficial": true,
+   "preco": 101.78,
+   "preco_antigo": 181.75,
+   "desconto": 44,
+   "vendas": 776,
+   "nota": 4.9,
+   "comissao_pct": 7.0,
+   "imagem": "https://cf.shopee.com.br/file/br-11134207-820li-mukqo93lk3k3af",
+   "link": "https://s.shopee.com.br/1BNkIwHzTs",
+   "canal": "marcas",
+   "entrou": "2026-11-09T08:17:39.840089-03:00",
+   "dia": "2026-11-09"
+  },
+  {
+   "id": "shopee-23999162333",
+   "plataforma": "Shopee",
+   "nome": "Smart Tv Monitor Hd 32\" Samsung Ls32h5000fgxzd Preta",
+   "loja": "Rep Store",
+   "loja_oficial": true,
+   "preco": 1054.0,
+   "preco_antigo": 1882.14,
+   "desconto": 44,
+   "vendas": 161,
+   "nota": 5.0,
+   "comissao_pct": 3.0,
+   "imagem": "https://cf.shopee.com.br/file/br-11134207-820l8-mv3hwxo5k9vk0b",
+   "link": "https://s.shopee.com.br/3g55Hnx4M3",
+   "quase": true,
+   "canal": "tech",
+   "entrou": "2026-11-09T10:34:49.724459-03:00",
+   "dia": "2026-11-09"
+  },
+  {
+   "id": "shopee-45910145137",
+   "plataforma": "Shopee",
+   "nome": "Caixa de Som JBL PartyBox Encore 2 Bluetooth 100W RMS - Preto",
+   "loja": "NegociuN",
+   "loja_oficial": true,
+   "preco": 1999.9,
+   "preco_antigo": 3076.77,
+   "desconto": 35,
+   "vendas": 134,
+   "nota": 4.9,
+   "comissao_pct": 5.0,
+   "imagem": "https://cf.shopee.com.br/file/br-11134207-820lu-mnyf3tupajuo65",
+   "link": "https://s.shopee.com.br/9pfid3xgEA",
+   "quase": true,
+   "canal": "tech",
+   "entrou": "2026-11-09T10:34:49.724459-03:00",
+   "dia": "2026-11-09"
+  },
+  {
+   "id": "shopee-29083433141",
+   "plataforma": "Shopee",
+   "nome": "Kit 4 Cuecas Boxer Lupo Microfibra Poliamida Sem Costura Confortável Cueca Masculina Pacote Original",
+   "loja": "Osure",
+   "loja_oficial": true,
+   "preco": 109.99,
+   "preco_antigo": 186.42,
+   "desconto": 41,
+   "vendas": 1068,
+   "nota": 4.9,
+   "comissao_pct": 7.0,
+   "imagem": "https://cf.shopee.com.br/file/br-11134207-820m5-mt83mi11quwyf7",
+   "link": "https://s.shopee.com.br/1LhAVFHM8t",
+   "canal": "marcas",
+   "entrou": "2026-11-09T08:17:39.840089-03:00",
+   "dia": "2026-11-09"
+  },
+  {
+   "id": "shopee-21998281414",
+   "plataforma": "Shopee",
+   "nome": "Caixa de Som Bluetooth JBL Boombox 4 Original À prova d’Água e Resistente a Poeira + NF",
+   "loja": "Cadê Meu Eletro®",
+   "loja_oficial": true,
+   "preco": 2519.0,
+   "preco_antigo": 3998.41,
+   "desconto": 37,
+   "vendas": 228,
+   "nota": 5.0,
+   "comissao_pct": 3.0,
+   "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mespkkp0xcznd8",
+   "link": "https://s.shopee.com.br/9AQ1pq0DZq",
+   "quase": true,
+   "canal": "tech",
+   "entrou": "2026-11-09T10:34:49.724459-03:00",
+   "dia": "2026-11-09"
   }
  ],
  "ig_feitos": [
@@ -7698,10 +7818,10 @@
   "2026-11-09 08:52 story_oferta",
   "2026-11-09 09:38 story_oferta",
   "2026-11-09 10:20 story_oferta",
-  "2026-11-09 10:24 story_oferta"
+  "2026-11-09 10:24 story_oferta",
+  "2026-11-09 11:11 story_oferta"
  ],
  "ig_ofertas_usadas": [
-  "amz-B0CX1SDR83",
   "shopee-22194331598",
   "shopee-23398337380",
   "amz-B09GCJZ45Z",
@@ -7900,7 +8020,8 @@
   "amz-B0B4PG4XP7",
   "amz-B0F5ZGSCQ5",
   "amz-B0FK1JG2TT",
-  "amz-B076H4BZ7L"
+  "amz-B076H4BZ7L",
+  "amz-B0FFD3W272"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
@@ -7965,56 +8086,7 @@
   "2026-11-07": 12
  },
  "ultimo_pilar": "dica",
- "fila": [
-  {
-   "id": "shopee-21316811936",
-   "plataforma": "Shopee",
-   "nome": "Kit De 4 Cuecas Originais Lupo Basic Boxer Box Microfibra Sem Costura",
-   "loja": "Deccó",
-   "loja_oficial": true,
-   "preco": 101.78,
-   "preco_antigo": 181.75,
-   "desconto": 44,
-   "vendas": 776,
-   "nota": 4.9,
-   "comissao_pct": 7.0,
-   "imagem": "https://cf.shopee.com.br/file/br-11134207-820li-mukqo93lk3k3af",
-   "link": "https://s.shopee.com.br/1BNkIwHzTs",
-   "canal": "marcas",
-   "entrou": "2026-11-09T08:17:39.840089-03:00"
-  },
-  {
-   "id": "shopee-29083433141",
-   "plataforma": "Shopee",
-   "nome": "Kit 4 Cuecas Boxer Lupo Microfibra Poliamida Sem Costura Confortável Cueca Masculina Pacote Original",
-   "loja": "Osure",
-   "loja_oficial": true,
-   "preco": 109.99,
-   "preco_antigo": 186.42,
-   "desconto": 41,
-   "vendas": 1068,
-   "nota": 4.9,
-   "comissao_pct": 7.0,
-   "imagem": "https://cf.shopee.com.br/file/br-11134207-820m5-mt83mi11quwyf7",
-   "link": "https://s.shopee.com.br/1LhAVFHM8t",
-   "canal": "marcas",
-   "entrou": "2026-11-09T08:17:39.840089-03:00"
-  },
-  {
-   "id": "amz-B07DP2S4PC",
-   "canal": "achadinhos",
-   "nome": "Aparador de Pelos Mondial Super Groom 10",
-   "preco_antigo": 189.9,
-   "preco": 99.0,
-   "desconto": 48,
-   "link": "https://www.amazon.com.br/dp/B07DP2S4PC?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61H70XOtzkL._AC_SL1413_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-09T22:00:00-03:00",
-   "entrou": "2026-11-09T10:14:08.187118-03:00"
-  }
- ],
+ "fila": [],
  "menus_fixados": [
   "v1 @papagarimpou",
   "v1 @papagarimpoumarcas",
@@ -8596,7 +8668,13 @@
   "camisetapumaessno1logofeminina": "2026-11-09T10:06:31.825961-03:00",
   "lavadoradealtapressaomondialaquapoweri": "2026-11-09T10:15:02.906798-03:00",
   "tumblertermicostanleyflipstraw887ml": "2026-11-09T10:21:57.203635-03:00",
-  "jogodeferramentasvonder163pecas": "2026-11-09T10:28:46.673326-03:00"
+  "jogodeferramentasvonder163pecas": "2026-11-09T10:28:46.673326-03:00",
+  "aparadordepelosmondialsupergroom10": "2026-11-09T10:34:56.879845-03:00",
+  "kitde4cuecasoriginaislupobasicboxerboxmicrofibrasemcostura": "2026-11-09T10:40:37.324794-03:00",
+  "smarttvmonitorhd32samsungls32h5000fgxzdpreta": "2026-11-09T10:46:19.643874-03:00",
+  "caixadesomjblpartyboxencore2bluetooth100wrmspreto": "2026-11-09T10:53:58.818905-03:00",
+  "kit4cuecasboxerlupomicrofibrapoliamidasemcosturaconfortavelcuecamasculinapacoteoriginal": "2026-11-09T11:00:17.698435-03:00",
+  "caixadesombluetoothjblboombox4originalaprovadaguaeresistenteapoeiranf": "2026-11-09T11:09:14.410157-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
@@ -8877,14 +8955,14 @@
   "2026-11-08 tarde achadinhos",
   "2026-11-08 noite tech"
  ],
- "reserva_meio": "2026-11-09T10:14:08.187118-03:00",
+ "reserva_meio": "2026-11-09T11:07:24.387972-03:00",
  "reserva_cheia": {
-  "achadinhos": "2026-11-08T19:07:25.311437-03:00",
-  "tech": "2026-11-08T19:29:08.480588-03:00",
+  "achadinhos": "2026-11-09T11:07:24.387972-03:00",
+  "tech": "2026-11-09T10:34:49.724459-03:00",
   "marcas": "2026-11-08T18:44:22.674425-03:00"
  },
  "top10_dia": "2026-11-07",
- "manuais_lidos": "2026-11-09T10:28:31.696178-03:00",
+ "manuais_lidos": "2026-11-09T11:16:31.143868-03:00",
  "reserva_resultado": {
   "2026-11-07": {
    "achadinhos": {
@@ -8918,7 +8996,7 @@
   "2026-11-09": {
    "tech": {
     "busca": 0,
-    "quase": 0,
+    "quase": 3,
     "reprise": 0
    },
    "achadinhos": {
@@ -8951,7 +9029,7 @@
    "hora": "2026-11-08T21:33:47.773417-03:00"
   }
  },
- "ig_respondido_em": "2026-11-09T10:28:31.696178-03:00",
+ "ig_respondido_em": "2026-11-09T11:16:31.143868-03:00",
  "dm_auto": {
   "2026-11-08": {
    "com_palavra": 0,
