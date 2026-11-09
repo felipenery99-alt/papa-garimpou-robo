@@ -764,7 +764,12 @@
   "2026-11-09 tech 11:56 shopee-19997803637",
   "2026-11-09 achadinhos 12:14 shopee-22997647570",
   "2026-11-09 marcas 12:22 shopee-22897053962",
-  "2026-11-09 achadinhos 13:00 shopee-23295873027"
+  "2026-11-09 achadinhos 13:00 shopee-23295873027",
+  "2026-11-09 achadinhos 13:09 shopee-19161663389",
+  "2026-11-09 marcas 13:15 shopee-43430912812",
+  "2026-11-09 achadinhos 13:23 shopee-58266090290",
+  "2026-11-09 marcas 13:32 shopee-19299842169",
+  "2026-11-09 achadinhos 13:39 shopee-19161663337"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -962,7 +967,7 @@
   "shopee-20298661104": "2026-11-06T19:28:02.167889-03:00",
   "nike-015654ID": "2026-10-30T19:25:26.522904-03:00",
   "amz-B07TV9B7Z3": "2026-10-30T19:39:26.311919-03:00",
-  "shopee-19161663337": "2026-11-06T20:37:47.557589-03:00",
+  "shopee-19161663337": "2026-11-09T13:39:56.435076-03:00",
   "nike-061909ID": "2026-10-30T19:57:03.447478-03:00",
   "amz-B0H4M5X1Y2": "2026-10-30T20:00:13.818584-03:00",
   "amz-B0DJQ11WXY": "2026-10-30T20:16:39.499700-03:00",
@@ -1501,7 +1506,11 @@
   "shopee-29083433141": "2026-11-09T11:00:17.698435-03:00",
   "shopee-21998281414": "2026-11-09T11:09:14.410157-03:00",
   "shopee-19997803637": "2026-11-09T11:56:23.407354-03:00",
-  "shopee-23295873027": "2026-11-09T13:00:13.400616-03:00"
+  "shopee-23295873027": "2026-11-09T13:00:13.400616-03:00",
+  "shopee-19161663389": "2026-11-09T13:09:16.430629-03:00",
+  "shopee-43430912812": "2026-11-09T13:15:51.025310-03:00",
+  "shopee-58266090290": "2026-11-09T13:23:34.793102-03:00",
+  "shopee-19299842169": "2026-11-09T13:32:26.630891-03:00"
  },
  "ofertas_dia": [
   {
@@ -7822,6 +7831,101 @@
    "canal": "achadinhos",
    "entrou": "2026-11-09T12:52:07.030982-03:00",
    "dia": "2026-11-09"
+  },
+  {
+   "id": "shopee-19161663389",
+   "plataforma": "Shopee",
+   "nome": "Câmera Inteligente iM3 C Black Intelbras ",
+   "loja": "Intelbras Oficial",
+   "loja_oficial": true,
+   "preco": 160.0,
+   "preco_antigo": 258.06,
+   "desconto": 38,
+   "vendas": 179,
+   "nota": 5.0,
+   "comissao_pct": 5.0,
+   "imagem": "https://cf.shopee.com.br/file/sg-11134201-8258u-mv67501y835ybf",
+   "link": "https://s.shopee.com.br/7fbE2mUn2e",
+   "quase": true,
+   "canal": "achadinhos",
+   "entrou": "2026-11-09T12:52:07.030982-03:00",
+   "dia": "2026-11-09"
+  },
+  {
+   "id": "shopee-43430912812",
+   "plataforma": "Shopee",
+   "nome": "Tênis de Caminhada Casual Index 4 Unissex Confortável - Olympikus",
+   "loja": "Tubarão Max",
+   "loja_oficial": true,
+   "preco": 157.41,
+   "preco_antigo": 291.5,
+   "desconto": 46,
+   "vendas": 181,
+   "nota": 4.9,
+   "comissao_pct": 3.0,
+   "imagem": "https://cf.shopee.com.br/file/br-11134207-820md-mr8vnxc447pg56",
+   "link": "https://s.shopee.com.br/30pOUL9is8",
+   "quase": true,
+   "canal": "marcas",
+   "entrou": "2026-11-09T12:52:07.030982-03:00",
+   "dia": "2026-11-09"
+  },
+  {
+   "id": "shopee-58266090290",
+   "plataforma": "Shopee",
+   "nome": "Câmera Inteligente Interna Wi-fi Intelbras iMX C",
+   "loja": "Intelbras Oficial",
+   "loja_oficial": true,
+   "preco": 135.0,
+   "preco_antigo": 180.0,
+   "desconto": 25,
+   "vendas": 266,
+   "nota": 5.0,
+   "comissao_pct": 5.0,
+   "imagem": "https://cf.shopee.com.br/file/sg-11134201-825ad-mtr3m7axb3m0a7",
+   "link": "https://s.shopee.com.br/5VWjSnd2RD",
+   "quase": true,
+   "canal": "achadinhos",
+   "entrou": "2026-11-09T12:52:07.030982-03:00",
+   "dia": "2026-11-09"
+  },
+  {
+   "id": "shopee-19299842169",
+   "plataforma": "Shopee",
+   "nome": "Tênis de Caminhada Unissex Confortável Proof 3 - Olympikus",
+   "loja": "Tubarão Max",
+   "loja_oficial": true,
+   "preco": 162.82,
+   "preco_antigo": 285.65,
+   "desconto": 43,
+   "vendas": 139,
+   "nota": 4.9,
+   "comissao_pct": 3.0,
+   "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgmljz3uoa9xa3",
+   "link": "https://s.shopee.com.br/1qdR6CEAEn",
+   "quase": true,
+   "canal": "marcas",
+   "entrou": "2026-11-09T12:52:07.030982-03:00",
+   "dia": "2026-11-09"
+  },
+  {
+   "id": "shopee-19161663337",
+   "plataforma": "Shopee",
+   "nome": "Câmera Inteligente Full HD Im3 C Branca Intelbras",
+   "loja": "Intelbras Oficial",
+   "loja_oficial": true,
+   "preco": 160.0,
+   "preco_antigo": 258.06,
+   "desconto": 38,
+   "vendas": 589,
+   "nota": 5.0,
+   "comissao_pct": 5.0,
+   "imagem": "https://cf.shopee.com.br/file/sg-11134201-82590-mszml69k740917",
+   "link": "https://s.shopee.com.br/6AmQG1aV5H",
+   "canal": "achadinhos",
+   "entrou": "2026-11-09T12:52:07.030982-03:00",
+   "reprise_dias": 2,
+   "dia": "2026-11-09"
   }
  ],
  "ig_feitos": [
@@ -7969,10 +8073,11 @@
   "2026-11-09 11:56 story_oferta",
   "2026-11-09 12:15 story_top4",
   "2026-11-09 12:19 story_oferta",
-  "2026-11-09 12:47 story_oferta"
+  "2026-11-09 12:47 story_oferta",
+  "2026-11-09 13:20 story_convite",
+  "2026-11-09 13:22 story_oferta"
  ],
  "ig_ofertas_usadas": [
-  "amz-B07FFJ2T6T",
   "amz-B0FRVB9JGD",
   "amz-B0F79VDTM4",
   "amz-B081415GCS",
@@ -8171,7 +8276,8 @@
   "amz-B0FFD3W272",
   "amz-B0H6VBFKNS",
   "amz-B0BMW92ZBT",
-  "amz-B07MPZLM1N"
+  "amz-B07MPZLM1N",
+  "amz-B0DTJKLBBQ"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
@@ -8237,96 +8343,6 @@
  },
  "ultimo_pilar": "dica",
  "fila": [
-  {
-   "id": "shopee-19161663389",
-   "plataforma": "Shopee",
-   "nome": "Câmera Inteligente iM3 C Black Intelbras ",
-   "loja": "Intelbras Oficial",
-   "loja_oficial": true,
-   "preco": 160.0,
-   "preco_antigo": 258.06,
-   "desconto": 38,
-   "vendas": 179,
-   "nota": 5.0,
-   "comissao_pct": 5.0,
-   "imagem": "https://cf.shopee.com.br/file/sg-11134201-8258u-mv67501y835ybf",
-   "link": "https://s.shopee.com.br/7fbE2mUn2e",
-   "quase": true,
-   "canal": "achadinhos",
-   "entrou": "2026-11-09T12:52:07.030982-03:00"
-  },
-  {
-   "id": "shopee-58266090290",
-   "plataforma": "Shopee",
-   "nome": "Câmera Inteligente Interna Wi-fi Intelbras iMX C",
-   "loja": "Intelbras Oficial",
-   "loja_oficial": true,
-   "preco": 135.0,
-   "preco_antigo": 180.0,
-   "desconto": 25,
-   "vendas": 266,
-   "nota": 5.0,
-   "comissao_pct": 5.0,
-   "imagem": "https://cf.shopee.com.br/file/sg-11134201-825ad-mtr3m7axb3m0a7",
-   "link": "https://s.shopee.com.br/5VWjSnd2RD",
-   "quase": true,
-   "canal": "achadinhos",
-   "entrou": "2026-11-09T12:52:07.030982-03:00"
-  },
-  {
-   "id": "shopee-19161663337",
-   "plataforma": "Shopee",
-   "nome": "Câmera Inteligente Full HD Im3 C Branca Intelbras",
-   "loja": "Intelbras Oficial",
-   "loja_oficial": true,
-   "preco": 160.0,
-   "preco_antigo": 258.06,
-   "desconto": 38,
-   "vendas": 589,
-   "nota": 5.0,
-   "comissao_pct": 5.0,
-   "imagem": "https://cf.shopee.com.br/file/sg-11134201-82590-mszml69k740917",
-   "link": "https://s.shopee.com.br/6AmQG1aV5H",
-   "canal": "achadinhos",
-   "entrou": "2026-11-09T12:52:07.030982-03:00",
-   "reprise_dias": 2
-  },
-  {
-   "id": "shopee-43430912812",
-   "plataforma": "Shopee",
-   "nome": "Tênis de Caminhada Casual Index 4 Unissex Confortável - Olympikus",
-   "loja": "Tubarão Max",
-   "loja_oficial": true,
-   "preco": 157.41,
-   "preco_antigo": 291.5,
-   "desconto": 46,
-   "vendas": 181,
-   "nota": 4.9,
-   "comissao_pct": 3.0,
-   "imagem": "https://cf.shopee.com.br/file/br-11134207-820md-mr8vnxc447pg56",
-   "link": "https://s.shopee.com.br/30pOUL9is8",
-   "quase": true,
-   "canal": "marcas",
-   "entrou": "2026-11-09T12:52:07.030982-03:00"
-  },
-  {
-   "id": "shopee-19299842169",
-   "plataforma": "Shopee",
-   "nome": "Tênis de Caminhada Unissex Confortável Proof 3 - Olympikus",
-   "loja": "Tubarão Max",
-   "loja_oficial": true,
-   "preco": 162.82,
-   "preco_antigo": 285.65,
-   "desconto": 43,
-   "vendas": 139,
-   "nota": 4.9,
-   "comissao_pct": 3.0,
-   "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgmljz3uoa9xa3",
-   "link": "https://s.shopee.com.br/1qdR6CEAEn",
-   "quase": true,
-   "canal": "marcas",
-   "entrou": "2026-11-09T12:52:07.030982-03:00"
-  },
   {
    "id": "shopee-42130479011",
    "plataforma": "Shopee",
@@ -8396,7 +8412,7 @@
   "sanduicheirabritaniachapasantiaderentes750wbgr02pi": "2026-11-06T19:28:02.167889-03:00",
   "meianikeperformancelightweight3pares": "2026-10-30T19:25:26.522904-03:00",
   "tecladogamerhyperxalloycorergbabnt2": "2026-10-30T19:39:26.311919-03:00",
-  "camerainteligentefullhdim3cbrancaintelbras": "2026-11-06T20:37:47.557589-03:00",
+  "camerainteligentefullhdim3cbrancaintelbras": "2026-11-09T13:39:56.435076-03:00",
   "shortsnikedrifitacademymasculino": "2026-10-30T19:57:03.447478-03:00",
   "kit2paresmeiapumafemininaantiderrapante": "2026-10-30T20:00:13.818584-03:00",
   "monitorgamerlgultragear32qhd165hz": "2026-10-30T20:16:39.499700-03:00",
@@ -8935,7 +8951,11 @@
   "kit4cuecasboxerlupomicrofibrapoliamidasemcosturaconfortavelcuecamasculinapacoteoriginal": "2026-11-09T11:00:17.698435-03:00",
   "caixadesombluetoothjblboombox4originalaprovadaguaeresistenteapoeiranf": "2026-11-09T11:09:14.410157-03:00",
   "bettdowsamsungtabs9s9felite11polegadastecladobluetoothcapacomslotparacanetatabletnaoincluso": "2026-11-09T11:56:23.407354-03:00",
-  "jogodefrigideirastramontina3pcscariberevestimentoantiaderentestarflonmax": "2026-11-09T13:00:13.400616-03:00"
+  "jogodefrigideirastramontina3pcscariberevestimentoantiaderentestarflonmax": "2026-11-09T13:00:13.400616-03:00",
+  "camerainteligenteim3cblackintelbras": "2026-11-09T13:09:16.430629-03:00",
+  "tenisdecaminhadacasualindex4unissexconfortavelolympikus": "2026-11-09T13:15:51.025310-03:00",
+  "camerainteligenteinternawifiintelbrasimxc": "2026-11-09T13:23:34.793102-03:00",
+  "tenisdecaminhadaunissexconfortavelproof3olympikus": "2026-11-09T13:32:26.630891-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
@@ -9221,16 +9241,17 @@
   "2026-11-07 noite marcas",
   "2026-11-07 noite tech",
   "2026-11-08 tarde achadinhos",
-  "2026-11-08 noite tech"
+  "2026-11-08 noite tech",
+  "2026-11-09 tarde tech"
  ],
- "reserva_meio": "2026-11-09T12:52:07.030982-03:00",
+ "reserva_meio": "2026-11-09T13:31:37.713776-03:00",
  "reserva_cheia": {
   "achadinhos": "2026-11-09T12:52:07.030982-03:00",
   "tech": "2026-11-09T12:52:07.030982-03:00",
   "marcas": "2026-11-09T12:52:07.030982-03:00"
  },
  "top10_dia": "2026-11-07",
- "manuais_lidos": "2026-11-09T12:52:07.030982-03:00",
+ "manuais_lidos": "2026-11-09T13:39:52.538529-03:00",
  "reserva_resultado": {
   "2026-11-07": {
    "achadinhos": {
@@ -9301,7 +9322,7 @@
    "hora": "2026-11-09T12:03:02.243406-03:00"
   }
  },
- "ig_respondido_em": "2026-11-09T12:47:45.858857-03:00",
+ "ig_respondido_em": "2026-11-09T13:39:52.538529-03:00",
  "dm_auto": {
   "2026-11-08": {
    "com_palavra": 0,
