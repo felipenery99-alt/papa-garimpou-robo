@@ -720,7 +720,13 @@
   "2026-11-08 tech 20:00 amz-B08KKZ8S36",
   "2026-11-08 marcas 20:07 amz-B09VN2FCDF",
   "2026-11-08 tech 20:14 amz-B0F1DJCTFY",
-  "2026-11-08 achadinhos 20:21 amz-B0BBY9Y6D6"
+  "2026-11-08 achadinhos 20:21 amz-B0BBY9Y6D6",
+  "2026-11-08 achadinhos 20:30 amz-B0CWLMCJDM",
+  "2026-11-08 achadinhos 20:37 amz-B0BHJHXXS8",
+  "2026-11-08 marcas 20:44 amz-B0DMTSC4GV",
+  "2026-11-08 tech 20:51 amz-B074L9L5KZ",
+  "2026-11-08 achadinhos 20:58 amz-B076BL1265",
+  "2026-11-08 marcas 21:05 amz-B0FNY5CKD5"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -1418,7 +1424,13 @@
   "amz-B08KKZ8S36": "2026-11-08T20:00:44.253460-03:00",
   "amz-B09VN2FCDF": "2026-11-08T20:07:45.901720-03:00",
   "amz-B0F1DJCTFY": "2026-11-08T20:14:24.200154-03:00",
-  "amz-B0BBY9Y6D6": "2026-11-08T20:21:06.806533-03:00"
+  "amz-B0BBY9Y6D6": "2026-11-08T20:21:06.806533-03:00",
+  "amz-B0CWLMCJDM": "2026-11-08T20:30:29.215851-03:00",
+  "amz-B0BHJHXXS8": "2026-11-08T20:37:24.633861-03:00",
+  "amz-B0DMTSC4GV": "2026-11-08T20:44:28.795954-03:00",
+  "amz-B074L9L5KZ": "2026-11-08T20:51:59.241319-03:00",
+  "amz-B076BL1265": "2026-11-08T20:58:43.412763-03:00",
+  "amz-B0FNY5CKD5": "2026-11-08T21:05:02.540791-03:00"
  },
  "ofertas_dia": [
   {
@@ -7024,6 +7036,97 @@
    "valida_ate": "2026-11-09T22:00:00-03:00",
    "entrou": "2026-11-08T20:00:40.706807-03:00",
    "dia": "2026-11-08"
+  },
+  {
+   "id": "amz-B0CWLMCJDM",
+   "canal": "achadinhos",
+   "nome": "Air Fryer Britânia 5,5L 1500W Gold",
+   "preco_antigo": 501.49,
+   "preco": 271.22,
+   "desconto": 46,
+   "link": "https://www.amazon.com.br/dp/B0CWLMCJDM?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51qDxilXGWL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-09T22:00:00-03:00",
+   "entrou": "2026-11-08T20:00:40.706807-03:00",
+   "dia": "2026-11-08"
+  },
+  {
+   "id": "amz-B0BHJHXXS8",
+   "canal": "achadinhos",
+   "nome": "Furadeira de Impacto Bosch GSB 13 RE 750W 220V",
+   "preco_antigo": 605.0,
+   "preco": 399.9,
+   "desconto": 34,
+   "link": "https://www.amazon.com.br/dp/B0BHJHXXS8?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51zEPuNKweL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-09T22:00:00-03:00",
+   "entrou": "2026-11-08T20:00:40.706807-03:00",
+   "dia": "2026-11-08"
+  },
+  {
+   "id": "amz-B0DMTSC4GV",
+   "canal": "marcas",
+   "nome": "Garrafa Stanley Aerolight Flip Straw 710ml",
+   "preco_antigo": 325.0,
+   "preco": 150.75,
+   "desconto": 54,
+   "link": "https://www.amazon.com.br/dp/B0DMTSC4GV?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61LHaBKfV7L._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-09T22:00:00-03:00",
+   "entrou": "2026-11-08T20:00:40.706807-03:00",
+   "dia": "2026-11-08"
+  },
+  {
+   "id": "amz-B074L9L5KZ",
+   "canal": "tech",
+   "nome": "Mouse sem fio Logitech M170",
+   "preco_antigo": 59.9,
+   "preco": 40.41,
+   "desconto": 33,
+   "link": "https://www.amazon.com.br/dp/B074L9L5KZ?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51+TpH1VS8L._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-09T22:00:00-03:00",
+   "entrou": "2026-11-08T20:00:40.706807-03:00",
+   "dia": "2026-11-08"
+  },
+  {
+   "id": "amz-B076BL1265",
+   "canal": "achadinhos",
+   "nome": "Liquidificador Philco PH900 3L 110V",
+   "preco_antigo": 229.0,
+   "preco": 102.51,
+   "desconto": 55,
+   "link": "https://www.amazon.com.br/dp/B076BL1265?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51UcFkAcKDL._AC_SL1200_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-09T22:00:00-03:00",
+   "entrou": "2026-11-08T20:00:40.706807-03:00",
+   "dia": "2026-11-08"
+  },
+  {
+   "id": "amz-B0FNY5CKD5",
+   "canal": "marcas",
+   "nome": "Tênis Fila Fastness Feminino",
+   "preco_antigo": 349.9,
+   "preco": 199.9,
+   "desconto": 43,
+   "link": "https://www.amazon.com.br/dp/B0FNY5CKD5?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51VRZHhfPYL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-09T22:00:00-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "entrou": "2026-11-08T20:00:40.706807-03:00",
+   "dia": "2026-11-08"
   }
  ],
  "ig_feitos": [
@@ -7186,12 +7289,15 @@
   "2026-11-08 18:42 story_oferta",
   "2026-11-08 19:15 post_achado",
   "2026-11-08 19:17 story_oferta",
-  "2026-11-08 20:03 story_oferta"
+  "2026-11-08 20:03 story_oferta",
+  "2026-11-08 20:35 story_top4",
+  "2026-11-08 feed",
+  "2026-11-08 20:30 reels",
+  "2026-11-08 20:38 story_oferta",
+  "2026-11-08 feed",
+  "2026-11-08 20:50 post_achado"
  ],
  "ig_ofertas_usadas": [
-  "amz-B0F3Q2JH5Y",
-  "nike-114071IF",
-  "amz-B0FRHHNVLV",
   "shopee-20516472434",
   "amz-B0DDZ4QF35",
   "amz-B0CRXH4928",
@@ -7389,11 +7495,13 @@
   "amz-B09NQNWT76",
   "shopee-46611963995",
   "shopee-23094056729",
-  "amz-B0DP6HXJNH"
+  "amz-B0DP6HXJNH",
+  "shopee-40275577235",
+  "shopee-16185215321"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
- "ig_ultimo_reel": "2026-11-08T18:33:48.187248-03:00",
+ "ig_ultimo_reel": "2026-11-08T20:36:18.052370-03:00",
  "pecas_usadas": {
   "ac-preco-inflado": "2026-10-27",
   "dc-7-dias": "2026-10-27",
@@ -7455,48 +7563,6 @@
  },
  "ultimo_pilar": "dica",
  "fila": [
-  {
-   "id": "amz-B0CWLMCJDM",
-   "canal": "achadinhos",
-   "nome": "Air Fryer Britânia 5,5L 1500W Gold",
-   "preco_antigo": 501.49,
-   "preco": 271.22,
-   "desconto": 46,
-   "link": "https://www.amazon.com.br/dp/B0CWLMCJDM?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51qDxilXGWL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-09T22:00:00-03:00",
-   "entrou": "2026-11-08T20:00:40.706807-03:00"
-  },
-  {
-   "id": "amz-B0BHJHXXS8",
-   "canal": "achadinhos",
-   "nome": "Furadeira de Impacto Bosch GSB 13 RE 750W 220V",
-   "preco_antigo": 605.0,
-   "preco": 399.9,
-   "desconto": 34,
-   "link": "https://www.amazon.com.br/dp/B0BHJHXXS8?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51zEPuNKweL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-09T22:00:00-03:00",
-   "entrou": "2026-11-08T20:00:40.706807-03:00"
-  },
-  {
-   "id": "amz-B076BL1265",
-   "canal": "achadinhos",
-   "nome": "Liquidificador Philco PH900 3L 110V",
-   "preco_antigo": 229.0,
-   "preco": 102.51,
-   "desconto": 55,
-   "link": "https://www.amazon.com.br/dp/B076BL1265?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51UcFkAcKDL._AC_SL1200_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-09T22:00:00-03:00",
-   "entrou": "2026-11-08T20:00:40.706807-03:00"
-  },
   {
    "id": "amz-B071VCX893",
    "canal": "achadinhos",
@@ -7668,35 +7734,6 @@
    "entrou": "2026-11-08T20:00:40.706807-03:00"
   },
   {
-   "id": "amz-B0DMTSC4GV",
-   "canal": "marcas",
-   "nome": "Garrafa Stanley Aerolight Flip Straw 710ml",
-   "preco_antigo": 325.0,
-   "preco": 150.75,
-   "desconto": 54,
-   "link": "https://www.amazon.com.br/dp/B0DMTSC4GV?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61LHaBKfV7L._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-09T22:00:00-03:00",
-   "entrou": "2026-11-08T20:00:40.706807-03:00"
-  },
-  {
-   "id": "amz-B0FNY5CKD5",
-   "canal": "marcas",
-   "nome": "Tênis Fila Fastness Feminino",
-   "preco_antigo": 349.9,
-   "preco": 199.9,
-   "desconto": 43,
-   "link": "https://www.amazon.com.br/dp/B0FNY5CKD5?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51VRZHhfPYL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-09T22:00:00-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "entrou": "2026-11-08T20:00:40.706807-03:00"
-  },
-  {
    "id": "amz-B0D1KV35W6",
    "canal": "marcas",
    "nome": "Mochila Mizuno Fun New",
@@ -7806,20 +7843,6 @@
    "desconto": 41,
    "link": "https://www.amazon.com.br/dp/B0CZLZKGVL?tag=papagarimpou-20",
    "imagem": "https://m.media-amazon.com/images/I/41jH2Vie+4L._AC_SL1200_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-09T22:00:00-03:00",
-   "entrou": "2026-11-08T20:00:40.706807-03:00"
-  },
-  {
-   "id": "amz-B074L9L5KZ",
-   "canal": "tech",
-   "nome": "Mouse sem fio Logitech M170",
-   "preco_antigo": 59.9,
-   "preco": 40.41,
-   "desconto": 33,
-   "link": "https://www.amazon.com.br/dp/B074L9L5KZ?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51+TpH1VS8L._AC_SL1500_.jpg",
    "loja": "Vendido e entregue pela Amazon",
    "plataforma": "Amazon",
    "valida_ate": "2026-11-09T22:00:00-03:00",
@@ -8446,7 +8469,13 @@
   "headsetgamerlogitechg335": "2026-11-08T20:00:44.253460-03:00",
   "perfumeazzarothemostwantedparfum": "2026-11-08T20:07:45.901720-03:00",
   "monitorsamsung32fullhd75hzfreesync": "2026-11-08T20:14:24.200154-03:00",
-  "jogodefacastramontinaplenus": "2026-11-08T20:21:06.806533-03:00"
+  "jogodefacastramontinaplenus": "2026-11-08T20:21:06.806533-03:00",
+  "airfryerbritania55l1500wgold": "2026-11-08T20:30:29.215851-03:00",
+  "furadeiradeimpactoboschgsb13re750w220v": "2026-11-08T20:37:24.633861-03:00",
+  "garrafastanleyaerolightflipstraw710ml": "2026-11-08T20:44:28.795954-03:00",
+  "mousesemfiologitechm170": "2026-11-08T20:51:59.241319-03:00",
+  "liquidificadorphilcoph9003l110v": "2026-11-08T20:58:43.412763-03:00",
+  "tenisfilafastnessfeminino": "2026-11-08T21:05:02.540791-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
@@ -8606,15 +8635,20 @@
    "shopee-58254966835"
   ],
   "2026-11-08": [
-   "shopee-23298467238",
-   "shopee-23094056729",
-   "shopee-21049729949",
-   "amz-B0G5ZWQR36",
    "shopee-23802004388",
    "shopee-49064981274",
+   "amz-B0G5ZWQR36",
+   "shopee-19497608994",
+   "shopee-22592962752",
    "shopee-18597753531",
+   "shopee-20516472434",
+   "shopee-21049729949",
    "shopee-41253171051",
    "shopee-22599383562",
+   "shopee-58209674589",
+   "shopee-23094056729",
+   "shopee-23298467238",
+   "shopee-46611963995",
    "shopee-16185215321"
   ]
  },
@@ -8686,7 +8720,7 @@
  "ig_dm_links": {},
  "story_link_dia": "2026-11-08",
  "pede_semana": "2026-45",
- "ultimo_garimpo": "2026-11-08T07:44:48-03:00",
+ "ultimo_garimpo": "2026-11-08T19:56:23-03:00",
  "vigia_aviso_post": "2026-11-08T12:51:05.072627-03:00",
  "vigia_aviso_garimpo": "2026-11-08T18:44:22.674425-03:00",
  "resumo_enviado": "2026-11-07",
@@ -8724,7 +8758,7 @@
   "marcas": "2026-11-08T18:44:22.674425-03:00"
  },
  "top10_dia": "2026-11-07",
- "manuais_lidos": "2026-11-08T20:14:23.813606-03:00",
+ "manuais_lidos": "2026-11-08T21:04:59.743087-03:00",
  "reserva_resultado": {
   "2026-11-07": {
    "achadinhos": {
@@ -8764,9 +8798,13 @@
   "18498252658111064": {
    "capa": "ate_off",
    "hora": "2026-11-08T18:33:48.187248-03:00"
+  },
+  "17960712615015330": {
+   "capa": "ate_off",
+   "hora": "2026-11-08T20:36:18.052370-03:00"
   }
  },
- "ig_respondido_em": "2026-11-08T20:21:02.137660-03:00",
+ "ig_respondido_em": "2026-11-08T21:04:59.743087-03:00",
  "dm_auto": {
   "2026-11-08": {
    "com_palavra": 0,

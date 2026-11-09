@@ -968,17 +968,17 @@
    "⚠️ Garimpo parado desde 07:44 — abrir o app Claude e conferir as rotinas\nPouca oferta na fila: achadinhos 0, marcas 2, tech 0.",
    "canal tech sem oferta na fila há 53 min (busca extra também não achou). Abastecer ofertas_manuais.json."
   ],
-  "ultima_execucao": "19:36",
-  "execucoes": 17,
+  "ultima_execucao": "20:21",
+  "execucoes": 18,
   "telegram_posts": {
-   "achadinhos": 32,
-   "marcas": 29,
-   "tech": 22
+   "achadinhos": 35,
+   "marcas": 31,
+   "tech": 23
   },
   "ultimo_post": {
-   "achadinhos": "20:21",
-   "marcas": "20:07",
-   "tech": "20:14"
+   "achadinhos": "20:58",
+   "marcas": "21:05",
+   "tech": "20:51"
   },
   "meta_token": {
    "tipo": "SYSTEM_USER",
@@ -986,7 +986,7 @@
    "vence": "não vence",
    "acesso_vence": "-"
   },
-  "ultimo_garimpo": "08/11 07:44",
+  "ultimo_garimpo": "08/11 19:56",
   "convites_story": {
    "story-20261101": 0,
    "story-20261102": 0,
@@ -1024,24 +1024,26 @@
    "13:20 story_convite",
    "13:22 story_oferta",
    "14:08 story_oferta",
-   "feed",
    "14:25 post_achado",
    "15:00 adivinha",
    "15:03 story_oferta",
    "16:05 adivinha_resposta",
    "16:44 story_oferta",
-   "feed",
    "16:55 post_achado",
    "17:36 story_oferta",
    "18:05 a_ou_b",
    "18:09 story_oferta",
-   "feed",
    "18:30 reels",
    "18:42 story_oferta",
-   "feed",
    "19:15 post_achado",
    "19:17 story_oferta",
-   "20:03 story_oferta"
+   "20:03 story_oferta",
+   "20:35 story_top4",
+   "feed",
+   "20:30 reels",
+   "20:38 story_oferta",
+   "feed",
+   "20:50 post_achado"
   ],
   "shopee_ligada": true,
   "reserva_resultado": {
@@ -5620,16 +5622,25 @@
    "desconto perto (até 10 pts)": 22
   },
   "instagram": {
-   "seguidores": 402,
-   "posts": 100,
+   "seguidores": 403,
+   "posts": 102,
    "reach": 33,
    "profile_views": 26,
    "website_clicks": 1,
    "stories_ativos": 25
   },
   "reels_alcance": {
-   "atualizado": "2026-11-08T19:36:21.050681-03:00",
+   "atualizado": "2026-11-08T20:21:48.781660-03:00",
    "itens": [
+    {
+     "id": "17960712615015330",
+     "hora": "08/11 20:37",
+     "capa": "ate_off",
+     "reach": 0,
+     "views": 0,
+     "shares": 0,
+     "saved": 0
+    },
     {
      "id": "18498252658111064",
      "hora": "08/11 18:36",
@@ -5831,8 +5842,8 @@
    ],
    "por_capa": {
     "ate_off": {
-     "n": 16,
-     "alcance_medio": 4
+     "n": 17,
+     "alcance_medio": 3
     },
     "achados": {
      "n": 6,
