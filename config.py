@@ -31,12 +31,14 @@ INSTAGRAM_AGENDA = [
     ("18:05", "a_ou_b"), ("19:15", "post_achado"), ("20:35", "story_top4"),
     ("21:20", "story_convite"),  # 29/10: 2º convite no pico da noite (Telegram parado em 2 membros/canal)
     # 29/10, dono: "alimentar o feed" — mais 4 posts de achado (sem oferta, sai peça do banco)
-    ("14:25", "post_achado"), ("16:55", "post_achado"), ("20:30", "reels"), ("20:50", "post_achado"),
+    # 09/11 (CEO PC): ~11 itens de feed/dia para 407 seguidores = engajamento por post muito baixo; os 4 Reels de
+    # 08/11 tiveram alcance 0 e o alcance da conta caiu a 36. Feed enxugado para 5/dia (carrossel 11h50, Reels 12h,
+    # 18h30 e 20h30, post 19h15); saem os posts 09:35/14:25/16:55/20:50 e o Reels 21:30. Stories ficam iguais.
+    # Medir reach/dia e reels_alcance por 3 dias (até 12/11); se não subir, voltar.
+    ("20:30", "reels"),
     # 30/10 (CEO): Reels é o que alcança quem ainda não segue. 3 por dia nos picos, cada um com ofertas diferentes.
     # 05/11 (CEO): alcance 149 → 4.203 no dia em que a capa do Reels virou "ATÉ X% OFF" → 4 Reels por dia.
-    # 08/11 (CEO): os 4 Reels saem nos picos (12h, 18h30, 20h30, 21h30), não de manhã cedo; 09:35 volta a ser post.
-    ("12:00", "reels"), ("21:30", "reels"),
-    ("09:35", "post_achado"),
+    ("12:00", "reels"),
 ]
 REELS_CAMPEAO_MIN = 3   # 08/11: capa só vira "campeã" (formato dos 4 Reels) com pelo menos 3 Reels medidos
 
