@@ -1336,19 +1336,21 @@
    "erro em 2026-11-09 achadinhos 09:58 amz-B07DP2S4PC: HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=60). Não postei.",
    "⚠️ Garimpo parado desde 08/11 19:56 — abrir o app Claude e conferir as rotinas\nPouca oferta na fila: achadinhos 1, marcas 0, tech 0.",
    "canal tech sem oferta na fila há 65 min (busca extra também não achou). Abastecer ofertas_manuais.json.",
-   "⚠️ Garimpo parado desde 13:49 — abrir o app Claude e conferir as rotinas\nPouca oferta na fila: achadinhos 0, marcas 2, tech 0."
+   "⚠️ Garimpo parado desde 13:49 — abrir o app Claude e conferir as rotinas\nPouca oferta na fila: achadinhos 0, marcas 2, tech 0.",
+   "canal tech sem oferta na fila há 138 min (busca extra também não achou). Abastecer ofertas_manuais.json.",
+   "⚠️ Canal sem post: tech 2 h — abrir o app Claude e conferir as rotinas"
   ],
-  "ultima_execucao": "17:46",
-  "execucoes": 13,
+  "ultima_execucao": "18:27",
+  "execucoes": 14,
   "telegram_posts": {
    "achadinhos": 25,
-   "marcas": 21,
-   "tech": 11
+   "marcas": 22,
+   "tech": 13
   },
   "ultimo_post": {
    "achadinhos": "18:26",
-   "marcas": "17:58",
-   "tech": "16:09"
+   "marcas": "19:02",
+   "tech": "19:09"
   },
   "meta_token": {
    "tipo": "SYSTEM_USER",
@@ -1399,7 +1401,10 @@
    "16:44 story_oferta",
    "17:36 story_oferta",
    "18:05 a_ou_b",
-   "18:09 story_oferta"
+   "18:09 story_oferta",
+   "feed",
+   "18:30 reels",
+   "18:42 story_oferta"
   ],
   "shopee_ligada": true,
   "dm_auto": {
@@ -4239,7 +4244,7 @@
    "shopee-23794483579": "nota",
    "shopee-23794483577": "nota",
    "shopee-23794483566": "nota",
-   "shopee-23499008563": "nota",
+   "shopee-23499008563": "vendas longe",
    "shopee-23396014254": "vendas longe",
    "shopee-23196129980": "nota",
    "shopee-22599327645": "nota",
@@ -4762,35 +4767,107 @@
    "shopee-22599430464": "vendas longe",
    "shopee-20699380929": "outro: palavra proibida: compatível",
    "shopee-22997277752": "outro: marca fora da lista boa",
-   "shopee-28134934148": "outro: marca fora da lista boa"
+   "shopee-28134934148": "outro: marca fora da lista boa",
+   "shopee-58268231276": "nota",
+   "shopee-58268227547": "nota",
+   "shopee-58268224804": "nota",
+   "shopee-58266450649": "nota",
+   "shopee-58218222254": "nota",
+   "shopee-58218221695": "nota",
+   "shopee-58218219313": "nota",
+   "shopee-58218219080": "nota",
+   "shopee-58216460856": "nota",
+   "shopee-58216453465": "nota",
+   "shopee-23999662993": "nota",
+   "shopee-23995166363": "nota",
+   "shopee-23899662990": "nota",
+   "shopee-58268227762": "nota",
+   "shopee-58216461639": "nota",
+   "shopee-58218221862": "nota",
+   "shopee-58268227666": "nota",
+   "shopee-58218222107": "nota",
+   "shopee-58268231308": "nota",
+   "shopee-58218222195": "nota",
+   "shopee-58216449389": "vendas longe",
+   "shopee-58218222155": "nota",
+   "shopee-58218222144": "nota",
+   "shopee-58218219394": "nota",
+   "shopee-58218225327": "nota",
+   "shopee-58218225349": "nota",
+   "shopee-57365828736": "nota",
+   "shopee-52965834197": "nota",
+   "shopee-50515840862": "nota",
+   "shopee-46915854251": "nota",
+   "shopee-22694953458": "vendas longe",
+   "shopee-58208979759": "nota",
+   "shopee-58269973244": "outro: marca fora da lista boa",
+   "shopee-58267100935": "nota",
+   "shopee-58217092716": "nota",
+   "shopee-23599432415": "vendas longe",
+   "shopee-58258306618": "vendas longe",
+   "shopee-58208471482": "nota",
+   "shopee-58269980396": "outro: marca fora da lista boa",
+   "shopee-58269973078": "outro: marca fora da lista boa",
+   "shopee-58267089678": "nota",
+   "shopee-58258299806": "vendas longe",
+   "shopee-23495313118": "vendas longe",
+   "shopee-51168859499": "nota",
+   "shopee-23198086241": "vendas longe",
+   "shopee-58219340698": "nota",
+   "shopee-58251013128": "vendas longe",
+   "shopee-58251009634": "nota",
+   "shopee-58205828858": "vendas longe",
+   "shopee-58251009589": "nota",
+   "shopee-58206320556": "vendas longe",
+   "shopee-58270358647": "nota",
+   "shopee-58209091923": "vendas longe",
+   "shopee-54406288993": "vendas longe",
+   "shopee-23799809758": "vendas longe",
+   "shopee-55559780148": "vendas longe",
+   "shopee-23798897795": "vendas longe",
+   "shopee-42234107748": "nota",
+   "shopee-23820372979": "vendas longe",
+   "shopee-23221475806": "vendas longe",
+   "shopee-58211551774": "nota",
+   "shopee-23697149423": "vendas longe",
+   "shopee-22999785009": "vendas longe"
   },
   "shopee_oficial": {
-   "vendas longe": 1864,
-   "nota": 1074,
+   "vendas longe": 1884,
+   "nota": 1114,
    "vendas perto (125+)": 108,
-   "outro: marca fora da lista boa": 86,
+   "outro: marca fora da lista boa": 89,
    "aprovada": 70,
    "desconto longe": 57,
    "outro: palavra proibida: compatível": 36,
    "desconto perto (até 10 pts)": 24
   },
   "instagram": {
-   "seguidores": 409,
-   "posts": 105,
-   "reach": 900,
-   "profile_views": 51,
+   "seguidores": 410,
+   "posts": 106,
+   "reach": 987,
+   "profile_views": 53,
    "website_clicks": 2,
    "stories_ativos": 25
   },
   "reels_alcance": {
-   "atualizado": "2026-11-09T17:46:25.248508-03:00",
+   "atualizado": "2026-11-09T18:27:03.734589-03:00",
    "itens": [
+    {
+     "id": "17914478403489685",
+     "hora": "09/11 18:34",
+     "capa": "uma_oferta",
+     "reach": 1,
+     "views": 2,
+     "shares": 0,
+     "saved": 0
+    },
     {
      "id": "18110328761352046",
      "hora": "09/11 12:04",
      "capa": "ate_off",
-     "reach": 2,
-     "views": 0,
+     "reach": 3,
+     "views": 1,
      "shares": 0,
      "saved": 0
     },
@@ -4994,6 +5071,10 @@
     }
    ],
    "por_capa": {
+    "uma_oferta": {
+     "n": 1,
+     "alcance_medio": 1
+    },
     "ate_off": {
      "n": 19,
      "alcance_medio": 4
@@ -5010,6 +5091,11 @@
     "hora": "12:03",
     "capa": "ate_off",
     "url": "https://raw.githubusercontent.com/felipenery99-alt/papa-garimpou-robo/midia-temp/20261109-1203-tiktok.mp4"
+   },
+   {
+    "hora": "18:33",
+    "capa": "uma_oferta",
+    "url": "https://raw.githubusercontent.com/felipenery99-alt/papa-garimpou-robo/midia-temp/20261109-1833-tiktok.mp4"
    }
   ]
  }
