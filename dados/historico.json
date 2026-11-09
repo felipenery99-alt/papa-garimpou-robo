@@ -798,7 +798,13 @@
   "2026-11-09 marcas 19:26 amz-B0DBRGYTDB",
   "2026-11-09 tech 19:34 amz-B0CHB9PD4M",
   "2026-11-09 achadinhos 19:42 amz-B0CZ9NMBNL",
-  "2026-11-09 marcas 19:49 amz-B07G6YD3GS"
+  "2026-11-09 marcas 19:49 amz-B07G6YD3GS",
+  "2026-11-09 achadinhos 19:57 amz-B076MBZBFF",
+  "2026-11-09 marcas 20:05 amz-B08P93WRTW",
+  "2026-11-09 tech 20:13 amz-B0D3J76C63",
+  "2026-11-09 achadinhos 20:21 amz-B0DQ57Q4YB",
+  "2026-11-09 marcas 20:27 amz-B0FWRZLPTX",
+  "2026-11-09 tech 20:35 amz-B0DWFPS6W6"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -1565,7 +1571,13 @@
   "amz-B0DBRGYTDB": "2026-11-09T19:26:44.424033-03:00",
   "amz-B0CHB9PD4M": "2026-11-09T19:34:28.975870-03:00",
   "amz-B0CZ9NMBNL": "2026-11-09T19:42:18.331757-03:00",
-  "amz-B07G6YD3GS": "2026-11-09T19:49:21.531628-03:00"
+  "amz-B07G6YD3GS": "2026-11-09T19:49:21.531628-03:00",
+  "amz-B076MBZBFF": "2026-11-09T19:57:59.190873-03:00",
+  "amz-B08P93WRTW": "2026-11-09T20:05:58.642341-03:00",
+  "amz-B0D3J76C63": "2026-11-09T20:13:38.425500-03:00",
+  "amz-B0DQ57Q4YB": "2026-11-09T20:21:15.537740-03:00",
+  "amz-B0FWRZLPTX": "2026-11-09T20:27:40.403390-03:00",
+  "amz-B0DWFPS6W6": "2026-11-09T20:35:17.723016-03:00"
  },
  "ofertas_dia": [
   {
@@ -8289,6 +8301,100 @@
    "extra": "Preço a partir de: varia por tamanho e cor",
    "entrou": "2026-11-09T18:54:58.019882-03:00",
    "dia": "2026-11-09"
+  },
+  {
+   "id": "amz-B076MBZBFF",
+   "canal": "achadinhos",
+   "nome": "Jogo de Chaves Fixas Tramontina 12 Peças",
+   "preco_antigo": 183.51,
+   "preco": 96.93,
+   "desconto": 47,
+   "link": "https://www.amazon.com.br/dp/B076MBZBFF?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/716oQQB3WkL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-10T22:00:00-03:00",
+   "entrou": "2026-11-09T18:54:58.019882-03:00",
+   "dia": "2026-11-09"
+  },
+  {
+   "id": "amz-B08P93WRTW",
+   "canal": "marcas",
+   "nome": "Camiseta Hering Slim Manga Longa Básica Masculina",
+   "preco_antigo": 79.99,
+   "preco": 42.9,
+   "desconto": 46,
+   "link": "https://www.amazon.com.br/dp/B08P93WRTW?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/41AzLGNAd8L._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-10T22:00:00-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "entrou": "2026-11-09T18:54:58.019882-03:00",
+   "dia": "2026-11-09"
+  },
+  {
+   "id": "amz-B0D3J76C63",
+   "canal": "tech",
+   "nome": "Monitor Gamer Curvo Samsung Odyssey 34\" Ultra WQHD 165Hz",
+   "preco_antigo": 3599.0,
+   "preco": 1533.51,
+   "desconto": 57,
+   "link": "https://www.amazon.com.br/dp/B0D3J76C63?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/81wfdDTIjHS._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-10T22:00:00-03:00",
+   "gancho": "ODYSSEY 34 POL. POR MENOS DA METADE",
+   "entrou": "2026-11-09T18:54:58.019882-03:00",
+   "dia": "2026-11-09"
+  },
+  {
+   "id": "amz-B0DQ57Q4YB",
+   "canal": "achadinhos",
+   "nome": "Aspirador de Pó e Água WAP GTW Inox 25 Litros",
+   "preco_antigo": 829.9,
+   "preco": 547.2,
+   "desconto": 34,
+   "link": "https://www.amazon.com.br/dp/B0DQ57Q4YB?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/81NKB9PeVoL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-10T22:00:00-03:00",
+   "entrou": "2026-11-09T18:54:58.019882-03:00",
+   "dia": "2026-11-09"
+  },
+  {
+   "id": "amz-B0FWRZLPTX",
+   "canal": "marcas",
+   "nome": "Kit 2 Camisetas Reserva Bolso Pica-Pau Pai",
+   "preco_antigo": 338.0,
+   "preco": 134.9,
+   "desconto": 60,
+   "link": "https://www.amazon.com.br/dp/B0FWRZLPTX?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/41cZIC5CWQL._AC_SL1200_.jpg",
+   "loja": "Loja oficial Reserva · entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-10T22:00:00-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "gancho": "2 CAMISETAS DA RESERVA COM 60% OFF",
+   "entrou": "2026-11-09T18:54:58.019882-03:00",
+   "dia": "2026-11-09"
+  },
+  {
+   "id": "amz-B0DWFPS6W6",
+   "canal": "tech",
+   "nome": "Smartwatch HUAWEI Band 10",
+   "preco_antigo": 359.0,
+   "preco": 197.6,
+   "desconto": 45,
+   "link": "https://www.amazon.com.br/dp/B0DWFPS6W6?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61sXhF0iXTL._AC_SL1500_.jpg",
+   "loja": "Vendido por parceiro · entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-10T22:00:00-03:00",
+   "entrou": "2026-11-09T18:54:58.019882-03:00",
+   "dia": "2026-11-09"
   }
  ],
  "ig_feitos": [
@@ -8451,10 +8557,12 @@
   "2026-11-09 18:42 story_oferta",
   "2026-11-09 feed",
   "2026-11-09 19:15 post_achado",
-  "2026-11-09 19:17 story_oferta"
+  "2026-11-09 19:17 story_oferta",
+  "2026-11-09 20:03 story_oferta",
+  "2026-11-09 feed",
+  "2026-11-09 20:30 reels"
  ],
  "ig_ofertas_usadas": [
-  "amz-B0D7DVQ188",
   "shopee-41253171051",
   "amz-B0G2T13LT6",
   "shopee-9739004991",
@@ -8653,11 +8761,12 @@
   "shopee-19161663337",
   "amz-B008SBKTLI",
   "shopee-21316811936",
-  "shopee-23593120156"
+  "shopee-23593120156",
+  "amz-B0D45QCBF7"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
- "ig_ultimo_reel": "2026-11-09T18:33:41.886836-03:00",
+ "ig_ultimo_reel": "2026-11-09T20:34:20.224392-03:00",
  "pecas_usadas": {
   "ac-preco-inflado": "2026-10-27",
   "dc-7-dias": "2026-10-27",
@@ -8719,34 +8828,6 @@
  },
  "ultimo_pilar": "dica",
  "fila": [
-  {
-   "id": "amz-B076MBZBFF",
-   "canal": "achadinhos",
-   "nome": "Jogo de Chaves Fixas Tramontina 12 Peças",
-   "preco_antigo": 183.51,
-   "preco": 96.93,
-   "desconto": 47,
-   "link": "https://www.amazon.com.br/dp/B076MBZBFF?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/716oQQB3WkL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-10T22:00:00-03:00",
-   "entrou": "2026-11-09T18:54:58.019882-03:00"
-  },
-  {
-   "id": "amz-B0DQ57Q4YB",
-   "canal": "achadinhos",
-   "nome": "Aspirador de Pó e Água WAP GTW Inox 25 Litros",
-   "preco_antigo": 829.9,
-   "preco": 547.2,
-   "desconto": 34,
-   "link": "https://www.amazon.com.br/dp/B0DQ57Q4YB?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/81NKB9PeVoL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-10T22:00:00-03:00",
-   "entrou": "2026-11-09T18:54:58.019882-03:00"
-  },
   {
    "id": "amz-B076MCJ2VP",
    "canal": "achadinhos",
@@ -8818,37 +8899,6 @@
    "entrou": "2026-11-09T18:54:58.019882-03:00"
   },
   {
-   "id": "amz-B08P93WRTW",
-   "canal": "marcas",
-   "nome": "Camiseta Hering Slim Manga Longa Básica Masculina",
-   "preco_antigo": 79.99,
-   "preco": 42.9,
-   "desconto": 46,
-   "link": "https://www.amazon.com.br/dp/B08P93WRTW?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/41AzLGNAd8L._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-10T22:00:00-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "entrou": "2026-11-09T18:54:58.019882-03:00"
-  },
-  {
-   "id": "amz-B0FWRZLPTX",
-   "canal": "marcas",
-   "nome": "Kit 2 Camisetas Reserva Bolso Pica-Pau Pai",
-   "preco_antigo": 338.0,
-   "preco": 134.9,
-   "desconto": 60,
-   "link": "https://www.amazon.com.br/dp/B0FWRZLPTX?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/41cZIC5CWQL._AC_SL1200_.jpg",
-   "loja": "Loja oficial Reserva · entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-10T22:00:00-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "gancho": "2 CAMISETAS DA RESERVA COM 60% OFF",
-   "entrou": "2026-11-09T18:54:58.019882-03:00"
-  },
-  {
    "id": "amz-B0H5YPVM8X",
    "canal": "marcas",
    "nome": "Tênis Mizuno Cool Ride 4",
@@ -8887,35 +8937,6 @@
    "link": "https://www.amazon.com.br/dp/B0H6BZ86JZ?tag=papagarimpou-20",
    "imagem": "https://m.media-amazon.com/images/I/61Ty1rhO4GL._AC_SL1200_.jpg",
    "loja": "Loja oficial Dark Lab · entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-10T22:00:00-03:00",
-   "entrou": "2026-11-09T18:54:58.019882-03:00"
-  },
-  {
-   "id": "amz-B0D3J76C63",
-   "canal": "tech",
-   "nome": "Monitor Gamer Curvo Samsung Odyssey 34\" Ultra WQHD 165Hz",
-   "preco_antigo": 3599.0,
-   "preco": 1533.51,
-   "desconto": 57,
-   "link": "https://www.amazon.com.br/dp/B0D3J76C63?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/81wfdDTIjHS._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-10T22:00:00-03:00",
-   "gancho": "ODYSSEY 34 POL. POR MENOS DA METADE",
-   "entrou": "2026-11-09T18:54:58.019882-03:00"
-  },
-  {
-   "id": "amz-B0DWFPS6W6",
-   "canal": "tech",
-   "nome": "Smartwatch HUAWEI Band 10",
-   "preco_antigo": 359.0,
-   "preco": 197.6,
-   "desconto": 45,
-   "link": "https://www.amazon.com.br/dp/B0DWFPS6W6?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61sXhF0iXTL._AC_SL1500_.jpg",
-   "loja": "Vendido por parceiro · entregue pela Amazon",
    "plataforma": "Amazon",
    "valida_ate": "2026-11-10T22:00:00-03:00",
    "entrou": "2026-11-09T18:54:58.019882-03:00"
@@ -9640,7 +9661,13 @@
   "perfumearmanistrongerwithyouintenselyedpmasculino": "2026-11-09T19:26:44.424033-03:00",
   "tecladoergonomicosemfiologitechwavekeys": "2026-11-09T19:34:28.975870-03:00",
   "protetorsolaraustraliangoldfps50gelcreme200g": "2026-11-09T19:42:18.331757-03:00",
-  "camisetareservabolsopicapauxadrez": "2026-11-09T19:49:21.531628-03:00"
+  "camisetareservabolsopicapauxadrez": "2026-11-09T19:49:21.531628-03:00",
+  "jogodechavesfixastramontina12pecas": "2026-11-09T19:57:59.190873-03:00",
+  "camisetaheringslimmangalongabasicamasculina": "2026-11-09T20:05:58.642341-03:00",
+  "monitorgamercurvosamsungodyssey34ultrawqhd165hz": "2026-11-09T20:13:38.425500-03:00",
+  "aspiradordepoeaguawapgtwinox25litros": "2026-11-09T20:21:15.537740-03:00",
+  "kit2camisetasreservabolsopicapaupai": "2026-11-09T20:27:40.403390-03:00",
+  "smartwatchhuaweiband10": "2026-11-09T20:35:17.723016-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
@@ -9822,12 +9849,17 @@
    "shopee-23094056729"
   ],
   "2026-11-09": [
-   "shopee-9511754133",
-   "shopee-21897631761",
-   "shopee-52364763614",
    "shopee-42130479011",
+   "shopee-52364763614",
    "shopee-19997803637",
-   "shopee-21316811936"
+   "shopee-23295873027",
+   "shopee-29083433141",
+   "shopee-9511754133",
+   "shopee-20111903242",
+   "shopee-43430912812",
+   "shopee-22997647570",
+   "shopee-21316811936",
+   "shopee-21897631761"
   ]
  },
  "vendas_shopee": {},
@@ -9940,7 +9972,7 @@
   "marcas": "2026-11-09T17:54:45.499184-03:00"
  },
  "top10_dia": "2026-11-07",
- "manuais_lidos": "2026-11-09T19:42:17.922673-03:00",
+ "manuais_lidos": "2026-11-09T20:27:40.113421-03:00",
  "reserva_resultado": {
   "2026-11-07": {
    "achadinhos": {
@@ -10013,9 +10045,13 @@
   "17914478403489685": {
    "capa": "uma_oferta",
    "hora": "2026-11-09T18:33:41.886836-03:00"
+  },
+  "18114834203595587": {
+   "capa": "ate_off",
+   "hora": "2026-11-09T20:34:20.224392-03:00"
   }
  },
- "ig_respondido_em": "2026-11-09T19:49:16.720999-03:00",
+ "ig_respondido_em": "2026-11-09T20:34:20.224392-03:00",
  "dm_auto": {
   "2026-11-08": {
    "com_palavra": 0,
@@ -10069,6 +10105,12 @@
     "capa": "uma_oferta",
     "legenda": "Manda pra quem tá precisando disso 👇\n😎💎 Creatina Sabor 7Belo Max Titanium 300g Creatina 7 Belo\n\nLink no perfil: ofertas todo dia no Telegram do Papa 💎\n\nPubli · link de afiliado",
     "url": "https://raw.githubusercontent.com/felipenery99-alt/papa-garimpou-robo/midia-temp/20261109-1833-tiktok.mp4"
+   },
+   {
+    "hora": "20:34",
+    "capa": "ate_off",
+    "legenda": "Manda pra quem tá precisando disso 👇\n😎💎 Até 56% OFF em marca boa: os 5 achados do Papa hoje\n\nLink no perfil: ofertas todo dia no Telegram do Papa 💎\n\nPubli · link de afiliado",
+    "url": "https://raw.githubusercontent.com/felipenery99-alt/papa-garimpou-robo/midia-temp/20261109-2034-tiktok.mp4"
    }
   ]
  }

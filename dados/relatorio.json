@@ -1340,17 +1340,17 @@
    "canal tech sem oferta na fila há 138 min (busca extra também não achou). Abastecer ofertas_manuais.json.",
    "⚠️ Canal sem post: tech 2 h — abrir o app Claude e conferir as rotinas"
   ],
-  "ultima_execucao": "19:10",
-  "execucoes": 15,
+  "ultima_execucao": "19:49",
+  "execucoes": 16,
   "telegram_posts": {
-   "achadinhos": 27,
-   "marcas": 24,
-   "tech": 14
+   "achadinhos": 29,
+   "marcas": 26,
+   "tech": 16
   },
   "ultimo_post": {
-   "achadinhos": "19:42",
-   "marcas": "19:49",
-   "tech": "19:34"
+   "achadinhos": "20:21",
+   "marcas": "20:27",
+   "tech": "20:35"
   },
   "meta_token": {
    "tipo": "SYSTEM_USER",
@@ -1406,7 +1406,10 @@
    "18:42 story_oferta",
    "feed",
    "19:15 post_achado",
-   "19:17 story_oferta"
+   "19:17 story_oferta",
+   "20:03 story_oferta",
+   "feed",
+   "20:30 reels"
   ],
   "shopee_ligada": true,
   "dm_auto": {
@@ -4833,11 +4836,13 @@
    "shopee-58211551774": "nota",
    "shopee-23697149423": "vendas longe",
    "shopee-22999785009": "vendas longe",
-   "shopee-58219288666": "nota"
+   "shopee-58219288666": "nota",
+   "shopee-48217700177": "vendas longe",
+   "shopee-19850002437": "nota"
   },
   "shopee_oficial": {
-   "vendas longe": 1884,
-   "nota": 1115,
+   "vendas longe": 1885,
+   "nota": 1116,
    "vendas perto (125+)": 108,
    "outro: marca fora da lista boa": 89,
    "aprovada": 70,
@@ -4847,15 +4852,24 @@
   },
   "instagram": {
    "seguidores": 411,
-   "posts": 107,
-   "reach": 1014,
-   "profile_views": 53,
+   "posts": 108,
+   "reach": 1155,
+   "profile_views": 54,
    "website_clicks": 2,
    "stories_ativos": 25
   },
   "reels_alcance": {
-   "atualizado": "2026-11-09T19:10:11.842778-03:00",
+   "atualizado": "2026-11-09T19:49:59.994403-03:00",
    "itens": [
+    {
+     "id": "18114834203595587",
+     "hora": "09/11 20:35",
+     "capa": "ate_off",
+     "reach": 0,
+     "views": 0,
+     "shares": 0,
+     "saved": 0
+    },
     {
      "id": "17914478403489685",
      "hora": "09/11 18:34",
@@ -5074,13 +5088,13 @@
     }
    ],
    "por_capa": {
+    "ate_off": {
+     "n": 20,
+     "alcance_medio": 3
+    },
     "uma_oferta": {
      "n": 1,
      "alcance_medio": 1
-    },
-    "ate_off": {
-     "n": 19,
-     "alcance_medio": 4
     },
     "achados": {
      "n": 4,
@@ -5099,6 +5113,11 @@
     "hora": "18:33",
     "capa": "uma_oferta",
     "url": "https://raw.githubusercontent.com/felipenery99-alt/papa-garimpou-robo/midia-temp/20261109-1833-tiktok.mp4"
+   },
+   {
+    "hora": "20:34",
+    "capa": "ate_off",
+    "url": "https://raw.githubusercontent.com/felipenery99-alt/papa-garimpou-robo/midia-temp/20261109-2034-tiktok.mp4"
    }
   ]
  }
