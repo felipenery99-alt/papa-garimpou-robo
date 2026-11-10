@@ -237,7 +237,9 @@ BOAS_VINDAS = ("💎 Bem-vindo ao Papa Garimpou!\n"
 # 08/11 (CEO via PG · Telegram, busca interna do Telegram): título e 1ª linha da descrição com as palavras que
 # as pessoas buscam. Aplica uma vez por versão; o bloco "Outros canais do Papa" da descrição atual é mantido.
 # Achadinhos e Marcas encurtados (mesmas palavras de busca) para caber em 255 com o bloco de links e o #publi.
-CANAIS_INFO_VERSAO = "2026-11-08"
+# 10/11 (CEO): meta do Telegram perdida (18 de 80) → em novembro muita gente busca "black friday" no Telegram;
+# Tech e Todas as Ofertas ganham "Black Friday" no título (descrições iguais). Voltar o título antigo em 01/12.
+CANAIS_INFO_VERSAO = "2026-11-10"
 CANAIS_INFO = {
     "@papagarimpou": ("Papa Garimpou 💎 Promoções, Cupons e Achadinhos",
                       "🛒 Promoções e cupons: casa, cozinha, beleza, ferramentas. Achadinhos Amazon, Shopee, "
@@ -245,10 +247,10 @@ CANAIS_INFO = {
     "@papagarimpoumarcas": ("Papa Garimpou Marcas 💎 Promoções de Tênis, Roupa e Perfume",
                             "👕 Promoções de tênis, roupa, perfume e academia ORIGINAIS. Amazon, Shopee, Mercado Livre, "
                             "Nike e Netshoes, só loja oficial."),
-    "@papagarimpoutech": ("Papa Garimpou Tech 💎 Promoções de Eletrônicos e Games",
+    "@papagarimpoutech": ("Papa Garimpou Tech 💎 Black Friday e Promoções de Eletrônicos e Games",
                           "📱🎮 Promoções de celular, fone, TV, notebook e games. Ofertas Amazon, Shopee, "
                           "Mercado Livre e Magalu com preço conferido."),
-    "@papagarimpouofertas": ("Papa Garimpou 💎 Ofertas e Promoções do Dia | Cupons",
+    "@papagarimpouofertas": ("Papa Garimpou 💎 Black Friday, Ofertas e Promoções do Dia | Cupons",
                              "💎 Todas as promoções e cupons do Papa num canal só: Amazon, Shopee, Mercado Livre "
                              "e Magalu. Só marca boa e desconto de verdade."),
 }

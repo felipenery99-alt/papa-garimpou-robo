@@ -116,3 +116,12 @@
 - Alavanca nova: o Reels das 18h30 vira teste de **1 oferta só** (a mais forte do dia): produto com preço real da loja no 1º quadro, ~8 s, convite + "manda pra um amigo" no fim; capa registrada como `uma_oferta` para comparar com os outros 3 Reels de lista. Ensaio OK.
 - Próximo: em 12/11 comparar alcance `uma_oferta` x `achados`/`ate_off`; se não passar de ~20, reduzir Reels de lista e manter só o que alcança.
 - Pedido ao dono: (1) **manter as rodadas de seguir/comentar todo dia** (é o que de fato traz alcance e seguidores); (2) token novo da Página do Facebook com `pages_manage_posts` no segredo META_TOKEN; (3) PC do garimpo ligado de manhã.
+
+## 2026-11-10 (rotina do CEO)
+- Visto (09/11): 22 execuções, 25 stories ativos (piso ok), feed ok (3 Reels + carrossel + post; feed enxugado para 5/dia em 09/11, medir até 12/11). Telegram: 34 achadinhos, 29 marcas, 20 tech. Seguidores 407→413 (+6), alcance 1.815, visitas 79, 2 cliques na bio. Membros 3+5+5+5 = 18; convites medidos e DM automática seguem em 0.
+- Erros: 1 timeout do Telegram (oferta não postada; não pus nova tentativa automática para não arriscar post duplicado); vigia: garimpo local parado de 08/11 19:56 até a manhã e de novo depois das 13:49; tech ficou 2 h+ sem post (reserva Shopee achou 0 por busca e só 5 "quase").
+- Reels 09/11: alcance 3–4 cada, inclusive o teste `uma_oferta` (3). Ainda cedo; comparação fica para 12/11.
+- META: Instagram 413 de 780 até 27/11 (**atrasado**: precisa ~22/dia, faz ~8). Telegram 18 de 80 até 10/11 (**perdida hoje**; próxima: 150 até 17/11, atrasado).
+- Alavanca nova: a busca interna do Telegram acha canal pelo título e em novembro muita gente busca "black friday". Os canais Tech e Todas as Ofertas passam a ter "Black Friday" no título (descrições iguais; o robô aplica uma vez, versão 2026-11-10). Voltar ao título antigo em 01/12. Ensaio OK.
+- Próximo: em 11/11 conferir `canais_info` (tudo "ok") e se membros do Tech/Geral sobem; em 12/11 decidir o Reels.
+- Pedido ao dono: (1) **rodadas de seguir/comentar todo dia** no Instagram (é o que traz alcance); (2) PC do garimpo ligado o dia todo (tech secou à tarde); (3) token da Página do Facebook com `pages_manage_posts`.
