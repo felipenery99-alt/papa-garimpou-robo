@@ -883,7 +883,13 @@
   "2026-11-10 tech 15:36 amz-B0GQW2J4SK",
   "2026-11-10 achadinhos 15:42 amz-B08DZ8WLZ7",
   "2026-11-10 marcas 15:50 amz-B0G3RR9Q5Y",
-  "2026-11-10 tech 15:56 amz-B08F7DBTRX"
+  "2026-11-10 tech 15:56 amz-B08F7DBTRX",
+  "2026-11-10 achadinhos 16:03 amz-B0DY388PLN",
+  "2026-11-10 marcas 16:11 amz-B0H4HV2VZX",
+  "2026-11-10 tech 16:17 amz-B0DGLXRFXB",
+  "2026-11-10 achadinhos 16:24 amz-B0CGYR8GBT",
+  "2026-11-10 marcas 16:31 amz-B0DY2P7QVC",
+  "2026-11-10 tech 16:39 amz-B0GVSVS9WH"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -1734,7 +1740,13 @@
   "amz-B0GQW2J4SK": "2026-11-10T15:36:44.002747-03:00",
   "amz-B08DZ8WLZ7": "2026-11-10T15:42:53.267183-03:00",
   "amz-B0G3RR9Q5Y": "2026-11-10T15:50:24.581025-03:00",
-  "amz-B08F7DBTRX": "2026-11-10T15:56:31.834525-03:00"
+  "amz-B08F7DBTRX": "2026-11-10T15:56:31.834525-03:00",
+  "amz-B0DY388PLN": "2026-11-10T16:03:18.197126-03:00",
+  "amz-B0H4HV2VZX": "2026-11-10T16:11:29.534553-03:00",
+  "amz-B0DGLXRFXB": "2026-11-10T16:17:36.255470-03:00",
+  "amz-B0CGYR8GBT": "2026-11-10T16:24:09.016037-03:00",
+  "amz-B0DY2P7QVC": "2026-11-10T16:31:47.283519-03:00",
+  "amz-B0GVSVS9WH": "2026-11-10T16:39:41.487905-03:00"
  },
  "ofertas_dia": [
   {
@@ -9784,6 +9796,98 @@
    "gancho": "G923 COM MIL REAIS DE DESCONTO",
    "entrou": "2026-11-10T13:59:56.619230-03:00",
    "dia": "2026-11-10"
+  },
+  {
+   "id": "amz-B0DY388PLN",
+   "canal": "achadinhos",
+   "nome": "Airfryer Philips Walita Duplo Cesto",
+   "preco_antigo": 1049.9,
+   "preco": 685.51,
+   "desconto": 35,
+   "link": "https://www.amazon.com.br/dp/B0DY388PLN?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61wMbUKJ0QL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-11T22:00:00-03:00",
+   "entrou": "2026-11-10T13:59:56.619230-03:00",
+   "dia": "2026-11-10"
+  },
+  {
+   "id": "amz-B0H4HV2VZX",
+   "canal": "marcas",
+   "nome": "Tênis Fila Progress Masculino",
+   "preco_antigo": 349.99,
+   "preco": 199.49,
+   "desconto": 43,
+   "link": "https://www.amazon.com.br/dp/B0H4HV2VZX?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51UfJQQWTiL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-11T22:00:00-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "entrou": "2026-11-10T13:59:56.619230-03:00",
+   "dia": "2026-11-10"
+  },
+  {
+   "id": "amz-B0DGLXRFXB",
+   "canal": "tech",
+   "nome": "Apple AirPods 4 com Cancelamento Ativo de Ruído",
+   "preco_antigo": 1999.0,
+   "preco": 1333.32,
+   "desconto": 33,
+   "link": "https://www.amazon.com.br/dp/B0DGLXRFXB?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/41WMBnjyitL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-11T22:00:00-03:00",
+   "entrou": "2026-11-10T13:59:56.619230-03:00",
+   "dia": "2026-11-10"
+  },
+  {
+   "id": "amz-B0CGYR8GBT",
+   "canal": "achadinhos",
+   "nome": "Fralda Pampers Pants Ajuste Total G 144 un",
+   "preco_antigo": 229.49,
+   "preco": 150.84,
+   "desconto": 34,
+   "link": "https://www.amazon.com.br/dp/B0CGYR8GBT?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/714SJqCfwxL._AC_SL1200_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-11T22:00:00-03:00",
+   "entrou": "2026-11-10T13:59:56.619230-03:00",
+   "dia": "2026-11-10"
+  },
+  {
+   "id": "amz-B0DY2P7QVC",
+   "canal": "marcas",
+   "nome": "Copo Stanley Quencher Cream Moon 1,18 L",
+   "preco_antigo": 415.0,
+   "preco": 182.01,
+   "desconto": 56,
+   "link": "https://www.amazon.com.br/dp/B0DY2P7QVC?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/417Aza54PML._AC_SL1200_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-11T22:00:00-03:00",
+   "entrou": "2026-11-10T13:59:56.619230-03:00",
+   "dia": "2026-11-10"
+  },
+  {
+   "id": "amz-B0GVSVS9WH",
+   "canal": "tech",
+   "nome": "Celular Samsung Galaxy A57 5G 128 GB 8 GB RAM",
+   "preco_antigo": 3599.0,
+   "preco": 1799.0,
+   "desconto": 50,
+   "link": "https://www.amazon.com.br/dp/B0GVSVS9WH?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51z6hTsLwNL._AC_SL1080_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-11T22:00:00-03:00",
+   "gancho": "GALAXY A57 PELA METADE",
+   "entrou": "2026-11-10T13:59:56.619230-03:00",
+   "dia": "2026-11-10"
   }
  ],
  "ig_feitos": [
@@ -9932,7 +10036,8 @@
   "2026-11-10 13:22 story_oferta",
   "2026-11-10 14:08 story_oferta",
   "2026-11-10 15:00 adivinha",
-  "2026-11-10 15:03 story_oferta"
+  "2026-11-10 15:03 story_oferta",
+  "2026-11-10 16:05 adivinha_resposta"
  ],
  "ig_ofertas_usadas": [
   "amz-B0GM19N68Z",
@@ -10201,34 +10306,6 @@
  "ultimo_pilar": "dica",
  "fila": [
   {
-   "id": "amz-B0DY388PLN",
-   "canal": "achadinhos",
-   "nome": "Airfryer Philips Walita Duplo Cesto",
-   "preco_antigo": 1049.9,
-   "preco": 685.51,
-   "desconto": 35,
-   "link": "https://www.amazon.com.br/dp/B0DY388PLN?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61wMbUKJ0QL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-11T22:00:00-03:00",
-   "entrou": "2026-11-10T13:59:56.619230-03:00"
-  },
-  {
-   "id": "amz-B0CGYR8GBT",
-   "canal": "achadinhos",
-   "nome": "Fralda Pampers Pants Ajuste Total G 144 un",
-   "preco_antigo": 229.49,
-   "preco": 150.84,
-   "desconto": 34,
-   "link": "https://www.amazon.com.br/dp/B0CGYR8GBT?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/714SJqCfwxL._AC_SL1200_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-11T22:00:00-03:00",
-   "entrou": "2026-11-10T13:59:56.619230-03:00"
-  },
-  {
    "id": "amz-B09SMV5GWM",
    "canal": "achadinhos",
    "nome": "Lava-Roupas em Pó Ypê Tixan Primavera",
@@ -10371,35 +10448,6 @@
    "entrou": "2026-11-10T13:59:56.619230-03:00"
   },
   {
-   "id": "amz-B0H4HV2VZX",
-   "canal": "marcas",
-   "nome": "Tênis Fila Progress Masculino",
-   "preco_antigo": 349.99,
-   "preco": 199.49,
-   "desconto": 43,
-   "link": "https://www.amazon.com.br/dp/B0H4HV2VZX?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51UfJQQWTiL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-11T22:00:00-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "entrou": "2026-11-10T13:59:56.619230-03:00"
-  },
-  {
-   "id": "amz-B0DY2P7QVC",
-   "canal": "marcas",
-   "nome": "Copo Stanley Quencher Cream Moon 1,18 L",
-   "preco_antigo": 415.0,
-   "preco": 182.01,
-   "desconto": 56,
-   "link": "https://www.amazon.com.br/dp/B0DY2P7QVC?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/417Aza54PML._AC_SL1200_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-11T22:00:00-03:00",
-   "entrou": "2026-11-10T13:59:56.619230-03:00"
-  },
-  {
    "id": "amz-B0D9KYTSRK",
    "canal": "marcas",
    "nome": "Tênis Fila Racer Sky Feminino",
@@ -10456,35 +10504,6 @@
    "loja": "Vendido e entregue pela Amazon",
    "plataforma": "Amazon",
    "valida_ate": "2026-11-11T22:00:00-03:00",
-   "entrou": "2026-11-10T13:59:56.619230-03:00"
-  },
-  {
-   "id": "amz-B0DGLXRFXB",
-   "canal": "tech",
-   "nome": "Apple AirPods 4 com Cancelamento Ativo de Ruído",
-   "preco_antigo": 1999.0,
-   "preco": 1333.32,
-   "desconto": 33,
-   "link": "https://www.amazon.com.br/dp/B0DGLXRFXB?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/41WMBnjyitL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-11T22:00:00-03:00",
-   "entrou": "2026-11-10T13:59:56.619230-03:00"
-  },
-  {
-   "id": "amz-B0GVSVS9WH",
-   "canal": "tech",
-   "nome": "Celular Samsung Galaxy A57 5G 128 GB 8 GB RAM",
-   "preco_antigo": 3599.0,
-   "preco": 1799.0,
-   "desconto": 50,
-   "link": "https://www.amazon.com.br/dp/B0GVSVS9WH?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51z6hTsLwNL._AC_SL1080_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-11T22:00:00-03:00",
-   "gancho": "GALAXY A57 PELA METADE",
    "entrou": "2026-11-10T13:59:56.619230-03:00"
   },
   {
@@ -11264,7 +11283,13 @@
   "appleiphone17256gbpreto": "2026-11-10T15:36:44.002747-03:00",
   "papelhigieniconevesupremefolhatripla": "2026-11-10T15:42:53.267183-03:00",
   "copotermicostanleystacking": "2026-11-10T15:50:24.581025-03:00",
-  "volantelogitechg923paraps5ps4epc": "2026-11-10T15:56:31.834525-03:00"
+  "volantelogitechg923paraps5ps4epc": "2026-11-10T15:56:31.834525-03:00",
+  "airfryerphilipswalitaduplocesto": "2026-11-10T16:03:18.197126-03:00",
+  "tenisfilaprogressmasculino": "2026-11-10T16:11:29.534553-03:00",
+  "appleairpods4comcancelamentoativoderuido": "2026-11-10T16:17:36.255470-03:00",
+  "fraldapamperspantsajustetotalg144un": "2026-11-10T16:24:09.016037-03:00",
+  "copostanleyquenchercreammoon118l": "2026-11-10T16:31:47.283519-03:00",
+  "celularsamsunggalaxya575g128gb8gbram": "2026-11-10T16:39:41.487905-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
@@ -11573,7 +11598,7 @@
   "marcas": "2026-11-09T17:54:45.499184-03:00"
  },
  "top10_dia": "2026-11-07",
- "manuais_lidos": "2026-11-10T15:50:24.287142-03:00",
+ "manuais_lidos": "2026-11-10T16:31:46.783036-03:00",
  "reserva_resultado": {
   "2026-11-07": {
    "achadinhos": {
@@ -11673,7 +11698,7 @@
    "hora": "2026-11-10T12:06:03.509362-03:00"
   }
  },
- "ig_respondido_em": "2026-11-10T15:56:29.197005-03:00",
+ "ig_respondido_em": "2026-11-10T16:39:35.993712-03:00",
  "dm_auto": {
   "2026-11-08": {
    "com_palavra": 0,

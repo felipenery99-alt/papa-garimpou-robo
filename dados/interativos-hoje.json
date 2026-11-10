@@ -15,6 +15,21 @@
      "canal": "tech"
     }
    ]
+  },
+  {
+   "tipo": "adivinha_resposta",
+   "hora": "16:11",
+   "produtos": [
+    {
+     "nome": "Smartwatch Samsung Galaxy Watch8 44mm",
+     "preco_antigo": 3199.0,
+     "preco": 1349.1,
+     "desconto": 58,
+     "link": "https://www.amazon.com.br/dp/B0FDX5XGHN?tag=papagarimpou-20",
+     "loja": "Vendido e entregue pela Amazon",
+     "canal": "tech"
+    }
+   ]
   }
  ]
 }
