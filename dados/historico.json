@@ -902,7 +902,13 @@
   "2026-11-10 tech 18:00 amz-B0FCVNLSGV",
   "2026-11-10 achadinhos 18:07 amz-B0C44K7N7G",
   "2026-11-10 marcas 18:15 shopee-58210668407",
-  "2026-11-10 tech 18:23 amz-B0F4Y2VR8S"
+  "2026-11-10 tech 18:23 amz-B0F4Y2VR8S",
+  "2026-11-10 achadinhos 18:30 amz-B0GFGN6G9L",
+  "2026-11-10 marcas 18:38 amz-B0CZM9JLRB",
+  "2026-11-10 achadinhos 18:46 amz-B0778WSF2D",
+  "2026-11-10 achadinhos 18:53 amz-B096LQQSNY",
+  "2026-11-10 marcas 19:01 amz-B0DXQCLHJ4",
+  "2026-11-10 tech 19:08 amz-B0DSXZWWDM"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -1772,7 +1778,13 @@
   "amz-B0FCVNLSGV": "2026-11-10T18:00:24.889095-03:00",
   "amz-B0C44K7N7G": "2026-11-10T18:07:55.817334-03:00",
   "shopee-58210668407": "2026-11-10T18:15:52.583209-03:00",
-  "amz-B0F4Y2VR8S": "2026-11-10T18:23:02.318993-03:00"
+  "amz-B0F4Y2VR8S": "2026-11-10T18:23:02.318993-03:00",
+  "amz-B0GFGN6G9L": "2026-11-10T18:30:14.526185-03:00",
+  "amz-B0CZM9JLRB": "2026-11-10T18:38:06.336221-03:00",
+  "amz-B0778WSF2D": "2026-11-10T18:46:19.807519-03:00",
+  "amz-B096LQQSNY": "2026-11-10T18:53:56.112173-03:00",
+  "amz-B0DXQCLHJ4": "2026-11-10T19:01:00.908677-03:00",
+  "amz-B0DSXZWWDM": "2026-11-10T19:08:47.911947-03:00"
  },
  "ofertas_dia": [
   {
@@ -10115,6 +10127,98 @@
    "valida_ate": "2026-11-11T22:00:00-03:00",
    "entrou": "2026-11-10T18:00:24.647519-03:00",
    "dia": "2026-11-10"
+  },
+  {
+   "id": "amz-B0GFGN6G9L",
+   "canal": "achadinhos",
+   "nome": "Jogo de Toalhas Buddemeyer Florentina 4 peças",
+   "preco_antigo": 229.9,
+   "preco": 159.89,
+   "desconto": 30,
+   "link": "https://www.amazon.com.br/dp/B0GFGN6G9L?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71YKKxMWfYL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-11T22:00:00-03:00",
+   "entrou": "2026-11-10T18:00:24.647519-03:00",
+   "dia": "2026-11-10"
+  },
+  {
+   "id": "amz-B0CZM9JLRB",
+   "canal": "marcas",
+   "nome": "Copo Stanley Quencher 2.0 Black 1,18 L",
+   "preco_antigo": 359.0,
+   "preco": 179.5,
+   "desconto": 50,
+   "link": "https://www.amazon.com.br/dp/B0CZM9JLRB?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/41-wKx75+RL._AC_SL1200_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-11T22:00:00-03:00",
+   "entrou": "2026-11-10T18:00:24.647519-03:00",
+   "dia": "2026-11-10"
+  },
+  {
+   "id": "amz-B0778WSF2D",
+   "canal": "achadinhos",
+   "nome": "Furadeira de Impacto Mondial com Maleta",
+   "preco_antigo": 289.9,
+   "preco": 119.0,
+   "desconto": 59,
+   "link": "https://www.amazon.com.br/dp/B0778WSF2D?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/81ci7cqj0CL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-11T22:00:00-03:00",
+   "gancho": "FURADEIRA MONDIAL 59% OFF",
+   "entrou": "2026-11-10T18:00:24.647519-03:00",
+   "dia": "2026-11-10"
+  },
+  {
+   "id": "amz-B096LQQSNY",
+   "canal": "achadinhos",
+   "nome": "Panela Tramontina Paris em Alumínio",
+   "preco_antigo": 131.66,
+   "preco": 87.59,
+   "desconto": 33,
+   "link": "https://www.amazon.com.br/dp/B096LQQSNY?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/41H0PY-eC0L._AC_SL1200_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-11T22:00:00-03:00",
+   "entrou": "2026-11-10T18:00:24.647519-03:00",
+   "dia": "2026-11-10"
+  },
+  {
+   "id": "amz-B0DXQCLHJ4",
+   "canal": "marcas",
+   "nome": "Stanley Garrafa Aerolight Fast Flow 1,1L Rose Quartz",
+   "preco_antigo": 339.0,
+   "preco": 203.4,
+   "desconto": 40,
+   "link": "https://www.amazon.com.br/dp/B0DXQCLHJ4?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/41hIRUyZ-1L._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-11T22:00:00-03:00",
+   "entrou": "2026-11-10T19:00:57.608548-03:00",
+   "dia": "2026-11-10"
+  },
+  {
+   "id": "amz-B0DSXZWWDM",
+   "canal": "tech",
+   "nome": "Samsung Galaxy S25 5G 256GB 12GB RAM",
+   "preco_antigo": 6999.0,
+   "preco": 4149.0,
+   "desconto": 41,
+   "link": "https://www.amazon.com.br/dp/B0DSXZWWDM?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61ypIBTp6vL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-11T22:00:00-03:00",
+   "gancho": "GALAXY S25 COM 40% OFF",
+   "entrou": "2026-11-10T19:00:57.608548-03:00",
+   "dia": "2026-11-10"
   }
  ],
  "ig_feitos": [
@@ -10269,7 +10373,9 @@
   "story especial pede-pro-papa 2026-11-10",
   "2026-11-10 17:36 story_oferta",
   "2026-11-10 18:05 a_ou_b",
-  "2026-11-10 18:09 story_oferta"
+  "2026-11-10 18:09 story_oferta",
+  "2026-11-10 18:30 reels",
+  "2026-11-10 18:42 story_oferta"
  ],
  "ig_ofertas_usadas": [
   "amz-B0FR49NFLT",
@@ -10471,11 +10577,12 @@
   "amz-B0CJRXT3L6",
   "shopee-15346286898",
   "amz-B0FFTY5R7S",
-  "amz-B0CG9VXH4L"
+  "amz-B0CG9VXH4L",
+  "amz-B0F3ZNTJ3W"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
- "ig_ultimo_reel": "2026-11-10T12:06:03.509362-03:00",
+ "ig_ultimo_reel": "2026-11-10T18:37:15.552053-03:00",
  "pecas_usadas": {
   "ac-preco-inflado": "2026-10-27",
   "dc-7-dias": "2026-10-27",
@@ -10538,49 +10645,6 @@
  "ultimo_pilar": "dica",
  "fila": [
   {
-   "id": "amz-B0GFGN6G9L",
-   "canal": "achadinhos",
-   "nome": "Jogo de Toalhas Buddemeyer Florentina 4 peças",
-   "preco_antigo": 229.9,
-   "preco": 159.89,
-   "desconto": 30,
-   "link": "https://www.amazon.com.br/dp/B0GFGN6G9L?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/71YKKxMWfYL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-11T22:00:00-03:00",
-   "entrou": "2026-11-10T18:00:24.647519-03:00"
-  },
-  {
-   "id": "amz-B0778WSF2D",
-   "canal": "achadinhos",
-   "nome": "Furadeira de Impacto Mondial com Maleta",
-   "preco_antigo": 289.9,
-   "preco": 119.0,
-   "desconto": 59,
-   "link": "https://www.amazon.com.br/dp/B0778WSF2D?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/81ci7cqj0CL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-11T22:00:00-03:00",
-   "gancho": "FURADEIRA MONDIAL 59% OFF",
-   "entrou": "2026-11-10T18:00:24.647519-03:00"
-  },
-  {
-   "id": "amz-B096LQQSNY",
-   "canal": "achadinhos",
-   "nome": "Panela Tramontina Paris em Alumínio",
-   "preco_antigo": 131.66,
-   "preco": 87.59,
-   "desconto": 33,
-   "link": "https://www.amazon.com.br/dp/B096LQQSNY?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/41H0PY-eC0L._AC_SL1200_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-11T22:00:00-03:00",
-   "entrou": "2026-11-10T18:00:24.647519-03:00"
-  },
-  {
    "id": "amz-B076BBQRRQ",
    "canal": "achadinhos",
    "nome": "Aspirador de Água e Pó Electrolux Compacto",
@@ -10610,18 +10674,320 @@
    "entrou": "2026-11-10T18:00:24.647519-03:00"
   },
   {
-   "id": "amz-B0CZM9JLRB",
-   "canal": "marcas",
-   "nome": "Copo Stanley Quencher 2.0 Black 1,18 L",
-   "preco_antigo": 359.0,
-   "preco": 179.5,
-   "desconto": 50,
-   "link": "https://www.amazon.com.br/dp/B0CZM9JLRB?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/41-wKx75+RL._AC_SL1200_.jpg",
+   "id": "amz-B07H3B86KY",
+   "canal": "achadinhos",
+   "nome": "WAP Lavadora de Alta Pressão Ousada Plus 2200 220V",
+   "preco_antigo": 779.9,
+   "preco": 378.9,
+   "desconto": 51,
+   "link": "https://www.amazon.com.br/dp/B07H3B86KY?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/711W3v-nNpL._AC_SL1500_.jpg",
    "loja": "Vendido e entregue pela Amazon",
    "plataforma": "Amazon",
    "valida_ate": "2026-11-11T22:00:00-03:00",
-   "entrou": "2026-11-10T18:00:24.647519-03:00"
+   "gancho": "WAP PELA METADE DO PREÇO",
+   "entrou": "2026-11-10T19:00:57.608548-03:00"
+  },
+  {
+   "id": "amz-B0D8RH7VXW",
+   "canal": "achadinhos",
+   "nome": "Mondial Lavadora de Alta Pressão Aqua Power II",
+   "preco_antigo": 699.9,
+   "preco": 313.4,
+   "desconto": 55,
+   "link": "https://www.amazon.com.br/dp/B0D8RH7VXW?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51ZSBpoULPL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-11T22:00:00-03:00",
+   "entrou": "2026-11-10T19:00:57.608548-03:00"
+  },
+  {
+   "id": "amz-B08NVML21R",
+   "canal": "achadinhos",
+   "nome": "Protetor Solar Facial Neutrogena Sun Fresh FPS 70 40g",
+   "preco_antigo": 72.99,
+   "preco": 38.86,
+   "desconto": 47,
+   "link": "https://www.amazon.com.br/dp/B08NVML21R?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51cb8j36uqL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-11T22:00:00-03:00",
+   "entrou": "2026-11-10T19:00:57.608548-03:00"
+  },
+  {
+   "id": "amz-B0FRNLGZR8",
+   "canal": "achadinhos",
+   "nome": "Escova Elétrica Philips Colgate SonicPro 20",
+   "preco_antigo": 301.0,
+   "preco": 142.45,
+   "desconto": 53,
+   "link": "https://www.amazon.com.br/dp/B0FRNLGZR8?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61c-GTj-aSL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-11T22:00:00-03:00",
+   "entrou": "2026-11-10T19:00:57.608548-03:00"
+  },
+  {
+   "id": "amz-B07XZGH2SH",
+   "canal": "achadinhos",
+   "nome": "Oral-B Refil Escova Elétrica Pro Series Sensitive",
+   "preco_antigo": 57.69,
+   "preco": 35.14,
+   "desconto": 39,
+   "link": "https://www.amazon.com.br/dp/B07XZGH2SH?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61zByws0n2L._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-11T22:00:00-03:00",
+   "entrou": "2026-11-10T19:00:57.608548-03:00"
+  },
+  {
+   "id": "amz-B0GS755NZ9",
+   "canal": "achadinhos",
+   "nome": "Philips Walita Processador PowerChop 450W",
+   "preco_antigo": 239.9,
+   "preco": 144.18,
+   "desconto": 40,
+   "link": "https://www.amazon.com.br/dp/B0GS755NZ9?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61u6ERiuXKL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-11T22:00:00-03:00",
+   "entrou": "2026-11-10T19:00:57.608548-03:00"
+  },
+  {
+   "id": "amz-B0GJ7CSCD7",
+   "canal": "achadinhos",
+   "nome": "Philco Air Fryer Oven 15L Redstone 10 Funções 127V",
+   "preco_antigo": 699.9,
+   "preco": 436.9,
+   "desconto": 38,
+   "link": "https://www.amazon.com.br/dp/B0GJ7CSCD7?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61AMnZD50XL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-11T22:00:00-03:00",
+   "gancho": "AIR FRYER FORNO COM 38% OFF",
+   "entrou": "2026-11-10T19:00:57.608548-03:00"
+  },
+  {
+   "id": "amz-B01643M5KY",
+   "canal": "achadinhos",
+   "nome": "Secador Mondial Max Travel Bivolt 1200W",
+   "preco_antigo": 99.9,
+   "preco": 59.9,
+   "desconto": 40,
+   "link": "https://www.amazon.com.br/dp/B01643M5KY?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71qlVmBwXkL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-11T22:00:00-03:00",
+   "entrou": "2026-11-10T19:00:57.608548-03:00"
+  },
+  {
+   "id": "amz-B07HZL4D72",
+   "canal": "achadinhos",
+   "nome": "Amaciante Ypê Ultra Aconchego 5L",
+   "preco_antigo": 29.26,
+   "preco": 18.09,
+   "desconto": 38,
+   "link": "https://www.amazon.com.br/dp/B07HZL4D72?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51UE1ZXqipL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-11T22:00:00-03:00",
+   "entrou": "2026-11-10T19:00:57.608548-03:00"
+  },
+  {
+   "id": "amz-B0CXQ9XL8X",
+   "canal": "achadinhos",
+   "nome": "Bosch Lavadora de Alta Pressão GHP 220 2100W 220V",
+   "preco_antigo": 1899.0,
+   "preco": 965.45,
+   "desconto": 49,
+   "link": "https://www.amazon.com.br/dp/B0CXQ9XL8X?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61D-V4KlVPL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-11T22:00:00-03:00",
+   "entrou": "2026-11-10T19:00:57.608548-03:00"
+  },
+  {
+   "id": "amz-B0B695DMC2",
+   "canal": "achadinhos",
+   "nome": "L'Oréal Paris Protetor Facial Expertise Antioleosidade",
+   "preco_antigo": 55.89,
+   "preco": 33.49,
+   "desconto": 40,
+   "link": "https://www.amazon.com.br/dp/B0B695DMC2?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/81VO-Y6AgGL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-11T22:00:00-03:00",
+   "entrou": "2026-11-10T19:00:57.608548-03:00"
+  },
+  {
+   "id": "amz-B0D79HC66G",
+   "canal": "achadinhos",
+   "nome": "WAP Lavadora e Desobstruidora Premium Ultra",
+   "preco_antigo": 2049.9,
+   "preco": 1109.9,
+   "desconto": 46,
+   "link": "https://www.amazon.com.br/dp/B0D79HC66G?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71WdMgaAJkL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-11T22:00:00-03:00",
+   "entrou": "2026-11-10T19:00:57.608548-03:00"
+  },
+  {
+   "id": "amz-B09SN5W3MQ",
+   "canal": "achadinhos",
+   "nome": "Ypê Lava Roupas em Pó Tixan Primavera 1,6kg",
+   "preco_antigo": 26.74,
+   "preco": 16.19,
+   "desconto": 39,
+   "link": "https://www.amazon.com.br/dp/B09SN5W3MQ?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71dG6tL6-LL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-11T22:00:00-03:00",
+   "entrou": "2026-11-10T19:00:57.608548-03:00"
+  },
+  {
+   "id": "amz-B07DVJC66X",
+   "canal": "marcas",
+   "nome": "Max Titanium Creatina Monohidratada 300g",
+   "preco_antigo": 48.99,
+   "preco": 36.0,
+   "desconto": 27,
+   "link": "https://www.amazon.com.br/dp/B07DVJC66X?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51gt4U5kD-L._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-11T22:00:00-03:00",
+   "entrou": "2026-11-10T19:00:57.608548-03:00"
+  },
+  {
+   "id": "amz-B0CB1TW4TY",
+   "canal": "marcas",
+   "nome": "Tênis de Corrida Mizuno Wave Falcon 5 Masculino",
+   "preco_antigo": 379.0,
+   "preco": 179.99,
+   "desconto": 53,
+   "link": "https://www.amazon.com.br/dp/B0CB1TW4TY?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/611zD2OBZ5L._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Netshoes · Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-11T22:00:00-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "gancho": "MIZUNO DE CORRIDA PELA METADE",
+   "entrou": "2026-11-10T19:00:57.608548-03:00"
+  },
+  {
+   "id": "amz-B0GWFCG1BS",
+   "canal": "marcas",
+   "nome": "Stanley Garrafa Térmica Twist Flip 354ml Rose Quartz",
+   "preco_antigo": 249.0,
+   "preco": 161.4,
+   "desconto": 35,
+   "link": "https://www.amazon.com.br/dp/B0GWFCG1BS?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/415DDMfRX1L._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-11T22:00:00-03:00",
+   "entrou": "2026-11-10T19:00:57.608548-03:00"
+  },
+  {
+   "id": "amz-B079XC5PVV",
+   "canal": "tech",
+   "nome": "SSD Kingston A400 960GB SATA",
+   "preco_antigo": 1900.69,
+   "preco": 845.39,
+   "desconto": 56,
+   "link": "https://www.amazon.com.br/dp/B079XC5PVV?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/81+9rUcRVTL._AC_SL1500_.jpg",
+   "loja": "Vendido por parceiro · entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-11T22:00:00-03:00",
+   "gancho": "PC LENTO? SSD KINGSTON COM MAIS DE 50% OFF",
+   "entrou": "2026-11-10T19:00:57.608548-03:00"
+  },
+  {
+   "id": "amz-B0FJBJH87N",
+   "canal": "tech",
+   "nome": "JBL PartyBox 520 Caixa de Som Bluetooth com Luzes",
+   "preco_antigo": 5999.0,
+   "preco": 3406.7,
+   "desconto": 43,
+   "link": "https://www.amazon.com.br/dp/B0FJBJH87N?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61zm6pi9ziL._AC_SL1500_.jpg",
+   "loja": "Vendido por parceiro · entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-11T22:00:00-03:00",
+   "gancho": "A FESTA É NA SUA CASA",
+   "entrou": "2026-11-10T19:00:57.608548-03:00"
+  },
+  {
+   "id": "amz-B0DHL911FJ",
+   "canal": "tech",
+   "nome": "Fone JBL Wave Beam 2 Sem Fio",
+   "preco_antigo": 369.0,
+   "preco": 227.7,
+   "desconto": 38,
+   "link": "https://www.amazon.com.br/dp/B0DHL911FJ?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51o+UNSyFBL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-11T22:00:00-03:00",
+   "entrou": "2026-11-10T19:00:57.608548-03:00"
+  },
+  {
+   "id": "amz-B09B8VGCR8",
+   "canal": "tech",
+   "nome": "Echo Dot Amazon com Alexa (smart speaker)",
+   "preco_antigo": 649.0,
+   "preco": 349.0,
+   "desconto": 46,
+   "link": "https://www.amazon.com.br/dp/B09B8VGCR8?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61evEYmxBZL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-11T22:00:00-03:00",
+   "gancho": "ALEXA PELA METADE DO PREÇO",
+   "entrou": "2026-11-10T19:00:57.608548-03:00"
+  },
+  {
+   "id": "amz-B0DJ1QNM1R",
+   "canal": "tech",
+   "nome": "JBL PartyBox Club 120 Caixa de Som Bluetooth 160W",
+   "preco_antigo": 2699.0,
+   "preco": 1529.11,
+   "desconto": 43,
+   "link": "https://www.amazon.com.br/dp/B0DJ1QNM1R?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71RAH-YUFkL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-11T22:00:00-03:00",
+   "entrou": "2026-11-10T19:00:57.608548-03:00"
+  },
+  {
+   "id": "amz-B0FQFJP7MP",
+   "canal": "tech",
+   "nome": "Apple Watch SE 3 GPS + Cellular",
+   "preco_antigo": 4299.0,
+   "preco": 2498.0,
+   "desconto": 42,
+   "link": "https://www.amazon.com.br/dp/B0FQFJP7MP?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51HakFG+e3L._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-11T22:00:00-03:00",
+   "gancho": "APPLE WATCH COM DESCONTÃO",
+   "entrou": "2026-11-10T19:00:57.608548-03:00"
   }
  ],
  "menus_fixados": [
@@ -11345,7 +11711,13 @@
   "copostanleyquenchercream887ml": "2026-11-10T17:53:40.320426-03:00",
   "notebooklenovoideapadslim3i": "2026-11-10T18:00:24.889095-03:00",
   "aspiradordepoverticalphilco2em1": "2026-11-10T18:07:55.817334-03:00",
-  "ssdsandiskplus": "2026-11-10T18:23:02.318993-03:00"
+  "ssdsandiskplus": "2026-11-10T18:23:02.318993-03:00",
+  "jogodetoalhasbuddemeyerflorentina4pecas": "2026-11-10T18:30:14.526185-03:00",
+  "copostanleyquencher20black118l": "2026-11-10T18:38:06.336221-03:00",
+  "furadeiradeimpactomondialcommaleta": "2026-11-10T18:46:19.807519-03:00",
+  "panelatramontinaparisemaluminio": "2026-11-10T18:53:56.112173-03:00",
+  "stanleygarrafaaerolightfastflow11lrosequartz": "2026-11-10T19:01:00.908677-03:00",
+  "samsunggalaxys255g256gb12gbram": "2026-11-10T19:08:47.911947-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
@@ -11540,11 +11912,12 @@
    "shopee-21897631761"
   ],
   "2026-11-10": [
-   "shopee-23099169510",
-   "shopee-21299179885",
-   "shopee-22994673009",
    "shopee-11098381324",
-   "shopee-22497648129"
+   "shopee-15346286898",
+   "shopee-22497648129",
+   "shopee-22994673009",
+   "shopee-21299179885",
+   "shopee-23099169510"
   ]
  },
  "vendas_shopee": {},
@@ -11647,14 +12020,14 @@
   "2026-11-09 tarde tech",
   "2026-11-09 noite tech"
  ],
- "reserva_meio": "2026-11-10T08:51:46.233551-03:00",
+ "reserva_meio": "2026-11-10T18:45:45.944311-03:00",
  "reserva_cheia": {
   "achadinhos": "2026-11-09T18:09:55.295113-03:00",
   "tech": "2026-11-09T18:09:55.295113-03:00",
   "marcas": "2026-11-09T17:54:45.499184-03:00"
  },
  "top10_dia": "2026-11-07",
- "manuais_lidos": "2026-11-10T18:15:33.995230-03:00",
+ "manuais_lidos": "2026-11-10T19:00:57.608548-03:00",
  "reserva_resultado": {
   "2026-11-07": {
    "achadinhos": {
@@ -11752,9 +12125,13 @@
   "18473011252140741": {
    "capa": "ate_off",
    "hora": "2026-11-10T12:06:03.509362-03:00"
+  },
+  "18179592646445557": {
+   "capa": "uma_oferta",
+   "hora": "2026-11-10T18:37:15.552053-03:00"
   }
  },
- "ig_respondido_em": "2026-11-10T18:15:33.995230-03:00",
+ "ig_respondido_em": "2026-11-10T19:00:57.608548-03:00",
  "dm_auto": {
   "2026-11-08": {
    "com_palavra": 0,
@@ -11828,6 +12205,12 @@
     "capa": "ate_off",
     "legenda": "Manda pra quem tá precisando disso 👇\n😎💎 Até 43% OFF em marca boa: os 5 achados do Papa hoje\n\nLink no perfil: ofertas todo dia no Telegram do Papa 💎\n\nPubli · link de afiliado",
     "url": "https://raw.githubusercontent.com/felipenery99-alt/papa-garimpou-robo/midia-temp/20261110-1206-tiktok.mp4"
+   },
+   {
+    "hora": "18:37",
+    "capa": "uma_oferta",
+    "legenda": "Manda pra quem tá precisando disso 👇\n😎💎 Kit 6 Pares Meias Lupo Cano Médio Alto Longo Algodão Original Casual Confortável Atoalhada\n\nLink no perfil: ofertas todo dia no Telegram do Papa 💎\n\nPubli · link de afiliado",
+    "url": "https://raw.githubusercontent.com/felipenery99-alt/papa-garimpou-robo/midia-temp/20261110-1837-tiktok.mp4"
    }
   ]
  },
