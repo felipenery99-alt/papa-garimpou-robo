@@ -876,7 +876,14 @@
   "2026-11-10 tech 14:40 amz-B0FQFTB8JX",
   "2026-11-10 achadinhos 14:47 amz-B0FVJWQ3PX",
   "2026-11-10 marcas 14:54 amz-B08N2SYJML",
-  "2026-11-10 tech 15:01 amz-B0DB1X3LLT"
+  "2026-11-10 tech 15:01 amz-B0DB1X3LLT",
+  "2026-11-10 achadinhos 15:13 amz-B0HGB63BRM",
+  "2026-11-10 achadinhos 15:22 amz-B07F5RMGYW",
+  "2026-11-10 marcas 15:29 amz-B0953ZHV5P",
+  "2026-11-10 tech 15:36 amz-B0GQW2J4SK",
+  "2026-11-10 achadinhos 15:42 amz-B08DZ8WLZ7",
+  "2026-11-10 marcas 15:50 amz-B0G3RR9Q5Y",
+  "2026-11-10 tech 15:56 amz-B08F7DBTRX"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -1720,7 +1727,14 @@
   "amz-B0FQFTB8JX": "2026-11-10T14:40:53.783520-03:00",
   "amz-B0FVJWQ3PX": "2026-11-10T14:47:51.190304-03:00",
   "amz-B08N2SYJML": "2026-11-10T14:54:23.126463-03:00",
-  "amz-B0DB1X3LLT": "2026-11-10T15:01:00.281379-03:00"
+  "amz-B0DB1X3LLT": "2026-11-10T15:01:00.281379-03:00",
+  "amz-B0HGB63BRM": "2026-11-10T15:13:57.625100-03:00",
+  "amz-B07F5RMGYW": "2026-11-10T15:22:06.707543-03:00",
+  "amz-B0953ZHV5P": "2026-11-10T15:29:17.548719-03:00",
+  "amz-B0GQW2J4SK": "2026-11-10T15:36:44.002747-03:00",
+  "amz-B08DZ8WLZ7": "2026-11-10T15:42:53.267183-03:00",
+  "amz-B0G3RR9Q5Y": "2026-11-10T15:50:24.581025-03:00",
+  "amz-B08F7DBTRX": "2026-11-10T15:56:31.834525-03:00"
  },
  "ofertas_dia": [
   {
@@ -9663,6 +9677,113 @@
    "valida_ate": "2026-11-11T22:00:00-03:00",
    "entrou": "2026-11-10T13:59:56.619230-03:00",
    "dia": "2026-11-10"
+  },
+  {
+   "id": "amz-B0HGB63BRM",
+   "canal": "achadinhos",
+   "nome": "Lavadora de Alta Pressão WAP Eco Fit Plus",
+   "preco_antigo": 499.9,
+   "preco": 329.0,
+   "desconto": 34,
+   "link": "https://www.amazon.com.br/dp/B0HGB63BRM?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/516q1DvTZFL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-11T22:00:00-03:00",
+   "entrou": "2026-11-10T13:59:56.619230-03:00",
+   "dia": "2026-11-10"
+  },
+  {
+   "id": "amz-B07F5RMGYW",
+   "canal": "achadinhos",
+   "nome": "Loção Hidratante Firmador NIVEA Q10 + Vitamina C",
+   "preco_antigo": 36.9,
+   "preco": 25.76,
+   "desconto": 30,
+   "link": "https://www.amazon.com.br/dp/B07F5RMGYW?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61nGxXzg-hL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-11T22:00:00-03:00",
+   "entrou": "2026-11-10T13:59:56.619230-03:00",
+   "dia": "2026-11-10"
+  },
+  {
+   "id": "amz-B0953ZHV5P",
+   "canal": "marcas",
+   "nome": "Garrafa Térmica Stanley Classic",
+   "preco_antigo": 315.0,
+   "preco": 220.83,
+   "desconto": 30,
+   "link": "https://www.amazon.com.br/dp/B0953ZHV5P?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/81anM2IyndL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-11T22:00:00-03:00",
+   "entrou": "2026-11-10T13:59:56.619230-03:00",
+   "dia": "2026-11-10"
+  },
+  {
+   "id": "amz-B0GQW2J4SK",
+   "canal": "tech",
+   "nome": "Apple iPhone 17 256 GB Preto",
+   "preco_antigo": 7999.0,
+   "preco": 5566.05,
+   "desconto": 30,
+   "link": "https://www.amazon.com.br/dp/B0GQW2J4SK?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/41HPi5vrxSL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-11T22:00:00-03:00",
+   "gancho": "IPHONE 17 COM 30% OFF",
+   "entrou": "2026-11-10T13:59:56.619230-03:00",
+   "dia": "2026-11-10"
+  },
+  {
+   "id": "amz-B08DZ8WLZ7",
+   "canal": "achadinhos",
+   "nome": "Papel Higiênico Neve Supreme Folha Tripla",
+   "preco_antigo": 73.99,
+   "preco": 49.9,
+   "desconto": 33,
+   "link": "https://www.amazon.com.br/dp/B08DZ8WLZ7?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71uMfSWtjnL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-11T22:00:00-03:00",
+   "entrou": "2026-11-10T13:59:56.619230-03:00",
+   "dia": "2026-11-10"
+  },
+  {
+   "id": "amz-B0G3RR9Q5Y",
+   "canal": "marcas",
+   "nome": "Copo Térmico Stanley Stacking",
+   "preco_antigo": 109.0,
+   "preco": 67.5,
+   "desconto": 38,
+   "link": "https://www.amazon.com.br/dp/B0G3RR9Q5Y?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51kzbcRQzcL._AC_SL1200_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-11T22:00:00-03:00",
+   "entrou": "2026-11-10T13:59:56.619230-03:00",
+   "dia": "2026-11-10"
+  },
+  {
+   "id": "amz-B08F7DBTRX",
+   "canal": "tech",
+   "nome": "Volante Logitech G923 para PS5, PS4 e PC",
+   "preco_antigo": 3499.9,
+   "preco": 2399.0,
+   "desconto": 31,
+   "link": "https://www.amazon.com.br/dp/B08F7DBTRX?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71pJHPTyacL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-11T22:00:00-03:00",
+   "gancho": "G923 COM MIL REAIS DE DESCONTO",
+   "entrou": "2026-11-10T13:59:56.619230-03:00",
+   "dia": "2026-11-10"
   }
  ],
  "ig_feitos": [
@@ -9810,10 +9931,10 @@
   "2026-11-10 13:20 story_convite",
   "2026-11-10 13:22 story_oferta",
   "2026-11-10 14:08 story_oferta",
-  "2026-11-10 15:00 adivinha"
+  "2026-11-10 15:00 adivinha",
+  "2026-11-10 15:03 story_oferta"
  ],
  "ig_ofertas_usadas": [
-  "amz-B07RRDLZQY",
   "amz-B0GM19N68Z",
   "amz-B07Y2BK4GJ",
   "amz-B0G4SN4QF7",
@@ -10012,7 +10133,8 @@
   "amz-B097J7J54H",
   "amz-B0DXQC6MDM",
   "amz-B0H3Q1R7P4",
-  "amz-B0FDX5XGHN"
+  "amz-B0FDX5XGHN",
+  "amz-B09LNLM4FX"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
@@ -10078,48 +10200,6 @@
  },
  "ultimo_pilar": "dica",
  "fila": [
-  {
-   "id": "amz-B0HGB63BRM",
-   "canal": "achadinhos",
-   "nome": "Lavadora de Alta Pressão WAP Eco Fit Plus",
-   "preco_antigo": 499.9,
-   "preco": 329.0,
-   "desconto": 34,
-   "link": "https://www.amazon.com.br/dp/B0HGB63BRM?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/516q1DvTZFL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-11T22:00:00-03:00",
-   "entrou": "2026-11-10T13:59:56.619230-03:00"
-  },
-  {
-   "id": "amz-B07F5RMGYW",
-   "canal": "achadinhos",
-   "nome": "Loção Hidratante Firmador NIVEA Q10 + Vitamina C",
-   "preco_antigo": 36.9,
-   "preco": 25.76,
-   "desconto": 30,
-   "link": "https://www.amazon.com.br/dp/B07F5RMGYW?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61nGxXzg-hL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-11T22:00:00-03:00",
-   "entrou": "2026-11-10T13:59:56.619230-03:00"
-  },
-  {
-   "id": "amz-B08DZ8WLZ7",
-   "canal": "achadinhos",
-   "nome": "Papel Higiênico Neve Supreme Folha Tripla",
-   "preco_antigo": 73.99,
-   "preco": 49.9,
-   "desconto": 33,
-   "link": "https://www.amazon.com.br/dp/B08DZ8WLZ7?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/71uMfSWtjnL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-11T22:00:00-03:00",
-   "entrou": "2026-11-10T13:59:56.619230-03:00"
-  },
   {
    "id": "amz-B0DY388PLN",
    "canal": "achadinhos",
@@ -10291,34 +10371,6 @@
    "entrou": "2026-11-10T13:59:56.619230-03:00"
   },
   {
-   "id": "amz-B0953ZHV5P",
-   "canal": "marcas",
-   "nome": "Garrafa Térmica Stanley Classic",
-   "preco_antigo": 315.0,
-   "preco": 220.83,
-   "desconto": 30,
-   "link": "https://www.amazon.com.br/dp/B0953ZHV5P?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/81anM2IyndL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-11T22:00:00-03:00",
-   "entrou": "2026-11-10T13:59:56.619230-03:00"
-  },
-  {
-   "id": "amz-B0G3RR9Q5Y",
-   "canal": "marcas",
-   "nome": "Copo Térmico Stanley Stacking",
-   "preco_antigo": 109.0,
-   "preco": 67.5,
-   "desconto": 38,
-   "link": "https://www.amazon.com.br/dp/B0G3RR9Q5Y?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51kzbcRQzcL._AC_SL1200_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-11T22:00:00-03:00",
-   "entrou": "2026-11-10T13:59:56.619230-03:00"
-  },
-  {
    "id": "amz-B0H4HV2VZX",
    "canal": "marcas",
    "nome": "Tênis Fila Progress Masculino",
@@ -10404,36 +10456,6 @@
    "loja": "Vendido e entregue pela Amazon",
    "plataforma": "Amazon",
    "valida_ate": "2026-11-11T22:00:00-03:00",
-   "entrou": "2026-11-10T13:59:56.619230-03:00"
-  },
-  {
-   "id": "amz-B0GQW2J4SK",
-   "canal": "tech",
-   "nome": "Apple iPhone 17 256 GB Preto",
-   "preco_antigo": 7999.0,
-   "preco": 5566.05,
-   "desconto": 30,
-   "link": "https://www.amazon.com.br/dp/B0GQW2J4SK?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/41HPi5vrxSL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-11T22:00:00-03:00",
-   "gancho": "IPHONE 17 COM 30% OFF",
-   "entrou": "2026-11-10T13:59:56.619230-03:00"
-  },
-  {
-   "id": "amz-B08F7DBTRX",
-   "canal": "tech",
-   "nome": "Volante Logitech G923 para PS5, PS4 e PC",
-   "preco_antigo": 3499.9,
-   "preco": 2399.0,
-   "desconto": 31,
-   "link": "https://www.amazon.com.br/dp/B08F7DBTRX?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/71pJHPTyacL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-11T22:00:00-03:00",
-   "gancho": "G923 COM MIL REAIS DE DESCONTO",
    "entrou": "2026-11-10T13:59:56.619230-03:00"
   },
   {
@@ -11235,7 +11257,14 @@
   "applewatchse3gps": "2026-11-10T14:40:53.783520-03:00",
   "kit16poteshermeticoselectroluxmultiuso": "2026-11-10T14:47:51.190304-03:00",
   "wheymaxtitanium100whey900gbaunilha": "2026-11-10T14:54:23.126463-03:00",
-  "tecladomecanicogamersemfiologitech": "2026-11-10T15:01:00.281379-03:00"
+  "tecladomecanicogamersemfiologitech": "2026-11-10T15:01:00.281379-03:00",
+  "lavadoradealtapressaowapecofitplus": "2026-11-10T15:13:57.625100-03:00",
+  "locaohidratantefirmadorniveaq10vitaminac": "2026-11-10T15:22:06.707543-03:00",
+  "garrafatermicastanleyclassic": "2026-11-10T15:29:17.548719-03:00",
+  "appleiphone17256gbpreto": "2026-11-10T15:36:44.002747-03:00",
+  "papelhigieniconevesupremefolhatripla": "2026-11-10T15:42:53.267183-03:00",
+  "copotermicostanleystacking": "2026-11-10T15:50:24.581025-03:00",
+  "volantelogitechg923paraps5ps4epc": "2026-11-10T15:56:31.834525-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
@@ -11481,7 +11510,7 @@
    "entradas": []
   }
  },
- "tg_offset": 354369947,
+ "tg_offset": 354369948,
  "adivinha": {
   "dia": "2026-11-10",
   "oferta": {
@@ -11544,7 +11573,7 @@
   "marcas": "2026-11-09T17:54:45.499184-03:00"
  },
  "top10_dia": "2026-11-07",
- "manuais_lidos": "2026-11-10T14:54:22.688830-03:00",
+ "manuais_lidos": "2026-11-10T15:50:24.287142-03:00",
  "reserva_resultado": {
   "2026-11-07": {
    "achadinhos": {
@@ -11644,7 +11673,7 @@
    "hora": "2026-11-10T12:06:03.509362-03:00"
   }
  },
- "ig_respondido_em": "2026-11-10T15:00:27.692636-03:00",
+ "ig_respondido_em": "2026-11-10T15:56:29.197005-03:00",
  "dm_auto": {
   "2026-11-08": {
    "com_palavra": 0,
