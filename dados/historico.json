@@ -889,7 +889,14 @@
   "2026-11-10 tech 16:17 amz-B0DGLXRFXB",
   "2026-11-10 achadinhos 16:24 amz-B0CGYR8GBT",
   "2026-11-10 marcas 16:31 amz-B0DY2P7QVC",
-  "2026-11-10 tech 16:39 amz-B0GVSVS9WH"
+  "2026-11-10 tech 16:39 amz-B0GVSVS9WH",
+  "2026-11-10 achadinhos 16:54 amz-B09SMV5GWM",
+  "2026-11-10 achadinhos 17:02 amz-B0BFXJ12QQ",
+  "2026-11-10 marcas 17:09 amz-B0D9KYTSRK",
+  "2026-11-10 tech 17:16 amz-B0FPYV6K68",
+  "2026-11-10 achadinhos 17:23 amz-B07XLNQTQH",
+  "2026-11-10 marcas 17:29 amz-B07L5VVJ83",
+  "2026-11-10 tech 17:37 amz-B0F1N79TYM"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -1746,7 +1753,14 @@
   "amz-B0DGLXRFXB": "2026-11-10T16:17:36.255470-03:00",
   "amz-B0CGYR8GBT": "2026-11-10T16:24:09.016037-03:00",
   "amz-B0DY2P7QVC": "2026-11-10T16:31:47.283519-03:00",
-  "amz-B0GVSVS9WH": "2026-11-10T16:39:41.487905-03:00"
+  "amz-B0GVSVS9WH": "2026-11-10T16:39:41.487905-03:00",
+  "amz-B09SMV5GWM": "2026-11-10T16:54:51.785020-03:00",
+  "amz-B0BFXJ12QQ": "2026-11-10T17:02:32.783724-03:00",
+  "amz-B0D9KYTSRK": "2026-11-10T17:09:31.236326-03:00",
+  "amz-B0FPYV6K68": "2026-11-10T17:16:53.884464-03:00",
+  "amz-B07XLNQTQH": "2026-11-10T17:23:09.601941-03:00",
+  "amz-B07L5VVJ83": "2026-11-10T17:29:30.533558-03:00",
+  "amz-B0F1N79TYM": "2026-11-10T17:37:18.538774-03:00"
  },
  "ofertas_dia": [
   {
@@ -9888,6 +9902,113 @@
    "gancho": "GALAXY A57 PELA METADE",
    "entrou": "2026-11-10T13:59:56.619230-03:00",
    "dia": "2026-11-10"
+  },
+  {
+   "id": "amz-B09SMV5GWM",
+   "canal": "achadinhos",
+   "nome": "Lava-Roupas em Pó Ypê Tixan Primavera",
+   "preco_antigo": 59.62,
+   "preco": 35.09,
+   "desconto": 41,
+   "link": "https://www.amazon.com.br/dp/B09SMV5GWM?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71aKLwu-63L._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-11T22:00:00-03:00",
+   "entrou": "2026-11-10T13:59:56.619230-03:00",
+   "dia": "2026-11-10"
+  },
+  {
+   "id": "amz-B0BFXJ12QQ",
+   "canal": "achadinhos",
+   "nome": "Fralda Huggies Supreme Care M 196 un",
+   "preco_antigo": 229.9,
+   "preco": 149.9,
+   "desconto": 35,
+   "link": "https://www.amazon.com.br/dp/B0BFXJ12QQ?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/81k5q1RPzlL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-11T22:00:00-03:00",
+   "entrou": "2026-11-10T13:59:56.619230-03:00",
+   "dia": "2026-11-10"
+  },
+  {
+   "id": "amz-B0D9KYTSRK",
+   "canal": "marcas",
+   "nome": "Tênis Fila Racer Sky Feminino",
+   "preco_antigo": 349.99,
+   "preco": 180.4,
+   "desconto": 48,
+   "link": "https://www.amazon.com.br/dp/B0D9KYTSRK?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51WsVihOVRL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-11T22:00:00-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "entrou": "2026-11-10T13:59:56.619230-03:00",
+   "dia": "2026-11-10"
+  },
+  {
+   "id": "amz-B0FPYV6K68",
+   "canal": "tech",
+   "nome": "Celular Samsung Galaxy A17 128 GB Tela 6,7\"",
+   "preco_antigo": 1599.0,
+   "preco": 949.0,
+   "desconto": 41,
+   "link": "https://www.amazon.com.br/dp/B0FPYV6K68?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61ldkLk4JYL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-11T22:00:00-03:00",
+   "entrou": "2026-11-10T13:59:56.619230-03:00",
+   "dia": "2026-11-10"
+  },
+  {
+   "id": "amz-B07XLNQTQH",
+   "canal": "achadinhos",
+   "nome": "Furadeira e Parafusadeira Black+Decker",
+   "preco_antigo": 479.0,
+   "preco": 259.89,
+   "desconto": 46,
+   "link": "https://www.amazon.com.br/dp/B07XLNQTQH?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61BDIs7kvtL._AC_SL1200_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-11T22:00:00-03:00",
+   "entrou": "2026-11-10T13:59:56.619230-03:00",
+   "dia": "2026-11-10"
+  },
+  {
+   "id": "amz-B07L5VVJ83",
+   "canal": "marcas",
+   "nome": "Creatina Integralmédica Hardcore 150 g 100% Pura",
+   "preco_antigo": 54.9,
+   "preco": 24.31,
+   "desconto": 56,
+   "link": "https://www.amazon.com.br/dp/B07L5VVJ83?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71EJVBZypcL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-11T22:00:00-03:00",
+   "gancho": "CREATINA PELA METADE",
+   "entrou": "2026-11-10T13:59:56.619230-03:00",
+   "dia": "2026-11-10"
+  },
+  {
+   "id": "amz-B0F1N79TYM",
+   "canal": "tech",
+   "nome": "Monitor Dell 22\" Full HD 100 Hz SE2225HM",
+   "preco_antigo": 719.0,
+   "preco": 498.9,
+   "desconto": 31,
+   "link": "https://www.amazon.com.br/dp/B0F1N79TYM?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71uR5w9h9aL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-11T22:00:00-03:00",
+   "entrou": "2026-11-10T13:59:56.619230-03:00",
+   "dia": "2026-11-10"
   }
  ],
  "ig_feitos": [
@@ -10037,11 +10158,12 @@
   "2026-11-10 14:08 story_oferta",
   "2026-11-10 15:00 adivinha",
   "2026-11-10 15:03 story_oferta",
-  "2026-11-10 16:05 adivinha_resposta"
+  "2026-11-10 16:05 adivinha_resposta",
+  "2026-11-10 16:44 story_oferta",
+  "story especial pede-pro-papa 2026-11-10",
+  "2026-11-10 17:36 story_oferta"
  ],
  "ig_ofertas_usadas": [
-  "amz-B0GM19N68Z",
-  "amz-B07Y2BK4GJ",
   "amz-B0G4SN4QF7",
   "amz-B0GT7FR4LH",
   "amz-B0D8J3GFBS",
@@ -10239,7 +10361,9 @@
   "amz-B0DXQC6MDM",
   "amz-B0H3Q1R7P4",
   "amz-B0FDX5XGHN",
-  "amz-B09LNLM4FX"
+  "amz-B09LNLM4FX",
+  "amz-B0G4SN2SMB",
+  "amz-B0CJRXT3L6"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
@@ -10305,48 +10429,6 @@
  },
  "ultimo_pilar": "dica",
  "fila": [
-  {
-   "id": "amz-B09SMV5GWM",
-   "canal": "achadinhos",
-   "nome": "Lava-Roupas em Pó Ypê Tixan Primavera",
-   "preco_antigo": 59.62,
-   "preco": 35.09,
-   "desconto": 41,
-   "link": "https://www.amazon.com.br/dp/B09SMV5GWM?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/71aKLwu-63L._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-11T22:00:00-03:00",
-   "entrou": "2026-11-10T13:59:56.619230-03:00"
-  },
-  {
-   "id": "amz-B0BFXJ12QQ",
-   "canal": "achadinhos",
-   "nome": "Fralda Huggies Supreme Care M 196 un",
-   "preco_antigo": 229.9,
-   "preco": 149.9,
-   "desconto": 35,
-   "link": "https://www.amazon.com.br/dp/B0BFXJ12QQ?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/81k5q1RPzlL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-11T22:00:00-03:00",
-   "entrou": "2026-11-10T13:59:56.619230-03:00"
-  },
-  {
-   "id": "amz-B07XLNQTQH",
-   "canal": "achadinhos",
-   "nome": "Furadeira e Parafusadeira Black+Decker",
-   "preco_antigo": 479.0,
-   "preco": 259.89,
-   "desconto": 46,
-   "link": "https://www.amazon.com.br/dp/B07XLNQTQH?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61BDIs7kvtL._AC_SL1200_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-11T22:00:00-03:00",
-   "entrou": "2026-11-10T13:59:56.619230-03:00"
-  },
   {
    "id": "amz-B0917Q5FVH",
    "canal": "achadinhos",
@@ -10448,36 +10530,6 @@
    "entrou": "2026-11-10T13:59:56.619230-03:00"
   },
   {
-   "id": "amz-B0D9KYTSRK",
-   "canal": "marcas",
-   "nome": "Tênis Fila Racer Sky Feminino",
-   "preco_antigo": 349.99,
-   "preco": 180.4,
-   "desconto": 48,
-   "link": "https://www.amazon.com.br/dp/B0D9KYTSRK?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51WsVihOVRL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-11T22:00:00-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "entrou": "2026-11-10T13:59:56.619230-03:00"
-  },
-  {
-   "id": "amz-B07L5VVJ83",
-   "canal": "marcas",
-   "nome": "Creatina Integralmédica Hardcore 150 g 100% Pura",
-   "preco_antigo": 54.9,
-   "preco": 24.31,
-   "desconto": 56,
-   "link": "https://www.amazon.com.br/dp/B07L5VVJ83?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/71EJVBZypcL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-11T22:00:00-03:00",
-   "gancho": "CREATINA PELA METADE",
-   "entrou": "2026-11-10T13:59:56.619230-03:00"
-  },
-  {
    "id": "amz-B0BTHQ4GZG",
    "canal": "marcas",
    "nome": "Copo Stanley Quencher Cream 887 ml",
@@ -10501,34 +10553,6 @@
    "desconto": 50,
    "link": "https://www.amazon.com.br/dp/B0CZM9JLRB?tag=papagarimpou-20",
    "imagem": "https://m.media-amazon.com/images/I/41-wKx75+RL._AC_SL1200_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-11T22:00:00-03:00",
-   "entrou": "2026-11-10T13:59:56.619230-03:00"
-  },
-  {
-   "id": "amz-B0FPYV6K68",
-   "canal": "tech",
-   "nome": "Celular Samsung Galaxy A17 128 GB Tela 6,7\"",
-   "preco_antigo": 1599.0,
-   "preco": 949.0,
-   "desconto": 41,
-   "link": "https://www.amazon.com.br/dp/B0FPYV6K68?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61ldkLk4JYL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-11T22:00:00-03:00",
-   "entrou": "2026-11-10T13:59:56.619230-03:00"
-  },
-  {
-   "id": "amz-B0F1N79TYM",
-   "canal": "tech",
-   "nome": "Monitor Dell 22\" Full HD 100 Hz SE2225HM",
-   "preco_antigo": 719.0,
-   "preco": 498.9,
-   "desconto": 31,
-   "link": "https://www.amazon.com.br/dp/B0F1N79TYM?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/71uR5w9h9aL._AC_SL1500_.jpg",
    "loja": "Vendido e entregue pela Amazon",
    "plataforma": "Amazon",
    "valida_ate": "2026-11-11T22:00:00-03:00",
@@ -11289,7 +11313,14 @@
   "appleairpods4comcancelamentoativoderuido": "2026-11-10T16:17:36.255470-03:00",
   "fraldapamperspantsajustetotalg144un": "2026-11-10T16:24:09.016037-03:00",
   "copostanleyquenchercreammoon118l": "2026-11-10T16:31:47.283519-03:00",
-  "celularsamsunggalaxya575g128gb8gbram": "2026-11-10T16:39:41.487905-03:00"
+  "celularsamsunggalaxya575g128gb8gbram": "2026-11-10T16:39:41.487905-03:00",
+  "lavaroupasempoypetixanprimavera": "2026-11-10T16:54:51.785020-03:00",
+  "fraldahuggiessupremecarem196un": "2026-11-10T17:02:32.783724-03:00",
+  "tenisfilaracerskyfeminino": "2026-11-10T17:09:31.236326-03:00",
+  "celularsamsunggalaxya17128gbtela67": "2026-11-10T17:16:53.884464-03:00",
+  "furadeiraeparafusadeirablackdecker": "2026-11-10T17:23:09.601941-03:00",
+  "creatinaintegralmedicahardcore150g100pura": "2026-11-10T17:29:30.533558-03:00",
+  "monitordell22fullhd100hzse2225hm": "2026-11-10T17:37:18.538774-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
@@ -11535,7 +11566,7 @@
    "entradas": []
   }
  },
- "tg_offset": 354369948,
+ "tg_offset": 354369949,
  "adivinha": {
   "dia": "2026-11-10",
   "oferta": {
@@ -11598,7 +11629,7 @@
   "marcas": "2026-11-09T17:54:45.499184-03:00"
  },
  "top10_dia": "2026-11-07",
- "manuais_lidos": "2026-11-10T16:31:46.783036-03:00",
+ "manuais_lidos": "2026-11-10T17:29:30.244117-03:00",
  "reserva_resultado": {
   "2026-11-07": {
    "achadinhos": {
@@ -11698,7 +11729,7 @@
    "hora": "2026-11-10T12:06:03.509362-03:00"
   }
  },
- "ig_respondido_em": "2026-11-10T16:39:35.993712-03:00",
+ "ig_respondido_em": "2026-11-10T17:36:43.246814-03:00",
  "dm_auto": {
   "2026-11-08": {
    "com_palavra": 0,
