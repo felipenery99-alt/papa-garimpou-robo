@@ -810,7 +810,13 @@
   "2026-11-09 tech 20:58 amz-B0GT6LW2VN",
   "2026-11-09 achadinhos 21:05 amz-B0FDBJZ8DF",
   "2026-11-09 marcas 21:12 amz-B077MDTWDN",
-  "2026-11-09 tech 21:19 amz-B07855LJ99"
+  "2026-11-09 tech 21:19 amz-B07855LJ99",
+  "2026-11-09 achadinhos 21:27 amz-B079ZS4Z5Z",
+  "2026-11-09 achadinhos 21:28 amz-B08NX5DKM1",
+  "2026-11-09 marcas 21:34 amz-B0H6BZ86JZ",
+  "2026-11-09 achadinhos 21:41 amz-B0CY2XNW25",
+  "2026-11-09 tech 21:48 amz-B0CJ3J2WCR",
+  "2026-11-09 tech 21:57 amz-B0GZJ5WVY8"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -1589,7 +1595,13 @@
   "amz-B0GT6LW2VN": "2026-11-09T20:58:23.992931-03:00",
   "amz-B0FDBJZ8DF": "2026-11-09T21:05:39.739273-03:00",
   "amz-B077MDTWDN": "2026-11-09T21:12:03.890494-03:00",
-  "amz-B07855LJ99": "2026-11-09T21:19:57.597883-03:00"
+  "amz-B07855LJ99": "2026-11-09T21:19:57.597883-03:00",
+  "amz-B079ZS4Z5Z": "2026-11-09T21:27:09.916269-03:00",
+  "amz-B08NX5DKM1": "2026-11-09T21:28:13.999786-03:00",
+  "amz-B0H6BZ86JZ": "2026-11-09T21:34:37.902289-03:00",
+  "amz-B0CY2XNW25": "2026-11-09T21:41:21.954649-03:00",
+  "amz-B0CJ3J2WCR": "2026-11-09T21:48:56.097143-03:00",
+  "amz-B0GZJ5WVY8": "2026-11-09T21:57:17.312287-03:00"
  },
  "ofertas_dia": [
   {
@@ -8499,6 +8511,96 @@
    "valida_ate": "2026-11-10T22:00:00-03:00",
    "entrou": "2026-11-09T18:54:58.019882-03:00",
    "dia": "2026-11-09"
+  },
+  {
+   "id": "amz-B079ZS4Z5Z",
+   "canal": "achadinhos",
+   "nome": "Protetor Solar Neutrogena Sun Fresh FPS 50 200ml",
+   "preco_antigo": 89.99,
+   "preco": 48.99,
+   "desconto": 46,
+   "link": "https://www.amazon.com.br/dp/B079ZS4Z5Z?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/517yDtlJjhL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-10T22:00:00-03:00",
+   "entrou": "2026-11-09T18:54:58.019882-03:00",
+   "dia": "2026-11-09"
+  },
+  {
+   "id": "amz-B08NX5DKM1",
+   "canal": "achadinhos",
+   "nome": "Desodorante NIVEA Men Aerosol",
+   "preco_antigo": 34.9,
+   "preco": 18.89,
+   "desconto": 46,
+   "link": "https://www.amazon.com.br/dp/B08NX5DKM1?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61MNgKAQcrL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-10T22:00:00-03:00",
+   "entrou": "2026-11-09T18:54:58.019882-03:00",
+   "dia": "2026-11-09"
+  },
+  {
+   "id": "amz-B0H6BZ86JZ",
+   "canal": "marcas",
+   "nome": "Creatina Pura 500g + Glutamina 150g Dark Lab",
+   "preco_antigo": 122.78,
+   "preco": 82.26,
+   "desconto": 33,
+   "link": "https://www.amazon.com.br/dp/B0H6BZ86JZ?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61Ty1rhO4GL._AC_SL1200_.jpg",
+   "loja": "Loja oficial Dark Lab · entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-10T22:00:00-03:00",
+   "entrou": "2026-11-09T18:54:58.019882-03:00",
+   "dia": "2026-11-09"
+  },
+  {
+   "id": "amz-B0CY2XNW25",
+   "canal": "achadinhos",
+   "nome": "Cafeteira Espresso Oster OCAF900 Digital 220V",
+   "preco_antigo": 1099.0,
+   "preco": 642.31,
+   "desconto": 42,
+   "link": "https://www.amazon.com.br/dp/B0CY2XNW25?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/619uZwDplLL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-10T22:00:00-03:00",
+   "entrou": "2026-11-09T18:54:58.019882-03:00",
+   "dia": "2026-11-09"
+  },
+  {
+   "id": "amz-B0CJ3J2WCR",
+   "canal": "tech",
+   "nome": "Teclado Sem Fio Logitech Pebble Keys 2 K380s Bluetooth",
+   "preco_antigo": 247.9,
+   "preco": 149.9,
+   "desconto": 40,
+   "link": "https://www.amazon.com.br/dp/B0CJ3J2WCR?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61y-lcvG7VL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-10T22:00:00-03:00",
+   "entrou": "2026-11-09T18:54:58.019882-03:00",
+   "dia": "2026-11-09"
+  },
+  {
+   "id": "amz-B0GZJ5WVY8",
+   "canal": "tech",
+   "nome": "Roteador TP-Link EX3000 Wi-Fi 6 AX3000 Dual Band",
+   "preco_antigo": 299.0,
+   "preco": 170.05,
+   "desconto": 43,
+   "link": "https://www.amazon.com.br/dp/B0GZJ5WVY8?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51rme3sLdtL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-10T22:00:00-03:00",
+   "entrou": "2026-11-09T18:54:58.019882-03:00",
+   "dia": "2026-11-09"
   }
  ],
  "ig_feitos": [
@@ -8666,10 +8768,11 @@
   "2026-11-09 feed",
   "2026-11-09 20:30 reels",
   "2026-11-09 20:35 story_top4",
-  "2026-11-09 20:38 story_oferta"
+  "2026-11-09 20:38 story_oferta",
+  "2026-11-09 21:20 story_convite",
+  "2026-11-09 21:24 story_oferta"
  ],
  "ig_ofertas_usadas": [
-  "amz-B0G2T13LT6",
   "shopee-9739004991",
   "amz-B0FDX9MDXK",
   "amz-B09XJL4B9H",
@@ -8868,7 +8971,8 @@
   "shopee-21316811936",
   "shopee-23593120156",
   "amz-B0D45QCBF7",
-  "amz-B0D2RJN5Q3"
+  "amz-B0D2RJN5Q3",
+  "amz-B0D8RLRMPM"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
@@ -8934,90 +9038,6 @@
  },
  "ultimo_pilar": "dica",
  "fila": [
-  {
-   "id": "amz-B079ZS4Z5Z",
-   "canal": "achadinhos",
-   "nome": "Protetor Solar Neutrogena Sun Fresh FPS 50 200ml",
-   "preco_antigo": 89.99,
-   "preco": 48.99,
-   "desconto": 46,
-   "link": "https://www.amazon.com.br/dp/B079ZS4Z5Z?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/517yDtlJjhL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-10T22:00:00-03:00",
-   "entrou": "2026-11-09T18:54:58.019882-03:00"
-  },
-  {
-   "id": "amz-B08NX5DKM1",
-   "canal": "achadinhos",
-   "nome": "Desodorante NIVEA Men Aerosol",
-   "preco_antigo": 34.9,
-   "preco": 18.89,
-   "desconto": 46,
-   "link": "https://www.amazon.com.br/dp/B08NX5DKM1?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61MNgKAQcrL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-10T22:00:00-03:00",
-   "entrou": "2026-11-09T18:54:58.019882-03:00"
-  },
-  {
-   "id": "amz-B0CY2XNW25",
-   "canal": "achadinhos",
-   "nome": "Cafeteira Espresso Oster OCAF900 Digital 220V",
-   "preco_antigo": 1099.0,
-   "preco": 642.31,
-   "desconto": 42,
-   "link": "https://www.amazon.com.br/dp/B0CY2XNW25?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/619uZwDplLL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-10T22:00:00-03:00",
-   "entrou": "2026-11-09T18:54:58.019882-03:00"
-  },
-  {
-   "id": "amz-B0H6BZ86JZ",
-   "canal": "marcas",
-   "nome": "Creatina Pura 500g + Glutamina 150g Dark Lab",
-   "preco_antigo": 122.78,
-   "preco": 82.26,
-   "desconto": 33,
-   "link": "https://www.amazon.com.br/dp/B0H6BZ86JZ?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61Ty1rhO4GL._AC_SL1200_.jpg",
-   "loja": "Loja oficial Dark Lab · entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-10T22:00:00-03:00",
-   "entrou": "2026-11-09T18:54:58.019882-03:00"
-  },
-  {
-   "id": "amz-B0CJ3J2WCR",
-   "canal": "tech",
-   "nome": "Teclado Sem Fio Logitech Pebble Keys 2 K380s Bluetooth",
-   "preco_antigo": 247.9,
-   "preco": 149.9,
-   "desconto": 40,
-   "link": "https://www.amazon.com.br/dp/B0CJ3J2WCR?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61y-lcvG7VL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-10T22:00:00-03:00",
-   "entrou": "2026-11-09T18:54:58.019882-03:00"
-  },
-  {
-   "id": "amz-B0GZJ5WVY8",
-   "canal": "tech",
-   "nome": "Roteador TP-Link EX3000 Wi-Fi 6 AX3000 Dual Band",
-   "preco_antigo": 299.0,
-   "preco": 170.05,
-   "desconto": 43,
-   "link": "https://www.amazon.com.br/dp/B0GZJ5WVY8?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51rme3sLdtL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-10T22:00:00-03:00",
-   "entrou": "2026-11-09T18:54:58.019882-03:00"
-  },
   {
    "id": "amz-B0F6NQY99G",
    "canal": "tech",
@@ -9693,7 +9713,13 @@
   "caixadesomjblpartyboxencoreessential2com2microfones": "2026-11-09T20:58:23.992931-03:00",
   "aparadorphilipsonebladeintimatefeminino": "2026-11-09T21:05:39.739273-03:00",
   "stanleygrowlertermicoclassichammertonegreen19l": "2026-11-09T21:12:03.890494-03:00",
-  "pendrivesandiskultrafitusb31128gb": "2026-11-09T21:19:57.597883-03:00"
+  "pendrivesandiskultrafitusb31128gb": "2026-11-09T21:19:57.597883-03:00",
+  "protetorsolarneutrogenasunfreshfps50200ml": "2026-11-09T21:27:09.916269-03:00",
+  "desodoranteniveamenaerosol": "2026-11-09T21:28:13.999786-03:00",
+  "creatinapura500gglutamina150gdarklab": "2026-11-09T21:34:37.902289-03:00",
+  "cafeteiraespressoosterocaf900digital220v": "2026-11-09T21:41:21.954649-03:00",
+  "tecladosemfiologitechpebblekeys2k380sbluetooth": "2026-11-09T21:48:56.097143-03:00",
+  "roteadortplinkex3000wifi6ax3000dualband": "2026-11-09T21:57:17.312287-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
@@ -9957,7 +9983,7 @@
  },
  "ig_dm_links": {},
  "story_link_dia": "2026-11-09",
- "pede_semana": "2026-45",
+ "pede_semana": "2026-46",
  "ultimo_garimpo": "2026-11-09T18:49:39-03:00",
  "vigia_aviso_post": "2026-11-09T18:27:03.734589-03:00",
  "vigia_aviso_garimpo": "2026-11-09T16:54:40.796722-03:00",
@@ -9991,14 +10017,14 @@
   "2026-11-09 tarde tech",
   "2026-11-09 noite tech"
  ],
- "reserva_meio": "2026-11-09T18:41:22.478599-03:00",
+ "reserva_meio": "2026-11-09T21:56:37.286377-03:00",
  "reserva_cheia": {
   "achadinhos": "2026-11-09T18:09:55.295113-03:00",
   "tech": "2026-11-09T18:09:55.295113-03:00",
   "marcas": "2026-11-09T17:54:45.499184-03:00"
  },
  "top10_dia": "2026-11-07",
- "manuais_lidos": "2026-11-09T21:12:00.088035-03:00",
+ "manuais_lidos": "2026-11-09T21:56:37.286377-03:00",
  "reserva_resultado": {
   "2026-11-07": {
    "achadinhos": {
@@ -10077,7 +10103,7 @@
    "hora": "2026-11-09T20:34:20.224392-03:00"
   }
  },
- "ig_respondido_em": "2026-11-09T21:12:00.088035-03:00",
+ "ig_respondido_em": "2026-11-09T21:56:37.286377-03:00",
  "dm_auto": {
   "2026-11-08": {
    "com_palavra": 0,
@@ -10139,5 +10165,14 @@
     "url": "https://raw.githubusercontent.com/felipenery99-alt/papa-garimpou-robo/midia-temp/20261109-2034-tiktok.mp4"
    }
   ]
+ },
+ "pede_fixados": {
+  "ate": "2026-11-11T09:20:29.088291-03:00",
+  "msgs": {
+   "@papagarimpou": 344,
+   "@papagarimpoumarcas": 300,
+   "@papagarimpoutech": 238,
+   "@papagarimpouofertas": 857
+  }
  }
 }

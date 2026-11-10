@@ -1340,17 +1340,17 @@
    "canal tech sem oferta na fila há 138 min (busca extra também não achou). Abastecer ofertas_manuais.json.",
    "⚠️ Canal sem post: tech 2 h — abrir o app Claude e conferir as rotinas"
   ],
-  "ultima_execucao": "20:35",
-  "execucoes": 17,
+  "ultima_execucao": "21:20",
+  "execucoes": 18,
   "telegram_posts": {
-   "achadinhos": 31,
-   "marcas": 28,
-   "tech": 18
+   "achadinhos": 34,
+   "marcas": 29,
+   "tech": 20
   },
   "ultimo_post": {
-   "achadinhos": "21:05",
-   "marcas": "21:12",
-   "tech": "21:19"
+   "achadinhos": "21:41",
+   "marcas": "21:34",
+   "tech": "21:57"
   },
   "meta_token": {
    "tipo": "SYSTEM_USER",
@@ -1411,7 +1411,9 @@
    "feed",
    "20:30 reels",
    "20:35 story_top4",
-   "20:38 story_oferta"
+   "20:38 story_oferta",
+   "21:20 story_convite",
+   "21:24 story_oferta"
   ],
   "shopee_ligada": true,
   "dm_auto": {
@@ -4841,35 +4843,37 @@
    "shopee-58219288666": "nota",
    "shopee-48217700177": "vendas longe",
    "shopee-19850002437": "nota",
-   "shopee-55767912895": "nota"
+   "shopee-55767912895": "nota",
+   "shopee-19067329371": "outro: marca fora da lista boa",
+   "shopee-45667398606": "nota"
   },
   "shopee_oficial": {
    "vendas longe": 1886,
-   "nota": 1116,
+   "nota": 1117,
    "vendas perto (125+)": 107,
-   "outro: marca fora da lista boa": 89,
+   "outro: marca fora da lista boa": 90,
    "aprovada": 70,
    "desconto longe": 58,
    "outro: palavra proibida: compatível": 36,
    "desconto perto (até 10 pts)": 24
   },
   "instagram": {
-   "seguidores": 412,
+   "seguidores": 413,
    "posts": 108,
-   "reach": 1392,
-   "profile_views": 57,
+   "reach": 1483,
+   "profile_views": 68,
    "website_clicks": 2,
    "stories_ativos": 25
   },
   "reels_alcance": {
-   "atualizado": "2026-11-09T20:35:52.987193-03:00",
+   "atualizado": "2026-11-09T21:20:29.088291-03:00",
    "itens": [
     {
      "id": "18114834203595587",
      "hora": "09/11 20:35",
      "capa": "ate_off",
-     "reach": 0,
-     "views": 1,
+     "reach": 1,
+     "views": 2,
      "shares": 0,
      "saved": 0
     },
@@ -4877,8 +4881,8 @@
      "id": "17914478403489685",
      "hora": "09/11 18:34",
      "capa": "uma_oferta",
-     "reach": 1,
-     "views": 2,
+     "reach": 2,
+     "views": 4,
      "shares": 0,
      "saved": 0
     },
@@ -4887,7 +4891,7 @@
      "hora": "09/11 12:04",
      "capa": "ate_off",
      "reach": 3,
-     "views": 1,
+     "views": 2,
      "shares": 0,
      "saved": 0
     },
@@ -4896,7 +4900,7 @@
      "hora": "08/11 21:34",
      "capa": "ate_off",
      "reach": 2,
-     "views": 1,
+     "views": 2,
      "shares": 0,
      "saved": 0
     },
@@ -4904,7 +4908,7 @@
      "id": "17960712615015330",
      "hora": "08/11 20:37",
      "capa": "ate_off",
-     "reach": 1,
+     "reach": 2,
      "views": 1,
      "shares": 0,
      "saved": 0
@@ -4949,8 +4953,8 @@
      "id": "17972342708962353",
      "hora": "07/11 12:57",
      "capa": "ate_off",
-     "reach": 2,
-     "views": 2,
+     "reach": 3,
+     "views": 3,
      "shares": 0,
      "saved": 0
     },
@@ -5079,28 +5083,19 @@
      "views": 5,
      "shares": 0,
      "saved": 0
-    },
-    {
-     "id": "18339461824274572",
-     "hora": "02/11 21:35",
-     "capa": "achados",
-     "reach": 5,
-     "views": 4,
-     "shares": 0,
-     "saved": 0
     }
    ],
    "por_capa": {
     "ate_off": {
      "n": 20,
-     "alcance_medio": 3
+     "alcance_medio": 4
     },
     "uma_oferta": {
      "n": 1,
-     "alcance_medio": 1
+     "alcance_medio": 2
     },
     "achados": {
-     "n": 4,
+     "n": 3,
      "alcance_medio": 6
     }
    },
