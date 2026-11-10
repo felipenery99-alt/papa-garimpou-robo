@@ -831,7 +831,14 @@
   "2026-11-10 tech 09:24 amz-B0H3Q1R7P4",
   "2026-11-10 achadinhos 09:31 amz-B09LNLM4FX",
   "2026-11-10 marcas 09:37 amz-B0G4SN2SMB",
-  "2026-11-10 tech 09:44 amz-B0CJRXT3L6"
+  "2026-11-10 tech 09:44 amz-B0CJRXT3L6",
+  "2026-11-10 achadinhos 09:52 amz-B0CG9VXH4L",
+  "2026-11-10 achadinhos 09:57 amz-B0F3ZNTJ3W",
+  "2026-11-10 marcas 10:04 amz-B09KYHYKXL",
+  "2026-11-10 tech 10:12 amz-B0CJTF8Y69",
+  "2026-11-10 achadinhos 10:19 amz-B0GPY3VQKX",
+  "2026-11-10 marcas 10:26 amz-B0H7FF798G",
+  "2026-11-10 tech 10:32 amz-B0CZ5XKNXD"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -1630,7 +1637,14 @@
   "amz-B0H3Q1R7P4": "2026-11-10T09:24:26.613741-03:00",
   "amz-B09LNLM4FX": "2026-11-10T09:31:08.309305-03:00",
   "amz-B0G4SN2SMB": "2026-11-10T09:37:11.698738-03:00",
-  "amz-B0CJRXT3L6": "2026-11-10T09:44:53.925960-03:00"
+  "amz-B0CJRXT3L6": "2026-11-10T09:44:53.925960-03:00",
+  "amz-B0CG9VXH4L": "2026-11-10T09:52:14.681135-03:00",
+  "amz-B0F3ZNTJ3W": "2026-11-10T09:57:36.621344-03:00",
+  "amz-B09KYHYKXL": "2026-11-10T10:04:22.282082-03:00",
+  "amz-B0CJTF8Y69": "2026-11-10T10:12:22.415320-03:00",
+  "amz-B0GPY3VQKX": "2026-11-10T10:19:13.644749-03:00",
+  "amz-B0H7FF798G": "2026-11-10T10:26:19.021916-03:00",
+  "amz-B0CZ5XKNXD": "2026-11-10T10:32:23.424625-03:00"
  },
  "ofertas_dia": [
   {
@@ -8875,6 +8889,115 @@
    "valida_ate": "2026-11-11T22:00:00-03:00",
    "entrou": "2026-11-10T09:02:35.839199-03:00",
    "dia": "2026-11-10"
+  },
+  {
+   "id": "amz-B0CG9VXH4L",
+   "canal": "achadinhos",
+   "nome": "Protetor Solar Facial Nivea Sun UV Face Controle",
+   "preco_antigo": 62.9,
+   "preco": 36.43,
+   "desconto": 42,
+   "link": "https://www.amazon.com.br/dp/B0CG9VXH4L?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71XfnKrDf0L._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-11T22:00:00-03:00",
+   "entrou": "2026-11-10T09:02:35.839199-03:00",
+   "dia": "2026-11-10"
+  },
+  {
+   "id": "amz-B0F3ZNTJ3W",
+   "canal": "achadinhos",
+   "nome": "Liquidificador Philco 1500W 12 Velocidades 3,1L",
+   "preco_antigo": 317.0,
+   "preco": 149.9,
+   "desconto": 53,
+   "link": "https://www.amazon.com.br/dp/B0F3ZNTJ3W?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51S+bkSqsaL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-11T22:00:00-03:00",
+   "gancho": "LIQUIDIFICADOR PHILCO MAIS DA METADE OFF",
+   "entrou": "2026-11-10T09:02:35.839199-03:00",
+   "dia": "2026-11-10"
+  },
+  {
+   "id": "amz-B09KYHYKXL",
+   "canal": "marcas",
+   "nome": "Kit 5 Camisetas Básicas Masculinas Hering",
+   "preco_antigo": 249.99,
+   "preco": 132.98,
+   "desconto": 47,
+   "link": "https://www.amazon.com.br/dp/B09KYHYKXL?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51fK-7066sL._AC_SL1500_.jpg",
+   "loja": "Loja oficial Hering · entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-11T22:00:00-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "gancho": "KIT DE 5 HERING QUASE PELA METADE",
+   "entrou": "2026-11-10T09:02:35.839199-03:00",
+   "dia": "2026-11-10"
+  },
+  {
+   "id": "amz-B0CJTF8Y69",
+   "canal": "tech",
+   "nome": "Headset sem Fio Logitech Zone 300 com Microfone",
+   "preco_antigo": 479.9,
+   "preco": 299.9,
+   "desconto": 38,
+   "link": "https://www.amazon.com.br/dp/B0CJTF8Y69?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61lW-EE9JKL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-11T22:00:00-03:00",
+   "entrou": "2026-11-10T09:02:35.839199-03:00",
+   "dia": "2026-11-10"
+  },
+  {
+   "id": "amz-B0GPY3VQKX",
+   "canal": "achadinhos",
+   "nome": "Kit 10 Potes Herméticos Electrolux",
+   "preco_antigo": 189.9,
+   "preco": 109.9,
+   "desconto": 42,
+   "link": "https://www.amazon.com.br/dp/B0GPY3VQKX?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61gzsobCzVL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-11T22:00:00-03:00",
+   "entrou": "2026-11-10T09:02:35.839199-03:00",
+   "dia": "2026-11-10"
+  },
+  {
+   "id": "amz-B0H7FF798G",
+   "canal": "marcas",
+   "nome": "Camiseta Hering Regular Texturizada Masculina",
+   "preco_antigo": 79.99,
+   "preco": 47.9,
+   "desconto": 40,
+   "link": "https://www.amazon.com.br/dp/B0H7FF798G?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71BFaZbMmDL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-11T22:00:00-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "entrou": "2026-11-10T09:02:35.839199-03:00",
+   "dia": "2026-11-10"
+  },
+  {
+   "id": "amz-B0CZ5XKNXD",
+   "canal": "tech",
+   "nome": "Roteador TP-Link EX141 Wi-Fi 6 AX1500",
+   "preco_antigo": 224.16,
+   "preco": 150.45,
+   "desconto": 33,
+   "link": "https://www.amazon.com.br/dp/B0CZ5XKNXD?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/510z+scA14L._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-11T22:00:00-03:00",
+   "entrou": "2026-11-10T09:02:35.839199-03:00",
+   "dia": "2026-11-10"
   }
  ],
  "ig_feitos": [
@@ -9008,11 +9131,11 @@
   "2026-11-10 08:07 story_oferta",
   "2026-11-10 08:45 story_oferta",
   "2026-11-10 08:52 story_oferta",
-  "2026-11-10 09:38 story_oferta"
+  "2026-11-10 09:38 story_oferta",
+  "2026-11-10 10:20 story_oferta",
+  "2026-11-10 10:24 story_oferta"
  ],
  "ig_ofertas_usadas": [
-  "shopee-18597753531",
-  "amz-B0DF2WSGF6",
   "amz-B0CP2RKYMY",
   "amz-B0DD1M9WJT",
   "amz-B0DKJPZ3XN",
@@ -9210,7 +9333,9 @@
   "shopee-11098381324",
   "shopee-21299179885",
   "shopee-23099169510",
-  "shopee-22497648129"
+  "shopee-22497648129",
+  "shopee-22994673009",
+  "amz-B0F6NQY99G"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
@@ -9276,49 +9401,6 @@
  },
  "ultimo_pilar": "dica",
  "fila": [
-  {
-   "id": "amz-B0CG9VXH4L",
-   "canal": "achadinhos",
-   "nome": "Protetor Solar Facial Nivea Sun UV Face Controle",
-   "preco_antigo": 62.9,
-   "preco": 36.43,
-   "desconto": 42,
-   "link": "https://www.amazon.com.br/dp/B0CG9VXH4L?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/71XfnKrDf0L._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-11T22:00:00-03:00",
-   "entrou": "2026-11-10T09:02:35.839199-03:00"
-  },
-  {
-   "id": "amz-B0F3ZNTJ3W",
-   "canal": "achadinhos",
-   "nome": "Liquidificador Philco 1500W 12 Velocidades 3,1L",
-   "preco_antigo": 317.0,
-   "preco": 149.9,
-   "desconto": 53,
-   "link": "https://www.amazon.com.br/dp/B0F3ZNTJ3W?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51S+bkSqsaL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-11T22:00:00-03:00",
-   "gancho": "LIQUIDIFICADOR PHILCO MAIS DA METADE OFF",
-   "entrou": "2026-11-10T09:02:35.839199-03:00"
-  },
-  {
-   "id": "amz-B0GPY3VQKX",
-   "canal": "achadinhos",
-   "nome": "Kit 10 Potes Herméticos Electrolux",
-   "preco_antigo": 189.9,
-   "preco": 109.9,
-   "desconto": 42,
-   "link": "https://www.amazon.com.br/dp/B0GPY3VQKX?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61gzsobCzVL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-11T22:00:00-03:00",
-   "entrou": "2026-11-10T09:02:35.839199-03:00"
-  },
   {
    "id": "amz-B0GWF58NT2",
    "canal": "achadinhos",
@@ -9533,37 +9615,6 @@
    "entrou": "2026-11-10T09:02:35.839199-03:00"
   },
   {
-   "id": "amz-B09KYHYKXL",
-   "canal": "marcas",
-   "nome": "Kit 5 Camisetas Básicas Masculinas Hering",
-   "preco_antigo": 249.99,
-   "preco": 132.98,
-   "desconto": 47,
-   "link": "https://www.amazon.com.br/dp/B09KYHYKXL?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51fK-7066sL._AC_SL1500_.jpg",
-   "loja": "Loja oficial Hering · entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-11T22:00:00-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "gancho": "KIT DE 5 HERING QUASE PELA METADE",
-   "entrou": "2026-11-10T09:02:35.839199-03:00"
-  },
-  {
-   "id": "amz-B0H7FF798G",
-   "canal": "marcas",
-   "nome": "Camiseta Hering Regular Texturizada Masculina",
-   "preco_antigo": 79.99,
-   "preco": 47.9,
-   "desconto": 40,
-   "link": "https://www.amazon.com.br/dp/B0H7FF798G?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/71BFaZbMmDL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-11T22:00:00-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "entrou": "2026-11-10T09:02:35.839199-03:00"
-  },
-  {
    "id": "amz-B07V33T1HV",
    "canal": "marcas",
    "nome": "Camiseta Hering Slim Básica Masculina",
@@ -9713,34 +9764,6 @@
    "entrou": "2026-11-10T09:02:35.839199-03:00"
   },
   {
-   "id": "amz-B0CJTF8Y69",
-   "canal": "tech",
-   "nome": "Headset sem Fio Logitech Zone 300 com Microfone",
-   "preco_antigo": 479.9,
-   "preco": 299.9,
-   "desconto": 38,
-   "link": "https://www.amazon.com.br/dp/B0CJTF8Y69?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61lW-EE9JKL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-11T22:00:00-03:00",
-   "entrou": "2026-11-10T09:02:35.839199-03:00"
-  },
-  {
-   "id": "amz-B0CZ5XKNXD",
-   "canal": "tech",
-   "nome": "Roteador TP-Link EX141 Wi-Fi 6 AX1500",
-   "preco_antigo": 224.16,
-   "preco": 150.45,
-   "desconto": 33,
-   "link": "https://www.amazon.com.br/dp/B0CZ5XKNXD?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/510z+scA14L._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-11T22:00:00-03:00",
-   "entrou": "2026-11-10T09:02:35.839199-03:00"
-  },
-  {
    "id": "amz-B0DPXZ6H24",
    "canal": "tech",
    "nome": "Combo Teclado e Mouse sem Fio Logitech POP Icon",
@@ -9868,6 +9891,23 @@
    "plataforma": "Amazon",
    "valida_ate": "2026-11-11T22:00:00-03:00",
    "entrou": "2026-11-10T09:02:35.839199-03:00"
+  },
+  {
+   "id": "shopee-15346286898",
+   "plataforma": "Shopee",
+   "nome": "Kit 6 Pares Meias Lupo Cano Médio Alto Longo Algodão Original Casual Confortável Atoalhada Macia",
+   "loja": "Osure",
+   "loja_oficial": true,
+   "preco": 59.99,
+   "preco_antigo": 90.89,
+   "desconto": 34,
+   "vendas": 366,
+   "nota": 4.9,
+   "comissao_pct": 14.0,
+   "imagem": "https://cf.shopee.com.br/file/br-11134207-820m1-mqi3audn9lhd14",
+   "link": "https://s.shopee.com.br/2Vt7tVIPDT",
+   "canal": "marcas",
+   "entrou": "2026-11-10T09:48:29.930069-03:00"
   }
  ],
  "menus_fixados": [
@@ -10521,7 +10561,14 @@
   "smarttvtcl55qled4kt6c": "2026-11-10T09:24:26.613741-03:00",
   "ferroavaporosteraeroceramic": "2026-11-10T09:31:08.309305-03:00",
   "tenismizunoneoaura": "2026-11-10T09:37:11.698738-03:00",
-  "webcamfullhdlogitechbrio100": "2026-11-10T09:44:53.925960-03:00"
+  "webcamfullhdlogitechbrio100": "2026-11-10T09:44:53.925960-03:00",
+  "protetorsolarfacialniveasunuvfacecontrole": "2026-11-10T09:52:14.681135-03:00",
+  "liquidificadorphilco1500w12velocidades31l": "2026-11-10T09:57:36.621344-03:00",
+  "kit5camisetasbasicasmasculinashering": "2026-11-10T10:04:22.282082-03:00",
+  "headsetsemfiologitechzone300commicrofone": "2026-11-10T10:12:22.415320-03:00",
+  "kit10poteshermeticoselectrolux": "2026-11-10T10:19:13.644749-03:00",
+  "camisetaheringregulartexturizadamasculina": "2026-11-10T10:26:19.021916-03:00",
+  "roteadortplinkex141wifi6ax1500": "2026-11-10T10:32:23.424625-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
@@ -10826,7 +10873,7 @@
   "marcas": "2026-11-09T17:54:45.499184-03:00"
  },
  "top10_dia": "2026-11-07",
- "manuais_lidos": "2026-11-10T09:37:11.369958-03:00",
+ "manuais_lidos": "2026-11-10T10:25:46.524182-03:00",
  "reserva_resultado": {
   "2026-11-07": {
    "achadinhos": {
@@ -10922,7 +10969,7 @@
    "hora": "2026-11-09T20:34:20.224392-03:00"
   }
  },
- "ig_respondido_em": "2026-11-10T09:44:35.242652-03:00",
+ "ig_respondido_em": "2026-11-10T10:25:46.524182-03:00",
  "dm_auto": {
   "2026-11-08": {
    "com_palavra": 0,
