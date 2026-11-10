@@ -838,7 +838,13 @@
   "2026-11-10 tech 10:12 amz-B0CJTF8Y69",
   "2026-11-10 achadinhos 10:19 amz-B0GPY3VQKX",
   "2026-11-10 marcas 10:26 amz-B0H7FF798G",
-  "2026-11-10 tech 10:32 amz-B0CZ5XKNXD"
+  "2026-11-10 tech 10:32 amz-B0CZ5XKNXD",
+  "2026-11-10 achadinhos 10:39 amz-B0GWF58NT2",
+  "2026-11-10 marcas 10:46 amz-B07V33T1HV",
+  "2026-11-10 tech 10:54 amz-B0DPXZ6H24",
+  "2026-11-10 achadinhos 11:01 amz-B0BZLJLQ58",
+  "2026-11-10 marcas 11:09 amz-B0GWFF22JN",
+  "2026-11-10 tech 11:17 amz-B0FTCYVMVC"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -1644,7 +1650,13 @@
   "amz-B0CJTF8Y69": "2026-11-10T10:12:22.415320-03:00",
   "amz-B0GPY3VQKX": "2026-11-10T10:19:13.644749-03:00",
   "amz-B0H7FF798G": "2026-11-10T10:26:19.021916-03:00",
-  "amz-B0CZ5XKNXD": "2026-11-10T10:32:23.424625-03:00"
+  "amz-B0CZ5XKNXD": "2026-11-10T10:32:23.424625-03:00",
+  "amz-B0GWF58NT2": "2026-11-10T10:39:39.469558-03:00",
+  "amz-B07V33T1HV": "2026-11-10T10:46:52.178011-03:00",
+  "amz-B0DPXZ6H24": "2026-11-10T10:54:14.336283-03:00",
+  "amz-B0BZLJLQ58": "2026-11-10T11:01:15.114232-03:00",
+  "amz-B0GWFF22JN": "2026-11-10T11:09:08.914144-03:00",
+  "amz-B0FTCYVMVC": "2026-11-10T11:17:21.570566-03:00"
  },
  "ofertas_dia": [
   {
@@ -8998,6 +9010,98 @@
    "valida_ate": "2026-11-11T22:00:00-03:00",
    "entrou": "2026-11-10T09:02:35.839199-03:00",
    "dia": "2026-11-10"
+  },
+  {
+   "id": "amz-B0GWF58NT2",
+   "canal": "achadinhos",
+   "nome": "Air Fryer Digital Philips Walita 6,2L",
+   "preco_antigo": 472.4,
+   "preco": 328.49,
+   "desconto": 30,
+   "link": "https://www.amazon.com.br/dp/B0GWF58NT2?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51RFTTr3zUL._AC_SL1500_.jpg",
+   "loja": "Loja oficial Fast Shop · entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-11T22:00:00-03:00",
+   "entrou": "2026-11-10T09:02:35.839199-03:00",
+   "dia": "2026-11-10"
+  },
+  {
+   "id": "amz-B07V33T1HV",
+   "canal": "marcas",
+   "nome": "Camiseta Hering Slim Básica Masculina",
+   "preco_antigo": 59.99,
+   "preco": 39.89,
+   "desconto": 34,
+   "link": "https://www.amazon.com.br/dp/B07V33T1HV?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/512V6-YWkPL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-11T22:00:00-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "entrou": "2026-11-10T09:02:35.839199-03:00",
+   "dia": "2026-11-10"
+  },
+  {
+   "id": "amz-B0DPXZ6H24",
+   "canal": "tech",
+   "nome": "Combo Teclado e Mouse sem Fio Logitech POP Icon",
+   "preco_antigo": 499.9,
+   "preco": 299.9,
+   "desconto": 40,
+   "link": "https://www.amazon.com.br/dp/B0DPXZ6H24?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71bpua-bVsL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-11T22:00:00-03:00",
+   "entrou": "2026-11-10T09:02:35.839199-03:00",
+   "dia": "2026-11-10"
+  },
+  {
+   "id": "amz-B0BZLJLQ58",
+   "canal": "achadinhos",
+   "nome": "Escova Secadora Britânia BEC02PR 4 em 1 Bivolt",
+   "preco_antigo": 129.9,
+   "preco": 73.9,
+   "desconto": 43,
+   "link": "https://www.amazon.com.br/dp/B0BZLJLQ58?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51P26RUSyGL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-11T22:00:00-03:00",
+   "entrou": "2026-11-10T09:02:35.839199-03:00",
+   "dia": "2026-11-10"
+  },
+  {
+   "id": "amz-B0GWFF22JN",
+   "canal": "marcas",
+   "nome": "Garrafa Térmica Stanley Twist Flip",
+   "preco_antigo": 249.0,
+   "preco": 161.4,
+   "desconto": 35,
+   "link": "https://www.amazon.com.br/dp/B0GWFF22JN?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51AB1azXc1L._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-11T22:00:00-03:00",
+   "entrou": "2026-11-10T09:02:35.839199-03:00",
+   "dia": "2026-11-10"
+  },
+  {
+   "id": "amz-B0FTCYVMVC",
+   "canal": "tech",
+   "nome": "Samsung Galaxy S25 FE 5G 128GB",
+   "preco_antigo": 4999.0,
+   "preco": 2699.1,
+   "desconto": 46,
+   "link": "https://www.amazon.com.br/dp/B0FTCYVMVC?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/610jDH7uwNL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-11T22:00:00-03:00",
+   "gancho": "GALAXY S25 FE QUASE PELA METADE",
+   "entrou": "2026-11-10T09:02:35.839199-03:00",
+   "dia": "2026-11-10"
   }
  ],
  "ig_feitos": [
@@ -9133,10 +9237,10 @@
   "2026-11-10 08:52 story_oferta",
   "2026-11-10 09:38 story_oferta",
   "2026-11-10 10:20 story_oferta",
-  "2026-11-10 10:24 story_oferta"
+  "2026-11-10 10:24 story_oferta",
+  "2026-11-10 11:11 story_oferta"
  ],
  "ig_ofertas_usadas": [
-  "amz-B0CP2RKYMY",
   "amz-B0DD1M9WJT",
   "amz-B0DKJPZ3XN",
   "amz-B0GR1DZZZX",
@@ -9335,7 +9439,8 @@
   "shopee-23099169510",
   "shopee-22497648129",
   "shopee-22994673009",
-  "amz-B0F6NQY99G"
+  "amz-B0F6NQY99G",
+  "amz-B0BGT1VQGJ"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
@@ -9401,34 +9506,6 @@
  },
  "ultimo_pilar": "dica",
  "fila": [
-  {
-   "id": "amz-B0GWF58NT2",
-   "canal": "achadinhos",
-   "nome": "Air Fryer Digital Philips Walita 6,2L",
-   "preco_antigo": 472.4,
-   "preco": 328.49,
-   "desconto": 30,
-   "link": "https://www.amazon.com.br/dp/B0GWF58NT2?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51RFTTr3zUL._AC_SL1500_.jpg",
-   "loja": "Loja oficial Fast Shop · entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-11T22:00:00-03:00",
-   "entrou": "2026-11-10T09:02:35.839199-03:00"
-  },
-  {
-   "id": "amz-B0BZLJLQ58",
-   "canal": "achadinhos",
-   "nome": "Escova Secadora Britânia BEC02PR 4 em 1 Bivolt",
-   "preco_antigo": 129.9,
-   "preco": 73.9,
-   "desconto": 43,
-   "link": "https://www.amazon.com.br/dp/B0BZLJLQ58?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51P26RUSyGL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-11T22:00:00-03:00",
-   "entrou": "2026-11-10T09:02:35.839199-03:00"
-  },
   {
    "id": "amz-B08SCF8C3M",
    "canal": "achadinhos",
@@ -9615,35 +9692,6 @@
    "entrou": "2026-11-10T09:02:35.839199-03:00"
   },
   {
-   "id": "amz-B07V33T1HV",
-   "canal": "marcas",
-   "nome": "Camiseta Hering Slim Básica Masculina",
-   "preco_antigo": 59.99,
-   "preco": 39.89,
-   "desconto": 34,
-   "link": "https://www.amazon.com.br/dp/B07V33T1HV?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/512V6-YWkPL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-11T22:00:00-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "entrou": "2026-11-10T09:02:35.839199-03:00"
-  },
-  {
-   "id": "amz-B0GWFF22JN",
-   "canal": "marcas",
-   "nome": "Garrafa Térmica Stanley Twist Flip",
-   "preco_antigo": 249.0,
-   "preco": 161.4,
-   "desconto": 35,
-   "link": "https://www.amazon.com.br/dp/B0GWFF22JN?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51AB1azXc1L._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-11T22:00:00-03:00",
-   "entrou": "2026-11-10T09:02:35.839199-03:00"
-  },
-  {
    "id": "amz-B0GTC3F1TB",
    "canal": "marcas",
    "nome": "Tênis New Balance 370v1 Unissex",
@@ -9761,35 +9809,6 @@
    "valida_ate": "2026-11-11T22:00:00-03:00",
    "extra": "Preço a partir de: varia por tamanho e cor",
    "gancho": "PUMA QUASE PELA METADE",
-   "entrou": "2026-11-10T09:02:35.839199-03:00"
-  },
-  {
-   "id": "amz-B0DPXZ6H24",
-   "canal": "tech",
-   "nome": "Combo Teclado e Mouse sem Fio Logitech POP Icon",
-   "preco_antigo": 499.9,
-   "preco": 299.9,
-   "desconto": 40,
-   "link": "https://www.amazon.com.br/dp/B0DPXZ6H24?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/71bpua-bVsL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-11T22:00:00-03:00",
-   "entrou": "2026-11-10T09:02:35.839199-03:00"
-  },
-  {
-   "id": "amz-B0FTCYVMVC",
-   "canal": "tech",
-   "nome": "Samsung Galaxy S25 FE 5G 128GB",
-   "preco_antigo": 4999.0,
-   "preco": 2699.1,
-   "desconto": 46,
-   "link": "https://www.amazon.com.br/dp/B0FTCYVMVC?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/610jDH7uwNL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-11T22:00:00-03:00",
-   "gancho": "GALAXY S25 FE QUASE PELA METADE",
    "entrou": "2026-11-10T09:02:35.839199-03:00"
   },
   {
@@ -10568,7 +10587,13 @@
   "headsetsemfiologitechzone300commicrofone": "2026-11-10T10:12:22.415320-03:00",
   "kit10poteshermeticoselectrolux": "2026-11-10T10:19:13.644749-03:00",
   "camisetaheringregulartexturizadamasculina": "2026-11-10T10:26:19.021916-03:00",
-  "roteadortplinkex141wifi6ax1500": "2026-11-10T10:32:23.424625-03:00"
+  "roteadortplinkex141wifi6ax1500": "2026-11-10T10:32:23.424625-03:00",
+  "airfryerdigitalphilipswalita62l": "2026-11-10T10:39:39.469558-03:00",
+  "camisetaheringslimbasicamasculina": "2026-11-10T10:46:52.178011-03:00",
+  "combotecladoemousesemfiologitechpopicon": "2026-11-10T10:54:14.336283-03:00",
+  "escovasecadorabritaniabec02pr4em1bivolt": "2026-11-10T11:01:15.114232-03:00",
+  "garrafatermicastanleytwistflip": "2026-11-10T11:09:08.914144-03:00",
+  "samsunggalaxys25fe5g128gb": "2026-11-10T11:17:21.570566-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
@@ -10873,7 +10898,7 @@
   "marcas": "2026-11-09T17:54:45.499184-03:00"
  },
  "top10_dia": "2026-11-07",
- "manuais_lidos": "2026-11-10T10:25:46.524182-03:00",
+ "manuais_lidos": "2026-11-10T11:09:08.531688-03:00",
  "reserva_resultado": {
   "2026-11-07": {
    "achadinhos": {
@@ -10969,7 +10994,7 @@
    "hora": "2026-11-09T20:34:20.224392-03:00"
   }
  },
- "ig_respondido_em": "2026-11-10T10:25:46.524182-03:00",
+ "ig_respondido_em": "2026-11-10T11:16:57.834348-03:00",
  "dm_auto": {
   "2026-11-08": {
    "com_palavra": 0,
