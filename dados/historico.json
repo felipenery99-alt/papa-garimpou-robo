@@ -908,7 +908,13 @@
   "2026-11-10 achadinhos 18:46 amz-B0778WSF2D",
   "2026-11-10 achadinhos 18:53 amz-B096LQQSNY",
   "2026-11-10 marcas 19:01 amz-B0DXQCLHJ4",
-  "2026-11-10 tech 19:08 amz-B0DSXZWWDM"
+  "2026-11-10 tech 19:08 amz-B0DSXZWWDM",
+  "2026-11-10 achadinhos 19:17 amz-B076BBQRRQ",
+  "2026-11-10 marcas 19:25 amz-B07DVJC66X",
+  "2026-11-10 tech 19:31 amz-B079XC5PVV",
+  "2026-11-10 achadinhos 19:38 amz-B08R91HYY2",
+  "2026-11-10 marcas 19:46 amz-B0CB1TW4TY",
+  "2026-11-10 tech 19:52 amz-B0FJBJH87N"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -1784,7 +1790,13 @@
   "amz-B0778WSF2D": "2026-11-10T18:46:19.807519-03:00",
   "amz-B096LQQSNY": "2026-11-10T18:53:56.112173-03:00",
   "amz-B0DXQCLHJ4": "2026-11-10T19:01:00.908677-03:00",
-  "amz-B0DSXZWWDM": "2026-11-10T19:08:47.911947-03:00"
+  "amz-B0DSXZWWDM": "2026-11-10T19:08:47.911947-03:00",
+  "amz-B076BBQRRQ": "2026-11-10T19:17:32.651715-03:00",
+  "amz-B07DVJC66X": "2026-11-10T19:25:31.600381-03:00",
+  "amz-B079XC5PVV": "2026-11-10T19:31:44.582531-03:00",
+  "amz-B08R91HYY2": "2026-11-10T19:38:06.250334-03:00",
+  "amz-B0CB1TW4TY": "2026-11-10T19:46:00.022838-03:00",
+  "amz-B0FJBJH87N": "2026-11-10T19:52:45.585407-03:00"
  },
  "ofertas_dia": [
   {
@@ -10219,6 +10231,101 @@
    "gancho": "GALAXY S25 COM 40% OFF",
    "entrou": "2026-11-10T19:00:57.608548-03:00",
    "dia": "2026-11-10"
+  },
+  {
+   "id": "amz-B076BBQRRQ",
+   "canal": "achadinhos",
+   "nome": "Aspirador de Água e Pó Electrolux Compacto",
+   "preco_antigo": 339.9,
+   "preco": 237.39,
+   "desconto": 30,
+   "link": "https://www.amazon.com.br/dp/B076BBQRRQ?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61X0GXT93RL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-11T22:00:00-03:00",
+   "entrou": "2026-11-10T18:00:24.647519-03:00",
+   "dia": "2026-11-10"
+  },
+  {
+   "id": "amz-B07DVJC66X",
+   "canal": "marcas",
+   "nome": "Max Titanium Creatina Monohidratada 300g",
+   "preco_antigo": 48.99,
+   "preco": 36.0,
+   "desconto": 27,
+   "link": "https://www.amazon.com.br/dp/B07DVJC66X?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51gt4U5kD-L._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-11T22:00:00-03:00",
+   "entrou": "2026-11-10T19:00:57.608548-03:00",
+   "dia": "2026-11-10"
+  },
+  {
+   "id": "amz-B079XC5PVV",
+   "canal": "tech",
+   "nome": "SSD Kingston A400 960GB SATA",
+   "preco_antigo": 1900.69,
+   "preco": 845.39,
+   "desconto": 56,
+   "link": "https://www.amazon.com.br/dp/B079XC5PVV?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/81+9rUcRVTL._AC_SL1500_.jpg",
+   "loja": "Vendido por parceiro · entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-11T22:00:00-03:00",
+   "gancho": "PC LENTO? SSD KINGSTON COM MAIS DE 50% OFF",
+   "entrou": "2026-11-10T19:00:57.608548-03:00",
+   "dia": "2026-11-10"
+  },
+  {
+   "id": "amz-B08R91HYY2",
+   "canal": "achadinhos",
+   "nome": "Air Fryer Oven Britânia BFR2100 4 em 1",
+   "preco_antigo": 714.0,
+   "preco": 386.09,
+   "desconto": 46,
+   "link": "https://www.amazon.com.br/dp/B08R91HYY2?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/518sbXviNwL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-11T22:00:00-03:00",
+   "gancho": "AIR FRYER FORNO QUASE PELA METADE",
+   "entrou": "2026-11-10T18:00:24.647519-03:00",
+   "dia": "2026-11-10"
+  },
+  {
+   "id": "amz-B0CB1TW4TY",
+   "canal": "marcas",
+   "nome": "Tênis de Corrida Mizuno Wave Falcon 5 Masculino",
+   "preco_antigo": 379.0,
+   "preco": 179.99,
+   "desconto": 53,
+   "link": "https://www.amazon.com.br/dp/B0CB1TW4TY?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/611zD2OBZ5L._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Netshoes · Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-11T22:00:00-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "gancho": "MIZUNO DE CORRIDA PELA METADE",
+   "entrou": "2026-11-10T19:00:57.608548-03:00",
+   "dia": "2026-11-10"
+  },
+  {
+   "id": "amz-B0FJBJH87N",
+   "canal": "tech",
+   "nome": "JBL PartyBox 520 Caixa de Som Bluetooth com Luzes",
+   "preco_antigo": 5999.0,
+   "preco": 3406.7,
+   "desconto": 43,
+   "link": "https://www.amazon.com.br/dp/B0FJBJH87N?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61zm6pi9ziL._AC_SL1500_.jpg",
+   "loja": "Vendido por parceiro · entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-11T22:00:00-03:00",
+   "gancho": "A FESTA É NA SUA CASA",
+   "entrou": "2026-11-10T19:00:57.608548-03:00",
+   "dia": "2026-11-10"
   }
  ],
  "ig_feitos": [
@@ -10375,12 +10482,12 @@
   "2026-11-10 18:05 a_ou_b",
   "2026-11-10 18:09 story_oferta",
   "2026-11-10 18:30 reels",
-  "2026-11-10 18:42 story_oferta"
+  "2026-11-10 18:42 story_oferta",
+  "2026-11-10 feed",
+  "2026-11-10 19:15 post_achado",
+  "2026-11-10 19:17 story_oferta"
  ],
  "ig_ofertas_usadas": [
-  "amz-B0FR49NFLT",
-  "amz-B0FL2QF7YJ",
-  "amz-B08LPLKJBM",
   "shopee-18516472597",
   "amz-B0849PNJF5",
   "amz-B09ZHCLVXF",
@@ -10578,7 +10685,9 @@
   "shopee-15346286898",
   "amz-B0FFTY5R7S",
   "amz-B0CG9VXH4L",
-  "amz-B0F3ZNTJ3W"
+  "amz-B0F3ZNTJ3W",
+  "shopee-58210668407",
+  "amz-B09KYHYKXL"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
@@ -10644,35 +10753,6 @@
  },
  "ultimo_pilar": "dica",
  "fila": [
-  {
-   "id": "amz-B076BBQRRQ",
-   "canal": "achadinhos",
-   "nome": "Aspirador de Água e Pó Electrolux Compacto",
-   "preco_antigo": 339.9,
-   "preco": 237.39,
-   "desconto": 30,
-   "link": "https://www.amazon.com.br/dp/B076BBQRRQ?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61X0GXT93RL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-11T22:00:00-03:00",
-   "entrou": "2026-11-10T18:00:24.647519-03:00"
-  },
-  {
-   "id": "amz-B08R91HYY2",
-   "canal": "achadinhos",
-   "nome": "Air Fryer Oven Britânia BFR2100 4 em 1",
-   "preco_antigo": 714.0,
-   "preco": 386.09,
-   "desconto": 46,
-   "link": "https://www.amazon.com.br/dp/B08R91HYY2?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/518sbXviNwL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-11T22:00:00-03:00",
-   "gancho": "AIR FRYER FORNO QUASE PELA METADE",
-   "entrou": "2026-11-10T18:00:24.647519-03:00"
-  },
   {
    "id": "amz-B07H3B86KY",
    "canal": "achadinhos",
@@ -10858,36 +10938,6 @@
    "entrou": "2026-11-10T19:00:57.608548-03:00"
   },
   {
-   "id": "amz-B07DVJC66X",
-   "canal": "marcas",
-   "nome": "Max Titanium Creatina Monohidratada 300g",
-   "preco_antigo": 48.99,
-   "preco": 36.0,
-   "desconto": 27,
-   "link": "https://www.amazon.com.br/dp/B07DVJC66X?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51gt4U5kD-L._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-11T22:00:00-03:00",
-   "entrou": "2026-11-10T19:00:57.608548-03:00"
-  },
-  {
-   "id": "amz-B0CB1TW4TY",
-   "canal": "marcas",
-   "nome": "Tênis de Corrida Mizuno Wave Falcon 5 Masculino",
-   "preco_antigo": 379.0,
-   "preco": 179.99,
-   "desconto": 53,
-   "link": "https://www.amazon.com.br/dp/B0CB1TW4TY?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/611zD2OBZ5L._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Netshoes · Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-11T22:00:00-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "gancho": "MIZUNO DE CORRIDA PELA METADE",
-   "entrou": "2026-11-10T19:00:57.608548-03:00"
-  },
-  {
    "id": "amz-B0GWFCG1BS",
    "canal": "marcas",
    "nome": "Stanley Garrafa Térmica Twist Flip 354ml Rose Quartz",
@@ -10899,36 +10949,6 @@
    "loja": "Vendido e entregue pela Amazon",
    "plataforma": "Amazon",
    "valida_ate": "2026-11-11T22:00:00-03:00",
-   "entrou": "2026-11-10T19:00:57.608548-03:00"
-  },
-  {
-   "id": "amz-B079XC5PVV",
-   "canal": "tech",
-   "nome": "SSD Kingston A400 960GB SATA",
-   "preco_antigo": 1900.69,
-   "preco": 845.39,
-   "desconto": 56,
-   "link": "https://www.amazon.com.br/dp/B079XC5PVV?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/81+9rUcRVTL._AC_SL1500_.jpg",
-   "loja": "Vendido por parceiro · entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-11T22:00:00-03:00",
-   "gancho": "PC LENTO? SSD KINGSTON COM MAIS DE 50% OFF",
-   "entrou": "2026-11-10T19:00:57.608548-03:00"
-  },
-  {
-   "id": "amz-B0FJBJH87N",
-   "canal": "tech",
-   "nome": "JBL PartyBox 520 Caixa de Som Bluetooth com Luzes",
-   "preco_antigo": 5999.0,
-   "preco": 3406.7,
-   "desconto": 43,
-   "link": "https://www.amazon.com.br/dp/B0FJBJH87N?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61zm6pi9ziL._AC_SL1500_.jpg",
-   "loja": "Vendido por parceiro · entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-11T22:00:00-03:00",
-   "gancho": "A FESTA É NA SUA CASA",
    "entrou": "2026-11-10T19:00:57.608548-03:00"
   },
   {
@@ -11717,7 +11737,13 @@
   "furadeiradeimpactomondialcommaleta": "2026-11-10T18:46:19.807519-03:00",
   "panelatramontinaparisemaluminio": "2026-11-10T18:53:56.112173-03:00",
   "stanleygarrafaaerolightfastflow11lrosequartz": "2026-11-10T19:01:00.908677-03:00",
-  "samsunggalaxys255g256gb12gbram": "2026-11-10T19:08:47.911947-03:00"
+  "samsunggalaxys255g256gb12gbram": "2026-11-10T19:08:47.911947-03:00",
+  "aspiradordeaguaepoelectroluxcompacto": "2026-11-10T19:17:32.651715-03:00",
+  "maxtitaniumcreatinamonohidratada300g": "2026-11-10T19:25:31.600381-03:00",
+  "ssdkingstona400960gbsata": "2026-11-10T19:31:44.582531-03:00",
+  "airfryerovenbritaniabfr21004em1": "2026-11-10T19:38:06.250334-03:00",
+  "tenisdecorridamizunowavefalcon5masculino": "2026-11-10T19:46:00.022838-03:00",
+  "jblpartybox520caixadesombluetoothcomluzes": "2026-11-10T19:52:45.585407-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
@@ -11987,7 +12013,7 @@
  "ig_dm_links": {},
  "story_link_dia": "2026-11-10",
  "pede_semana": "2026-46",
- "ultimo_garimpo": "2026-11-10T13:50:48-03:00",
+ "ultimo_garimpo": "2026-11-10T18:46:44-03:00",
  "vigia_aviso_post": "2026-11-09T18:27:03.734589-03:00",
  "vigia_aviso_garimpo": "2026-11-10T17:37:57.953936-03:00",
  "resumo_enviado": "2026-11-09",
@@ -12027,7 +12053,7 @@
   "marcas": "2026-11-09T17:54:45.499184-03:00"
  },
  "top10_dia": "2026-11-07",
- "manuais_lidos": "2026-11-10T19:00:57.608548-03:00",
+ "manuais_lidos": "2026-11-10T19:45:56.575195-03:00",
  "reserva_resultado": {
   "2026-11-07": {
    "achadinhos": {
@@ -12131,7 +12157,7 @@
    "hora": "2026-11-10T18:37:15.552053-03:00"
   }
  },
- "ig_respondido_em": "2026-11-10T19:00:57.608548-03:00",
+ "ig_respondido_em": "2026-11-10T19:45:56.575195-03:00",
  "dm_auto": {
   "2026-11-08": {
    "com_palavra": 0,
