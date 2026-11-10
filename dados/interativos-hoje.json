@@ -1,56 +1,17 @@
 {
- "dia": "2026-11-09",
+ "dia": "2026-11-10",
  "itens": [
   {
    "tipo": "adivinha",
-   "hora": "15:05",
+   "hora": "15:00",
    "produtos": [
     {
-     "nome": "Creatina Max Titanium 300g Pura",
-     "preco_antigo": 178.5,
-     "preco": 35.7,
-     "desconto": 80,
-     "link": "https://s.shopee.com.br/5q9ZreezVv",
-     "loja": "Hard Extreme",
-     "canal": "marcas"
-    }
-   ]
-  },
-  {
-   "tipo": "adivinha_resposta",
-   "hora": "16:09",
-   "produtos": [
-    {
-     "nome": "Creatina Max Titanium 300g Pura",
-     "preco_antigo": 178.5,
-     "preco": 35.7,
-     "desconto": 80,
-     "link": "https://s.shopee.com.br/5q9ZreezVv",
-     "loja": "Hard Extreme",
-     "canal": "marcas"
-    }
-   ]
-  },
-  {
-   "tipo": "a_ou_b",
-   "hora": "18:05",
-   "produtos": [
-    {
-     "nome": "BETTDOW Samsung Tab S9/S9 FE Lite 11 polegadas Teclado Bluetooth + Capa com Slot para Caneta (Tablet Não Incluso)",
-     "preco_antigo": 300.0,
-     "preco": 99.0,
-     "desconto": 67,
-     "link": "https://s.shopee.com.br/1W0ahszN3N",
-     "loja": "Bettdow",
-     "canal": "tech"
-    },
-    {
-     "nome": "Smart Tv Monitor Hd 32\" Samsung Ls32h5000fgxzd Preta",
-     "preco_antigo": 1882.14,
-     "preco": 1054.0,
-     "desconto": 44,
-     "link": "https://s.shopee.com.br/3g55Hnx4M3",
-     "loja": "Rep Store",
+     "nome": "Smartwatch Samsung Galaxy Watch8 44mm",
+     "preco_antigo": 3199.0,
+     "preco": 1349.1,
+     "desconto": 58,
+     "link": "https://www.amazon.com.br/dp/B0FDX5XGHN?tag=papagarimpou-20",
+     "loja": "Vendido e entregue pela Amazon",
      "canal": "tech"
     }
    ]
