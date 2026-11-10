@@ -851,7 +851,13 @@
   "2026-11-10 tech 11:43 amz-B0CP6CVJSG",
   "2026-11-10 achadinhos 11:50 amz-B07F3RN3GB",
   "2026-11-10 marcas 11:58 amz-B0FFNFB9DY",
-  "2026-11-10 tech 12:06 amz-B0BK9YLKPM"
+  "2026-11-10 tech 12:06 amz-B0BK9YLKPM",
+  "2026-11-10 achadinhos 12:15 amz-B076J12M27",
+  "2026-11-10 marcas 12:22 amz-B0CC3J1Q22",
+  "2026-11-10 tech 12:29 amz-B0DHL5V4QT",
+  "2026-11-10 achadinhos 12:37 amz-B097J19HZ3",
+  "2026-11-10 marcas 12:44 amz-B0H4RGW5WY",
+  "2026-11-10 tech 12:51 amz-B0H127L18H"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -1670,7 +1676,13 @@
   "amz-B0CP6CVJSG": "2026-11-10T11:43:47.743101-03:00",
   "amz-B07F3RN3GB": "2026-11-10T11:50:00.140929-03:00",
   "amz-B0FFNFB9DY": "2026-11-10T11:58:12.813859-03:00",
-  "amz-B0BK9YLKPM": "2026-11-10T12:06:51.742455-03:00"
+  "amz-B0BK9YLKPM": "2026-11-10T12:06:51.742455-03:00",
+  "amz-B076J12M27": "2026-11-10T12:15:00.024622-03:00",
+  "amz-B0CC3J1Q22": "2026-11-10T12:22:28.987596-03:00",
+  "amz-B0DHL5V4QT": "2026-11-10T12:29:24.106037-03:00",
+  "amz-B097J19HZ3": "2026-11-10T12:37:15.895857-03:00",
+  "amz-B0H4RGW5WY": "2026-11-10T12:44:28.413041-03:00",
+  "amz-B0H127L18H": "2026-11-10T12:51:43.430871-03:00"
  },
  "ofertas_dia": [
   {
@@ -9224,6 +9236,98 @@
    "valida_ate": "2026-11-11T22:00:00-03:00",
    "entrou": "2026-11-10T09:02:35.839199-03:00",
    "dia": "2026-11-10"
+  },
+  {
+   "id": "amz-B076J12M27",
+   "canal": "achadinhos",
+   "nome": "Secador de Cabelo Philco Titanium Travel Portátil",
+   "preco_antigo": 104.54,
+   "preco": 62.92,
+   "desconto": 40,
+   "link": "https://www.amazon.com.br/dp/B076J12M27?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/41QdjQQInxL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-11T22:00:00-03:00",
+   "entrou": "2026-11-10T09:02:35.839199-03:00",
+   "dia": "2026-11-10"
+  },
+  {
+   "id": "amz-B0CC3J1Q22",
+   "canal": "marcas",
+   "nome": "Tênis Mizuno Wave Dynasty 4 Masculino",
+   "preco_antigo": 399.99,
+   "preco": 259.99,
+   "desconto": 35,
+   "link": "https://www.amazon.com.br/dp/B0CC3J1Q22?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61EB6X2PNAL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-11T22:00:00-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "entrou": "2026-11-10T09:02:35.839199-03:00",
+   "dia": "2026-11-10"
+  },
+  {
+   "id": "amz-B0DHL5V4QT",
+   "canal": "tech",
+   "nome": "Fone Intra-Auricular JBL Wave Beam 2",
+   "preco_antigo": 369.0,
+   "preco": 251.65,
+   "desconto": 32,
+   "link": "https://www.amazon.com.br/dp/B0DHL5V4QT?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61MhLv7z8CL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-11T22:00:00-03:00",
+   "entrou": "2026-11-10T09:02:35.839199-03:00",
+   "dia": "2026-11-10"
+  },
+  {
+   "id": "amz-B097J19HZ3",
+   "canal": "achadinhos",
+   "nome": "Liquidificador Britânia BLQ1300P Turbo 1400W",
+   "preco_antigo": 239.0,
+   "preco": 132.61,
+   "desconto": 45,
+   "link": "https://www.amazon.com.br/dp/B097J19HZ3?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51cWrgmxJmL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-11T22:00:00-03:00",
+   "entrou": "2026-11-10T09:02:35.839199-03:00",
+   "dia": "2026-11-10"
+  },
+  {
+   "id": "amz-B0H4RGW5WY",
+   "canal": "marcas",
+   "nome": "Tênis Puma Nyra Feminino",
+   "preco_antigo": 399.99,
+   "preco": 236.9,
+   "desconto": 41,
+   "link": "https://www.amazon.com.br/dp/B0H4RGW5WY?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61tMixHyDFL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-11T22:00:00-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "entrou": "2026-11-10T09:02:35.839199-03:00",
+   "dia": "2026-11-10"
+  },
+  {
+   "id": "amz-B0H127L18H",
+   "canal": "tech",
+   "nome": "Caixa de Som JBL Boombox 4 Bluetooth",
+   "preco_antigo": 3199.0,
+   "preco": 2184.05,
+   "desconto": 32,
+   "link": "https://www.amazon.com.br/dp/B0H127L18H?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61TARZpVtAL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-11T22:00:00-03:00",
+   "entrou": "2026-11-10T09:02:35.839199-03:00",
+   "dia": "2026-11-10"
   }
  ],
  "ig_feitos": [
@@ -9365,11 +9469,12 @@
   "2026-11-10 11:50 carrossel_top5",
   "2026-11-10 11:56 story_oferta",
   "2026-11-10 feed",
-  "2026-11-10 12:00 reels"
+  "2026-11-10 12:00 reels",
+  "2026-11-10 12:15 story_top4",
+  "2026-11-10 12:19 story_oferta",
+  "2026-11-10 12:47 story_oferta"
  ],
  "ig_ofertas_usadas": [
-  "amz-B0DKJPZ3XN",
-  "amz-B0GR1DZZZX",
   "amz-B08NVMP2YZ",
   "amz-B0CVZ3KSZK",
   "mgl-SG4-014G-172",
@@ -9567,7 +9672,9 @@
   "shopee-22994673009",
   "amz-B0F6NQY99G",
   "amz-B0BGT1VQGJ",
-  "amz-B0FP6JN5VR"
+  "amz-B0FP6JN5VR",
+  "amz-B0FP6P8J71",
+  "amz-B097J7J54H"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
@@ -9633,34 +9740,6 @@
  },
  "ultimo_pilar": "dica",
  "fila": [
-  {
-   "id": "amz-B076J12M27",
-   "canal": "achadinhos",
-   "nome": "Secador de Cabelo Philco Titanium Travel Portátil",
-   "preco_antigo": 104.54,
-   "preco": 62.92,
-   "desconto": 40,
-   "link": "https://www.amazon.com.br/dp/B076J12M27?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/41QdjQQInxL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-11T22:00:00-03:00",
-   "entrou": "2026-11-10T09:02:35.839199-03:00"
-  },
-  {
-   "id": "amz-B097J19HZ3",
-   "canal": "achadinhos",
-   "nome": "Liquidificador Britânia BLQ1300P Turbo 1400W",
-   "preco_antigo": 239.0,
-   "preco": 132.61,
-   "desconto": 45,
-   "link": "https://www.amazon.com.br/dp/B097J19HZ3?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51cWrgmxJmL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-11T22:00:00-03:00",
-   "entrou": "2026-11-10T09:02:35.839199-03:00"
-  },
   {
    "id": "amz-B0CCJX21V3",
    "canal": "achadinhos",
@@ -9776,36 +9855,6 @@
    "entrou": "2026-11-10T09:02:35.839199-03:00"
   },
   {
-   "id": "amz-B0CC3J1Q22",
-   "canal": "marcas",
-   "nome": "Tênis Mizuno Wave Dynasty 4 Masculino",
-   "preco_antigo": 399.99,
-   "preco": 259.99,
-   "desconto": 35,
-   "link": "https://www.amazon.com.br/dp/B0CC3J1Q22?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61EB6X2PNAL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-11T22:00:00-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "entrou": "2026-11-10T09:02:35.839199-03:00"
-  },
-  {
-   "id": "amz-B0H4RGW5WY",
-   "canal": "marcas",
-   "nome": "Tênis Puma Nyra Feminino",
-   "preco_antigo": 399.99,
-   "preco": 236.9,
-   "desconto": 41,
-   "link": "https://www.amazon.com.br/dp/B0H4RGW5WY?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61tMixHyDFL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-11T22:00:00-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "entrou": "2026-11-10T09:02:35.839199-03:00"
-  },
-  {
    "id": "amz-B0FFTY5R7S",
    "canal": "marcas",
    "nome": "Tênis Mizuno Neo Vortex",
@@ -9864,34 +9913,6 @@
    "valida_ate": "2026-11-11T22:00:00-03:00",
    "extra": "Preço a partir de: varia por tamanho e cor",
    "gancho": "PUMA QUASE PELA METADE",
-   "entrou": "2026-11-10T09:02:35.839199-03:00"
-  },
-  {
-   "id": "amz-B0DHL5V4QT",
-   "canal": "tech",
-   "nome": "Fone Intra-Auricular JBL Wave Beam 2",
-   "preco_antigo": 369.0,
-   "preco": 251.65,
-   "desconto": 32,
-   "link": "https://www.amazon.com.br/dp/B0DHL5V4QT?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61MhLv7z8CL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-11T22:00:00-03:00",
-   "entrou": "2026-11-10T09:02:35.839199-03:00"
-  },
-  {
-   "id": "amz-B0H127L18H",
-   "canal": "tech",
-   "nome": "Caixa de Som JBL Boombox 4 Bluetooth",
-   "preco_antigo": 3199.0,
-   "preco": 2184.05,
-   "desconto": 32,
-   "link": "https://www.amazon.com.br/dp/B0H127L18H?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61TARZpVtAL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-11T22:00:00-03:00",
    "entrou": "2026-11-10T09:02:35.839199-03:00"
   },
   {
@@ -10626,7 +10647,13 @@
   "appleiphone15128gbpreto": "2026-11-10T11:43:47.743101-03:00",
   "protetorsolarniveasunprotecthidratafps70": "2026-11-10T11:50:00.140929-03:00",
   "garrafatermicastanleyadventuretogo20": "2026-11-10T11:58:12.813859-03:00",
-  "tecladosemfiologitechsignaturek650": "2026-11-10T12:06:51.742455-03:00"
+  "tecladosemfiologitechsignaturek650": "2026-11-10T12:06:51.742455-03:00",
+  "secadordecabelophilcotitaniumtravelportatil": "2026-11-10T12:15:00.024622-03:00",
+  "tenismizunowavedynasty4masculino": "2026-11-10T12:22:28.987596-03:00",
+  "foneintraauricularjblwavebeam2": "2026-11-10T12:29:24.106037-03:00",
+  "liquidificadorbritaniablq1300pturbo1400w": "2026-11-10T12:37:15.895857-03:00",
+  "tenispumanyrafeminino": "2026-11-10T12:44:28.413041-03:00",
+  "caixadesomjblboombox4bluetooth": "2026-11-10T12:51:43.430871-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
@@ -10938,7 +10965,7 @@
   "marcas": "2026-11-09T17:54:45.499184-03:00"
  },
  "top10_dia": "2026-11-07",
- "manuais_lidos": "2026-11-10T11:57:02.657360-03:00",
+ "manuais_lidos": "2026-11-10T12:44:28.070293-03:00",
  "reserva_resultado": {
   "2026-11-07": {
    "achadinhos": {
@@ -11038,7 +11065,7 @@
    "hora": "2026-11-10T12:06:03.509362-03:00"
   }
  },
- "ig_respondido_em": "2026-11-10T12:06:03.509362-03:00",
+ "ig_respondido_em": "2026-11-10T12:51:18.797392-03:00",
  "dm_auto": {
   "2026-11-08": {
    "com_palavra": 0,
