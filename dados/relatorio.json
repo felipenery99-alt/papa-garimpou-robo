@@ -1706,17 +1706,17 @@
    "⚠️ Garimpo parado desde 08:49 — abrir o app Claude e conferir as rotinas\nPouca oferta na fila: tech 1.",
    "⚠️ Garimpo parado desde 13:50 — abrir o app Claude e conferir as rotinas\nPouca oferta na fila: tech 2."
   ],
-  "ultima_execucao": "19:09",
-  "execucoes": 21,
+  "ultima_execucao": "19:53",
+  "execucoes": 22,
   "telegram_posts": {
-   "achadinhos": 40,
-   "marcas": 29,
-   "tech": 29
+   "achadinhos": 43,
+   "marcas": 30,
+   "tech": 30
   },
   "ultimo_post": {
-   "achadinhos": "19:38",
-   "marcas": "19:46",
-   "tech": "19:52"
+   "achadinhos": "20:32",
+   "marcas": "20:10",
+   "tech": "20:25"
   },
   "meta_token": {
    "tipo": "SYSTEM_USER",
@@ -1772,7 +1772,10 @@
    "18:42 story_oferta",
    "feed",
    "19:15 post_achado",
-   "19:17 story_oferta"
+   "19:17 story_oferta",
+   "20:03 story_oferta",
+   "feed",
+   "20:30 reels"
   ],
   "shopee_ligada": true,
   "dm_auto": {
@@ -5433,14 +5436,30 @@
    "shopee-58216805823": "nota",
    "shopee-22494713800": "vendas longe",
    "shopee-57015493610": "vendas longe",
-   "shopee-58212948917": "vendas longe"
+   "shopee-58212948917": "vendas longe",
+   "shopee-58219340918": "vendas longe",
+   "shopee-58269344237": "vendas longe",
+   "shopee-58269339643": "vendas longe",
+   "shopee-22997974280": "vendas longe",
+   "shopee-23898022924": "vendas longe",
+   "shopee-22599789817": "vendas longe",
+   "shopee-51266786762": "vendas longe",
+   "shopee-58204972610": "vendas longe",
+   "shopee-49064981274": "aprovada",
+   "shopee-58272374236": "nota",
+   "shopee-58272384507": "nota",
+   "shopee-58272374148": "nota",
+   "shopee-58222360707": "nota",
+   "shopee-58222360640": "nota",
+   "shopee-58222360622": "nota",
+   "shopee-58222354975": "nota"
   },
   "shopee_oficial": {
-   "vendas longe": 1869,
-   "nota": 1345,
+   "vendas longe": 1877,
+   "nota": 1352,
    "vendas perto (125+)": 113,
    "outro: marca fora da lista boa": 97,
-   "aprovada": 72,
+   "aprovada": 73,
    "desconto longe": 62,
    "outro: palavra proibida: compatível": 34,
    "desconto perto (até 10 pts)": 24,
@@ -5448,15 +5467,24 @@
   },
   "instagram": {
    "seguidores": 417,
-   "posts": 112,
-   "reach": 2867,
-   "profile_views": 122,
+   "posts": 113,
+   "reach": 2904,
+   "profile_views": 125,
    "website_clicks": 0,
    "stories_ativos": 25
   },
   "reels_alcance": {
-   "atualizado": "2026-11-10T19:09:21.873569-03:00",
+   "atualizado": "2026-11-10T19:53:17.685854-03:00",
    "itens": [
+    {
+     "id": "18361064083218588",
+     "hora": "10/11 20:32",
+     "capa": "ate_off",
+     "reach": 0,
+     "views": 0,
+     "shares": 0,
+     "saved": 0
+    },
     {
      "id": "18179592646445557",
      "hora": "10/11 18:37",
@@ -5479,7 +5507,7 @@
      "id": "18114834203595587",
      "hora": "09/11 20:35",
      "capa": "ate_off",
-     "reach": 6,
+     "reach": 7,
      "views": 15,
      "shares": 1,
      "saved": 0
@@ -5675,13 +5703,13 @@
     }
    ],
    "por_capa": {
+    "ate_off": {
+     "n": 22,
+     "alcance_medio": 4
+    },
     "uma_oferta": {
      "n": 2,
      "alcance_medio": 3
-    },
-    "ate_off": {
-     "n": 21,
-     "alcance_medio": 4
     },
     "achados": {
      "n": 1,
@@ -5700,6 +5728,11 @@
     "hora": "18:37",
     "capa": "uma_oferta",
     "url": "https://raw.githubusercontent.com/felipenery99-alt/papa-garimpou-robo/midia-temp/20261110-1837-tiktok.mp4"
+   },
+   {
+    "hora": "20:31",
+    "capa": "ate_off",
+    "url": "https://raw.githubusercontent.com/felipenery99-alt/papa-garimpou-robo/midia-temp/20261110-2031-tiktok.mp4"
    }
   ]
  }
