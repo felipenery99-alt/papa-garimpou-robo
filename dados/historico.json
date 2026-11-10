@@ -10017,14 +10017,14 @@
   "2026-11-09 tarde tech",
   "2026-11-09 noite tech"
  ],
- "reserva_meio": "2026-11-09T23:36:37.594493-03:00",
+ "reserva_meio": "2026-11-10T00:04:18.125322-03:00",
  "reserva_cheia": {
   "achadinhos": "2026-11-09T18:09:55.295113-03:00",
   "tech": "2026-11-09T18:09:55.295113-03:00",
   "marcas": "2026-11-09T17:54:45.499184-03:00"
  },
  "top10_dia": "2026-11-07",
- "manuais_lidos": "2026-11-09T23:36:37.594493-03:00",
+ "manuais_lidos": "2026-11-10T00:04:18.125322-03:00",
  "reserva_resultado": {
   "2026-11-07": {
    "achadinhos": {
@@ -10071,6 +10071,23 @@
     "quase": 5,
     "reprise": 3
    }
+  },
+  "2026-11-10": {
+   "achadinhos": {
+    "busca": 0,
+    "quase": 0,
+    "reprise": 0
+   },
+   "marcas": {
+    "busca": 0,
+    "quase": 0,
+    "reprise": 0
+   },
+   "tech": {
+    "busca": 0,
+    "quase": 0,
+    "reprise": 0
+   }
   }
  },
  "ig_reels_log": {
@@ -10103,7 +10120,7 @@
    "hora": "2026-11-09T20:34:20.224392-03:00"
   }
  },
- "ig_respondido_em": "2026-11-09T23:36:37.594493-03:00",
+ "ig_respondido_em": "2026-11-10T00:04:18.125322-03:00",
  "dm_auto": {
   "2026-11-08": {
    "com_palavra": 0,
@@ -10112,6 +10129,12 @@
    "ultimo_erro": ""
   },
   "2026-11-09": {
+   "com_palavra": 0,
+   "dm_ok": 0,
+   "dm_falha": 0,
+   "ultimo_erro": ""
+  },
+  "2026-11-10": {
    "com_palavra": 0,
    "dm_ok": 0,
    "dm_falha": 0,
@@ -10136,7 +10159,7 @@
   "desde": "08/11 13:21"
  },
  "canais_info": {
-  "versao": "2026-11-08",
+  "versao": "2026-11-10",
   "resultado": {
    "@papagarimpou": "ok",
    "@papagarimpoumarcas": "ok",

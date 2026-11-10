@@ -1340,8 +1340,8 @@
    "canal tech sem oferta na fila há 138 min (busca extra também não achou). Abastecer ofertas_manuais.json.",
    "⚠️ Canal sem post: tech 2 h — abrir o app Claude e conferir as rotinas"
   ],
-  "ultima_execucao": "23:24",
-  "execucoes": 22,
+  "ultima_execucao": "23:53",
+  "execucoes": 23,
   "telegram_posts": {
    "achadinhos": 34,
    "marcas": 29,
@@ -1423,7 +1423,7 @@
    "ultimo_erro": ""
   },
   "canais_info": {
-   "versao": "2026-11-08",
+   "versao": "2026-11-10",
    "resultado": {
     "@papagarimpou": "ok",
     "@papagarimpoumarcas": "ok",
@@ -2423,7 +2423,7 @@
    "shopee-22995171032": "vendas longe",
    "shopee-22995156057": "vendas longe",
    "shopee-58256826808": "vendas longe",
-   "shopee-58265051802": "vendas longe",
+   "shopee-58265051802": "nota",
    "shopee-58264651927": "vendas longe",
    "shopee-58255638749": "vendas longe",
    "shopee-58214934938": "vendas longe",
@@ -3753,7 +3753,7 @@
    "shopee-58265634109": "vendas longe",
    "shopee-22994360053": "outro: marca fora da lista boa",
    "shopee-18399888291": "desconto longe",
-   "shopee-40984146784": "desconto longe",
+   "shopee-40984146784": "desconto perto (até 10 pts)",
    "shopee-58256296048": "desconto longe",
    "shopee-19997803637": "vendas perto (125+)",
    "shopee-28989018404": "desconto longe",
@@ -4988,28 +4988,40 @@
    "shopee-57509969732": "vendas longe",
    "shopee-47660001165": "vendas longe",
    "shopee-58216356807": "vendas longe",
-   "shopee-43183176710": "vendas longe"
+   "shopee-43183176710": "vendas longe",
+   "shopee-22098971520": "vendas longe",
+   "shopee-58267183035": "nota",
+   "shopee-23891107918": "vendas longe",
+   "shopee-22697762642": "vendas longe",
+   "shopee-23093814976": "vendas longe",
+   "shopee-21397142226": "vendas longe",
+   "shopee-43714574728": "vendas longe",
+   "shopee-22892846443": "outro: marca fora da lista boa",
+   "shopee-22998913329": "outro: marca fora da lista boa",
+   "shopee-22397710724": "desconto perto (até 10 pts)",
+   "shopee-41117508450": "aprovada",
+   "shopee-23594846916": "outro: marca fora da lista boa"
   },
   "shopee_oficial": {
-   "vendas longe": 1957,
-   "nota": 1188,
+   "vendas longe": 1962,
+   "nota": 1190,
    "vendas perto (125+)": 107,
-   "outro: marca fora da lista boa": 91,
-   "aprovada": 70,
-   "desconto longe": 58,
+   "outro: marca fora da lista boa": 94,
+   "aprovada": 71,
+   "desconto longe": 57,
    "outro: palavra proibida: compatível": 36,
-   "desconto perto (até 10 pts)": 24
+   "desconto perto (até 10 pts)": 26
   },
   "instagram": {
    "seguidores": 413,
    "posts": 108,
-   "reach": 1815,
+   "reach": 1867,
    "profile_views": 79,
    "website_clicks": 2,
    "stories_ativos": 25
   },
   "reels_alcance": {
-   "atualizado": "2026-11-09T23:24:42.495145-03:00",
+   "atualizado": "2026-11-09T23:53:43.119711-03:00",
    "itens": [
     {
      "id": "18114834203595587",
