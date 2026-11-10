@@ -804,7 +804,13 @@
   "2026-11-09 tech 20:13 amz-B0D3J76C63",
   "2026-11-09 achadinhos 20:21 amz-B0DQ57Q4YB",
   "2026-11-09 marcas 20:27 amz-B0FWRZLPTX",
-  "2026-11-09 tech 20:35 amz-B0DWFPS6W6"
+  "2026-11-09 tech 20:35 amz-B0DWFPS6W6",
+  "2026-11-09 achadinhos 20:45 amz-B076MCJ2VP",
+  "2026-11-09 marcas 20:51 amz-B0H5YPVM8X",
+  "2026-11-09 tech 20:58 amz-B0GT6LW2VN",
+  "2026-11-09 achadinhos 21:05 amz-B0FDBJZ8DF",
+  "2026-11-09 marcas 21:12 amz-B077MDTWDN",
+  "2026-11-09 tech 21:19 amz-B07855LJ99"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -1577,7 +1583,13 @@
   "amz-B0D3J76C63": "2026-11-09T20:13:38.425500-03:00",
   "amz-B0DQ57Q4YB": "2026-11-09T20:21:15.537740-03:00",
   "amz-B0FWRZLPTX": "2026-11-09T20:27:40.403390-03:00",
-  "amz-B0DWFPS6W6": "2026-11-09T20:35:17.723016-03:00"
+  "amz-B0DWFPS6W6": "2026-11-09T20:35:17.723016-03:00",
+  "amz-B076MCJ2VP": "2026-11-09T20:45:34.707436-03:00",
+  "amz-B0H5YPVM8X": "2026-11-09T20:51:44.535759-03:00",
+  "amz-B0GT6LW2VN": "2026-11-09T20:58:23.992931-03:00",
+  "amz-B0FDBJZ8DF": "2026-11-09T21:05:39.739273-03:00",
+  "amz-B077MDTWDN": "2026-11-09T21:12:03.890494-03:00",
+  "amz-B07855LJ99": "2026-11-09T21:19:57.597883-03:00"
  },
  "ofertas_dia": [
   {
@@ -8395,6 +8407,98 @@
    "valida_ate": "2026-11-10T22:00:00-03:00",
    "entrou": "2026-11-09T18:54:58.019882-03:00",
    "dia": "2026-11-09"
+  },
+  {
+   "id": "amz-B076MCJ2VP",
+   "canal": "achadinhos",
+   "nome": "Jogo de Chaves Combinadas Tramontina 17 Peças",
+   "preco_antigo": 242.13,
+   "preco": 149.89,
+   "desconto": 38,
+   "link": "https://www.amazon.com.br/dp/B076MCJ2VP?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51Fs7oDfEJL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-10T22:00:00-03:00",
+   "entrou": "2026-11-09T18:54:58.019882-03:00",
+   "dia": "2026-11-09"
+  },
+  {
+   "id": "amz-B0H5YPVM8X",
+   "canal": "marcas",
+   "nome": "Tênis Mizuno Cool Ride 4",
+   "preco_antigo": 449.99,
+   "preco": 259.9,
+   "desconto": 42,
+   "link": "https://www.amazon.com.br/dp/B0H5YPVM8X?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51hiPsUQo7L._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-10T22:00:00-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "entrou": "2026-11-09T18:54:58.019882-03:00",
+   "dia": "2026-11-09"
+  },
+  {
+   "id": "amz-B0GT6LW2VN",
+   "canal": "tech",
+   "nome": "Caixa de Som JBL PartyBox Encore Essential 2 com 2 Microfones",
+   "preco_antigo": 2699.0,
+   "preco": 1890.0,
+   "desconto": 30,
+   "link": "https://www.amazon.com.br/dp/B0GT6LW2VN?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/41oTAaVTVdL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-10T22:00:00-03:00",
+   "gancho": "PARTYBOX DA JBL COM 800 CONTO A MENOS",
+   "entrou": "2026-11-09T18:54:58.019882-03:00",
+   "dia": "2026-11-09"
+  },
+  {
+   "id": "amz-B0FDBJZ8DF",
+   "canal": "achadinhos",
+   "nome": "Aparador Philips OneBlade Intimate Feminino",
+   "preco_antigo": 209.9,
+   "preco": 129.9,
+   "desconto": 38,
+   "link": "https://www.amazon.com.br/dp/B0FDBJZ8DF?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61En6Zv7-CL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-10T22:00:00-03:00",
+   "entrou": "2026-11-09T18:54:58.019882-03:00",
+   "dia": "2026-11-09"
+  },
+  {
+   "id": "amz-B077MDTWDN",
+   "canal": "marcas",
+   "nome": "Stanley Growler Térmico Classic Hammertone Green 1,9L",
+   "preco_antigo": 439.0,
+   "preco": 295.41,
+   "desconto": 33,
+   "link": "https://www.amazon.com.br/dp/B077MDTWDN?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/4124X6Z9xML._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-10T22:00:00-03:00",
+   "entrou": "2026-11-09T18:54:58.019882-03:00",
+   "dia": "2026-11-09"
+  },
+  {
+   "id": "amz-B07855LJ99",
+   "canal": "tech",
+   "nome": "Pen Drive SanDisk Ultra Fit USB 3.1 128GB",
+   "preco_antigo": 299.9,
+   "preco": 146.3,
+   "desconto": 51,
+   "link": "https://www.amazon.com.br/dp/B07855LJ99?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/81WJgkjTGML._AC_SL1500_.jpg",
+   "loja": "Vendido por parceiro · entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-10T22:00:00-03:00",
+   "entrou": "2026-11-09T18:54:58.019882-03:00",
+   "dia": "2026-11-09"
   }
  ],
  "ig_feitos": [
@@ -8560,10 +8664,11 @@
   "2026-11-09 19:17 story_oferta",
   "2026-11-09 20:03 story_oferta",
   "2026-11-09 feed",
-  "2026-11-09 20:30 reels"
+  "2026-11-09 20:30 reels",
+  "2026-11-09 20:35 story_top4",
+  "2026-11-09 20:38 story_oferta"
  ],
  "ig_ofertas_usadas": [
-  "shopee-41253171051",
   "amz-B0G2T13LT6",
   "shopee-9739004991",
   "amz-B0FDX9MDXK",
@@ -8762,7 +8867,8 @@
   "amz-B008SBKTLI",
   "shopee-21316811936",
   "shopee-23593120156",
-  "amz-B0D45QCBF7"
+  "amz-B0D45QCBF7",
+  "amz-B0D2RJN5Q3"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
@@ -8829,34 +8935,6 @@
  "ultimo_pilar": "dica",
  "fila": [
   {
-   "id": "amz-B076MCJ2VP",
-   "canal": "achadinhos",
-   "nome": "Jogo de Chaves Combinadas Tramontina 17 Peças",
-   "preco_antigo": 242.13,
-   "preco": 149.89,
-   "desconto": 38,
-   "link": "https://www.amazon.com.br/dp/B076MCJ2VP?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51Fs7oDfEJL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-10T22:00:00-03:00",
-   "entrou": "2026-11-09T18:54:58.019882-03:00"
-  },
-  {
-   "id": "amz-B0FDBJZ8DF",
-   "canal": "achadinhos",
-   "nome": "Aparador Philips OneBlade Intimate Feminino",
-   "preco_antigo": 209.9,
-   "preco": 129.9,
-   "desconto": 38,
-   "link": "https://www.amazon.com.br/dp/B0FDBJZ8DF?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61En6Zv7-CL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-10T22:00:00-03:00",
-   "entrou": "2026-11-09T18:54:58.019882-03:00"
-  },
-  {
    "id": "amz-B079ZS4Z5Z",
    "canal": "achadinhos",
    "nome": "Protetor Solar Neutrogena Sun Fresh FPS 50 200ml",
@@ -8899,35 +8977,6 @@
    "entrou": "2026-11-09T18:54:58.019882-03:00"
   },
   {
-   "id": "amz-B0H5YPVM8X",
-   "canal": "marcas",
-   "nome": "Tênis Mizuno Cool Ride 4",
-   "preco_antigo": 449.99,
-   "preco": 259.9,
-   "desconto": 42,
-   "link": "https://www.amazon.com.br/dp/B0H5YPVM8X?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51hiPsUQo7L._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-10T22:00:00-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "entrou": "2026-11-09T18:54:58.019882-03:00"
-  },
-  {
-   "id": "amz-B077MDTWDN",
-   "canal": "marcas",
-   "nome": "Stanley Growler Térmico Classic Hammertone Green 1,9L",
-   "preco_antigo": 439.0,
-   "preco": 295.41,
-   "desconto": 33,
-   "link": "https://www.amazon.com.br/dp/B077MDTWDN?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/4124X6Z9xML._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-10T22:00:00-03:00",
-   "entrou": "2026-11-09T18:54:58.019882-03:00"
-  },
-  {
    "id": "amz-B0H6BZ86JZ",
    "canal": "marcas",
    "nome": "Creatina Pura 500g + Glutamina 150g Dark Lab",
@@ -8937,35 +8986,6 @@
    "link": "https://www.amazon.com.br/dp/B0H6BZ86JZ?tag=papagarimpou-20",
    "imagem": "https://m.media-amazon.com/images/I/61Ty1rhO4GL._AC_SL1200_.jpg",
    "loja": "Loja oficial Dark Lab · entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-10T22:00:00-03:00",
-   "entrou": "2026-11-09T18:54:58.019882-03:00"
-  },
-  {
-   "id": "amz-B0GT6LW2VN",
-   "canal": "tech",
-   "nome": "Caixa de Som JBL PartyBox Encore Essential 2 com 2 Microfones",
-   "preco_antigo": 2699.0,
-   "preco": 1890.0,
-   "desconto": 30,
-   "link": "https://www.amazon.com.br/dp/B0GT6LW2VN?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/41oTAaVTVdL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-10T22:00:00-03:00",
-   "gancho": "PARTYBOX DA JBL COM 800 CONTO A MENOS",
-   "entrou": "2026-11-09T18:54:58.019882-03:00"
-  },
-  {
-   "id": "amz-B07855LJ99",
-   "canal": "tech",
-   "nome": "Pen Drive SanDisk Ultra Fit USB 3.1 128GB",
-   "preco_antigo": 299.9,
-   "preco": 146.3,
-   "desconto": 51,
-   "link": "https://www.amazon.com.br/dp/B07855LJ99?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/81WJgkjTGML._AC_SL1500_.jpg",
-   "loja": "Vendido por parceiro · entregue pela Amazon",
    "plataforma": "Amazon",
    "valida_ate": "2026-11-10T22:00:00-03:00",
    "entrou": "2026-11-09T18:54:58.019882-03:00"
@@ -9667,7 +9687,13 @@
   "monitorgamercurvosamsungodyssey34ultrawqhd165hz": "2026-11-09T20:13:38.425500-03:00",
   "aspiradordepoeaguawapgtwinox25litros": "2026-11-09T20:21:15.537740-03:00",
   "kit2camisetasreservabolsopicapaupai": "2026-11-09T20:27:40.403390-03:00",
-  "smartwatchhuaweiband10": "2026-11-09T20:35:17.723016-03:00"
+  "smartwatchhuaweiband10": "2026-11-09T20:35:17.723016-03:00",
+  "jogodechavescombinadastramontina17pecas": "2026-11-09T20:45:34.707436-03:00",
+  "tenismizunocoolride4": "2026-11-09T20:51:44.535759-03:00",
+  "caixadesomjblpartyboxencoreessential2com2microfones": "2026-11-09T20:58:23.992931-03:00",
+  "aparadorphilipsonebladeintimatefeminino": "2026-11-09T21:05:39.739273-03:00",
+  "stanleygrowlertermicoclassichammertonegreen19l": "2026-11-09T21:12:03.890494-03:00",
+  "pendrivesandiskultrafitusb31128gb": "2026-11-09T21:19:57.597883-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
@@ -9972,7 +9998,7 @@
   "marcas": "2026-11-09T17:54:45.499184-03:00"
  },
  "top10_dia": "2026-11-07",
- "manuais_lidos": "2026-11-09T20:27:40.113421-03:00",
+ "manuais_lidos": "2026-11-09T21:12:00.088035-03:00",
  "reserva_resultado": {
   "2026-11-07": {
    "achadinhos": {
@@ -10051,7 +10077,7 @@
    "hora": "2026-11-09T20:34:20.224392-03:00"
   }
  },
- "ig_respondido_em": "2026-11-09T20:34:20.224392-03:00",
+ "ig_respondido_em": "2026-11-09T21:12:00.088035-03:00",
  "dm_auto": {
   "2026-11-08": {
    "com_palavra": 0,
