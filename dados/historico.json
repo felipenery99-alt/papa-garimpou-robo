@@ -896,7 +896,13 @@
   "2026-11-10 tech 17:16 amz-B0FPYV6K68",
   "2026-11-10 achadinhos 17:23 amz-B07XLNQTQH",
   "2026-11-10 marcas 17:29 amz-B07L5VVJ83",
-  "2026-11-10 tech 17:37 amz-B0F1N79TYM"
+  "2026-11-10 tech 17:37 amz-B0F1N79TYM",
+  "2026-11-10 achadinhos 17:46 amz-B0917Q5FVH",
+  "2026-11-10 marcas 17:53 amz-B0BTHQ4GZG",
+  "2026-11-10 tech 18:00 amz-B0FCVNLSGV",
+  "2026-11-10 achadinhos 18:07 amz-B0C44K7N7G",
+  "2026-11-10 marcas 18:15 shopee-58210668407",
+  "2026-11-10 tech 18:23 amz-B0F4Y2VR8S"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -1760,7 +1766,13 @@
   "amz-B0FPYV6K68": "2026-11-10T17:16:53.884464-03:00",
   "amz-B07XLNQTQH": "2026-11-10T17:23:09.601941-03:00",
   "amz-B07L5VVJ83": "2026-11-10T17:29:30.533558-03:00",
-  "amz-B0F1N79TYM": "2026-11-10T17:37:18.538774-03:00"
+  "amz-B0F1N79TYM": "2026-11-10T17:37:18.538774-03:00",
+  "amz-B0917Q5FVH": "2026-11-10T17:46:41.512851-03:00",
+  "amz-B0BTHQ4GZG": "2026-11-10T17:53:40.320426-03:00",
+  "amz-B0FCVNLSGV": "2026-11-10T18:00:24.889095-03:00",
+  "amz-B0C44K7N7G": "2026-11-10T18:07:55.817334-03:00",
+  "shopee-58210668407": "2026-11-10T18:15:52.583209-03:00",
+  "amz-B0F4Y2VR8S": "2026-11-10T18:23:02.318993-03:00"
  },
  "ofertas_dia": [
   {
@@ -10009,6 +10021,100 @@
    "valida_ate": "2026-11-11T22:00:00-03:00",
    "entrou": "2026-11-10T13:59:56.619230-03:00",
    "dia": "2026-11-10"
+  },
+  {
+   "id": "amz-B0917Q5FVH",
+   "canal": "achadinhos",
+   "nome": "Protetor Solar Facial La Roche-Posay",
+   "preco_antigo": 84.9,
+   "preco": 53.58,
+   "desconto": 37,
+   "link": "https://www.amazon.com.br/dp/B0917Q5FVH?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61o-e5TOO9L._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-11T22:00:00-03:00",
+   "entrou": "2026-11-10T13:59:56.619230-03:00",
+   "dia": "2026-11-10"
+  },
+  {
+   "id": "amz-B0BTHQ4GZG",
+   "canal": "marcas",
+   "nome": "Copo Stanley Quencher Cream 887 ml",
+   "preco_antigo": 319.0,
+   "preco": 136.74,
+   "desconto": 57,
+   "link": "https://www.amazon.com.br/dp/B0BTHQ4GZG?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/41tlPFYn6cL._AC_SL1200_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-11T22:00:00-03:00",
+   "gancho": "STANLEY QUENCHER 57% OFF",
+   "entrou": "2026-11-10T13:59:56.619230-03:00",
+   "dia": "2026-11-10"
+  },
+  {
+   "id": "amz-B0FCVNLSGV",
+   "canal": "tech",
+   "nome": "Notebook Lenovo IdeaPad Slim 3i",
+   "preco_antigo": 4699.0,
+   "preco": 3290.73,
+   "desconto": 30,
+   "link": "https://www.amazon.com.br/dp/B0FCVNLSGV?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71LP2m5bdjL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-11T22:00:00-03:00",
+   "entrou": "2026-11-10T18:00:24.647519-03:00",
+   "dia": "2026-11-10"
+  },
+  {
+   "id": "amz-B0C44K7N7G",
+   "canal": "achadinhos",
+   "nome": "Aspirador de Pó Vertical Philco 2 em 1",
+   "preco_antigo": 241.0,
+   "preco": 129.9,
+   "desconto": 46,
+   "link": "https://www.amazon.com.br/dp/B0C44K7N7G?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/41inGaNI2TL._AC_SL1200_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-11T22:00:00-03:00",
+   "entrou": "2026-11-10T18:00:24.647519-03:00",
+   "dia": "2026-11-10"
+  },
+  {
+   "id": "shopee-58210668407",
+   "plataforma": "Shopee",
+   "nome": "Tênis Olympikus Adrena 2 Feminino",
+   "loja": "Shoestime",
+   "loja_oficial": true,
+   "preco": 234.75,
+   "preco_antigo": 317.23,
+   "desconto": 26,
+   "vendas": 264,
+   "nota": 5.0,
+   "comissao_pct": 17.0,
+   "imagem": "https://cf.shopee.com.br/file/sg-11134201-823r6-mp3nf8xtog0e2a",
+   "link": "https://s.shopee.com.br/W83VkJEwP",
+   "canal": "marcas",
+   "entrou": "2026-11-10T14:18:53.541027-03:00",
+   "dia": "2026-11-10"
+  },
+  {
+   "id": "amz-B0F4Y2VR8S",
+   "canal": "tech",
+   "nome": "SSD SanDisk Plus",
+   "preco_antigo": 928.57,
+   "preco": 582.03,
+   "desconto": 37,
+   "link": "https://www.amazon.com.br/dp/B0F4Y2VR8S?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61RE7kJmMxL._AC_SL1323_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-11T22:00:00-03:00",
+   "entrou": "2026-11-10T18:00:24.647519-03:00",
+   "dia": "2026-11-10"
   }
  ],
  "ig_feitos": [
@@ -10161,12 +10267,11 @@
   "2026-11-10 16:05 adivinha_resposta",
   "2026-11-10 16:44 story_oferta",
   "story especial pede-pro-papa 2026-11-10",
-  "2026-11-10 17:36 story_oferta"
+  "2026-11-10 17:36 story_oferta",
+  "2026-11-10 18:05 a_ou_b",
+  "2026-11-10 18:09 story_oferta"
  ],
  "ig_ofertas_usadas": [
-  "amz-B0G4SN4QF7",
-  "amz-B0GT7FR4LH",
-  "amz-B0D8J3GFBS",
   "amz-B0FR49NFLT",
   "amz-B0FL2QF7YJ",
   "amz-B08LPLKJBM",
@@ -10363,7 +10468,10 @@
   "amz-B0FDX5XGHN",
   "amz-B09LNLM4FX",
   "amz-B0G4SN2SMB",
-  "amz-B0CJRXT3L6"
+  "amz-B0CJRXT3L6",
+  "shopee-15346286898",
+  "amz-B0FFTY5R7S",
+  "amz-B0CG9VXH4L"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
@@ -10430,34 +10538,6 @@
  "ultimo_pilar": "dica",
  "fila": [
   {
-   "id": "amz-B0917Q5FVH",
-   "canal": "achadinhos",
-   "nome": "Protetor Solar Facial La Roche-Posay",
-   "preco_antigo": 84.9,
-   "preco": 53.58,
-   "desconto": 37,
-   "link": "https://www.amazon.com.br/dp/B0917Q5FVH?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61o-e5TOO9L._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-11T22:00:00-03:00",
-   "entrou": "2026-11-10T13:59:56.619230-03:00"
-  },
-  {
-   "id": "amz-B0C44K7N7G",
-   "canal": "achadinhos",
-   "nome": "Aspirador de Pó Vertical Philco 2 em 1",
-   "preco_antigo": 241.0,
-   "preco": 129.9,
-   "desconto": 46,
-   "link": "https://www.amazon.com.br/dp/B0C44K7N7G?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/41inGaNI2TL._AC_SL1200_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-11T22:00:00-03:00",
-   "entrou": "2026-11-10T13:59:56.619230-03:00"
-  },
-  {
    "id": "amz-B0GFGN6G9L",
    "canal": "achadinhos",
    "nome": "Jogo de Toalhas Buddemeyer Florentina 4 peças",
@@ -10469,7 +10549,7 @@
    "loja": "Vendido e entregue pela Amazon",
    "plataforma": "Amazon",
    "valida_ate": "2026-11-11T22:00:00-03:00",
-   "entrou": "2026-11-10T13:59:56.619230-03:00"
+   "entrou": "2026-11-10T18:00:24.647519-03:00"
   },
   {
    "id": "amz-B0778WSF2D",
@@ -10484,7 +10564,7 @@
    "plataforma": "Amazon",
    "valida_ate": "2026-11-11T22:00:00-03:00",
    "gancho": "FURADEIRA MONDIAL 59% OFF",
-   "entrou": "2026-11-10T13:59:56.619230-03:00"
+   "entrou": "2026-11-10T18:00:24.647519-03:00"
   },
   {
    "id": "amz-B096LQQSNY",
@@ -10498,7 +10578,7 @@
    "loja": "Vendido e entregue pela Amazon",
    "plataforma": "Amazon",
    "valida_ate": "2026-11-11T22:00:00-03:00",
-   "entrou": "2026-11-10T13:59:56.619230-03:00"
+   "entrou": "2026-11-10T18:00:24.647519-03:00"
   },
   {
    "id": "amz-B076BBQRRQ",
@@ -10512,7 +10592,7 @@
    "loja": "Vendido e entregue pela Amazon",
    "plataforma": "Amazon",
    "valida_ate": "2026-11-11T22:00:00-03:00",
-   "entrou": "2026-11-10T13:59:56.619230-03:00"
+   "entrou": "2026-11-10T18:00:24.647519-03:00"
   },
   {
    "id": "amz-B08R91HYY2",
@@ -10527,22 +10607,7 @@
    "plataforma": "Amazon",
    "valida_ate": "2026-11-11T22:00:00-03:00",
    "gancho": "AIR FRYER FORNO QUASE PELA METADE",
-   "entrou": "2026-11-10T13:59:56.619230-03:00"
-  },
-  {
-   "id": "amz-B0BTHQ4GZG",
-   "canal": "marcas",
-   "nome": "Copo Stanley Quencher Cream 887 ml",
-   "preco_antigo": 319.0,
-   "preco": 136.74,
-   "desconto": 57,
-   "link": "https://www.amazon.com.br/dp/B0BTHQ4GZG?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/41tlPFYn6cL._AC_SL1200_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-11T22:00:00-03:00",
-   "gancho": "STANLEY QUENCHER 57% OFF",
-   "entrou": "2026-11-10T13:59:56.619230-03:00"
+   "entrou": "2026-11-10T18:00:24.647519-03:00"
   },
   {
    "id": "amz-B0CZM9JLRB",
@@ -10556,52 +10621,7 @@
    "loja": "Vendido e entregue pela Amazon",
    "plataforma": "Amazon",
    "valida_ate": "2026-11-11T22:00:00-03:00",
-   "entrou": "2026-11-10T13:59:56.619230-03:00"
-  },
-  {
-   "id": "amz-B0FCVNLSGV",
-   "canal": "tech",
-   "nome": "Notebook Lenovo IdeaPad Slim 3i",
-   "preco_antigo": 4699.0,
-   "preco": 3290.73,
-   "desconto": 30,
-   "link": "https://www.amazon.com.br/dp/B0FCVNLSGV?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/71LP2m5bdjL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-11T22:00:00-03:00",
-   "entrou": "2026-11-10T13:59:56.619230-03:00"
-  },
-  {
-   "id": "amz-B0F4Y2VR8S",
-   "canal": "tech",
-   "nome": "SSD SanDisk Plus",
-   "preco_antigo": 928.57,
-   "preco": 582.03,
-   "desconto": 37,
-   "link": "https://www.amazon.com.br/dp/B0F4Y2VR8S?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61RE7kJmMxL._AC_SL1323_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-11T22:00:00-03:00",
-   "entrou": "2026-11-10T13:59:56.619230-03:00"
-  },
-  {
-   "id": "shopee-58210668407",
-   "plataforma": "Shopee",
-   "nome": "Tênis Olympikus Adrena 2 Feminino",
-   "loja": "Shoestime",
-   "loja_oficial": true,
-   "preco": 234.75,
-   "preco_antigo": 317.23,
-   "desconto": 26,
-   "vendas": 264,
-   "nota": 5.0,
-   "comissao_pct": 17.0,
-   "imagem": "https://cf.shopee.com.br/file/sg-11134201-823r6-mp3nf8xtog0e2a",
-   "link": "https://s.shopee.com.br/W83VkJEwP",
-   "canal": "marcas",
-   "entrou": "2026-11-10T14:18:53.541027-03:00"
+   "entrou": "2026-11-10T18:00:24.647519-03:00"
   }
  ],
  "menus_fixados": [
@@ -10830,7 +10850,7 @@
   "secadordecabelotaiffstylered110v": "2026-11-02T16:34:08.045440-03:00",
   "protetorsolarfacialeucerinfps60": "2026-11-02T17:02:16.171433-03:00",
   "tenismasculinopumadasherlite": "2026-11-02T17:11:13.314552-03:00",
-  "tenisolympikusadrena2feminino": "2026-11-02T17:25:21.053235-03:00",
+  "tenisolympikusadrena2feminino": "2026-11-10T18:15:52.583209-03:00",
   "liquidificadorphilipswalitaserie5000jarradevidro127v": "2026-11-02T17:55:27.727127-03:00",
   "garrafatermicastanleyaerolighttransitrosequartz591ml": "2026-11-02T18:02:37.304949-03:00",
   "tenisasicsjapansfeminino": "2026-11-02T18:10:34.434854-03:00",
@@ -11320,7 +11340,12 @@
   "celularsamsunggalaxya17128gbtela67": "2026-11-10T17:16:53.884464-03:00",
   "furadeiraeparafusadeirablackdecker": "2026-11-10T17:23:09.601941-03:00",
   "creatinaintegralmedicahardcore150g100pura": "2026-11-10T17:29:30.533558-03:00",
-  "monitordell22fullhd100hzse2225hm": "2026-11-10T17:37:18.538774-03:00"
+  "monitordell22fullhd100hzse2225hm": "2026-11-10T17:37:18.538774-03:00",
+  "protetorsolarfaciallarocheposay": "2026-11-10T17:46:41.512851-03:00",
+  "copostanleyquenchercream887ml": "2026-11-10T17:53:40.320426-03:00",
+  "notebooklenovoideapadslim3i": "2026-11-10T18:00:24.889095-03:00",
+  "aspiradordepoverticalphilco2em1": "2026-11-10T18:07:55.817334-03:00",
+  "ssdsandiskplus": "2026-11-10T18:23:02.318993-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
@@ -11587,11 +11612,11 @@
   }
  },
  "ig_dm_links": {},
- "story_link_dia": "2026-11-09",
+ "story_link_dia": "2026-11-10",
  "pede_semana": "2026-46",
  "ultimo_garimpo": "2026-11-10T13:50:48-03:00",
  "vigia_aviso_post": "2026-11-09T18:27:03.734589-03:00",
- "vigia_aviso_garimpo": "2026-11-10T13:36:44.088908-03:00",
+ "vigia_aviso_garimpo": "2026-11-10T17:37:57.953936-03:00",
  "resumo_enviado": "2026-11-09",
  "token_conferido": "2026-11-10",
  "meta_token": {
@@ -11629,7 +11654,7 @@
   "marcas": "2026-11-09T17:54:45.499184-03:00"
  },
  "top10_dia": "2026-11-07",
- "manuais_lidos": "2026-11-10T17:29:30.244117-03:00",
+ "manuais_lidos": "2026-11-10T18:15:33.995230-03:00",
  "reserva_resultado": {
   "2026-11-07": {
    "achadinhos": {
@@ -11729,7 +11754,7 @@
    "hora": "2026-11-10T12:06:03.509362-03:00"
   }
  },
- "ig_respondido_em": "2026-11-10T17:36:43.246814-03:00",
+ "ig_respondido_em": "2026-11-10T18:15:33.995230-03:00",
  "dm_auto": {
   "2026-11-08": {
    "com_palavra": 0,

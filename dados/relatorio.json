@@ -1703,19 +1703,20 @@
  "2026-11-10": {
   "erros": [
    "⚠️ Garimpo parado desde 09/11 18:49 — abrir o app Claude e conferir as rotinas\nPouca oferta na fila: achadinhos 2, marcas 1.",
-   "⚠️ Garimpo parado desde 08:49 — abrir o app Claude e conferir as rotinas\nPouca oferta na fila: tech 1."
+   "⚠️ Garimpo parado desde 08:49 — abrir o app Claude e conferir as rotinas\nPouca oferta na fila: tech 1.",
+   "⚠️ Garimpo parado desde 13:50 — abrir o app Claude e conferir as rotinas\nPouca oferta na fila: tech 2."
   ],
-  "ultima_execucao": "16:54",
-  "execucoes": 18,
+  "ultima_execucao": "17:37",
+  "execucoes": 19,
   "telegram_posts": {
-   "achadinhos": 33,
-   "marcas": 23,
-   "tech": 24
+   "achadinhos": 35,
+   "marcas": 25,
+   "tech": 26
   },
   "ultimo_post": {
-   "achadinhos": "17:23",
-   "marcas": "17:29",
-   "tech": "17:37"
+   "achadinhos": "18:07",
+   "marcas": "18:15",
+   "tech": "18:23"
   },
   "meta_token": {
    "tipo": "SYSTEM_USER",
@@ -1764,7 +1765,9 @@
    "15:03 story_oferta",
    "16:05 adivinha_resposta",
    "16:44 story_oferta",
-   "17:36 story_oferta"
+   "17:36 story_oferta",
+   "18:05 a_ou_b",
+   "18:09 story_oferta"
   ],
   "shopee_ligada": true,
   "dm_auto": {
@@ -5146,7 +5149,7 @@
    "shopee-58272255706": "nota",
    "shopee-58270475852": "nota",
    "shopee-58270475822": "nota",
-   "shopee-58221760776": "nota",
+   "shopee-58221760776": "vendas longe",
    "shopee-58221705108": "nota",
    "shopee-58222238707": "nota",
    "shopee-58219918307": "nota",
@@ -5259,11 +5262,73 @@
    "shopee-23793117575": "vendas longe",
    "shopee-23494490170": "vendas longe",
    "shopee-23698078011": "vendas longe",
-   "shopee-13439327530": "vendas longe"
+   "shopee-13439327530": "vendas longe",
+   "shopee-58221682240": "nota",
+   "shopee-58269301296": "nota",
+   "shopee-58222394394": "nota",
+   "shopee-58221882142": "nota",
+   "shopee-58265278646": "nota",
+   "shopee-58220178437": "vendas longe",
+   "shopee-58272007624": "nota",
+   "shopee-23799563384": "nota",
+   "shopee-58220207682": "nota",
+   "shopee-23394938592": "nota",
+   "shopee-43521747323": "vendas longe",
+   "shopee-23995056748": "vendas longe",
+   "shopee-58214324268": "nota",
+   "shopee-58270232393": "nota",
+   "shopee-58270180724": "nota",
+   "shopee-58220248749": "nota",
+   "shopee-47571007505": "nota",
+   "shopee-44920982614": "nota",
+   "shopee-52070967647": "nota",
+   "shopee-43036176597": "nota",
+   "shopee-57370924563": "nota",
+   "shopee-58272576930": "nota",
+   "shopee-58272189921": "nota",
+   "shopee-58271699554": "nota",
+   "shopee-58271621248": "nota",
+   "shopee-58271621152": "nota",
+   "shopee-58271612673": "nota",
+   "shopee-58271477736": "nota",
+   "shopee-58221685947": "nota",
+   "shopee-58221454003": "nota",
+   "shopee-58271478357": "nota",
+   "shopee-58221457492": "nota",
+   "shopee-58221682408": "nota",
+   "shopee-58271608081": "nota",
+   "shopee-58271481111": "nota",
+   "shopee-58271481141": "nota",
+   "shopee-58221597576": "nota",
+   "shopee-58221457014": "nota",
+   "shopee-58220452554": "nota",
+   "shopee-58221653847": "nota",
+   "shopee-56220900167": "vendas longe",
+   "shopee-58220452195": "nota",
+   "shopee-58220452785": "nota",
+   "shopee-58271965657": "nota",
+   "shopee-58271926582": "nota",
+   "shopee-58272369101": "nota",
+   "shopee-41472456603": "vendas longe",
+   "shopee-58219426027": "nota",
+   "shopee-58269767257": "vendas longe",
+   "shopee-58220452175": "vendas longe",
+   "shopee-23898683722": "vendas longe",
+   "shopee-58217474754": "vendas longe",
+   "shopee-23095035649": "vendas longe",
+   "shopee-58270468341": "nota",
+   "shopee-40885226147": "nota",
+   "shopee-58270475712": "nota",
+   "shopee-58270468350": "nota",
+   "shopee-58270468051": "nota",
+   "shopee-58260289466": "vendas longe",
+   "shopee-58264317325": "nota",
+   "shopee-58257119222": "vendas longe",
+   "shopee-58269657547": "nota"
   },
   "shopee_oficial": {
-   "vendas longe": 1827,
-   "nota": 1225,
+   "vendas longe": 1840,
+   "nota": 1274,
    "vendas perto (125+)": 113,
    "outro: marca fora da lista boa": 97,
    "aprovada": 71,
@@ -5273,15 +5338,15 @@
    "outro: palavra proibida: universal": 1
   },
   "instagram": {
-   "seguidores": 418,
+   "seguidores": 417,
    "posts": 110,
-   "reach": 2700,
-   "profile_views": 114,
+   "reach": 2772,
+   "profile_views": 118,
    "website_clicks": 0,
    "stories_ativos": 25
   },
   "reels_alcance": {
-   "atualizado": "2026-11-10T16:54:51.778752-03:00",
+   "atualizado": "2026-11-10T17:37:57.953936-03:00",
    "itens": [
     {
      "id": "18473011252140741",
@@ -5489,15 +5554,6 @@
      "views": 12,
      "shares": 0,
      "saved": 0
-    },
-    {
-     "id": "17927663994203104",
-     "hora": "03/11 17:39",
-     "capa": "achados",
-     "reach": 3,
-     "views": 3,
-     "shares": 0,
-     "saved": 0
     }
    ],
    "por_capa": {
@@ -5510,8 +5566,8 @@
      "alcance_medio": 4
     },
     "achados": {
-     "n": 2,
-     "alcance_medio": 6
+     "n": 1,
+     "alcance_medio": 9
     }
    },
    "campeao": null
