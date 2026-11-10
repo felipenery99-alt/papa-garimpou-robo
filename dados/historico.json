@@ -844,7 +844,14 @@
   "2026-11-10 tech 10:54 amz-B0DPXZ6H24",
   "2026-11-10 achadinhos 11:01 amz-B0BZLJLQ58",
   "2026-11-10 marcas 11:09 amz-B0GWFF22JN",
-  "2026-11-10 tech 11:17 amz-B0FTCYVMVC"
+  "2026-11-10 tech 11:17 amz-B0FTCYVMVC",
+  "2026-11-10 achadinhos 11:24 amz-B08SCF8C3M",
+  "2026-11-10 achadinhos 11:29 amz-B08PFTYKWP",
+  "2026-11-10 marcas 11:36 amz-B0GTC3F1TB",
+  "2026-11-10 tech 11:43 amz-B0CP6CVJSG",
+  "2026-11-10 achadinhos 11:50 amz-B07F3RN3GB",
+  "2026-11-10 marcas 11:58 amz-B0FFNFB9DY",
+  "2026-11-10 tech 12:06 amz-B0BK9YLKPM"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -1656,7 +1663,14 @@
   "amz-B0DPXZ6H24": "2026-11-10T10:54:14.336283-03:00",
   "amz-B0BZLJLQ58": "2026-11-10T11:01:15.114232-03:00",
   "amz-B0GWFF22JN": "2026-11-10T11:09:08.914144-03:00",
-  "amz-B0FTCYVMVC": "2026-11-10T11:17:21.570566-03:00"
+  "amz-B0FTCYVMVC": "2026-11-10T11:17:21.570566-03:00",
+  "amz-B08SCF8C3M": "2026-11-10T11:24:50.948500-03:00",
+  "amz-B08PFTYKWP": "2026-11-10T11:29:44.471047-03:00",
+  "amz-B0GTC3F1TB": "2026-11-10T11:36:44.914931-03:00",
+  "amz-B0CP6CVJSG": "2026-11-10T11:43:47.743101-03:00",
+  "amz-B07F3RN3GB": "2026-11-10T11:50:00.140929-03:00",
+  "amz-B0FFNFB9DY": "2026-11-10T11:58:12.813859-03:00",
+  "amz-B0BK9YLKPM": "2026-11-10T12:06:51.742455-03:00"
  },
  "ofertas_dia": [
   {
@@ -9102,6 +9116,114 @@
    "gancho": "GALAXY S25 FE QUASE PELA METADE",
    "entrou": "2026-11-10T09:02:35.839199-03:00",
    "dia": "2026-11-10"
+  },
+  {
+   "id": "amz-B08SCF8C3M",
+   "canal": "achadinhos",
+   "nome": "Ferro de Passar a Seco Mondial 1000W",
+   "preco_antigo": 99.9,
+   "preco": 59.9,
+   "desconto": 40,
+   "link": "https://www.amazon.com.br/dp/B08SCF8C3M?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71706ggJMeL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-11T22:00:00-03:00",
+   "extra": "Confira a voltagem na página",
+   "entrou": "2026-11-10T09:02:35.839199-03:00",
+   "dia": "2026-11-10"
+  },
+  {
+   "id": "amz-B08PFTYKWP",
+   "canal": "achadinhos",
+   "nome": "Escova Elétrica Infantil Oral-B Disney",
+   "preco_antigo": 146.94,
+   "preco": 99.99,
+   "desconto": 32,
+   "link": "https://www.amazon.com.br/dp/B08PFTYKWP?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61MCXvrIFjL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-11T22:00:00-03:00",
+   "entrou": "2026-11-10T09:02:35.839199-03:00",
+   "dia": "2026-11-10"
+  },
+  {
+   "id": "amz-B0GTC3F1TB",
+   "canal": "marcas",
+   "nome": "Tênis New Balance 370v1 Unissex",
+   "preco_antigo": 549.99,
+   "preco": 329.9,
+   "desconto": 40,
+   "link": "https://www.amazon.com.br/dp/B0GTC3F1TB?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61sZh1enhkL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-11T22:00:00-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "entrou": "2026-11-10T09:02:35.839199-03:00",
+   "dia": "2026-11-10"
+  },
+  {
+   "id": "amz-B0CP6CVJSG",
+   "canal": "tech",
+   "nome": "Apple iPhone 15 128 GB Preto",
+   "preco_antigo": 5999.0,
+   "preco": 3779.09,
+   "desconto": 37,
+   "link": "https://www.amazon.com.br/dp/B0CP6CVJSG?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/416MG51rNgL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-11T22:00:00-03:00",
+   "gancho": "IPHONE 15 COM 37% OFF NA AMAZON",
+   "entrou": "2026-11-10T09:02:35.839199-03:00",
+   "dia": "2026-11-10"
+  },
+  {
+   "id": "amz-B07F3RN3GB",
+   "canal": "achadinhos",
+   "nome": "Protetor Solar Nivea Sun Protect & Hidrata FPS 70",
+   "preco_antigo": 87.9,
+   "preco": 51.45,
+   "desconto": 41,
+   "link": "https://www.amazon.com.br/dp/B07F3RN3GB?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71Vx1gYjshL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-11T22:00:00-03:00",
+   "entrou": "2026-11-10T09:02:35.839199-03:00",
+   "dia": "2026-11-10"
+  },
+  {
+   "id": "amz-B0FFNFB9DY",
+   "canal": "marcas",
+   "nome": "Garrafa Térmica Stanley Adventure To Go 2.0",
+   "preco_antigo": 315.0,
+   "preco": 197.4,
+   "desconto": 37,
+   "link": "https://www.amazon.com.br/dp/B0FFNFB9DY?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/41wdyIbTF2L._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-11T22:00:00-03:00",
+   "entrou": "2026-11-10T09:02:35.839199-03:00",
+   "dia": "2026-11-10"
+  },
+  {
+   "id": "amz-B0BK9YLKPM",
+   "canal": "tech",
+   "nome": "Teclado sem Fio Logitech Signature K650",
+   "preco_antigo": 282.0,
+   "preco": 189.9,
+   "desconto": 33,
+   "link": "https://www.amazon.com.br/dp/B0BK9YLKPM?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61DnsLHLi1L._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-11T22:00:00-03:00",
+   "entrou": "2026-11-10T09:02:35.839199-03:00",
+   "dia": "2026-11-10"
   }
  ],
  "ig_feitos": [
@@ -9238,10 +9360,14 @@
   "2026-11-10 09:38 story_oferta",
   "2026-11-10 10:20 story_oferta",
   "2026-11-10 10:24 story_oferta",
-  "2026-11-10 11:11 story_oferta"
+  "2026-11-10 11:11 story_oferta",
+  "2026-11-10 feed",
+  "2026-11-10 11:50 carrossel_top5",
+  "2026-11-10 11:56 story_oferta",
+  "2026-11-10 feed",
+  "2026-11-10 12:00 reels"
  ],
  "ig_ofertas_usadas": [
-  "amz-B0DD1M9WJT",
   "amz-B0DKJPZ3XN",
   "amz-B0GR1DZZZX",
   "amz-B08NVMP2YZ",
@@ -9440,11 +9566,12 @@
   "shopee-22497648129",
   "shopee-22994673009",
   "amz-B0F6NQY99G",
-  "amz-B0BGT1VQGJ"
+  "amz-B0BGT1VQGJ",
+  "amz-B0FP6JN5VR"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
- "ig_ultimo_reel": "2026-11-09T20:34:20.224392-03:00",
+ "ig_ultimo_reel": "2026-11-10T12:06:03.509362-03:00",
  "pecas_usadas": {
   "ac-preco-inflado": "2026-10-27",
   "dc-7-dias": "2026-10-27",
@@ -9506,49 +9633,6 @@
  },
  "ultimo_pilar": "dica",
  "fila": [
-  {
-   "id": "amz-B08SCF8C3M",
-   "canal": "achadinhos",
-   "nome": "Ferro de Passar a Seco Mondial 1000W",
-   "preco_antigo": 99.9,
-   "preco": 59.9,
-   "desconto": 40,
-   "link": "https://www.amazon.com.br/dp/B08SCF8C3M?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/71706ggJMeL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-11T22:00:00-03:00",
-   "extra": "Confira a voltagem na página",
-   "entrou": "2026-11-10T09:02:35.839199-03:00"
-  },
-  {
-   "id": "amz-B08PFTYKWP",
-   "canal": "achadinhos",
-   "nome": "Escova Elétrica Infantil Oral-B Disney",
-   "preco_antigo": 146.94,
-   "preco": 99.99,
-   "desconto": 32,
-   "link": "https://www.amazon.com.br/dp/B08PFTYKWP?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61MCXvrIFjL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-11T22:00:00-03:00",
-   "entrou": "2026-11-10T09:02:35.839199-03:00"
-  },
-  {
-   "id": "amz-B07F3RN3GB",
-   "canal": "achadinhos",
-   "nome": "Protetor Solar Nivea Sun Protect & Hidrata FPS 70",
-   "preco_antigo": 87.9,
-   "preco": 51.45,
-   "desconto": 41,
-   "link": "https://www.amazon.com.br/dp/B07F3RN3GB?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/71Vx1gYjshL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-11T22:00:00-03:00",
-   "entrou": "2026-11-10T09:02:35.839199-03:00"
-  },
   {
    "id": "amz-B076J12M27",
    "canal": "achadinhos",
@@ -9692,35 +9776,6 @@
    "entrou": "2026-11-10T09:02:35.839199-03:00"
   },
   {
-   "id": "amz-B0GTC3F1TB",
-   "canal": "marcas",
-   "nome": "Tênis New Balance 370v1 Unissex",
-   "preco_antigo": 549.99,
-   "preco": 329.9,
-   "desconto": 40,
-   "link": "https://www.amazon.com.br/dp/B0GTC3F1TB?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61sZh1enhkL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-11T22:00:00-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "entrou": "2026-11-10T09:02:35.839199-03:00"
-  },
-  {
-   "id": "amz-B0FFNFB9DY",
-   "canal": "marcas",
-   "nome": "Garrafa Térmica Stanley Adventure To Go 2.0",
-   "preco_antigo": 315.0,
-   "preco": 197.4,
-   "desconto": 37,
-   "link": "https://www.amazon.com.br/dp/B0FFNFB9DY?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/41wdyIbTF2L._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-11T22:00:00-03:00",
-   "entrou": "2026-11-10T09:02:35.839199-03:00"
-  },
-  {
    "id": "amz-B0CC3J1Q22",
    "canal": "marcas",
    "nome": "Tênis Mizuno Wave Dynasty 4 Masculino",
@@ -9809,35 +9864,6 @@
    "valida_ate": "2026-11-11T22:00:00-03:00",
    "extra": "Preço a partir de: varia por tamanho e cor",
    "gancho": "PUMA QUASE PELA METADE",
-   "entrou": "2026-11-10T09:02:35.839199-03:00"
-  },
-  {
-   "id": "amz-B0CP6CVJSG",
-   "canal": "tech",
-   "nome": "Apple iPhone 15 128 GB Preto",
-   "preco_antigo": 5999.0,
-   "preco": 3779.09,
-   "desconto": 37,
-   "link": "https://www.amazon.com.br/dp/B0CP6CVJSG?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/416MG51rNgL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-11T22:00:00-03:00",
-   "gancho": "IPHONE 15 COM 37% OFF NA AMAZON",
-   "entrou": "2026-11-10T09:02:35.839199-03:00"
-  },
-  {
-   "id": "amz-B0BK9YLKPM",
-   "canal": "tech",
-   "nome": "Teclado sem Fio Logitech Signature K650",
-   "preco_antigo": 282.0,
-   "preco": 189.9,
-   "desconto": 33,
-   "link": "https://www.amazon.com.br/dp/B0BK9YLKPM?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61DnsLHLi1L._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-11T22:00:00-03:00",
    "entrou": "2026-11-10T09:02:35.839199-03:00"
   },
   {
@@ -10593,7 +10619,14 @@
   "combotecladoemousesemfiologitechpopicon": "2026-11-10T10:54:14.336283-03:00",
   "escovasecadorabritaniabec02pr4em1bivolt": "2026-11-10T11:01:15.114232-03:00",
   "garrafatermicastanleytwistflip": "2026-11-10T11:09:08.914144-03:00",
-  "samsunggalaxys25fe5g128gb": "2026-11-10T11:17:21.570566-03:00"
+  "samsunggalaxys25fe5g128gb": "2026-11-10T11:17:21.570566-03:00",
+  "ferrodepassarasecomondial1000w": "2026-11-10T11:24:50.948500-03:00",
+  "escovaeletricainfantiloralbdisney": "2026-11-10T11:29:44.471047-03:00",
+  "tenisnewbalance370v1unissex": "2026-11-10T11:36:44.914931-03:00",
+  "appleiphone15128gbpreto": "2026-11-10T11:43:47.743101-03:00",
+  "protetorsolarniveasunprotecthidratafps70": "2026-11-10T11:50:00.140929-03:00",
+  "garrafatermicastanleyadventuretogo20": "2026-11-10T11:58:12.813859-03:00",
+  "tecladosemfiologitechsignaturek650": "2026-11-10T12:06:51.742455-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
@@ -10786,6 +10819,13 @@
    "shopee-22997647570",
    "shopee-21316811936",
    "shopee-21897631761"
+  ],
+  "2026-11-10": [
+   "shopee-23099169510",
+   "shopee-21299179885",
+   "shopee-22994673009",
+   "shopee-11098381324",
+   "shopee-22497648129"
   ]
  },
  "vendas_shopee": {},
@@ -10898,7 +10938,7 @@
   "marcas": "2026-11-09T17:54:45.499184-03:00"
  },
  "top10_dia": "2026-11-07",
- "manuais_lidos": "2026-11-10T11:09:08.531688-03:00",
+ "manuais_lidos": "2026-11-10T11:57:02.657360-03:00",
  "reserva_resultado": {
   "2026-11-07": {
    "achadinhos": {
@@ -10992,9 +11032,13 @@
   "18114834203595587": {
    "capa": "ate_off",
    "hora": "2026-11-09T20:34:20.224392-03:00"
+  },
+  "18473011252140741": {
+   "capa": "ate_off",
+   "hora": "2026-11-10T12:06:03.509362-03:00"
   }
  },
- "ig_respondido_em": "2026-11-10T11:16:57.834348-03:00",
+ "ig_respondido_em": "2026-11-10T12:06:03.509362-03:00",
  "dm_auto": {
   "2026-11-08": {
    "com_palavra": 0,
@@ -11060,6 +11104,14 @@
     "capa": "ate_off",
     "legenda": "Manda pra quem tá precisando disso 👇\n😎💎 Até 56% OFF em marca boa: os 5 achados do Papa hoje\n\nLink no perfil: ofertas todo dia no Telegram do Papa 💎\n\nPubli · link de afiliado",
     "url": "https://raw.githubusercontent.com/felipenery99-alt/papa-garimpou-robo/midia-temp/20261109-2034-tiktok.mp4"
+   }
+  ],
+  "2026-11-10": [
+   {
+    "hora": "12:06",
+    "capa": "ate_off",
+    "legenda": "Manda pra quem tá precisando disso 👇\n😎💎 Até 43% OFF em marca boa: os 5 achados do Papa hoje\n\nLink no perfil: ofertas todo dia no Telegram do Papa 💎\n\nPubli · link de afiliado",
+    "url": "https://raw.githubusercontent.com/felipenery99-alt/papa-garimpou-robo/midia-temp/20261110-1206-tiktok.mp4"
    }
   ]
  },
