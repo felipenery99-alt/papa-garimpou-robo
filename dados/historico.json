@@ -857,7 +857,14 @@
   "2026-11-10 tech 12:29 amz-B0DHL5V4QT",
   "2026-11-10 achadinhos 12:37 amz-B097J19HZ3",
   "2026-11-10 marcas 12:44 amz-B0H4RGW5WY",
-  "2026-11-10 tech 12:51 amz-B0H127L18H"
+  "2026-11-10 tech 12:51 amz-B0H127L18H",
+  "2026-11-10 achadinhos 12:58 amz-B0CCJX21V3",
+  "2026-11-10 achadinhos 13:00 amz-B0GMKPQ213",
+  "2026-11-10 marcas 13:07 amz-B0FFTY5R7S",
+  "2026-11-10 tech 13:15 amz-B0FDX5XGHN",
+  "2026-11-10 achadinhos 13:22 amz-B088MVFZSJ",
+  "2026-11-10 marcas 13:29 shopee-15346286898",
+  "2026-11-10 tech 13:36 amz-B0CQXKMFHY"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -1682,7 +1689,14 @@
   "amz-B0DHL5V4QT": "2026-11-10T12:29:24.106037-03:00",
   "amz-B097J19HZ3": "2026-11-10T12:37:15.895857-03:00",
   "amz-B0H4RGW5WY": "2026-11-10T12:44:28.413041-03:00",
-  "amz-B0H127L18H": "2026-11-10T12:51:43.430871-03:00"
+  "amz-B0H127L18H": "2026-11-10T12:51:43.430871-03:00",
+  "amz-B0CCJX21V3": "2026-11-10T12:58:07.401335-03:00",
+  "amz-B0GMKPQ213": "2026-11-10T13:00:58.345381-03:00",
+  "amz-B0FFTY5R7S": "2026-11-10T13:07:55.348248-03:00",
+  "amz-B0FDX5XGHN": "2026-11-10T13:15:23.509106-03:00",
+  "amz-B088MVFZSJ": "2026-11-10T13:22:14.777658-03:00",
+  "shopee-15346286898": "2026-11-10T13:29:52.325063-03:00",
+  "amz-B0CQXKMFHY": "2026-11-10T13:36:08.669050-03:00"
  },
  "ofertas_dia": [
   {
@@ -9328,6 +9342,117 @@
    "valida_ate": "2026-11-11T22:00:00-03:00",
    "entrou": "2026-11-10T09:02:35.839199-03:00",
    "dia": "2026-11-10"
+  },
+  {
+   "id": "amz-B0CCJX21V3",
+   "canal": "achadinhos",
+   "nome": "Ferro de Passar Seco e a Vapor Electrolux",
+   "preco_antigo": 239.9,
+   "preco": 151.9,
+   "desconto": 37,
+   "link": "https://www.amazon.com.br/dp/B0CCJX21V3?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71m6aqMwmEL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-11T22:00:00-03:00",
+   "entrou": "2026-11-10T09:02:35.839199-03:00",
+   "dia": "2026-11-10"
+  },
+  {
+   "id": "amz-B0GMKPQ213",
+   "canal": "achadinhos",
+   "nome": "Air Fryer Forno Oven Mondial 12L",
+   "preco_antigo": 822.9,
+   "preco": 521.22,
+   "desconto": 37,
+   "link": "https://www.amazon.com.br/dp/B0GMKPQ213?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71L6yWRo8+L._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-11T22:00:00-03:00",
+   "entrou": "2026-11-10T09:02:35.839199-03:00",
+   "dia": "2026-11-10"
+  },
+  {
+   "id": "amz-B0FFTY5R7S",
+   "canal": "marcas",
+   "nome": "Tênis Mizuno Neo Vortex",
+   "preco_antigo": 699.99,
+   "preco": 298.29,
+   "desconto": 57,
+   "link": "https://www.amazon.com.br/dp/B0FFTY5R7S?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61JgT1kYf4L._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-11T22:00:00-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "gancho": "MIZUNO NEO VORTEX COM 57% OFF",
+   "entrou": "2026-11-10T09:02:35.839199-03:00",
+   "dia": "2026-11-10"
+  },
+  {
+   "id": "amz-B0FDX5XGHN",
+   "canal": "tech",
+   "nome": "Smartwatch Samsung Galaxy Watch8 44mm",
+   "preco_antigo": 3199.0,
+   "preco": 1349.1,
+   "desconto": 58,
+   "link": "https://www.amazon.com.br/dp/B0FDX5XGHN?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61iTGVZS+0L._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-11T22:00:00-03:00",
+   "gancho": "GALAXY WATCH8 COM 58% OFF",
+   "entrou": "2026-11-10T13:15:23.173979-03:00",
+   "dia": "2026-11-10"
+  },
+  {
+   "id": "amz-B088MVFZSJ",
+   "canal": "achadinhos",
+   "nome": "Aspirador Vertical WAP Life Speed 2000W",
+   "preco_antigo": 899.9,
+   "preco": 609.9,
+   "desconto": 32,
+   "link": "https://www.amazon.com.br/dp/B088MVFZSJ?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51BHKwUsueL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-11T22:00:00-03:00",
+   "entrou": "2026-11-10T13:15:23.173979-03:00",
+   "dia": "2026-11-10"
+  },
+  {
+   "id": "shopee-15346286898",
+   "plataforma": "Shopee",
+   "nome": "Kit 6 Pares Meias Lupo Cano Médio Alto Longo Algodão Original Casual Confortável Atoalhada Macia",
+   "loja": "Osure",
+   "loja_oficial": true,
+   "preco": 59.99,
+   "preco_antigo": 90.89,
+   "desconto": 34,
+   "vendas": 366,
+   "nota": 4.9,
+   "comissao_pct": 14.0,
+   "imagem": "https://cf.shopee.com.br/file/br-11134207-820m1-mqi3audn9lhd14",
+   "link": "https://s.shopee.com.br/2Vt7tVIPDT",
+   "canal": "marcas",
+   "entrou": "2026-11-10T09:48:29.930069-03:00",
+   "dia": "2026-11-10"
+  },
+  {
+   "id": "amz-B0CQXKMFHY",
+   "canal": "tech",
+   "nome": "Mouse Gamer sem Fio Redragon King Pro 4K",
+   "preco_antigo": 423.75,
+   "preco": 209.0,
+   "desconto": 51,
+   "link": "https://www.amazon.com.br/dp/B0CQXKMFHY?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51EBglsGc+L._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-11T22:00:00-03:00",
+   "entrou": "2026-11-10T13:15:23.173979-03:00",
+   "dia": "2026-11-10"
   }
  ],
  "ig_feitos": [
@@ -9472,10 +9597,11 @@
   "2026-11-10 12:00 reels",
   "2026-11-10 12:15 story_top4",
   "2026-11-10 12:19 story_oferta",
-  "2026-11-10 12:47 story_oferta"
+  "2026-11-10 12:47 story_oferta",
+  "2026-11-10 13:20 story_convite",
+  "2026-11-10 13:22 story_oferta"
  ],
  "ig_ofertas_usadas": [
-  "amz-B08NVMP2YZ",
   "amz-B0CVZ3KSZK",
   "mgl-SG4-014G-172",
   "amz-B07RRDLZQY",
@@ -9674,7 +9800,8 @@
   "amz-B0BGT1VQGJ",
   "amz-B0FP6JN5VR",
   "amz-B0FP6P8J71",
-  "amz-B097J7J54H"
+  "amz-B097J7J54H",
+  "amz-B0DXQC6MDM"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
@@ -9741,48 +9868,6 @@
  "ultimo_pilar": "dica",
  "fila": [
   {
-   "id": "amz-B0CCJX21V3",
-   "canal": "achadinhos",
-   "nome": "Ferro de Passar Seco e a Vapor Electrolux",
-   "preco_antigo": 239.9,
-   "preco": 151.9,
-   "desconto": 37,
-   "link": "https://www.amazon.com.br/dp/B0CCJX21V3?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/71m6aqMwmEL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-11T22:00:00-03:00",
-   "entrou": "2026-11-10T09:02:35.839199-03:00"
-  },
-  {
-   "id": "amz-B0GMKPQ213",
-   "canal": "achadinhos",
-   "nome": "Air Fryer Forno Oven Mondial 12L",
-   "preco_antigo": 822.9,
-   "preco": 521.22,
-   "desconto": 37,
-   "link": "https://www.amazon.com.br/dp/B0GMKPQ213?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/71L6yWRo8+L._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-11T22:00:00-03:00",
-   "entrou": "2026-11-10T09:02:35.839199-03:00"
-  },
-  {
-   "id": "amz-B088MVFZSJ",
-   "canal": "achadinhos",
-   "nome": "Aspirador Vertical WAP Life Speed 2000W",
-   "preco_antigo": 899.9,
-   "preco": 609.9,
-   "desconto": 32,
-   "link": "https://www.amazon.com.br/dp/B088MVFZSJ?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51BHKwUsueL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-11T22:00:00-03:00",
-   "entrou": "2026-11-10T09:02:35.839199-03:00"
-  },
-  {
    "id": "amz-B0HG3NQJHK",
    "canal": "achadinhos",
    "nome": "Aspirador de Pó Vertical WAP Power Speed Max",
@@ -9794,7 +9879,7 @@
    "loja": "Vendido e entregue pela Amazon",
    "plataforma": "Amazon",
    "valida_ate": "2026-11-11T22:00:00-03:00",
-   "entrou": "2026-11-10T09:02:35.839199-03:00"
+   "entrou": "2026-11-10T13:15:23.173979-03:00"
   },
   {
    "id": "amz-B0DKY79FQ8",
@@ -9808,7 +9893,7 @@
    "loja": "Vendido e entregue pela Amazon",
    "plataforma": "Amazon",
    "valida_ate": "2026-11-11T22:00:00-03:00",
-   "entrou": "2026-11-10T09:02:35.839199-03:00"
+   "entrou": "2026-11-10T13:15:23.173979-03:00"
   },
   {
    "id": "amz-B0FF6JJYLL",
@@ -9823,7 +9908,7 @@
    "plataforma": "Amazon",
    "valida_ate": "2026-11-11T22:00:00-03:00",
    "gancho": "PERFUME DE GRIFE COM KIT E DESCONTO",
-   "entrou": "2026-11-10T09:02:35.839199-03:00"
+   "entrou": "2026-11-10T13:15:23.173979-03:00"
   },
   {
    "id": "amz-B0F678PCRM",
@@ -9838,7 +9923,7 @@
    "plataforma": "Amazon",
    "valida_ate": "2026-11-11T22:00:00-03:00",
    "gancho": "PARAFUSADEIRA WAP PELA METADE DO PREÇO",
-   "entrou": "2026-11-10T09:02:35.839199-03:00"
+   "entrou": "2026-11-10T13:15:23.173979-03:00"
   },
   {
    "id": "amz-B0FVJWQ3PX",
@@ -9852,23 +9937,7 @@
    "loja": "Vendido e entregue pela Amazon",
    "plataforma": "Amazon",
    "valida_ate": "2026-11-11T22:00:00-03:00",
-   "entrou": "2026-11-10T09:02:35.839199-03:00"
-  },
-  {
-   "id": "amz-B0FFTY5R7S",
-   "canal": "marcas",
-   "nome": "Tênis Mizuno Neo Vortex",
-   "preco_antigo": 699.99,
-   "preco": 298.29,
-   "desconto": 57,
-   "link": "https://www.amazon.com.br/dp/B0FFTY5R7S?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61JgT1kYf4L._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-11T22:00:00-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "gancho": "MIZUNO NEO VORTEX COM 57% OFF",
-   "entrou": "2026-11-10T09:02:35.839199-03:00"
+   "entrou": "2026-11-10T13:15:23.173979-03:00"
   },
   {
    "id": "amz-B09DF9RD6K",
@@ -9883,7 +9952,7 @@
    "plataforma": "Amazon",
    "valida_ate": "2026-11-11T22:00:00-03:00",
    "gancho": "PERFUME DE GRIFE COM 44% OFF",
-   "entrou": "2026-11-10T09:02:35.839199-03:00"
+   "entrou": "2026-11-10T13:15:23.173979-03:00"
   },
   {
    "id": "amz-B005XZ0OP8",
@@ -9897,7 +9966,7 @@
    "loja": "Vendido e entregue pela Amazon",
    "plataforma": "Amazon",
    "valida_ate": "2026-11-11T22:00:00-03:00",
-   "entrou": "2026-11-10T09:02:35.839199-03:00"
+   "entrou": "2026-11-10T13:15:23.173979-03:00"
   },
   {
    "id": "amz-B0CKJFXMFR",
@@ -9913,36 +9982,7 @@
    "valida_ate": "2026-11-11T22:00:00-03:00",
    "extra": "Preço a partir de: varia por tamanho e cor",
    "gancho": "PUMA QUASE PELA METADE",
-   "entrou": "2026-11-10T09:02:35.839199-03:00"
-  },
-  {
-   "id": "amz-B0FDX5XGHN",
-   "canal": "tech",
-   "nome": "Smartwatch Samsung Galaxy Watch8 44mm",
-   "preco_antigo": 3199.0,
-   "preco": 1349.1,
-   "desconto": 58,
-   "link": "https://www.amazon.com.br/dp/B0FDX5XGHN?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61iTGVZS+0L._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-11T22:00:00-03:00",
-   "gancho": "GALAXY WATCH8 COM 58% OFF",
-   "entrou": "2026-11-10T09:02:35.839199-03:00"
-  },
-  {
-   "id": "amz-B0CQXKMFHY",
-   "canal": "tech",
-   "nome": "Mouse Gamer sem Fio Redragon King Pro 4K",
-   "preco_antigo": 423.75,
-   "preco": 209.0,
-   "desconto": 51,
-   "link": "https://www.amazon.com.br/dp/B0CQXKMFHY?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51EBglsGc+L._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-11T22:00:00-03:00",
-   "entrou": "2026-11-10T09:02:35.839199-03:00"
+   "entrou": "2026-11-10T13:15:23.173979-03:00"
   },
   {
    "id": "amz-B0DFQGVLYF",
@@ -9956,24 +9996,7 @@
    "loja": "Vendido e entregue pela Amazon",
    "plataforma": "Amazon",
    "valida_ate": "2026-11-11T22:00:00-03:00",
-   "entrou": "2026-11-10T09:02:35.839199-03:00"
-  },
-  {
-   "id": "shopee-15346286898",
-   "plataforma": "Shopee",
-   "nome": "Kit 6 Pares Meias Lupo Cano Médio Alto Longo Algodão Original Casual Confortável Atoalhada Macia",
-   "loja": "Osure",
-   "loja_oficial": true,
-   "preco": 59.99,
-   "preco_antigo": 90.89,
-   "desconto": 34,
-   "vendas": 366,
-   "nota": 4.9,
-   "comissao_pct": 14.0,
-   "imagem": "https://cf.shopee.com.br/file/br-11134207-820m1-mqi3audn9lhd14",
-   "link": "https://s.shopee.com.br/2Vt7tVIPDT",
-   "canal": "marcas",
-   "entrou": "2026-11-10T09:48:29.930069-03:00"
+   "entrou": "2026-11-10T13:15:23.173979-03:00"
   }
  ],
  "menus_fixados": [
@@ -10653,7 +10676,14 @@
   "foneintraauricularjblwavebeam2": "2026-11-10T12:29:24.106037-03:00",
   "liquidificadorbritaniablq1300pturbo1400w": "2026-11-10T12:37:15.895857-03:00",
   "tenispumanyrafeminino": "2026-11-10T12:44:28.413041-03:00",
-  "caixadesomjblboombox4bluetooth": "2026-11-10T12:51:43.430871-03:00"
+  "caixadesomjblboombox4bluetooth": "2026-11-10T12:51:43.430871-03:00",
+  "ferrodepassarsecoeavaporelectrolux": "2026-11-10T12:58:07.401335-03:00",
+  "airfryerfornoovenmondial12l": "2026-11-10T13:00:58.345381-03:00",
+  "tenismizunoneovortex": "2026-11-10T13:07:55.348248-03:00",
+  "smartwatchsamsunggalaxywatch844mm": "2026-11-10T13:15:23.509106-03:00",
+  "aspiradorverticalwaplifespeed2000w": "2026-11-10T13:22:14.777658-03:00",
+  "kit6paresmeiaslupocanomedioaltolongoalgodaooriginalcasualconfortavelatoalhadamacia": "2026-11-10T13:29:52.325063-03:00",
+  "mousegamersemfioredragonkingpro4k": "2026-11-10T13:36:08.669050-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
@@ -10965,7 +10995,7 @@
   "marcas": "2026-11-09T17:54:45.499184-03:00"
  },
  "top10_dia": "2026-11-07",
- "manuais_lidos": "2026-11-10T12:44:28.070293-03:00",
+ "manuais_lidos": "2026-11-10T13:29:34.406961-03:00",
  "reserva_resultado": {
   "2026-11-07": {
    "achadinhos": {
@@ -11065,7 +11095,7 @@
    "hora": "2026-11-10T12:06:03.509362-03:00"
   }
  },
- "ig_respondido_em": "2026-11-10T12:51:18.797392-03:00",
+ "ig_respondido_em": "2026-11-10T13:29:34.406961-03:00",
  "dm_auto": {
   "2026-11-08": {
    "com_palavra": 0,

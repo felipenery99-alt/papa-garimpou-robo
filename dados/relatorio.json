@@ -1704,17 +1704,17 @@
   "erros": [
    "⚠️ Garimpo parado desde 09/11 18:49 — abrir o app Claude e conferir as rotinas\nPouca oferta na fila: achadinhos 2, marcas 1."
   ],
-  "ultima_execucao": "12:07",
-  "execucoes": 12,
+  "ultima_execucao": "12:52",
+  "execucoes": 13,
   "telegram_posts": {
-   "achadinhos": 17,
-   "marcas": 11,
-   "tech": 13
+   "achadinhos": 20,
+   "marcas": 13,
+   "tech": 15
   },
   "ultimo_post": {
-   "achadinhos": "12:37",
-   "marcas": "12:44",
-   "tech": "12:51"
+   "achadinhos": "13:22",
+   "marcas": "13:29",
+   "tech": "13:36"
   },
   "meta_token": {
    "tipo": "SYSTEM_USER",
@@ -1756,7 +1756,9 @@
    "12:00 reels",
    "12:15 story_top4",
    "12:19 story_oferta",
-   "12:47 story_oferta"
+   "12:47 story_oferta",
+   "13:20 story_convite",
+   "13:22 story_oferta"
   ],
   "shopee_ligada": true,
   "dm_auto": {
@@ -4927,11 +4929,13 @@
    "shopee-45507043252": "vendas longe",
    "shopee-52606869882": "vendas longe",
    "shopee-58215407274": "vendas longe",
-   "shopee-24197923060": "vendas longe"
+   "shopee-24197923060": "vendas longe",
+   "shopee-58212712600": "vendas longe",
+   "shopee-58217159322": "nota"
   },
   "shopee_oficial": {
-   "vendas longe": 1709,
-   "nota": 1031,
+   "vendas longe": 1710,
+   "nota": 1032,
    "vendas perto (125+)": 107,
    "outro: marca fora da lista boa": 94,
    "aprovada": 68,
@@ -4943,13 +4947,13 @@
   "instagram": {
    "seguidores": 418,
    "posts": 110,
-   "reach": 2366,
-   "profile_views": 99,
+   "reach": 2405,
+   "profile_views": 101,
    "website_clicks": 0,
    "stories_ativos": 25
   },
   "reels_alcance": {
-   "atualizado": "2026-11-10T12:07:26.720379-03:00",
+   "atualizado": "2026-11-10T12:52:23.728795-03:00",
    "itens": [
     {
      "id": "18473011252140741",
@@ -5166,15 +5170,6 @@
      "views": 3,
      "shares": 0,
      "saved": 0
-    },
-    {
-     "id": "18179680531450658",
-     "hora": "03/11 12:58",
-     "capa": "achados",
-     "reach": 5,
-     "views": 5,
-     "shares": 0,
-     "saved": 0
     }
    ],
    "por_capa": {
@@ -5187,11 +5182,11 @@
      "alcance_medio": 4
     },
     "achados": {
-     "n": 3,
+     "n": 2,
      "alcance_medio": 6
     }
    },
-   "campeao": "achados"
+   "campeao": null
   },
   "tiktok": [
    {
