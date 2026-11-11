@@ -1483,7 +1483,7 @@ def rodar_instagram(h: dict, agora: datetime) -> None:
 
 CONVITE_STORY = PASTA / "dados" / "convite-story.txt"
 CONVITES = PASTA / "dados" / "convites.json"
-CONVITES_ORIGEM = ("ig-bio", "ig-story", "ig-dm", "ig-dm-auto", "fb-pagina")   # 08/11: +resposta automática e Página FB
+CONVITES_ORIGEM = ("ig-bio", "ig-story", "ig-dm", "ig-dm-auto", "fb-pagina", "ig-canal")   # 08/11: +resposta automática e Página FB; 10/11: +canal de transmissão do Instagram
 
 
 STORY_LINK = PASTA / "dados" / "story-link.txt"
