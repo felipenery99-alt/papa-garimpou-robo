@@ -4,14 +4,14 @@
   "ultimo": "2026-11-09T21:32:49.172348",
   "enviado": "2026-11-08T22:48:25.380900"
  },
- "erro em #-#-# achadinhos #:# amz-B#DP#S#PC: HTTPSConnectionPool(host='api.telegr": {
-  "primeiro": "2026-11-09T12:59:10.763409",
-  "ultimo": "2026-11-09T12:59:10.763409",
-  "enviado": ""
- },
  "canal marcas sem oferta na fila há # min (busca extra também não achou). Abastec": {
   "primeiro": "2026-11-11T00:17:12.110399",
   "ultimo": "2026-11-11T00:17:12.110399",
+  "enviado": ""
+ },
+ "erro em #-#-# achadinhos #:# amz-B#N#GBVR#: ('Connection aborted.', ConnectionRe": {
+  "primeiro": "2026-11-11T13:12:53.722153",
+  "ultimo": "2026-11-11T13:12:53.722153",
   "enviado": ""
  }
 }
