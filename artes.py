@@ -194,8 +194,11 @@ def capa_reel(linhas=("ACHADOS", "DO PAPA"), sub="Só marca boa, com desconto de
 
 
 def quadro_compartilhar() -> bytes:
-    """08/11 (CEO: alcance cai sem rodada de seguir): último quadro de todo Reels pede compartilhamento."""
-    return capa_reel(("MANDA PRA", "UM AMIGO"), "Quem tá precisando disso?")
+    """Último quadro de todo Reels.
+    08/11: pedia compartilhamento ("MANDA PRA UM AMIGO") → 3 dias sem efeito (Reels com alcance 0–3).
+    11/11 (CEO): troca por pedido de SEGUIR — o gargalo é visita/visualização que não vira seguidor
+    (141 visitas, +3 seguidores em 10/11). Veredito 14/11: seguidores ≥ +12/dia."""
+    return capa_reel(("SEGUE O", "PAPA"), "Garimpo novo todo dia · link na bio")
 
 
 def story_convite() -> bytes:
