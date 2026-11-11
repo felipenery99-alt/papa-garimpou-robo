@@ -919,7 +919,13 @@
   "2026-11-10 marcas 20:10 amz-B0GWFCG1BS",
   "2026-11-10 achadinhos 20:17 amz-B0D8RH7VXW",
   "2026-11-10 tech 20:25 amz-B0DHL911FJ",
-  "2026-11-10 achadinhos 20:32 amz-B08NVML21R"
+  "2026-11-10 achadinhos 20:32 amz-B08NVML21R",
+  "2026-11-10 achadinhos 20:39 amz-B0FRNLGZR8",
+  "2026-11-10 achadinhos 20:44 amz-B07XZGH2SH",
+  "2026-11-10 tech 20:50 amz-B09B8VGCR8",
+  "2026-11-10 achadinhos 20:58 amz-B0GS755NZ9",
+  "2026-11-10 tech 21:04 amz-B0DJ1QNM1R",
+  "2026-11-10 achadinhos 21:12 amz-B0GJ7CSCD7"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -1806,7 +1812,13 @@
   "amz-B0GWFCG1BS": "2026-11-10T20:10:28.177867-03:00",
   "amz-B0D8RH7VXW": "2026-11-10T20:17:30.238655-03:00",
   "amz-B0DHL911FJ": "2026-11-10T20:25:05.279737-03:00",
-  "amz-B08NVML21R": "2026-11-10T20:32:41.233833-03:00"
+  "amz-B08NVML21R": "2026-11-10T20:32:41.233833-03:00",
+  "amz-B0FRNLGZR8": "2026-11-10T20:39:33.793229-03:00",
+  "amz-B07XZGH2SH": "2026-11-10T20:44:01.436797-03:00",
+  "amz-B09B8VGCR8": "2026-11-10T20:50:09.883533-03:00",
+  "amz-B0GS755NZ9": "2026-11-10T20:58:12.250448-03:00",
+  "amz-B0DJ1QNM1R": "2026-11-10T21:04:22.771874-03:00",
+  "amz-B0GJ7CSCD7": "2026-11-10T21:12:18.130086-03:00"
  },
  "ofertas_dia": [
   {
@@ -10412,6 +10424,98 @@
    "valida_ate": "2026-11-11T22:00:00-03:00",
    "entrou": "2026-11-10T19:00:57.608548-03:00",
    "dia": "2026-11-10"
+  },
+  {
+   "id": "amz-B0FRNLGZR8",
+   "canal": "achadinhos",
+   "nome": "Escova Elétrica Philips Colgate SonicPro 20",
+   "preco_antigo": 301.0,
+   "preco": 142.45,
+   "desconto": 53,
+   "link": "https://www.amazon.com.br/dp/B0FRNLGZR8?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61c-GTj-aSL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-11T22:00:00-03:00",
+   "entrou": "2026-11-10T19:00:57.608548-03:00",
+   "dia": "2026-11-10"
+  },
+  {
+   "id": "amz-B07XZGH2SH",
+   "canal": "achadinhos",
+   "nome": "Oral-B Refil Escova Elétrica Pro Series Sensitive",
+   "preco_antigo": 57.69,
+   "preco": 35.14,
+   "desconto": 39,
+   "link": "https://www.amazon.com.br/dp/B07XZGH2SH?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61zByws0n2L._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-11T22:00:00-03:00",
+   "entrou": "2026-11-10T19:00:57.608548-03:00",
+   "dia": "2026-11-10"
+  },
+  {
+   "id": "amz-B09B8VGCR8",
+   "canal": "tech",
+   "nome": "Echo Dot Amazon com Alexa (smart speaker)",
+   "preco_antigo": 649.0,
+   "preco": 349.0,
+   "desconto": 46,
+   "link": "https://www.amazon.com.br/dp/B09B8VGCR8?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61evEYmxBZL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-11T22:00:00-03:00",
+   "gancho": "ALEXA PELA METADE DO PREÇO",
+   "entrou": "2026-11-10T19:00:57.608548-03:00",
+   "dia": "2026-11-10"
+  },
+  {
+   "id": "amz-B0GS755NZ9",
+   "canal": "achadinhos",
+   "nome": "Philips Walita Processador PowerChop 450W",
+   "preco_antigo": 239.9,
+   "preco": 144.18,
+   "desconto": 40,
+   "link": "https://www.amazon.com.br/dp/B0GS755NZ9?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61u6ERiuXKL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-11T22:00:00-03:00",
+   "entrou": "2026-11-10T19:00:57.608548-03:00",
+   "dia": "2026-11-10"
+  },
+  {
+   "id": "amz-B0DJ1QNM1R",
+   "canal": "tech",
+   "nome": "JBL PartyBox Club 120 Caixa de Som Bluetooth 160W",
+   "preco_antigo": 2699.0,
+   "preco": 1529.11,
+   "desconto": 43,
+   "link": "https://www.amazon.com.br/dp/B0DJ1QNM1R?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71RAH-YUFkL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-11T22:00:00-03:00",
+   "entrou": "2026-11-10T19:00:57.608548-03:00",
+   "dia": "2026-11-10"
+  },
+  {
+   "id": "amz-B0GJ7CSCD7",
+   "canal": "achadinhos",
+   "nome": "Philco Air Fryer Oven 15L Redstone 10 Funções 127V",
+   "preco_antigo": 699.9,
+   "preco": 436.9,
+   "desconto": 38,
+   "link": "https://www.amazon.com.br/dp/B0GJ7CSCD7?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61AMnZD50XL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-11T22:00:00-03:00",
+   "gancho": "AIR FRYER FORNO COM 38% OFF",
+   "entrou": "2026-11-10T19:00:57.608548-03:00",
+   "dia": "2026-11-10"
   }
  ],
  "ig_feitos": [
@@ -10574,10 +10678,11 @@
   "2026-11-10 19:17 story_oferta",
   "2026-11-10 20:03 story_oferta",
   "2026-11-10 feed",
-  "2026-11-10 20:30 reels"
+  "2026-11-10 20:30 reels",
+  "2026-11-10 20:35 story_top4",
+  "2026-11-10 20:38 story_oferta"
  ],
  "ig_ofertas_usadas": [
-  "amz-B0849PNJF5",
   "amz-B09ZHCLVXF",
   "shopee-27481488690",
   "amz-B0FFTRRFBT",
@@ -10776,7 +10881,8 @@
   "amz-B0F3ZNTJ3W",
   "shopee-58210668407",
   "amz-B09KYHYKXL",
-  "amz-B0CJTF8Y69"
+  "amz-B0CJTF8Y69",
+  "amz-B0GPY3VQKX"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
@@ -10842,63 +10948,6 @@
  },
  "ultimo_pilar": "dica",
  "fila": [
-  {
-   "id": "amz-B0FRNLGZR8",
-   "canal": "achadinhos",
-   "nome": "Escova Elétrica Philips Colgate SonicPro 20",
-   "preco_antigo": 301.0,
-   "preco": 142.45,
-   "desconto": 53,
-   "link": "https://www.amazon.com.br/dp/B0FRNLGZR8?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61c-GTj-aSL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-11T22:00:00-03:00",
-   "entrou": "2026-11-10T19:00:57.608548-03:00"
-  },
-  {
-   "id": "amz-B07XZGH2SH",
-   "canal": "achadinhos",
-   "nome": "Oral-B Refil Escova Elétrica Pro Series Sensitive",
-   "preco_antigo": 57.69,
-   "preco": 35.14,
-   "desconto": 39,
-   "link": "https://www.amazon.com.br/dp/B07XZGH2SH?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61zByws0n2L._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-11T22:00:00-03:00",
-   "entrou": "2026-11-10T19:00:57.608548-03:00"
-  },
-  {
-   "id": "amz-B0GS755NZ9",
-   "canal": "achadinhos",
-   "nome": "Philips Walita Processador PowerChop 450W",
-   "preco_antigo": 239.9,
-   "preco": 144.18,
-   "desconto": 40,
-   "link": "https://www.amazon.com.br/dp/B0GS755NZ9?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61u6ERiuXKL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-11T22:00:00-03:00",
-   "entrou": "2026-11-10T19:00:57.608548-03:00"
-  },
-  {
-   "id": "amz-B0GJ7CSCD7",
-   "canal": "achadinhos",
-   "nome": "Philco Air Fryer Oven 15L Redstone 10 Funções 127V",
-   "preco_antigo": 699.9,
-   "preco": 436.9,
-   "desconto": 38,
-   "link": "https://www.amazon.com.br/dp/B0GJ7CSCD7?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61AMnZD50XL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-11T22:00:00-03:00",
-   "gancho": "AIR FRYER FORNO COM 38% OFF",
-   "entrou": "2026-11-10T19:00:57.608548-03:00"
-  },
   {
    "id": "amz-B01643M5KY",
    "canal": "achadinhos",
@@ -10978,35 +11027,6 @@
    "desconto": 39,
    "link": "https://www.amazon.com.br/dp/B09SN5W3MQ?tag=papagarimpou-20",
    "imagem": "https://m.media-amazon.com/images/I/71dG6tL6-LL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-11T22:00:00-03:00",
-   "entrou": "2026-11-10T19:00:57.608548-03:00"
-  },
-  {
-   "id": "amz-B09B8VGCR8",
-   "canal": "tech",
-   "nome": "Echo Dot Amazon com Alexa (smart speaker)",
-   "preco_antigo": 649.0,
-   "preco": 349.0,
-   "desconto": 46,
-   "link": "https://www.amazon.com.br/dp/B09B8VGCR8?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61evEYmxBZL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-11T22:00:00-03:00",
-   "gancho": "ALEXA PELA METADE DO PREÇO",
-   "entrou": "2026-11-10T19:00:57.608548-03:00"
-  },
-  {
-   "id": "amz-B0DJ1QNM1R",
-   "canal": "tech",
-   "nome": "JBL PartyBox Club 120 Caixa de Som Bluetooth 160W",
-   "preco_antigo": 2699.0,
-   "preco": 1529.11,
-   "desconto": 43,
-   "link": "https://www.amazon.com.br/dp/B0DJ1QNM1R?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/71RAH-YUFkL._AC_SL1500_.jpg",
    "loja": "Vendido e entregue pela Amazon",
    "plataforma": "Amazon",
    "valida_ate": "2026-11-11T22:00:00-03:00",
@@ -11766,7 +11786,13 @@
   "stanleygarrafatermicatwistflip354mlrosequartz": "2026-11-10T20:10:28.177867-03:00",
   "mondiallavadoradealtapressaoaquapowerii": "2026-11-10T20:17:30.238655-03:00",
   "fonejblwavebeam2semfio": "2026-11-10T20:25:05.279737-03:00",
-  "protetorsolarfacialneutrogenasunfreshfps7040g": "2026-11-10T20:32:41.233833-03:00"
+  "protetorsolarfacialneutrogenasunfreshfps7040g": "2026-11-10T20:32:41.233833-03:00",
+  "escovaeletricaphilipscolgatesonicpro20": "2026-11-10T20:39:33.793229-03:00",
+  "oralbrefilescovaeletricaproseriessensitive": "2026-11-10T20:44:01.436797-03:00",
+  "echodotamazoncomalexasmartspeaker": "2026-11-10T20:50:09.883533-03:00",
+  "philipswalitaprocessadorpowerchop450w": "2026-11-10T20:58:12.250448-03:00",
+  "jblpartyboxclub120caixadesombluetooth160w": "2026-11-10T21:04:22.771874-03:00",
+  "philcoairfryeroven15lredstone10funcoes127v": "2026-11-10T21:12:18.130086-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
@@ -12074,14 +12100,14 @@
   "2026-11-09 tarde tech",
   "2026-11-09 noite tech"
  ],
- "reserva_meio": "2026-11-10T20:17:29.870520-03:00",
+ "reserva_meio": "2026-11-10T20:57:34.667559-03:00",
  "reserva_cheia": {
   "achadinhos": "2026-11-09T18:09:55.295113-03:00",
   "tech": "2026-11-09T18:09:55.295113-03:00",
-  "marcas": "2026-11-09T17:54:45.499184-03:00"
+  "marcas": "2026-11-10T20:41:38.234516-03:00"
  },
  "top10_dia": "2026-11-07",
- "manuais_lidos": "2026-11-10T20:31:48.277550-03:00",
+ "manuais_lidos": "2026-11-10T21:04:22.424685-03:00",
  "reserva_resultado": {
   "2026-11-07": {
    "achadinhos": {
@@ -12189,7 +12215,7 @@
    "hora": "2026-11-10T20:31:48.277550-03:00"
   }
  },
- "ig_respondido_em": "2026-11-10T20:31:48.277550-03:00",
+ "ig_respondido_em": "2026-11-10T21:12:12.821446-03:00",
  "dm_auto": {
   "2026-11-08": {
    "com_palavra": 0,
