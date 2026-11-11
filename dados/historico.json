@@ -1024,7 +1024,13 @@
   "2026-11-11 tech 19:21 amz-B0CP6BZHK3",
   "2026-11-11 achadinhos 19:28 amz-B0CW26HSKM",
   "2026-11-11 marcas 19:35 amz-B0C1CQHQGG",
-  "2026-11-11 tech 19:41 amz-B0FLFWP47Z"
+  "2026-11-11 tech 19:41 amz-B0FLFWP47Z",
+  "2026-11-11 achadinhos 19:47 amz-B0C63XQXLZ",
+  "2026-11-11 marcas 19:55 amz-B0DG9XBH2W",
+  "2026-11-11 tech 20:02 amz-B0GTRPYH9M",
+  "2026-11-11 achadinhos 20:10 amz-B09VYBFFKF",
+  "2026-11-11 marcas 20:16 amz-B0H91SW8FW",
+  "2026-11-11 tech 20:24 amz-B0FYQ5TQDL"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -2014,7 +2020,13 @@
   "amz-B0CP6BZHK3": "2026-11-11T19:21:15.789912-03:00",
   "amz-B0CW26HSKM": "2026-11-11T19:28:23.241361-03:00",
   "amz-B0C1CQHQGG": "2026-11-11T19:35:28.334276-03:00",
-  "amz-B0FLFWP47Z": "2026-11-11T19:41:45.042213-03:00"
+  "amz-B0FLFWP47Z": "2026-11-11T19:41:45.042213-03:00",
+  "amz-B0C63XQXLZ": "2026-11-11T19:47:53.094828-03:00",
+  "amz-B0DG9XBH2W": "2026-11-11T19:55:53.661595-03:00",
+  "amz-B0GTRPYH9M": "2026-11-11T20:02:36.234702-03:00",
+  "amz-B09VYBFFKF": "2026-11-11T20:10:28.083984-03:00",
+  "amz-B0H91SW8FW": "2026-11-11T20:16:35.178374-03:00",
+  "amz-B0FYQ5TQDL": "2026-11-11T20:24:43.665861-03:00"
  },
  "ofertas_dia": [
   {
@@ -12251,6 +12263,100 @@
    "valida_ate": "2026-11-12T22:00:00-03:00",
    "entrou": "2026-11-11T18:55:47.916885-03:00",
    "dia": "2026-11-11"
+  },
+  {
+   "id": "amz-B0C63XQXLZ",
+   "canal": "achadinhos",
+   "nome": "Mondial Prancha Alisadora By Juliette",
+   "preco_antigo": 229.9,
+   "preco": 123.4,
+   "desconto": 46,
+   "link": "https://www.amazon.com.br/dp/B0C63XQXLZ?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/411FLGI4fRL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-12T22:00:00-03:00",
+   "gancho": "PRANCHA MONDIAL COM 46% OFF",
+   "entrou": "2026-11-11T18:19:57.721704-03:00",
+   "dia": "2026-11-11"
+  },
+  {
+   "id": "amz-B0DG9XBH2W",
+   "canal": "marcas",
+   "nome": "Tênis Fila Renno Classic Feminino",
+   "preco_antigo": 349.99,
+   "preco": 188.99,
+   "desconto": 46,
+   "link": "https://www.amazon.com.br/dp/B0DG9XBH2W?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/510TvswyBWL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-12T22:00:00-03:00",
+   "gancho": "FILA RENNO COM 46% OFF",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "entrou": "2026-11-11T18:19:57.721704-03:00",
+   "dia": "2026-11-11"
+  },
+  {
+   "id": "amz-B0GTRPYH9M",
+   "canal": "tech",
+   "nome": "Apple iPhone 17e 512GB Branco",
+   "preco_antigo": 7299.0,
+   "preco": 5130.17,
+   "desconto": 30,
+   "link": "https://www.amazon.com.br/dp/B0GTRPYH9M?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/41Qt5voMacL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-12T22:00:00-03:00",
+   "entrou": "2026-11-11T18:55:47.916885-03:00",
+   "dia": "2026-11-11"
+  },
+  {
+   "id": "amz-B09VYBFFKF",
+   "canal": "achadinhos",
+   "nome": "Tramontina Panela de Pressão Brava Aço Inox",
+   "preco_antigo": 852.75,
+   "preco": 448.38,
+   "desconto": 47,
+   "link": "https://www.amazon.com.br/dp/B09VYBFFKF?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/41GDBy02k2L._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-12T22:00:00-03:00",
+   "gancho": "PRESSÃO INOX TRAMONTINA COM 47% OFF",
+   "entrou": "2026-11-11T18:19:57.721704-03:00",
+   "dia": "2026-11-11"
+  },
+  {
+   "id": "amz-B0H91SW8FW",
+   "canal": "marcas",
+   "nome": "Creatina Monohidratada Growth Supplements 250g",
+   "preco_antigo": 42.9,
+   "preco": 29.61,
+   "desconto": 31,
+   "link": "https://www.amazon.com.br/dp/B0H91SW8FW?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61cmPzYpYpL._AC_SL1200_.jpg",
+   "loja": "Loja oficial Growth · entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-12T22:00:00-03:00",
+   "entrou": "2026-11-11T18:55:47.916885-03:00",
+   "dia": "2026-11-11"
+  },
+  {
+   "id": "amz-B0FYQ5TQDL",
+   "canal": "tech",
+   "nome": "Monitor Gamer LG UltraGear 24\" IPS 144Hz 1ms Full HD",
+   "preco_antigo": 699.0,
+   "preco": 492.15,
+   "desconto": 30,
+   "link": "https://www.amazon.com.br/dp/B0FYQ5TQDL?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61zs21oOksL._AC_SL1200_.jpg",
+   "loja": "Vendido por parceiro · entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-12T22:00:00-03:00",
+   "entrou": "2026-11-11T18:55:47.916885-03:00",
+   "dia": "2026-11-11"
   }
  ],
  "ig_feitos": [
@@ -12407,10 +12513,10 @@
   "2026-11-11 18:42 story_oferta",
   "2026-11-11 feed",
   "2026-11-11 19:15 post_achado",
-  "2026-11-11 19:17 story_oferta"
+  "2026-11-11 19:17 story_oferta",
+  "2026-11-11 20:03 story_oferta"
  ],
  "ig_ofertas_usadas": [
-  "amz-B0CH3YNWVK",
   "amz-B0756L7P4X",
   "amz-B0GHZ991LG",
   "amz-B09KMW2N9Z",
@@ -12609,7 +12715,8 @@
   "amz-B0H4W3JRWX",
   "amz-B0FJT5N7WF",
   "shopee-58209674409",
-  "amz-B0BTHPZ9J4"
+  "amz-B0BTHPZ9J4",
+  "amz-B0CT5WQHH4"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
@@ -12676,36 +12783,6 @@
  "ultimo_pilar": "dica",
  "fila": [
   {
-   "id": "amz-B0C63XQXLZ",
-   "canal": "achadinhos",
-   "nome": "Mondial Prancha Alisadora By Juliette",
-   "preco_antigo": 229.9,
-   "preco": 123.4,
-   "desconto": 46,
-   "link": "https://www.amazon.com.br/dp/B0C63XQXLZ?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/411FLGI4fRL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-12T22:00:00-03:00",
-   "gancho": "PRANCHA MONDIAL COM 46% OFF",
-   "entrou": "2026-11-11T18:19:57.721704-03:00"
-  },
-  {
-   "id": "amz-B09VYBFFKF",
-   "canal": "achadinhos",
-   "nome": "Tramontina Panela de Pressão Brava Aço Inox",
-   "preco_antigo": 852.75,
-   "preco": 448.38,
-   "desconto": 47,
-   "link": "https://www.amazon.com.br/dp/B09VYBFFKF?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/41GDBy02k2L._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-12T22:00:00-03:00",
-   "gancho": "PRESSÃO INOX TRAMONTINA COM 47% OFF",
-   "entrou": "2026-11-11T18:19:57.721704-03:00"
-  },
-  {
    "id": "amz-B076MC45HR",
    "canal": "achadinhos",
    "nome": "Tramontina Kit Ferramentas 11 Peças",
@@ -12763,22 +12840,6 @@
    "plataforma": "Amazon",
    "valida_ate": "2026-11-12T22:00:00-03:00",
    "gancho": "VENTILADOR 2 EM 1 COM 40% OFF",
-   "entrou": "2026-11-11T18:19:57.721704-03:00"
-  },
-  {
-   "id": "amz-B0DG9XBH2W",
-   "canal": "marcas",
-   "nome": "Tênis Fila Renno Classic Feminino",
-   "preco_antigo": 349.99,
-   "preco": 188.99,
-   "desconto": 46,
-   "link": "https://www.amazon.com.br/dp/B0DG9XBH2W?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/510TvswyBWL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-12T22:00:00-03:00",
-   "gancho": "FILA RENNO COM 46% OFF",
-   "extra": "Preço a partir de: varia por tamanho e cor",
    "entrou": "2026-11-11T18:19:57.721704-03:00"
   },
   {
@@ -12884,20 +12945,6 @@
    "entrou": "2026-11-11T18:55:47.916885-03:00"
   },
   {
-   "id": "amz-B0H91SW8FW",
-   "canal": "marcas",
-   "nome": "Creatina Monohidratada Growth Supplements 250g",
-   "preco_antigo": 42.9,
-   "preco": 29.61,
-   "desconto": 31,
-   "link": "https://www.amazon.com.br/dp/B0H91SW8FW?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61cmPzYpYpL._AC_SL1200_.jpg",
-   "loja": "Loja oficial Growth · entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-12T22:00:00-03:00",
-   "entrou": "2026-11-11T18:55:47.916885-03:00"
-  },
-  {
    "id": "amz-B0DXN35GR8",
    "canal": "marcas",
    "nome": "Garrafa Térmica Stanley Aerolight Flip Straw 473ml Rose Quartz",
@@ -12980,34 +13027,6 @@
    "link": "https://www.amazon.com.br/dp/B0GZX5BR6D?tag=papagarimpou-20",
    "imagem": "https://m.media-amazon.com/images/I/810r-B1lg2L._AC_SL1500_.jpg",
    "loja": "Loja oficial Integralmédica",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-12T22:00:00-03:00",
-   "entrou": "2026-11-11T18:55:47.916885-03:00"
-  },
-  {
-   "id": "amz-B0GTRPYH9M",
-   "canal": "tech",
-   "nome": "Apple iPhone 17e 512GB Branco",
-   "preco_antigo": 7299.0,
-   "preco": 5130.17,
-   "desconto": 30,
-   "link": "https://www.amazon.com.br/dp/B0GTRPYH9M?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/41Qt5voMacL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-12T22:00:00-03:00",
-   "entrou": "2026-11-11T18:55:47.916885-03:00"
-  },
-  {
-   "id": "amz-B0FYQ5TQDL",
-   "canal": "tech",
-   "nome": "Monitor Gamer LG UltraGear 24\" IPS 144Hz 1ms Full HD",
-   "preco_antigo": 699.0,
-   "preco": 492.15,
-   "desconto": 30,
-   "link": "https://www.amazon.com.br/dp/B0FYQ5TQDL?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61zs21oOksL._AC_SL1200_.jpg",
-   "loja": "Vendido por parceiro · entregue pela Amazon",
    "plataforma": "Amazon",
    "valida_ate": "2026-11-12T22:00:00-03:00",
    "entrou": "2026-11-11T18:55:47.916885-03:00"
@@ -13910,7 +13929,13 @@
   "appleiphone15256gbazul": "2026-11-11T19:21:15.789912-03:00",
   "kitlorealprofessionnelabsolutrepairshampoomascara": "2026-11-11T19:28:23.241361-03:00",
   "integralmedicawheycrispbarduocrunch12unidades": "2026-11-11T19:35:28.334276-03:00",
-  "combotecladoemousesemfiologitechmk250abnt2": "2026-11-11T19:41:45.042213-03:00"
+  "combotecladoemousesemfiologitechmk250abnt2": "2026-11-11T19:41:45.042213-03:00",
+  "mondialpranchaalisadorabyjuliette": "2026-11-11T19:47:53.094828-03:00",
+  "tenisfilarennoclassicfeminino": "2026-11-11T19:55:53.661595-03:00",
+  "appleiphone17e512gbbranco": "2026-11-11T20:02:36.234702-03:00",
+  "tramontinapaneladepressaobravaacoinox": "2026-11-11T20:10:28.083984-03:00",
+  "creatinamonohidratadagrowthsupplements250g": "2026-11-11T20:16:35.178374-03:00",
+  "monitorgamerlgultragear24ips144hz1msfullhd": "2026-11-11T20:24:43.665861-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
@@ -14239,7 +14264,7 @@
   "marcas": "2026-11-11T12:51:21.081776-03:00"
  },
  "top10_dia": "2026-11-07",
- "manuais_lidos": "2026-11-11T19:35:21.965171-03:00",
+ "manuais_lidos": "2026-11-11T20:16:34.880962-03:00",
  "reserva_resultado": {
   "2026-11-07": {
    "achadinhos": {
@@ -14372,7 +14397,7 @@
    "hora": "2026-11-11T18:33:19.037746-03:00"
   }
  },
- "ig_respondido_em": "2026-11-11T19:35:21.965171-03:00",
+ "ig_respondido_em": "2026-11-11T20:24:34.844968-03:00",
  "dm_auto": {
   "2026-11-08": {
    "com_palavra": 0,

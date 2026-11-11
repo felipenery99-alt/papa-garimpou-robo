@@ -2039,17 +2039,17 @@
    "⚠️ Garimpo parado desde 08:56 — abrir o app Claude e conferir as rotinas\nPouca oferta na fila: marcas 2.",
    "⚠️ Garimpo parado desde 13:52 — abrir o app Claude e conferir as rotinas\nPouca oferta na fila: tech 2."
   ],
-  "ultima_execucao": "19:02",
-  "execucoes": 15,
+  "ultima_execucao": "19:42",
+  "execucoes": 16,
   "telegram_posts": {
-   "achadinhos": 35,
-   "marcas": 29,
-   "tech": 29
+   "achadinhos": 37,
+   "marcas": 31,
+   "tech": 31
   },
   "ultimo_post": {
-   "achadinhos": "19:28",
-   "marcas": "19:35",
-   "tech": "19:41"
+   "achadinhos": "20:10",
+   "marcas": "20:16",
+   "tech": "20:24"
   },
   "meta_token": {
    "tipo": "SYSTEM_USER",
@@ -2106,7 +2106,8 @@
    "18:42 story_oferta",
    "feed",
    "19:15 post_achado",
-   "19:17 story_oferta"
+   "19:17 story_oferta",
+   "20:03 story_oferta"
   ],
   "shopee_ligada": true,
   "dm_auto": {
@@ -4441,7 +4442,7 @@
    "shopee-23204913091": "aprovada",
    "shopee-58266090290": "desconto perto (até 10 pts)",
    "shopee-23494511696": "vendas perto (125+)",
-   "shopee-22394417240": "vendas longe",
+   "shopee-22394417240": "vendas perto (125+)",
    "shopee-19161663389": "vendas perto (125+)",
    "shopee-22394417163": "vendas longe",
    "shopee-23194395728": "vendas longe",
@@ -4584,7 +4585,7 @@
    "shopee-48864679084": "vendas longe",
    "shopee-58256180772": "vendas longe",
    "shopee-58265912600": "vendas longe",
-   "shopee-19299842169": "vendas perto (125+)",
+   "shopee-19299842169": "vendas longe",
    "shopee-23793666899": "vendas longe",
    "shopee-22798413639": "vendas longe",
    "shopee-49507610530": "vendas perto (125+)",
@@ -5086,11 +5087,43 @@
    "shopee-55506694331": "vendas longe",
    "shopee-58269438434": "vendas longe",
    "shopee-43434847811": "vendas longe",
-   "shopee-58266542228": "vendas longe"
+   "shopee-58266542228": "vendas longe",
+   "shopee-58216528030": "vendas longe",
+   "shopee-58267187035": "nota",
+   "shopee-23694348203": "vendas longe",
+   "shopee-48969573508": "nota",
+   "shopee-58266162044": "vendas longe",
+   "shopee-58266157149": "nota",
+   "shopee-58272656889": "nota",
+   "shopee-58272518564": "nota",
+   "shopee-58272409204": "nota",
+   "shopee-58271970134": "nota",
+   "shopee-58271966967": "nota",
+   "shopee-58271966782": "nota",
+   "shopee-58271452511": "nota",
+   "shopee-58222111406": "nota",
+   "shopee-58221947247": "nota",
+   "shopee-58221939341": "nota",
+   "shopee-58220452356": "nota",
+   "shopee-58220452329": "nota",
+   "shopee-58271971634": "nota",
+   "shopee-58221946935": "nota",
+   "shopee-58252785294": "vendas longe",
+   "shopee-58252779927": "vendas longe",
+   "shopee-23299256301": "vendas longe",
+   "shopee-22394273619": "vendas longe",
+   "shopee-22198784582": "vendas longe",
+   "shopee-58265242924": "nota",
+   "shopee-58206579454": "nota",
+   "shopee-22095065708": "nota",
+   "shopee-58271661354": "nota",
+   "shopee-58263408069": "nota",
+   "shopee-50456237761": "vendas longe",
+   "shopee-20398028658": "vendas longe"
   },
   "shopee_oficial": {
-   "vendas longe": 1452,
-   "nota": 1128,
+   "vendas longe": 1462,
+   "nota": 1150,
    "vendas perto (125+)": 106,
    "outro: marca fora da lista boa": 86,
    "aprovada": 80,
@@ -5099,15 +5132,15 @@
    "outro: palavra proibida: compatível": 8
   },
   "instagram": {
-   "seguidores": 418,
+   "seguidores": 419,
    "posts": 117,
-   "reach": 2046,
-   "profile_views": 118,
+   "reach": 2161,
+   "profile_views": 119,
    "website_clicks": 0,
    "stories_ativos": 25
   },
   "reels_alcance": {
-   "atualizado": "2026-11-11T19:02:39.898358-03:00",
+   "atualizado": "2026-11-11T19:42:17.505921-03:00",
    "itens": [
     {
      "id": "18415564270089365",
@@ -5149,8 +5182,8 @@
      "id": "18473011252140741",
      "hora": "10/11 12:06",
      "capa": "ate_off",
-     "reach": 3,
-     "views": 2,
+     "reach": 4,
+     "views": 3,
      "shares": 0,
      "saved": 0
     },
@@ -5167,8 +5200,8 @@
      "id": "17914478403489685",
      "hora": "09/11 18:34",
      "capa": "uma_oferta",
-     "reach": 4,
-     "views": 5,
+     "reach": 5,
+     "views": 6,
      "shares": 0,
      "saved": 0
     },
