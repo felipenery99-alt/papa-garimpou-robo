@@ -8,7 +8,7 @@ import json
 import os
 import subprocess
 import time
-from datetime import datetime
+from datetime import datetime, timedelta
 from pathlib import Path
 
 import requests
@@ -112,6 +112,42 @@ def _esperar_raw(url: str, nome: str) -> None:
             pass
         time.sleep(5)
     raise RuntimeError(f"mídia {nome} não ficou disponível no GitHub em 60 s")
+
+
+RAMO_TIKTOK = "tiktok-midia"
+TIKTOK_DIAS = 3
+
+
+def hospedar_tiktok(nome: str, conteudo: bytes) -> str:
+    """11/11 (PG · TikTok: as cópias sumiam no midia-temp antes do PC baixar): vídeo do TikTok num ramo próprio
+    que guarda só os últimos TIKTOK_DIAS dias. Cada gravação refaz o ramo com um commit sem passado (só os
+    arquivos que ficam + o novo), então o histórico do git não incha com vídeo velho.
+    Nome começa com AAAAMMDD; é por ele que a poda decide."""
+    import base64
+    if not (os.environ.get("GITHUB_ACTIONS") and os.environ.get("GITHUB_TOKEN")):
+        return hospedar(nome, conteudo)
+    limite = (datetime.now() - timedelta(days=TIKTOK_DIAS)).strftime("%Y%m%d")
+    blob = _gh("POST", "/git/blobs", json={"content": base64.b64encode(conteudo).decode(), "encoding": "base64"})["sha"]
+    itens = []
+    try:
+        ponta = _gh("GET", f"/git/ref/heads/{RAMO_TIKTOK}")["object"]["sha"]
+        arvore = _gh("GET", f"/git/commits/{ponta}")["tree"]["sha"]
+        for i in _gh("GET", f"/git/trees/{arvore}").get("tree", []):
+            if i["type"] == "blob" and i["path"] != nome and (i["path"][:8] >= limite or not i["path"][:8].isdigit()):
+                itens.append({"path": i["path"], "mode": i["mode"], "type": "blob", "sha": i["sha"]})
+        existe = True
+    except RuntimeError:
+        existe = False
+    itens.append({"path": nome, "mode": "100644", "type": "blob", "sha": blob})
+    arvore = _gh("POST", "/git/trees", json={"tree": itens})["sha"]
+    commit = _gh("POST", "/git/commits", json={"message": f"tiktok {nome}", "tree": arvore, "parents": []})["sha"]
+    if existe:
+        _gh("PATCH", f"/git/refs/heads/{RAMO_TIKTOK}", json={"sha": commit, "force": True})
+    else:
+        _gh("POST", "/git/refs", json={"ref": f"refs/heads/{RAMO_TIKTOK}", "sha": commit})
+    url = f"https://raw.githubusercontent.com/{os.environ.get('GITHUB_REPOSITORY', '')}/{RAMO_TIKTOK}/{nome}"
+    _esperar_raw(url, nome)
+    return url
 
 
 def hospedar(nome: str, conteudo: bytes, permanente: bool = False) -> str:

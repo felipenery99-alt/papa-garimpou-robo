@@ -861,7 +861,8 @@ def soltar_fila(h: dict, telegram, limite: datetime, atraso: bool = True) -> int
 # vira cópia para o TikTok — o mesmo vídeo 9:16 (feito aqui, sem marca de outra rede) e legenda curta com
 # "link no perfil" (TikTok não tem link clicável na legenda). O vídeo fica no ramo de mídia do dia; o PC baixa
 # com baixar_tiktok.py para posts\tiktok\AAAAMMDD e a PG · Instagram publica pelo Chrome M.
-TIKTOK_FECHO = "\n\nLink no perfil: ofertas todo dia no Telegram do Papa 💎\n\nPubli · link de afiliado"
+# 11/11 (PG · TikTok): a bio do TikTok não tem link → fecho com o @ do Telegram para buscar
+TIKTOK_FECHO = "\n\nOfertas todo dia no Telegram: papagarimpouofertas 💎\n\nPubli · link de afiliado"
 
 
 def legenda_tiktok(leg: str) -> str:
@@ -877,7 +878,7 @@ def guardar_tiktok(h: dict, agora: datetime, mp4: bytes, leg: str, capa: str) ->
     hoje = agora.date().isoformat()
     item = {"hora": f"{agora:%H:%M}", "capa": capa, "legenda": legenda_tiktok(leg)}
     try:
-        item["url"] = instagram.hospedar(f"{agora:%Y%m%d-%H%M}-tiktok.mp4", mp4)
+        item["url"] = instagram.hospedar_tiktok(f"{agora:%Y%m%d-%H%M}-tiktok.mp4", mp4)
     except Exception as e:
         item["erro"] = str(e)[:200]
         print(f"[tiktok] cópia do vídeo falhou: {e}")

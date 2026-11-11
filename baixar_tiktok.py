@@ -1,6 +1,6 @@
 """09/11 (CEO): baixa as cópias de TikTok dos Reels do dia para PAPA-GARIMPOU\\posts\\tiktok\\AAAAMMDD.
 Roda no PC (PG · Instagram, antes de postar pelo Chrome M): python -I baixar_tiktok.py [AAAA-MM-DD]
-O vídeo fica no ramo de mídia do dia no GitHub, que é recriado todo dia: baixar no mesmo dia."""
+O vídeo fica 3 dias no ramo tiktok-midia do GitHub (11/11): baixar dentro desse prazo."""
 import json
 import subprocess
 import sys
@@ -35,7 +35,7 @@ def main() -> int:
             continue
         r = requests.get(i["url"], timeout=120)
         if r.status_code != 200:
-            print(f"{nome}: não baixou ({r.status_code}); o ramo de mídia pode já ter sido recriado")
+            print(f"{nome}: não baixou ({r.status_code}); vídeo com mais de 3 dias já foi podado")
             continue
         mp4.write_bytes(r.content)
         print(f"{mp4} ({len(r.content) // 1024} KB)")
