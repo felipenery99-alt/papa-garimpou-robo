@@ -1018,7 +1018,13 @@
   "2026-11-11 tech 18:40 amz-B00A0VCJPI",
   "2026-11-11 marcas 18:48 amz-B097WGFH37",
   "2026-11-11 marcas 18:55 amz-B0FFNFFSQ6",
-  "2026-11-11 tech 19:02 amz-B0DXR6MKR8"
+  "2026-11-11 tech 19:02 amz-B0DXR6MKR8",
+  "2026-11-11 achadinhos 19:07 amz-B08QDX99RL",
+  "2026-11-11 marcas 19:14 amz-B0FHXMHLH5",
+  "2026-11-11 tech 19:21 amz-B0CP6BZHK3",
+  "2026-11-11 achadinhos 19:28 amz-B0CW26HSKM",
+  "2026-11-11 marcas 19:35 amz-B0C1CQHQGG",
+  "2026-11-11 tech 19:41 amz-B0FLFWP47Z"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -2002,7 +2008,13 @@
   "amz-B00A0VCJPI": "2026-11-11T18:40:47.311307-03:00",
   "amz-B097WGFH37": "2026-11-11T18:48:51.017183-03:00",
   "amz-B0FFNFFSQ6": "2026-11-11T18:55:48.355466-03:00",
-  "amz-B0DXR6MKR8": "2026-11-11T19:02:07.002479-03:00"
+  "amz-B0DXR6MKR8": "2026-11-11T19:02:07.002479-03:00",
+  "amz-B08QDX99RL": "2026-11-11T19:07:49.634347-03:00",
+  "amz-B0FHXMHLH5": "2026-11-11T19:14:29.253582-03:00",
+  "amz-B0CP6BZHK3": "2026-11-11T19:21:15.789912-03:00",
+  "amz-B0CW26HSKM": "2026-11-11T19:28:23.241361-03:00",
+  "amz-B0C1CQHQGG": "2026-11-11T19:35:28.334276-03:00",
+  "amz-B0FLFWP47Z": "2026-11-11T19:41:45.042213-03:00"
  },
  "ofertas_dia": [
   {
@@ -12145,6 +12157,100 @@
    "gancho": "IPHONE 16E COM 47% OFF NA AMAZON",
    "entrou": "2026-11-11T18:55:47.916885-03:00",
    "dia": "2026-11-11"
+  },
+  {
+   "id": "amz-B08QDX99RL",
+   "canal": "achadinhos",
+   "nome": "Britânia Escova Modeladora BEC04 2 em 1 Bivolt",
+   "preco_antigo": 111.67,
+   "preco": 55.9,
+   "desconto": 50,
+   "link": "https://www.amazon.com.br/dp/B08QDX99RL?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/41gJ4ogoJJL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-12T22:00:00-03:00",
+   "gancho": "ESCOVA MODELADORA PELA METADE",
+   "entrou": "2026-11-11T18:19:57.721704-03:00",
+   "dia": "2026-11-11"
+  },
+  {
+   "id": "amz-B0FHXMHLH5",
+   "canal": "marcas",
+   "nome": "Stanley Copo Quencher Pistachio 1,18L",
+   "preco_antigo": 359.0,
+   "preco": 161.55,
+   "desconto": 55,
+   "link": "https://www.amazon.com.br/dp/B0FHXMHLH5?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/41gmVBBqC6L._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-12T22:00:00-03:00",
+   "gancho": "STANLEY PISTACHE COM 55% OFF",
+   "entrou": "2026-11-11T18:19:57.721704-03:00",
+   "dia": "2026-11-11"
+  },
+  {
+   "id": "amz-B0CP6BZHK3",
+   "canal": "tech",
+   "nome": "Apple iPhone 15 256GB Azul",
+   "preco_antigo": 6799.0,
+   "preco": 4219.0,
+   "desconto": 38,
+   "link": "https://www.amazon.com.br/dp/B0CP6BZHK3?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/41+jLq6yJKL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-12T22:00:00-03:00",
+   "entrou": "2026-11-11T18:55:47.916885-03:00",
+   "dia": "2026-11-11"
+  },
+  {
+   "id": "amz-B0CW26HSKM",
+   "canal": "achadinhos",
+   "nome": "Kit L'Oréal Professionnel Absolut Repair Shampoo + Máscara",
+   "preco_antigo": 331.8,
+   "preco": 205.69,
+   "desconto": 38,
+   "link": "https://www.amazon.com.br/dp/B0CW26HSKM?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71BaImNEt0L._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-12T22:00:00-03:00",
+   "gancho": "KIT ABSOLUT REPAIR COM 38% OFF",
+   "entrou": "2026-11-11T18:19:57.721704-03:00",
+   "dia": "2026-11-11"
+  },
+  {
+   "id": "amz-B0C1CQHQGG",
+   "canal": "marcas",
+   "nome": "Integralmedica Whey Crisp Bar Duo Crunch 12 unidades",
+   "preco_antigo": 145.44,
+   "preco": 86.31,
+   "desconto": 41,
+   "link": "https://www.amazon.com.br/dp/B0C1CQHQGG?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/81KLsXML7OL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-12T22:00:00-03:00",
+   "gancho": "WHEY BAR INTEGRALMEDICA COM 41% OFF",
+   "entrou": "2026-11-11T18:19:57.721704-03:00",
+   "dia": "2026-11-11"
+  },
+  {
+   "id": "amz-B0FLFWP47Z",
+   "canal": "tech",
+   "nome": "Combo Teclado e Mouse sem Fio Logitech MK250 ABNT2",
+   "preco_antigo": 169.9,
+   "preco": 107.92,
+   "desconto": 36,
+   "link": "https://www.amazon.com.br/dp/B0FLFWP47Z?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/618iLr2V14L._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-12T22:00:00-03:00",
+   "entrou": "2026-11-11T18:55:47.916885-03:00",
+   "dia": "2026-11-11"
   }
  ],
  "ig_feitos": [
@@ -12298,16 +12404,12 @@
   "2026-11-11 17:36 story_oferta",
   "2026-11-11 18:09 story_oferta",
   "2026-11-11 18:30 reels",
-  "2026-11-11 18:42 story_oferta"
+  "2026-11-11 18:42 story_oferta",
+  "2026-11-11 feed",
+  "2026-11-11 19:15 post_achado",
+  "2026-11-11 19:17 story_oferta"
  ],
  "ig_ofertas_usadas": [
-  "amz-B07VVMFGTP",
-  "amz-B0D44L7TFD",
-  "amz-B000RPLZAM",
-  "amz-B09TCD67Q3",
-  "amz-B0DZ3464ZM",
-  "amz-B000P20TAY",
-  "amz-B09J1TB35S",
   "amz-B0CH3YNWVK",
   "amz-B0756L7P4X",
   "amz-B0GHZ991LG",
@@ -12505,7 +12607,9 @@
   "shopee-54166806189",
   "amz-B09BJZ1PLS",
   "amz-B0H4W3JRWX",
-  "amz-B0FJT5N7WF"
+  "amz-B0FJT5N7WF",
+  "shopee-58209674409",
+  "amz-B0BTHPZ9J4"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
@@ -12571,36 +12675,6 @@
  },
  "ultimo_pilar": "dica",
  "fila": [
-  {
-   "id": "amz-B08QDX99RL",
-   "canal": "achadinhos",
-   "nome": "Britânia Escova Modeladora BEC04 2 em 1 Bivolt",
-   "preco_antigo": 111.67,
-   "preco": 55.9,
-   "desconto": 50,
-   "link": "https://www.amazon.com.br/dp/B08QDX99RL?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/41gJ4ogoJJL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-12T22:00:00-03:00",
-   "gancho": "ESCOVA MODELADORA PELA METADE",
-   "entrou": "2026-11-11T18:19:57.721704-03:00"
-  },
-  {
-   "id": "amz-B0CW26HSKM",
-   "canal": "achadinhos",
-   "nome": "Kit L'Oréal Professionnel Absolut Repair Shampoo + Máscara",
-   "preco_antigo": 331.8,
-   "preco": 205.69,
-   "desconto": 38,
-   "link": "https://www.amazon.com.br/dp/B0CW26HSKM?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/71BaImNEt0L._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-12T22:00:00-03:00",
-   "gancho": "KIT ABSOLUT REPAIR COM 38% OFF",
-   "entrou": "2026-11-11T18:19:57.721704-03:00"
-  },
   {
    "id": "amz-B0C63XQXLZ",
    "canal": "achadinhos",
@@ -12689,36 +12763,6 @@
    "plataforma": "Amazon",
    "valida_ate": "2026-11-12T22:00:00-03:00",
    "gancho": "VENTILADOR 2 EM 1 COM 40% OFF",
-   "entrou": "2026-11-11T18:19:57.721704-03:00"
-  },
-  {
-   "id": "amz-B0FHXMHLH5",
-   "canal": "marcas",
-   "nome": "Stanley Copo Quencher Pistachio 1,18L",
-   "preco_antigo": 359.0,
-   "preco": 161.55,
-   "desconto": 55,
-   "link": "https://www.amazon.com.br/dp/B0FHXMHLH5?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/41gmVBBqC6L._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-12T22:00:00-03:00",
-   "gancho": "STANLEY PISTACHE COM 55% OFF",
-   "entrou": "2026-11-11T18:19:57.721704-03:00"
-  },
-  {
-   "id": "amz-B0C1CQHQGG",
-   "canal": "marcas",
-   "nome": "Integralmedica Whey Crisp Bar Duo Crunch 12 unidades",
-   "preco_antigo": 145.44,
-   "preco": 86.31,
-   "desconto": 41,
-   "link": "https://www.amazon.com.br/dp/B0C1CQHQGG?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/81KLsXML7OL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-12T22:00:00-03:00",
-   "gancho": "WHEY BAR INTEGRALMEDICA COM 41% OFF",
    "entrou": "2026-11-11T18:19:57.721704-03:00"
   },
   {
@@ -12936,34 +12980,6 @@
    "link": "https://www.amazon.com.br/dp/B0GZX5BR6D?tag=papagarimpou-20",
    "imagem": "https://m.media-amazon.com/images/I/810r-B1lg2L._AC_SL1500_.jpg",
    "loja": "Loja oficial Integralmédica",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-12T22:00:00-03:00",
-   "entrou": "2026-11-11T18:55:47.916885-03:00"
-  },
-  {
-   "id": "amz-B0CP6BZHK3",
-   "canal": "tech",
-   "nome": "Apple iPhone 15 256GB Azul",
-   "preco_antigo": 6799.0,
-   "preco": 4219.0,
-   "desconto": 38,
-   "link": "https://www.amazon.com.br/dp/B0CP6BZHK3?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/41+jLq6yJKL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-12T22:00:00-03:00",
-   "entrou": "2026-11-11T18:55:47.916885-03:00"
-  },
-  {
-   "id": "amz-B0FLFWP47Z",
-   "canal": "tech",
-   "nome": "Combo Teclado e Mouse sem Fio Logitech MK250 ABNT2",
-   "preco_antigo": 169.9,
-   "preco": 107.92,
-   "desconto": 36,
-   "link": "https://www.amazon.com.br/dp/B0FLFWP47Z?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/618iLr2V14L._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
    "plataforma": "Amazon",
    "valida_ate": "2026-11-12T22:00:00-03:00",
    "entrou": "2026-11-11T18:55:47.916885-03:00"
@@ -13888,7 +13904,13 @@
   "tplinkrepetidorwifitlwa850re300mbps": "2026-11-11T18:40:47.311307-03:00",
   "camisetaheringfemininabasicagolav": "2026-11-11T18:48:51.017183-03:00",
   "camisaselecaoportugal2026pumaaway": "2026-11-11T18:55:48.355466-03:00",
-  "appleiphone16e128gbbranco": "2026-11-11T19:02:07.002479-03:00"
+  "appleiphone16e128gbbranco": "2026-11-11T19:02:07.002479-03:00",
+  "britaniaescovamodeladorabec042em1bivolt": "2026-11-11T19:07:49.634347-03:00",
+  "stanleycopoquencherpistachio118l": "2026-11-11T19:14:29.253582-03:00",
+  "appleiphone15256gbazul": "2026-11-11T19:21:15.789912-03:00",
+  "kitlorealprofessionnelabsolutrepairshampoomascara": "2026-11-11T19:28:23.241361-03:00",
+  "integralmedicawheycrispbarduocrunch12unidades": "2026-11-11T19:35:28.334276-03:00",
+  "combotecladoemousesemfiologitechmk250abnt2": "2026-11-11T19:41:45.042213-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
@@ -14176,7 +14198,7 @@
  "ig_dm_links": {},
  "story_link_dia": "2026-11-11",
  "pede_semana": "2026-46",
- "ultimo_garimpo": "2026-11-11T13:52:38-03:00",
+ "ultimo_garimpo": "2026-11-11T18:50:54-03:00",
  "vigia_aviso_post": "2026-11-09T18:27:03.734589-03:00",
  "vigia_aviso_garimpo": "2026-11-11T18:19:57.721704-03:00",
  "resumo_enviado": "2026-11-10",
@@ -14217,7 +14239,7 @@
   "marcas": "2026-11-11T12:51:21.081776-03:00"
  },
  "top10_dia": "2026-11-07",
- "manuais_lidos": "2026-11-11T18:55:47.916885-03:00",
+ "manuais_lidos": "2026-11-11T19:35:21.965171-03:00",
  "reserva_resultado": {
   "2026-11-07": {
    "achadinhos": {
@@ -14350,7 +14372,7 @@
    "hora": "2026-11-11T18:33:19.037746-03:00"
   }
  },
- "ig_respondido_em": "2026-11-11T19:02:04.152521-03:00",
+ "ig_respondido_em": "2026-11-11T19:35:21.965171-03:00",
  "dm_auto": {
   "2026-11-08": {
    "com_palavra": 0,

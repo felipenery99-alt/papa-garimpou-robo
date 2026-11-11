@@ -2039,17 +2039,17 @@
    "⚠️ Garimpo parado desde 08:56 — abrir o app Claude e conferir as rotinas\nPouca oferta na fila: marcas 2.",
    "⚠️ Garimpo parado desde 13:52 — abrir o app Claude e conferir as rotinas\nPouca oferta na fila: tech 2."
   ],
-  "ultima_execucao": "18:19",
-  "execucoes": 14,
+  "ultima_execucao": "19:02",
+  "execucoes": 15,
   "telegram_posts": {
-   "achadinhos": 33,
-   "marcas": 27,
-   "tech": 27
+   "achadinhos": 35,
+   "marcas": 29,
+   "tech": 29
   },
   "ultimo_post": {
-   "achadinhos": "18:19",
-   "marcas": "18:55",
-   "tech": "19:02"
+   "achadinhos": "19:28",
+   "marcas": "19:35",
+   "tech": "19:41"
   },
   "meta_token": {
    "tipo": "SYSTEM_USER",
@@ -2057,7 +2057,7 @@
    "vence": "não vence",
    "acesso_vence": "-"
   },
-  "ultimo_garimpo": "11/11 13:52",
+  "ultimo_garimpo": "11/11 18:50",
   "convites_story": {
    "story-20261101": 0,
    "story-20261102": 0,
@@ -2102,9 +2102,11 @@
    "18:05 a_ou_b",
    "17:36 story_oferta",
    "18:09 story_oferta",
-   "feed",
    "18:30 reels",
-   "18:42 story_oferta"
+   "18:42 story_oferta",
+   "feed",
+   "19:15 post_achado",
+   "19:17 story_oferta"
   ],
   "shopee_ligada": true,
   "dm_auto": {
@@ -2152,8 +2154,8 @@
    "shopee-18199069887": "desconto longe",
    "shopee-23893362081": "desconto longe",
    "shopee-58258362801": "desconto longe",
-   "shopee-58255909354": "desconto perto (até 10 pts)",
-   "shopee-58219288599": "vendas perto (125+)",
+   "shopee-58255909354": "aprovada",
+   "shopee-58219288599": "desconto longe",
    "shopee-58206311996": "desconto longe",
    "shopee-22394238254": "vendas perto (125+)",
    "shopee-22394238306": "vendas perto (125+)",
@@ -2379,7 +2381,7 @@
    "shopee-22594959465": "aprovada",
    "shopee-58209674589": "aprovada",
    "shopee-54114684881": "aprovada",
-   "shopee-22194978721": "vendas longe",
+   "shopee-22194978721": "vendas perto (125+)",
    "shopee-58209674409": "aprovada",
    "shopee-58211443678": "vendas perto (125+)",
    "shopee-46611963995": "vendas perto (125+)",
@@ -4227,7 +4229,7 @@
    "shopee-20975432880": "vendas longe",
    "shopee-23697606453": "vendas longe",
    "shopee-58260062583": "vendas perto (125+)",
-   "shopee-23398535010": "vendas perto (125+)",
+   "shopee-23398535010": "vendas longe",
    "shopee-19598100675": "vendas longe",
    "shopee-58219289149": "vendas longe",
    "shopee-23698581948": "vendas longe",
@@ -5077,28 +5079,35 @@
    "shopee-23995375862": "nota",
    "shopee-58271471209": "nota",
    "shopee-58212712893": "vendas longe",
-   "shopee-58269751777": "vendas longe"
+   "shopee-58269751777": "vendas longe",
+   "shopee-22491250060": "vendas longe",
+   "shopee-58222214088": "nota",
+   "shopee-58220516101": "nota",
+   "shopee-55506694331": "vendas longe",
+   "shopee-58269438434": "vendas longe",
+   "shopee-43434847811": "vendas longe",
+   "shopee-58266542228": "vendas longe"
   },
   "shopee_oficial": {
-   "vendas longe": 1447,
-   "nota": 1126,
-   "vendas perto (125+)": 107,
+   "vendas longe": 1452,
+   "nota": 1128,
+   "vendas perto (125+)": 106,
    "outro: marca fora da lista boa": 86,
-   "aprovada": 79,
-   "desconto longe": 48,
-   "desconto perto (até 10 pts)": 28,
+   "aprovada": 80,
+   "desconto longe": 49,
+   "desconto perto (até 10 pts)": 27,
    "outro: palavra proibida: compatível": 8
   },
   "instagram": {
    "seguidores": 418,
-   "posts": 116,
-   "reach": 1953,
+   "posts": 117,
+   "reach": 2046,
    "profile_views": 118,
    "website_clicks": 0,
    "stories_ativos": 25
   },
   "reels_alcance": {
-   "atualizado": "2026-11-11T18:19:57.721704-03:00",
+   "atualizado": "2026-11-11T19:02:39.898358-03:00",
    "itens": [
     {
      "id": "18415564270089365",
@@ -5131,7 +5140,7 @@
      "id": "18179592646445557",
      "hora": "10/11 18:37",
      "capa": "uma_oferta",
-     "reach": 6,
+     "reach": 7,
      "views": 11,
      "shares": 0,
      "saved": 0
@@ -5266,8 +5275,8 @@
      "id": "17914316847507916",
      "hora": "06/11 12:43",
      "capa": "ate_off",
-     "reach": 4,
-     "views": 5,
+     "reach": 5,
+     "views": 6,
      "shares": 0,
      "saved": 0
     },
@@ -5320,14 +5329,14 @@
    "por_capa": {
     "uma_oferta": {
      "n": 3,
-     "alcance_medio": 3
+     "alcance_medio": 4
     },
     "ate_off": {
      "n": 21,
      "alcance_medio": 4
     }
    },
-   "campeao": "ate_off"
+   "campeao": "uma_oferta"
   },
   "tiktok": [
    {
