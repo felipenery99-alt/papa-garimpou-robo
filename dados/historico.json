@@ -11064,6 +11064,23 @@
    "plataforma": "Amazon",
    "valida_ate": "2026-11-11T22:00:00-03:00",
    "entrou": "2026-11-10T23:04:15.836398-03:00"
+  },
+  {
+   "id": "shopee-47802618294",
+   "plataforma": "Shopee",
+   "nome": "PowerBank Baseus FC51 Bipow2 Pro 10000mAh/20000mAh 22.5W com Cabo Integrado e Display Digital EnerFill",
+   "loja": "Baseus Oficial",
+   "loja_oficial": true,
+   "preco": 198.55,
+   "preco_antigo": 287.75,
+   "desconto": 31,
+   "vendas": 296,
+   "nota": 4.9,
+   "comissao_pct": 8.0,
+   "imagem": "https://cf.shopee.com.br/file/br-11134207-820lq-mo3x6myifi8190",
+   "link": "https://s.shopee.com.br/AKc3FS3uLY",
+   "canal": "tech",
+   "entrou": "2026-11-10T23:58:03.477122-03:00"
   }
  ],
  "menus_fixados": [
@@ -12136,7 +12153,7 @@
   "marcas": "2026-11-10T20:41:38.234516-03:00"
  },
  "top10_dia": "2026-11-07",
- "manuais_lidos": "2026-11-10T23:56:09.631809-03:00",
+ "manuais_lidos": "2026-11-11T00:06:17.745434-03:00",
  "reserva_resultado": {
   "2026-11-07": {
    "achadinhos": {
@@ -12244,7 +12261,7 @@
    "hora": "2026-11-10T20:31:48.277550-03:00"
   }
  },
- "ig_respondido_em": "2026-11-10T23:56:09.631809-03:00",
+ "ig_respondido_em": "2026-11-10T23:58:03.477122-03:00",
  "dm_auto": {
   "2026-11-08": {
    "com_palavra": 0,
@@ -12283,7 +12300,7 @@
   "desde": "08/11 13:21"
  },
  "canais_info": {
-  "versao": "2026-11-10",
+  "versao": "2026-11-11",
   "resultado": {
    "@papagarimpou": "ok",
    "@papagarimpoumarcas": "ok",
