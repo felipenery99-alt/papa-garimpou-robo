@@ -997,7 +997,13 @@
   "2026-11-11 tech 15:33 amz-B0GJ7H8WLW",
   "2026-11-11 achadinhos 15:41 amz-B08R92W45F",
   "2026-11-11 marcas 15:49 amz-B0G87ZKH8Q",
-  "2026-11-11 tech 15:57 amz-B0BHTSFKQ8"
+  "2026-11-11 tech 15:57 amz-B0BHTSFKQ8",
+  "2026-11-11 achadinhos 16:05 amz-B076MDW718",
+  "2026-11-11 marcas 16:13 amz-B0HDFV9XDD",
+  "2026-11-11 tech 16:20 amz-B0D4VKD19F",
+  "2026-11-11 achadinhos 16:27 amz-B0F4LHGTDY",
+  "2026-11-11 marcas 16:34 amz-B0DWC22Y7J",
+  "2026-11-11 tech 16:42 amz-B0GVSXJF6K"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -1960,7 +1966,13 @@
   "amz-B0GJ7H8WLW": "2026-11-11T15:33:55.361351-03:00",
   "amz-B08R92W45F": "2026-11-11T15:41:57.548118-03:00",
   "amz-B0G87ZKH8Q": "2026-11-11T15:49:39.544421-03:00",
-  "amz-B0BHTSFKQ8": "2026-11-11T15:57:42.153748-03:00"
+  "amz-B0BHTSFKQ8": "2026-11-11T15:57:42.153748-03:00",
+  "amz-B076MDW718": "2026-11-11T16:05:50.192457-03:00",
+  "amz-B0HDFV9XDD": "2026-11-11T16:13:29.433182-03:00",
+  "amz-B0D4VKD19F": "2026-11-11T16:20:11.400610-03:00",
+  "amz-B0F4LHGTDY": "2026-11-11T16:27:55.932666-03:00",
+  "amz-B0DWC22Y7J": "2026-11-11T16:34:17.801255-03:00",
+  "amz-B0GVSXJF6K": "2026-11-11T16:42:11.692298-03:00"
  },
  "ofertas_dia": [
   {
@@ -11761,6 +11773,103 @@
    "gancho": "DRAGON BALL NO XBOX POR 70",
    "entrou": "2026-11-11T14:01:03.526733-03:00",
    "dia": "2026-11-11"
+  },
+  {
+   "id": "amz-B076MDW718",
+   "canal": "achadinhos",
+   "nome": "Tramontina Jogo de Chaves Combinadas",
+   "preco_antigo": 185.12,
+   "preco": 125.99,
+   "desconto": 32,
+   "link": "https://www.amazon.com.br/dp/B076MDW718?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61QkKBRcVdL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-12T22:00:00-03:00",
+   "gancho": "CHAVES TRAMONTINA COM 32% OFF",
+   "entrou": "2026-11-11T14:01:03.526733-03:00",
+   "dia": "2026-11-11"
+  },
+  {
+   "id": "amz-B0HDFV9XDD",
+   "canal": "marcas",
+   "nome": "Growth Creatina 500g Pouch",
+   "preco_antigo": 84.9,
+   "preco": 53.91,
+   "desconto": 37,
+   "link": "https://www.amazon.com.br/dp/B0HDFV9XDD?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61N02yJfsrL._AC_SL1500_.jpg",
+   "loja": "Loja oficial Growth · entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-12T22:00:00-03:00",
+   "gancho": "CREATINA GROWTH 500G POR 53",
+   "entrou": "2026-11-11T14:01:03.526733-03:00",
+   "dia": "2026-11-11"
+  },
+  {
+   "id": "amz-B0D4VKD19F",
+   "canal": "tech",
+   "nome": "Smart TV LG 55\" 4K QNED a5 Ger7 AI",
+   "preco_antigo": 4199.0,
+   "preco": 2754.04,
+   "desconto": 34,
+   "link": "https://www.amazon.com.br/dp/B0D4VKD19F?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61qJ27gHxOL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-12T22:00:00-03:00",
+   "gancho": "TV LG 55 QNED COM 34% OFF",
+   "entrou": "2026-11-11T14:01:03.526733-03:00",
+   "dia": "2026-11-11"
+  },
+  {
+   "id": "amz-B0F4LHGTDY",
+   "canal": "achadinhos",
+   "nome": "L'Oréal Paris Elseve Bond Repair Shampoo",
+   "preco_antigo": 50.09,
+   "preco": 29.02,
+   "desconto": 42,
+   "link": "https://www.amazon.com.br/dp/B0F4LHGTDY?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61IW0QAFYfL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-12T22:00:00-03:00",
+   "gancho": "ELSEVE BOND REPAIR COM 42% OFF",
+   "entrou": "2026-11-11T14:01:03.526733-03:00",
+   "dia": "2026-11-11"
+  },
+  {
+   "id": "amz-B0DWC22Y7J",
+   "canal": "marcas",
+   "nome": "Tênis Olympikus Beats Unissex",
+   "preco_antigo": 299.99,
+   "preco": 188.99,
+   "desconto": 37,
+   "link": "https://www.amazon.com.br/dp/B0DWC22Y7J?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51huCvRd7BL._AC_SL1500_.jpg",
+   "loja": "Vendido pela Netshoes · entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-12T22:00:00-03:00",
+   "gancho": "OLYMPIKUS BEATS COM 37% OFF",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "entrou": "2026-11-11T14:01:03.526733-03:00",
+   "dia": "2026-11-11"
+  },
+  {
+   "id": "amz-B0GVSXJF6K",
+   "canal": "tech",
+   "nome": "Samsung Galaxy A37 5G 256GB 8GB",
+   "preco_antigo": 3599.0,
+   "preco": 1888.56,
+   "desconto": 48,
+   "link": "https://www.amazon.com.br/dp/B0GVSXJF6K?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51l7TfuQhrL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-12T22:00:00-03:00",
+   "gancho": "GALAXY A37 COM 48% OFF",
+   "entrou": "2026-11-11T14:01:03.526733-03:00",
+   "dia": "2026-11-11"
   }
  ],
  "ig_feitos": [
@@ -11906,7 +12015,8 @@
   "2026-11-11 13:22 story_oferta",
   "2026-11-11 14:08 story_oferta",
   "2026-11-11 15:00 adivinha",
-  "2026-11-11 15:03 story_oferta"
+  "2026-11-11 15:03 story_oferta",
+  "2026-11-11 16:05 adivinha_resposta"
  ],
  "ig_ofertas_usadas": [
   "shopee-20716465989",
@@ -12175,36 +12285,6 @@
  "ultimo_pilar": "dica",
  "fila": [
   {
-   "id": "amz-B076MDW718",
-   "canal": "achadinhos",
-   "nome": "Tramontina Jogo de Chaves Combinadas",
-   "preco_antigo": 185.12,
-   "preco": 125.99,
-   "desconto": 32,
-   "link": "https://www.amazon.com.br/dp/B076MDW718?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61QkKBRcVdL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-12T22:00:00-03:00",
-   "gancho": "CHAVES TRAMONTINA COM 32% OFF",
-   "entrou": "2026-11-11T14:01:03.526733-03:00"
-  },
-  {
-   "id": "amz-B0F4LHGTDY",
-   "canal": "achadinhos",
-   "nome": "L'Oréal Paris Elseve Bond Repair Shampoo",
-   "preco_antigo": 50.09,
-   "preco": 29.02,
-   "desconto": 42,
-   "link": "https://www.amazon.com.br/dp/B0F4LHGTDY?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61IW0QAFYfL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-12T22:00:00-03:00",
-   "gancho": "ELSEVE BOND REPAIR COM 42% OFF",
-   "entrou": "2026-11-11T14:01:03.526733-03:00"
-  },
-  {
    "id": "amz-B076BBQS8B",
    "canal": "achadinhos",
    "nome": "Tramontina Panela de Pressão Vancouver Vermelha",
@@ -12385,37 +12465,6 @@
    "entrou": "2026-11-11T14:01:03.526733-03:00"
   },
   {
-   "id": "amz-B0HDFV9XDD",
-   "canal": "marcas",
-   "nome": "Growth Creatina 500g Pouch",
-   "preco_antigo": 84.9,
-   "preco": 53.91,
-   "desconto": 37,
-   "link": "https://www.amazon.com.br/dp/B0HDFV9XDD?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61N02yJfsrL._AC_SL1500_.jpg",
-   "loja": "Loja oficial Growth · entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-12T22:00:00-03:00",
-   "gancho": "CREATINA GROWTH 500G POR 53",
-   "entrou": "2026-11-11T14:01:03.526733-03:00"
-  },
-  {
-   "id": "amz-B0DWC22Y7J",
-   "canal": "marcas",
-   "nome": "Tênis Olympikus Beats Unissex",
-   "preco_antigo": 299.99,
-   "preco": 188.99,
-   "desconto": 37,
-   "link": "https://www.amazon.com.br/dp/B0DWC22Y7J?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51huCvRd7BL._AC_SL1500_.jpg",
-   "loja": "Vendido pela Netshoes · entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-12T22:00:00-03:00",
-   "gancho": "OLYMPIKUS BEATS COM 37% OFF",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "entrou": "2026-11-11T14:01:03.526733-03:00"
-  },
-  {
    "id": "amz-B0G4NFQWG8",
    "canal": "marcas",
    "nome": "Camisa Palmeiras Puma Jogador Home 26",
@@ -12554,36 +12603,6 @@
    "valida_ate": "2026-11-12T22:00:00-03:00",
    "gancho": "FILA RENNO COM 46% OFF",
    "extra": "Preço a partir de: varia por tamanho e cor",
-   "entrou": "2026-11-11T14:01:03.526733-03:00"
-  },
-  {
-   "id": "amz-B0D4VKD19F",
-   "canal": "tech",
-   "nome": "Smart TV LG 55\" 4K QNED a5 Ger7 AI",
-   "preco_antigo": 4199.0,
-   "preco": 2754.04,
-   "desconto": 34,
-   "link": "https://www.amazon.com.br/dp/B0D4VKD19F?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61qJ27gHxOL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-12T22:00:00-03:00",
-   "gancho": "TV LG 55 QNED COM 34% OFF",
-   "entrou": "2026-11-11T14:01:03.526733-03:00"
-  },
-  {
-   "id": "amz-B0GVSXJF6K",
-   "canal": "tech",
-   "nome": "Samsung Galaxy A37 5G 256GB 8GB",
-   "preco_antigo": 3599.0,
-   "preco": 1888.56,
-   "desconto": 48,
-   "link": "https://www.amazon.com.br/dp/B0GVSXJF6K?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51l7TfuQhrL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-12T22:00:00-03:00",
-   "gancho": "GALAXY A37 COM 48% OFF",
    "entrou": "2026-11-11T14:01:03.526733-03:00"
   },
   {
@@ -13461,7 +13480,13 @@
   "epsonmultifuncionalecotankl4360": "2026-11-11T15:33:55.361351-03:00",
   "philcopranchaceramicblackppr08bivolt": "2026-11-11T15:41:57.548118-03:00",
   "tenispumaflyerlite3masculino": "2026-11-11T15:49:39.544421-03:00",
-  "dragonballthebreakersedespecialxbox": "2026-11-11T15:57:42.153748-03:00"
+  "dragonballthebreakersedespecialxbox": "2026-11-11T15:57:42.153748-03:00",
+  "tramontinajogodechavescombinadas": "2026-11-11T16:05:50.192457-03:00",
+  "growthcreatina500gpouch": "2026-11-11T16:13:29.433182-03:00",
+  "smarttvlg554kqneda5ger7ai": "2026-11-11T16:20:11.400610-03:00",
+  "lorealpariselsevebondrepairshampoo": "2026-11-11T16:27:55.932666-03:00",
+  "tenisolympikusbeatsunissex": "2026-11-11T16:34:17.801255-03:00",
+  "samsunggalaxya375g256gb8gb": "2026-11-11T16:42:11.692298-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
@@ -13789,7 +13814,7 @@
   "marcas": "2026-11-11T12:51:21.081776-03:00"
  },
  "top10_dia": "2026-11-07",
- "manuais_lidos": "2026-11-11T15:49:39.221753-03:00",
+ "manuais_lidos": "2026-11-11T16:34:13.967623-03:00",
  "reserva_resultado": {
   "2026-11-07": {
    "achadinhos": {
@@ -13918,7 +13943,7 @@
    "hora": "2026-11-11T12:05:12.905821-03:00"
   }
  },
- "ig_respondido_em": "2026-11-11T15:57:39.726555-03:00",
+ "ig_respondido_em": "2026-11-11T16:34:13.967623-03:00",
  "dm_auto": {
   "2026-11-08": {
    "com_palavra": 0,

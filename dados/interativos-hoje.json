@@ -15,6 +15,21 @@
      "canal": "achadinhos"
     }
    ]
+  },
+  {
+   "tipo": "adivinha_resposta",
+   "hora": "16:05",
+   "produtos": [
+    {
+     "nome": "Ventilador de mesa Mondial 30cm 110V",
+     "preco_antigo": 277.25,
+     "preco": 89.9,
+     "desconto": 68,
+     "link": "https://www.amazon.com.br/dp/B08LBQWQV4?tag=papagarimpou-20",
+     "loja": "Vendido e entregue pela Amazon",
+     "canal": "achadinhos"
+    }
+   ]
   }
  ]
 }
