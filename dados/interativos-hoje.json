@@ -1,57 +1,18 @@
 {
- "dia": "2026-11-10",
+ "dia": "2026-11-11",
  "itens": [
   {
    "tipo": "adivinha",
    "hora": "15:00",
    "produtos": [
     {
-     "nome": "Smartwatch Samsung Galaxy Watch8 44mm",
-     "preco_antigo": 3199.0,
-     "preco": 1349.1,
-     "desconto": 58,
-     "link": "https://www.amazon.com.br/dp/B0FDX5XGHN?tag=papagarimpou-20",
+     "nome": "Ventilador de mesa Mondial 30cm 110V",
+     "preco_antigo": 277.25,
+     "preco": 89.9,
+     "desconto": 68,
+     "link": "https://www.amazon.com.br/dp/B08LBQWQV4?tag=papagarimpou-20",
      "loja": "Vendido e entregue pela Amazon",
-     "canal": "tech"
-    }
-   ]
-  },
-  {
-   "tipo": "adivinha_resposta",
-   "hora": "16:11",
-   "produtos": [
-    {
-     "nome": "Smartwatch Samsung Galaxy Watch8 44mm",
-     "preco_antigo": 3199.0,
-     "preco": 1349.1,
-     "desconto": 58,
-     "link": "https://www.amazon.com.br/dp/B0FDX5XGHN?tag=papagarimpou-20",
-     "loja": "Vendido e entregue pela Amazon",
-     "canal": "tech"
-    }
-   ]
-  },
-  {
-   "tipo": "a_ou_b",
-   "hora": "18:07",
-   "produtos": [
-    {
-     "nome": "Kit 6 Pares Meias Lupo Cano Médio Alto Longo Algodão Original Casual Confortável Atoalhada Macia",
-     "preco_antigo": 90.89,
-     "preco": 59.99,
-     "desconto": 34,
-     "link": "https://s.shopee.com.br/2Vt7tVIPDT",
-     "loja": "Osure",
-     "canal": "marcas"
-    },
-    {
-     "nome": "Tênis Mizuno Neo Vortex",
-     "preco_antigo": 699.99,
-     "preco": 298.29,
-     "desconto": 57,
-     "link": "https://www.amazon.com.br/dp/B0FFTY5R7S?tag=papagarimpou-20",
-     "loja": "Vendido e entregue pela Amazon",
-     "canal": "marcas"
+     "canal": "achadinhos"
     }
    ]
   }

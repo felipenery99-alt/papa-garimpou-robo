@@ -2038,17 +2038,17 @@
    "erro em 2026-11-11 achadinhos 10:12 amz-B08N2GBVR5: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer')). Não postei.",
    "⚠️ Garimpo parado desde 08:56 — abrir o app Claude e conferir as rotinas\nPouca oferta na fila: marcas 2."
   ],
-  "ultima_execucao": "13:39",
-  "execucoes": 9,
+  "ultima_execucao": "14:23",
+  "execucoes": 10,
   "telegram_posts": {
-   "achadinhos": 21,
-   "marcas": 15,
-   "tech": 16
+   "achadinhos": 24,
+   "marcas": 17,
+   "tech": 18
   },
   "ultimo_post": {
-   "achadinhos": "14:09",
-   "marcas": "14:16",
-   "tech": "14:23"
+   "achadinhos": "14:53",
+   "marcas": "15:00",
+   "tech": "15:08"
   },
   "meta_token": {
    "tipo": "SYSTEM_USER",
@@ -2056,7 +2056,7 @@
    "vence": "não vence",
    "acesso_vence": "-"
   },
-  "ultimo_garimpo": "11/11 08:56",
+  "ultimo_garimpo": "11/11 13:52",
   "convites_story": {
    "story-20261101": 0,
    "story-20261102": 0,
@@ -2087,14 +2087,15 @@
    "feed",
    "11:50 carrossel_top5",
    "11:56 story_oferta",
-   "feed",
    "12:00 reels",
    "12:15 story_top4",
    "12:19 story_oferta",
    "12:47 story_oferta",
    "13:20 story_convite",
    "13:22 story_oferta",
-   "14:08 story_oferta"
+   "14:08 story_oferta",
+   "15:00 adivinha",
+   "15:03 story_oferta"
   ],
   "shopee_ligada": true,
   "dm_auto": {
@@ -2682,7 +2683,7 @@
    "shopee-54166806189": "aprovada",
    "shopee-45766835949": "aprovada",
    "shopee-42433934648": "aprovada",
-   "shopee-22399710534": "desconto longe",
+   "shopee-22399710534": "desconto perto (até 10 pts)",
    "shopee-51466810787": "desconto perto (até 10 pts)",
    "shopee-58267767061": "vendas perto (125+)",
    "shopee-58267775026": "vendas perto (125+)",
@@ -3288,7 +3289,7 @@
    "shopee-58269972811": "nota",
    "shopee-58217097003": "nota",
    "shopee-58267100887": "nota",
-   "shopee-58219961939": "nota",
+   "shopee-58219961939": "vendas longe",
    "shopee-58268232681": "nota",
    "shopee-58268232672": "nota",
    "shopee-58268232441": "nota",
@@ -4924,35 +4925,68 @@
    "shopee-58270067674": "vendas longe",
    "shopee-40434987082": "nota",
    "shopee-56921195655": "nota",
-   "shopee-58257156022": "vendas longe"
+   "shopee-58257156022": "vendas longe",
+   "shopee-22298420891": "vendas longe",
+   "shopee-19299851105": "vendas longe",
+   "shopee-23993920398": "vendas longe",
+   "shopee-21599701835": "vendas longe",
+   "shopee-23993914721": "vendas longe",
+   "shopee-22993116408": "vendas longe",
+   "shopee-58204646057": "vendas longe",
+   "shopee-22593947940": "vendas longe",
+   "shopee-23992797432": "nota",
+   "shopee-58255640590": "vendas longe",
+   "shopee-23499372883": "vendas longe",
+   "shopee-23197283394": "vendas longe",
+   "shopee-23993252851": "vendas longe",
+   "shopee-22994146957": "vendas longe",
+   "shopee-22898460221": "vendas longe",
+   "shopee-23599487798": "vendas longe",
+   "shopee-58211544883": "vendas longe",
+   "shopee-58269339643": "vendas longe",
+   "shopee-58269339641": "vendas longe",
+   "shopee-19999871588": "vendas longe",
+   "shopee-23493978385": "vendas longe",
+   "shopee-58215400916": "vendas longe",
+   "shopee-57707477360": "vendas longe",
+   "shopee-22599789817": "vendas longe",
+   "shopee-22997974280": "vendas longe",
+   "shopee-58213792361": "vendas longe",
+   "shopee-23493814701": "vendas longe",
+   "shopee-23898022924": "vendas longe",
+   "shopee-58207898706": "vendas longe",
+   "shopee-58222351759": "nota",
+   "shopee-58269497316": "vendas longe",
+   "shopee-58269751992": "vendas perto (125+)",
+   "shopee-18399888291": "desconto longe"
   },
   "shopee_oficial": {
-   "vendas longe": 1368,
-   "nota": 1071,
-   "vendas perto (125+)": 105,
+   "vendas longe": 1398,
+   "nota": 1072,
+   "vendas perto (125+)": 106,
    "aprovada": 83,
    "outro: marca fora da lista boa": 82,
    "desconto longe": 49,
-   "desconto perto (até 10 pts)": 20,
+   "desconto perto (até 10 pts)": 21,
    "outro: palavra proibida: compatível": 8
   },
   "instagram": {
    "seguidores": 418,
    "posts": 115,
-   "reach": 1763,
+   "reach": 1777,
    "profile_views": 112,
    "website_clicks": 0,
    "stories_ativos": 25
   },
   "reels_alcance": {
-   "atualizado": "2026-11-11T13:39:13.221935-03:00",
+   "atualizado": "2026-11-11T14:23:59.690885-03:00",
    "itens": [
     {
      "id": "17922331968243285",
      "hora": "11/11 12:05",
      "capa": "ate_off",
-     "reach": 1,
-     "views": 1,
+     "reach": 2,
+     "views": 2,
      "shares": 0,
      "saved": 0
     },

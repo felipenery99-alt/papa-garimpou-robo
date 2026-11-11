@@ -983,7 +983,14 @@
   "2026-11-11 tech 14:01 amz-B0FQG1MHRH",
   "2026-11-11 achadinhos 14:09 amz-B0CF2NCWGV",
   "2026-11-11 marcas 14:16 shopee-58209674409",
-  "2026-11-11 tech 14:23 amz-B0CX8MT2M2"
+  "2026-11-11 tech 14:23 amz-B0CX8MT2M2",
+  "2026-11-11 achadinhos 14:30 amz-B09CV4Q6CM",
+  "2026-11-11 achadinhos 14:31 amz-B07L8SH6NK",
+  "2026-11-11 marcas 14:38 amz-B0G3RV2KX8",
+  "2026-11-11 tech 14:45 amz-B0GQWVYKZV",
+  "2026-11-11 achadinhos 14:53 amz-B09GSR58JF",
+  "2026-11-11 marcas 15:00 amz-B0CZS8PWHR",
+  "2026-11-11 tech 15:08 amz-B0GVT7QXF7"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -1932,7 +1939,14 @@
   "amz-B0FQG1MHRH": "2026-11-11T14:01:03.978370-03:00",
   "amz-B0CF2NCWGV": "2026-11-11T14:09:01.217833-03:00",
   "shopee-58209674409": "2026-11-11T14:16:49.995595-03:00",
-  "amz-B0CX8MT2M2": "2026-11-11T14:23:19.293662-03:00"
+  "amz-B0CX8MT2M2": "2026-11-11T14:23:19.293662-03:00",
+  "amz-B09CV4Q6CM": "2026-11-11T14:30:14.790066-03:00",
+  "amz-B07L8SH6NK": "2026-11-11T14:31:13.629701-03:00",
+  "amz-B0G3RV2KX8": "2026-11-11T14:38:15.493956-03:00",
+  "amz-B0GQWVYKZV": "2026-11-11T14:45:07.530917-03:00",
+  "amz-B09GSR58JF": "2026-11-11T14:53:05.572453-03:00",
+  "amz-B0CZS8PWHR": "2026-11-11T15:00:51.182358-03:00",
+  "amz-B0GVT7QXF7": "2026-11-11T15:08:57.468148-03:00"
  },
  "ofertas_dia": [
   {
@@ -11509,6 +11523,117 @@
    "gancho": "KINDLE COLORIDO COM 33% OFF",
    "entrou": "2026-11-11T14:01:03.526733-03:00",
    "dia": "2026-11-11"
+  },
+  {
+   "id": "amz-B09CV4Q6CM",
+   "canal": "achadinhos",
+   "nome": "Batedeira Planetária Digital Oster",
+   "preco_antigo": 2299.0,
+   "preco": 1111.49,
+   "desconto": 52,
+   "link": "https://www.amazon.com.br/dp/B09CV4Q6CM?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61TVO7z9-HL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-12T22:00:00-03:00",
+   "entrou": "2026-11-11T13:18:40.986543-03:00",
+   "dia": "2026-11-11"
+  },
+  {
+   "id": "amz-B07L8SH6NK",
+   "canal": "achadinhos",
+   "nome": "Panela de Pressão Digital Mondial Master",
+   "preco_antigo": 669.9,
+   "preco": 331.48,
+   "desconto": 51,
+   "link": "https://www.amazon.com.br/dp/B07L8SH6NK?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/81iejDNyklL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-12T22:00:00-03:00",
+   "entrou": "2026-11-11T13:18:40.986543-03:00",
+   "dia": "2026-11-11"
+  },
+  {
+   "id": "amz-B0G3RV2KX8",
+   "canal": "marcas",
+   "nome": "Stanley Copo Térmico Stacking Black 2.0 354ml",
+   "preco_antigo": 109.0,
+   "preco": 60.75,
+   "desconto": 44,
+   "link": "https://www.amazon.com.br/dp/B0G3RV2KX8?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51DkeMa5U4L._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-12T22:00:00-03:00",
+   "gancho": "STANLEY POR 60 REAIS",
+   "entrou": "2026-11-11T14:01:03.526733-03:00",
+   "dia": "2026-11-11"
+  },
+  {
+   "id": "amz-B0GQWVYKZV",
+   "canal": "tech",
+   "nome": "Apple iPhone 17 256 GB Lavanda",
+   "preco_antigo": 7999.0,
+   "preco": 5273.1,
+   "desconto": 34,
+   "link": "https://www.amazon.com.br/dp/B0GQWVYKZV?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/41OcUUYkgbL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-12T22:00:00-03:00",
+   "gancho": "IPHONE 17 COM 34% OFF",
+   "entrou": "2026-11-11T14:01:03.526733-03:00",
+   "dia": "2026-11-11"
+  },
+  {
+   "id": "amz-B09GSR58JF",
+   "canal": "achadinhos",
+   "nome": "L'Oréal Professionnel Máscara Absolut Repair",
+   "preco_antigo": 214.9,
+   "preco": 127.3,
+   "desconto": 41,
+   "link": "https://www.amazon.com.br/dp/B09GSR58JF?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71OFq92+6rL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-12T22:00:00-03:00",
+   "gancho": "ABSOLUT REPAIR COM 41% OFF",
+   "entrou": "2026-11-11T14:01:03.526733-03:00",
+   "dia": "2026-11-11"
+  },
+  {
+   "id": "amz-B0CZS8PWHR",
+   "canal": "marcas",
+   "nome": "Tênis Olympikus Marte",
+   "preco_antigo": 199.99,
+   "preco": 123.49,
+   "desconto": 38,
+   "link": "https://www.amazon.com.br/dp/B0CZS8PWHR?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51JJ2uf9wGL._AC_SL1500_.jpg",
+   "loja": "Vendido pela Netshoes · entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-12T22:00:00-03:00",
+   "gancho": "OLYMPIKUS POR 123",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "entrou": "2026-11-11T14:01:03.526733-03:00",
+   "dia": "2026-11-11"
+  },
+  {
+   "id": "amz-B0GVT7QXF7",
+   "canal": "tech",
+   "nome": "Samsung Galaxy A57 5G 128GB 8GB RAM",
+   "preco_antigo": 3599.0,
+   "preco": 1799.1,
+   "desconto": 50,
+   "link": "https://www.amazon.com.br/dp/B0GVT7QXF7?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51VZg1VWMlL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-12T22:00:00-03:00",
+   "gancho": "GALAXY A57 PELA METADE",
+   "entrou": "2026-11-11T14:01:03.526733-03:00",
+   "dia": "2026-11-11"
   }
  ],
  "ig_feitos": [
@@ -11652,7 +11777,9 @@
   "2026-11-11 12:47 story_oferta",
   "2026-11-11 13:20 story_convite",
   "2026-11-11 13:22 story_oferta",
-  "2026-11-11 14:08 story_oferta"
+  "2026-11-11 14:08 story_oferta",
+  "2026-11-11 15:00 adivinha",
+  "2026-11-11 15:03 story_oferta"
  ],
  "ig_ofertas_usadas": [
   "amz-B0CKJK36MD",
@@ -11855,7 +11982,9 @@
   "amz-B01N0TQPQB",
   "amz-B07KYFQRXD",
   "amz-B0DY2XBWD4",
-  "amz-B0B2V9WTS2"
+  "amz-B0B2V9WTS2",
+  "amz-B08LBQWQV4",
+  "amz-B0776W3D62"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
@@ -11921,49 +12050,6 @@
  },
  "ultimo_pilar": "dica",
  "fila": [
-  {
-   "id": "amz-B09CV4Q6CM",
-   "canal": "achadinhos",
-   "nome": "Batedeira Planetária Digital Oster",
-   "preco_antigo": 2299.0,
-   "preco": 1111.49,
-   "desconto": 52,
-   "link": "https://www.amazon.com.br/dp/B09CV4Q6CM?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61TVO7z9-HL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-12T22:00:00-03:00",
-   "entrou": "2026-11-11T13:18:40.986543-03:00"
-  },
-  {
-   "id": "amz-B07L8SH6NK",
-   "canal": "achadinhos",
-   "nome": "Panela de Pressão Digital Mondial Master",
-   "preco_antigo": 669.9,
-   "preco": 331.48,
-   "desconto": 51,
-   "link": "https://www.amazon.com.br/dp/B07L8SH6NK?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/81iejDNyklL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-12T22:00:00-03:00",
-   "entrou": "2026-11-11T13:18:40.986543-03:00"
-  },
-  {
-   "id": "amz-B09GSR58JF",
-   "canal": "achadinhos",
-   "nome": "L'Oréal Professionnel Máscara Absolut Repair",
-   "preco_antigo": 214.9,
-   "preco": 127.3,
-   "desconto": 41,
-   "link": "https://www.amazon.com.br/dp/B09GSR58JF?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/71OFq92+6rL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-12T22:00:00-03:00",
-   "gancho": "ABSOLUT REPAIR COM 41% OFF",
-   "entrou": "2026-11-11T14:01:03.526733-03:00"
-  },
   {
    "id": "amz-B0DYB2PRJG",
    "canal": "achadinhos",
@@ -12220,37 +12306,6 @@
    "entrou": "2026-11-11T14:01:03.526733-03:00"
   },
   {
-   "id": "amz-B0G3RV2KX8",
-   "canal": "marcas",
-   "nome": "Stanley Copo Térmico Stacking Black 2.0 354ml",
-   "preco_antigo": 109.0,
-   "preco": 60.75,
-   "desconto": 44,
-   "link": "https://www.amazon.com.br/dp/B0G3RV2KX8?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51DkeMa5U4L._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-12T22:00:00-03:00",
-   "gancho": "STANLEY POR 60 REAIS",
-   "entrou": "2026-11-11T14:01:03.526733-03:00"
-  },
-  {
-   "id": "amz-B0CZS8PWHR",
-   "canal": "marcas",
-   "nome": "Tênis Olympikus Marte",
-   "preco_antigo": 199.99,
-   "preco": 123.49,
-   "desconto": 38,
-   "link": "https://www.amazon.com.br/dp/B0CZS8PWHR?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51JJ2uf9wGL._AC_SL1500_.jpg",
-   "loja": "Vendido pela Netshoes · entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-12T22:00:00-03:00",
-   "gancho": "OLYMPIKUS POR 123",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "entrou": "2026-11-11T14:01:03.526733-03:00"
-  },
-  {
    "id": "amz-B0HDFYG15C",
    "canal": "marcas",
    "nome": "Growth Basic Whey 1kg",
@@ -12451,36 +12506,6 @@
    "valida_ate": "2026-11-12T22:00:00-03:00",
    "gancho": "FILA RENNO COM 46% OFF",
    "extra": "Preço a partir de: varia por tamanho e cor",
-   "entrou": "2026-11-11T14:01:03.526733-03:00"
-  },
-  {
-   "id": "amz-B0GQWVYKZV",
-   "canal": "tech",
-   "nome": "Apple iPhone 17 256 GB Lavanda",
-   "preco_antigo": 7999.0,
-   "preco": 5273.1,
-   "desconto": 34,
-   "link": "https://www.amazon.com.br/dp/B0GQWVYKZV?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/41OcUUYkgbL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-12T22:00:00-03:00",
-   "gancho": "IPHONE 17 COM 34% OFF",
-   "entrou": "2026-11-11T14:01:03.526733-03:00"
-  },
-  {
-   "id": "amz-B0GVT7QXF7",
-   "canal": "tech",
-   "nome": "Samsung Galaxy A57 5G 128GB 8GB RAM",
-   "preco_antigo": 3599.0,
-   "preco": 1799.1,
-   "desconto": 50,
-   "link": "https://www.amazon.com.br/dp/B0GVT7QXF7?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51VZg1VWMlL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-12T22:00:00-03:00",
-   "gancho": "GALAXY A57 PELA METADE",
    "entrou": "2026-11-11T14:01:03.526733-03:00"
   },
   {
@@ -13404,7 +13429,14 @@
   "applewatchse3gpscaixadealuminio": "2026-11-11T14:01:03.978370-03:00",
   "shampooeudorasiageestimulaocrescimento": "2026-11-11T14:09:01.217833-03:00",
   "deocolonianaturakaiakultramasculino100ml": "2026-11-11T14:16:49.995595-03:00",
-  "kindlecolorsoft16gb": "2026-11-11T14:23:19.293662-03:00"
+  "kindlecolorsoft16gb": "2026-11-11T14:23:19.293662-03:00",
+  "batedeiraplanetariadigitaloster": "2026-11-11T14:30:14.790066-03:00",
+  "paneladepressaodigitalmondialmaster": "2026-11-11T14:31:13.629701-03:00",
+  "stanleycopotermicostackingblack20354ml": "2026-11-11T14:38:15.493956-03:00",
+  "appleiphone17256gblavanda": "2026-11-11T14:45:07.530917-03:00",
+  "lorealprofessionnelmascaraabsolutrepair": "2026-11-11T14:53:05.572453-03:00",
+  "tenisolympikusmarte": "2026-11-11T15:00:51.182358-03:00",
+  "samsunggalaxya575g128gb8gbram": "2026-11-11T15:08:57.468148-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
@@ -13669,28 +13701,29 @@
  },
  "tg_offset": 354369949,
  "adivinha": {
-  "dia": "2026-11-10",
+  "dia": "2026-11-11",
   "oferta": {
-   "id": "amz-B0FDX5XGHN",
-   "canal": "tech",
-   "nome": "Smartwatch Samsung Galaxy Watch8 44mm",
-   "preco_antigo": 3199.0,
-   "preco": 1349.1,
-   "desconto": 58,
-   "link": "https://www.amazon.com.br/dp/B0FDX5XGHN?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61iTGVZS+0L._AC_SL1500_.jpg",
+   "id": "amz-B08LBQWQV4",
+   "canal": "achadinhos",
+   "nome": "Ventilador de mesa Mondial 30cm 110V",
+   "preco_antigo": 277.25,
+   "preco": 89.9,
+   "desconto": 68,
+   "link": "https://www.amazon.com.br/dp/B08LBQWQV4?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/81P0r5+MpdL._AC_SL1500_.jpg",
    "loja": "Vendido e entregue pela Amazon",
    "plataforma": "Amazon",
-   "valida_ate": "2026-11-11T22:00:00-03:00",
-   "gancho": "GALAXY WATCH8 COM 58% OFF",
-   "entrou": "2026-11-10T13:15:23.173979-03:00",
-   "dia": "2026-11-10"
+   "valida_ate": "2026-11-12T22:00:00-03:00",
+   "extra": "Voltagem 110V",
+   "gancho": "VENTILADOR MONDIAL A 89 REAIS",
+   "entrou": "2026-11-11T09:04:32.696725-03:00",
+   "dia": "2026-11-11"
   }
  },
  "ig_dm_links": {},
  "story_link_dia": "2026-11-10",
  "pede_semana": "2026-46",
- "ultimo_garimpo": "2026-11-11T08:56:35-03:00",
+ "ultimo_garimpo": "2026-11-11T13:52:38-03:00",
  "vigia_aviso_post": "2026-11-09T18:27:03.734589-03:00",
  "vigia_aviso_garimpo": "2026-11-11T12:06:58.441972-03:00",
  "resumo_enviado": "2026-11-10",
@@ -13731,7 +13764,7 @@
   "marcas": "2026-11-11T12:51:21.081776-03:00"
  },
  "top10_dia": "2026-11-07",
- "manuais_lidos": "2026-11-11T14:16:49.594353-03:00",
+ "manuais_lidos": "2026-11-11T15:00:32.575313-03:00",
  "reserva_resultado": {
   "2026-11-07": {
    "achadinhos": {
@@ -13860,7 +13893,7 @@
    "hora": "2026-11-11T12:05:12.905821-03:00"
   }
  },
- "ig_respondido_em": "2026-11-11T14:23:13.688401-03:00",
+ "ig_respondido_em": "2026-11-11T15:08:43.078108-03:00",
  "dm_auto": {
   "2026-11-08": {
    "com_palavra": 0,
