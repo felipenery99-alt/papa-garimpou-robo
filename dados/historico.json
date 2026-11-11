@@ -925,7 +925,13 @@
   "2026-11-10 tech 20:50 amz-B09B8VGCR8",
   "2026-11-10 achadinhos 20:58 amz-B0GS755NZ9",
   "2026-11-10 tech 21:04 amz-B0DJ1QNM1R",
-  "2026-11-10 achadinhos 21:12 amz-B0GJ7CSCD7"
+  "2026-11-10 achadinhos 21:12 amz-B0GJ7CSCD7",
+  "2026-11-10 achadinhos 21:19 amz-B01643M5KY",
+  "2026-11-10 tech 21:26 amz-B0FQFJP7MP",
+  "2026-11-10 achadinhos 21:34 amz-B07HZL4D72",
+  "2026-11-10 achadinhos 21:42 amz-B0CXQ9XL8X",
+  "2026-11-10 achadinhos 21:50 amz-B0B695DMC2",
+  "2026-11-10 achadinhos 21:56 amz-B0D79HC66G"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -1818,7 +1824,13 @@
   "amz-B09B8VGCR8": "2026-11-10T20:50:09.883533-03:00",
   "amz-B0GS755NZ9": "2026-11-10T20:58:12.250448-03:00",
   "amz-B0DJ1QNM1R": "2026-11-10T21:04:22.771874-03:00",
-  "amz-B0GJ7CSCD7": "2026-11-10T21:12:18.130086-03:00"
+  "amz-B0GJ7CSCD7": "2026-11-10T21:12:18.130086-03:00",
+  "amz-B01643M5KY": "2026-11-10T21:19:07.591621-03:00",
+  "amz-B0FQFJP7MP": "2026-11-10T21:26:25.406851-03:00",
+  "amz-B07HZL4D72": "2026-11-10T21:34:09.186492-03:00",
+  "amz-B0CXQ9XL8X": "2026-11-10T21:42:14.445724-03:00",
+  "amz-B0B695DMC2": "2026-11-10T21:50:20.723742-03:00",
+  "amz-B0D79HC66G": "2026-11-10T21:56:49.891147-03:00"
  },
  "ofertas_dia": [
   {
@@ -10516,6 +10528,97 @@
    "gancho": "AIR FRYER FORNO COM 38% OFF",
    "entrou": "2026-11-10T19:00:57.608548-03:00",
    "dia": "2026-11-10"
+  },
+  {
+   "id": "amz-B01643M5KY",
+   "canal": "achadinhos",
+   "nome": "Secador Mondial Max Travel Bivolt 1200W",
+   "preco_antigo": 99.9,
+   "preco": 59.9,
+   "desconto": 40,
+   "link": "https://www.amazon.com.br/dp/B01643M5KY?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71qlVmBwXkL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-11T22:00:00-03:00",
+   "entrou": "2026-11-10T19:00:57.608548-03:00",
+   "dia": "2026-11-10"
+  },
+  {
+   "id": "amz-B0FQFJP7MP",
+   "canal": "tech",
+   "nome": "Apple Watch SE 3 GPS + Cellular",
+   "preco_antigo": 4299.0,
+   "preco": 2498.0,
+   "desconto": 42,
+   "link": "https://www.amazon.com.br/dp/B0FQFJP7MP?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51HakFG+e3L._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-11T22:00:00-03:00",
+   "gancho": "APPLE WATCH COM DESCONTÃO",
+   "entrou": "2026-11-10T19:00:57.608548-03:00",
+   "dia": "2026-11-10"
+  },
+  {
+   "id": "amz-B07HZL4D72",
+   "canal": "achadinhos",
+   "nome": "Amaciante Ypê Ultra Aconchego 5L",
+   "preco_antigo": 29.26,
+   "preco": 18.09,
+   "desconto": 38,
+   "link": "https://www.amazon.com.br/dp/B07HZL4D72?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51UE1ZXqipL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-11T22:00:00-03:00",
+   "entrou": "2026-11-10T19:00:57.608548-03:00",
+   "dia": "2026-11-10"
+  },
+  {
+   "id": "amz-B0CXQ9XL8X",
+   "canal": "achadinhos",
+   "nome": "Bosch Lavadora de Alta Pressão GHP 220 2100W 220V",
+   "preco_antigo": 1899.0,
+   "preco": 965.45,
+   "desconto": 49,
+   "link": "https://www.amazon.com.br/dp/B0CXQ9XL8X?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61D-V4KlVPL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-11T22:00:00-03:00",
+   "entrou": "2026-11-10T19:00:57.608548-03:00",
+   "dia": "2026-11-10"
+  },
+  {
+   "id": "amz-B0B695DMC2",
+   "canal": "achadinhos",
+   "nome": "L'Oréal Paris Protetor Facial Expertise Antioleosidade",
+   "preco_antigo": 55.89,
+   "preco": 33.49,
+   "desconto": 40,
+   "link": "https://www.amazon.com.br/dp/B0B695DMC2?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/81VO-Y6AgGL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-11T22:00:00-03:00",
+   "entrou": "2026-11-10T19:00:57.608548-03:00",
+   "dia": "2026-11-10"
+  },
+  {
+   "id": "amz-B0D79HC66G",
+   "canal": "achadinhos",
+   "nome": "WAP Lavadora e Desobstruidora Premium Ultra",
+   "preco_antigo": 2049.9,
+   "preco": 1109.9,
+   "desconto": 46,
+   "link": "https://www.amazon.com.br/dp/B0D79HC66G?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71WdMgaAJkL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-11T22:00:00-03:00",
+   "entrou": "2026-11-10T19:00:57.608548-03:00",
+   "dia": "2026-11-10"
   }
  ],
  "ig_feitos": [
@@ -10680,10 +10783,11 @@
   "2026-11-10 feed",
   "2026-11-10 20:30 reels",
   "2026-11-10 20:35 story_top4",
-  "2026-11-10 20:38 story_oferta"
+  "2026-11-10 20:38 story_oferta",
+  "2026-11-10 21:20 story_convite",
+  "2026-11-10 21:24 story_oferta"
  ],
  "ig_ofertas_usadas": [
-  "amz-B09ZHCLVXF",
   "shopee-27481488690",
   "amz-B0FFTRRFBT",
   "amz-B0FDX5VNRL",
@@ -10882,7 +10986,8 @@
   "shopee-58210668407",
   "amz-B09KYHYKXL",
   "amz-B0CJTF8Y69",
-  "amz-B0GPY3VQKX"
+  "amz-B0GPY3VQKX",
+  "amz-B0H7FF798G"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
@@ -10949,76 +11054,6 @@
  "ultimo_pilar": "dica",
  "fila": [
   {
-   "id": "amz-B01643M5KY",
-   "canal": "achadinhos",
-   "nome": "Secador Mondial Max Travel Bivolt 1200W",
-   "preco_antigo": 99.9,
-   "preco": 59.9,
-   "desconto": 40,
-   "link": "https://www.amazon.com.br/dp/B01643M5KY?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/71qlVmBwXkL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-11T22:00:00-03:00",
-   "entrou": "2026-11-10T19:00:57.608548-03:00"
-  },
-  {
-   "id": "amz-B07HZL4D72",
-   "canal": "achadinhos",
-   "nome": "Amaciante Ypê Ultra Aconchego 5L",
-   "preco_antigo": 29.26,
-   "preco": 18.09,
-   "desconto": 38,
-   "link": "https://www.amazon.com.br/dp/B07HZL4D72?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51UE1ZXqipL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-11T22:00:00-03:00",
-   "entrou": "2026-11-10T19:00:57.608548-03:00"
-  },
-  {
-   "id": "amz-B0CXQ9XL8X",
-   "canal": "achadinhos",
-   "nome": "Bosch Lavadora de Alta Pressão GHP 220 2100W 220V",
-   "preco_antigo": 1899.0,
-   "preco": 965.45,
-   "desconto": 49,
-   "link": "https://www.amazon.com.br/dp/B0CXQ9XL8X?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61D-V4KlVPL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-11T22:00:00-03:00",
-   "entrou": "2026-11-10T19:00:57.608548-03:00"
-  },
-  {
-   "id": "amz-B0B695DMC2",
-   "canal": "achadinhos",
-   "nome": "L'Oréal Paris Protetor Facial Expertise Antioleosidade",
-   "preco_antigo": 55.89,
-   "preco": 33.49,
-   "desconto": 40,
-   "link": "https://www.amazon.com.br/dp/B0B695DMC2?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/81VO-Y6AgGL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-11T22:00:00-03:00",
-   "entrou": "2026-11-10T19:00:57.608548-03:00"
-  },
-  {
-   "id": "amz-B0D79HC66G",
-   "canal": "achadinhos",
-   "nome": "WAP Lavadora e Desobstruidora Premium Ultra",
-   "preco_antigo": 2049.9,
-   "preco": 1109.9,
-   "desconto": 46,
-   "link": "https://www.amazon.com.br/dp/B0D79HC66G?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/71WdMgaAJkL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-11T22:00:00-03:00",
-   "entrou": "2026-11-10T19:00:57.608548-03:00"
-  },
-  {
    "id": "amz-B09SN5W3MQ",
    "canal": "achadinhos",
    "nome": "Ypê Lava Roupas em Pó Tixan Primavera 1,6kg",
@@ -11030,21 +11065,6 @@
    "loja": "Vendido e entregue pela Amazon",
    "plataforma": "Amazon",
    "valida_ate": "2026-11-11T22:00:00-03:00",
-   "entrou": "2026-11-10T19:00:57.608548-03:00"
-  },
-  {
-   "id": "amz-B0FQFJP7MP",
-   "canal": "tech",
-   "nome": "Apple Watch SE 3 GPS + Cellular",
-   "preco_antigo": 4299.0,
-   "preco": 2498.0,
-   "desconto": 42,
-   "link": "https://www.amazon.com.br/dp/B0FQFJP7MP?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51HakFG+e3L._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-11T22:00:00-03:00",
-   "gancho": "APPLE WATCH COM DESCONTÃO",
    "entrou": "2026-11-10T19:00:57.608548-03:00"
   }
  ],
@@ -11792,7 +11812,13 @@
   "echodotamazoncomalexasmartspeaker": "2026-11-10T20:50:09.883533-03:00",
   "philipswalitaprocessadorpowerchop450w": "2026-11-10T20:58:12.250448-03:00",
   "jblpartyboxclub120caixadesombluetooth160w": "2026-11-10T21:04:22.771874-03:00",
-  "philcoairfryeroven15lredstone10funcoes127v": "2026-11-10T21:12:18.130086-03:00"
+  "philcoairfryeroven15lredstone10funcoes127v": "2026-11-10T21:12:18.130086-03:00",
+  "secadormondialmaxtravelbivolt1200w": "2026-11-10T21:19:07.591621-03:00",
+  "applewatchse3gpscellular": "2026-11-10T21:26:25.406851-03:00",
+  "amacianteypeultraaconchego5l": "2026-11-10T21:34:09.186492-03:00",
+  "boschlavadoradealtapressaoghp2202100w220v": "2026-11-10T21:42:14.445724-03:00",
+  "lorealparisprotetorfacialexpertiseantioleosidade": "2026-11-10T21:50:20.723742-03:00",
+  "waplavadoraedesobstruidorapremiumultra": "2026-11-10T21:56:49.891147-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
@@ -12098,16 +12124,17 @@
   "2026-11-08 tarde achadinhos",
   "2026-11-08 noite tech",
   "2026-11-09 tarde tech",
-  "2026-11-09 noite tech"
+  "2026-11-09 noite tech",
+  "2026-11-10 noite marcas"
  ],
- "reserva_meio": "2026-11-10T20:57:34.667559-03:00",
+ "reserva_meio": "2026-11-10T21:49:57.117995-03:00",
  "reserva_cheia": {
   "achadinhos": "2026-11-09T18:09:55.295113-03:00",
   "tech": "2026-11-09T18:09:55.295113-03:00",
   "marcas": "2026-11-10T20:41:38.234516-03:00"
  },
  "top10_dia": "2026-11-07",
- "manuais_lidos": "2026-11-10T21:04:22.424685-03:00",
+ "manuais_lidos": "2026-11-10T21:49:57.117995-03:00",
  "reserva_resultado": {
   "2026-11-07": {
    "achadinhos": {
@@ -12215,7 +12242,7 @@
    "hora": "2026-11-10T20:31:48.277550-03:00"
   }
  },
- "ig_respondido_em": "2026-11-10T21:12:12.821446-03:00",
+ "ig_respondido_em": "2026-11-10T21:56:44.262123-03:00",
  "dm_auto": {
   "2026-11-08": {
    "com_palavra": 0,

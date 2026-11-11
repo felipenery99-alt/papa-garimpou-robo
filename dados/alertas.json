@@ -4,19 +4,14 @@
   "ultimo": "2026-11-09T21:32:49.172348",
   "enviado": "2026-11-08T22:48:25.380900"
  },
- "canal achadinhos sem oferta na fila há # min (busca extra também não achou). Aba": {
-  "primeiro": "2026-11-06T19:48:16.482543",
-  "ultimo": "2026-11-08T15:19:17.376717",
-  "enviado": "2026-11-07T21:27:49.519977"
- },
- "Página do Facebook: #-#-# #:# oferta falhou # vezes: Página recusou o post: {'me": {
-  "primeiro": "2026-11-08T13:34:59.905670",
-  "ultimo": "2026-11-08T13:34:59.905670",
-  "enviado": ""
- },
  "erro em #-#-# achadinhos #:# amz-B#DP#S#PC: HTTPSConnectionPool(host='api.telegr": {
   "primeiro": "2026-11-09T12:59:10.763409",
   "ultimo": "2026-11-09T12:59:10.763409",
+  "enviado": ""
+ },
+ "canal marcas sem oferta na fila há # min (busca extra também não achou). Abastec": {
+  "primeiro": "2026-11-11T00:17:12.110399",
+  "ultimo": "2026-11-11T00:17:12.110399",
   "enviado": ""
  }
 }
