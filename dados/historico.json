@@ -990,7 +990,14 @@
   "2026-11-11 tech 14:45 amz-B0GQWVYKZV",
   "2026-11-11 achadinhos 14:53 amz-B09GSR58JF",
   "2026-11-11 marcas 15:00 amz-B0CZS8PWHR",
-  "2026-11-11 tech 15:08 amz-B0GVT7QXF7"
+  "2026-11-11 tech 15:08 amz-B0GVT7QXF7",
+  "2026-11-11 achadinhos 15:16 amz-B0DYB2PRJG",
+  "2026-11-11 achadinhos 15:21 amz-B0CL5CN24Y",
+  "2026-11-11 marcas 15:27 amz-B0HDFYG15C",
+  "2026-11-11 tech 15:33 amz-B0GJ7H8WLW",
+  "2026-11-11 achadinhos 15:41 amz-B08R92W45F",
+  "2026-11-11 marcas 15:49 amz-B0G87ZKH8Q",
+  "2026-11-11 tech 15:57 amz-B0BHTSFKQ8"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -1946,7 +1953,14 @@
   "amz-B0GQWVYKZV": "2026-11-11T14:45:07.530917-03:00",
   "amz-B09GSR58JF": "2026-11-11T14:53:05.572453-03:00",
   "amz-B0CZS8PWHR": "2026-11-11T15:00:51.182358-03:00",
-  "amz-B0GVT7QXF7": "2026-11-11T15:08:57.468148-03:00"
+  "amz-B0GVT7QXF7": "2026-11-11T15:08:57.468148-03:00",
+  "amz-B0DYB2PRJG": "2026-11-11T15:16:50.261397-03:00",
+  "amz-B0CL5CN24Y": "2026-11-11T15:21:05.292401-03:00",
+  "amz-B0HDFYG15C": "2026-11-11T15:27:15.499349-03:00",
+  "amz-B0GJ7H8WLW": "2026-11-11T15:33:55.361351-03:00",
+  "amz-B08R92W45F": "2026-11-11T15:41:57.548118-03:00",
+  "amz-B0G87ZKH8Q": "2026-11-11T15:49:39.544421-03:00",
+  "amz-B0BHTSFKQ8": "2026-11-11T15:57:42.153748-03:00"
  },
  "ofertas_dia": [
   {
@@ -11634,6 +11648,119 @@
    "gancho": "GALAXY A57 PELA METADE",
    "entrou": "2026-11-11T14:01:03.526733-03:00",
    "dia": "2026-11-11"
+  },
+  {
+   "id": "amz-B0DYB2PRJG",
+   "canal": "achadinhos",
+   "nome": "La Roche-Posay Anthelios UVMune 400 Protetor Solar",
+   "preco_antigo": 169.9,
+   "preco": 89.77,
+   "desconto": 47,
+   "link": "https://www.amazon.com.br/dp/B0DYB2PRJG?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/41lt78LhO+L._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-12T22:00:00-03:00",
+   "gancho": "UVMUNE 400 COM 47% OFF",
+   "entrou": "2026-11-11T14:01:03.526733-03:00",
+   "dia": "2026-11-11"
+  },
+  {
+   "id": "amz-B0CL5CN24Y",
+   "canal": "achadinhos",
+   "nome": "Britânia Ventilador BVT491 Maxx Force",
+   "preco_antigo": 278.28,
+   "preco": 125.0,
+   "desconto": 55,
+   "link": "https://www.amazon.com.br/dp/B0CL5CN24Y?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71a2qO50VQL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-12T22:00:00-03:00",
+   "gancho": "VENTILADOR BRITÂNIA COM 55% OFF",
+   "entrou": "2026-11-11T14:01:03.526733-03:00",
+   "dia": "2026-11-11"
+  },
+  {
+   "id": "amz-B0HDFYG15C",
+   "canal": "marcas",
+   "nome": "Growth Basic Whey 1kg",
+   "preco_antigo": 72.9,
+   "preco": 53.91,
+   "desconto": 26,
+   "link": "https://www.amazon.com.br/dp/B0HDFYG15C?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61a3T8i8whL._AC_SL1500_.jpg",
+   "loja": "Loja oficial Growth · entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-12T22:00:00-03:00",
+   "gancho": "WHEY GROWTH POR 53",
+   "entrou": "2026-11-11T14:01:03.526733-03:00",
+   "dia": "2026-11-11"
+  },
+  {
+   "id": "amz-B0GJ7H8WLW",
+   "canal": "tech",
+   "nome": "Epson Multifuncional EcoTank L4360",
+   "preco_antigo": 1879.0,
+   "preco": 1324.0,
+   "desconto": 30,
+   "link": "https://www.amazon.com.br/dp/B0GJ7H8WLW?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51SHpx83VNL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-12T22:00:00-03:00",
+   "gancho": "ECOTANK FRENTE E VERSO COM 30% OFF",
+   "entrou": "2026-11-11T14:01:03.526733-03:00",
+   "dia": "2026-11-11"
+  },
+  {
+   "id": "amz-B08R92W45F",
+   "canal": "achadinhos",
+   "nome": "Philco Prancha Ceramic Black PPR08 Bivolt",
+   "preco_antigo": 114.66,
+   "preco": 66.41,
+   "desconto": 42,
+   "link": "https://www.amazon.com.br/dp/B08R92W45F?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/41ID167iREL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-12T22:00:00-03:00",
+   "gancho": "CHAPINHA PHILCO POR 66",
+   "entrou": "2026-11-11T14:01:03.526733-03:00",
+   "dia": "2026-11-11"
+  },
+  {
+   "id": "amz-B0G87ZKH8Q",
+   "canal": "marcas",
+   "nome": "Tênis Puma Flyer Lite 3 Masculino",
+   "preco_antigo": 329.99,
+   "preco": 189.99,
+   "desconto": 42,
+   "link": "https://www.amazon.com.br/dp/B0G87ZKH8Q?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/41OzI9gUyyL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-12T22:00:00-03:00",
+   "gancho": "PUMA FLYER LITE COM 42% OFF",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "entrou": "2026-11-11T14:01:03.526733-03:00",
+   "dia": "2026-11-11"
+  },
+  {
+   "id": "amz-B0BHTSFKQ8",
+   "canal": "tech",
+   "nome": "Dragon Ball The Breakers Ed. Especial - Xbox",
+   "preco_antigo": 129.9,
+   "preco": 70.3,
+   "desconto": 46,
+   "link": "https://www.amazon.com.br/dp/B0BHTSFKQ8?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61quovhTWUL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-12T22:00:00-03:00",
+   "gancho": "DRAGON BALL NO XBOX POR 70",
+   "entrou": "2026-11-11T14:01:03.526733-03:00",
+   "dia": "2026-11-11"
   }
  ],
  "ig_feitos": [
@@ -11782,9 +11909,6 @@
   "2026-11-11 15:03 story_oferta"
  ],
  "ig_ofertas_usadas": [
-  "amz-B0CKJK36MD",
-  "shopee-58257621281",
-  "shopee-18716453608",
   "shopee-20716465989",
   "amz-B07VVMFGTP",
   "amz-B0D44L7TFD",
@@ -12051,51 +12175,6 @@
  "ultimo_pilar": "dica",
  "fila": [
   {
-   "id": "amz-B0DYB2PRJG",
-   "canal": "achadinhos",
-   "nome": "La Roche-Posay Anthelios UVMune 400 Protetor Solar",
-   "preco_antigo": 169.9,
-   "preco": 89.77,
-   "desconto": 47,
-   "link": "https://www.amazon.com.br/dp/B0DYB2PRJG?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/41lt78LhO+L._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-12T22:00:00-03:00",
-   "gancho": "UVMUNE 400 COM 47% OFF",
-   "entrou": "2026-11-11T14:01:03.526733-03:00"
-  },
-  {
-   "id": "amz-B0CL5CN24Y",
-   "canal": "achadinhos",
-   "nome": "Britânia Ventilador BVT491 Maxx Force",
-   "preco_antigo": 278.28,
-   "preco": 125.0,
-   "desconto": 55,
-   "link": "https://www.amazon.com.br/dp/B0CL5CN24Y?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/71a2qO50VQL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-12T22:00:00-03:00",
-   "gancho": "VENTILADOR BRITÂNIA COM 55% OFF",
-   "entrou": "2026-11-11T14:01:03.526733-03:00"
-  },
-  {
-   "id": "amz-B08R92W45F",
-   "canal": "achadinhos",
-   "nome": "Philco Prancha Ceramic Black PPR08 Bivolt",
-   "preco_antigo": 114.66,
-   "preco": 66.41,
-   "desconto": 42,
-   "link": "https://www.amazon.com.br/dp/B08R92W45F?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/41ID167iREL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-12T22:00:00-03:00",
-   "gancho": "CHAPINHA PHILCO POR 66",
-   "entrou": "2026-11-11T14:01:03.526733-03:00"
-  },
-  {
    "id": "amz-B076MDW718",
    "canal": "achadinhos",
    "nome": "Tramontina Jogo de Chaves Combinadas",
@@ -12306,37 +12385,6 @@
    "entrou": "2026-11-11T14:01:03.526733-03:00"
   },
   {
-   "id": "amz-B0HDFYG15C",
-   "canal": "marcas",
-   "nome": "Growth Basic Whey 1kg",
-   "preco_antigo": 72.9,
-   "preco": 53.91,
-   "desconto": 26,
-   "link": "https://www.amazon.com.br/dp/B0HDFYG15C?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61a3T8i8whL._AC_SL1500_.jpg",
-   "loja": "Loja oficial Growth · entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-12T22:00:00-03:00",
-   "gancho": "WHEY GROWTH POR 53",
-   "entrou": "2026-11-11T14:01:03.526733-03:00"
-  },
-  {
-   "id": "amz-B0G87ZKH8Q",
-   "canal": "marcas",
-   "nome": "Tênis Puma Flyer Lite 3 Masculino",
-   "preco_antigo": 329.99,
-   "preco": 189.99,
-   "desconto": 42,
-   "link": "https://www.amazon.com.br/dp/B0G87ZKH8Q?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/41OzI9gUyyL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-12T22:00:00-03:00",
-   "gancho": "PUMA FLYER LITE COM 42% OFF",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "entrou": "2026-11-11T14:01:03.526733-03:00"
-  },
-  {
    "id": "amz-B0HDFV9XDD",
    "canal": "marcas",
    "nome": "Growth Creatina 500g Pouch",
@@ -12506,36 +12554,6 @@
    "valida_ate": "2026-11-12T22:00:00-03:00",
    "gancho": "FILA RENNO COM 46% OFF",
    "extra": "Preço a partir de: varia por tamanho e cor",
-   "entrou": "2026-11-11T14:01:03.526733-03:00"
-  },
-  {
-   "id": "amz-B0GJ7H8WLW",
-   "canal": "tech",
-   "nome": "Epson Multifuncional EcoTank L4360",
-   "preco_antigo": 1879.0,
-   "preco": 1324.0,
-   "desconto": 30,
-   "link": "https://www.amazon.com.br/dp/B0GJ7H8WLW?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51SHpx83VNL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-12T22:00:00-03:00",
-   "gancho": "ECOTANK FRENTE E VERSO COM 30% OFF",
-   "entrou": "2026-11-11T14:01:03.526733-03:00"
-  },
-  {
-   "id": "amz-B0BHTSFKQ8",
-   "canal": "tech",
-   "nome": "Dragon Ball The Breakers Ed. Especial - Xbox",
-   "preco_antigo": 129.9,
-   "preco": 70.3,
-   "desconto": 46,
-   "link": "https://www.amazon.com.br/dp/B0BHTSFKQ8?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61quovhTWUL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-12T22:00:00-03:00",
-   "gancho": "DRAGON BALL NO XBOX POR 70",
    "entrou": "2026-11-11T14:01:03.526733-03:00"
   },
   {
@@ -13436,7 +13454,14 @@
   "appleiphone17256gblavanda": "2026-11-11T14:45:07.530917-03:00",
   "lorealprofessionnelmascaraabsolutrepair": "2026-11-11T14:53:05.572453-03:00",
   "tenisolympikusmarte": "2026-11-11T15:00:51.182358-03:00",
-  "samsunggalaxya575g128gb8gbram": "2026-11-11T15:08:57.468148-03:00"
+  "samsunggalaxya575g128gb8gbram": "2026-11-11T15:08:57.468148-03:00",
+  "larocheposayantheliosuvmune400protetorsolar": "2026-11-11T15:16:50.261397-03:00",
+  "britaniaventiladorbvt491maxxforce": "2026-11-11T15:21:05.292401-03:00",
+  "growthbasicwhey1kg": "2026-11-11T15:27:15.499349-03:00",
+  "epsonmultifuncionalecotankl4360": "2026-11-11T15:33:55.361351-03:00",
+  "philcopranchaceramicblackppr08bivolt": "2026-11-11T15:41:57.548118-03:00",
+  "tenispumaflyerlite3masculino": "2026-11-11T15:49:39.544421-03:00",
+  "dragonballthebreakersedespecialxbox": "2026-11-11T15:57:42.153748-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
@@ -13764,7 +13789,7 @@
   "marcas": "2026-11-11T12:51:21.081776-03:00"
  },
  "top10_dia": "2026-11-07",
- "manuais_lidos": "2026-11-11T15:00:32.575313-03:00",
+ "manuais_lidos": "2026-11-11T15:49:39.221753-03:00",
  "reserva_resultado": {
   "2026-11-07": {
    "achadinhos": {
@@ -13893,7 +13918,7 @@
    "hora": "2026-11-11T12:05:12.905821-03:00"
   }
  },
- "ig_respondido_em": "2026-11-11T15:08:43.078108-03:00",
+ "ig_respondido_em": "2026-11-11T15:57:39.726555-03:00",
  "dm_auto": {
   "2026-11-08": {
    "com_palavra": 0,
