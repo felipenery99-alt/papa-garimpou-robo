@@ -958,7 +958,14 @@
   "2026-11-11 tech 10:55 amz-B0HDYT9D5M",
   "2026-11-11 achadinhos 11:01 amz-B07DXQLB67",
   "2026-11-11 marcas 11:09 amz-B0F5YVHTWG",
-  "2026-11-11 tech 11:17 amz-B089B7Z8ZD"
+  "2026-11-11 tech 11:17 amz-B089B7Z8ZD",
+  "2026-11-11 achadinhos 11:23 amz-B0BMW95J7F",
+  "2026-11-11 achadinhos 11:29 amz-B0FZM1Z85R",
+  "2026-11-11 marcas 11:36 amz-B0CDQHJMD9",
+  "2026-11-11 tech 11:43 amz-B0CD2RBWM6",
+  "2026-11-11 achadinhos 11:51 amz-B076FDKSV6",
+  "2026-11-11 marcas 11:58 amz-B0DCQDP6P4",
+  "2026-11-11 tech 12:06 amz-B0DG6HGF93"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -1882,7 +1889,14 @@
   "amz-B0HDYT9D5M": "2026-11-11T10:55:10.840796-03:00",
   "amz-B07DXQLB67": "2026-11-11T11:01:55.844091-03:00",
   "amz-B0F5YVHTWG": "2026-11-11T11:09:31.195173-03:00",
-  "amz-B089B7Z8ZD": "2026-11-11T11:17:41.197337-03:00"
+  "amz-B089B7Z8ZD": "2026-11-11T11:17:41.197337-03:00",
+  "amz-B0BMW95J7F": "2026-11-11T11:23:29.313221-03:00",
+  "amz-B0FZM1Z85R": "2026-11-11T11:29:36.723784-03:00",
+  "amz-B0CDQHJMD9": "2026-11-11T11:36:47.376445-03:00",
+  "amz-B0CD2RBWM6": "2026-11-11T11:43:52.429931-03:00",
+  "amz-B076FDKSV6": "2026-11-11T11:51:24.159401-03:00",
+  "amz-B0DCQDP6P4": "2026-11-11T11:58:58.415821-03:00",
+  "amz-B0DG6HGF93": "2026-11-11T12:06:14.386369-03:00"
  },
  "ofertas_dia": [
   {
@@ -11059,6 +11073,113 @@
    "valida_ate": "2026-11-12T22:00:00-03:00",
    "entrou": "2026-11-11T09:04:32.696725-03:00",
    "dia": "2026-11-11"
+  },
+  {
+   "id": "amz-B0BMW95J7F",
+   "canal": "achadinhos",
+   "nome": "Cafeteira Nescafé Dolce Gusto Genio Arno",
+   "preco_antigo": 799.99,
+   "preco": 399.0,
+   "desconto": 50,
+   "link": "https://www.amazon.com.br/dp/B0BMW95J7F?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61xvx5R2jML._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-12T22:00:00-03:00",
+   "entrou": "2026-11-11T09:04:32.696725-03:00",
+   "dia": "2026-11-11"
+  },
+  {
+   "id": "amz-B0FZM1Z85R",
+   "canal": "achadinhos",
+   "nome": "Air Fryer WAP Barbecue Heat Digital",
+   "preco_antigo": 1199.0,
+   "preco": 616.56,
+   "desconto": 49,
+   "link": "https://www.amazon.com.br/dp/B0FZM1Z85R?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61g3ih8-gZL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-12T22:00:00-03:00",
+   "entrou": "2026-11-11T09:04:32.696725-03:00",
+   "dia": "2026-11-11"
+  },
+  {
+   "id": "amz-B0CDQHJMD9",
+   "canal": "marcas",
+   "nome": "Chuteira Mizuno Morelia Club",
+   "preco_antigo": 399.99,
+   "preco": 170.91,
+   "desconto": 57,
+   "link": "https://www.amazon.com.br/dp/B0CDQHJMD9?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51fhiF324yL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-12T22:00:00-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "entrou": "2026-11-11T09:04:32.696725-03:00",
+   "dia": "2026-11-11"
+  },
+  {
+   "id": "amz-B0CD2RBWM6",
+   "canal": "tech",
+   "nome": "Mortal Kombat 1 - PlayStation 5",
+   "preco_antigo": 199.9,
+   "preco": 129.9,
+   "desconto": 35,
+   "link": "https://www.amazon.com.br/dp/B0CD2RBWM6?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61CYkp+WN1L._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-12T22:00:00-03:00",
+   "entrou": "2026-11-11T09:04:32.696725-03:00",
+   "dia": "2026-11-11"
+  },
+  {
+   "id": "amz-B076FDKSV6",
+   "canal": "achadinhos",
+   "nome": "Sanduicheira Mondial Fast Grill",
+   "preco_antigo": 144.9,
+   "preco": 64.7,
+   "desconto": 55,
+   "link": "https://www.amazon.com.br/dp/B076FDKSV6?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/716iLMhJVuL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-12T22:00:00-03:00",
+   "entrou": "2026-11-11T09:04:32.696725-03:00",
+   "dia": "2026-11-11"
+  },
+  {
+   "id": "amz-B0DCQDP6P4",
+   "canal": "marcas",
+   "nome": "Kit 4 Cuecas Boxer Lupo sem costura",
+   "preco_antigo": 149.99,
+   "preco": 72.89,
+   "desconto": 51,
+   "link": "https://www.amazon.com.br/dp/B0DCQDP6P4?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71boZeJoHuL._AC_SL1500_.jpg",
+   "loja": "Vendido por parceiro · entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-12T22:00:00-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "entrou": "2026-11-11T09:04:32.696725-03:00",
+   "dia": "2026-11-11"
+  },
+  {
+   "id": "amz-B0DG6HGF93",
+   "canal": "tech",
+   "nome": "Teclado Mecânico Gamer Redragon Valheim",
+   "preco_antigo": 249.55,
+   "preco": 137.91,
+   "desconto": 45,
+   "link": "https://www.amazon.com.br/dp/B0DG6HGF93?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61fq5PhqPQL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-12T22:00:00-03:00",
+   "entrou": "2026-11-11T09:04:32.696725-03:00",
+   "dia": "2026-11-11"
   }
  ],
  "ig_feitos": [
@@ -11192,10 +11313,14 @@
   "2026-11-11 09:38 story_oferta",
   "2026-11-11 10:20 story_oferta",
   "2026-11-11 10:24 story_oferta",
-  "2026-11-11 11:11 story_oferta"
+  "2026-11-11 11:11 story_oferta",
+  "2026-11-11 feed",
+  "2026-11-11 11:50 carrossel_top5",
+  "2026-11-11 11:56 story_oferta",
+  "2026-11-11 feed",
+  "2026-11-11 12:00 reels"
  ],
  "ig_ofertas_usadas": [
-  "amz-B076VYNDMP",
   "amz-B0G73C1LCT",
   "amz-B0BRL93TYM",
   "amz-B0BNP1KZFL",
@@ -11394,11 +11519,12 @@
   "amz-B0GNDP4LTL",
   "amz-B0D44HRWQ4",
   "amz-B0FKC1PTC9",
-  "amz-B0C3NJDQDM"
+  "amz-B0C3NJDQDM",
+  "amz-B081VVJ9FW"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
- "ig_ultimo_reel": "2026-11-10T20:31:48.277550-03:00",
+ "ig_ultimo_reel": "2026-11-11T12:05:12.905821-03:00",
  "pecas_usadas": {
   "ac-preco-inflado": "2026-10-27",
   "dc-7-dias": "2026-10-27",
@@ -11460,48 +11586,6 @@
  },
  "ultimo_pilar": "dica",
  "fila": [
-  {
-   "id": "amz-B0BMW95J7F",
-   "canal": "achadinhos",
-   "nome": "Cafeteira Nescafé Dolce Gusto Genio Arno",
-   "preco_antigo": 799.99,
-   "preco": 399.0,
-   "desconto": 50,
-   "link": "https://www.amazon.com.br/dp/B0BMW95J7F?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61xvx5R2jML._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-12T22:00:00-03:00",
-   "entrou": "2026-11-11T09:04:32.696725-03:00"
-  },
-  {
-   "id": "amz-B0FZM1Z85R",
-   "canal": "achadinhos",
-   "nome": "Air Fryer WAP Barbecue Heat Digital",
-   "preco_antigo": 1199.0,
-   "preco": 616.56,
-   "desconto": 49,
-   "link": "https://www.amazon.com.br/dp/B0FZM1Z85R?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61g3ih8-gZL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-12T22:00:00-03:00",
-   "entrou": "2026-11-11T09:04:32.696725-03:00"
-  },
-  {
-   "id": "amz-B076FDKSV6",
-   "canal": "achadinhos",
-   "nome": "Sanduicheira Mondial Fast Grill",
-   "preco_antigo": 144.9,
-   "preco": 64.7,
-   "desconto": 55,
-   "link": "https://www.amazon.com.br/dp/B076FDKSV6?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/716iLMhJVuL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-12T22:00:00-03:00",
-   "entrou": "2026-11-11T09:04:32.696725-03:00"
-  },
   {
    "id": "amz-B08BXBFCTN",
    "canal": "achadinhos",
@@ -11595,64 +11679,6 @@
    "desconto": 51,
    "link": "https://www.amazon.com.br/dp/B07L8SH6NK?tag=papagarimpou-20",
    "imagem": "https://m.media-amazon.com/images/I/81iejDNyklL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-12T22:00:00-03:00",
-   "entrou": "2026-11-11T09:04:32.696725-03:00"
-  },
-  {
-   "id": "amz-B0CDQHJMD9",
-   "canal": "marcas",
-   "nome": "Chuteira Mizuno Morelia Club",
-   "preco_antigo": 399.99,
-   "preco": 170.91,
-   "desconto": 57,
-   "link": "https://www.amazon.com.br/dp/B0CDQHJMD9?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51fhiF324yL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-12T22:00:00-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "entrou": "2026-11-11T09:04:32.696725-03:00"
-  },
-  {
-   "id": "amz-B0DCQDP6P4",
-   "canal": "marcas",
-   "nome": "Kit 4 Cuecas Boxer Lupo sem costura",
-   "preco_antigo": 149.99,
-   "preco": 72.89,
-   "desconto": 51,
-   "link": "https://www.amazon.com.br/dp/B0DCQDP6P4?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/71boZeJoHuL._AC_SL1500_.jpg",
-   "loja": "Vendido por parceiro · entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-12T22:00:00-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "entrou": "2026-11-11T09:04:32.696725-03:00"
-  },
-  {
-   "id": "amz-B0CD2RBWM6",
-   "canal": "tech",
-   "nome": "Mortal Kombat 1 - PlayStation 5",
-   "preco_antigo": 199.9,
-   "preco": 129.9,
-   "desconto": 35,
-   "link": "https://www.amazon.com.br/dp/B0CD2RBWM6?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61CYkp+WN1L._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-12T22:00:00-03:00",
-   "entrou": "2026-11-11T09:04:32.696725-03:00"
-  },
-  {
-   "id": "amz-B0DG6HGF93",
-   "canal": "tech",
-   "nome": "Teclado Mecânico Gamer Redragon Valheim",
-   "preco_antigo": 249.55,
-   "preco": 137.91,
-   "desconto": 45,
-   "link": "https://www.amazon.com.br/dp/B0DG6HGF93?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61fq5PhqPQL._AC_SL1500_.jpg",
    "loja": "Vendido e entregue pela Amazon",
    "plataforma": "Amazon",
    "valida_ate": "2026-11-12T22:00:00-03:00",
@@ -12570,7 +12596,14 @@
   "kitlogitechcombotecladoemousesemfio": "2026-11-11T10:55:10.840796-03:00",
   "pranchaalisadoramondialgoldenrose": "2026-11-11T11:01:55.844091-03:00",
   "stanleycopotermico3em1comtampaecanudo": "2026-11-11T11:09:31.195173-03:00",
-  "tecladomecanicoredragondarkavenger": "2026-11-11T11:17:41.197337-03:00"
+  "tecladomecanicoredragondarkavenger": "2026-11-11T11:17:41.197337-03:00",
+  "cafeteiranescafedolcegustogenioarno": "2026-11-11T11:23:29.313221-03:00",
+  "airfryerwapbarbecueheatdigital": "2026-11-11T11:29:36.723784-03:00",
+  "chuteiramizunomoreliaclub": "2026-11-11T11:36:47.376445-03:00",
+  "mortalkombat1playstation5": "2026-11-11T11:43:52.429931-03:00",
+  "sanduicheiramondialfastgrill": "2026-11-11T11:51:24.159401-03:00",
+  "kit4cuecasboxerluposemcostura": "2026-11-11T11:58:58.415821-03:00",
+  "tecladomecanicogamerredragonvalheim": "2026-11-11T12:06:14.386369-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
@@ -12776,6 +12809,13 @@
    "shopee-11098381324",
    "amz-B0FP6P8J71",
    "amz-B0FFTY5R7S"
+  ],
+  "2026-11-11": [
+   "shopee-20716465989",
+   "shopee-18716453608",
+   "amz-B081VVJ9FW",
+   "shopee-9841073441",
+   "shopee-22698316479"
   ]
  },
  "vendas_shopee": {},
@@ -12890,7 +12930,7 @@
   "marcas": "2026-11-10T20:41:38.234516-03:00"
  },
  "top10_dia": "2026-11-07",
- "manuais_lidos": "2026-11-11T11:09:30.913676-03:00",
+ "manuais_lidos": "2026-11-11T11:58:34.678977-03:00",
  "reserva_resultado": {
   "2026-11-07": {
    "achadinhos": {
@@ -13013,9 +13053,13 @@
   "18361064083218588": {
    "capa": "ate_off",
    "hora": "2026-11-10T20:31:48.277550-03:00"
+  },
+  "17922331968243285": {
+   "capa": "ate_off",
+   "hora": "2026-11-11T12:05:12.905821-03:00"
   }
  },
- "ig_respondido_em": "2026-11-11T11:17:24.182180-03:00",
+ "ig_respondido_em": "2026-11-11T12:05:12.905821-03:00",
  "dm_auto": {
   "2026-11-08": {
    "com_palavra": 0,
@@ -13107,6 +13151,14 @@
     "capa": "ate_off",
     "legenda": "Manda pra quem tá precisando disso 👇\n😎💎 Até 59% OFF em marca boa: os 5 achados do Papa hoje\n\nLink no perfil: ofertas todo dia no Telegram do Papa 💎\n\nPubli · link de afiliado",
     "url": "https://raw.githubusercontent.com/felipenery99-alt/papa-garimpou-robo/midia-temp/20261110-2031-tiktok.mp4"
+   }
+  ],
+  "2026-11-11": [
+   {
+    "hora": "12:05",
+    "capa": "ate_off",
+    "legenda": "Manda pra quem tá precisando disso 👇\n😎💎 Até 69% OFF em marca boa: os 5 achados do Papa hoje\n\nLink no perfil: ofertas todo dia no Telegram do Papa 💎\n\nPubli · link de afiliado",
+    "url": "https://raw.githubusercontent.com/felipenery99-alt/papa-garimpou-robo/midia-temp/20261111-1205-tiktok.mp4"
    }
   ]
  }
