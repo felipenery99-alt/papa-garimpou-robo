@@ -965,7 +965,13 @@
   "2026-11-11 tech 11:43 amz-B0CD2RBWM6",
   "2026-11-11 achadinhos 11:51 amz-B076FDKSV6",
   "2026-11-11 marcas 11:58 amz-B0DCQDP6P4",
-  "2026-11-11 tech 12:06 amz-B0DG6HGF93"
+  "2026-11-11 tech 12:06 amz-B0DG6HGF93",
+  "2026-11-11 achadinhos 12:13 amz-B08BXBFCTN",
+  "2026-11-11 marcas 12:21 shopee-54166806189",
+  "2026-11-11 achadinhos 12:29 amz-B0CLBFZ3Z4",
+  "2026-11-11 tech 12:36 amz-B0BGT5CMBJ",
+  "2026-11-11 achadinhos 12:43 amz-B0GTC4571N",
+  "2026-11-11 tech 12:55 amz-B0DDYD41PP"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -1896,7 +1902,13 @@
   "amz-B0CD2RBWM6": "2026-11-11T11:43:52.429931-03:00",
   "amz-B076FDKSV6": "2026-11-11T11:51:24.159401-03:00",
   "amz-B0DCQDP6P4": "2026-11-11T11:58:58.415821-03:00",
-  "amz-B0DG6HGF93": "2026-11-11T12:06:14.386369-03:00"
+  "amz-B0DG6HGF93": "2026-11-11T12:06:14.386369-03:00",
+  "amz-B08BXBFCTN": "2026-11-11T12:13:44.152850-03:00",
+  "shopee-54166806189": "2026-11-11T12:21:45.450275-03:00",
+  "amz-B0CLBFZ3Z4": "2026-11-11T12:29:42.052826-03:00",
+  "amz-B0BGT5CMBJ": "2026-11-11T12:36:06.722111-03:00",
+  "amz-B0GTC4571N": "2026-11-11T12:43:53.988972-03:00",
+  "amz-B0DDYD41PP": "2026-11-11T12:55:53.953148-03:00"
  },
  "ofertas_dia": [
   {
@@ -11180,6 +11192,99 @@
    "valida_ate": "2026-11-12T22:00:00-03:00",
    "entrou": "2026-11-11T09:04:32.696725-03:00",
    "dia": "2026-11-11"
+  },
+  {
+   "id": "amz-B08BXBFCTN",
+   "canal": "achadinhos",
+   "nome": "Batedeira Mondial Prática 400W",
+   "preco_antigo": 139.9,
+   "preco": 62.91,
+   "desconto": 55,
+   "link": "https://www.amazon.com.br/dp/B08BXBFCTN?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71a-aiH-n+L._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-12T22:00:00-03:00",
+   "entrou": "2026-11-11T09:04:32.696725-03:00",
+   "dia": "2026-11-11"
+  },
+  {
+   "id": "shopee-54166806189",
+   "plataforma": "Shopee",
+   "nome": "Creatina Monohidratada - Growth Supplements - Sem sabor em pó",
+   "loja": "GROWTH SUPPLEMENTS",
+   "loja_oficial": true,
+   "preco": 29.9,
+   "preco_antigo": 39.87,
+   "desconto": 25,
+   "vendas": 19728,
+   "nota": 4.9,
+   "comissao_pct": 11.0,
+   "imagem": "https://cf.shopee.com.br/file/sg-11134201-8259o-msdjsuyzmzgod8",
+   "link": "https://s.shopee.com.br/2BGMJQZjLO",
+   "canal": "marcas",
+   "entrou": "2026-11-11T09:48:20.890634-03:00",
+   "dia": "2026-11-11"
+  },
+  {
+   "id": "amz-B0CLBFZ3Z4",
+   "canal": "achadinhos",
+   "nome": "Batedeira Britânia Pérola 550",
+   "preco_antigo": 189.0,
+   "preco": 93.11,
+   "desconto": 51,
+   "link": "https://www.amazon.com.br/dp/B0CLBFZ3Z4?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51qLj-7DnGL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-12T22:00:00-03:00",
+   "entrou": "2026-11-11T09:04:32.696725-03:00",
+   "dia": "2026-11-11"
+  },
+  {
+   "id": "amz-B0BGT5CMBJ",
+   "canal": "tech",
+   "nome": "Webcam Full HD Logitech Brio 500",
+   "preco_antigo": 799.9,
+   "preco": 449.92,
+   "desconto": 44,
+   "link": "https://www.amazon.com.br/dp/B0BGT5CMBJ?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51+PZRAG2oL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-12T22:00:00-03:00",
+   "entrou": "2026-11-11T09:04:32.696725-03:00",
+   "dia": "2026-11-11"
+  },
+  {
+   "id": "amz-B0GTC4571N",
+   "canal": "achadinhos",
+   "nome": "Aspirador Robô Philco com função MOP",
+   "preco_antigo": 1209.0,
+   "preco": 584.91,
+   "desconto": 52,
+   "link": "https://www.amazon.com.br/dp/B0GTC4571N?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/5196EU7pnOL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-12T22:00:00-03:00",
+   "entrou": "2026-11-11T09:04:32.696725-03:00",
+   "dia": "2026-11-11"
+  },
+  {
+   "id": "amz-B0DDYD41PP",
+   "canal": "tech",
+   "nome": "EA Sports FC 25 - PlayStation 5",
+   "preco_antigo": 379.9,
+   "preco": 188.1,
+   "desconto": 50,
+   "link": "https://www.amazon.com.br/dp/B0DDYD41PP?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/6190AxEE7WL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-12T22:00:00-03:00",
+   "entrou": "2026-11-11T09:04:32.696725-03:00",
+   "dia": "2026-11-11"
   }
  ],
  "ig_feitos": [
@@ -11318,11 +11423,12 @@
   "2026-11-11 11:50 carrossel_top5",
   "2026-11-11 11:56 story_oferta",
   "2026-11-11 feed",
-  "2026-11-11 12:00 reels"
+  "2026-11-11 12:00 reels",
+  "2026-11-11 12:15 story_top4",
+  "2026-11-11 12:19 story_oferta",
+  "2026-11-11 12:47 story_oferta"
  ],
  "ig_ofertas_usadas": [
-  "amz-B0G73C1LCT",
-  "amz-B0BRL93TYM",
   "amz-B0BNP1KZFL",
   "amz-B0CKJK36MD",
   "shopee-58257621281",
@@ -11520,7 +11626,9 @@
   "amz-B0D44HRWQ4",
   "amz-B0FKC1PTC9",
   "amz-B0C3NJDQDM",
-  "amz-B081VVJ9FW"
+  "amz-B081VVJ9FW",
+  "amz-B01N0TQPQB",
+  "amz-B07KYFQRXD"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
@@ -11587,48 +11695,6 @@
  "ultimo_pilar": "dica",
  "fila": [
   {
-   "id": "amz-B08BXBFCTN",
-   "canal": "achadinhos",
-   "nome": "Batedeira Mondial Prática 400W",
-   "preco_antigo": 139.9,
-   "preco": 62.91,
-   "desconto": 55,
-   "link": "https://www.amazon.com.br/dp/B08BXBFCTN?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/71a-aiH-n+L._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-12T22:00:00-03:00",
-   "entrou": "2026-11-11T09:04:32.696725-03:00"
-  },
-  {
-   "id": "amz-B0CLBFZ3Z4",
-   "canal": "achadinhos",
-   "nome": "Batedeira Britânia Pérola 550",
-   "preco_antigo": 189.0,
-   "preco": 93.11,
-   "desconto": 51,
-   "link": "https://www.amazon.com.br/dp/B0CLBFZ3Z4?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51qLj-7DnGL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-12T22:00:00-03:00",
-   "entrou": "2026-11-11T09:04:32.696725-03:00"
-  },
-  {
-   "id": "amz-B0GTC4571N",
-   "canal": "achadinhos",
-   "nome": "Aspirador Robô Philco com função MOP",
-   "preco_antigo": 1209.0,
-   "preco": 584.91,
-   "desconto": 52,
-   "link": "https://www.amazon.com.br/dp/B0GTC4571N?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/5196EU7pnOL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-12T22:00:00-03:00",
-   "entrou": "2026-11-11T09:04:32.696725-03:00"
-  },
-  {
    "id": "amz-B0FN889LGY",
    "canal": "achadinhos",
    "nome": "Escova de Dente Elétrica Philips Colgate",
@@ -11679,34 +11745,6 @@
    "desconto": 51,
    "link": "https://www.amazon.com.br/dp/B07L8SH6NK?tag=papagarimpou-20",
    "imagem": "https://m.media-amazon.com/images/I/81iejDNyklL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-12T22:00:00-03:00",
-   "entrou": "2026-11-11T09:04:32.696725-03:00"
-  },
-  {
-   "id": "amz-B0BGT5CMBJ",
-   "canal": "tech",
-   "nome": "Webcam Full HD Logitech Brio 500",
-   "preco_antigo": 799.9,
-   "preco": 449.92,
-   "desconto": 44,
-   "link": "https://www.amazon.com.br/dp/B0BGT5CMBJ?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51+PZRAG2oL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-12T22:00:00-03:00",
-   "entrou": "2026-11-11T09:04:32.696725-03:00"
-  },
-  {
-   "id": "amz-B0DDYD41PP",
-   "canal": "tech",
-   "nome": "EA Sports FC 25 - PlayStation 5",
-   "preco_antigo": 379.9,
-   "preco": 188.1,
-   "desconto": 50,
-   "link": "https://www.amazon.com.br/dp/B0DDYD41PP?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/6190AxEE7WL._AC_SL1500_.jpg",
    "loja": "Vendido e entregue pela Amazon",
    "plataforma": "Amazon",
    "valida_ate": "2026-11-12T22:00:00-03:00",
@@ -11773,40 +11811,6 @@
    "entrou": "2026-11-11T09:48:20.890634-03:00"
   },
   {
-   "id": "shopee-54166806189",
-   "plataforma": "Shopee",
-   "nome": "Creatina Monohidratada - Growth Supplements - Sem sabor em pó",
-   "loja": "GROWTH SUPPLEMENTS",
-   "loja_oficial": true,
-   "preco": 29.9,
-   "preco_antigo": 39.87,
-   "desconto": 25,
-   "vendas": 19728,
-   "nota": 4.9,
-   "comissao_pct": 11.0,
-   "imagem": "https://cf.shopee.com.br/file/sg-11134201-8259o-msdjsuyzmzgod8",
-   "link": "https://s.shopee.com.br/2BGMJQZjLO",
-   "canal": "marcas",
-   "entrou": "2026-11-11T09:48:20.890634-03:00"
-  },
-  {
-   "id": "shopee-45766835949",
-   "plataforma": "Shopee",
-   "nome": "Creatina Monohidratada - Growth Supplements - Sem sabor em pó",
-   "loja": "GROWTH SUPPLEMENTS",
-   "loja_oficial": true,
-   "preco": 55.9,
-   "preco_antigo": 78.73,
-   "desconto": 29,
-   "vendas": 3186,
-   "nota": 4.9,
-   "comissao_pct": 11.0,
-   "imagem": "https://cf.shopee.com.br/file/sg-11134201-825ai-msdjr8a5sf0k10",
-   "link": "https://s.shopee.com.br/20ww77aMgN",
-   "canal": "marcas",
-   "entrou": "2026-11-11T09:48:20.890634-03:00"
-  },
-  {
    "id": "amz-B08N2GBVR5",
    "canal": "achadinhos",
    "nome": "Creme Facial NIVEA Q10 Energy Antissinais",
@@ -11819,6 +11823,60 @@
    "plataforma": "Amazon",
    "valida_ate": "2026-11-12T22:00:00-03:00",
    "entrou": "2026-11-11T10:19:38.335474-03:00"
+  },
+  {
+   "id": "shopee-22799189910",
+   "plataforma": "Shopee",
+   "nome": "Tênis de Caminhada Casual Unissex Confortável Beats - Olympikus",
+   "loja": "Tubarão Max",
+   "loja_oficial": true,
+   "preco": 199.9,
+   "preco_antigo": 350.7,
+   "desconto": 43,
+   "vendas": 224,
+   "nota": 4.9,
+   "comissao_pct": 3.0,
+   "imagem": "https://cf.shopee.com.br/file/br-11134207-820m9-mm9aluy1hj4756",
+   "link": "https://s.shopee.com.br/3g5Ah9OC6m",
+   "quase": true,
+   "canal": "marcas",
+   "entrou": "2026-11-11T12:51:21.081776-03:00"
+  },
+  {
+   "id": "shopee-45758904446",
+   "plataforma": "Shopee",
+   "nome": "Tênis de Corrida Nuvem Unissex Confortável - Olympikus",
+   "loja": "Tubarão Max",
+   "loja_oficial": true,
+   "preco": 272.9,
+   "preco_antigo": 470.52,
+   "desconto": 42,
+   "vendas": 195,
+   "nota": 5.0,
+   "comissao_pct": 3.0,
+   "imagem": "https://cf.shopee.com.br/file/br-11134207-820lw-mn4dfaxbx4htc7",
+   "link": "https://s.shopee.com.br/7fbJSV8xzR",
+   "quase": true,
+   "canal": "marcas",
+   "entrou": "2026-11-11T12:51:21.081776-03:00"
+  },
+  {
+   "id": "shopee-47066824855",
+   "plataforma": "Shopee",
+   "nome": "Basic Whey 1kg Growth Supplements",
+   "loja": "GROWTH SUPPLEMENTS",
+   "loja_oficial": true,
+   "preco": 59.9,
+   "preco_antigo": 74.88,
+   "desconto": 20,
+   "vendas": 966,
+   "nota": 4.9,
+   "comissao_pct": 11.0,
+   "imagem": "https://cf.shopee.com.br/file/sg-11134201-8259y-msdjeui427swcc",
+   "link": "https://s.shopee.com.br/W88KbEUxP",
+   "quase": true,
+   "canal": "marcas",
+   "entrou": "2026-11-11T12:51:21.081776-03:00"
   }
  ],
  "menus_fixados": [
@@ -12603,7 +12661,13 @@
   "mortalkombat1playstation5": "2026-11-11T11:43:52.429931-03:00",
   "sanduicheiramondialfastgrill": "2026-11-11T11:51:24.159401-03:00",
   "kit4cuecasboxerluposemcostura": "2026-11-11T11:58:58.415821-03:00",
-  "tecladomecanicogamerredragonvalheim": "2026-11-11T12:06:14.386369-03:00"
+  "tecladomecanicogamerredragonvalheim": "2026-11-11T12:06:14.386369-03:00",
+  "batedeiramondialpratica400w": "2026-11-11T12:13:44.152850-03:00",
+  "creatinamonohidratadagrowthsupplementssemsaborempo": "2026-11-11T12:21:45.450275-03:00",
+  "batedeirabritaniaperola550": "2026-11-11T12:29:42.052826-03:00",
+  "webcamfullhdlogitechbrio500": "2026-11-11T12:36:06.722111-03:00",
+  "aspiradorrobophilcocomfuncaomop": "2026-11-11T12:43:53.988972-03:00",
+  "easportsfc25playstation5": "2026-11-11T12:55:53.953148-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
@@ -12891,7 +12955,7 @@
  "pede_semana": "2026-46",
  "ultimo_garimpo": "2026-11-11T08:56:35-03:00",
  "vigia_aviso_post": "2026-11-09T18:27:03.734589-03:00",
- "vigia_aviso_garimpo": "2026-11-11T08:18:02.142474-03:00",
+ "vigia_aviso_garimpo": "2026-11-11T12:06:58.441972-03:00",
  "resumo_enviado": "2026-11-10",
  "token_conferido": "2026-11-11",
  "meta_token": {
@@ -12923,14 +12987,14 @@
   "2026-11-09 noite tech",
   "2026-11-10 noite marcas"
  ],
- "reserva_meio": "2026-11-11T08:55:56.837186-03:00",
+ "reserva_meio": "2026-11-11T12:51:21.081776-03:00",
  "reserva_cheia": {
   "achadinhos": "2026-11-09T18:09:55.295113-03:00",
   "tech": "2026-11-11T08:39:45.270035-03:00",
-  "marcas": "2026-11-10T20:41:38.234516-03:00"
+  "marcas": "2026-11-11T12:51:21.081776-03:00"
  },
  "top10_dia": "2026-11-07",
- "manuais_lidos": "2026-11-11T11:58:34.678977-03:00",
+ "manuais_lidos": "2026-11-11T12:43:53.588700-03:00",
  "reserva_resultado": {
   "2026-11-07": {
    "achadinhos": {
@@ -12998,7 +13062,7 @@
   "2026-11-11": {
    "marcas": {
     "busca": 0,
-    "quase": 0,
+    "quase": 3,
     "reprise": 0
    },
    "tech": {
@@ -13059,7 +13123,7 @@
    "hora": "2026-11-11T12:05:12.905821-03:00"
   }
  },
- "ig_respondido_em": "2026-11-11T12:05:12.905821-03:00",
+ "ig_respondido_em": "2026-11-11T12:51:21.081776-03:00",
  "dm_auto": {
   "2026-11-08": {
    "com_palavra": 0,
