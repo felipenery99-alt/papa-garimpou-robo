@@ -30,6 +30,30 @@
      "canal": "achadinhos"
     }
    ]
+  },
+  {
+   "tipo": "a_ou_b",
+   "hora": "18:19",
+   "produtos": [
+    {
+     "nome": "Kit De 6 Pares Meias Cano Invisível Lupo Sport Algodão Soquete Sapatilha Unissex",
+     "preco_antigo": 81.43,
+     "preco": 45.6,
+     "desconto": 44,
+     "link": "https://s.shopee.com.br/2BGMJbQt4a",
+     "loja": "Deccó",
+     "canal": "marcas"
+    },
+    {
+     "nome": "Creatina Monohidratada - Growth Supplements - Sem sabor em pó",
+     "preco_antigo": 39.87,
+     "preco": 29.9,
+     "desconto": 25,
+     "link": "https://s.shopee.com.br/2BGMJQZjLO",
+     "loja": "GROWTH SUPPLEMENTS",
+     "canal": "marcas"
+    }
+   ]
   }
  ]
 }
