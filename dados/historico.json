@@ -1003,7 +1003,14 @@
   "2026-11-11 tech 16:20 amz-B0D4VKD19F",
   "2026-11-11 achadinhos 16:27 amz-B0F4LHGTDY",
   "2026-11-11 marcas 16:34 amz-B0DWC22Y7J",
-  "2026-11-11 tech 16:42 amz-B0GVSXJF6K"
+  "2026-11-11 tech 16:42 amz-B0GVSXJF6K",
+  "2026-11-11 achadinhos 16:50 amz-B076BBQS8B",
+  "2026-11-11 achadinhos 16:56 amz-B07G56XF47",
+  "2026-11-11 marcas 17:04 amz-B0G4NFQWG8",
+  "2026-11-11 tech 17:11 amz-B0FR6PC1FB",
+  "2026-11-11 achadinhos 17:18 amz-B084XRBHB8",
+  "2026-11-11 marcas 17:25 amz-B0GML3T1SP",
+  "2026-11-11 tech 17:31 amz-B0F3LZ6RHF"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -1972,7 +1979,14 @@
   "amz-B0D4VKD19F": "2026-11-11T16:20:11.400610-03:00",
   "amz-B0F4LHGTDY": "2026-11-11T16:27:55.932666-03:00",
   "amz-B0DWC22Y7J": "2026-11-11T16:34:17.801255-03:00",
-  "amz-B0GVSXJF6K": "2026-11-11T16:42:11.692298-03:00"
+  "amz-B0GVSXJF6K": "2026-11-11T16:42:11.692298-03:00",
+  "amz-B076BBQS8B": "2026-11-11T16:50:36.484359-03:00",
+  "amz-B07G56XF47": "2026-11-11T16:56:28.573489-03:00",
+  "amz-B0G4NFQWG8": "2026-11-11T17:04:30.083569-03:00",
+  "amz-B0FR6PC1FB": "2026-11-11T17:11:32.483341-03:00",
+  "amz-B084XRBHB8": "2026-11-11T17:18:53.006917-03:00",
+  "amz-B0GML3T1SP": "2026-11-11T17:25:16.850449-03:00",
+  "amz-B0F3LZ6RHF": "2026-11-11T17:31:36.255697-03:00"
  },
  "ofertas_dia": [
   {
@@ -11870,6 +11884,120 @@
    "gancho": "GALAXY A37 COM 48% OFF",
    "entrou": "2026-11-11T14:01:03.526733-03:00",
    "dia": "2026-11-11"
+  },
+  {
+   "id": "amz-B076BBQS8B",
+   "canal": "achadinhos",
+   "nome": "Tramontina Panela de Pressão Vancouver Vermelha",
+   "preco_antigo": 311.5,
+   "preco": 160.12,
+   "desconto": 49,
+   "link": "https://www.amazon.com.br/dp/B076BBQS8B?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/81P4NbJcaVS._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-12T22:00:00-03:00",
+   "gancho": "PANELA DE PRESSÃO TRAMONTINA COM 49% OFF",
+   "entrou": "2026-11-11T14:01:03.526733-03:00",
+   "dia": "2026-11-11"
+  },
+  {
+   "id": "amz-B07G56XF47",
+   "canal": "achadinhos",
+   "nome": "Mondial Aparador de Pelos Super Groom 06",
+   "preco_antigo": 169.9,
+   "preco": 78.75,
+   "desconto": 54,
+   "link": "https://www.amazon.com.br/dp/B07G56XF47?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/7199zo-i10L._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-12T22:00:00-03:00",
+   "gancho": "APARADOR MONDIAL COM 54% OFF",
+   "entrou": "2026-11-11T14:01:03.526733-03:00",
+   "dia": "2026-11-11"
+  },
+  {
+   "id": "amz-B0G4NFQWG8",
+   "canal": "marcas",
+   "nome": "Camisa Palmeiras Puma Jogador Home 26",
+   "preco_antigo": 599.99,
+   "preco": 323.91,
+   "desconto": 46,
+   "link": "https://www.amazon.com.br/dp/B0G4NFQWG8?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51bB8xTcl9L._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-12T22:00:00-03:00",
+   "gancho": "CAMISA OFICIAL DO VERDÃO COM 46% OFF",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "entrou": "2026-11-11T14:01:03.526733-03:00",
+   "dia": "2026-11-11"
+  },
+  {
+   "id": "amz-B0FR6PC1FB",
+   "canal": "tech",
+   "nome": "Nintendo Switch OLED + Super Mario Bros Wonder (bundle)",
+   "preco_antigo": 2699.9,
+   "preco": 1899.0,
+   "desconto": 30,
+   "link": "https://www.amazon.com.br/dp/B0FR6PC1FB?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61JwTVae3+L._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-12T22:00:00-03:00",
+   "gancho": "SWITCH OLED COM MARIO COM 30% OFF",
+   "entrou": "2026-11-11T14:01:03.526733-03:00",
+   "dia": "2026-11-11"
+  },
+  {
+   "id": "amz-B084XRBHB8",
+   "canal": "achadinhos",
+   "nome": "Mondial Sanduicheira Master Grill",
+   "preco_antigo": 149.9,
+   "preco": 73.58,
+   "desconto": 51,
+   "link": "https://www.amazon.com.br/dp/B084XRBHB8?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61eGDtwre7L._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-12T22:00:00-03:00",
+   "gancho": "MISTO QUENTE COM 51% OFF",
+   "entrou": "2026-11-11T14:01:03.526733-03:00",
+   "dia": "2026-11-11"
+  },
+  {
+   "id": "amz-B0GML3T1SP",
+   "canal": "marcas",
+   "nome": "Tênis Under Armour Charged Skyline 5",
+   "preco_antigo": 499.99,
+   "preco": 269.9,
+   "desconto": 46,
+   "link": "https://www.amazon.com.br/dp/B0GML3T1SP?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71q1WWeZMVL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-12T22:00:00-03:00",
+   "gancho": "UNDER ARMOUR COM 46% OFF",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "entrou": "2026-11-11T14:01:03.526733-03:00",
+   "dia": "2026-11-11"
+  },
+  {
+   "id": "amz-B0F3LZ6RHF",
+   "canal": "tech",
+   "nome": "Samsung Galaxy Tab S10 FE 10,9\" 128GB",
+   "preco_antigo": 4199.0,
+   "preco": 2809.11,
+   "desconto": 33,
+   "link": "https://www.amazon.com.br/dp/B0F3LZ6RHF?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51xCqbHa+RL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-12T22:00:00-03:00",
+   "gancho": "GALAXY TAB S10 FE COM 33% OFF",
+   "entrou": "2026-11-11T14:01:03.526733-03:00",
+   "dia": "2026-11-11"
   }
  ],
  "ig_feitos": [
@@ -12016,10 +12144,10 @@
   "2026-11-11 14:08 story_oferta",
   "2026-11-11 15:00 adivinha",
   "2026-11-11 15:03 story_oferta",
-  "2026-11-11 16:05 adivinha_resposta"
+  "2026-11-11 16:05 adivinha_resposta",
+  "2026-11-11 16:44 story_oferta"
  ],
  "ig_ofertas_usadas": [
-  "shopee-20716465989",
   "amz-B07VVMFGTP",
   "amz-B0D44L7TFD",
   "amz-B000RPLZAM",
@@ -12218,7 +12346,8 @@
   "amz-B0DY2XBWD4",
   "amz-B0B2V9WTS2",
   "amz-B08LBQWQV4",
-  "amz-B0776W3D62"
+  "amz-B0776W3D62",
+  "shopee-18716453608"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
@@ -12284,51 +12413,6 @@
  },
  "ultimo_pilar": "dica",
  "fila": [
-  {
-   "id": "amz-B076BBQS8B",
-   "canal": "achadinhos",
-   "nome": "Tramontina Panela de Pressão Vancouver Vermelha",
-   "preco_antigo": 311.5,
-   "preco": 160.12,
-   "desconto": 49,
-   "link": "https://www.amazon.com.br/dp/B076BBQS8B?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/81P4NbJcaVS._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-12T22:00:00-03:00",
-   "gancho": "PANELA DE PRESSÃO TRAMONTINA COM 49% OFF",
-   "entrou": "2026-11-11T14:01:03.526733-03:00"
-  },
-  {
-   "id": "amz-B07G56XF47",
-   "canal": "achadinhos",
-   "nome": "Mondial Aparador de Pelos Super Groom 06",
-   "preco_antigo": 169.9,
-   "preco": 78.75,
-   "desconto": 54,
-   "link": "https://www.amazon.com.br/dp/B07G56XF47?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/7199zo-i10L._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-12T22:00:00-03:00",
-   "gancho": "APARADOR MONDIAL COM 54% OFF",
-   "entrou": "2026-11-11T14:01:03.526733-03:00"
-  },
-  {
-   "id": "amz-B084XRBHB8",
-   "canal": "achadinhos",
-   "nome": "Mondial Sanduicheira Master Grill",
-   "preco_antigo": 149.9,
-   "preco": 73.58,
-   "desconto": 51,
-   "link": "https://www.amazon.com.br/dp/B084XRBHB8?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61eGDtwre7L._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-12T22:00:00-03:00",
-   "gancho": "MISTO QUENTE COM 51% OFF",
-   "entrou": "2026-11-11T14:01:03.526733-03:00"
-  },
   {
    "id": "amz-B08K1B2NHM",
    "canal": "achadinhos",
@@ -12465,38 +12549,6 @@
    "entrou": "2026-11-11T14:01:03.526733-03:00"
   },
   {
-   "id": "amz-B0G4NFQWG8",
-   "canal": "marcas",
-   "nome": "Camisa Palmeiras Puma Jogador Home 26",
-   "preco_antigo": 599.99,
-   "preco": 323.91,
-   "desconto": 46,
-   "link": "https://www.amazon.com.br/dp/B0G4NFQWG8?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51bB8xTcl9L._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-12T22:00:00-03:00",
-   "gancho": "CAMISA OFICIAL DO VERDÃO COM 46% OFF",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "entrou": "2026-11-11T14:01:03.526733-03:00"
-  },
-  {
-   "id": "amz-B0GML3T1SP",
-   "canal": "marcas",
-   "nome": "Tênis Under Armour Charged Skyline 5",
-   "preco_antigo": 499.99,
-   "preco": 269.9,
-   "desconto": 46,
-   "link": "https://www.amazon.com.br/dp/B0GML3T1SP?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/71q1WWeZMVL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-12T22:00:00-03:00",
-   "gancho": "UNDER ARMOUR COM 46% OFF",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "entrou": "2026-11-11T14:01:03.526733-03:00"
-  },
-  {
    "id": "amz-B0F61S2T6G",
    "canal": "marcas",
    "nome": "Stanley Copo Quencher Protour Flip Straw Frost",
@@ -12603,36 +12655,6 @@
    "valida_ate": "2026-11-12T22:00:00-03:00",
    "gancho": "FILA RENNO COM 46% OFF",
    "extra": "Preço a partir de: varia por tamanho e cor",
-   "entrou": "2026-11-11T14:01:03.526733-03:00"
-  },
-  {
-   "id": "amz-B0FR6PC1FB",
-   "canal": "tech",
-   "nome": "Nintendo Switch OLED + Super Mario Bros Wonder (bundle)",
-   "preco_antigo": 2699.9,
-   "preco": 1899.0,
-   "desconto": 30,
-   "link": "https://www.amazon.com.br/dp/B0FR6PC1FB?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61JwTVae3+L._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-12T22:00:00-03:00",
-   "gancho": "SWITCH OLED COM MARIO COM 30% OFF",
-   "entrou": "2026-11-11T14:01:03.526733-03:00"
-  },
-  {
-   "id": "amz-B0F3LZ6RHF",
-   "canal": "tech",
-   "nome": "Samsung Galaxy Tab S10 FE 10,9\" 128GB",
-   "preco_antigo": 4199.0,
-   "preco": 2809.11,
-   "desconto": 33,
-   "link": "https://www.amazon.com.br/dp/B0F3LZ6RHF?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51xCqbHa+RL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-12T22:00:00-03:00",
-   "gancho": "GALAXY TAB S10 FE COM 33% OFF",
    "entrou": "2026-11-11T14:01:03.526733-03:00"
   },
   {
@@ -13486,7 +13508,14 @@
   "smarttvlg554kqneda5ger7ai": "2026-11-11T16:20:11.400610-03:00",
   "lorealpariselsevebondrepairshampoo": "2026-11-11T16:27:55.932666-03:00",
   "tenisolympikusbeatsunissex": "2026-11-11T16:34:17.801255-03:00",
-  "samsunggalaxya375g256gb8gb": "2026-11-11T16:42:11.692298-03:00"
+  "samsunggalaxya375g256gb8gb": "2026-11-11T16:42:11.692298-03:00",
+  "tramontinapaneladepressaovancouververmelha": "2026-11-11T16:50:36.484359-03:00",
+  "mondialaparadordepelossupergroom06": "2026-11-11T16:56:28.573489-03:00",
+  "camisapalmeiraspumajogadorhome26": "2026-11-11T17:04:30.083569-03:00",
+  "nintendoswitcholedsupermariobroswonderbundle": "2026-11-11T17:11:32.483341-03:00",
+  "mondialsanduicheiramastergrill": "2026-11-11T17:18:53.006917-03:00",
+  "tenisunderarmourchargedskyline5": "2026-11-11T17:25:16.850449-03:00",
+  "samsunggalaxytabs10fe109128gb": "2026-11-11T17:31:36.255697-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
@@ -13814,7 +13843,7 @@
   "marcas": "2026-11-11T12:51:21.081776-03:00"
  },
  "top10_dia": "2026-11-07",
- "manuais_lidos": "2026-11-11T16:34:13.967623-03:00",
+ "manuais_lidos": "2026-11-11T17:25:16.513077-03:00",
  "reserva_resultado": {
   "2026-11-07": {
    "achadinhos": {
@@ -13943,7 +13972,7 @@
    "hora": "2026-11-11T12:05:12.905821-03:00"
   }
  },
- "ig_respondido_em": "2026-11-11T16:34:13.967623-03:00",
+ "ig_respondido_em": "2026-11-11T17:31:32.625489-03:00",
  "dm_auto": {
   "2026-11-08": {
    "com_palavra": 0,
