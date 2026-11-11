@@ -239,12 +239,14 @@ BOAS_VINDAS = ("💎 Bem-vindo ao Papa Garimpou!\n"
 # Achadinhos e Marcas encurtados (mesmas palavras de busca) para caber em 255 com o bloco de links e o #publi.
 # 10/11 (CEO): meta do Telegram perdida (18 de 80) → em novembro muita gente busca "black friday" no Telegram;
 # Tech e Todas as Ofertas ganham "Black Friday" no título (descrições iguais). Voltar o título antigo em 01/12.
-CANAIS_INFO_VERSAO = "2026-11-10"
+# 11/11 (CEO): em 10/11 Tech subiu 5→6 com o título novo; Achadinhos parado em 3 desde o início → Achadinhos e
+# Marcas também ganham "Black Friday" no título (descrições iguais). Voltar todos em 01/12.
+CANAIS_INFO_VERSAO = "2026-11-11"
 CANAIS_INFO = {
-    "@papagarimpou": ("Papa Garimpou 💎 Promoções, Cupons e Achadinhos",
+    "@papagarimpou": ("Papa Garimpou 💎 Black Friday, Promoções, Cupons e Achadinhos",
                       "🛒 Promoções e cupons: casa, cozinha, beleza, ferramentas. Achadinhos Amazon, Shopee, "
                       "Mercado Livre e Magalu."),
-    "@papagarimpoumarcas": ("Papa Garimpou Marcas 💎 Promoções de Tênis, Roupa e Perfume",
+    "@papagarimpoumarcas": ("Papa Garimpou Marcas 💎 Black Friday e Promoções de Tênis, Roupa e Perfume",
                             "👕 Promoções de tênis, roupa, perfume e academia ORIGINAIS. Amazon, Shopee, Mercado Livre, "
                             "Nike e Netshoes, só loja oficial."),
     "@papagarimpoutech": ("Papa Garimpou Tech 💎 Black Friday e Promoções de Eletrônicos e Games",

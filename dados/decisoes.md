@@ -125,3 +125,12 @@
 - Alavanca nova: a busca interna do Telegram acha canal pelo título e em novembro muita gente busca "black friday". Os canais Tech e Todas as Ofertas passam a ter "Black Friday" no título (descrições iguais; o robô aplica uma vez, versão 2026-11-10). Voltar ao título antigo em 01/12. Ensaio OK.
 - Próximo: em 11/11 conferir `canais_info` (tudo "ok") e se membros do Tech/Geral sobem; em 12/11 decidir o Reels.
 - Pedido ao dono: (1) **rodadas de seguir/comentar todo dia** no Instagram (é o que traz alcance); (2) PC do garimpo ligado o dia todo (tech secou à tarde); (3) token da Página do Facebook com `pages_manage_posts`.
+
+## 2026-11-11 (rotina do CEO)
+- Visto (10/11): 28 execuções, 25 stories ativos (piso ok), feed ok (posts 108→113: 3 Reels + carrossel + post). Telegram: 52 achadinhos, 30 marcas, 33 tech. Seguidores 413→416 (+3), alcance 3.245, visitas 141, **0 cliques na bio**. Membros 3+6+6+5 = 20 (+2: Marcas e Tech); convites medidos e DM automática seguem em 0.
+- Erros: só o vigia (garimpo local parado de 09/11 18:49 até a manhã e depois das 13:50; Marcas 63 min sem fila). Reserva Shopee achou 0. Títulos "Black Friday" aplicados ok nos 4 canais.
+- Reels 10/11: alcance 0–3 cada (`uma_oferta` 3, `ate_off` 0 e 3). Decisão do Reels fica para 12/11, como combinado.
+- META: Instagram 416 de 780 até 27/11 (**atrasado**: precisa ~23/dia, fez +3). Telegram 20 de 150 até 17/11 (**atrasado**: precisa ~19/dia).
+- Alavanca nova: Tech subiu 5→6 no 1º dia com "Black Friday" no título; Achadinhos está parado em 3 desde o início. Achadinhos e Marcas também ganham "Black Friday" no título (descrições iguais; versão 2026-11-11, o robô aplica uma vez). Voltar todos em 01/12. Ensaio OK.
+- Próximo: em 12/11 conferir `canais_info` ok, membros por canal e decidir o Reels (alcance ≤5 em todos os formatos).
+- Pedido ao dono: (1) **rodadas de seguir/comentar todo dia** no Instagram (alcance e seguidores vêm daí); (2) PC do garimpo ligado o dia todo; (3) token da Página do Facebook com `pages_manage_posts`.
