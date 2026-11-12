@@ -1107,7 +1107,13 @@
   "2026-11-12 achadinhos 16:23 amz-B07FT5X4FV",
   "2026-11-12 tech 16:31 amz-B0F6NLFZCW",
   "2026-11-12 achadinhos 16:39 amz-B082L13YPQ",
-  "2026-11-12 tech 16:47 amz-B0DGJ8QQRY"
+  "2026-11-12 tech 16:47 amz-B0DGJ8QQRY",
+  "2026-11-12 achadinhos 16:53 amz-B07YGFHH53",
+  "2026-11-12 achadinhos 16:57 amz-B092SS3J2V",
+  "2026-11-12 tech 17:04 amz-B0FHJFFP8Z",
+  "2026-11-12 marcas 17:11 shopee-21049729949",
+  "2026-11-12 tech 17:18 amz-B0GVT7XMDC",
+  "2026-11-12 tech 17:25 amz-B0GVT6FMNG"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -1786,7 +1792,7 @@
   "shopee-58206236149": "2026-11-08T15:35:53.823466-03:00",
   "shopee-58262394728": "2026-11-08T15:53:28.883076-03:00",
   "shopee-46611963995": "2026-11-08T16:01:22.649531-03:00",
-  "shopee-21049729949": "2026-11-08T16:06:22.657956-03:00",
+  "shopee-21049729949": "2026-11-12T17:11:40.372485-03:00",
   "shopee-44106064553": "2026-11-08T16:14:25.164707-03:00",
   "shopee-58260087298": "2026-11-08T16:22:02.216589-03:00",
   "shopee-23398535010": "2026-11-08T16:28:20.218160-03:00",
@@ -2177,7 +2183,12 @@
   "amz-B07FT5X4FV": "2026-11-12T16:23:45.100446-03:00",
   "amz-B0F6NLFZCW": "2026-11-12T16:31:42.371299-03:00",
   "amz-B082L13YPQ": "2026-11-12T16:39:40.204907-03:00",
-  "amz-B0DGJ8QQRY": "2026-11-12T16:47:25.175748-03:00"
+  "amz-B0DGJ8QQRY": "2026-11-12T16:47:25.175748-03:00",
+  "amz-B07YGFHH53": "2026-11-12T16:53:10.697033-03:00",
+  "amz-B092SS3J2V": "2026-11-12T16:57:36.633483-03:00",
+  "amz-B0FHJFFP8Z": "2026-11-12T17:04:34.452369-03:00",
+  "amz-B0GVT7XMDC": "2026-11-12T17:18:39.154171-03:00",
+  "amz-B0GVT6FMNG": "2026-11-12T17:25:11.761325-03:00"
  },
  "ofertas_dia": [
   {
@@ -13775,6 +13786,113 @@
    "preco_em": "2026-11-12T13:20:35-03:00",
    "entrou": "2026-11-12T13:34:58.105887-03:00",
    "dia": "2026-11-12"
+  },
+  {
+   "id": "amz-B07YGFHH53",
+   "canal": "achadinhos",
+   "nome": "Lavadora de Alta Pressão WAP Extreme Turbo 2800",
+   "preco_antigo": 2059.9,
+   "preco": 863.1,
+   "desconto": 58,
+   "link": "https://www.amazon.com.br/dp/B07YGFHH53?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/816u8AYvzeL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-13T22:00:00-03:00",
+   "coletado_em": "2026-11-12T11:46:00-03:00",
+   "gancho": "WAP QUASE PELA METADE DO PREÇO",
+   "preco_em": "2026-11-12T11:46:00-03:00",
+   "entrou": "2026-11-12T16:04:00.284094-03:00",
+   "dia": "2026-11-12"
+  },
+  {
+   "id": "amz-B092SS3J2V",
+   "canal": "achadinhos",
+   "nome": "Desodorante NIVEA MEN Aerossol Original Protect",
+   "preco_antigo": 34.9,
+   "preco": 18.89,
+   "desconto": 46,
+   "link": "https://www.amazon.com.br/dp/B092SS3J2V?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71J+hyfBNwL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-13T22:00:00-03:00",
+   "coletado_em": "2026-11-12T11:46:00-03:00",
+   "preco_em": "2026-11-12T11:46:00-03:00",
+   "entrou": "2026-11-12T16:04:00.284094-03:00",
+   "dia": "2026-11-12"
+  },
+  {
+   "id": "amz-B0FHJFFP8Z",
+   "canal": "tech",
+   "nome": "Combo Teclado e Mouse Sem Fio Logitech MK250",
+   "preco_antigo": 169.9,
+   "preco": 107.9,
+   "desconto": 36,
+   "link": "https://www.amazon.com.br/dp/B0FHJFFP8Z?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/6169UX4YHpL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-13T22:00:00-03:00",
+   "coletado_em": "2026-11-12T13:20:35-03:00",
+   "preco_em": "2026-11-12T13:20:35-03:00",
+   "entrou": "2026-11-12T13:34:58.105887-03:00",
+   "dia": "2026-11-12"
+  },
+  {
+   "id": "shopee-21049729949",
+   "plataforma": "Shopee",
+   "nome": "Creatina Pura 300g - Max Titanium",
+   "loja": "Empório Natugreen",
+   "loja_oficial": true,
+   "preco": 48.99,
+   "preco_antigo": 195.96,
+   "desconto": 75,
+   "vendas": 186,
+   "nota": 4.9,
+   "comissao_pct": 3.0,
+   "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lyurzqrok1atf2",
+   "link": "https://s.shopee.com.br/AKc68L2df6",
+   "quase": true,
+   "canal": "marcas",
+   "entrou": "2026-11-12T16:48:00.431312-03:00",
+   "reprise_dias": 3,
+   "dia": "2026-11-12"
+  },
+  {
+   "id": "amz-B0GVT7XMDC",
+   "canal": "tech",
+   "nome": "Celular Samsung Galaxy A57 5G 128GB",
+   "preco_antigo": 3599.0,
+   "preco": 1799.0,
+   "desconto": 50,
+   "link": "https://www.amazon.com.br/dp/B0GVT7XMDC?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51gXyjgA3EL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-13T22:00:00-03:00",
+   "coletado_em": "2026-11-12T13:20:35-03:00",
+   "gancho": "GALAXY A57 PELA METADE",
+   "preco_em": "2026-11-12T13:20:35-03:00",
+   "entrou": "2026-11-12T13:34:58.105887-03:00",
+   "dia": "2026-11-12"
+  },
+  {
+   "id": "amz-B0GVT6FMNG",
+   "canal": "tech",
+   "nome": "Celular Samsung Galaxy A37 5G 256GB",
+   "preco_antigo": 3599.0,
+   "preco": 1989.0,
+   "desconto": 45,
+   "link": "https://www.amazon.com.br/dp/B0GVT6FMNG?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51gN3j6H4ML._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-13T22:00:00-03:00",
+   "coletado_em": "2026-11-12T13:20:35-03:00",
+   "preco_em": "2026-11-12T13:20:35-03:00",
+   "entrou": "2026-11-12T13:34:58.105887-03:00",
+   "dia": "2026-11-12"
   }
  ],
  "ig_feitos": [
@@ -14179,90 +14297,7 @@
   "2026-11-12": 1
  },
  "ultimo_pilar": "blackfriday",
- "fila": [
-  {
-   "id": "amz-B0FHJFFP8Z",
-   "canal": "tech",
-   "nome": "Combo Teclado e Mouse Sem Fio Logitech MK250",
-   "preco_antigo": 169.9,
-   "preco": 107.9,
-   "desconto": 36,
-   "link": "https://www.amazon.com.br/dp/B0FHJFFP8Z?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/6169UX4YHpL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-13T22:00:00-03:00",
-   "coletado_em": "2026-11-12T13:20:35-03:00",
-   "preco_em": "2026-11-12T13:20:35-03:00",
-   "entrou": "2026-11-12T13:34:58.105887-03:00"
-  },
-  {
-   "id": "amz-B0GVT7XMDC",
-   "canal": "tech",
-   "nome": "Celular Samsung Galaxy A57 5G 128GB",
-   "preco_antigo": 3599.0,
-   "preco": 1799.0,
-   "desconto": 50,
-   "link": "https://www.amazon.com.br/dp/B0GVT7XMDC?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51gXyjgA3EL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-13T22:00:00-03:00",
-   "coletado_em": "2026-11-12T13:20:35-03:00",
-   "gancho": "GALAXY A57 PELA METADE",
-   "preco_em": "2026-11-12T13:20:35-03:00",
-   "entrou": "2026-11-12T13:34:58.105887-03:00"
-  },
-  {
-   "id": "amz-B0GVT6FMNG",
-   "canal": "tech",
-   "nome": "Celular Samsung Galaxy A37 5G 256GB",
-   "preco_antigo": 3599.0,
-   "preco": 1989.0,
-   "desconto": 45,
-   "link": "https://www.amazon.com.br/dp/B0GVT6FMNG?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51gN3j6H4ML._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-13T22:00:00-03:00",
-   "coletado_em": "2026-11-12T13:20:35-03:00",
-   "preco_em": "2026-11-12T13:20:35-03:00",
-   "entrou": "2026-11-12T13:34:58.105887-03:00"
-  },
-  {
-   "id": "amz-B07YGFHH53",
-   "canal": "achadinhos",
-   "nome": "Lavadora de Alta Pressão WAP Extreme Turbo 2800",
-   "preco_antigo": 2059.9,
-   "preco": 863.1,
-   "desconto": 58,
-   "link": "https://www.amazon.com.br/dp/B07YGFHH53?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/816u8AYvzeL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-13T22:00:00-03:00",
-   "coletado_em": "2026-11-12T11:46:00-03:00",
-   "gancho": "WAP QUASE PELA METADE DO PREÇO",
-   "preco_em": "2026-11-12T11:46:00-03:00",
-   "entrou": "2026-11-12T16:04:00.284094-03:00"
-  },
-  {
-   "id": "amz-B092SS3J2V",
-   "canal": "achadinhos",
-   "nome": "Desodorante NIVEA MEN Aerossol Original Protect",
-   "preco_antigo": 34.9,
-   "preco": 18.89,
-   "desconto": 46,
-   "link": "https://www.amazon.com.br/dp/B092SS3J2V?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/71J+hyfBNwL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-13T22:00:00-03:00",
-   "coletado_em": "2026-11-12T11:46:00-03:00",
-   "preco_em": "2026-11-12T11:46:00-03:00",
-   "entrou": "2026-11-12T16:04:00.284094-03:00"
-  }
- ],
+ "fila": [],
  "menus_fixados": [
   "v1 @papagarimpou",
   "v1 @papagarimpoumarcas",
@@ -14794,7 +14829,7 @@
   "caixadesomjblboombox4aprovadeaguamarrom": "2026-11-08T15:35:53.823466-03:00",
   "fonedeouvidobluetoothjbltune530btoverearsemfioate76horasdebateriapreto": "2026-11-08T15:53:28.883076-03:00",
   "presentenaturaessencialmasculinominiaturas3un": "2026-11-08T16:01:22.649531-03:00",
-  "creatinapura300gmaxtitanium": "2026-11-08T16:06:22.657956-03:00",
+  "creatinapura300gmaxtitanium": "2026-11-12T17:11:40.372485-03:00",
   "barradeproteinaovomaltineproteincrispbar45gdisplay12unidadesintegralmedica": "2026-11-08T16:14:25.164707-03:00",
   "tplinkex1500roteadorwifi6ax1500dualband4portasgigabit": "2026-11-08T16:22:02.216589-03:00",
   "sanduicheiraegrill2em1redstone750wbgr16corpretocompratabritania": "2026-11-08T16:28:20.218160-03:00",
@@ -15182,7 +15217,12 @@
   "escovadedenteoralbcleanindicator4unidades": "2026-11-12T16:23:45.100446-03:00",
   "tabletsamsunggalaxytabs10fe128gb": "2026-11-12T16:31:42.371299-03:00",
   "lencosumedecidospampersaloevera192unidades": "2026-11-12T16:39:40.204907-03:00",
-  "applewatchseries10gpscellular": "2026-11-12T16:47:25.175748-03:00"
+  "applewatchseries10gpscellular": "2026-11-12T16:47:25.175748-03:00",
+  "lavadoradealtapressaowapextremeturbo2800": "2026-11-12T16:53:10.697033-03:00",
+  "desodoranteniveamenaerossoloriginalprotect": "2026-11-12T16:57:36.633483-03:00",
+  "combotecladoemousesemfiologitechmk250": "2026-11-12T17:04:34.452369-03:00",
+  "celularsamsunggalaxya575g128gb": "2026-11-12T17:18:39.154171-03:00",
+  "celularsamsunggalaxya375g256gb": "2026-11-12T17:25:11.761325-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
@@ -15532,14 +15572,14 @@
   "2026-11-09 noite tech",
   "2026-11-10 noite marcas"
  ],
- "reserva_meio": "2026-11-12T16:39:00.150330-03:00",
+ "reserva_meio": "2026-11-12T17:24:46.978347-03:00",
  "reserva_cheia": {
   "achadinhos": "2026-11-12T10:55:25.922451-03:00",
   "tech": "2026-11-12T11:59:03.820153-03:00",
-  "marcas": "2026-11-12T11:59:03.820153-03:00"
+  "marcas": "2026-11-12T16:48:00.431312-03:00"
  },
  "top10_dia": "2026-11-07",
- "manuais_lidos": "2026-11-12T16:39:00.150330-03:00",
+ "manuais_lidos": "2026-11-12T17:24:46.978347-03:00",
  "reserva_resultado": {
   "2026-11-07": {
    "achadinhos": {
@@ -15625,7 +15665,7 @@
    "marcas": {
     "busca": 0,
     "quase": 2,
-    "reprise": 1
+    "reprise": 2
    },
    "tech": {
     "busca": 0,
@@ -15693,7 +15733,7 @@
    "hora": "2026-11-11T20:32:35.453128-03:00"
   }
  },
- "ig_respondido_em": "2026-11-12T16:47:01.510687-03:00",
+ "ig_respondido_em": "2026-11-12T17:32:34.804050-03:00",
  "dm_auto": {
   "2026-11-08": {
    "com_palavra": 0,
