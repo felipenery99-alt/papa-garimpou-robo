@@ -1101,7 +1101,13 @@
   "2026-11-12 tech 15:41 amz-B0DZPKSLHB",
   "2026-11-12 achadinhos 15:48 amz-B07CTM3BZ3",
   "2026-11-12 marcas 15:56 amz-B07LCTTF8V",
-  "2026-11-12 tech 16:03 amz-B0GMY41LM8"
+  "2026-11-12 tech 16:03 amz-B0GMY41LM8",
+  "2026-11-12 achadinhos 16:10 amz-B09FFVMNFB",
+  "2026-11-12 marcas 16:17 amz-B0DXQCGQDS",
+  "2026-11-12 achadinhos 16:23 amz-B07FT5X4FV",
+  "2026-11-12 tech 16:31 amz-B0F6NLFZCW",
+  "2026-11-12 achadinhos 16:39 amz-B082L13YPQ",
+  "2026-11-12 tech 16:47 amz-B0DGJ8QQRY"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -2165,7 +2171,13 @@
   "amz-B0DZPKSLHB": "2026-11-12T15:41:57.497194-03:00",
   "amz-B07CTM3BZ3": "2026-11-12T15:48:55.113698-03:00",
   "amz-B07LCTTF8V": "2026-11-12T15:56:07.612322-03:00",
-  "amz-B0GMY41LM8": "2026-11-12T16:03:27.016904-03:00"
+  "amz-B0GMY41LM8": "2026-11-12T16:03:27.016904-03:00",
+  "amz-B09FFVMNFB": "2026-11-12T16:10:36.617001-03:00",
+  "amz-B0DXQCGQDS": "2026-11-12T16:17:00.040558-03:00",
+  "amz-B07FT5X4FV": "2026-11-12T16:23:45.100446-03:00",
+  "amz-B0F6NLFZCW": "2026-11-12T16:31:42.371299-03:00",
+  "amz-B082L13YPQ": "2026-11-12T16:39:40.204907-03:00",
+  "amz-B0DGJ8QQRY": "2026-11-12T16:47:25.175748-03:00"
  },
  "ofertas_dia": [
   {
@@ -13660,6 +13672,109 @@
    "preco_em": "2026-11-12T13:20:35-03:00",
    "entrou": "2026-11-12T13:34:58.105887-03:00",
    "dia": "2026-11-12"
+  },
+  {
+   "id": "amz-B09FFVMNFB",
+   "canal": "achadinhos",
+   "nome": "Fralda Pampers Confort Sec G 168 unidades",
+   "preco_antigo": 235.87,
+   "preco": 133.23,
+   "desconto": 44,
+   "link": "https://www.amazon.com.br/dp/B09FFVMNFB?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71qWE66mi6L._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-13T22:00:00-03:00",
+   "coletado_em": "2026-11-12T11:46:00-03:00",
+   "preco_em": "2026-11-12T11:46:00-03:00",
+   "entrou": "2026-11-12T16:04:00.284094-03:00",
+   "dia": "2026-11-12"
+  },
+  {
+   "id": "amz-B0DXQCGQDS",
+   "canal": "marcas",
+   "nome": "Garrafa Térmica Stanley Aerolight Fast Flow 1,1L",
+   "preco_antigo": 339.0,
+   "preco": 203.4,
+   "desconto": 40,
+   "link": "https://www.amazon.com.br/dp/B0DXQCGQDS?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/41iMj88ZUkL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-13T22:00:00-03:00",
+   "coletado_em": "2026-11-12T13:20:35-03:00",
+   "preco_em": "2026-11-12T13:20:35-03:00",
+   "entrou": "2026-11-12T13:34:58.105887-03:00",
+   "dia": "2026-11-12"
+  },
+  {
+   "id": "amz-B07FT5X4FV",
+   "canal": "achadinhos",
+   "nome": "Escova de Dente Oral-B Clean Indicator 4 unidades",
+   "preco_antigo": 30.73,
+   "preco": 19.49,
+   "desconto": 37,
+   "link": "https://www.amazon.com.br/dp/B07FT5X4FV?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61f8eFcG-IL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-13T22:00:00-03:00",
+   "coletado_em": "2026-11-12T11:46:00-03:00",
+   "preco_em": "2026-11-12T11:46:00-03:00",
+   "entrou": "2026-11-12T16:04:00.284094-03:00",
+   "dia": "2026-11-12"
+  },
+  {
+   "id": "amz-B0F6NLFZCW",
+   "canal": "tech",
+   "nome": "Tablet Samsung Galaxy Tab S10 FE+ 128GB",
+   "preco_antigo": 5999.0,
+   "preco": 2879.1,
+   "desconto": 52,
+   "link": "https://www.amazon.com.br/dp/B0F6NLFZCW?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/511Axq41kwL._AC_SL1000_.jpg",
+   "loja": "Loja oficial Samsung · Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-13T22:00:00-03:00",
+   "coletado_em": "2026-11-12T13:20:35-03:00",
+   "preco_em": "2026-11-12T13:20:35-03:00",
+   "entrou": "2026-11-12T13:34:58.105887-03:00",
+   "dia": "2026-11-12"
+  },
+  {
+   "id": "amz-B082L13YPQ",
+   "canal": "achadinhos",
+   "nome": "Lenços Umedecidos Pampers Aloe Vera 192 unidades",
+   "preco_antigo": 46.7,
+   "preco": 29.67,
+   "desconto": 36,
+   "link": "https://www.amazon.com.br/dp/B082L13YPQ?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61ZtoLSExdL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-13T22:00:00-03:00",
+   "coletado_em": "2026-11-12T11:46:00-03:00",
+   "preco_em": "2026-11-12T11:46:00-03:00",
+   "entrou": "2026-11-12T16:04:00.284094-03:00",
+   "dia": "2026-11-12"
+  },
+  {
+   "id": "amz-B0DGJ8QQRY",
+   "canal": "tech",
+   "nome": "Apple Watch Series 10 GPS + Cellular",
+   "preco_antigo": 6799.0,
+   "preco": 3498.0,
+   "desconto": 49,
+   "link": "https://www.amazon.com.br/dp/B0DGJ8QQRY?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/41Xiy0rd+cL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-13T22:00:00-03:00",
+   "coletado_em": "2026-11-12T13:20:35-03:00",
+   "gancho": "APPLE WATCH SÉRIE 10 PELA METADE",
+   "preco_em": "2026-11-12T13:20:35-03:00",
+   "entrou": "2026-11-12T13:34:58.105887-03:00",
+   "dia": "2026-11-12"
   }
  ],
  "ig_feitos": [
@@ -13794,10 +13909,10 @@
   "2026-11-12 12:19 story_oferta",
   "2026-11-12 13:20 story_convite",
   "2026-11-12 14:08 story_oferta",
-  "2026-11-12 15:03 story_oferta"
+  "2026-11-12 15:03 story_oferta",
+  "2026-11-12 16:44 story_oferta"
  ],
  "ig_ofertas_usadas": [
-  "amz-B0G4SQNDHB",
   "amz-B07WCVW56S",
   "amz-B0CVXT6NQB",
   "amz-B0FPRPMGXG",
@@ -13996,7 +14111,8 @@
   "shopee-18499921197",
   "shopee-58260024078",
   "shopee-22091991704",
-  "shopee-48660343762"
+  "shopee-48660343762",
+  "shopee-22597140327"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
@@ -14065,136 +14181,6 @@
  "ultimo_pilar": "blackfriday",
  "fila": [
   {
-   "id": "amz-B09FFVMNFB",
-   "canal": "achadinhos",
-   "nome": "Fralda Pampers Confort Sec G 168 unidades",
-   "preco_antigo": 235.87,
-   "preco": 133.23,
-   "desconto": 44,
-   "link": "https://www.amazon.com.br/dp/B09FFVMNFB?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/71qWE66mi6L._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-13T22:00:00-03:00",
-   "coletado_em": "2026-11-12T11:46:00-03:00",
-   "preco_em": "2026-11-12T11:46:00-03:00",
-   "entrou": "2026-11-12T12:03:38.763150-03:00"
-  },
-  {
-   "id": "amz-B07FT5X4FV",
-   "canal": "achadinhos",
-   "nome": "Escova de Dente Oral-B Clean Indicator 4 unidades",
-   "preco_antigo": 30.73,
-   "preco": 19.49,
-   "desconto": 37,
-   "link": "https://www.amazon.com.br/dp/B07FT5X4FV?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61f8eFcG-IL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-13T22:00:00-03:00",
-   "coletado_em": "2026-11-12T11:46:00-03:00",
-   "preco_em": "2026-11-12T11:46:00-03:00",
-   "entrou": "2026-11-12T12:03:38.763150-03:00"
-  },
-  {
-   "id": "amz-B082L13YPQ",
-   "canal": "achadinhos",
-   "nome": "Lenços Umedecidos Pampers Aloe Vera 192 unidades",
-   "preco_antigo": 46.7,
-   "preco": 29.67,
-   "desconto": 36,
-   "link": "https://www.amazon.com.br/dp/B082L13YPQ?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61ZtoLSExdL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-13T22:00:00-03:00",
-   "coletado_em": "2026-11-12T11:46:00-03:00",
-   "preco_em": "2026-11-12T11:46:00-03:00",
-   "entrou": "2026-11-12T12:03:38.763150-03:00"
-  },
-  {
-   "id": "amz-B07YGFHH53",
-   "canal": "achadinhos",
-   "nome": "Lavadora de Alta Pressão WAP Extreme Turbo 2800",
-   "preco_antigo": 2059.9,
-   "preco": 863.1,
-   "desconto": 58,
-   "link": "https://www.amazon.com.br/dp/B07YGFHH53?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/816u8AYvzeL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-13T22:00:00-03:00",
-   "coletado_em": "2026-11-12T11:46:00-03:00",
-   "gancho": "WAP QUASE PELA METADE DO PREÇO",
-   "preco_em": "2026-11-12T11:46:00-03:00",
-   "entrou": "2026-11-12T12:03:38.763150-03:00"
-  },
-  {
-   "id": "amz-B092SS3J2V",
-   "canal": "achadinhos",
-   "nome": "Desodorante NIVEA MEN Aerossol Original Protect",
-   "preco_antigo": 34.9,
-   "preco": 18.89,
-   "desconto": 46,
-   "link": "https://www.amazon.com.br/dp/B092SS3J2V?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/71J+hyfBNwL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-13T22:00:00-03:00",
-   "coletado_em": "2026-11-12T11:46:00-03:00",
-   "preco_em": "2026-11-12T11:46:00-03:00",
-   "entrou": "2026-11-12T12:03:38.763150-03:00"
-  },
-  {
-   "id": "amz-B0DXQCGQDS",
-   "canal": "marcas",
-   "nome": "Garrafa Térmica Stanley Aerolight Fast Flow 1,1L",
-   "preco_antigo": 339.0,
-   "preco": 203.4,
-   "desconto": 40,
-   "link": "https://www.amazon.com.br/dp/B0DXQCGQDS?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/41iMj88ZUkL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-13T22:00:00-03:00",
-   "coletado_em": "2026-11-12T13:20:35-03:00",
-   "preco_em": "2026-11-12T13:20:35-03:00",
-   "entrou": "2026-11-12T13:34:58.105887-03:00"
-  },
-  {
-   "id": "amz-B0F6NLFZCW",
-   "canal": "tech",
-   "nome": "Tablet Samsung Galaxy Tab S10 FE+ 128GB",
-   "preco_antigo": 5999.0,
-   "preco": 2879.1,
-   "desconto": 52,
-   "link": "https://www.amazon.com.br/dp/B0F6NLFZCW?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/511Axq41kwL._AC_SL1000_.jpg",
-   "loja": "Loja oficial Samsung · Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-13T22:00:00-03:00",
-   "coletado_em": "2026-11-12T13:20:35-03:00",
-   "preco_em": "2026-11-12T13:20:35-03:00",
-   "entrou": "2026-11-12T13:34:58.105887-03:00"
-  },
-  {
-   "id": "amz-B0DGJ8QQRY",
-   "canal": "tech",
-   "nome": "Apple Watch Series 10 GPS + Cellular",
-   "preco_antigo": 6799.0,
-   "preco": 3498.0,
-   "desconto": 49,
-   "link": "https://www.amazon.com.br/dp/B0DGJ8QQRY?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/41Xiy0rd+cL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-13T22:00:00-03:00",
-   "coletado_em": "2026-11-12T13:20:35-03:00",
-   "gancho": "APPLE WATCH SÉRIE 10 PELA METADE",
-   "preco_em": "2026-11-12T13:20:35-03:00",
-   "entrou": "2026-11-12T13:34:58.105887-03:00"
-  },
-  {
    "id": "amz-B0FHJFFP8Z",
    "canal": "tech",
    "nome": "Combo Teclado e Mouse Sem Fio Logitech MK250",
@@ -14242,6 +14228,39 @@
    "coletado_em": "2026-11-12T13:20:35-03:00",
    "preco_em": "2026-11-12T13:20:35-03:00",
    "entrou": "2026-11-12T13:34:58.105887-03:00"
+  },
+  {
+   "id": "amz-B07YGFHH53",
+   "canal": "achadinhos",
+   "nome": "Lavadora de Alta Pressão WAP Extreme Turbo 2800",
+   "preco_antigo": 2059.9,
+   "preco": 863.1,
+   "desconto": 58,
+   "link": "https://www.amazon.com.br/dp/B07YGFHH53?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/816u8AYvzeL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-13T22:00:00-03:00",
+   "coletado_em": "2026-11-12T11:46:00-03:00",
+   "gancho": "WAP QUASE PELA METADE DO PREÇO",
+   "preco_em": "2026-11-12T11:46:00-03:00",
+   "entrou": "2026-11-12T16:04:00.284094-03:00"
+  },
+  {
+   "id": "amz-B092SS3J2V",
+   "canal": "achadinhos",
+   "nome": "Desodorante NIVEA MEN Aerossol Original Protect",
+   "preco_antigo": 34.9,
+   "preco": 18.89,
+   "desconto": 46,
+   "link": "https://www.amazon.com.br/dp/B092SS3J2V?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71J+hyfBNwL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-13T22:00:00-03:00",
+   "coletado_em": "2026-11-12T11:46:00-03:00",
+   "preco_em": "2026-11-12T11:46:00-03:00",
+   "entrou": "2026-11-12T16:04:00.284094-03:00"
   }
  ],
  "menus_fixados": [
@@ -15157,7 +15176,13 @@
   "monitorsamsung24fhdcomajustedealtura": "2026-11-12T15:41:57.497194-03:00",
   "kitboschdepontasesoquetes46pecas": "2026-11-12T15:48:55.113698-03:00",
   "creatinamonohidratadavitafor300g": "2026-11-12T15:56:07.612322-03:00",
-  "smartphonemotorolaedge705g": "2026-11-12T16:03:27.016904-03:00"
+  "smartphonemotorolaedge705g": "2026-11-12T16:03:27.016904-03:00",
+  "fraldapampersconfortsecg168unidades": "2026-11-12T16:10:36.617001-03:00",
+  "garrafatermicastanleyaerolightfastflow11l": "2026-11-12T16:17:00.040558-03:00",
+  "escovadedenteoralbcleanindicator4unidades": "2026-11-12T16:23:45.100446-03:00",
+  "tabletsamsunggalaxytabs10fe128gb": "2026-11-12T16:31:42.371299-03:00",
+  "lencosumedecidospampersaloevera192unidades": "2026-11-12T16:39:40.204907-03:00",
+  "applewatchseries10gpscellular": "2026-11-12T16:47:25.175748-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
@@ -15507,14 +15532,14 @@
   "2026-11-09 noite tech",
   "2026-11-10 noite marcas"
  ],
- "reserva_meio": "2026-11-12T13:12:47.047241-03:00",
+ "reserva_meio": "2026-11-12T16:39:00.150330-03:00",
  "reserva_cheia": {
   "achadinhos": "2026-11-12T10:55:25.922451-03:00",
   "tech": "2026-11-12T11:59:03.820153-03:00",
   "marcas": "2026-11-12T11:59:03.820153-03:00"
  },
  "top10_dia": "2026-11-07",
- "manuais_lidos": "2026-11-12T15:56:07.309520-03:00",
+ "manuais_lidos": "2026-11-12T16:39:00.150330-03:00",
  "reserva_resultado": {
   "2026-11-07": {
    "achadinhos": {
@@ -15668,7 +15693,7 @@
    "hora": "2026-11-11T20:32:35.453128-03:00"
   }
  },
- "ig_respondido_em": "2026-11-12T16:03:22.362535-03:00",
+ "ig_respondido_em": "2026-11-12T16:47:01.510687-03:00",
  "dm_auto": {
   "2026-11-08": {
    "com_palavra": 0,
@@ -16020,7 +16045,7 @@
    "feed": 0
   },
   "2026-11-12": {
-   "story": 9,
+   "story": 10,
    "feed": 1
   }
  },
