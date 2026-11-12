@@ -2365,17 +2365,17 @@
    "⚠️ Garimpo parado desde 11/11 18:50 — abrir o app Claude e conferir as rotinas\nPouca oferta na fila: marcas 2, tech 0.",
    "⚠️ Fila vazia (achadinhos, tech), último garimpo 08:48 — abrir o app Claude e conferir as rotinas"
   ],
-  "ultima_execucao": "12:29",
-  "execucoes": 9,
+  "ultima_execucao": "13:13",
+  "execucoes": 10,
   "telegram_posts": {
-   "achadinhos": 14,
-   "marcas": 12,
-   "tech": 7
+   "achadinhos": 16,
+   "marcas": 13,
+   "tech": 10
   },
   "ultimo_post": {
-   "achadinhos": "12:57",
-   "marcas": "13:05",
-   "tech": "13:12"
+   "achadinhos": "13:41",
+   "marcas": "13:49",
+   "tech": "13:56"
   },
   "meta_token": {
    "tipo": "SYSTEM_USER",
@@ -2416,7 +2416,8 @@
    "11:50 carrossel_top5",
    "12:00 reels",
    "12:15 story_top4",
-   "12:19 story_oferta"
+   "12:19 story_oferta",
+   "13:20 story_convite"
   ],
   "shopee_ligada": true,
   "dm_auto": {
@@ -2466,7 +2467,7 @@
    "shopee-18271829175": "desconto longe",
    "shopee-23698175713": "desconto longe",
    "shopee-20397809626": "aprovada",
-   "shopee-21299179885": "aprovada",
+   "shopee-21299179885": "desconto perto (até 10 pts)",
    "shopee-23494293697": "vendas perto (125+)",
    "shopee-44568244729": "vendas longe",
    "shopee-58204551307": "vendas perto (125+)",
@@ -4480,7 +4481,7 @@
    "shopee-23198797756": "outro: palavra proibida: compatível",
    "shopee-18199069887": "desconto longe",
    "shopee-23893362081": "desconto longe",
-   "shopee-58255909354": "desconto perto (até 10 pts)",
+   "shopee-58255909354": "aprovada",
    "shopee-58258362801": "desconto longe",
    "shopee-58219288599": "desconto longe",
    "shopee-58206311996": "desconto longe",
@@ -5396,15 +5397,15 @@
    "outro: palavra proibida: compatível": 7
   },
   "instagram": {
-   "seguidores": 469,
+   "seguidores": 471,
    "posts": 119,
-   "reach": 1905,
-   "profile_views": 76,
+   "reach": 1998,
+   "profile_views": 77,
    "website_clicks": 0,
-   "stories_ativos": 25
+   "stories_ativos": 24
   },
   "reels_alcance": {
-   "atualizado": "2026-11-12T12:29:30.476150-03:00",
+   "atualizado": "2026-11-12T13:13:28.837231-03:00",
    "itens": [
     {
      "id": "18230902090331796",
@@ -5500,7 +5501,7 @@
      "id": "17960712615015330",
      "hora": "08/11 20:37",
      "capa": "ate_off",
-     "reach": 2,
+     "reach": 3,
      "views": 1,
      "shares": 0,
      "saved": 0
@@ -5545,7 +5546,7 @@
      "id": "17972342708962353",
      "hora": "07/11 12:57",
      "capa": "ate_off",
-     "reach": 4,
+     "reach": 5,
      "views": 8,
      "shares": 0,
      "saved": 0
@@ -5772,10 +5773,16 @@
    "amz-B08YMPX9K5": "ja_postado_30d",
    "amz-B0F5ZGTPNZ": "ja_postado_30d",
    "amz-B088MGTPBD": "ja_postado_30d",
-   "amz-B0GQW7S1XS": "ja_postado_30d"
+   "amz-B0GQW7S1XS": "ja_postado_30d",
+   "amz-B0CTMTYY1D": "ja_postado_30d",
+   "amz-B0D7Z9Z2C2": "ja_postado_30d",
+   "amz-B0DBRR5BP4": "ja_postado_30d",
+   "amz-B0H7YPY854": "ja_postado_30d",
+   "amz-B0D79HNMYL": "ja_postado_30d",
+   "amz-B00Z0UWV3O": "ja_postado_30d"
   },
   "manuais_descartados": {
-   "ja_postado_30d": 146
+   "ja_postado_30d": 152
   },
   "tiktok": [
    {
