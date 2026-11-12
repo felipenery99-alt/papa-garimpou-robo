@@ -1129,7 +1129,13 @@
   "2026-11-12 tech 19:28 amz-B0D7NQN715",
   "2026-11-12 achadinhos 19:35 amz-B0F2GR216H",
   "2026-11-12 marcas 19:42 amz-B0CB72Q4YX",
-  "2026-11-12 tech 19:50 amz-B09VJ6135Q"
+  "2026-11-12 tech 19:50 amz-B09VJ6135Q",
+  "2026-11-12 achadinhos 19:57 amz-B0BD6755LC",
+  "2026-11-12 marcas 20:05 amz-B08MKVFT1W",
+  "2026-11-12 tech 20:11 amz-B0D4ZLWZBW",
+  "2026-11-12 achadinhos 20:19 amz-B096ZV6PM1",
+  "2026-11-12 marcas 20:26 amz-B0D3241PNR",
+  "2026-11-12 tech 20:33 amz-B0GQZF2DHP"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -2218,7 +2224,13 @@
   "amz-B0D7NQN715": "2026-11-12T19:28:10.533235-03:00",
   "amz-B0F2GR216H": "2026-11-12T19:35:49.945230-03:00",
   "amz-B0CB72Q4YX": "2026-11-12T19:42:53.505038-03:00",
-  "amz-B09VJ6135Q": "2026-11-12T19:50:48.422194-03:00"
+  "amz-B09VJ6135Q": "2026-11-12T19:50:48.422194-03:00",
+  "amz-B0BD6755LC": "2026-11-12T19:57:49.695591-03:00",
+  "amz-B08MKVFT1W": "2026-11-12T20:05:24.740806-03:00",
+  "amz-B0D4ZLWZBW": "2026-11-12T20:11:52.454131-03:00",
+  "amz-B096ZV6PM1": "2026-11-12T20:19:42.081127-03:00",
+  "amz-B0D3241PNR": "2026-11-12T20:26:35.475660-03:00",
+  "amz-B0GQZF2DHP": "2026-11-12T20:33:24.277903-03:00"
  },
  "ofertas_dia": [
   {
@@ -14150,6 +14162,110 @@
    "preco_em": "2026-11-12T18:22:31-03:00",
    "entrou": "2026-11-12T18:36:22.412880-03:00",
    "dia": "2026-11-12"
+  },
+  {
+   "id": "amz-B0BD6755LC",
+   "canal": "achadinhos",
+   "nome": "Protetor Solar Facial NIVEA SUN Toque Seco",
+   "preco_antigo": 50.9,
+   "preco": 34.96,
+   "desconto": 31,
+   "link": "https://www.amazon.com.br/dp/B0BD6755LC?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/613ze9ScETL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-13T22:00:00-03:00",
+   "coletado_em": "2026-11-12T18:22:31-03:00",
+   "preco_em": "2026-11-12T18:22:31-03:00",
+   "entrou": "2026-11-12T18:36:22.412880-03:00",
+   "dia": "2026-11-12"
+  },
+  {
+   "id": "amz-B08MKVFT1W",
+   "canal": "marcas",
+   "nome": "Kit 2 Cuecas Calvin Klein Trunk",
+   "preco_antigo": 171.8,
+   "preco": 90.24,
+   "desconto": 47,
+   "link": "https://www.amazon.com.br/dp/B08MKVFT1W?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/41iMInc5EtL._AC_SL1500_.jpg",
+   "loja": "Vendido por parceiro · entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-13T22:00:00-03:00",
+   "coletado_em": "2026-11-12T18:22:31-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "preco_em": "2026-11-12T18:22:31-03:00",
+   "entrou": "2026-11-12T18:36:22.412880-03:00",
+   "dia": "2026-11-12"
+  },
+  {
+   "id": "amz-B0D4ZLWZBW",
+   "canal": "tech",
+   "nome": "Roteador Mesh TP-Link Deco X50 (2 unidades)",
+   "preco_antigo": 1499.0,
+   "preco": 702.05,
+   "desconto": 53,
+   "link": "https://www.amazon.com.br/dp/B0D4ZLWZBW?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/31jANzIbukL._AC_SL1500_.jpg",
+   "loja": "Vendido por parceiro · entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-13T22:00:00-03:00",
+   "coletado_em": "2026-11-12T18:22:31-03:00",
+   "preco_em": "2026-11-12T18:22:31-03:00",
+   "entrou": "2026-11-12T18:36:22.412880-03:00",
+   "dia": "2026-11-12"
+  },
+  {
+   "id": "amz-B096ZV6PM1",
+   "canal": "achadinhos",
+   "nome": "Detergente Ypê Clear 500ml",
+   "preco_antigo": 24.39,
+   "preco": 13.41,
+   "desconto": 45,
+   "link": "https://www.amazon.com.br/dp/B096ZV6PM1?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/718p1CDcJaL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-13T22:00:00-03:00",
+   "coletado_em": "2026-11-12T18:22:31-03:00",
+   "preco_em": "2026-11-12T18:22:31-03:00",
+   "entrou": "2026-11-12T18:36:22.412880-03:00",
+   "dia": "2026-11-12"
+  },
+  {
+   "id": "amz-B0D3241PNR",
+   "canal": "marcas",
+   "nome": "Tênis Olympikus Intuit",
+   "preco_antigo": 229.9,
+   "preco": 142.39,
+   "desconto": 38,
+   "link": "https://www.amazon.com.br/dp/B0D3241PNR?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51imKjJHb3L._AC_SL1500_.jpg",
+   "loja": "Vendido por parceiro · entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-13T22:00:00-03:00",
+   "coletado_em": "2026-11-12T18:22:31-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "preco_em": "2026-11-12T18:22:31-03:00",
+   "entrou": "2026-11-12T18:36:22.412880-03:00",
+   "dia": "2026-11-12"
+  },
+  {
+   "id": "amz-B0GQZF2DHP",
+   "canal": "tech",
+   "nome": "Fone Bluetooth JBL Tune 730BT",
+   "preco_antigo": 399.0,
+   "preco": 225.99,
+   "desconto": 43,
+   "link": "https://www.amazon.com.br/dp/B0GQZF2DHP?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51Mg3oGT-NL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-13T22:00:00-03:00",
+   "coletado_em": "2026-11-12T18:22:31-03:00",
+   "preco_em": "2026-11-12T18:22:31-03:00",
+   "entrou": "2026-11-12T18:36:22.412880-03:00",
+   "dia": "2026-11-12"
   }
  ],
  "ig_feitos": [
@@ -14292,7 +14408,8 @@
   "2026-11-12 18:30 reels",
   "2026-11-12 feed",
   "2026-11-12 19:15 post_achado",
-  "2026-11-12 19:17 story_oferta"
+  "2026-11-12 19:17 story_oferta",
+  "2026-11-12 20:30 reels"
  ],
  "ig_ofertas_usadas": [
   "amz-B08XQWLDKP",
@@ -14498,7 +14615,7 @@
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
- "ig_ultimo_reel": "2026-11-12T18:36:22.412880-03:00",
+ "ig_ultimo_reel": "2026-11-12T20:32:55.358197-03:00",
  "pecas_usadas": {
   "ac-preco-inflado": "2026-10-27",
   "dc-7-dias": "2026-10-27",
@@ -14562,38 +14679,6 @@
  },
  "ultimo_pilar": "blackfriday",
  "fila": [
-  {
-   "id": "amz-B0BD6755LC",
-   "canal": "achadinhos",
-   "nome": "Protetor Solar Facial NIVEA SUN Toque Seco",
-   "preco_antigo": 50.9,
-   "preco": 34.96,
-   "desconto": 31,
-   "link": "https://www.amazon.com.br/dp/B0BD6755LC?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/613ze9ScETL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-13T22:00:00-03:00",
-   "coletado_em": "2026-11-12T18:22:31-03:00",
-   "preco_em": "2026-11-12T18:22:31-03:00",
-   "entrou": "2026-11-12T18:36:22.412880-03:00"
-  },
-  {
-   "id": "amz-B096ZV6PM1",
-   "canal": "achadinhos",
-   "nome": "Detergente Ypê Clear 500ml",
-   "preco_antigo": 24.39,
-   "preco": 13.41,
-   "desconto": 45,
-   "link": "https://www.amazon.com.br/dp/B096ZV6PM1?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/718p1CDcJaL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-13T22:00:00-03:00",
-   "coletado_em": "2026-11-12T18:22:31-03:00",
-   "preco_em": "2026-11-12T18:22:31-03:00",
-   "entrou": "2026-11-12T18:36:22.412880-03:00"
-  },
   {
    "id": "amz-B0CX1TP5DM",
    "canal": "achadinhos",
@@ -14675,40 +14760,6 @@
    "entrou": "2026-11-12T18:36:22.412880-03:00"
   },
   {
-   "id": "amz-B08MKVFT1W",
-   "canal": "marcas",
-   "nome": "Kit 2 Cuecas Calvin Klein Trunk",
-   "preco_antigo": 171.8,
-   "preco": 90.24,
-   "desconto": 47,
-   "link": "https://www.amazon.com.br/dp/B08MKVFT1W?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/41iMInc5EtL._AC_SL1500_.jpg",
-   "loja": "Vendido por parceiro · entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-13T22:00:00-03:00",
-   "coletado_em": "2026-11-12T18:22:31-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "preco_em": "2026-11-12T18:22:31-03:00",
-   "entrou": "2026-11-12T18:36:22.412880-03:00"
-  },
-  {
-   "id": "amz-B0D3241PNR",
-   "canal": "marcas",
-   "nome": "Tênis Olympikus Intuit",
-   "preco_antigo": 229.9,
-   "preco": 142.39,
-   "desconto": 38,
-   "link": "https://www.amazon.com.br/dp/B0D3241PNR?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51imKjJHb3L._AC_SL1500_.jpg",
-   "loja": "Vendido por parceiro · entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-13T22:00:00-03:00",
-   "coletado_em": "2026-11-12T18:22:31-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "preco_em": "2026-11-12T18:22:31-03:00",
-   "entrou": "2026-11-12T18:36:22.412880-03:00"
-  },
-  {
    "id": "amz-B0GV1MKHDB",
    "canal": "marcas",
    "nome": "Tênis Mizuno CSD Sport",
@@ -14722,38 +14773,6 @@
    "valida_ate": "2026-11-13T22:00:00-03:00",
    "coletado_em": "2026-11-12T18:22:31-03:00",
    "extra": "Preço a partir de: varia por tamanho e cor",
-   "preco_em": "2026-11-12T18:22:31-03:00",
-   "entrou": "2026-11-12T18:36:22.412880-03:00"
-  },
-  {
-   "id": "amz-B0D4ZLWZBW",
-   "canal": "tech",
-   "nome": "Roteador Mesh TP-Link Deco X50 (2 unidades)",
-   "preco_antigo": 1499.0,
-   "preco": 702.05,
-   "desconto": 53,
-   "link": "https://www.amazon.com.br/dp/B0D4ZLWZBW?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/31jANzIbukL._AC_SL1500_.jpg",
-   "loja": "Vendido por parceiro · entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-13T22:00:00-03:00",
-   "coletado_em": "2026-11-12T18:22:31-03:00",
-   "preco_em": "2026-11-12T18:22:31-03:00",
-   "entrou": "2026-11-12T18:36:22.412880-03:00"
-  },
-  {
-   "id": "amz-B0GQZF2DHP",
-   "canal": "tech",
-   "nome": "Fone Bluetooth JBL Tune 730BT",
-   "preco_antigo": 399.0,
-   "preco": 225.99,
-   "desconto": 43,
-   "link": "https://www.amazon.com.br/dp/B0GQZF2DHP?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51Mg3oGT-NL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-13T22:00:00-03:00",
-   "coletado_em": "2026-11-12T18:22:31-03:00",
    "preco_em": "2026-11-12T18:22:31-03:00",
    "entrou": "2026-11-12T18:36:22.412880-03:00"
   },
@@ -15712,7 +15731,13 @@
   "marvelvscapcomfightingcollection": "2026-11-12T19:28:10.533235-03:00",
   "paneladeferrofundidoesmaltadaelectrolux": "2026-11-12T19:35:49.945230-03:00",
   "kit2camisetasbasicasreserva": "2026-11-12T19:42:53.505038-03:00",
-  "monitorgamerlgultragear27polfullhdips": "2026-11-12T19:50:48.422194-03:00"
+  "monitorgamerlgultragear27polfullhdips": "2026-11-12T19:50:48.422194-03:00",
+  "protetorsolarfacialniveasuntoqueseco": "2026-11-12T19:57:49.695591-03:00",
+  "kit2cuecascalvinkleintrunk": "2026-11-12T20:05:24.740806-03:00",
+  "roteadormeshtplinkdecox502unidades": "2026-11-12T20:11:52.454131-03:00",
+  "detergenteypeclear500ml": "2026-11-12T20:19:42.081127-03:00",
+  "tenisolympikusintuit": "2026-11-12T20:26:35.475660-03:00",
+  "fonebluetoothjbltune730bt": "2026-11-12T20:33:24.277903-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
@@ -15933,12 +15958,17 @@
    "shopee-22698316479"
   ],
   "2026-11-12": [
-   "shopee-58260024078",
-   "shopee-22599383562",
-   "shopee-23892413591",
-   "shopee-22597140327",
    "shopee-19497608994",
-   "shopee-7975402525"
+   "shopee-22194978721",
+   "shopee-7975402525",
+   "shopee-58260024078",
+   "shopee-11444965462",
+   "shopee-22597140327",
+   "shopee-23494511696",
+   "shopee-58209674589",
+   "shopee-21049729949",
+   "shopee-23892413591",
+   "shopee-22599383562"
   ]
  },
  "vendas_shopee": {},
@@ -16073,7 +16103,7 @@
   "marcas": "2026-11-12T17:56:29.409807-03:00"
  },
  "top10_dia": "2026-11-07",
- "manuais_lidos": "2026-11-12T19:50:43.768941-03:00",
+ "manuais_lidos": "2026-11-12T20:32:55.358197-03:00",
  "reserva_resultado": {
   "2026-11-07": {
    "achadinhos": {
@@ -16227,7 +16257,7 @@
    "hora": "2026-11-11T20:32:35.453128-03:00"
   }
  },
- "ig_respondido_em": "2026-11-12T19:50:43.768941-03:00",
+ "ig_respondido_em": "2026-11-12T20:32:55.358197-03:00",
  "dm_auto": {
   "2026-11-08": {
    "com_palavra": 0,
@@ -16359,6 +16389,12 @@
     "capa": "uma_oferta",
     "legenda": "Manda pra quem tá precisando disso 👇\n😎💎 Chapinha Prancha Taiff Cerâmica PTC Action 180ºC Bivolt\n\nOfertas todo dia no Telegram: papagarimpouofertas 💎\n\nPubli · link de afiliado",
     "url": "https://raw.githubusercontent.com/felipenery99-alt/papa-garimpou-robo/tiktok-midia/20261112-1836-tiktok.mp4"
+   },
+   {
+    "hora": "20:32",
+    "capa": "ate_off",
+    "legenda": "Manda pra quem tá precisando disso 👇\n😎💎 Até 75% OFF em marca boa: os 5 achados do Papa hoje\n\nOfertas todo dia no Telegram: papagarimpouofertas 💎\n\nPubli · link de afiliado",
+    "url": "https://raw.githubusercontent.com/felipenery99-alt/papa-garimpou-robo/tiktok-midia/20261112-2032-tiktok.mp4"
    }
   ]
  },
