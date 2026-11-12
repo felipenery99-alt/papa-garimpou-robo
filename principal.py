@@ -829,7 +829,7 @@ def soltar_fila(h: dict, telegram, limite: datetime, atraso: bool = True) -> int
                     garimpo_reserva(h, shopee if os.environ.get("SHOPEE_APP_ID") else None, agora_ig, ult)
                 except Exception as e:
                     print(f"[reserva] no meio da fila falhou: {e}")
-            if config.IG_ATIVO and os.environ.get("META_TOKEN") and h.get("ig_respondido_em", "") < (agora_ig - timedelta(minutes=10)).isoformat():
+            if config.IG_ATIVO and not h.get("ig_falha_conta") and h.get("ig_conta_ok") and os.environ.get("META_TOKEN") and h.get("ig_respondido_em", "") < (agora_ig - timedelta(minutes=10)).isoformat():
                 responder_ig(h, agora_ig)   # 08/11 (Central): pedido de TELEGRAM nos comentários não espera a próxima execução
                 try:
                     publicar_facebook(h, agora_ig)
@@ -1289,10 +1289,10 @@ IG_FEED = ("reels", "post_achado", "carrossel_top5")
 def ig_fracao(h: dict, agora: datetime) -> float:
     """12/11 (decisão final do dono): 0 = pausado (IG_ATIVO False); depois de religar, 50% do volume no 1º dia e
     +10% a cada dia (×1,10) até 1 = normal. Dia 0 = data da 1ª execução com IG_ATIVO True ("ig_ligado_em")."""
-    if not config.IG_ATIVO:
+    if not config.IG_ATIVO or h.get("ig_falha_conta"):
         h.pop("ig_ligado_em", None)
         return 0.0
-    desde = datetime.fromisoformat(h.setdefault("ig_ligado_em", agora.isoformat()))
+    desde = datetime.fromisoformat(config.IG_LIGADO_EM or h.setdefault("ig_ligado_em", agora.isoformat()))
     dias = max(0, (agora.date() - desde.astimezone(agora.tzinfo).date()).days)
     return min(1.0, config.IG_RAMPA_INICIO * config.IG_RAMPA_SOBE ** dias)
 
@@ -1365,6 +1365,21 @@ def rodar_instagram(h: dict, agora: datetime) -> None:
     h["ig_cont"] = cont = {d: v for d, v in cont.items() if d >= (agora.date() - timedelta(days=3)).isoformat()}
     instagram.CONT = cont.setdefault(hoje, {"story": 0, "feed": 0})
     instagram.LIMITE.update(story=None, feed=None)
+    # 11/11 22:33 (volta depois da suspensão): 1ª chamada do dia confere token e conta. Erro → Instagram se desliga
+    # sozinho (ig_falha_conta, sem nova chamada) e avisa o dono; para religar, a PG · Robô limpa a chave.
+    if modo != "pausado" and h.get("ig_conta_ok") != hoje:
+        try:
+            v = instagram.validade_token()
+            if not v.get("valido"):
+                raise RuntimeError(f"token inválido: {v}")
+            c = instagram.conta()
+            h["ig_conta_ok"] = hoje
+            print(f"[ig] conta e token ok (ig_id {c['ig_id']}, token vence {v.get('vence') or 'nunca'})")
+        except Exception as e:
+            h["ig_falha_conta"] = {"quando": agora.isoformat(), "erro": str(e)[:300]}
+            telegram.avisar_dono(f"Instagram: a conferência da conta falhou na volta ({e}). Desliguei o Instagram "
+                                 "no robô; nada foi publicado.", urgente=True)
+            return
     if modo != "pausado":   # 11/11: conta suspensa → nada de porta/especial/parceria/pedido
         try:
             publicar_porta(h, agora, tag)

@@ -229,7 +229,9 @@ BUSCAS = {
 
 # 08/11 (Central): Página do Facebook (mesmo token). 4 ofertas por dia (já postadas no Telegram, link clicável)
 # + 1 post com o convite "fb-pagina" do Telegram.
-IG_ATIVO = False   # 11/11 22:01: @papa.garimpou SUSPENSO (apelação em análise). Nenhuma chamada à API do Instagram até a Central liberar (INSTAGRAM-SUSPENSO.md). TikTok segue.
+# 11/11 22:01: @papa.garimpou SUSPENSO. 11/11 22:33: apelação aceita (INSTAGRAM-VOLTA.md) → religado com a rampa.
+IG_ATIVO = True
+IG_LIGADO_EM = "2026-11-11T22:33:00-03:00"   # dia 1 da rampa (50%); 12/11 = 55%, 13/11 = 60,5%… até o normal
 # 12/11 (decisão final do dono): quando IG_ATIVO voltar a True, o Instagram recomeça com METADE do volume de
 # publicações por dia e sobe 10% a cada dia (50%, 55%, 60,5%… ≈ 8 dias) até o normal. Automático: conta os dias
 # desde a 1ª execução com IG_ATIVO = True (historico "ig_ligado_em"). Os horários da agenda que ficam de fora são
