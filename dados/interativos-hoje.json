@@ -1,57 +1,27 @@
 {
- "dia": "2026-11-11",
+ "dia": "2026-11-12",
  "itens": [
   {
-   "tipo": "adivinha",
-   "hora": "15:00",
-   "produtos": [
-    {
-     "nome": "Ventilador de mesa Mondial 30cm 110V",
-     "preco_antigo": 277.25,
-     "preco": 89.9,
-     "desconto": 68,
-     "link": "https://www.amazon.com.br/dp/B08LBQWQV4?tag=papagarimpou-20",
-     "loja": "Vendido e entregue pela Amazon",
-     "canal": "achadinhos"
-    }
-   ]
-  },
-  {
-   "tipo": "adivinha_resposta",
-   "hora": "16:05",
-   "produtos": [
-    {
-     "nome": "Ventilador de mesa Mondial 30cm 110V",
-     "preco_antigo": 277.25,
-     "preco": 89.9,
-     "desconto": 68,
-     "link": "https://www.amazon.com.br/dp/B08LBQWQV4?tag=papagarimpou-20",
-     "loja": "Vendido e entregue pela Amazon",
-     "canal": "achadinhos"
-    }
-   ]
-  },
-  {
    "tipo": "a_ou_b",
-   "hora": "18:19",
+   "hora": "18:07",
    "produtos": [
     {
-     "nome": "Kit De 6 Pares Meias Cano Invisível Lupo Sport Algodão Soquete Sapatilha Unissex",
-     "preco_antigo": 81.43,
-     "preco": 45.6,
-     "desconto": 44,
-     "link": "https://s.shopee.com.br/2BGMJbQt4a",
-     "loja": "Deccó",
-     "canal": "marcas"
+     "nome": "Chapinha Prancha Taiff Cerâmica PTC Action 180ºC Bivolt",
+     "preco_antigo": 249.74,
+     "preco": 94.9,
+     "desconto": 62,
+     "link": "https://s.shopee.com.br/8Kr0zdn7Nu",
+     "loja": "Perfumaria Sumirê",
+     "canal": "achadinhos"
     },
     {
-     "nome": "Creatina Monohidratada - Growth Supplements - Sem sabor em pó",
-     "preco_antigo": 39.87,
-     "preco": 29.9,
-     "desconto": 25,
-     "link": "https://s.shopee.com.br/2BGMJQZjLO",
-     "loja": "GROWTH SUPPLEMENTS",
-     "canal": "marcas"
+     "nome": "Kit Câmera Inteligente iM3 C Black Intelbras - 2 unidades ",
+     "preco_antigo": 562.5,
+     "preco": 315.0,
+     "desconto": 44,
+     "link": "https://s.shopee.com.br/4VeIj16I91",
+     "loja": "Intelbras Oficial",
+     "canal": "achadinhos"
     }
    ]
   }

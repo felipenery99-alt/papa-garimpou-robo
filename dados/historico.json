@@ -1113,7 +1113,10 @@
   "2026-11-12 tech 17:04 amz-B0FHJFFP8Z",
   "2026-11-12 marcas 17:11 shopee-21049729949",
   "2026-11-12 tech 17:18 amz-B0GVT7XMDC",
-  "2026-11-12 tech 17:25 amz-B0GVT6FMNG"
+  "2026-11-12 tech 17:25 amz-B0GVT6FMNG",
+  "2026-11-12 achadinhos 17:41 shopee-23892413591",
+  "2026-11-12 achadinhos 17:48 shopee-58209674589",
+  "2026-11-12 tech 18:00 shopee-11444965462"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -1568,7 +1571,7 @@
   "amz-B0CD14V4RQ": "2026-11-04T18:42:09.733592-03:00",
   "amz-B077L9HSQL": "2026-11-04T18:53:13.244967-03:00",
   "amz-B0CQ7N63YB": "2026-11-04T19:06:33.886721-03:00",
-  "shopee-58209674589": "2026-11-08T19:35:48.380305-03:00",
+  "shopee-58209674589": "2026-11-12T17:48:33.948160-03:00",
   "amz-B0CRTYZG5C": "2026-11-04T19:22:33.915284-03:00",
   "amz-B01JPOLKDW": "2026-11-04T19:36:41.616437-03:00",
   "amz-B0B872NVW4": "2026-11-04T19:47:08.844079-03:00",
@@ -1787,7 +1790,7 @@
   "shopee-58002598728": "2026-11-08T14:12:55.488332-03:00",
   "shopee-49064981274": "2026-11-08T14:30:20.393231-03:00",
   "shopee-22195023298": "2026-11-08T14:47:15.342899-03:00",
-  "shopee-11444965462": "2026-11-08T15:02:27.342103-03:00",
+  "shopee-11444965462": "2026-11-12T18:00:40.086640-03:00",
   "shopee-22192651105": "2026-11-08T15:28:25.308685-03:00",
   "shopee-58206236149": "2026-11-08T15:35:53.823466-03:00",
   "shopee-58262394728": "2026-11-08T15:53:28.883076-03:00",
@@ -2188,7 +2191,8 @@
   "amz-B092SS3J2V": "2026-11-12T16:57:36.633483-03:00",
   "amz-B0FHJFFP8Z": "2026-11-12T17:04:34.452369-03:00",
   "amz-B0GVT7XMDC": "2026-11-12T17:18:39.154171-03:00",
-  "amz-B0GVT6FMNG": "2026-11-12T17:25:11.761325-03:00"
+  "amz-B0GVT6FMNG": "2026-11-12T17:25:11.761325-03:00",
+  "shopee-23892413591": "2026-11-12T17:41:41.339307-03:00"
  },
  "ofertas_dia": [
   {
@@ -13893,6 +13897,64 @@
    "preco_em": "2026-11-12T13:20:35-03:00",
    "entrou": "2026-11-12T13:34:58.105887-03:00",
    "dia": "2026-11-12"
+  },
+  {
+   "id": "shopee-23892413591",
+   "plataforma": "Shopee",
+   "nome": "Chapinha Prancha Taiff Cerâmica PTC Action 180ºC Bivolt",
+   "loja": "Perfumaria Sumirê",
+   "loja_oficial": true,
+   "preco": 94.9,
+   "preco_antigo": 249.74,
+   "desconto": 62,
+   "vendas": 235,
+   "nota": 4.9,
+   "comissao_pct": 20.0,
+   "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lsjz9ggk6xot07",
+   "link": "https://s.shopee.com.br/8Kr0zdn7Nu",
+   "quase": true,
+   "canal": "achadinhos",
+   "entrou": "2026-11-12T17:40:35.803836-03:00",
+   "dia": "2026-11-12"
+  },
+  {
+   "id": "shopee-58209674589",
+   "plataforma": "Shopee",
+   "nome": "Desodorante Corporal Natura Kaiak O2 Masculino 100 ml",
+   "loja": "NATURA",
+   "loja_oficial": true,
+   "preco": 34.14,
+   "preco_antigo": 56.9,
+   "desconto": 40,
+   "vendas": 585,
+   "nota": 4.9,
+   "comissao_pct": 16.0,
+   "imagem": "https://cf.shopee.com.br/file/sg-11134201-820m1-mnk66jbfb01vdf",
+   "link": "https://s.shopee.com.br/30pUdr717N",
+   "canal": "achadinhos",
+   "entrou": "2026-11-12T17:40:35.803836-03:00",
+   "reprise_dias": 3,
+   "dia": "2026-11-12"
+  },
+  {
+   "id": "shopee-11444965462",
+   "plataforma": "Shopee",
+   "nome": "Cabo USB De Dados Motorola Original Usb-C 1 Metro",
+   "loja": "Distribuidor de Acessórios Motorola",
+   "loja_oficial": true,
+   "preco": 35.0,
+   "preco_antigo": 50.0,
+   "desconto": 30,
+   "vendas": 233,
+   "nota": 4.9,
+   "comissao_pct": 16.0,
+   "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lsidpa3luxizbe",
+   "link": "https://s.shopee.com.br/20wxSIhYSU",
+   "quase": true,
+   "canal": "tech",
+   "entrou": "2026-11-12T17:56:29.409807-03:00",
+   "reprise_dias": 3,
+   "dia": "2026-11-12"
   }
  ],
  "ig_feitos": [
@@ -14028,12 +14090,12 @@
   "2026-11-12 13:20 story_convite",
   "2026-11-12 14:08 story_oferta",
   "2026-11-12 15:03 story_oferta",
-  "2026-11-12 16:44 story_oferta"
+  "2026-11-12 16:44 story_oferta",
+  "story especial pede-pro-papa 2026-11-12",
+  "2026-11-12 18:05 a_ou_b",
+  "2026-11-12 18:09 story_oferta"
  ],
  "ig_ofertas_usadas": [
-  "amz-B07WCVW56S",
-  "amz-B0CVXT6NQB",
-  "amz-B0FPRPMGXG",
   "amz-B0CCT3ZDTX",
   "amz-B08XQWLDKP",
   "amz-B0CVCG6S9C",
@@ -14230,7 +14292,10 @@
   "shopee-58260024078",
   "shopee-22091991704",
   "shopee-48660343762",
-  "shopee-22597140327"
+  "shopee-22597140327",
+  "shopee-23892413591",
+  "shopee-23494511696",
+  "shopee-57657281247"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
@@ -14605,7 +14670,7 @@
   "airfryerphilcopfr15pg44l1500w": "2026-11-04T18:42:09.733592-03:00",
   "jogodepanelastramontinaacoinoxfundotriplo3pecas": "2026-11-04T18:53:13.244967-03:00",
   "tenisnewbalance574v2masculino": "2026-11-04T19:06:33.886721-03:00",
-  "desodorantecorporalnaturakaiako2masculino100ml": "2026-11-08T19:35:48.380305-03:00",
+  "desodorantecorporalnaturakaiako2masculino100ml": "2026-11-12T17:48:33.948160-03:00",
   "fonebluetoothankersoundcorep30icomanc": "2026-11-04T19:22:33.915284-03:00",
   "mousesemfiologitechm330silentplus": "2026-11-04T19:36:41.616437-03:00",
   "protetorsolarfaciallarocheposayanthelioscomcor": "2026-11-04T19:47:08.844079-03:00",
@@ -14824,7 +14889,7 @@
   "carregadorportatilbaseuspicogoam415000mah10000mah20wmagneticomagsafeusbc60wpowerbank": "2026-11-08T14:12:55.488332-03:00",
   "desodorantecorporalnaturahomemcoragio100ml": "2026-11-08T14:30:20.393231-03:00",
   "tplinkex3000roteadorwifi6ax3000dualband4portasgigabit": "2026-11-08T14:47:15.342899-03:00",
-  "cabousbdedadosmotorolaoriginalusbc1metro": "2026-11-08T15:02:27.342103-03:00",
+  "cabousbdedadosmotorolaoriginalusbc1metro": "2026-11-12T18:00:40.086640-03:00",
   "eudoraclub6voyagedeocoloniamasculino95ml": "2026-11-08T15:28:25.308685-03:00",
   "caixadesomjblboombox4aprovadeaguamarrom": "2026-11-08T15:35:53.823466-03:00",
   "fonedeouvidobluetoothjbltune530btoverearsemfioate76horasdebateriapreto": "2026-11-08T15:53:28.883076-03:00",
@@ -15222,7 +15287,8 @@
   "desodoranteniveamenaerossoloriginalprotect": "2026-11-12T16:57:36.633483-03:00",
   "combotecladoemousesemfiologitechmk250": "2026-11-12T17:04:34.452369-03:00",
   "celularsamsunggalaxya575g128gb": "2026-11-12T17:18:39.154171-03:00",
-  "celularsamsunggalaxya375g256gb": "2026-11-12T17:25:11.761325-03:00"
+  "celularsamsunggalaxya375g256gb": "2026-11-12T17:25:11.761325-03:00",
+  "chapinhapranchataiffceramicaptcaction180ocbivolt": "2026-11-12T17:41:41.339307-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
@@ -15536,11 +15602,11 @@
   }
  },
  "ig_dm_links": {},
- "story_link_dia": "2026-11-11",
+ "story_link_dia": "2026-11-12",
  "pede_semana": "2026-46",
  "ultimo_garimpo": "2026-11-12T13:20:45-03:00",
  "vigia_aviso_post": "2026-11-09T18:27:03.734589-03:00",
- "vigia_aviso_garimpo": "2026-11-12T11:21:56.905199-03:00",
+ "vigia_aviso_garimpo": "2026-11-12T17:34:05.140167-03:00",
  "resumo_enviado": "2026-11-11",
  "token_conferido": "2026-11-12",
  "meta_token": {
@@ -15572,14 +15638,14 @@
   "2026-11-09 noite tech",
   "2026-11-10 noite marcas"
  ],
- "reserva_meio": "2026-11-12T17:24:46.978347-03:00",
+ "reserva_meio": "2026-11-12T18:11:57.973747-03:00",
  "reserva_cheia": {
-  "achadinhos": "2026-11-12T10:55:25.922451-03:00",
-  "tech": "2026-11-12T11:59:03.820153-03:00",
-  "marcas": "2026-11-12T16:48:00.431312-03:00"
+  "achadinhos": "2026-11-12T17:34:05.140167-03:00",
+  "tech": "2026-11-12T17:56:29.409807-03:00",
+  "marcas": "2026-11-12T17:56:29.409807-03:00"
  },
  "top10_dia": "2026-11-07",
- "manuais_lidos": "2026-11-12T17:24:46.978347-03:00",
+ "manuais_lidos": "2026-11-12T18:17:34.840370-03:00",
  "reserva_resultado": {
   "2026-11-07": {
    "achadinhos": {
@@ -15670,12 +15736,12 @@
    "tech": {
     "busca": 0,
     "quase": 3,
-    "reprise": 0
+    "reprise": 1
    },
    "achadinhos": {
     "busca": 0,
-    "quase": 4,
-    "reprise": 2
+    "quase": 5,
+    "reprise": 3
    }
   }
  },
@@ -15733,7 +15799,7 @@
    "hora": "2026-11-11T20:32:35.453128-03:00"
   }
  },
- "ig_respondido_em": "2026-11-12T17:32:34.804050-03:00",
+ "ig_respondido_em": "2026-11-12T18:09:41.512902-03:00",
  "dm_auto": {
   "2026-11-08": {
    "com_palavra": 0,
@@ -16085,7 +16151,7 @@
    "feed": 0
   },
   "2026-11-12": {
-   "story": 10,
+   "story": 13,
    "feed": 1
   }
  },
