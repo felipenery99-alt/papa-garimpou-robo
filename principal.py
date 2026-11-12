@@ -955,7 +955,10 @@ def guardar_tiktok(h: dict, agora: datetime, mp4: bytes, leg: str, capa: str) ->
 SIGA_REEL = "\n\n👉 Siga @papa.garimpou pra não perder"
 # 05/11 (CEO): seguidor do Instagram não vira membro do Telegram. Fecho único: comentar TELEGRAM → convite no direct
 # (link "ig-dm"). Sem hashtag; o aviso de publicidade fica em texto.
-LEGENDA_CTA = ("\n\nQuer as ofertas antes de todo mundo? Comenta TELEGRAM que eu te mando o link do grupo no direct 💎\n\n"
+# 12/11 (CEO): 0 comentários TELEGRAM e 0 cliques na bio há dias; a busca do Telegram acha o canal pelo @ e pelo
+# título "Black Friday" (Tech subiu 5→7). A legenda passa a dar o @ para buscar direto no app, sem depender do direct.
+LEGENDA_CTA = ("\n\nQuer as ofertas antes de todo mundo? É grátis: no Telegram, busca @papagarimpouofertas 💎 "
+               "(ou comenta TELEGRAM que eu te mando o link no direct)\n\n"
                "Publi · link de afiliado")
 
 
@@ -1304,13 +1307,19 @@ def ig_modo(h: dict, agora: datetime) -> str:
     return "pausado" if f == 0 else ("normal" if f >= 1 else "rampa")
 
 
+def so_tiktok(hora: str, tipo: str) -> bool:
+    """12/11 (CEO): Reels de baixo alcance que não vão ao Instagram, só geram a cópia do TikTok."""
+    return tipo == "reels" and hora in getattr(config, "REELS_SO_TIKTOK", ())
+
+
 def ig_teto(h: dict, agora: datetime) -> dict:
     """Teto do dia na rampa (None = sem teto): fração × volume normal, arredondado, no mínimo 1."""
     f = ig_fracao(h, agora)
     if f >= 1 or f == 0:
         return {"feed": None, "story": None}
-    feed = sum(1 for _, t in config.INSTAGRAM_AGENDA if t in IG_FEED)
-    normal = {"feed": feed, "story": len(config.INSTAGRAM_AGENDA) - feed}
+    agenda = [(hr, t) for hr, t in config.INSTAGRAM_AGENDA if not so_tiktok(hr, t)]
+    feed = sum(1 for _, t in agenda if t in IG_FEED)
+    normal = {"feed": feed, "story": len(agenda) - feed}
     return {k: max(1, round(v * f)) for k, v in normal.items()}
 
 
@@ -1319,10 +1328,10 @@ def agenda_ig(h: dict, agora: datetime) -> list[tuple[str, str, bool]]:
     separados, em ordem de hora); o Reels que não publica ainda gera a cópia do TikTok. Pausado: só a cópia do TikTok."""
     f = ig_fracao(h, agora)
     if f >= 1:
-        return [(hr, t, True) for hr, t in config.INSTAGRAM_AGENDA]
-    saida = []
+        return [(hr, t, not so_tiktok(hr, t)) for hr, t in config.INSTAGRAM_AGENDA]
+    saida = [(hr, t, False) for hr, t in config.INSTAGRAM_AGENDA if so_tiktok(hr, t)]
     for grupo in (True, False):
-        itens = sorted((hr, t) for hr, t in config.INSTAGRAM_AGENDA if (t in IG_FEED) == grupo)
+        itens = sorted((hr, t) for hr, t in config.INSTAGRAM_AGENDA if (t in IG_FEED) == grupo and not so_tiktok(hr, t))
         for i, (hr, t) in enumerate(itens):
             publica = int((i + 1) * f + 0.5) > int(i * f + 0.5)   # espalha round(n×f) horários pelo dia
             if publica or t == "reels":
@@ -1587,7 +1596,7 @@ def rodar_instagram(h: dict, agora: datetime) -> None:
                 slides = [artes.capa_top5(agora.timetuple().tm_yday)] + [artes.post_oferta(o, o["canal"]) for o in top]
                 lista = "\n".join(f"{i+1}. {o['nome'][:60]} — {post._brl(o['preco'])}" for i, o in enumerate(top))
                 instagram.carrossel(slides, f"{tag}-top5", "😎💎 TOP 5 do Papa hoje\n\n" + lista + LEGENDA_CTA)
-            if tipo in ("post_achado", "carrossel_top5", "reels"):
+            if tipo in ("post_achado", "carrossel_top5", "reels") and publica:
                 feitos.append(f"{hoje} feed")
             feitos.append(chave)
             print(f"[ig] publicado {chave}")

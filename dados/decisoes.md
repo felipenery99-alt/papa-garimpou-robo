@@ -134,3 +134,12 @@
 - Alavanca nova: Tech subiu 5→6 no 1º dia com "Black Friday" no título; Achadinhos está parado em 3 desde o início. Achadinhos e Marcas também ganham "Black Friday" no título (descrições iguais; versão 2026-11-11, o robô aplica uma vez). Voltar todos em 01/12. Ensaio OK.
 - Próximo: em 12/11 conferir `canais_info` ok, membros por canal e decidir o Reels (alcance ≤5 em todos os formatos).
 - Pedido ao dono: (1) **rodadas de seguir/comentar todo dia** no Instagram (alcance e seguidores vêm daí); (2) PC do garimpo ligado o dia todo; (3) token da Página do Facebook com `pages_manage_posts`.
+
+## 2026-11-12 (rotina do CEO)
+- Visto (11/11): 24 execuções, 25 stories ativos (piso ok), feed ok (3 Reels + carrossel + post). Telegram: 43 achadinhos, 35 marcas, 35 tech. Seguidores 415→441 (+26), alcance 2.467, visitas 127, **0 cliques na bio**. Membros 3+6+7+5 = 21 (+1 no Tech); convites medidos e DM (0 comentários com palavra) seguem em 0. Conta do Instagram suspensa 11/11 22:01 e de volta às 22:33 com a rampa (55% hoje).
+- Erros: 1 "connection reset" no Telegram (oferta não postada); vigia: garimpo local parado de 10/11 18:46 até a manhã e depois das 13:52 (tech com 0–2 na fila). Reserva Shopee achou 0.
+- META: Instagram 441 de 780 até 27/11 (no ritmo hoje: precisa ~23/dia, fez +26). Telegram 21 de 150 até 17/11 (**atrasado**: precisa ~26/dia).
+- Decisão do Reels (combinada para hoje): 24 Reels medidos com alcance médio ~4 (`ate_off` 3,9; `uma_oferta` 4,0). Os Reels das 12:00 e 20:30 saem do Instagram e viram só a cópia do TikTok (`config.REELS_SO_TIKTOK`); fica 1 Reels/dia (18:30, 1 oferta). Menos volume sem retorno logo depois da suspensão; feed segue todo dia (carrossel + post).
+- Alavanca nova (Telegram atrasado): ninguém comenta TELEGRAM e a bio tem 0 cliques. A legenda de todo post agora dá o caminho direto: "É grátis: no Telegram, busca @papagarimpouofertas" (a busca do app acha pelo @ e pelo título Black Friday), mantendo o "comenta TELEGRAM" e o aviso de publi. Ensaio OK.
+- Próximo: em 13/11 conferir se membros do Geral sobem e se o alcance não cai sem os 2 Reels; medir os 1ºs `tg-share-<canal>` do botão "Mandar pra um amigo".
+- Pedido ao dono: (1) **rodadas de seguir/comentar todo dia**, mas leves nesta semana de volta (a conta acabou de ser suspensa); (2) PC do garimpo ligado o dia todo.

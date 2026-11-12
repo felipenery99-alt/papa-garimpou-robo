@@ -40,6 +40,10 @@ INSTAGRAM_AGENDA = [
     # 05/11 (CEO): alcance 149 → 4.203 no dia em que a capa do Reels virou "ATÉ X% OFF" → 4 Reels por dia.
     ("12:00", "reels"),
 ]
+# 12/11 (CEO): 24 Reels medidos de 02/11 a 11/11 tiveram alcance médio ~4 (ate_off 3,9; uma_oferta 4,0), e a conta
+# acabou de voltar de suspensão. Os Reels das 12:00 e 20:30 deixam de ir ao Instagram (viram só a cópia do TikTok);
+# fica 1 Reels/dia no Instagram (18:30, 1 oferta). Feed segue todo dia (carrossel 11:50 + Reels 18:30 + post 19:15).
+REELS_SO_TIKTOK = {"12:00", "20:30"}
 REELS_CAMPEAO_MIN = 3   # 08/11: capa só vira "campeã" (formato dos 4 Reels) com pelo menos 3 Reels medidos
 
 # Dono, 28/10: "o Will posta 20 stories por dia pelo menos". Além da agenda acima, cada
