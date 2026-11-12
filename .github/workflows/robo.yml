@@ -82,7 +82,7 @@ jobs:
           git config user.name "robo-papa"
           git config user.email "robo-papa@users.noreply.github.com"
           # 01/11: um arquivo que não existe derrubava o git add inteiro (runs #167/#168 sem histórico): um por um
-          for f in dados/historico.json dados/relatorio.json dados/convite-story.txt dados/convites.json dados/alertas.json dados/porta.txt dados/story-link.txt dados/interativos-hoje.json midia; do [ ! -e "$f" ] || git add "$f"; done
+          for f in dados/historico.json dados/relatorio.json dados/convite-story.txt dados/convites.json dados/alertas.json dados/alertas-central.json dados/porta.txt dados/story-link.txt dados/interativos-hoje.json midia; do [ ! -e "$f" ] || git add "$f"; done
           git add -u midia 2>/dev/null || true
           # se alguém gravou no meio (garimpo, ajuste manual, outra execução), parte do main novo e
           # JUNTA os históricos (nunca sobrescreve: sobrescrever apagava posts e o robô repostava)
@@ -95,7 +95,7 @@ jobs:
             git reset -q --mixed origin/main
             git show origin/main:dados/historico.json > "$RUNNER_TEMP/remoto.json"
             python mesclar_historico.py "$RUNNER_TEMP/nosso.json" "$RUNNER_TEMP/remoto.json" dados/historico.json
-            for f in dados/historico.json dados/relatorio.json dados/convite-story.txt dados/convites.json dados/alertas.json dados/porta.txt dados/story-link.txt dados/interativos-hoje.json midia; do [ ! -e "$f" ] || git add "$f"; done
+            for f in dados/historico.json dados/relatorio.json dados/convite-story.txt dados/convites.json dados/alertas.json dados/alertas-central.json dados/porta.txt dados/story-link.txt dados/interativos-hoje.json midia; do [ ! -e "$f" ] || git add "$f"; done
             git add -u midia 2>/dev/null || true
             git diff --cached --quiet || git commit -m "histórico"
           done

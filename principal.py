@@ -1817,7 +1817,7 @@ def conferir_token_meta(h: dict, telegram, agora: datetime) -> None:
     try:
         v = instagram.validade_token()
     except Exception as e:
-        telegram.avisar_dono(f"não consegui conferir a validade do META_TOKEN: {e}")
+        telegram.avisar_dono(f"não consegui conferir a validade do META_TOKEN: {e}", dono=False)   # conexão: Central
         return
     h["token_conferido"] = agora.date().isoformat()
     h["meta_token"] = {"tipo": v["tipo"], "valido": v["valido"],

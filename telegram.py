@@ -181,18 +181,71 @@ def _segurar(texto: str) -> bool:
     return segura
 
 
-def avisar_dono(texto: str, prefixo: bool = True, urgente: bool | None = None) -> None:
-    """Aviso de problema. Vai só para o chat do dono com o robô (ALERTA_CHAT_ID).
-    Nunca para os canais. Se não houver chat configurado, só registra no log.
-    `prefixo=False` (03/11, vigia): o texto já vem pronto, sem "⚠️ Robô Papa Garimpou:".
-    Urgente (vigia, destino/conta bloqueados, token vencendo) sai na hora; o resto espera 24 h (ver _segurar)."""
+ALERTAS_CENTRAL = Path(__file__).parent / "dados" / "alertas-central.json"
+# 12/11 (dono: "telegram me avisa toda hora aqui"): o celular do dono só recebe o resumo diário, venda e o que
+# só ele resolve (token/login da Meta, conta bloqueada/suspensa, destino errado). O resto vai para a Central.
+SO_DONO = re.compile(r"TOKEN|BLOQUEADO|LOGIN|DESLIGUEI O INSTAGRAM|CONTA ERRADA|SUSPENS")
+
+
+def _para_central(texto: str) -> None:
+    """Grava em dados/alertas-central.json (a vigia e a Central leem e resolvem). Mesmo aviso (texto sem
+    números) vira uma entrada só, com contagem; entradas sem repetir há 72 h saem."""
+    from datetime import datetime, timedelta
+    agora = datetime.now().astimezone()
+    assin = re.sub(r"\d+", "#", texto)[:80]
+    try:
+        lista = json.loads(ALERTAS_CENTRAL.read_text(encoding="utf-8"))
+    except Exception:
+        lista = {}
+    lista = {k: v for k, v in lista.items() if agora - datetime.fromisoformat(v["ultimo"]) < timedelta(hours=72)}
+    v = lista.setdefault(assin, {"primeiro": agora.isoformat(timespec="minutes"), "vezes": 0})
+    v.update(ultimo=agora.isoformat(timespec="minutes"), texto=texto[:500], vezes=v["vezes"] + 1)
+    try:
+        ALERTAS_CENTRAL.parent.mkdir(exist_ok=True)
+        ALERTAS_CENTRAL.write_text(json.dumps(lista, ensure_ascii=False, indent=1), encoding="utf-8")
+    except Exception as e:
+        print(f"[ALERTA] não gravei alertas-central.json: {e}")
+
+
+def _ja_avisou_24h(texto: str) -> bool:
+    """Aviso ao dono: no máximo 1 igual (texto sem números) a cada 24 h, mesmo os urgentes."""
+    from datetime import datetime, timedelta
+    agora = datetime.now()
+    assin = "dono:" + re.sub(r"\d+", "#", texto)[:80]
+    try:
+        vistos = json.loads(ALERTAS.read_text(encoding="utf-8"))
+    except Exception:
+        vistos = {}
+    v = vistos.get(assin)
+    if v and v.get("enviado") and agora - datetime.fromisoformat(v["enviado"]) < timedelta(hours=24):
+        return True
+    vistos = {k: x for k, x in vistos.items() if agora - datetime.fromisoformat(x["ultimo"]) < timedelta(hours=48)}
+    vistos[assin] = {"primeiro": agora.isoformat(), "ultimo": agora.isoformat(), "enviado": agora.isoformat()}
+    try:
+        ALERTAS.parent.mkdir(exist_ok=True)
+        ALERTAS.write_text(json.dumps(vistos, ensure_ascii=False, indent=1), encoding="utf-8")
+    except Exception:
+        pass
+    return False
+
+
+def avisar_dono(texto: str, prefixo: bool = True, urgente: bool | None = None, dono: bool | None = None) -> None:
+    """Aviso de problema. Vai para o relatório (erros) e:
+    - só o dono resolve (token/login da Meta, conta bloqueada, destino errado; ou `dono=True`) → chat do dono
+      (ALERTA_CHAT_ID), no máximo 1 aviso igual a cada 24 h;
+    - todo o resto (garimpo, fila, canal sem post, conexão, Top 10, convite…) → dados/alertas-central.json.
+    Nunca vai para os canais. `prefixo`/`urgente` ficam por compatibilidade (urgente não fura mais o limite de 24 h)."""
     chat = os.environ.get("ALERTA_CHAT_ID", "").strip()
     print(f"[ALERTA] {texto}")
     ERROS.append(texto[:300])
-    if urgente is None:
-        urgente = not prefixo or "BLOQUEADO" in texto or "TOKEN" in texto.upper()
-    if not urgente and _segurar(texto):
-        print("[ALERTA] erro comum: o robô tenta de novo; só aviso o dono se durar 24 h")
+    if dono is None:
+        dono = bool(SO_DONO.search(texto.upper()))
+    if not dono:
+        _para_central(texto)
+        print("[ALERTA] → alertas-central.json (a vigia/Central resolvem; não vai para o dono)")
+        return
+    if _ja_avisou_24h(texto):
+        print("[ALERTA] o dono já recebeu este aviso nas últimas 24 h")
         return
     if not chat or not os.environ.get("TELEGRAM_BOT_TOKEN"):
         return

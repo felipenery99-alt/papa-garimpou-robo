@@ -48,12 +48,14 @@ jobs:
             if [ "$ativos" = "0" ] && [ $(( agora_s - $(date -d "$criado" +%s) )) -gt 3600 ]; then
               if gh workflow run robo.yml -R "$REPO" -f modo=normal; then
                 echo "vigia: robô parado desde $criado, disparei"
-              elif [ $(( agora_s - ultimo_aviso )) -gt 10800 ]; then
+              elif [ "$ultimo_aviso" = "0" ]; then
+                # 12/11 (dono: "me avisa toda hora"): só o que o dono resolve (GitHub não deixa disparar), 1 vez por volta
                 avisar "⚠️ Robô Papa Garimpou parado e o guardião não conseguiu disparar. Abrir o GitHub Actions." && ultimo_aviso=$agora_s
               fi
             fi
-            if [ $(( agora_s - $(date -d "$fim_ok" +%s) )) -gt 5400 ] && [ $(( agora_s - ultimo_aviso )) -gt 10800 ]; then
-              avisar "⚠️ Robô Papa Garimpou sem terminar uma execução há mais de 90 min (última: $(TZ=America/Sao_Paulo date -d "$fim_ok" +%H:%M)). O guardião está de olho e dispara de novo." && ultimo_aviso=$agora_s
+            # 12/11: "sem terminar há 90 min" não vai mais para o dono (o guardião já dispara de novo); fica só no log
+            if [ $(( agora_s - $(date -d "$fim_ok" +%s) )) -gt 5400 ]; then
+              echo "vigia: robô sem terminar uma execução há mais de 90 min (última: $fim_ok)"
             fi
           }
           # 05/11 (1 ano sem o dono): o GitHub desliga o "schedule" de repositório sem atividade por 60 dias.
