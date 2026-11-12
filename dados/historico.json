@@ -1044,7 +1044,14 @@
   "2026-11-11 tech 21:32 amz-B00RM1EC1S",
   "2026-11-11 achadinhos 21:39 amz-B077SYYBVZ",
   "2026-11-11 marcas 21:46 amz-B0GL4RK6Z2",
-  "2026-11-11 tech 21:53 amz-B0GP36NXCM"
+  "2026-11-11 tech 21:53 amz-B0GP36NXCM",
+  "2026-11-12 achadinhos 08:17 shopee-23599291516",
+  "2026-11-12 achadinhos 08:24 amz-B0DY2MB9WT",
+  "2026-11-12 marcas 08:32 amz-B0BNP2NSRT",
+  "2026-11-12 achadinhos 08:38 amz-B08JPLVFF7",
+  "2026-11-12 achadinhos 08:47 amz-B07C91RQZ4",
+  "2026-11-12 tech 08:53 shopee-47802618294",
+  "2026-11-12 tech 09:01 amz-B07W8X4F48"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -2054,7 +2061,14 @@
   "amz-B00RM1EC1S": "2026-11-11T21:32:11.601855-03:00",
   "amz-B077SYYBVZ": "2026-11-11T21:39:26.788828-03:00",
   "amz-B0GL4RK6Z2": "2026-11-11T21:46:01.411753-03:00",
-  "amz-B0GP36NXCM": "2026-11-11T21:53:18.496020-03:00"
+  "amz-B0GP36NXCM": "2026-11-11T21:53:18.496020-03:00",
+  "shopee-23599291516": "2026-11-12T08:17:20.385621-03:00",
+  "amz-B0DY2MB9WT": "2026-11-12T08:24:36.284422-03:00",
+  "amz-B0BNP2NSRT": "2026-11-12T08:32:03.204419-03:00",
+  "amz-B08JPLVFF7": "2026-11-12T08:38:33.703452-03:00",
+  "amz-B07C91RQZ4": "2026-11-12T08:47:20.634485-03:00",
+  "shopee-47802618294": "2026-11-12T08:53:56.393989-03:00",
+  "amz-B07W8X4F48": "2026-11-12T09:01:14.314143-03:00"
  },
  "ofertas_dia": [
   {
@@ -12601,6 +12615,128 @@
    "valida_ate": "2026-11-12T22:00:00-03:00",
    "entrou": "2026-11-11T18:55:47.916885-03:00",
    "dia": "2026-11-11"
+  },
+  {
+   "id": "shopee-23599291516",
+   "plataforma": "Shopee",
+   "nome": "Kit 2 Ventiladores de mesa 30 cm 6 pás com 3 velocidades VSP-30-B Mondial",
+   "loja": "Dutra Máquinas",
+   "loja_oficial": true,
+   "preco": 215.91,
+   "preco_antigo": 322.25,
+   "desconto": 33,
+   "vendas": 1660,
+   "nota": 4.9,
+   "comissao_pct": 7.0,
+   "imagem": "https://cf.shopee.com.br/file/sg-11134201-8259c-msb0c10fn85m2b",
+   "link": "https://s.shopee.com.br/5q9g4AbKNj",
+   "canal": "achadinhos",
+   "entrou": "2026-11-12T00:45:01.986202-03:00",
+   "dia": "2026-11-12"
+  },
+  {
+   "id": "amz-B0DY2MB9WT",
+   "canal": "achadinhos",
+   "nome": "Air Fryer Philips Walita Duplo Cesto 7,1L Preta 110V",
+   "preco_antigo": 1049.9,
+   "preco": 649.0,
+   "desconto": 38,
+   "link": "https://www.amazon.com.br/dp/B0DY2MB9WT?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61wMbUKJ0QL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-12T22:00:00-03:00",
+   "extra": "Voltagem 110V",
+   "preco_em": "2026-11-11T18:50:54-03:00",
+   "entrou": "2026-11-12T04:27:45.160319-03:00",
+   "dia": "2026-11-12"
+  },
+  {
+   "id": "amz-B0BNP2NSRT",
+   "canal": "marcas",
+   "nome": "Camiseta Básica Hering Super Cotton com Bolso Masculina",
+   "preco_antigo": 89.99,
+   "preco": 40.9,
+   "desconto": 55,
+   "link": "https://www.amazon.com.br/dp/B0BNP2NSRT?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/611PQnPJgtL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-12T22:00:00-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "preco_em": "2026-11-11T18:50:54-03:00",
+   "entrou": "2026-11-12T04:27:45.160319-03:00",
+   "dia": "2026-11-12"
+  },
+  {
+   "id": "amz-B08JPLVFF7",
+   "canal": "achadinhos",
+   "nome": "Cafeteira Nescafé Dolce Gusto Arno Genio S Basic 220V",
+   "preco_antigo": 799.99,
+   "preco": 399.0,
+   "desconto": 50,
+   "link": "https://www.amazon.com.br/dp/B08JPLVFF7?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61PWG6Jec9L._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-12T22:00:00-03:00",
+   "extra": "Voltagem 220V",
+   "preco_em": "2026-11-11T18:50:54-03:00",
+   "entrou": "2026-11-12T08:38:33.367397-03:00",
+   "dia": "2026-11-12"
+  },
+  {
+   "id": "amz-B07C91RQZ4",
+   "canal": "achadinhos",
+   "nome": "Liquidificador Mondial Turbo Full 900W 220V",
+   "preco_antigo": 179.9,
+   "preco": 95.18,
+   "desconto": 47,
+   "link": "https://www.amazon.com.br/dp/B07C91RQZ4?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51s1-Aw1vjL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-12T22:00:00-03:00",
+   "extra": "Voltagem 220V",
+   "preco_em": "2026-11-11T18:50:54-03:00",
+   "entrou": "2026-11-12T08:38:33.367397-03:00",
+   "dia": "2026-11-12"
+  },
+  {
+   "id": "shopee-47802618294",
+   "plataforma": "Shopee",
+   "nome": "PowerBank Baseus FC51 Bipow2 Pro 10000mAh/20000mAh 22.5W com Cabo Integrado e Display Digital EnerFill",
+   "loja": "Baseus Oficial",
+   "loja_oficial": true,
+   "preco": 209.0,
+   "preco_antigo": 286.3,
+   "desconto": 27,
+   "vendas": 307,
+   "nota": 4.9,
+   "comissao_pct": 8.0,
+   "imagem": "https://cf.shopee.com.br/file/br-11134207-820lq-mo3x6myifi8190",
+   "link": "https://s.shopee.com.br/60T6IHdzCk",
+   "quase": true,
+   "canal": "tech",
+   "entrou": "2026-11-12T08:45:02.603807-03:00",
+   "dia": "2026-11-12"
+  },
+  {
+   "id": "amz-B07W8X4F48",
+   "canal": "tech",
+   "nome": "Mouse Gamer Sem Fio Logitech G703 LIGHTSPEED RGB",
+   "preco_antigo": 499.9,
+   "preco": 319.9,
+   "desconto": 36,
+   "link": "https://www.amazon.com.br/dp/B07W8X4F48?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51fgVUBaPRL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-13T22:00:00-03:00",
+   "coletado_em": "2026-11-12T08:46:17-03:00",
+   "preco_em": "2026-11-12T08:46:17-03:00",
+   "entrou": "2026-11-12T08:53:43.153498-03:00",
+   "dia": "2026-11-12"
   }
  ],
  "ig_feitos": [
@@ -12716,16 +12852,16 @@
   "2026-11-11 18:09 story_oferta",
   "2026-11-11 18:30 reels",
   "2026-11-11 18:42 story_oferta",
-  "2026-11-11 feed",
   "2026-11-11 19:15 post_achado",
   "2026-11-11 19:17 story_oferta",
   "2026-11-11 20:03 story_oferta",
-  "2026-11-11 feed",
   "2026-11-11 20:30 reels",
   "2026-11-11 20:35 story_top4",
   "2026-11-11 20:38 story_oferta",
   "2026-11-11 21:20 story_convite",
-  "2026-11-11 21:24 story_oferta"
+  "2026-11-11 21:24 story_oferta",
+  "2026-11-12 08:07 story_oferta",
+  "2026-11-12 08:52 story_oferta"
  ],
  "ig_ofertas_usadas": [
   "amz-B09KMW2N9Z",
@@ -12927,7 +13063,8 @@
   "amz-B0BTHPZ9J4",
   "amz-B0CT5WQHH4",
   "amz-B0DQLSG6YK",
-  "amz-B0DYVTZ89P"
+  "amz-B0DYVTZ89P",
+  "shopee-23599291516"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
@@ -12986,112 +13123,15 @@
   "ac-falta-estoque": "2026-11-07",
   "dc-comparar-lojas": "2026-11-07",
   "ac-cronometro": "2026-11-07",
-  "dc-kit-meia": "2026-11-07"
+  "dc-kit-meia": "2026-11-07",
+  "bf-2026-11-12": "2026-11-12"
  },
  "pecas_dia": {
-  "2026-11-07": 12
+  "2026-11-07": 12,
+  "2026-11-12": 1
  },
- "ultimo_pilar": "dica",
+ "ultimo_pilar": "blackfriday",
  "fila": [
-  {
-   "id": "shopee-23599291516",
-   "plataforma": "Shopee",
-   "nome": "Kit 2 Ventiladores de mesa 30 cm 6 pás com 3 velocidades VSP-30-B Mondial",
-   "loja": "Dutra Máquinas",
-   "loja_oficial": true,
-   "preco": 215.91,
-   "preco_antigo": 322.25,
-   "desconto": 33,
-   "vendas": 1660,
-   "nota": 4.9,
-   "comissao_pct": 7.0,
-   "imagem": "https://cf.shopee.com.br/file/sg-11134201-8259c-msb0c10fn85m2b",
-   "link": "https://s.shopee.com.br/5q9g4AbKNj",
-   "canal": "achadinhos",
-   "entrou": "2026-11-12T00:45:01.986202-03:00"
-  },
-  {
-   "id": "shopee-21616812729",
-   "plataforma": "Shopee",
-   "nome": "Kit Com 6 Cuecas Lupo Boxer de Microfibra Sem Costura Box Masculina Adulto Original",
-   "loja": "Deccó",
-   "loja_oficial": true,
-   "preco": 155.65,
-   "preco_antigo": 259.42,
-   "desconto": 40,
-   "vendas": 325,
-   "nota": 4.9,
-   "comissao_pct": 7.0,
-   "imagem": "https://cf.shopee.com.br/file/br-11134207-820la-mvevktrv3dvk7b",
-   "link": "https://s.shopee.com.br/gRZujOika",
-   "canal": "marcas",
-   "entrou": "2026-11-12T00:45:01.986202-03:00"
-  },
-  {
-   "id": "shopee-14815391424",
-   "plataforma": "Shopee",
-   "nome": "Kit 10 Cuecas Boxer Lupo Masculina Microfibra Poliamida Sem Costura Confortável Original Adulto",
-   "loja": "Osure",
-   "loja_oficial": true,
-   "preco": 223.11,
-   "preco_antigo": 371.85,
-   "desconto": 40,
-   "vendas": 298,
-   "nota": 4.9,
-   "comissao_pct": 7.0,
-   "imagem": "https://cf.shopee.com.br/file/br-11134207-820lk-mt86z476f4013a",
-   "link": "https://s.shopee.com.br/1gK76ZKuik",
-   "canal": "marcas",
-   "entrou": "2026-11-12T00:45:01.986202-03:00"
-  },
-  {
-   "id": "amz-B0DY2MB9WT",
-   "canal": "achadinhos",
-   "nome": "Air Fryer Philips Walita Duplo Cesto 7,1L Preta 110V",
-   "preco_antigo": 1049.9,
-   "preco": 649.0,
-   "desconto": 38,
-   "link": "https://www.amazon.com.br/dp/B0DY2MB9WT?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61wMbUKJ0QL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-12T22:00:00-03:00",
-   "extra": "Voltagem 110V",
-   "preco_em": "2026-11-11T18:50:54-03:00",
-   "entrou": "2026-11-12T04:27:45.160319-03:00"
-  },
-  {
-   "id": "amz-B08JPLVFF7",
-   "canal": "achadinhos",
-   "nome": "Cafeteira Nescafé Dolce Gusto Arno Genio S Basic 220V",
-   "preco_antigo": 799.99,
-   "preco": 399.0,
-   "desconto": 50,
-   "link": "https://www.amazon.com.br/dp/B08JPLVFF7?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61PWG6Jec9L._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-12T22:00:00-03:00",
-   "extra": "Voltagem 220V",
-   "preco_em": "2026-11-11T18:50:54-03:00",
-   "entrou": "2026-11-12T04:27:45.160319-03:00"
-  },
-  {
-   "id": "amz-B07C91RQZ4",
-   "canal": "achadinhos",
-   "nome": "Liquidificador Mondial Turbo Full 900W 220V",
-   "preco_antigo": 179.9,
-   "preco": 95.18,
-   "desconto": 47,
-   "link": "https://www.amazon.com.br/dp/B07C91RQZ4?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51s1-Aw1vjL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-12T22:00:00-03:00",
-   "extra": "Voltagem 220V",
-   "preco_em": "2026-11-11T18:50:54-03:00",
-   "entrou": "2026-11-12T04:27:45.160319-03:00"
-  },
   {
    "id": "amz-B08YHR9C4S",
    "canal": "achadinhos",
@@ -13106,7 +13146,7 @@
    "valida_ate": "2026-11-12T22:00:00-03:00",
    "extra": "Voltagem 110V",
    "preco_em": "2026-11-11T18:50:54-03:00",
-   "entrou": "2026-11-12T04:27:45.160319-03:00"
+   "entrou": "2026-11-12T08:38:33.367397-03:00"
   },
   {
    "id": "amz-B0FYS6ZHB4",
@@ -13121,23 +13161,7 @@
    "plataforma": "Amazon",
    "valida_ate": "2026-11-12T22:00:00-03:00",
    "preco_em": "2026-11-11T18:50:54-03:00",
-   "entrou": "2026-11-12T04:27:45.160319-03:00"
-  },
-  {
-   "id": "amz-B0BNP2NSRT",
-   "canal": "marcas",
-   "nome": "Camiseta Básica Hering Super Cotton com Bolso Masculina",
-   "preco_antigo": 89.99,
-   "preco": 40.9,
-   "desconto": 55,
-   "link": "https://www.amazon.com.br/dp/B0BNP2NSRT?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/611PQnPJgtL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-12T22:00:00-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "preco_em": "2026-11-11T18:50:54-03:00",
-   "entrou": "2026-11-12T04:27:45.160319-03:00"
+   "entrou": "2026-11-12T08:38:33.367397-03:00"
   },
   {
    "id": "amz-B0GZX5BR6D",
@@ -13152,7 +13176,75 @@
    "plataforma": "Amazon",
    "valida_ate": "2026-11-12T22:00:00-03:00",
    "preco_em": "2026-11-11T18:50:54-03:00",
-   "entrou": "2026-11-12T04:27:45.160319-03:00"
+   "entrou": "2026-11-12T08:38:33.367397-03:00"
+  },
+  {
+   "id": "amz-B0FVYHNTS5",
+   "canal": "marcas",
+   "nome": "Kit 10 Pares Meias Lupo Cano Médio",
+   "preco_antigo": 105.25,
+   "preco": 64.79,
+   "desconto": 38,
+   "link": "https://www.amazon.com.br/dp/B0FVYHNTS5?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71hPSip9pBL._AC_SL1500_.jpg",
+   "loja": "Vendido por parceiro · entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-13T22:00:00-03:00",
+   "coletado_em": "2026-11-12T08:46:18-03:00",
+   "extra": "Oferta Black Friday na Amazon",
+   "preco_em": "2026-11-12T08:46:18-03:00",
+   "entrou": "2026-11-12T08:53:43.153498-03:00"
+  },
+  {
+   "id": "amz-B0FFTR4N53",
+   "canal": "marcas",
+   "nome": "Tênis Mizuno City Wall",
+   "preco_antigo": 329.99,
+   "preco": 159.9,
+   "desconto": 52,
+   "link": "https://www.amazon.com.br/dp/B0FFTR4N53?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/4107vWUM+KL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-13T22:00:00-03:00",
+   "coletado_em": "2026-11-12T08:46:18-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor · Oferta Black Friday na Amazon",
+   "preco_em": "2026-11-12T08:46:18-03:00",
+   "entrou": "2026-11-12T08:53:43.153498-03:00"
+  },
+  {
+   "id": "amz-B0HBSKH7YK",
+   "canal": "marcas",
+   "nome": "Tênis ASICS Japan S Masculino",
+   "preco_antigo": 399.99,
+   "preco": 249.9,
+   "desconto": 38,
+   "link": "https://www.amazon.com.br/dp/B0HBSKH7YK?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51Xi3-yVlWL._AC_SL1280_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-13T22:00:00-03:00",
+   "coletado_em": "2026-11-12T08:46:19-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor · Oferta Black Friday na Amazon",
+   "preco_em": "2026-11-12T08:46:19-03:00",
+   "entrou": "2026-11-12T08:53:43.153498-03:00"
+  },
+  {
+   "id": "amz-B07RT1NRVP",
+   "canal": "marcas",
+   "nome": "Kit 6 Pares Meias Lupo 3245 Cano Médio Algodão",
+   "preco_antigo": 69.99,
+   "preco": 45.84,
+   "desconto": 35,
+   "link": "https://www.amazon.com.br/dp/B07RT1NRVP?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71ty8q6v6LL._AC_SL1500_.jpg",
+   "loja": "Vendido por parceiro · entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-13T22:00:00-03:00",
+   "coletado_em": "2026-11-12T08:46:19-03:00",
+   "extra": "Oferta Black Friday na Amazon",
+   "preco_em": "2026-11-12T08:46:19-03:00",
+   "entrou": "2026-11-12T08:53:43.153498-03:00"
   }
  ],
  "menus_fixados": [
@@ -14016,7 +14108,14 @@
   "pendrivesandiskcruzerblade128gb": "2026-11-11T21:32:11.601855-03:00",
   "jogodefrigideirastramontinaturimantiaderente2pecas": "2026-11-11T21:39:26.788828-03:00",
   "copostanleyeverydaytumblertexturizado473ml": "2026-11-11T21:46:01.411753-03:00",
-  "headsetgamerjblquantum100m2commicrofoneremovivel": "2026-11-11T21:53:18.496020-03:00"
+  "headsetgamerjblquantum100m2commicrofoneremovivel": "2026-11-11T21:53:18.496020-03:00",
+  "kit2ventiladoresdemesa30cm6pascom3velocidadesvsp30bmondial": "2026-11-12T08:17:20.385621-03:00",
+  "airfryerphilipswalitaduplocesto71lpreta110v": "2026-11-12T08:24:36.284422-03:00",
+  "camisetabasicaheringsupercottoncombolsomasculina": "2026-11-12T08:32:03.204419-03:00",
+  "cafeteiranescafedolcegustoarnogeniosbasic220v": "2026-11-12T08:38:33.703452-03:00",
+  "liquidificadormondialturbofull900w220v": "2026-11-12T08:47:20.634485-03:00",
+  "powerbankbaseusfc51bipow2pro10000mah20000mah225wcomcabointegradoedisplaydigitalenerfill": "2026-11-12T08:53:56.393989-03:00",
+  "mousegamersemfiologitechg703lightspeedrgb": "2026-11-12T09:01:14.314143-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
@@ -14283,6 +14382,22 @@
   "ig-canal": {
    "link": "https://t.me/+dFqoVnyNNTsxNzc5",
    "entradas": []
+  },
+  "tg-share-achadinhos": {
+   "link": "https://t.me/+BQV869J6w9czMjAx",
+   "entradas": []
+  },
+  "tg-share-geral": {
+   "link": "https://t.me/+QVu5VT5Z3P9iNTMx",
+   "entradas": []
+  },
+  "tg-share-marcas": {
+   "link": "https://t.me/+sWRFpWJyo4o0OWYx",
+   "entradas": []
+  },
+  "tg-share-tech": {
+   "link": "https://t.me/+OdlH9GjtWXVlYzVh",
+   "entradas": []
   }
  },
  "tg_offset": 354369950,
@@ -14311,7 +14426,7 @@
  "pede_semana": "2026-46",
  "ultimo_garimpo": "2026-11-11T18:50:54-03:00",
  "vigia_aviso_post": "2026-11-09T18:27:03.734589-03:00",
- "vigia_aviso_garimpo": "2026-11-11T18:19:57.721704-03:00",
+ "vigia_aviso_garimpo": "2026-11-12T08:17:20.373994-03:00",
  "resumo_enviado": "2026-11-11",
  "token_conferido": "2026-11-12",
  "meta_token": {
@@ -14343,14 +14458,14 @@
   "2026-11-09 noite tech",
   "2026-11-10 noite marcas"
  ],
- "reserva_meio": "2026-11-12T04:38:26.730015-03:00",
+ "reserva_meio": "2026-11-12T08:45:02.603807-03:00",
  "reserva_cheia": {
   "achadinhos": "2026-11-09T18:09:55.295113-03:00",
-  "tech": "2026-11-11T08:39:45.270035-03:00",
+  "tech": "2026-11-12T08:45:02.603807-03:00",
   "marcas": "2026-11-11T12:51:21.081776-03:00"
  },
  "top10_dia": "2026-11-07",
- "manuais_lidos": "2026-11-12T04:38:26.730015-03:00",
+ "manuais_lidos": "2026-11-12T08:53:43.153498-03:00",
  "reserva_resultado": {
   "2026-11-07": {
    "achadinhos": {
@@ -14440,6 +14555,11 @@
    },
    "tech": {
     "busca": 0,
+    "quase": 1,
+    "reprise": 0
+   },
+   "achadinhos": {
+    "busca": 0,
     "quase": 0,
     "reprise": 0
    }
@@ -14499,7 +14619,7 @@
    "hora": "2026-11-11T20:32:35.453128-03:00"
   }
  },
- "ig_respondido_em": "2026-11-12T04:38:26.730015-03:00",
+ "ig_respondido_em": "2026-11-12T08:53:43.153498-03:00",
  "dm_auto": {
   "2026-11-08": {
    "com_palavra": 0,
@@ -14843,9 +14963,10 @@
    "feed": 0
   },
   "2026-11-12": {
-   "story": 0,
+   "story": 2,
    "feed": 0
   }
  },
- "ig_conta_ok": "2026-11-12"
+ "ig_conta_ok": "2026-11-12",
+ "share_erro": {}
 }
