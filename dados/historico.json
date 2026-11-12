@@ -1095,7 +1095,13 @@
   "2026-11-12 tech 14:59 amz-B0CRTPF7CZ",
   "2026-11-12 achadinhos 15:08 amz-B08FXSBL8V",
   "2026-11-12 marcas 15:14 amz-B0FFTR3PBR",
-  "2026-11-12 tech 15:20 amz-B0FCVJZ2ZS"
+  "2026-11-12 tech 15:20 amz-B0FCVJZ2ZS",
+  "2026-11-12 achadinhos 15:28 amz-B0DK4975DJ",
+  "2026-11-12 marcas 15:35 amz-B0GH9Q5RNR",
+  "2026-11-12 tech 15:41 amz-B0DZPKSLHB",
+  "2026-11-12 achadinhos 15:48 amz-B07CTM3BZ3",
+  "2026-11-12 marcas 15:56 amz-B07LCTTF8V",
+  "2026-11-12 tech 16:03 amz-B0GMY41LM8"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -2153,7 +2159,13 @@
   "amz-B0CRTPF7CZ": "2026-11-12T14:59:43.656257-03:00",
   "amz-B08FXSBL8V": "2026-11-12T15:08:03.796864-03:00",
   "amz-B0FFTR3PBR": "2026-11-12T15:14:45.076575-03:00",
-  "amz-B0FCVJZ2ZS": "2026-11-12T15:20:55.557250-03:00"
+  "amz-B0FCVJZ2ZS": "2026-11-12T15:20:55.557250-03:00",
+  "amz-B0DK4975DJ": "2026-11-12T15:28:09.718717-03:00",
+  "amz-B0GH9Q5RNR": "2026-11-12T15:35:31.748351-03:00",
+  "amz-B0DZPKSLHB": "2026-11-12T15:41:57.497194-03:00",
+  "amz-B07CTM3BZ3": "2026-11-12T15:48:55.113698-03:00",
+  "amz-B07LCTTF8V": "2026-11-12T15:56:07.612322-03:00",
+  "amz-B0GMY41LM8": "2026-11-12T16:03:27.016904-03:00"
  },
  "ofertas_dia": [
   {
@@ -13545,6 +13557,109 @@
    "preco_em": "2026-11-12T13:20:35-03:00",
    "entrou": "2026-11-12T13:34:58.105887-03:00",
    "dia": "2026-11-12"
+  },
+  {
+   "id": "amz-B0DK4975DJ",
+   "canal": "achadinhos",
+   "nome": "Kit Loção Hidratante NIVEA Milk Pele Seca 400ml",
+   "preco_antigo": 43.9,
+   "preco": 29.88,
+   "desconto": 32,
+   "link": "https://www.amazon.com.br/dp/B0DK4975DJ?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71Exl60wVRL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-13T22:00:00-03:00",
+   "coletado_em": "2026-11-12T11:46:00-03:00",
+   "preco_em": "2026-11-12T11:46:00-03:00",
+   "entrou": "2026-11-12T12:03:38.763150-03:00",
+   "dia": "2026-11-12"
+  },
+  {
+   "id": "amz-B0GH9Q5RNR",
+   "canal": "marcas",
+   "nome": "Tênis ASICS Gel Excite 11 Feminino",
+   "preco_antigo": 499.99,
+   "preco": 269.99,
+   "desconto": 46,
+   "link": "https://www.amazon.com.br/dp/B0GH9Q5RNR?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61Jj+K7zwDL._AC_SL1000_.jpg",
+   "loja": "Loja oficial ASICS Brasil",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-13T22:00:00-03:00",
+   "coletado_em": "2026-11-12T13:20:35-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "preco_em": "2026-11-12T13:20:35-03:00",
+   "entrou": "2026-11-12T13:34:58.105887-03:00",
+   "dia": "2026-11-12"
+  },
+  {
+   "id": "amz-B0DZPKSLHB",
+   "canal": "tech",
+   "nome": "Monitor Samsung 24\" FHD com Ajuste de Altura",
+   "preco_antigo": 890.0,
+   "preco": 593.1,
+   "desconto": 33,
+   "link": "https://www.amazon.com.br/dp/B0DZPKSLHB?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/517BJCIKKOL._AC_SL1000_.jpg",
+   "loja": "Loja oficial Samsung · Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-13T22:00:00-03:00",
+   "coletado_em": "2026-11-12T13:20:35-03:00",
+   "preco_em": "2026-11-12T13:20:35-03:00",
+   "entrou": "2026-11-12T13:34:58.105887-03:00",
+   "dia": "2026-11-12"
+  },
+  {
+   "id": "amz-B07CTM3BZ3",
+   "canal": "achadinhos",
+   "nome": "Kit Bosch de Pontas e Soquetes 46 peças",
+   "preco_antigo": 189.9,
+   "preco": 130.88,
+   "desconto": 31,
+   "link": "https://www.amazon.com.br/dp/B07CTM3BZ3?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/81cV9B+IPzL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-13T22:00:00-03:00",
+   "coletado_em": "2026-11-12T11:46:00-03:00",
+   "preco_em": "2026-11-12T11:46:00-03:00",
+   "entrou": "2026-11-12T12:03:38.763150-03:00",
+   "dia": "2026-11-12"
+  },
+  {
+   "id": "amz-B07LCTTF8V",
+   "canal": "marcas",
+   "nome": "Creatina Monohidratada Vitafor 300g",
+   "preco_antigo": 120.64,
+   "preco": 66.01,
+   "desconto": 45,
+   "link": "https://www.amazon.com.br/dp/B07LCTTF8V?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51MhtOlCGVL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-13T22:00:00-03:00",
+   "coletado_em": "2026-11-12T13:20:35-03:00",
+   "preco_em": "2026-11-12T13:20:35-03:00",
+   "entrou": "2026-11-12T13:34:58.105887-03:00",
+   "dia": "2026-11-12"
+  },
+  {
+   "id": "amz-B0GMY41LM8",
+   "canal": "tech",
+   "nome": "Smartphone Motorola Edge 70 5G",
+   "preco_antigo": 5999.0,
+   "preco": 2789.1,
+   "desconto": 54,
+   "link": "https://www.amazon.com.br/dp/B0GMY41LM8?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61LyzNkloEL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-13T22:00:00-03:00",
+   "coletado_em": "2026-11-12T13:20:35-03:00",
+   "preco_em": "2026-11-12T13:20:35-03:00",
+   "entrou": "2026-11-12T13:34:58.105887-03:00",
+   "dia": "2026-11-12"
   }
  ],
  "ig_feitos": [
@@ -13950,38 +14065,6 @@
  "ultimo_pilar": "blackfriday",
  "fila": [
   {
-   "id": "amz-B0DK4975DJ",
-   "canal": "achadinhos",
-   "nome": "Kit Loção Hidratante NIVEA Milk Pele Seca 400ml",
-   "preco_antigo": 43.9,
-   "preco": 29.88,
-   "desconto": 32,
-   "link": "https://www.amazon.com.br/dp/B0DK4975DJ?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/71Exl60wVRL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-13T22:00:00-03:00",
-   "coletado_em": "2026-11-12T11:46:00-03:00",
-   "preco_em": "2026-11-12T11:46:00-03:00",
-   "entrou": "2026-11-12T12:03:38.763150-03:00"
-  },
-  {
-   "id": "amz-B07CTM3BZ3",
-   "canal": "achadinhos",
-   "nome": "Kit Bosch de Pontas e Soquetes 46 peças",
-   "preco_antigo": 189.9,
-   "preco": 130.88,
-   "desconto": 31,
-   "link": "https://www.amazon.com.br/dp/B07CTM3BZ3?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/81cV9B+IPzL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-13T22:00:00-03:00",
-   "coletado_em": "2026-11-12T11:46:00-03:00",
-   "preco_em": "2026-11-12T11:46:00-03:00",
-   "entrou": "2026-11-12T12:03:38.763150-03:00"
-  },
-  {
    "id": "amz-B09FFVMNFB",
    "canal": "achadinhos",
    "nome": "Fralda Pampers Confort Sec G 168 unidades",
@@ -14063,39 +14146,6 @@
    "entrou": "2026-11-12T12:03:38.763150-03:00"
   },
   {
-   "id": "amz-B0GH9Q5RNR",
-   "canal": "marcas",
-   "nome": "Tênis ASICS Gel Excite 11 Feminino",
-   "preco_antigo": 499.99,
-   "preco": 269.99,
-   "desconto": 46,
-   "link": "https://www.amazon.com.br/dp/B0GH9Q5RNR?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61Jj+K7zwDL._AC_SL1000_.jpg",
-   "loja": "Loja oficial ASICS Brasil",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-13T22:00:00-03:00",
-   "coletado_em": "2026-11-12T13:20:35-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "preco_em": "2026-11-12T13:20:35-03:00",
-   "entrou": "2026-11-12T13:34:58.105887-03:00"
-  },
-  {
-   "id": "amz-B07LCTTF8V",
-   "canal": "marcas",
-   "nome": "Creatina Monohidratada Vitafor 300g",
-   "preco_antigo": 120.64,
-   "preco": 66.01,
-   "desconto": 45,
-   "link": "https://www.amazon.com.br/dp/B07LCTTF8V?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51MhtOlCGVL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-13T22:00:00-03:00",
-   "coletado_em": "2026-11-12T13:20:35-03:00",
-   "preco_em": "2026-11-12T13:20:35-03:00",
-   "entrou": "2026-11-12T13:34:58.105887-03:00"
-  },
-  {
    "id": "amz-B0DXQCGQDS",
    "canal": "marcas",
    "nome": "Garrafa Térmica Stanley Aerolight Fast Flow 1,1L",
@@ -14104,38 +14154,6 @@
    "desconto": 40,
    "link": "https://www.amazon.com.br/dp/B0DXQCGQDS?tag=papagarimpou-20",
    "imagem": "https://m.media-amazon.com/images/I/41iMj88ZUkL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-13T22:00:00-03:00",
-   "coletado_em": "2026-11-12T13:20:35-03:00",
-   "preco_em": "2026-11-12T13:20:35-03:00",
-   "entrou": "2026-11-12T13:34:58.105887-03:00"
-  },
-  {
-   "id": "amz-B0DZPKSLHB",
-   "canal": "tech",
-   "nome": "Monitor Samsung 24\" FHD com Ajuste de Altura",
-   "preco_antigo": 890.0,
-   "preco": 593.1,
-   "desconto": 33,
-   "link": "https://www.amazon.com.br/dp/B0DZPKSLHB?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/517BJCIKKOL._AC_SL1000_.jpg",
-   "loja": "Loja oficial Samsung · Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-13T22:00:00-03:00",
-   "coletado_em": "2026-11-12T13:20:35-03:00",
-   "preco_em": "2026-11-12T13:20:35-03:00",
-   "entrou": "2026-11-12T13:34:58.105887-03:00"
-  },
-  {
-   "id": "amz-B0GMY41LM8",
-   "canal": "tech",
-   "nome": "Smartphone Motorola Edge 70 5G",
-   "preco_antigo": 5999.0,
-   "preco": 2789.1,
-   "desconto": 54,
-   "link": "https://www.amazon.com.br/dp/B0GMY41LM8?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61LyzNkloEL._AC_SL1000_.jpg",
    "loja": "Vendido e entregue pela Amazon",
    "plataforma": "Amazon",
    "valida_ate": "2026-11-13T22:00:00-03:00",
@@ -15133,7 +15151,13 @@
   "fonesoundcorep30idaankercomanc": "2026-11-12T14:59:43.656257-03:00",
   "aspiradorantiacarowapmitecleaneruv3em1": "2026-11-12T15:08:03.796864-03:00",
   "tenismizunowaveendeavor3": "2026-11-12T15:14:45.076575-03:00",
-  "notebooklenovoideapadslim3i153": "2026-11-12T15:20:55.557250-03:00"
+  "notebooklenovoideapadslim3i153": "2026-11-12T15:20:55.557250-03:00",
+  "kitlocaohidratanteniveamilkpeleseca400ml": "2026-11-12T15:28:09.718717-03:00",
+  "tenisasicsgelexcite11feminino": "2026-11-12T15:35:31.748351-03:00",
+  "monitorsamsung24fhdcomajustedealtura": "2026-11-12T15:41:57.497194-03:00",
+  "kitboschdepontasesoquetes46pecas": "2026-11-12T15:48:55.113698-03:00",
+  "creatinamonohidratadavitafor300g": "2026-11-12T15:56:07.612322-03:00",
+  "smartphonemotorolaedge705g": "2026-11-12T16:03:27.016904-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
@@ -15490,7 +15514,7 @@
   "marcas": "2026-11-12T11:59:03.820153-03:00"
  },
  "top10_dia": "2026-11-07",
- "manuais_lidos": "2026-11-12T15:14:44.808250-03:00",
+ "manuais_lidos": "2026-11-12T15:56:07.309520-03:00",
  "reserva_resultado": {
   "2026-11-07": {
    "achadinhos": {
@@ -15644,7 +15668,7 @@
    "hora": "2026-11-11T20:32:35.453128-03:00"
   }
  },
- "ig_respondido_em": "2026-11-12T15:20:52.710684-03:00",
+ "ig_respondido_em": "2026-11-12T16:03:22.362535-03:00",
  "dm_auto": {
   "2026-11-08": {
    "com_palavra": 0,
