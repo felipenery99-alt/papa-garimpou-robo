@@ -30,6 +30,20 @@ def mesclar(nosso: dict, remoto: dict) -> dict:
         out["tg_offset"] = max(remoto.get("tg_offset") or 0, nosso.get("tg_offset") or 0)
     if remoto.get("resumo_enviado") or nosso.get("resumo_enviado"):   # 04/11: nunca reenviar o resumo do dono
         out["resumo_enviado"] = max(remoto.get("resumo_enviado") or "", nosso.get("resumo_enviado") or "")
+    # 12/11: 1ª vez que viu o preço da Amazon = a mais antiga; contagem do Instagram por dia = a maior
+    vis = {**nosso.get("amz_visto", {})}
+    for k, v in remoto.get("amz_visto", {}).items():
+        vis[k] = min(v, vis.get(k, v))
+    if vis:
+        out["amz_visto"] = vis
+    cont = {}
+    for lado in (remoto.get("ig_cont", {}), nosso.get("ig_cont", {})):
+        for d, v in lado.items():
+            cont.setdefault(d, {})
+            for t, n in v.items():
+                cont[d][t] = max(cont[d].get(t, 0), n)
+    if cont:
+        out["ig_cont"] = cont
     if "ig_giro" in remoto or "ig_giro" in nosso:
         out["ig_giro"] = max(remoto.get("ig_giro", 0), nosso.get("ig_giro", 0))
     # a fila desta execução não pode trazer de volta o que a outra já postou

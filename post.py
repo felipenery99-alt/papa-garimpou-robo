@@ -75,7 +75,14 @@ def legenda(oferta: dict, canal: str) -> str:
     elif canal == "marcas" or oferta.get("loja_oficial"):
         linhas.append(f"🏪 Loja oficial · {oferta.get('plataforma', 'Shopee')}")
     linhas.append(f"👉 {oferta['link']}")
-    linhas += ["", "⏳ Preço pode mudar a qualquer momento"]
+    if oferta.get("preco_em"):   # 12/11 (acordo Amazon): data e hora em que o preço foi coletado
+        from datetime import datetime
+        from zoneinfo import ZoneInfo
+        t = datetime.fromisoformat(oferta["preco_em"])
+        t = (t if t.tzinfo else t.replace(tzinfo=ZoneInfo(config.FUSO))).astimezone(ZoneInfo(config.FUSO))
+        linhas += ["", f"⏳ Preço de {t:%d/%m %H:%M}, pode mudar"]
+    else:
+        linhas += ["", "⏳ Preço pode mudar a qualquer momento"]
     # 31/10: membros parados em 2–3 por canal. Quem encaminha ou copia a oferta pro WhatsApp leva junto o
     # link do canal, e quem recebe consegue entrar (crescimento pelo compartilhamento, custo zero).
     handle = config.CANAIS.get(canal, config.GERAL).lstrip("@")

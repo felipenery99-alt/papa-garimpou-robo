@@ -205,7 +205,36 @@ def foto_fbcdn(url: str) -> str:
     return maior["source"]
 
 
+# 12/11 (volta depois da suspensão): principal liga os limites da 1ª semana. CONT é o dict do dia guardado no histórico.
+LIMITE = {"story": None, "feed": None}
+CONT = {"story": 0, "feed": 0}
+SEM_LINK = [False]
+
+
+class IGLimite(RuntimeError):
+    pass
+
+
+def _cota(tipo: str) -> None:
+    if LIMITE[tipo] is not None and CONT.get(tipo, 0) >= LIMITE[tipo]:
+        raise IGLimite(f"limite da semana de volta: {LIMITE[tipo]} {tipo}/dia")
+
+
+def _contar(tipo: str) -> None:
+    CONT[tipo] = CONT.get(tipo, 0) + 1
+
+
+def limpar_legenda(txt: str) -> str:
+    """Sem link no texto: tira endereços e troca a chamada "te mando no direct" (sem DM na volta)."""
+    import re
+    txt = re.sub(r"(https?://\S+|\bt\.me/\S+|\b[\w-]+\.(?:com|com\.br|la|to|ly|me)/\S*)", "", txt)
+    linhas = ["Mais ofertas no Telegram: link na bio 💎" if "direct" in l.lower() else l.rstrip() for l in txt.split("\n")]
+    return "\n".join(linhas).strip()
+
+
 def _criar(ig_id: str, **params) -> str:
+    if SEM_LINK[0] and params.get("caption"):
+        params["caption"] = limpar_legenda(params["caption"])
     r = requests.post(f"{G}/{ig_id}/media", data={"access_token": _token(), **params}, timeout=60).json()
     if "id" not in r:
         raise RuntimeError(f"Instagram recusou o container: {r}")
@@ -256,20 +285,27 @@ def _publicar(ig_id: str, container: str) -> str:
 
 
 def story(imagem: bytes, nome: str) -> str:
+    _cota("story")
     c = conta()
     url = hospedar(nome, imagem)
-    return _publicar(c["ig_id"], _criar(c["ig_id"], image_url=url, media_type="STORIES"))
+    r = _publicar(c["ig_id"], _criar(c["ig_id"], image_url=url, media_type="STORIES"))
+    _contar("story")
+    return r
 
 
 def foto(imagem: bytes, nome: str, legenda: str) -> str:
+    _cota("feed")
     c = conta()
     url = hospedar(nome, imagem)
-    return _publicar(c["ig_id"], _criar(c["ig_id"], image_url=url, caption=legenda))
+    r = _publicar(c["ig_id"], _criar(c["ig_id"], image_url=url, caption=legenda))
+    _contar("feed")
+    return r
 
 
 def carrossel(imagens: list[bytes], prefixo: str, legenda: str, colaboradores: list[str] | None = None) -> str:
     """`colaboradores` (01/11, post Collab): usuários convidados como coautores, sem @;
     o post só aparece no perfil deles depois que aceitarem o convite no app."""
+    _cota("feed")
     c = conta()
     filhos = []
     for i, img in enumerate(imagens):
@@ -277,8 +313,10 @@ def carrossel(imagens: list[bytes], prefixo: str, legenda: str, colaboradores: l
         filhos.append(_criar(c["ig_id"], image_url=url, is_carousel_item="true"))
     for f in filhos:
         _esperar(f)
-    return _publicar(c["ig_id"], _criar(c["ig_id"], media_type="CAROUSEL", children=",".join(filhos), caption=legenda,
-                                          **({"collaborators": json.dumps(colaboradores)} if colaboradores else {})))
+    r = _publicar(c["ig_id"], _criar(c["ig_id"], media_type="CAROUSEL", children=",".join(filhos), caption=legenda,
+                                     **({"collaborators": json.dumps(colaboradores)} if colaboradores else {})))
+    _contar("feed")
+    return r
 
 
 def permalink(media_id: str) -> str:
@@ -289,6 +327,7 @@ def permalink(media_id: str) -> str:
 def reels(video: bytes, legenda: str) -> str:
     """Publica um Reels (também vai para o feed). O vídeo sobe direto para a Meta
     (upload resumable), sem passar pelo repositório, para não inchar o git."""
+    _cota("feed")
     c = conta()
     cont = _criar(c["ig_id"], media_type="REELS", upload_type="resumable", caption=legenda, share_to_feed="true")
     r = requests.post(f"https://rupload.facebook.com/ig-api-upload/v21.0/{cont}", data=video, timeout=300,
@@ -296,7 +335,9 @@ def reels(video: bytes, legenda: str) -> str:
     if not r.get("success"):
         raise RuntimeError(f"Instagram recusou o envio do vídeo: {r}")
     _esperar(cont, limite=300)
-    return _publicar(c["ig_id"], cont)
+    r = _publicar(c["ig_id"], cont)
+    _contar("feed")
+    return r
 
 
 def stories_ativos() -> int:

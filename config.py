@@ -230,6 +230,19 @@ BUSCAS = {
 # 08/11 (Central): Página do Facebook (mesmo token). 4 ofertas por dia (já postadas no Telegram, link clicável)
 # + 1 post com o convite "fb-pagina" do Telegram.
 IG_ATIVO = False   # 11/11 22:01: @papa.garimpou SUSPENSO (apelação em análise). Nenhuma chamada à API do Instagram até a Central liberar (INSTAGRAM-SUSPENSO.md). TikTok segue.
+# 12/11 (dono: "vamos baixar nossos riscos"): limites da 1ª semana depois que IG_ATIVO voltar a True.
+# A contagem dos 7 dias começa na 1ª execução com IG_ATIVO = True (historico "ig_ligado_em").
+# Só os horários abaixo publicam (1 Reels + 5 stories espalhados); os outros Reels da agenda viram só cópia do TikTok.
+# Sem DM, sem resposta automática a comentário, sem porta/especial/parceria/pedido/vigia de stories, sem link na legenda.
+IG_VOLTA = {
+    "dias": 7,
+    "max_feed": 1,
+    "max_stories": 5,
+    "agenda": [("08:45", "story_oferta"), ("12:15", "story_top4"), ("15:00", "story_oferta"),
+               ("18:05", "story_oferta"), ("18:30", "reels"), ("21:20", "story_convite")],
+}
+# 12/11 (acordo de afiliados da Amazon): preço tirado da página só pode aparecer se foi coletado há menos de 24 h.
+AMAZON_PRECO_MAX_H = 24
 FB_PAGINA_ATIVA = False   # 09/11: dono decidiu "não vamos fazer nada no Facebook" (Página parada; não pedir token)
 FB_OFERTAS_HORAS = ["10:10", "13:10", "17:10", "19:40"]
 FB_CONVITE_HORA = "20:10"

@@ -243,7 +243,10 @@ BOAS_VINDAS = ("💎 Bem-vindo ao Papa Garimpou!\n"
 # Tech e Todas as Ofertas ganham "Black Friday" no título (descrições iguais). Voltar o título antigo em 01/12.
 # 11/11 (CEO): em 10/11 Tech subiu 5→6 com o título novo; Achadinhos parado em 3 desde o início → Achadinhos e
 # Marcas também ganham "Black Friday" no título (descrições iguais). Voltar todos em 01/12.
-CANAIS_INFO_VERSAO = "2026-11-11"
+# 12/11 (dono: baixar riscos): toda descrição termina com o aviso de afiliado e comissão (CONAR/acordos das lojas).
+CANAIS_INFO_VERSAO = "2026-11-12"
+AVISO_AFILIADO = ("#publi Links de afiliado: o Papa pode ganhar comissão nas compras, sem custo extra pra você.",
+                  "#publi Links de afiliado: o Papa pode ganhar comissão.")
 CANAIS_INFO = {
     "@papagarimpou": ("Papa Garimpou 💎 Black Friday, Promoções, Cupons e Achadinhos",
                       "🛒 Promoções e cupons: casa, cozinha, beleza, ferramentas. Achadinhos Amazon, Shopee, "
@@ -256,7 +259,7 @@ CANAIS_INFO = {
                           "Mercado Livre e Magalu com preço conferido."),
     "@papagarimpouofertas": ("Papa Garimpou 💎 Black Friday, Ofertas e Promoções do Dia | Cupons",
                              "💎 Todas as promoções e cupons do Papa num canal só: Amazon, Shopee, Mercado Livre "
-                             "e Magalu. Só marca boa e desconto de verdade."),
+                             "e Magalu. Só marca boa e desconto real."),
 }
 
 
@@ -281,7 +284,17 @@ def atualizar_canais_info(h: dict, telegram) -> None:
             res[destino] = "ok"
             continue
         try:
-            desc = nova_descricao(telegram.info_canal(destino).get("description", ""), primeira)
+            base = nova_descricao(telegram.info_canal(destino).get("description", ""), primeira)
+            # tira o #publi antigo (ou aviso anterior) e põe o aviso no fim. Não cabendo nos 255, sai o título do
+            # bloco de links ("Outros canais do Papa:" / "Prefere por assunto?"); os links ficam.
+            linhas = [l for l in base.split("\n") if "#publi" not in l.lower() and "afiliado" not in l.lower()]
+            base = "\n".join(linhas).strip()
+            sem_titulo = "\n".join([linhas[0]] + [l for l in linhas[1:] if not l.rstrip().endswith((":", "?"))]).strip()
+            sem_titulo = re.sub(r"\n{3,}", "\n\n", sem_titulo)
+            for b, aviso in [(b, a) for b in (base, sem_titulo) for a in AVISO_AFILIADO]:
+                desc = b + "\n\n" + aviso
+                if len(desc.encode("utf-16-le")) // 2 <= 255:
+                    break
             tam = len(desc.encode("utf-16-le")) // 2
             if tam > 255:   # limite do Telegram para descrição de canal
                 raise RuntimeError(f"descrição com {tam} caracteres (máx. 255)")
@@ -383,6 +396,40 @@ def manuais_do_github() -> str | None:
         return None
 
 
+def eh_amazon(o: dict) -> bool:
+    link = str(o.get("link", ""))
+    return (o.get("plataforma") == "Amazon" or str(o.get("id", "")).startswith("amz-")
+            or "amazon.com" in link or "amzn.to" in link)
+
+
+def amazon_ok(o: dict, agora: datetime) -> bool:
+    """12/11 (acordo de afiliados da Amazon): preço da Amazon só aparece com coleta há menos de
+    AMAZON_PRECO_MAX_H horas. "coletado_em" vem do garimpo; sem ele vale "preco_em" (1ª vez que o robô viu
+    esse preço). Sem nenhum dos dois, não sai (na dúvida, não posta)."""
+    if not eh_amazon(o):
+        return True
+    t = o.get("coletado_em") or o.get("preco_em")
+    if not t:
+        return False
+    try:
+        t = datetime.fromisoformat(t)
+    except ValueError:
+        return False
+    if not t.tzinfo:
+        t = t.replace(tzinfo=FUSO)
+    return agora - t < timedelta(hours=config.AMAZON_PRECO_MAX_H)
+
+
+def carimbar_amazon(h: dict, o: dict, agora: datetime) -> dict:
+    """Grava em "preco_em" a hora da coleta (ou da 1ª vez que o robô viu este preço) para a linha do post."""
+    if not eh_amazon(o):
+        return o
+    if o.get("coletado_em"):
+        return {**o, "preco_em": o["coletado_em"]}
+    visto = h.setdefault("amz_visto", {})
+    return {**o, "preco_em": visto.setdefault(f"{o['id']}|{o.get('preco')}", agora.isoformat())}
+
+
 def carregar_manuais(h: dict, agora: datetime, texto: str | None = None) -> list[dict]:
     """Ofertas conferidas à mão (Amazon, Magalu, Awin): entram na fila enquanto não forem postadas
     e não passarem da validade (`valida_ate`, ISO). Canal desconhecido é ignorado.
@@ -403,18 +450,23 @@ def carregar_manuais(h: dict, agora: datetime, texto: str | None = None) -> list
             continue
         if o.get("valida_ate") and o["valida_ate"] < agora.isoformat():
             continue
+        o = carimbar_amazon(h, o, agora)
+        if not amazon_ok(o, agora):   # 12/11: preço da Amazon com 24 h ou mais nem entra na fila
+            continue
         # "nao_antes" (01/11): só entra na fila quando faltar menos de 1 h (esta execução alcança o horário);
         # na fila, soltar_fila segura o item até a hora. Antes disso fica no arquivo, sem descartar.
         if o.get("nao_antes") and o["nao_antes"] > (agora + timedelta(hours=1)).isoformat():
             continue
         boas.append(o)
+    corte = (agora - timedelta(days=3)).isoformat()
+    h["amz_visto"] = {k: v for k, v in h.get("amz_visto", {}).items() if v >= corte}
     return boas
 
 
 def entrar_na_fila(h: dict, canal: str, ofertas: list[dict], agora: datetime) -> None:
     """Põe as ofertas novas na fila (sem duplicar) e tira as que ficaram velhas."""
     corte = (agora - timedelta(hours=config.FILA_VALIDADE_H)).isoformat()
-    fila = [f for f in h.get("fila", []) if f["entrou"] >= corte]
+    fila = [f for f in h.get("fila", []) if f["entrou"] >= corte and amazon_ok(f, agora)]   # 12/11: Amazon > 24 h sai
     na_fila = {f["id"] for f in fila}
     fila += [{**o, "canal": canal, "entrou": agora.isoformat()} for o in ofertas if o["id"] not in na_fila]
     h["fila"] = fila
@@ -464,7 +516,15 @@ def conferir_oferta(o: dict, agora: datetime) -> dict | None:
     m = m or o
     if m.get("valida_ate") and m["valida_ate"] < agora.isoformat():
         return None
-    return {**o, **m}
+    novo = {**o, **m}
+    if eh_amazon(novo):
+        if m.get("coletado_em"):
+            novo["preco_em"] = m["coletado_em"]
+        elif m.get("preco") != o.get("preco"):
+            return None
+        if not amazon_ok(novo, agora):   # 12/11: acordo Amazon (preço com menos de 24 h)
+            return None
+    return novo
 
 
 def oferta_viva(o: dict, agora: datetime) -> dict | None:
@@ -473,6 +533,8 @@ def oferta_viva(o: dict, agora: datetime) -> dict | None:
     (Amazon e outras lojas às vezes recusam robô com 403/503: isso não conta como link morto.)"""
     import requests
     if o.get("valida_ate") and o["valida_ate"] < agora.isoformat():
+        return None
+    if not amazon_ok(o, agora):   # 12/11: acordo Amazon — preço coletado há 24 h ou mais não sai
         return None
     if o["id"].startswith("shopee-") and o.get("entrou", agora.isoformat()) < (agora - timedelta(hours=2)).isoformat():
         # só derruba se a API achar o item e ele não passar mais nas regras; não achar na busca não é prova
@@ -767,7 +829,7 @@ def soltar_fila(h: dict, telegram, limite: datetime, atraso: bool = True) -> int
                     garimpo_reserva(h, shopee if os.environ.get("SHOPEE_APP_ID") else None, agora_ig, ult)
                 except Exception as e:
                     print(f"[reserva] no meio da fila falhou: {e}")
-            if config.IG_ATIVO and os.environ.get("META_TOKEN") and h.get("ig_respondido_em", "") < (agora_ig - timedelta(minutes=10)).isoformat():
+            if ig_modo(h, agora_ig) == "normal" and os.environ.get("META_TOKEN") and h.get("ig_respondido_em", "") < (agora_ig - timedelta(minutes=10)).isoformat():
                 responder_ig(h, agora_ig)   # 08/11 (Central): pedido de TELEGRAM nos comentários não espera a próxima execução
                 try:
                     publicar_facebook(h, agora_ig)
@@ -1109,7 +1171,11 @@ SELO_PRIMEIRO = "SAIU PRIMEIRO NO TELEGRAM"
 
 
 def liberada_ig(o: dict, agora: datetime) -> bool:
-    """05/11 (CEO): oferta com "so_telegram_ate" só vai ao Instagram depois dessa hora."""
+    """05/11 (CEO): oferta com "so_telegram_ate" só vai ao Instagram depois dessa hora.
+    12/11 (acordo Amazon): oferta da Amazon nunca vai para Instagram/Reels/TikTok — o preço ficaria na arte
+    para sempre, sem data e sem atualizar em 24 h."""
+    if eh_amazon(o):
+        return False
     return not o.get("so_telegram_ate") or str(o["so_telegram_ate"]) <= agora.isoformat()
 
 
@@ -1217,15 +1283,33 @@ FB_CONVITE = ("😎💎 Achado bom de marca, em loja oficial, sai primeiro no Te
               "👉 Entra aqui: {link}\n\nNão tem Telegram? Veja no navegador: https://t.me/s/papagarimpouofertas")
 
 
+def ig_modo(h: dict, agora: datetime) -> str:
+    """12/11: "pausado" (IG_ATIVO False), "volta" (1ª semana depois de religar: config.IG_VOLTA) ou "normal"."""
+    if not config.IG_ATIVO:
+        h.pop("ig_ligado_em", None)
+        return "pausado"
+    desde = datetime.fromisoformat(h.setdefault("ig_ligado_em", agora.isoformat()))
+    return "volta" if agora < desde + timedelta(days=config.IG_VOLTA["dias"]) else "normal"
+
+
+def agenda_ig(h: dict, agora: datetime) -> list[tuple[str, str, bool]]:
+    """(hora, tipo, publica_no_instagram). Fora do modo normal, o Reels que não publica ainda gera a cópia do TikTok."""
+    modo = ig_modo(h, agora)
+    if modo == "normal":
+        return [(hr, t, True) for hr, t in config.INSTAGRAM_AGENDA]
+    volta = list(config.IG_VOLTA["agenda"]) if modo == "volta" else []
+    horas = {hr for hr, _ in volta}
+    return ([(hr, t, True) for hr, t in volta]
+            + [(hr, t, False) for hr, t in config.INSTAGRAM_AGENDA if t == "reels" and hr not in horas])
+
+
 def instagram_vencido(h: dict, agora: datetime) -> bool:
     """Algum horário da agenda do Instagram já venceu (até 50 min) e ainda não saiu hoje?"""
     import os
     if not os.environ.get("META_TOKEN"):
         return False
     feitos = set(h.get("ig_feitos", []))
-    for hora, tipo in config.INSTAGRAM_AGENDA:
-        if not config.IG_ATIVO and tipo != "reels":   # 11/11: pausado, só o horário de Reels roda (gera a cópia do TikTok)
-            continue
+    for hora, tipo, _ in agenda_ig(h, agora):   # 11/11 pausado / 12/11 volta: só o que a agenda do modo permite
         hh, mm = map(int, hora.split(":"))
         momento = agora.replace(hour=hh, minute=mm, second=0, microsecond=0)
         if momento <= agora <= momento + timedelta(minutes=50) and f"{agora.date().isoformat()} {hora} {tipo}" not in feitos:
@@ -1249,7 +1333,16 @@ def rodar_instagram(h: dict, agora: datetime) -> None:
                and liberada_ig(o, agora)]
     # a que saiu primeiro no Telegram, quando libera, é a próxima do Instagram (com o selo)
     ofertas.sort(key=lambda o: "so_telegram_ate" not in o)
-    if config.IG_ATIVO:   # 11/11: conta suspensa → nada de porta/especial/parceria/pedido
+    modo = ig_modo(h, agora)
+    # 12/11: semana de volta → teto de 1 feed e 5 stories por dia e legenda sem link (trava também no instagram.py)
+    cont = h.setdefault("ig_cont", {})
+    h["ig_cont"] = cont = {d: v for d, v in cont.items() if d >= (agora.date() - timedelta(days=3)).isoformat()}
+    instagram.CONT = cont.setdefault(hoje, {"story": 0, "feed": 0})
+    volta = modo == "volta"
+    instagram.LIMITE.update(story=config.IG_VOLTA["max_stories"] if volta else None,
+                            feed=config.IG_VOLTA["max_feed"] if volta else None)
+    instagram.SEM_LINK[0] = volta
+    if modo == "normal":   # 11/11 suspensa / 12/11 semana de volta → nada de porta/especial/parceria/pedido
         try:
             publicar_porta(h, agora, tag)
         except Exception as e:
@@ -1318,8 +1411,8 @@ def rodar_instagram(h: dict, agora: datetime) -> None:
             except Exception as ex:
                 telegram.avisar_dono(f"Instagram: pedido atendido {o['id']} falhou: {ex}")
             feitos.append(f"pedido {o['id']}")
-    for hora, tipo in config.INSTAGRAM_AGENDA:
-        if not config.IG_ATIVO and tipo != "reels":   # 11/11: pausado, só o vídeo do TikTok
+    for hora, tipo, publica in agenda_ig(h, agora):   # 11/11 pausado: só o vídeo do TikTok; 12/11 volta: agenda curta
+        if not publica and tipo != "reels":
             continue
         chave = f"{hoje} {hora} {tipo}"
         hh, mm = map(int, hora.split(":"))
@@ -1436,7 +1529,7 @@ def rodar_instagram(h: dict, agora: datetime) -> None:
                     tipo_capa = "banco"
                     quadros, leg = reels_do_banco(h, agora)
                 mp4 = video.reel(quadros)
-                if config.IG_ATIVO:
+                if publica:
                     rid = instagram.reels(mp4, leg)
                     h.setdefault("ig_reels_log", {})[str(rid)] = {"capa": tipo_capa, "hora": agora.isoformat()}
                 guardar_tiktok(h, agora, mp4, leg, tipo_capa)
@@ -1470,7 +1563,7 @@ def rodar_instagram(h: dict, agora: datetime) -> None:
                 feitos.append(chave)
             else:
                 print(f"[ig] {chave} falhou ({tent[chave]}ª vez), tento de novo: {e}")
-    if config.IG_ATIVO:   # 11/11: conta suspensa → sem vigia de stories nem respostas
+    if modo == "normal":   # 11/11 suspensa / 12/11 semana de volta → sem vigia de stories, respostas nem DM
         # Vigia: sempre pelo menos 3 stories no ar
         try:
             ativos = instagram.stories_ativos()
