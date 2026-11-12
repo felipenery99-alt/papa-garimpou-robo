@@ -1058,7 +1058,12 @@
   "2026-11-12 marcas 09:26 amz-B0FVYHNTS5",
   "2026-11-12 marcas 09:32 amz-B0FFTR4N53",
   "2026-11-12 marcas 09:39 amz-B0HBSKH7YK",
-  "2026-11-12 marcas 09:48 amz-B07RT1NRVP"
+  "2026-11-12 marcas 09:48 amz-B07RT1NRVP",
+  "2026-11-12 tech 09:56 shopee-18499921197",
+  "2026-11-12 achadinhos 10:03 shopee-22091991704",
+  "2026-11-12 achadinhos 10:11 shopee-48660343762",
+  "2026-11-12 achadinhos 10:18 shopee-22599383562",
+  "2026-11-12 marcas 10:28 shopee-22597140327"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -1565,7 +1570,7 @@
   "shopee-54114684881": "2026-11-05T16:05:07.770060-03:00",
   "amz-B0F1C3MRMF": "2026-11-05T16:18:45.643547-03:00",
   "shopee-19646145273": "2026-11-05T16:26:50.399112-03:00",
-  "shopee-22599383562": "2026-11-08T13:38:11.676764-03:00",
+  "shopee-22599383562": "2026-11-12T10:18:14.425225-03:00",
   "shopee-15714692913": "2026-11-05T16:53:48.183189-03:00",
   "shopee-22594959465": "2026-11-05T17:00:37.959972-03:00",
   "shopee-40275577235": "2026-11-08T18:43:42.905672-03:00",
@@ -2082,7 +2087,11 @@
   "amz-B0FVYHNTS5": "2026-11-12T09:26:42.791128-03:00",
   "amz-B0FFTR4N53": "2026-11-12T09:32:46.596614-03:00",
   "amz-B0HBSKH7YK": "2026-11-12T09:39:26.129427-03:00",
-  "amz-B07RT1NRVP": "2026-11-12T09:48:25.700814-03:00"
+  "amz-B07RT1NRVP": "2026-11-12T09:48:25.700814-03:00",
+  "shopee-18499921197": "2026-11-12T09:56:29.363763-03:00",
+  "shopee-22091991704": "2026-11-12T10:03:29.760836-03:00",
+  "shopee-48660343762": "2026-11-12T10:11:19.456142-03:00",
+  "shopee-22597140327": "2026-11-12T10:28:36.195300-03:00"
  },
  "ofertas_dia": [
   {
@@ -12872,6 +12881,101 @@
    "preco_em": "2026-11-12T08:46:19-03:00",
    "entrou": "2026-11-12T08:53:43.153498-03:00",
    "dia": "2026-11-12"
+  },
+  {
+   "id": "shopee-18499921197",
+   "plataforma": "Shopee",
+   "nome": "Controle para Xbox Sem Fio Preto + Cabo USB-C",
+   "loja": "EasyTech ",
+   "loja_oficial": true,
+   "preco": 359.99,
+   "preco_antigo": 499.99,
+   "desconto": 28,
+   "vendas": 412,
+   "nota": 4.9,
+   "comissao_pct": 4.0,
+   "imagem": "https://cf.shopee.com.br/file/sg-11134201-82582-mfu72o2xwavfe7",
+   "link": "https://s.shopee.com.br/7Af4FqRwFm",
+   "quase": true,
+   "canal": "tech",
+   "entrou": "2026-11-12T09:47:07.055018-03:00",
+   "dia": "2026-11-12"
+  },
+  {
+   "id": "shopee-22091991704",
+   "plataforma": "Shopee",
+   "nome": "Chapinha de Cabelo Taiff Super Mini 200 ºC Preta - Bivolt",
+   "loja": "Rep Store",
+   "loja_oficial": true,
+   "preco": 153.9,
+   "preco_antigo": 229.7,
+   "desconto": 33,
+   "vendas": 156,
+   "nota": 4.9,
+   "comissao_pct": 3.0,
+   "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rd4j-luasrimlxgxedf",
+   "link": "https://s.shopee.com.br/7fbKCPpejq",
+   "quase": true,
+   "canal": "achadinhos",
+   "entrou": "2026-11-12T09:49:02.204033-03:00",
+   "dia": "2026-11-12"
+  },
+  {
+   "id": "shopee-48660343762",
+   "plataforma": "Shopee",
+   "nome": "Jogo de Panelas Tramontina 9 Peças Turim Antiaderente Starflon Max Grafite",
+   "loja": "MONTLAR",
+   "loja_oficial": true,
+   "preco": 258.43,
+   "preco_antigo": 358.93,
+   "desconto": 28,
+   "vendas": 131,
+   "nota": 4.9,
+   "comissao_pct": 3.0,
+   "imagem": "https://cf.shopee.com.br/file/br-11134207-820lj-mo4gvnfaql8gaa",
+   "link": "https://s.shopee.com.br/7KyTquEUW5",
+   "quase": true,
+   "canal": "achadinhos",
+   "entrou": "2026-11-12T09:49:02.204033-03:00",
+   "dia": "2026-11-12"
+  },
+  {
+   "id": "shopee-22599383562",
+   "plataforma": "Shopee",
+   "nome": "Furadeira De Impacto GSB 450 RE STD Bosch 450w + Kit Maleta Com 300 Pçs E Acessórios",
+   "loja": "Ismafer",
+   "loja_oficial": true,
+   "preco": 344.9,
+   "preco_antigo": 749.78,
+   "desconto": 54,
+   "vendas": 294,
+   "nota": 5.0,
+   "comissao_pct": 11.0,
+   "imagem": "https://cf.shopee.com.br/file/br-11134207-81zti-ml5egumek07909",
+   "link": "https://s.shopee.com.br/9V2ygDE4G4",
+   "canal": "achadinhos",
+   "entrou": "2026-11-12T09:49:02.204033-03:00",
+   "reprise_dias": 3,
+   "dia": "2026-11-12"
+  },
+  {
+   "id": "shopee-22597140327",
+   "plataforma": "Shopee",
+   "nome": "Camiseta Básica Masculina Slim Em Malha Flamê Hering",
+   "loja": "Hering_Oficial",
+   "loja_oficial": true,
+   "preco": 29.99,
+   "preco_antigo": 69.74,
+   "desconto": 57,
+   "vendas": 127,
+   "nota": 4.9,
+   "comissao_pct": 3.0,
+   "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m0d3fzym930h2a",
+   "link": "https://s.shopee.com.br/BVJJpljpP",
+   "quase": true,
+   "canal": "marcas",
+   "entrou": "2026-11-12T10:24:34.354881-03:00",
+   "dia": "2026-11-12"
   }
  ],
  "ig_feitos": [
@@ -12996,11 +13100,10 @@
   "2026-11-11 21:20 story_convite",
   "2026-11-11 21:24 story_oferta",
   "2026-11-12 08:07 story_oferta",
-  "2026-11-12 08:52 story_oferta"
+  "2026-11-12 08:52 story_oferta",
+  "2026-11-12 10:20 story_oferta"
  ],
  "ig_ofertas_usadas": [
-  "amz-B09KMW2N9Z",
-  "amz-B0BYK9KP3W",
   "amz-B08TMCHQJM",
   "amz-B0GHSCS2P5",
   "amz-B0CW7D8Z69",
@@ -13199,7 +13302,8 @@
   "amz-B0CT5WQHH4",
   "amz-B0DQLSG6YK",
   "amz-B0DYVTZ89P",
-  "shopee-23599291516"
+  "shopee-23599291516",
+  "shopee-47802618294"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
@@ -13268,22 +13372,22 @@
  "ultimo_pilar": "blackfriday",
  "fila": [
   {
-   "id": "shopee-18499921197",
+   "id": "shopee-57657281247",
    "plataforma": "Shopee",
-   "nome": "Controle para Xbox Sem Fio Preto + Cabo USB-C",
-   "loja": "EasyTech ",
+   "nome": "Tênis Feminino Olympikus Apolis Original",
+   "loja": "Cabana Magazine®",
    "loja_oficial": true,
-   "preco": 359.99,
-   "preco_antigo": 499.99,
-   "desconto": 28,
-   "vendas": 412,
+   "preco": 176.29,
+   "preco_antigo": 241.49,
+   "desconto": 27,
+   "vendas": 161,
    "nota": 4.9,
-   "comissao_pct": 4.0,
-   "imagem": "https://cf.shopee.com.br/file/sg-11134201-82582-mfu72o2xwavfe7",
-   "link": "https://s.shopee.com.br/7Af4FqRwFm",
+   "comissao_pct": 8.0,
+   "imagem": "https://cf.shopee.com.br/file/br-11134207-820ma-mo405ss003ya28",
+   "link": "https://s.shopee.com.br/8fTrSzGbLE",
    "quase": true,
-   "canal": "tech",
-   "entrou": "2026-11-12T09:47:07.055018-03:00"
+   "canal": "marcas",
+   "entrou": "2026-11-12T10:24:34.354881-03:00"
   }
  ],
  "menus_fixados": [
@@ -13645,7 +13749,7 @@
   "deoparfumnaturaessencialmasculinominiatura25ml": "2026-11-05T16:05:07.770060-03:00",
   "headsetgamerredragonzeuslite": "2026-11-05T16:18:45.643547-03:00",
   "calcalegleggingmaxluposporttecnologiasemcosturaseamlessdryparatreinodealtorendimento": "2026-11-05T16:26:50.399112-03:00",
-  "furadeiradeimpactogsb450restdbosch450wkitmaletacom300pcseacessorios": "2026-11-08T13:38:11.676764-03:00",
+  "furadeiradeimpactogsb450restdbosch450wkitmaletacom300pcseacessorios": "2026-11-12T10:18:14.425225-03:00",
   "kit2cuecasboxerlupomicrofibrapoliamidasemcosturaconfortavelcuecamasculinaoriginal": "2026-11-05T16:53:48.183189-03:00",
   "refildesodorantecorporalnaturaessencialatraimasculino": "2026-11-05T17:00:37.959972-03:00",
   "smarttvsamsung32hdtizenhdrwifihdmibivoltpreta": "2026-11-08T18:43:42.905672-03:00",
@@ -14159,7 +14263,11 @@
   "wheyproteinintegralmedicanutriwheybaunilha12kg": "2026-11-12T09:13:47.892417-03:00",
   "protetorsolarlarocheposayantheliosuvmune400comcor40ml": "2026-11-12T09:19:55.198609-03:00",
   "kit10paresmeiaslupocanomedio": "2026-11-12T09:26:42.791128-03:00",
-  "kit6paresmeiaslupo3245canomedioalgodao": "2026-11-12T09:48:25.700814-03:00"
+  "kit6paresmeiaslupo3245canomedioalgodao": "2026-11-12T09:48:25.700814-03:00",
+  "controleparaxboxsemfiopretocabousbc": "2026-11-12T09:56:29.363763-03:00",
+  "chapinhadecabelotaiffsupermini200ocpretabivolt": "2026-11-12T10:03:29.760836-03:00",
+  "jogodepanelastramontina9pecasturimantiaderentestarflonmaxgrafite": "2026-11-12T10:11:19.456142-03:00",
+  "camisetabasicamasculinaslimemmalhaflamehering": "2026-11-12T10:28:36.195300-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
@@ -14502,14 +14610,14 @@
   "2026-11-09 noite tech",
   "2026-11-10 noite marcas"
  ],
- "reserva_meio": "2026-11-12T09:47:07.055018-03:00",
+ "reserva_meio": "2026-11-12T10:24:34.354881-03:00",
  "reserva_cheia": {
-  "achadinhos": "2026-11-09T18:09:55.295113-03:00",
+  "achadinhos": "2026-11-12T09:49:02.204033-03:00",
   "tech": "2026-11-12T09:47:07.055018-03:00",
-  "marcas": "2026-11-11T12:51:21.081776-03:00"
+  "marcas": "2026-11-12T10:24:34.354881-03:00"
  },
  "top10_dia": "2026-11-07",
- "manuais_lidos": "2026-11-12T09:47:07.055018-03:00",
+ "manuais_lidos": "2026-11-12T10:18:07.457531-03:00",
  "reserva_resultado": {
   "2026-11-07": {
    "achadinhos": {
@@ -14594,7 +14702,7 @@
   "2026-11-12": {
    "marcas": {
     "busca": 0,
-    "quase": 0,
+    "quase": 2,
     "reprise": 0
    },
    "tech": {
@@ -14604,8 +14712,8 @@
    },
    "achadinhos": {
     "busca": 0,
-    "quase": 0,
-    "reprise": 0
+    "quase": 2,
+    "reprise": 1
    }
   }
  },
@@ -14663,7 +14771,7 @@
    "hora": "2026-11-11T20:32:35.453128-03:00"
   }
  },
- "ig_respondido_em": "2026-11-12T09:39:23.386277-03:00",
+ "ig_respondido_em": "2026-11-12T10:24:34.354881-03:00",
  "dm_auto": {
   "2026-11-08": {
    "com_palavra": 0,
@@ -15007,7 +15115,7 @@
    "feed": 0
   },
   "2026-11-12": {
-   "story": 2,
+   "story": 3,
    "feed": 0
   }
  },
