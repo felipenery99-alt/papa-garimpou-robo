@@ -1070,7 +1070,14 @@
   "2026-11-12 achadinhos 11:13 shopee-22394417240",
   "2026-11-12 marcas 11:29 shopee-58260024078",
   "2026-11-12 achadinhos 11:44 shopee-19497608994",
-  "2026-11-12 tech 12:04 amz-B0GLHRCQDJ"
+  "2026-11-12 tech 12:04 amz-B0GLHRCQDJ",
+  "2026-11-12 marcas 12:29 amz-B0CRYX4LP7",
+  "2026-11-12 achadinhos 12:35 amz-B08YMPX9K5",
+  "2026-11-12 marcas 12:43 amz-B0F5ZGTPNZ",
+  "2026-11-12 tech 12:50 amz-B0GQW7S1XS",
+  "2026-11-12 achadinhos 12:57 amz-B088MGTPBD",
+  "2026-11-12 marcas 13:05 amz-B0D7Z9Z2C2",
+  "2026-11-12 tech 13:12 amz-B0CTMTYY1D"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -2103,7 +2110,14 @@
   "shopee-7975402525": "2026-11-12T10:58:48.764310-03:00",
   "shopee-23494511696": "2026-11-12T11:05:48.090022-03:00",
   "shopee-22394417240": "2026-11-12T11:13:44.441780-03:00",
-  "amz-B0GLHRCQDJ": "2026-11-12T12:04:10.042453-03:00"
+  "amz-B0GLHRCQDJ": "2026-11-12T12:04:10.042453-03:00",
+  "amz-B0CRYX4LP7": "2026-11-12T12:29:30.488657-03:00",
+  "amz-B08YMPX9K5": "2026-11-12T12:35:59.055122-03:00",
+  "amz-B0F5ZGTPNZ": "2026-11-12T12:43:39.773408-03:00",
+  "amz-B0GQW7S1XS": "2026-11-12T12:50:42.391113-03:00",
+  "amz-B088MGTPBD": "2026-11-12T12:57:39.183621-03:00",
+  "amz-B0D7Z9Z2C2": "2026-11-12T13:05:12.258389-03:00",
+  "amz-B0CTMTYY1D": "2026-11-12T13:12:51.467236-03:00"
  },
  "ofertas_dia": [
   {
@@ -13063,6 +13077,125 @@
    "preco_em": "2026-11-12T11:46:00-03:00",
    "entrou": "2026-11-12T12:03:38.763150-03:00",
    "dia": "2026-11-12"
+  },
+  {
+   "id": "amz-B0CRYX4LP7",
+   "canal": "marcas",
+   "nome": "Perfume Hugo Boss Bottled Intense EDP Masculino 75ml",
+   "preco_antigo": 373.48,
+   "preco": 256.01,
+   "desconto": 31,
+   "link": "https://www.amazon.com.br/dp/B0CRYX4LP7?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/81bUfQNTGHL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-13T22:00:00-03:00",
+   "coletado_em": "2026-11-12T11:46:00-03:00",
+   "preco_em": "2026-11-12T11:46:00-03:00",
+   "entrou": "2026-11-12T12:03:38.763150-03:00",
+   "dia": "2026-11-12"
+  },
+  {
+   "id": "amz-B08YMPX9K5",
+   "canal": "achadinhos",
+   "nome": "Fluido Facial NIVEA Luminous 630 FPS 50 40ml",
+   "preco_antigo": 119.9,
+   "preco": 57.5,
+   "desconto": 52,
+   "link": "https://www.amazon.com.br/dp/B08YMPX9K5?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/719wChcn2pL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-13T22:00:00-03:00",
+   "coletado_em": "2026-11-12T11:46:00-03:00",
+   "preco_em": "2026-11-12T11:46:00-03:00",
+   "entrou": "2026-11-12T12:03:38.763150-03:00",
+   "dia": "2026-11-12"
+  },
+  {
+   "id": "amz-B0F5ZGTPNZ",
+   "canal": "marcas",
+   "nome": "Copo Térmico Stanley 3 em 1 com Tampa e Canudo 296ml",
+   "preco_antigo": 219.0,
+   "preco": 98.55,
+   "desconto": 55,
+   "link": "https://www.amazon.com.br/dp/B0F5ZGTPNZ?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/41s47Xc2LIL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-13T22:00:00-03:00",
+   "coletado_em": "2026-11-12T11:46:00-03:00",
+   "preco_em": "2026-11-12T11:46:00-03:00",
+   "entrou": "2026-11-12T12:03:38.763150-03:00",
+   "dia": "2026-11-12"
+  },
+  {
+   "id": "amz-B0GQW7S1XS",
+   "canal": "tech",
+   "nome": "Apple iPhone 17 512 GB Preto",
+   "preco_antigo": 9499.0,
+   "preco": 6344.1,
+   "desconto": 33,
+   "link": "https://www.amazon.com.br/dp/B0GQW7S1XS?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/41HPi5vrxSL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-13T22:00:00-03:00",
+   "coletado_em": "2026-11-12T11:46:00-03:00",
+   "preco_em": "2026-11-12T11:46:00-03:00",
+   "entrou": "2026-11-12T12:03:38.763150-03:00",
+   "dia": "2026-11-12"
+  },
+  {
+   "id": "amz-B088MGTPBD",
+   "canal": "achadinhos",
+   "nome": "Caçarola Tramontina Grano Inox Corpo Triplo",
+   "preco_antigo": 595.04,
+   "preco": 367.14,
+   "desconto": 38,
+   "link": "https://www.amazon.com.br/dp/B088MGTPBD?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51Q4mkczE5L._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-13T22:00:00-03:00",
+   "coletado_em": "2026-11-12T11:46:00-03:00",
+   "preco_em": "2026-11-12T11:46:00-03:00",
+   "entrou": "2026-11-12T12:03:38.763150-03:00",
+   "dia": "2026-11-12"
+  },
+  {
+   "id": "amz-B0D7Z9Z2C2",
+   "canal": "marcas",
+   "nome": "Whey Max Titanium 100% Chocolate Maltado 900g",
+   "preco_antigo": 199.89,
+   "preco": 146.07,
+   "desconto": 27,
+   "link": "https://www.amazon.com.br/dp/B0D7Z9Z2C2?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61Qu4x4bhvL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-13T22:00:00-03:00",
+   "coletado_em": "2026-11-12T11:46:00-03:00",
+   "preco_em": "2026-11-12T11:46:00-03:00",
+   "entrou": "2026-11-12T12:03:38.763150-03:00",
+   "dia": "2026-11-12"
+  },
+  {
+   "id": "amz-B0CTMTYY1D",
+   "canal": "tech",
+   "nome": "Fone de Ouvido JBL Tune 310C USB-C",
+   "preco_antigo": 129.0,
+   "preco": 84.32,
+   "desconto": 35,
+   "link": "https://www.amazon.com.br/dp/B0CTMTYY1D?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51SDun4IwwL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-13T22:00:00-03:00",
+   "coletado_em": "2026-11-12T11:46:00-03:00",
+   "preco_em": "2026-11-12T11:46:00-03:00",
+   "entrou": "2026-11-12T12:03:38.763150-03:00",
+   "dia": "2026-11-12"
   }
  ],
  "ig_feitos": [
@@ -13192,10 +13325,11 @@
   "2026-11-12 11:11 story_oferta",
   "2026-11-12 feed",
   "2026-11-12 11:50 carrossel_top5",
-  "2026-11-12 12:00 reels"
+  "2026-11-12 12:00 reels",
+  "2026-11-12 12:15 story_top4",
+  "2026-11-12 12:19 story_oferta"
  ],
  "ig_ofertas_usadas": [
-  "amz-B0GHSCS2P5",
   "amz-B0CW7D8Z69",
   "amz-B017WWSY5Q",
   "amz-B0G4SQNDHB",
@@ -13394,7 +13528,8 @@
   "amz-B0DYVTZ89P",
   "shopee-23599291516",
   "shopee-47802618294",
-  "shopee-18499921197"
+  "shopee-18499921197",
+  "shopee-58260024078"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
@@ -13462,38 +13597,6 @@
  },
  "ultimo_pilar": "blackfriday",
  "fila": [
-  {
-   "id": "amz-B08YMPX9K5",
-   "canal": "achadinhos",
-   "nome": "Fluido Facial NIVEA Luminous 630 FPS 50 40ml",
-   "preco_antigo": 119.9,
-   "preco": 57.5,
-   "desconto": 52,
-   "link": "https://www.amazon.com.br/dp/B08YMPX9K5?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/719wChcn2pL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-13T22:00:00-03:00",
-   "coletado_em": "2026-11-12T11:46:00-03:00",
-   "preco_em": "2026-11-12T11:46:00-03:00",
-   "entrou": "2026-11-12T12:03:38.763150-03:00"
-  },
-  {
-   "id": "amz-B088MGTPBD",
-   "canal": "achadinhos",
-   "nome": "Caçarola Tramontina Grano Inox Corpo Triplo",
-   "preco_antigo": 595.04,
-   "preco": 367.14,
-   "desconto": 38,
-   "link": "https://www.amazon.com.br/dp/B088MGTPBD?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51Q4mkczE5L._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-13T22:00:00-03:00",
-   "coletado_em": "2026-11-12T11:46:00-03:00",
-   "preco_em": "2026-11-12T11:46:00-03:00",
-   "entrou": "2026-11-12T12:03:38.763150-03:00"
-  },
   {
    "id": "amz-B0DBRR5BP4",
    "canal": "achadinhos",
@@ -13696,86 +13799,6 @@
    "desconto": 46,
    "link": "https://www.amazon.com.br/dp/B092SS3J2V?tag=papagarimpou-20",
    "imagem": "https://m.media-amazon.com/images/I/71J+hyfBNwL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-13T22:00:00-03:00",
-   "coletado_em": "2026-11-12T11:46:00-03:00",
-   "preco_em": "2026-11-12T11:46:00-03:00",
-   "entrou": "2026-11-12T12:03:38.763150-03:00"
-  },
-  {
-   "id": "amz-B0CRYX4LP7",
-   "canal": "marcas",
-   "nome": "Perfume Hugo Boss Bottled Intense EDP Masculino 75ml",
-   "preco_antigo": 373.48,
-   "preco": 256.01,
-   "desconto": 31,
-   "link": "https://www.amazon.com.br/dp/B0CRYX4LP7?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/81bUfQNTGHL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-13T22:00:00-03:00",
-   "coletado_em": "2026-11-12T11:46:00-03:00",
-   "preco_em": "2026-11-12T11:46:00-03:00",
-   "entrou": "2026-11-12T12:03:38.763150-03:00"
-  },
-  {
-   "id": "amz-B0F5ZGTPNZ",
-   "canal": "marcas",
-   "nome": "Copo Térmico Stanley 3 em 1 com Tampa e Canudo 296ml",
-   "preco_antigo": 219.0,
-   "preco": 98.55,
-   "desconto": 55,
-   "link": "https://www.amazon.com.br/dp/B0F5ZGTPNZ?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/41s47Xc2LIL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-13T22:00:00-03:00",
-   "coletado_em": "2026-11-12T11:46:00-03:00",
-   "preco_em": "2026-11-12T11:46:00-03:00",
-   "entrou": "2026-11-12T12:03:38.763150-03:00"
-  },
-  {
-   "id": "amz-B0D7Z9Z2C2",
-   "canal": "marcas",
-   "nome": "Whey Max Titanium 100% Chocolate Maltado 900g",
-   "preco_antigo": 199.89,
-   "preco": 146.07,
-   "desconto": 27,
-   "link": "https://www.amazon.com.br/dp/B0D7Z9Z2C2?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61Qu4x4bhvL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-13T22:00:00-03:00",
-   "coletado_em": "2026-11-12T11:46:00-03:00",
-   "preco_em": "2026-11-12T11:46:00-03:00",
-   "entrou": "2026-11-12T12:03:38.763150-03:00"
-  },
-  {
-   "id": "amz-B0GQW7S1XS",
-   "canal": "tech",
-   "nome": "Apple iPhone 17 512 GB Preto",
-   "preco_antigo": 9499.0,
-   "preco": 6344.1,
-   "desconto": 33,
-   "link": "https://www.amazon.com.br/dp/B0GQW7S1XS?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/41HPi5vrxSL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-13T22:00:00-03:00",
-   "coletado_em": "2026-11-12T11:46:00-03:00",
-   "preco_em": "2026-11-12T11:46:00-03:00",
-   "entrou": "2026-11-12T12:03:38.763150-03:00"
-  },
-  {
-   "id": "amz-B0CTMTYY1D",
-   "canal": "tech",
-   "nome": "Fone de Ouvido JBL Tune 310C USB-C",
-   "preco_antigo": 129.0,
-   "preco": 84.32,
-   "desconto": 35,
-   "link": "https://www.amazon.com.br/dp/B0CTMTYY1D?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51SDun4IwwL._AC_SL1500_.jpg",
    "loja": "Vendido e entregue pela Amazon",
    "plataforma": "Amazon",
    "valida_ate": "2026-11-13T22:00:00-03:00",
@@ -14715,7 +14738,14 @@
   "ugreenpdqcpps100w60wusbcparacabodecargarapidatipo20v5ausbtipocparaiphone15samsunggalaxytablet": "2026-11-12T10:58:48.764310-03:00",
   "kitcamerainteligenteim3cblackintelbras2unidades": "2026-11-12T11:05:48.090022-03:00",
   "kitcamerainteligenteintelbrasim5sc2unidades": "2026-11-12T11:13:44.441780-03:00",
-  "headsetgamersemfiologitechg325bluetooth": "2026-11-12T12:04:10.042453-03:00"
+  "headsetgamersemfiologitechg325bluetooth": "2026-11-12T12:04:10.042453-03:00",
+  "perfumehugobossbottledintenseedpmasculino75ml": "2026-11-12T12:29:30.488657-03:00",
+  "fluidofacialnivealuminous630fps5040ml": "2026-11-12T12:35:59.055122-03:00",
+  "copotermicostanley3em1comtampaecanudo296ml": "2026-11-12T12:43:39.773408-03:00",
+  "appleiphone17512gbpreto": "2026-11-12T12:50:42.391113-03:00",
+  "cacarolatramontinagranoinoxcorpotriplo": "2026-11-12T12:57:39.183621-03:00",
+  "wheymaxtitanium100chocolatemaltado900g": "2026-11-12T13:05:12.258389-03:00",
+  "fonedeouvidojbltune310cusbc": "2026-11-12T13:12:51.467236-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
@@ -15031,7 +15061,7 @@
  "ig_dm_links": {},
  "story_link_dia": "2026-11-11",
  "pede_semana": "2026-46",
- "ultimo_garimpo": "2026-11-12T08:48:26-03:00",
+ "ultimo_garimpo": "2026-11-12T11:52:52-03:00",
  "vigia_aviso_post": "2026-11-09T18:27:03.734589-03:00",
  "vigia_aviso_garimpo": "2026-11-12T11:21:56.905199-03:00",
  "resumo_enviado": "2026-11-11",
@@ -15065,14 +15095,14 @@
   "2026-11-09 noite tech",
   "2026-11-10 noite marcas"
  ],
- "reserva_meio": "2026-11-12T11:59:03.820153-03:00",
+ "reserva_meio": "2026-11-12T13:12:47.047241-03:00",
  "reserva_cheia": {
   "achadinhos": "2026-11-12T10:55:25.922451-03:00",
   "tech": "2026-11-12T11:59:03.820153-03:00",
   "marcas": "2026-11-12T11:59:03.820153-03:00"
  },
  "top10_dia": "2026-11-07",
- "manuais_lidos": "2026-11-12T12:03:38.763150-03:00",
+ "manuais_lidos": "2026-11-12T13:05:11.824969-03:00",
  "reserva_resultado": {
   "2026-11-07": {
    "achadinhos": {
@@ -15226,7 +15256,7 @@
    "hora": "2026-11-11T20:32:35.453128-03:00"
   }
  },
- "ig_respondido_em": "2026-11-12T12:03:38.763150-03:00",
+ "ig_respondido_em": "2026-11-12T13:12:47.047241-03:00",
  "dm_auto": {
   "2026-11-08": {
    "com_palavra": 0,
@@ -15578,7 +15608,7 @@
    "feed": 0
   },
   "2026-11-12": {
-   "story": 4,
+   "story": 6,
    "feed": 1
   }
  },
