@@ -1067,7 +1067,10 @@
   "2026-11-12 marcas 10:34 shopee-57657281247",
   "2026-11-12 tech 10:58 shopee-7975402525",
   "2026-11-12 achadinhos 11:05 shopee-23494511696",
-  "2026-11-12 achadinhos 11:13 shopee-22394417240"
+  "2026-11-12 achadinhos 11:13 shopee-22394417240",
+  "2026-11-12 marcas 11:29 shopee-58260024078",
+  "2026-11-12 achadinhos 11:44 shopee-19497608994",
+  "2026-11-12 tech 12:04 amz-B0GLHRCQDJ"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -1299,7 +1302,7 @@
   "shopee-20516472434": "2026-11-08T14:55:58.291676-03:00",
   "amz-B0D9KV9YWZ": "2026-10-31T10:45:50.166542-03:00",
   "amz-B09XJK1XS1": "2026-10-31T10:49:05.387675-03:00",
-  "shopee-58260024078": "2026-11-07T11:30:06.770342-03:00",
+  "shopee-58260024078": "2026-11-12T11:29:13.774403-03:00",
   "amz-B0CX1SDR83": "2026-10-31T11:02:22.623738-03:00",
   "shopee-22194331598": "2026-11-08T15:12:55.520993-03:00",
   "amz-B09GCJZ45Z": "2026-10-31T11:26:55.900377-03:00",
@@ -1582,7 +1585,7 @@
   "amz-B0GXLZ1Z88": "2026-11-05T17:43:06.818028-03:00",
   "amz-B0DKJYNXM4": "2026-11-05T17:57:15.959411-03:00",
   "amz-B0CH5PTDY1": "2026-11-05T18:05:30.059209-03:00",
-  "shopee-19497608994": "2026-11-08T13:57:19.334814-03:00",
+  "shopee-19497608994": "2026-11-12T11:44:49.476024-03:00",
   "shopee-42565175368": "2026-11-05T18:18:27.405946-03:00",
   "shopee-50801661798": "2026-11-05T18:24:30.014977-03:00",
   "shopee-23494777148": "2026-11-08T14:20:29.483606-03:00",
@@ -2099,7 +2102,8 @@
   "shopee-57657281247": "2026-11-12T10:34:28.074723-03:00",
   "shopee-7975402525": "2026-11-12T10:58:48.764310-03:00",
   "shopee-23494511696": "2026-11-12T11:05:48.090022-03:00",
-  "shopee-22394417240": "2026-11-12T11:13:44.441780-03:00"
+  "shopee-22394417240": "2026-11-12T11:13:44.441780-03:00",
+  "amz-B0GLHRCQDJ": "2026-11-12T12:04:10.042453-03:00"
  },
  "ofertas_dia": [
   {
@@ -4114,15 +4118,15 @@
    "preco": 344.9,
    "preco_antigo": 749.78,
    "desconto": 54,
-   "vendas": 267,
+   "vendas": 294,
    "nota": 5.0,
    "comissao_pct": 11.0,
    "imagem": "https://cf.shopee.com.br/file/br-11134207-81zti-ml5egumek07909",
-   "link": "https://s.shopee.com.br/8Kquq0seNA",
+   "link": "https://s.shopee.com.br/9V2ygDE4G4",
    "canal": "achadinhos",
-   "entrou": "2026-11-08T12:51:05.072627-03:00",
-   "reprise_dias": 2,
-   "dia": "2026-11-08"
+   "entrou": "2026-11-12T09:49:02.204033-03:00",
+   "reprise_dias": 3,
+   "dia": "2026-11-12"
   },
   {
    "id": "shopee-15714692913",
@@ -4248,18 +4252,18 @@
    "nome": "Extratora e Higienizadora Portatil WAP SpotCleaner W3 1450W",
    "loja": "LOI BRASIL",
    "loja_oficial": true,
-   "preco": 557.99,
-   "preco_antigo": 1187.21,
-   "desconto": 53,
-   "vendas": 1924,
+   "preco": 589.99,
+   "preco_antigo": 1204.06,
+   "desconto": 51,
+   "vendas": 1756,
    "nota": 5.0,
    "comissao_pct": 6.0,
    "imagem": "https://cf.shopee.com.br/file/sg-11134201-824g6-mpdlazjzzaq5f5",
-   "link": "https://s.shopee.com.br/8KqvJfKcuA",
+   "link": "https://s.shopee.com.br/5LDPTCViF1",
    "canal": "achadinhos",
-   "entrou": "2026-11-08T12:51:05.072627-03:00",
-   "reprise_dias": 2,
-   "dia": "2026-11-08"
+   "entrou": "2026-11-12T11:43:56.054129-03:00",
+   "reprise_dias": 3,
+   "dia": "2026-11-12"
   },
   {
    "id": "shopee-42565175368",
@@ -6266,14 +6270,15 @@
    "preco": 68.99,
    "preco_antigo": 149.98,
    "desconto": 54,
-   "vendas": 538,
+   "vendas": 571,
    "nota": 5.0,
    "comissao_pct": 8.0,
    "imagem": "https://cf.shopee.com.br/file/br-11134207-820mc-mnsw2jxtutxe75",
-   "link": "https://s.shopee.com.br/AKbxxWgdYX",
+   "link": "https://s.shopee.com.br/9pfomZ81sN",
    "canal": "marcas",
-   "entrou": "2026-11-07T11:21:26.796147-03:00",
-   "dia": "2026-11-07"
+   "entrou": "2026-11-12T11:21:56.905199-03:00",
+   "reprise_dias": 3,
+   "dia": "2026-11-12"
   },
   {
    "id": "shopee-23398337380",
@@ -12948,25 +12953,6 @@
    "dia": "2026-11-12"
   },
   {
-   "id": "shopee-22599383562",
-   "plataforma": "Shopee",
-   "nome": "Furadeira De Impacto GSB 450 RE STD Bosch 450w + Kit Maleta Com 300 Pçs E Acessórios",
-   "loja": "Ismafer",
-   "loja_oficial": true,
-   "preco": 344.9,
-   "preco_antigo": 749.78,
-   "desconto": 54,
-   "vendas": 294,
-   "nota": 5.0,
-   "comissao_pct": 11.0,
-   "imagem": "https://cf.shopee.com.br/file/br-11134207-81zti-ml5egumek07909",
-   "link": "https://s.shopee.com.br/9V2ygDE4G4",
-   "canal": "achadinhos",
-   "entrou": "2026-11-12T09:49:02.204033-03:00",
-   "reprise_dias": 3,
-   "dia": "2026-11-12"
-  },
-  {
    "id": "shopee-22597140327",
    "plataforma": "Shopee",
    "nome": "Camiseta Básica Masculina Slim Em Malha Flamê Hering",
@@ -13059,6 +13045,23 @@
    "quase": true,
    "canal": "achadinhos",
    "entrou": "2026-11-12T10:55:25.922451-03:00",
+   "dia": "2026-11-12"
+  },
+  {
+   "id": "amz-B0GLHRCQDJ",
+   "canal": "tech",
+   "nome": "Headset Gamer Sem Fio Logitech G325 Bluetooth",
+   "preco_antigo": 699.9,
+   "preco": 462.51,
+   "desconto": 34,
+   "link": "https://www.amazon.com.br/dp/B0GLHRCQDJ?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71W7Q21DY6L._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-13T22:00:00-03:00",
+   "coletado_em": "2026-11-12T11:46:00-03:00",
+   "preco_em": "2026-11-12T11:46:00-03:00",
+   "entrou": "2026-11-12T12:03:38.763150-03:00",
    "dia": "2026-11-12"
   }
  ],
@@ -13186,7 +13189,10 @@
   "2026-11-12 08:07 story_oferta",
   "2026-11-12 08:52 story_oferta",
   "2026-11-12 10:20 story_oferta",
-  "2026-11-12 11:11 story_oferta"
+  "2026-11-12 11:11 story_oferta",
+  "2026-11-12 feed",
+  "2026-11-12 11:50 carrossel_top5",
+  "2026-11-12 12:00 reels"
  ],
  "ig_ofertas_usadas": [
   "amz-B0GHSCS2P5",
@@ -13392,7 +13398,7 @@
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
- "ig_ultimo_reel": "2026-11-11T20:32:35.453128-03:00",
+ "ig_ultimo_reel": "2026-11-12T12:03:38.763150-03:00",
  "pecas_usadas": {
   "ac-preco-inflado": "2026-10-27",
   "dc-7-dias": "2026-10-27",
@@ -13455,7 +13461,378 @@
   "2026-11-12": 1
  },
  "ultimo_pilar": "blackfriday",
- "fila": [],
+ "fila": [
+  {
+   "id": "amz-B08YMPX9K5",
+   "canal": "achadinhos",
+   "nome": "Fluido Facial NIVEA Luminous 630 FPS 50 40ml",
+   "preco_antigo": 119.9,
+   "preco": 57.5,
+   "desconto": 52,
+   "link": "https://www.amazon.com.br/dp/B08YMPX9K5?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/719wChcn2pL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-13T22:00:00-03:00",
+   "coletado_em": "2026-11-12T11:46:00-03:00",
+   "preco_em": "2026-11-12T11:46:00-03:00",
+   "entrou": "2026-11-12T12:03:38.763150-03:00"
+  },
+  {
+   "id": "amz-B088MGTPBD",
+   "canal": "achadinhos",
+   "nome": "Caçarola Tramontina Grano Inox Corpo Triplo",
+   "preco_antigo": 595.04,
+   "preco": 367.14,
+   "desconto": 38,
+   "link": "https://www.amazon.com.br/dp/B088MGTPBD?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51Q4mkczE5L._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-13T22:00:00-03:00",
+   "coletado_em": "2026-11-12T11:46:00-03:00",
+   "preco_em": "2026-11-12T11:46:00-03:00",
+   "entrou": "2026-11-12T12:03:38.763150-03:00"
+  },
+  {
+   "id": "amz-B0DBRR5BP4",
+   "canal": "achadinhos",
+   "nome": "Sérum Antissinais NIVEA Q10 Expert Dupla Ação 30ml",
+   "preco_antigo": 85.49,
+   "preco": 46.14,
+   "desconto": 46,
+   "link": "https://www.amazon.com.br/dp/B0DBRR5BP4?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71uxfFZSHWL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-13T22:00:00-03:00",
+   "coletado_em": "2026-11-12T11:46:00-03:00",
+   "preco_em": "2026-11-12T11:46:00-03:00",
+   "entrou": "2026-11-12T12:03:38.763150-03:00"
+  },
+  {
+   "id": "amz-B0D79HNMYL",
+   "canal": "achadinhos",
+   "nome": "Lavadora e Desobstruidora WAP WL 4000 Ultra",
+   "preco_antigo": 1329.9,
+   "preco": 664.12,
+   "desconto": 50,
+   "link": "https://www.amazon.com.br/dp/B0D79HNMYL?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61OUckvJvLL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-13T22:00:00-03:00",
+   "coletado_em": "2026-11-12T11:46:00-03:00",
+   "preco_em": "2026-11-12T11:46:00-03:00",
+   "entrou": "2026-11-12T12:03:38.763150-03:00"
+  },
+  {
+   "id": "amz-B0DHJ8QXLB",
+   "canal": "achadinhos",
+   "nome": "Kit Protetor Solar L'Oréal Expertise FPS 70",
+   "preco_antigo": 99.49,
+   "preco": 68.07,
+   "desconto": 32,
+   "link": "https://www.amazon.com.br/dp/B0DHJ8QXLB?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/613Gr9oZp+L._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-13T22:00:00-03:00",
+   "coletado_em": "2026-11-12T11:46:00-03:00",
+   "preco_em": "2026-11-12T11:46:00-03:00",
+   "entrou": "2026-11-12T12:03:38.763150-03:00"
+  },
+  {
+   "id": "amz-B077BY8HQV",
+   "canal": "achadinhos",
+   "nome": "Protetor Solar NIVEA Sun Kids & Babies FPS 60 125ml",
+   "preco_antigo": 81.9,
+   "preco": 37.17,
+   "desconto": 55,
+   "link": "https://www.amazon.com.br/dp/B077BY8HQV?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51EMbmDKHgL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-13T22:00:00-03:00",
+   "coletado_em": "2026-11-12T11:46:00-03:00",
+   "preco_em": "2026-11-12T11:46:00-03:00",
+   "entrou": "2026-11-12T12:03:38.763150-03:00"
+  },
+  {
+   "id": "amz-B0DMWNWD8Y",
+   "canal": "achadinhos",
+   "nome": "Air Fryer Philco 9L Gold PAF90B 127V",
+   "preco_antigo": 429.0,
+   "preco": 263.91,
+   "desconto": 38,
+   "link": "https://www.amazon.com.br/dp/B0DMWNWD8Y?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51hePDwFKfL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-13T22:00:00-03:00",
+   "coletado_em": "2026-11-12T11:46:00-03:00",
+   "preco_em": "2026-11-12T11:46:00-03:00",
+   "entrou": "2026-11-12T12:03:38.763150-03:00"
+  },
+  {
+   "id": "amz-B08FXSBL8V",
+   "canal": "achadinhos",
+   "nome": "Aspirador Antiácaro WAP Mite Cleaner UV 3 em 1",
+   "preco_antigo": 699.9,
+   "preco": 478.39,
+   "desconto": 32,
+   "link": "https://www.amazon.com.br/dp/B08FXSBL8V?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71jyELP6kHL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-13T22:00:00-03:00",
+   "coletado_em": "2026-11-12T11:46:00-03:00",
+   "preco_em": "2026-11-12T11:46:00-03:00",
+   "entrou": "2026-11-12T12:03:38.763150-03:00"
+  },
+  {
+   "id": "amz-B0DK4975DJ",
+   "canal": "achadinhos",
+   "nome": "Kit Loção Hidratante NIVEA Milk Pele Seca 400ml",
+   "preco_antigo": 43.9,
+   "preco": 29.88,
+   "desconto": 32,
+   "link": "https://www.amazon.com.br/dp/B0DK4975DJ?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71Exl60wVRL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-13T22:00:00-03:00",
+   "coletado_em": "2026-11-12T11:46:00-03:00",
+   "preco_em": "2026-11-12T11:46:00-03:00",
+   "entrou": "2026-11-12T12:03:38.763150-03:00"
+  },
+  {
+   "id": "amz-B07CTM3BZ3",
+   "canal": "achadinhos",
+   "nome": "Kit Bosch de Pontas e Soquetes 46 peças",
+   "preco_antigo": 189.9,
+   "preco": 130.88,
+   "desconto": 31,
+   "link": "https://www.amazon.com.br/dp/B07CTM3BZ3?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/81cV9B+IPzL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-13T22:00:00-03:00",
+   "coletado_em": "2026-11-12T11:46:00-03:00",
+   "preco_em": "2026-11-12T11:46:00-03:00",
+   "entrou": "2026-11-12T12:03:38.763150-03:00"
+  },
+  {
+   "id": "amz-B09FFVMNFB",
+   "canal": "achadinhos",
+   "nome": "Fralda Pampers Confort Sec G 168 unidades",
+   "preco_antigo": 235.87,
+   "preco": 133.23,
+   "desconto": 44,
+   "link": "https://www.amazon.com.br/dp/B09FFVMNFB?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71qWE66mi6L._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-13T22:00:00-03:00",
+   "coletado_em": "2026-11-12T11:46:00-03:00",
+   "preco_em": "2026-11-12T11:46:00-03:00",
+   "entrou": "2026-11-12T12:03:38.763150-03:00"
+  },
+  {
+   "id": "amz-B07FT5X4FV",
+   "canal": "achadinhos",
+   "nome": "Escova de Dente Oral-B Clean Indicator 4 unidades",
+   "preco_antigo": 30.73,
+   "preco": 19.49,
+   "desconto": 37,
+   "link": "https://www.amazon.com.br/dp/B07FT5X4FV?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61f8eFcG-IL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-13T22:00:00-03:00",
+   "coletado_em": "2026-11-12T11:46:00-03:00",
+   "preco_em": "2026-11-12T11:46:00-03:00",
+   "entrou": "2026-11-12T12:03:38.763150-03:00"
+  },
+  {
+   "id": "amz-B082L13YPQ",
+   "canal": "achadinhos",
+   "nome": "Lenços Umedecidos Pampers Aloe Vera 192 unidades",
+   "preco_antigo": 46.7,
+   "preco": 29.67,
+   "desconto": 36,
+   "link": "https://www.amazon.com.br/dp/B082L13YPQ?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61ZtoLSExdL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-13T22:00:00-03:00",
+   "coletado_em": "2026-11-12T11:46:00-03:00",
+   "preco_em": "2026-11-12T11:46:00-03:00",
+   "entrou": "2026-11-12T12:03:38.763150-03:00"
+  },
+  {
+   "id": "amz-B07YGFHH53",
+   "canal": "achadinhos",
+   "nome": "Lavadora de Alta Pressão WAP Extreme Turbo 2800",
+   "preco_antigo": 2059.9,
+   "preco": 863.1,
+   "desconto": 58,
+   "link": "https://www.amazon.com.br/dp/B07YGFHH53?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/816u8AYvzeL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-13T22:00:00-03:00",
+   "coletado_em": "2026-11-12T11:46:00-03:00",
+   "gancho": "WAP QUASE PELA METADE DO PREÇO",
+   "preco_em": "2026-11-12T11:46:00-03:00",
+   "entrou": "2026-11-12T12:03:38.763150-03:00"
+  },
+  {
+   "id": "amz-B092SS3J2V",
+   "canal": "achadinhos",
+   "nome": "Desodorante NIVEA MEN Aerossol Original Protect",
+   "preco_antigo": 34.9,
+   "preco": 18.89,
+   "desconto": 46,
+   "link": "https://www.amazon.com.br/dp/B092SS3J2V?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71J+hyfBNwL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-13T22:00:00-03:00",
+   "coletado_em": "2026-11-12T11:46:00-03:00",
+   "preco_em": "2026-11-12T11:46:00-03:00",
+   "entrou": "2026-11-12T12:03:38.763150-03:00"
+  },
+  {
+   "id": "amz-B0CRYX4LP7",
+   "canal": "marcas",
+   "nome": "Perfume Hugo Boss Bottled Intense EDP Masculino 75ml",
+   "preco_antigo": 373.48,
+   "preco": 256.01,
+   "desconto": 31,
+   "link": "https://www.amazon.com.br/dp/B0CRYX4LP7?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/81bUfQNTGHL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-13T22:00:00-03:00",
+   "coletado_em": "2026-11-12T11:46:00-03:00",
+   "preco_em": "2026-11-12T11:46:00-03:00",
+   "entrou": "2026-11-12T12:03:38.763150-03:00"
+  },
+  {
+   "id": "amz-B0F5ZGTPNZ",
+   "canal": "marcas",
+   "nome": "Copo Térmico Stanley 3 em 1 com Tampa e Canudo 296ml",
+   "preco_antigo": 219.0,
+   "preco": 98.55,
+   "desconto": 55,
+   "link": "https://www.amazon.com.br/dp/B0F5ZGTPNZ?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/41s47Xc2LIL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-13T22:00:00-03:00",
+   "coletado_em": "2026-11-12T11:46:00-03:00",
+   "preco_em": "2026-11-12T11:46:00-03:00",
+   "entrou": "2026-11-12T12:03:38.763150-03:00"
+  },
+  {
+   "id": "amz-B0D7Z9Z2C2",
+   "canal": "marcas",
+   "nome": "Whey Max Titanium 100% Chocolate Maltado 900g",
+   "preco_antigo": 199.89,
+   "preco": 146.07,
+   "desconto": 27,
+   "link": "https://www.amazon.com.br/dp/B0D7Z9Z2C2?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61Qu4x4bhvL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-13T22:00:00-03:00",
+   "coletado_em": "2026-11-12T11:46:00-03:00",
+   "preco_em": "2026-11-12T11:46:00-03:00",
+   "entrou": "2026-11-12T12:03:38.763150-03:00"
+  },
+  {
+   "id": "amz-B0GQW7S1XS",
+   "canal": "tech",
+   "nome": "Apple iPhone 17 512 GB Preto",
+   "preco_antigo": 9499.0,
+   "preco": 6344.1,
+   "desconto": 33,
+   "link": "https://www.amazon.com.br/dp/B0GQW7S1XS?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/41HPi5vrxSL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-13T22:00:00-03:00",
+   "coletado_em": "2026-11-12T11:46:00-03:00",
+   "preco_em": "2026-11-12T11:46:00-03:00",
+   "entrou": "2026-11-12T12:03:38.763150-03:00"
+  },
+  {
+   "id": "amz-B0CTMTYY1D",
+   "canal": "tech",
+   "nome": "Fone de Ouvido JBL Tune 310C USB-C",
+   "preco_antigo": 129.0,
+   "preco": 84.32,
+   "desconto": 35,
+   "link": "https://www.amazon.com.br/dp/B0CTMTYY1D?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51SDun4IwwL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-13T22:00:00-03:00",
+   "coletado_em": "2026-11-12T11:46:00-03:00",
+   "preco_em": "2026-11-12T11:46:00-03:00",
+   "entrou": "2026-11-12T12:03:38.763150-03:00"
+  },
+  {
+   "id": "amz-B0H7YPY854",
+   "canal": "tech",
+   "nome": "Smart TV Samsung 55\" OLED 4K S85H Vision AI",
+   "preco_antigo": 7899.0,
+   "preco": 5414.04,
+   "desconto": 31,
+   "link": "https://www.amazon.com.br/dp/B0H7YPY854?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61EevKXAgKL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-13T22:00:00-03:00",
+   "coletado_em": "2026-11-12T11:46:00-03:00",
+   "gancho": "TV OLED DA SAMSUNG COM DESCONTO DE GENTE GRANDE",
+   "preco_em": "2026-11-12T11:46:00-03:00",
+   "entrou": "2026-11-12T12:03:38.763150-03:00"
+  },
+  {
+   "id": "amz-B00Z0UWV3O",
+   "canal": "tech",
+   "nome": "Câmbio Logitech G Driving Force para volantes G29/G920",
+   "preco_antigo": 469.9,
+   "preco": 299.0,
+   "desconto": 36,
+   "link": "https://www.amazon.com.br/dp/B00Z0UWV3O?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71ycx6Dc80L._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-13T22:00:00-03:00",
+   "coletado_em": "2026-11-12T11:46:00-03:00",
+   "preco_em": "2026-11-12T11:46:00-03:00",
+   "entrou": "2026-11-12T12:03:38.763150-03:00"
+  },
+  {
+   "id": "amz-B00SAYCXWG",
+   "canal": "tech",
+   "nome": "Headset Gamer HyperX Cloud II Preto e Vermelho",
+   "preco_antigo": 726.27,
+   "preco": 507.95,
+   "desconto": 30,
+   "link": "https://www.amazon.com.br/dp/B00SAYCXWG?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71ltsViEA8L._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-13T22:00:00-03:00",
+   "coletado_em": "2026-11-12T11:46:00-03:00",
+   "preco_em": "2026-11-12T11:46:00-03:00",
+   "entrou": "2026-11-12T12:03:38.763150-03:00"
+  }
+ ],
  "menus_fixados": [
   "v1 @papagarimpou",
   "v1 @papagarimpoumarcas",
@@ -13540,7 +13917,7 @@
   "kitde6paresmeiaslupokidsinfantilcanocurtoalgodaotamanho24ao35": "2026-11-08T14:55:58.291676-03:00",
   "smarttvlg554kuhd55ut8050comalexaechromecast": "2026-10-31T10:45:50.166542-03:00",
   "kit8poteshermeticoselectroluxcomvedacaodesilicone": "2026-10-31T10:49:05.387675-03:00",
-  "kit2creatinamaxtitanium300gpura": "2026-11-07T11:30:06.770342-03:00",
+  "kit2creatinamaxtitanium300gpura": "2026-11-12T11:29:13.774403-03:00",
   "liquidificadorphilipswalitaserie3000turbo1200w110v": "2026-10-31T11:02:22.623738-03:00",
   "wheypromaxtitaniumproteinprocombcaaeaminoacidos1kg": "2026-11-08T15:12:55.520993-03:00",
   "multiprocessadorphilipswalitapowerchop750w110v": "2026-10-31T11:26:55.900377-03:00",
@@ -13823,7 +14200,7 @@
   "kit12paresmeialuposapatilhainvisivel": "2026-11-05T17:43:06.818028-03:00",
   "kit6poteshermeticoselectroluxempilhaveis": "2026-11-05T17:57:15.959411-03:00",
   "chaleiraeletricawapwce117lbasegiratoria": "2026-11-05T18:05:30.059209-03:00",
-  "extratoraehigienizadoraportatilwapspotcleanerw31450w": "2026-11-08T13:57:19.334814-03:00",
+  "extratoraehigienizadoraportatilwapspotcleanerw31450w": "2026-11-12T11:44:49.476024-03:00",
   "aspiradordeporobowaprobotw1003em1antiquedabivolt17w": "2026-11-05T18:18:27.405946-03:00",
   "caixadesombluetoothjblboombox4comauracastip68azul28913918": "2026-11-05T18:24:30.014977-03:00",
   "camerainteligentevisao360intelbrasime3603mp": "2026-11-08T14:20:29.483606-03:00",
@@ -14337,7 +14714,8 @@
   "tenisfemininoolympikusapolisoriginal": "2026-11-12T10:34:28.074723-03:00",
   "ugreenpdqcpps100w60wusbcparacabodecargarapidatipo20v5ausbtipocparaiphone15samsunggalaxytablet": "2026-11-12T10:58:48.764310-03:00",
   "kitcamerainteligenteim3cblackintelbras2unidades": "2026-11-12T11:05:48.090022-03:00",
-  "kitcamerainteligenteintelbrasim5sc2unidades": "2026-11-12T11:13:44.441780-03:00"
+  "kitcamerainteligenteintelbrasim5sc2unidades": "2026-11-12T11:13:44.441780-03:00",
+  "headsetgamersemfiologitechg325bluetooth": "2026-11-12T12:04:10.042453-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
@@ -14556,6 +14934,13 @@
    "shopee-23098820695",
    "shopee-45758904446",
    "shopee-22698316479"
+  ],
+  "2026-11-12": [
+   "shopee-22599383562",
+   "shopee-58260024078",
+   "shopee-7975402525",
+   "shopee-19497608994",
+   "shopee-22597140327"
   ]
  },
  "vendas_shopee": {},
@@ -14648,7 +15033,7 @@
  "pede_semana": "2026-46",
  "ultimo_garimpo": "2026-11-12T08:48:26-03:00",
  "vigia_aviso_post": "2026-11-09T18:27:03.734589-03:00",
- "vigia_aviso_garimpo": "2026-11-12T08:17:20.373994-03:00",
+ "vigia_aviso_garimpo": "2026-11-12T11:21:56.905199-03:00",
  "resumo_enviado": "2026-11-11",
  "token_conferido": "2026-11-12",
  "meta_token": {
@@ -14680,14 +15065,14 @@
   "2026-11-09 noite tech",
   "2026-11-10 noite marcas"
  ],
- "reserva_meio": "2026-11-12T11:13:11.999616-03:00",
+ "reserva_meio": "2026-11-12T11:59:03.820153-03:00",
  "reserva_cheia": {
   "achadinhos": "2026-11-12T10:55:25.922451-03:00",
-  "tech": "2026-11-12T10:55:25.922451-03:00",
-  "marcas": "2026-11-12T10:24:34.354881-03:00"
+  "tech": "2026-11-12T11:59:03.820153-03:00",
+  "marcas": "2026-11-12T11:59:03.820153-03:00"
  },
  "top10_dia": "2026-11-07",
- "manuais_lidos": "2026-11-12T11:05:43.311578-03:00",
+ "manuais_lidos": "2026-11-12T12:03:38.763150-03:00",
  "reserva_resultado": {
   "2026-11-07": {
    "achadinhos": {
@@ -14773,7 +15158,7 @@
    "marcas": {
     "busca": 0,
     "quase": 2,
-    "reprise": 0
+    "reprise": 1
    },
    "tech": {
     "busca": 0,
@@ -14783,7 +15168,7 @@
    "achadinhos": {
     "busca": 0,
     "quase": 4,
-    "reprise": 1
+    "reprise": 2
    }
   }
  },
@@ -14841,7 +15226,7 @@
    "hora": "2026-11-11T20:32:35.453128-03:00"
   }
  },
- "ig_respondido_em": "2026-11-12T11:13:11.999616-03:00",
+ "ig_respondido_em": "2026-11-12T12:03:38.763150-03:00",
  "dm_auto": {
   "2026-11-08": {
    "com_palavra": 0,
@@ -14959,6 +15344,14 @@
     "capa": "ate_off",
     "legenda": "Manda pra quem tá precisando disso 👇\n😎💎 Até 43% OFF em marca boa: os 5 achados do Papa hoje\n\nOfertas todo dia no Telegram: papagarimpouofertas 💎\n\nPubli · link de afiliado",
     "url": "https://raw.githubusercontent.com/felipenery99-alt/papa-garimpou-robo/tiktok-midia/20261111-2032-tiktok.mp4"
+   }
+  ],
+  "2026-11-12": [
+   {
+    "hora": "12:03",
+    "capa": "ate_off",
+    "legenda": "Manda pra quem tá precisando disso 👇\n😎💎 Até 71% OFF em marca boa: os 5 achados do Papa hoje\n\nOfertas todo dia no Telegram: papagarimpouofertas 💎\n\nPubli · link de afiliado",
+    "url": "https://raw.githubusercontent.com/felipenery99-alt/papa-garimpou-robo/tiktok-midia/20261112-1203-tiktok.mp4"
    }
   ]
  },
@@ -15186,7 +15579,7 @@
   },
   "2026-11-12": {
    "story": 4,
-   "feed": 0
+   "feed": 1
   }
  },
  "ig_conta_ok": "2026-11-12",
