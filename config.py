@@ -89,7 +89,7 @@ CANAL_PARADO_MIN = 50          # 01/11 (meta do dono: nenhum canal >1 h sem post
 # (GitHub, independe do PC): 8h–21h avisa o dono se o garimpo (commit "Garimpo" em ofertas_manuais.json) passou
 # de VIGIA_GARIMPO_H, se algum canal está sem oferta na fila ou sem post há VIGIA_POST_H. No máx. 1 aviso/tipo a cada VIGIA_REPETIR_H.
 VIGIA_JANELA = ("08:00", "21:00")
-VIGIA_GARIMPO_H = 3
+VIGIA_GARIMPO_H = 6   # 12/11: horas de dia (08h–21h) sem commit Garimpo; a noite não conta (intervalo normal de dia ~5 h)
 VIGIA_POST_H = 2
 VIGIA_REPETIR_H = 3
 # 05/11 (1 ano sem o dono): garimpo na nuvem quando o do PC para (ver principal.garimpo_reserva)

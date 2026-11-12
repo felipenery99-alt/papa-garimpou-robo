@@ -86,9 +86,17 @@ def gravar_relatorio(h: dict, agora: datetime) -> None:
         for m in ids.values():
             resumo[m] = resumo.get(m, 0) + 1
         dia["shopee_oficial"] = dict(sorted(resumo.items(), key=lambda x: -x[1]))
+    if MANUAIS_DESCARTE:   # 12/11: ofertas do garimpo que não entraram na fila, por motivo (último visto no dia)
+        ids = {**dia.get("manuais_descartados_ids", {}), **MANUAIS_DESCARTE}
+        dia["manuais_descartados_ids"] = ids
+        resumo = {}
+        for m in ids.values():
+            resumo[m] = resumo.get(m, 0) + 1
+        dia["manuais_descartados"] = resumo
     for d in rel:   # a lista de ids só serve para o dia corrente; nos dias fechados fica só o resumo
         if d != hoje:
             rel[d].pop("shopee_oficial_ids", None)
+            rel[d].pop("manuais_descartados_ids", None)
     if not config.IG_ATIVO:
         dia["instagram"] = {"pausado": "conta suspensa 11/11 (IG_ATIVO = False)"}
     elif os.environ.get("META_TOKEN"):
@@ -430,6 +438,9 @@ def carimbar_amazon(h: dict, o: dict, agora: datetime) -> dict:
     return {**o, "preco_em": visto.setdefault(f"{o['id']}|{o.get('preco')}", agora.isoformat())}
 
 
+MANUAIS_DESCARTE: dict = {}   # id → motivo de não entrar na fila (vai para relatorio.json)
+
+
 def carregar_manuais(h: dict, agora: datetime, texto: str | None = None) -> list[dict]:
     """Ofertas conferidas à mão (Amazon, Magalu, Awin): entram na fila enquanto não forem postadas
     e não passarem da validade (`valida_ate`, ISO). Canal desconhecido é ignorado.
@@ -442,17 +453,26 @@ def carregar_manuais(h: dict, agora: datetime, texto: str | None = None) -> list
             print(f"ofertas_manuais.json inválido: {e}")
     boas = []
     for o in lista:
-        if o.get("canal") not in config.CANAIS or o["id"] in h.get("postados", {}):
+        if o.get("canal") not in config.CANAIS:
+            continue
+        # 12/11 (Central: "garimpo de 31 ofertas e fila com 7"): 24 das 31 já tinham saído entre 28/10 e 04/11.
+        # Cada descarte fica no relatório (manuais_descartados) para o garimpo ver e trocar por inéditas.
+        if o["id"] in h.get("postados", {}):
+            MANUAIS_DESCARTE[o["id"]] = "ja_postado_30d"
             continue
         # 05/11 20h40 (Marcas 1 h sem post com 13 na fila): o garimpo mandou de novo produtos já postados na
         # semana com outro código (variação/ASIN). Repetido pelo nome nem entra na fila.
         if ja_postado_recente(h, o["id"], agora, o.get("nome", "")):
+            MANUAIS_DESCARTE[o["id"]] = "mesmo_nome_7d"
             continue
         if o.get("valida_ate") and o["valida_ate"] < agora.isoformat():
+            MANUAIS_DESCARTE[o["id"]] = "vencida"
             continue
         o = carimbar_amazon(h, o, agora)
         if not amazon_ok(o, agora):   # 12/11: preço da Amazon com 24 h ou mais nem entra na fila
+            MANUAIS_DESCARTE[o["id"]] = "amazon_preco_24h"
             continue
+        MANUAIS_DESCARTE.pop(o["id"], None)
         # "nao_antes" (01/11): só entra na fila quando faltar menos de 1 h (esta execução alcança o horário);
         # na fila, soltar_fila segura o item até a hora. Antes disso fica no arquivo, sem descartar.
         if o.get("nao_antes") and o["nao_antes"] > (agora + timedelta(hours=1)).isoformat():
@@ -746,6 +766,20 @@ def garimpo_reserva(h: dict, shopee, agora: datetime, ult_garimpo: datetime | No
             print(f"[reserva] {canal}: {len(voltaram)} reprise(s) ainda no preço")
 
 
+def horas_de_garimpo(desde: datetime, agora: datetime) -> float:
+    """Horas entre `desde` e `agora` contando só a VIGIA_JANELA de cada dia (a noite não conta)."""
+    ini, fim = ([int(x) for x in s.split(":")] for s in config.VIGIA_JANELA)
+    total, dia = 0.0, desde.date()
+    while dia <= agora.date():
+        a = datetime(dia.year, dia.month, dia.day, ini[0], ini[1], tzinfo=agora.tzinfo)
+        b = datetime(dia.year, dia.month, dia.day, fim[0], fim[1], tzinfo=agora.tzinfo)
+        a, b = max(a, desde), min(b, agora)
+        if b > a:
+            total += (b - a).total_seconds() / 3600
+        dia += timedelta(days=1)
+    return total
+
+
 def vigiar(h: dict, telegram, agora: datetime, ult_garimpo: datetime | None) -> None:
     """03/11 (dono): vigia de inatividade. Garimpo velho ou canal sem oferta na fila → aviso; canal sem post
     há VIGIA_POST_H → aviso. Cada tipo no máximo 1 vez a cada VIGIA_REPETIR_H (gravado no histórico)."""
@@ -766,7 +800,9 @@ def vigiar(h: dict, telegram, agora: datetime, ult_garimpo: datetime | None) -> 
     # 03/11 18h59 alarme falso: a rotina não garimpa (nem faz commit) com a fila cheia. Commit velho só é
     # problema se algum canal tiver menos de VIGIA_FILA_MIN ofertas válidas.
     poucos = [c for c, n in na_fila.items() if n < config.VIGIA_FILA_MIN]
-    velho = (ult_garimpo is None or agora - ult_garimpo > timedelta(hours=config.VIGIA_GARIMPO_H)) and bool(poucos)
+    # 12/11 (alarme falso 08:17: "parado desde 11/11 18:50"): o garimpo não roda à noite, então só contam as
+    # horas dentro da VIGIA_JANELA; e o intervalo normal de dia é ~5 h (08:40 → 13:50), por isso VIGIA_GARIMPO_H = 6.
+    velho = (ult_garimpo is None or horas_de_garimpo(ult_garimpo, agora) > config.VIGIA_GARIMPO_H) and bool(poucos)
     print(f"[vigia] último garimpo {ult_garimpo:%d/%m %H:%M}" if ult_garimpo else "[vigia] último garimpo: não achei",
           f"| fila válida {na_fila}")
     if (velho or vazios) and pode("vigia_aviso_garimpo"):
