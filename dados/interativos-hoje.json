@@ -24,6 +24,57 @@
      "canal": "achadinhos"
     }
    ]
+  },
+  {
+   "tipo": "carrossel_salvavel",
+   "hora": "19:20",
+   "produtos": [
+    {
+     "nome": "Tênis Casual Eros 2 Confortável Unissex - Olympikus",
+     "preco_antigo": 320.57,
+     "preco": 169.9,
+     "desconto": 47,
+     "link": "https://s.shopee.com.br/1gK0ttEnZk",
+     "loja": "Tubarão Max",
+     "canal": "marcas"
+    },
+    {
+     "nome": "Tênis de Caminhada Casual Index 4 Unissex Confortável - Olympikus",
+     "preco_antigo": 291.5,
+     "preco": 157.41,
+     "desconto": 46,
+     "link": "https://s.shopee.com.br/30pOUL9is8",
+     "loja": "Tubarão Max",
+     "canal": "marcas"
+    },
+    {
+     "nome": "Tênis Mizuno CSD Sport",
+     "preco_antigo": 499.99,
+     "preco": 269.9,
+     "desconto": 46,
+     "link": "https://www.amazon.com.br/dp/B0GV1MKHDB?tag=papagarimpou-20",
+     "loja": "Vendido e entregue pela Amazon",
+     "canal": "marcas"
+    },
+    {
+     "nome": "Tênis de Caminhada Unissex Confortável Proof 3 - Olympikus",
+     "preco_antigo": 285.65,
+     "preco": 162.82,
+     "desconto": 43,
+     "link": "https://s.shopee.com.br/1qdR6CEAEn",
+     "loja": "Tubarão Max",
+     "canal": "marcas"
+    },
+    {
+     "nome": "Tênis de Caminhada Casual Unissex Confortável Beats - Olympikus",
+     "preco_antigo": 350.7,
+     "preco": 199.9,
+     "desconto": 43,
+     "link": "https://s.shopee.com.br/3g5Ah9OC6m",
+     "loja": "Tubarão Max",
+     "canal": "marcas"
+    }
+   ]
   }
  ]
 }
