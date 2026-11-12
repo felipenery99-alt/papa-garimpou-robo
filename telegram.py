@@ -22,16 +22,24 @@ def _token() -> str:
     return t
 
 
-def postar_foto(destino: str, foto: bytes, legenda: str) -> dict:
+def postar_foto(destino: str, foto: bytes, legenda: str, botoes: list[tuple[str, str]] | None = None) -> dict:
+    """`botoes` (12/11): botões de link embaixo da foto, um por linha, ex. "📤 Mandar pra um amigo".
+    Se o Telegram recusar o botão, posta de novo sem ele (o botão nunca derruba a oferta)."""
     if destino not in config.DESTINOS_PERMITIDOS:
         raise DestinoProibido(f"destino recusado: {destino}")
+    data = {"chat_id": destino, "caption": legenda[:1024]}
+    if botoes:
+        data["reply_markup"] = json.dumps({"inline_keyboard": [[{"text": t, "url": u}] for t, u in botoes]})
     r = requests.post(
         API.format(token=_token(), metodo="sendPhoto"),
-        data={"chat_id": destino, "caption": legenda[:1024]},
+        data=data,
         files={"photo": ("oferta.jpg", foto, "image/jpeg")},
         timeout=60,
     )
     dados = r.json()
+    if not dados.get("ok") and botoes and "button" in str(dados.get("description", "")).lower():
+        print(f"[telegram] botão recusado ({dados.get('description')}); posto sem botão")
+        return postar_foto(destino, foto, legenda)
     if not dados.get("ok"):
         raise RuntimeError(f"Telegram recusou: {dados}")
     return dados["result"]

@@ -599,7 +599,8 @@ def top10_semana(h: dict, telegram, agora: datetime) -> None:
         o = itens[pos - 1]
         topo = f"🏆 TOP {len(itens)} GARIMPOS DA SEMANA · #{pos}\n🔁 ainda no preço\n\n"
         try:
-            telegram.postar_foto(config.GERAL, post.foto_com_selo(o["imagem"]), topo + post.legenda(o, o["canal"]))
+            telegram.postar_foto(config.GERAL, post.foto_com_selo(o["imagem"]), topo + post.legenda(o, o["canal"]),
+                                 botao_share(h, telegram, config.GERAL, o))
             print(f"[top10] #{pos} {o['nome'][:50]}")
         except Exception as e:
             telegram.avisar_dono(f"Top 10 #{pos} falhou: {e}")
@@ -887,9 +888,9 @@ def soltar_fila(h: dict, telegram, limite: datetime, atraso: bool = True) -> int
         chave = f"{hoje} {canal} {agora:%H:%M} {oferta['id']}"
         try:
             foto, leg = post.foto_com_selo(oferta["imagem"]), post.legenda(oferta, canal)
-            telegram.postar_foto(config.CANAIS[canal], foto, leg)
+            telegram.postar_foto(config.CANAIS[canal], foto, leg, botao_share(h, telegram, config.CANAIS[canal], oferta))
             try:   # cópia no canal geral; se falhar, não atrapalha o canal do nicho
-                telegram.postar_foto(config.GERAL, foto, leg)
+                telegram.postar_foto(config.GERAL, foto, leg, botao_share(h, telegram, config.GERAL, oferta))
             except Exception as e:
                 telegram.avisar_dono(f"canal geral não recebeu {oferta['id']}: {e}")
             h["postados"][oferta["id"]] = agora.isoformat()
@@ -1636,6 +1637,53 @@ def rodar_instagram(h: dict, agora: datetime) -> None:
 CONVITE_STORY = PASTA / "dados" / "convite-story.txt"
 CONVITES = PASTA / "dados" / "convites.json"
 CONVITES_ORIGEM = ("ig-bio", "ig-story", "ig-dm", "ig-dm-auto", "fb-pagina", "ig-canal")   # 08/11: +resposta automática e Página FB; 10/11: +canal de transmissão do Instagram
+# 12/11 (Central: membros do Telegram em 21): toda oferta sai com o botão "📤 Mandar pra um amigo", que abre o
+# compartilhar do Telegram com nome + preço e o convite rastreado do PRÓPRIO canal. Veredito 16/11: ≥ 3 entradas
+# somando os tg-share-* (relatorio.json → convites_story).
+SHARE_CONVITE = {**{d: f"tg-share-{c}" for c, d in config.CANAIS.items()}, config.GERAL: "tg-share-geral"}
+CONVITE_CANAL = {n: d for d, n in SHARE_CONVITE.items()}   # convite que não é do canal geral
+
+
+def link_share(h: dict, telegram, destino: str) -> str | None:
+    """Convite rastreado do canal para o botão; criado uma vez e guardado em convites_story. Falhou: sem botão
+    (tenta de novo no dia seguinte, avisa o dono 1 vez)."""
+    conv = h.setdefault("convites_story", {})
+    nome = SHARE_CONVITE.get(destino)
+    if not nome:
+        return None
+    if nome in conv:
+        return conv[nome]["link"]
+    hoje = datetime.now(FUSO).date().isoformat()
+    erros = h.setdefault("share_erro", {})
+    if erros.get(nome) == hoje:
+        return None
+    try:
+        conv[nome] = {"link": telegram.criar_convite(destino, nome), "entradas": []}
+        print(f"[convites] {nome} criado")
+        return conv[nome]["link"]
+    except Exception as e:
+        erros[nome] = hoje
+        telegram.avisar_dono(f"não consegui criar o convite {nome} em {destino}: {e} "
+                             "(o robô precisa da permissão 'Convidar usuários' no canal); a oferta saiu sem o botão")
+        return None
+
+
+def botao_share(h: dict, telegram, destino: str, o: dict) -> list[tuple[str, str]] | None:
+    from urllib.parse import urlencode
+    try:
+        link = link_share(h, telegram, destino)
+    except Exception as e:
+        print(f"[share] {e}")
+        return None
+    if not link:
+        return None
+    texto = f"😎💎 {o['nome'].strip()[:90]} por {post._brl(o['preco'])}"
+    if o.get("preco_em"):   # Amazon: preço sempre com a hora da coleta
+        t = datetime.fromisoformat(o["preco_em"])
+        t = (t if t.tzinfo else t.replace(tzinfo=FUSO)).astimezone(FUSO)
+        texto += f" (preço de {t:%d/%m %H:%M}, pode mudar)"
+    texto += "\nAchei no canal do Papa Garimpou, entra lá:"
+    return [("📤 Mandar pra um amigo", "https://t.me/share/url?" + urlencode({"url": link, "text": texto}))]
 
 
 STORY_LINK = PASTA / "dados" / "story-link.txt"
@@ -1707,9 +1755,9 @@ def convites_story(h: dict, telegram, agora: datetime) -> None:
     for canal, link, uid in novas:
         # o histórico fica no repositório público: só um hash curto do id, para não contar a mesma pessoa 2x
         chave = hashlib.sha256(f"papa{uid}".encode()).hexdigest()[:10]
-        if canal == config.GERAL and link in conv and chave not in conv[link]["entradas"]:
+        if canal == CONVITE_CANAL.get(link, config.GERAL) and link in conv and chave not in conv[link]["entradas"]:
             conv[link]["entradas"].append(chave)
-    for velho in sorted(n for n in conv if n not in CONVITES_ORIGEM)[:-30]:
+    for velho in sorted(n for n in conv if n not in CONVITES_ORIGEM and n not in CONVITE_CANAL)[:-30]:
         conv.pop(velho)
     print(f"[convites] {nome}: {len(conv.get(nome, {}).get('entradas', []))} entrada(s) hoje")
 
