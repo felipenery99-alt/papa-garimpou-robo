@@ -1030,7 +1030,14 @@
   "2026-11-11 tech 20:02 amz-B0GTRPYH9M",
   "2026-11-11 achadinhos 20:10 amz-B09VYBFFKF",
   "2026-11-11 marcas 20:16 amz-B0H91SW8FW",
-  "2026-11-11 tech 20:24 amz-B0FYQ5TQDL"
+  "2026-11-11 tech 20:24 amz-B0FYQ5TQDL",
+  "2026-11-11 achadinhos 20:31 amz-B076MC45HR",
+  "2026-11-11 achadinhos 20:33 amz-B09XBPCKRH",
+  "2026-11-11 marcas 20:41 amz-B0DXN35GR8",
+  "2026-11-11 tech 20:48 amz-B0FKTPDBVL",
+  "2026-11-11 achadinhos 20:55 amz-B097LRYSXW",
+  "2026-11-11 marcas 21:01 amz-B0HC4X5798",
+  "2026-11-11 tech 21:09 amz-B0GPFCC9PK"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -2026,7 +2033,14 @@
   "amz-B0GTRPYH9M": "2026-11-11T20:02:36.234702-03:00",
   "amz-B09VYBFFKF": "2026-11-11T20:10:28.083984-03:00",
   "amz-B0H91SW8FW": "2026-11-11T20:16:35.178374-03:00",
-  "amz-B0FYQ5TQDL": "2026-11-11T20:24:43.665861-03:00"
+  "amz-B0FYQ5TQDL": "2026-11-11T20:24:43.665861-03:00",
+  "amz-B076MC45HR": "2026-11-11T20:31:06.302445-03:00",
+  "amz-B09XBPCKRH": "2026-11-11T20:33:33.950534-03:00",
+  "amz-B0DXN35GR8": "2026-11-11T20:41:10.307873-03:00",
+  "amz-B0FKTPDBVL": "2026-11-11T20:48:02.396467-03:00",
+  "amz-B097LRYSXW": "2026-11-11T20:55:21.787801-03:00",
+  "amz-B0HC4X5798": "2026-11-11T21:01:49.943056-03:00",
+  "amz-B0GPFCC9PK": "2026-11-11T21:09:02.140540-03:00"
  },
  "ofertas_dia": [
   {
@@ -12357,6 +12371,115 @@
    "valida_ate": "2026-11-12T22:00:00-03:00",
    "entrou": "2026-11-11T18:55:47.916885-03:00",
    "dia": "2026-11-11"
+  },
+  {
+   "id": "amz-B076MC45HR",
+   "canal": "achadinhos",
+   "nome": "Tramontina Kit Ferramentas 11 Peças",
+   "preco_antigo": 159.84,
+   "preco": 101.63,
+   "desconto": 36,
+   "link": "https://www.amazon.com.br/dp/B076MC45HR?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71pBNnrbdpL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-12T22:00:00-03:00",
+   "gancho": "KIT TRAMONTINA COM 36% OFF",
+   "entrou": "2026-11-11T18:19:57.721704-03:00",
+   "dia": "2026-11-11"
+  },
+  {
+   "id": "amz-B09XBPCKRH",
+   "canal": "achadinhos",
+   "nome": "Philco Batedeira PBT450P 550W 220V",
+   "preco_antigo": 199.0,
+   "preco": 94.9,
+   "desconto": 52,
+   "link": "https://www.amazon.com.br/dp/B09XBPCKRH?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51IpRTe4ILL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-12T22:00:00-03:00",
+   "gancho": "BATEDEIRA PHILCO POR 94",
+   "entrou": "2026-11-11T18:19:57.721704-03:00",
+   "dia": "2026-11-11"
+  },
+  {
+   "id": "amz-B0DXN35GR8",
+   "canal": "marcas",
+   "nome": "Garrafa Térmica Stanley Aerolight Flip Straw 473ml Rose Quartz",
+   "preco_antigo": 269.0,
+   "preco": 151.3,
+   "desconto": 44,
+   "link": "https://www.amazon.com.br/dp/B0DXN35GR8?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/41cevmZdcqL._AC_SL1200_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-12T22:00:00-03:00",
+   "entrou": "2026-11-11T18:55:47.916885-03:00",
+   "dia": "2026-11-11"
+  },
+  {
+   "id": "amz-B0FKTPDBVL",
+   "canal": "tech",
+   "nome": "Headset Gamer JBL Quantum 250 Branco",
+   "preco_antigo": 349.0,
+   "preco": 239.32,
+   "desconto": 31,
+   "link": "https://www.amazon.com.br/dp/B0FKTPDBVL?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71IHSWDDFqL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-12T22:00:00-03:00",
+   "entrou": "2026-11-11T18:55:47.916885-03:00",
+   "dia": "2026-11-11"
+  },
+  {
+   "id": "amz-B097LRYSXW",
+   "canal": "achadinhos",
+   "nome": "Philco Escova Secadora PES14 Soft 1300W Bivolt",
+   "preco_antigo": 276.34,
+   "preco": 123.4,
+   "desconto": 55,
+   "link": "https://www.amazon.com.br/dp/B097LRYSXW?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51md959FaPL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-12T22:00:00-03:00",
+   "gancho": "ESCOVA SECADORA COM 55% OFF",
+   "entrou": "2026-11-11T18:19:57.721704-03:00",
+   "dia": "2026-11-11"
+  },
+  {
+   "id": "amz-B0HC4X5798",
+   "canal": "marcas",
+   "nome": "Tênis ASICS Gel-Backhand 2 Feminino",
+   "preco_antigo": 279.99,
+   "preco": 179.99,
+   "desconto": 36,
+   "link": "https://www.amazon.com.br/dp/B0HC4X5798?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51pe14irshL._AC_SL1000_.jpg",
+   "loja": "Vendido pela Netshoes · entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-12T22:00:00-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "entrou": "2026-11-11T18:55:47.916885-03:00",
+   "dia": "2026-11-11"
+  },
+  {
+   "id": "amz-B0GPFCC9PK",
+   "canal": "tech",
+   "nome": "Caixa de Som JBL PartyBox On-The-Go 2 100W Preta",
+   "preco_antigo": 2400.0,
+   "preco": 1519.05,
+   "desconto": 37,
+   "link": "https://www.amazon.com.br/dp/B0GPFCC9PK?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71MXnwpmUaL._AC_SL1500_.jpg",
+   "loja": "Vendido por parceiro · entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-12T22:00:00-03:00",
+   "entrou": "2026-11-11T18:55:47.916885-03:00",
+   "dia": "2026-11-11"
   }
  ],
  "ig_feitos": [
@@ -12514,10 +12637,13 @@
   "2026-11-11 feed",
   "2026-11-11 19:15 post_achado",
   "2026-11-11 19:17 story_oferta",
-  "2026-11-11 20:03 story_oferta"
+  "2026-11-11 20:03 story_oferta",
+  "2026-11-11 feed",
+  "2026-11-11 20:30 reels",
+  "2026-11-11 20:35 story_top4",
+  "2026-11-11 20:38 story_oferta"
  ],
  "ig_ofertas_usadas": [
-  "amz-B0756L7P4X",
   "amz-B0GHZ991LG",
   "amz-B09KMW2N9Z",
   "amz-B0BYK9KP3W",
@@ -12716,11 +12842,12 @@
   "amz-B0FJT5N7WF",
   "shopee-58209674409",
   "amz-B0BTHPZ9J4",
-  "amz-B0CT5WQHH4"
+  "amz-B0CT5WQHH4",
+  "amz-B0DQLSG6YK"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
- "ig_ultimo_reel": "2026-11-11T18:33:19.037746-03:00",
+ "ig_ultimo_reel": "2026-11-11T20:32:35.453128-03:00",
  "pecas_usadas": {
   "ac-preco-inflado": "2026-10-27",
   "dc-7-dias": "2026-10-27",
@@ -12782,51 +12909,6 @@
  },
  "ultimo_pilar": "dica",
  "fila": [
-  {
-   "id": "amz-B076MC45HR",
-   "canal": "achadinhos",
-   "nome": "Tramontina Kit Ferramentas 11 Peças",
-   "preco_antigo": 159.84,
-   "preco": 101.63,
-   "desconto": 36,
-   "link": "https://www.amazon.com.br/dp/B076MC45HR?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/71pBNnrbdpL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-12T22:00:00-03:00",
-   "gancho": "KIT TRAMONTINA COM 36% OFF",
-   "entrou": "2026-11-11T18:19:57.721704-03:00"
-  },
-  {
-   "id": "amz-B09XBPCKRH",
-   "canal": "achadinhos",
-   "nome": "Philco Batedeira PBT450P 550W 220V",
-   "preco_antigo": 199.0,
-   "preco": 94.9,
-   "desconto": 52,
-   "link": "https://www.amazon.com.br/dp/B09XBPCKRH?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51IpRTe4ILL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-12T22:00:00-03:00",
-   "gancho": "BATEDEIRA PHILCO POR 94",
-   "entrou": "2026-11-11T18:19:57.721704-03:00"
-  },
-  {
-   "id": "amz-B097LRYSXW",
-   "canal": "achadinhos",
-   "nome": "Philco Escova Secadora PES14 Soft 1300W Bivolt",
-   "preco_antigo": 276.34,
-   "preco": 123.4,
-   "desconto": 55,
-   "link": "https://www.amazon.com.br/dp/B097LRYSXW?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51md959FaPL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-12T22:00:00-03:00",
-   "gancho": "ESCOVA SECADORA COM 55% OFF",
-   "entrou": "2026-11-11T18:19:57.721704-03:00"
-  },
   {
    "id": "amz-B0CHT2X7X5",
    "canal": "achadinhos",
@@ -12945,35 +13027,6 @@
    "entrou": "2026-11-11T18:55:47.916885-03:00"
   },
   {
-   "id": "amz-B0DXN35GR8",
-   "canal": "marcas",
-   "nome": "Garrafa Térmica Stanley Aerolight Flip Straw 473ml Rose Quartz",
-   "preco_antigo": 269.0,
-   "preco": 151.3,
-   "desconto": 44,
-   "link": "https://www.amazon.com.br/dp/B0DXN35GR8?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/41cevmZdcqL._AC_SL1200_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-12T22:00:00-03:00",
-   "entrou": "2026-11-11T18:55:47.916885-03:00"
-  },
-  {
-   "id": "amz-B0HC4X5798",
-   "canal": "marcas",
-   "nome": "Tênis ASICS Gel-Backhand 2 Feminino",
-   "preco_antigo": 279.99,
-   "preco": 179.99,
-   "desconto": 36,
-   "link": "https://www.amazon.com.br/dp/B0HC4X5798?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51pe14irshL._AC_SL1000_.jpg",
-   "loja": "Vendido pela Netshoes · entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-12T22:00:00-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "entrou": "2026-11-11T18:55:47.916885-03:00"
-  },
-  {
    "id": "amz-B0F9PXSDHS",
    "canal": "marcas",
    "nome": "Tênis Puma Court Classic Clean Masculino Preto",
@@ -13027,34 +13080,6 @@
    "link": "https://www.amazon.com.br/dp/B0GZX5BR6D?tag=papagarimpou-20",
    "imagem": "https://m.media-amazon.com/images/I/810r-B1lg2L._AC_SL1500_.jpg",
    "loja": "Loja oficial Integralmédica",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-12T22:00:00-03:00",
-   "entrou": "2026-11-11T18:55:47.916885-03:00"
-  },
-  {
-   "id": "amz-B0FKTPDBVL",
-   "canal": "tech",
-   "nome": "Headset Gamer JBL Quantum 250 Branco",
-   "preco_antigo": 349.0,
-   "preco": 239.32,
-   "desconto": 31,
-   "link": "https://www.amazon.com.br/dp/B0FKTPDBVL?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/71IHSWDDFqL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-12T22:00:00-03:00",
-   "entrou": "2026-11-11T18:55:47.916885-03:00"
-  },
-  {
-   "id": "amz-B0GPFCC9PK",
-   "canal": "tech",
-   "nome": "Caixa de Som JBL PartyBox On-The-Go 2 100W Preta",
-   "preco_antigo": 2400.0,
-   "preco": 1519.05,
-   "desconto": 37,
-   "link": "https://www.amazon.com.br/dp/B0GPFCC9PK?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/71MXnwpmUaL._AC_SL1500_.jpg",
-   "loja": "Vendido por parceiro · entregue pela Amazon",
    "plataforma": "Amazon",
    "valida_ate": "2026-11-12T22:00:00-03:00",
    "entrou": "2026-11-11T18:55:47.916885-03:00"
@@ -13935,7 +13960,14 @@
   "appleiphone17e512gbbranco": "2026-11-11T20:02:36.234702-03:00",
   "tramontinapaneladepressaobravaacoinox": "2026-11-11T20:10:28.083984-03:00",
   "creatinamonohidratadagrowthsupplements250g": "2026-11-11T20:16:35.178374-03:00",
-  "monitorgamerlgultragear24ips144hz1msfullhd": "2026-11-11T20:24:43.665861-03:00"
+  "monitorgamerlgultragear24ips144hz1msfullhd": "2026-11-11T20:24:43.665861-03:00",
+  "tramontinakitferramentas11pecas": "2026-11-11T20:31:06.302445-03:00",
+  "philcobatedeirapbt450p550w220v": "2026-11-11T20:33:33.950534-03:00",
+  "garrafatermicastanleyaerolightflipstraw473mlrosequartz": "2026-11-11T20:41:10.307873-03:00",
+  "headsetgamerjblquantum250branco": "2026-11-11T20:48:02.396467-03:00",
+  "philcoescovasecadorapes14soft1300wbivolt": "2026-11-11T20:55:21.787801-03:00",
+  "tenisasicsgelbackhand2feminino": "2026-11-11T21:01:49.943056-03:00",
+  "caixadesomjblpartyboxonthego2100wpreta": "2026-11-11T21:09:02.140540-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
@@ -14143,11 +14175,16 @@
    "amz-B0FFTY5R7S"
   ],
   "2026-11-11": [
-   "amz-B081VVJ9FW",
-   "shopee-20716465989",
+   "shopee-22799189910",
    "shopee-9841073441",
    "shopee-54166806189",
    "shopee-18716453608",
+   "shopee-58209674409",
+   "shopee-47066824855",
+   "shopee-20716465989",
+   "amz-B081VVJ9FW",
+   "shopee-23098820695",
+   "shopee-45758904446",
    "shopee-22698316479"
   ]
  },
@@ -14264,7 +14301,7 @@
   "marcas": "2026-11-11T12:51:21.081776-03:00"
  },
  "top10_dia": "2026-11-07",
- "manuais_lidos": "2026-11-11T20:16:34.880962-03:00",
+ "manuais_lidos": "2026-11-11T21:01:49.513779-03:00",
  "reserva_resultado": {
   "2026-11-07": {
    "achadinhos": {
@@ -14395,9 +14432,13 @@
   "18415564270089365": {
    "capa": "uma_oferta",
    "hora": "2026-11-11T18:33:19.037746-03:00"
+  },
+  "18230902090331796": {
+   "capa": "ate_off",
+   "hora": "2026-11-11T20:32:35.453128-03:00"
   }
  },
- "ig_respondido_em": "2026-11-11T20:24:34.844968-03:00",
+ "ig_respondido_em": "2026-11-11T21:08:58.029800-03:00",
  "dm_auto": {
   "2026-11-08": {
    "com_palavra": 0,
@@ -14503,6 +14544,12 @@
     "capa": "uma_oferta",
     "legenda": "Manda pra quem tá precisando disso 👇\n😎💎 Creatina Monohidratada - Growth Supplements - Sem sabor em pó\n\nOfertas todo dia no Telegram: papagarimpouofertas 💎\n\nPubli · link de afiliado",
     "url": "https://raw.githubusercontent.com/felipenery99-alt/papa-garimpou-robo/tiktok-midia/20261111-1833-tiktok.mp4"
+   },
+   {
+    "hora": "20:32",
+    "capa": "ate_off",
+    "legenda": "Manda pra quem tá precisando disso 👇\n😎💎 Até 43% OFF em marca boa: os 5 achados do Papa hoje\n\nOfertas todo dia no Telegram: papagarimpouofertas 💎\n\nPubli · link de afiliado",
+    "url": "https://raw.githubusercontent.com/felipenery99-alt/papa-garimpou-robo/tiktok-midia/20261111-2032-tiktok.mp4"
    }
   ]
  }
