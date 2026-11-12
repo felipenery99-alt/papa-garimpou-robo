@@ -26,7 +26,13 @@ class ContaErrada(Exception):
     pass
 
 
+class IGPausado(RuntimeError):
+    """11/11: conta suspensa; config.IG_ATIVO = False barra qualquer chamada à Graph API."""
+
+
 def _token() -> str:
+    if not config.IG_ATIVO:
+        raise IGPausado("Instagram pausado (config.IG_ATIVO = False)")
     t = os.environ.get("META_TOKEN", "")
     if not t:
         raise RuntimeError("META_TOKEN não configurado")

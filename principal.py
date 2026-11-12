@@ -89,7 +89,9 @@ def gravar_relatorio(h: dict, agora: datetime) -> None:
     for d in rel:   # a lista de ids só serve para o dia corrente; nos dias fechados fica só o resumo
         if d != hoje:
             rel[d].pop("shopee_oficial_ids", None)
-    if os.environ.get("META_TOKEN"):
+    if not config.IG_ATIVO:
+        dia["instagram"] = {"pausado": "conta suspensa 11/11 (IG_ATIVO = False)"}
+    elif os.environ.get("META_TOKEN"):
         try:
             import instagram
             dia["instagram"] = instagram.metricas()
@@ -765,7 +767,7 @@ def soltar_fila(h: dict, telegram, limite: datetime, atraso: bool = True) -> int
                     garimpo_reserva(h, shopee if os.environ.get("SHOPEE_APP_ID") else None, agora_ig, ult)
                 except Exception as e:
                     print(f"[reserva] no meio da fila falhou: {e}")
-            if os.environ.get("META_TOKEN") and h.get("ig_respondido_em", "") < (agora_ig - timedelta(minutes=10)).isoformat():
+            if config.IG_ATIVO and os.environ.get("META_TOKEN") and h.get("ig_respondido_em", "") < (agora_ig - timedelta(minutes=10)).isoformat():
                 responder_ig(h, agora_ig)   # 08/11 (Central): pedido de TELEGRAM nos comentários não espera a próxima execução
                 try:
                     publicar_facebook(h, agora_ig)
@@ -1222,6 +1224,8 @@ def instagram_vencido(h: dict, agora: datetime) -> bool:
         return False
     feitos = set(h.get("ig_feitos", []))
     for hora, tipo in config.INSTAGRAM_AGENDA:
+        if not config.IG_ATIVO and tipo != "reels":   # 11/11: pausado, só o horário de Reels roda (gera a cópia do TikTok)
+            continue
         hh, mm = map(int, hora.split(":"))
         momento = agora.replace(hour=hh, minute=mm, second=0, microsecond=0)
         if momento <= agora <= momento + timedelta(minutes=50) and f"{agora.date().isoformat()} {hora} {tipo}" not in feitos:
@@ -1245,75 +1249,78 @@ def rodar_instagram(h: dict, agora: datetime) -> None:
                and liberada_ig(o, agora)]
     # a que saiu primeiro no Telegram, quando libera, é a próxima do Instagram (com o selo)
     ofertas.sort(key=lambda o: "so_telegram_ate" not in o)
-    try:
-        publicar_porta(h, agora, tag)
-    except Exception as e:
-        telegram.avisar_dono(f"Instagram: carrossel porta de entrada falhou: {e}")
-    # Carrossel especial escolhido à mão (ex.: post para impulsionar): sai uma vez, na primeira execução
-    esp_arq = Path(__file__).parent / "instagram_especial.json"
-    if esp_arq.exists():
-        esp = json.loads(esp_arq.read_text(encoding="utf-8"))
-        if f"especial {esp['id']}" not in feitos:
-            try:
-                por_id = {o["id"]: o for o in h.get("ofertas_dia", [])}
-                por_id.update({o["id"]: o for o in json.loads(MANUAIS.read_text(encoding="utf-8"))})
-                top = [por_id[i] for i in esp["ids"] if i in por_id]
-                slides = [artes.capa_top5(agora.timetuple().tm_yday)] + [artes.post_oferta(o, o["canal"]) for o in top]
-                # "colaboradores" (opcional): post Collab, ex. ["achadinhosdos.universo"]
-                instagram.carrossel(slides, f"{tag}-{esp['id']}", esp["legenda"], esp.get("colaboradores"))
-                print(f"[ig] carrossel especial {esp['id']} publicado")
-            except Exception as e:
-                telegram.avisar_dono(f"Instagram: carrossel especial {esp['id']} falhou: {e}")
-            feitos.append(f"especial {esp['id']}")
-    # Parcerias de divulgação (troca de story com outro perfil): cada uma sai uma vez, no story e no Telegram
-    parc_arq = Path(__file__).parent / "parcerias.json"
-    if parc_arq.exists():
-        for p in json.loads(parc_arq.read_text(encoding="utf-8")):
-            if f"parceria {p['id']}" in feitos:
-                continue
-            try:
-                arte = artes.story_parceria(p["arroba"], p["assuntos"])
-                instagram.story(arte, f"{tag}-parceria-{p['id']}.jpg")
-                telegram.postar_foto(config.CANAIS["achadinhos"], arte, p["telegram"])
-                print(f"[ig] parceria {p['id']} publicada")
-            except Exception as e:
-                telegram.avisar_dono(f"Instagram: parceria {p['id']} falhou: {e}")
-            feitos.append(f"parceria {p['id']}")
-    # Stories de ocasião (ex.: agradecer 100 seguidores): cada um sai uma vez, a partir de "desde".
-    # Com "diario" (ex.: PEDE PRO PAPA), sai 1x por dia entre "hora_ini" e "hora_fim", girando "paletas".
-    esp_st = Path(__file__).parent / "stories_especiais.json"
-    if esp_st.exists():
-        for e in json.loads(esp_st.read_text(encoding="utf-8")):
-            chave_e = f"story especial {e['id']}" + (f" {hoje}" if e.get("diario") else "")
-            if chave_e in feitos or agora.isoformat() < e.get("desde", ""):
-                continue
-            if e.get("diario") and not (e.get("hora_ini", "00:00") <= f"{agora:%H:%M}" <= e.get("hora_fim", "23:59")):
-                continue
-            if "dias_semana" in e and agora.weekday() not in e["dias_semana"]:   # 0 = segunda … 6 = domingo
-                continue
-            paletas = e.get("paletas") or [e.get("paleta", 0)]
-            try:
-                arte = artes.story_especial(e["titulo"], e["linhas"], paletas[agora.toordinal() % len(paletas)],
-                                            e.get("botao", "LINK NA BIO"))
-                instagram.story(arte, f"{tag}-especial-{e['id']}.jpg")
-                print(f"[ig] story especial {e['id']} publicado")
-            except Exception as ex:
-                telegram.avisar_dono(f"Instagram: story especial {e['id']} falhou: {ex}")
-            feitos.append(chave_e)
-    # PEDIDO ATENDIDO (01/11): a sessão Instagram grava em pedidos_atendidos.json o produto que um seguidor
-    # pediu no direct; sai 1 story com o selo (sem nome de quem pediu) e a oferta entra na fila do canal.
-    for o in carregar_pedidos(agora):
-        if f"pedido {o['id']}" in feitos:
-            continue
+    if config.IG_ATIVO:   # 11/11: conta suspensa → nada de porta/especial/parceria/pedido
         try:
-            # 05/11: "proc-" = procura da semana (ninguém pediu no direct): selo próprio, nunca "PEDIDO ATENDIDO"
-            selo = "PROCURA DA SEMANA" if o["id"].startswith("proc-") else "PEDIDO ATENDIDO"
-            instagram.story(artes.story_oferta(o, o["canal"], selo=selo), f"{tag}-pedido-{o['id']}.jpg")
-            print(f"[ig] pedido atendido {o['id']} publicado")
-        except Exception as ex:
-            telegram.avisar_dono(f"Instagram: pedido atendido {o['id']} falhou: {ex}")
-        feitos.append(f"pedido {o['id']}")
+            publicar_porta(h, agora, tag)
+        except Exception as e:
+            telegram.avisar_dono(f"Instagram: carrossel porta de entrada falhou: {e}")
+        # Carrossel especial escolhido à mão (ex.: post para impulsionar): sai uma vez, na primeira execução
+        esp_arq = Path(__file__).parent / "instagram_especial.json"
+        if esp_arq.exists():
+            esp = json.loads(esp_arq.read_text(encoding="utf-8"))
+            if f"especial {esp['id']}" not in feitos:
+                try:
+                    por_id = {o["id"]: o for o in h.get("ofertas_dia", [])}
+                    por_id.update({o["id"]: o for o in json.loads(MANUAIS.read_text(encoding="utf-8"))})
+                    top = [por_id[i] for i in esp["ids"] if i in por_id]
+                    slides = [artes.capa_top5(agora.timetuple().tm_yday)] + [artes.post_oferta(o, o["canal"]) for o in top]
+                    # "colaboradores" (opcional): post Collab, ex. ["achadinhosdos.universo"]
+                    instagram.carrossel(slides, f"{tag}-{esp['id']}", esp["legenda"], esp.get("colaboradores"))
+                    print(f"[ig] carrossel especial {esp['id']} publicado")
+                except Exception as e:
+                    telegram.avisar_dono(f"Instagram: carrossel especial {esp['id']} falhou: {e}")
+                feitos.append(f"especial {esp['id']}")
+        # Parcerias de divulgação (troca de story com outro perfil): cada uma sai uma vez, no story e no Telegram
+        parc_arq = Path(__file__).parent / "parcerias.json"
+        if parc_arq.exists():
+            for p in json.loads(parc_arq.read_text(encoding="utf-8")):
+                if f"parceria {p['id']}" in feitos:
+                    continue
+                try:
+                    arte = artes.story_parceria(p["arroba"], p["assuntos"])
+                    instagram.story(arte, f"{tag}-parceria-{p['id']}.jpg")
+                    telegram.postar_foto(config.CANAIS["achadinhos"], arte, p["telegram"])
+                    print(f"[ig] parceria {p['id']} publicada")
+                except Exception as e:
+                    telegram.avisar_dono(f"Instagram: parceria {p['id']} falhou: {e}")
+                feitos.append(f"parceria {p['id']}")
+        # Stories de ocasião (ex.: agradecer 100 seguidores): cada um sai uma vez, a partir de "desde".
+        # Com "diario" (ex.: PEDE PRO PAPA), sai 1x por dia entre "hora_ini" e "hora_fim", girando "paletas".
+        esp_st = Path(__file__).parent / "stories_especiais.json"
+        if esp_st.exists():
+            for e in json.loads(esp_st.read_text(encoding="utf-8")):
+                chave_e = f"story especial {e['id']}" + (f" {hoje}" if e.get("diario") else "")
+                if chave_e in feitos or agora.isoformat() < e.get("desde", ""):
+                    continue
+                if e.get("diario") and not (e.get("hora_ini", "00:00") <= f"{agora:%H:%M}" <= e.get("hora_fim", "23:59")):
+                    continue
+                if "dias_semana" in e and agora.weekday() not in e["dias_semana"]:   # 0 = segunda … 6 = domingo
+                    continue
+                paletas = e.get("paletas") or [e.get("paleta", 0)]
+                try:
+                    arte = artes.story_especial(e["titulo"], e["linhas"], paletas[agora.toordinal() % len(paletas)],
+                                                e.get("botao", "LINK NA BIO"))
+                    instagram.story(arte, f"{tag}-especial-{e['id']}.jpg")
+                    print(f"[ig] story especial {e['id']} publicado")
+                except Exception as ex:
+                    telegram.avisar_dono(f"Instagram: story especial {e['id']} falhou: {ex}")
+                feitos.append(chave_e)
+        # PEDIDO ATENDIDO (01/11): a sessão Instagram grava em pedidos_atendidos.json o produto que um seguidor
+        # pediu no direct; sai 1 story com o selo (sem nome de quem pediu) e a oferta entra na fila do canal.
+        for o in carregar_pedidos(agora):
+            if f"pedido {o['id']}" in feitos:
+                continue
+            try:
+                # 05/11: "proc-" = procura da semana (ninguém pediu no direct): selo próprio, nunca "PEDIDO ATENDIDO"
+                selo = "PROCURA DA SEMANA" if o["id"].startswith("proc-") else "PEDIDO ATENDIDO"
+                instagram.story(artes.story_oferta(o, o["canal"], selo=selo), f"{tag}-pedido-{o['id']}.jpg")
+                print(f"[ig] pedido atendido {o['id']} publicado")
+            except Exception as ex:
+                telegram.avisar_dono(f"Instagram: pedido atendido {o['id']} falhou: {ex}")
+            feitos.append(f"pedido {o['id']}")
     for hora, tipo in config.INSTAGRAM_AGENDA:
+        if not config.IG_ATIVO and tipo != "reels":   # 11/11: pausado, só o vídeo do TikTok
+            continue
         chave = f"{hoje} {hora} {tipo}"
         hh, mm = map(int, hora.split(":"))
         momento = agora.replace(hour=hh, minute=mm, second=0, microsecond=0)
@@ -1429,8 +1436,9 @@ def rodar_instagram(h: dict, agora: datetime) -> None:
                     tipo_capa = "banco"
                     quadros, leg = reels_do_banco(h, agora)
                 mp4 = video.reel(quadros)
-                rid = instagram.reels(mp4, leg)
-                h.setdefault("ig_reels_log", {})[str(rid)] = {"capa": tipo_capa, "hora": agora.isoformat()}
+                if config.IG_ATIVO:
+                    rid = instagram.reels(mp4, leg)
+                    h.setdefault("ig_reels_log", {})[str(rid)] = {"capa": tipo_capa, "hora": agora.isoformat()}
                 guardar_tiktok(h, agora, mp4, leg, tipo_capa)
                 h["ig_ultimo_reel"] = agora.isoformat()
             elif tipo == "carrossel_top5":
@@ -1462,23 +1470,24 @@ def rodar_instagram(h: dict, agora: datetime) -> None:
                 feitos.append(chave)
             else:
                 print(f"[ig] {chave} falhou ({tent[chave]}ª vez), tento de novo: {e}")
-    # Vigia: sempre pelo menos 3 stories no ar
-    try:
-        ativos = instagram.stories_ativos()
-        faltam = max(0, config.STORIES_MINIMOS - ativos)
-        for k in range(min(faltam, 3)):
-            pcs = conteudo.escolher(h, agora.date())
-            img = artes.peca(pcs[0]) if pcs else artes.story_convite()
-            instagram.story(img, f"{tag}-vigia-{agora:%H%M}-{k}.jpg")
-        if faltam:
-            print(f"[ig] vigia: havia {ativos} stories no ar, publiquei {min(faltam, 3)}")
-    except Exception as e:
-        print(f"[ig] vigia de stories: {e}")
-    responder_ig(h, agora)
-    try:
-        publicar_facebook(h, agora)
-    except Exception as e:
-        print(f"[fb] {e}")
+    if config.IG_ATIVO:   # 11/11: conta suspensa → sem vigia de stories nem respostas
+        # Vigia: sempre pelo menos 3 stories no ar
+        try:
+            ativos = instagram.stories_ativos()
+            faltam = max(0, config.STORIES_MINIMOS - ativos)
+            for k in range(min(faltam, 3)):
+                pcs = conteudo.escolher(h, agora.date())
+                img = artes.peca(pcs[0]) if pcs else artes.story_convite()
+                instagram.story(img, f"{tag}-vigia-{agora:%H%M}-{k}.jpg")
+            if faltam:
+                print(f"[ig] vigia: havia {ativos} stories no ar, publiquei {min(faltam, 3)}")
+        except Exception as e:
+            print(f"[ig] vigia de stories: {e}")
+        responder_ig(h, agora)
+        try:
+            publicar_facebook(h, agora)
+        except Exception as e:
+            print(f"[fb] {e}")
     instagram.limpar_midia(hoje)
     h["ig_feitos"] = [f for f in feitos if f[:10] >= (agora.date() - timedelta(days=3)).isoformat()]
     h["ig_ofertas_usadas"] = usadas[-200:]
@@ -1499,7 +1508,7 @@ def preparar_story_link(h: dict, agora: datetime) -> None:
     Grava "URL | AAAA-MM-DD" em dados/story-link.txt."""
     import os
     hoje = agora.date().isoformat()
-    if not config.STORY_LINK_ATIVO or agora.hour < 17 or h.get("story_link_dia") == hoje \
+    if not config.IG_ATIVO or not config.STORY_LINK_ATIVO or agora.hour < 17 or h.get("story_link_dia") == hoje \
             or not os.environ.get("META_TOKEN"):
         return
     import artes
@@ -1569,7 +1578,7 @@ def conferir_token_meta(h: dict, telegram, agora: datetime) -> None:
     """05/11 (1 ano sem o dono): 1 vez por dia confere o META_TOKEN. Faltando 15 dias ou menos para vencer
     (token ou acesso a dados), avisa o dono todo dia até ele trocar: só ele consegue gerar outro."""
     import os
-    if not os.environ.get("META_TOKEN") or h.get("token_conferido") == agora.date().isoformat():
+    if not config.IG_ATIVO or not os.environ.get("META_TOKEN") or h.get("token_conferido") == agora.date().isoformat():
         return
     import instagram
     try:
