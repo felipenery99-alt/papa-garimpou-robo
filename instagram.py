@@ -205,10 +205,9 @@ def foto_fbcdn(url: str) -> str:
     return maior["source"]
 
 
-# 12/11 (volta depois da suspensão): principal liga os limites da 1ª semana. CONT é o dict do dia guardado no histórico.
+# 12/11 (rampa da volta depois da suspensão): principal põe o teto do dia. CONT é o dict do dia guardado no histórico.
 LIMITE = {"story": None, "feed": None}
 CONT = {"story": 0, "feed": 0}
-SEM_LINK = [False]
 
 
 class IGLimite(RuntimeError):
@@ -217,25 +216,15 @@ class IGLimite(RuntimeError):
 
 def _cota(tipo: str) -> None:
     if LIMITE[tipo] is not None and CONT.get(tipo, 0) >= LIMITE[tipo]:
-        raise IGLimite(f"limite da semana de volta: {LIMITE[tipo]} {tipo}/dia")
+        raise IGLimite(f"teto da rampa de volta: {LIMITE[tipo]} {tipo}/dia")
 
 
 def _contar(tipo: str) -> None:
     CONT[tipo] = CONT.get(tipo, 0) + 1
 
 
-def limpar_legenda(txt: str) -> str:
-    """Sem link no texto: tira endereços e troca a chamada "te mando no direct" (sem DM na volta)."""
-    import re
-    txt = re.sub(r"(https?://\S+|\bt\.me/\S+|\b[\w-]+\.(?:com|com\.br|la|to|ly|me)/\S*)", "", txt)
-    linhas = ["Mais ofertas no Telegram: link na bio 💎" if "direct" in l.lower() else l.rstrip() for l in txt.split("\n")]
-    return "\n".join(linhas).strip()
-
-
 def _criar(ig_id: str, **params) -> str:
-    if SEM_LINK[0] and params.get("caption"):
-        params["caption"] = limpar_legenda(params["caption"])
-    r = requests.post(f"{G}/{ig_id}/media", data={"access_token": _token(), **params}, timeout=60).json()
+    r =requests.post(f"{G}/{ig_id}/media", data={"access_token": _token(), **params}, timeout=60).json()
     if "id" not in r:
         raise RuntimeError(f"Instagram recusou o container: {r}")
     return r["id"]

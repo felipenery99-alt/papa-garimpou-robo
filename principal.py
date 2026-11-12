@@ -829,7 +829,7 @@ def soltar_fila(h: dict, telegram, limite: datetime, atraso: bool = True) -> int
                     garimpo_reserva(h, shopee if os.environ.get("SHOPEE_APP_ID") else None, agora_ig, ult)
                 except Exception as e:
                     print(f"[reserva] no meio da fila falhou: {e}")
-            if ig_modo(h, agora_ig) == "normal" and os.environ.get("META_TOKEN") and h.get("ig_respondido_em", "") < (agora_ig - timedelta(minutes=10)).isoformat():
+            if config.IG_ATIVO and os.environ.get("META_TOKEN") and h.get("ig_respondido_em", "") < (agora_ig - timedelta(minutes=10)).isoformat():
                 responder_ig(h, agora_ig)   # 08/11 (Central): pedido de TELEGRAM nos comentários não espera a próxima execução
                 try:
                     publicar_facebook(h, agora_ig)
@@ -1283,24 +1283,50 @@ FB_CONVITE = ("😎💎 Achado bom de marca, em loja oficial, sai primeiro no Te
               "👉 Entra aqui: {link}\n\nNão tem Telegram? Veja no navegador: https://t.me/s/papagarimpouofertas")
 
 
-def ig_modo(h: dict, agora: datetime) -> str:
-    """12/11: "pausado" (IG_ATIVO False), "volta" (1ª semana depois de religar: config.IG_VOLTA) ou "normal"."""
+IG_FEED = ("reels", "post_achado", "carrossel_top5")
+
+
+def ig_fracao(h: dict, agora: datetime) -> float:
+    """12/11 (decisão final do dono): 0 = pausado (IG_ATIVO False); depois de religar, 50% do volume no 1º dia e
+    +10% a cada dia (×1,10) até 1 = normal. Dia 0 = data da 1ª execução com IG_ATIVO True ("ig_ligado_em")."""
     if not config.IG_ATIVO:
         h.pop("ig_ligado_em", None)
-        return "pausado"
+        return 0.0
     desde = datetime.fromisoformat(h.setdefault("ig_ligado_em", agora.isoformat()))
-    return "volta" if agora < desde + timedelta(days=config.IG_VOLTA["dias"]) else "normal"
+    dias = max(0, (agora.date() - desde.astimezone(agora.tzinfo).date()).days)
+    return min(1.0, config.IG_RAMPA_INICIO * config.IG_RAMPA_SOBE ** dias)
+
+
+def ig_modo(h: dict, agora: datetime) -> str:
+    """"pausado" (IG_ATIVO False), "rampa" (volta, abaixo do volume normal) ou "normal"."""
+    f = ig_fracao(h, agora)
+    return "pausado" if f == 0 else ("normal" if f >= 1 else "rampa")
+
+
+def ig_teto(h: dict, agora: datetime) -> dict:
+    """Teto do dia na rampa (None = sem teto): fração × volume normal, arredondado, no mínimo 1."""
+    f = ig_fracao(h, agora)
+    if f >= 1 or f == 0:
+        return {"feed": None, "story": None}
+    feed = sum(1 for _, t in config.INSTAGRAM_AGENDA if t in IG_FEED)
+    normal = {"feed": feed, "story": len(config.INSTAGRAM_AGENDA) - feed}
+    return {k: max(1, round(v * f)) for k, v in normal.items()}
 
 
 def agenda_ig(h: dict, agora: datetime) -> list[tuple[str, str, bool]]:
-    """(hora, tipo, publica_no_instagram). Fora do modo normal, o Reels que não publica ainda gera a cópia do TikTok."""
-    modo = ig_modo(h, agora)
-    if modo == "normal":
+    """(hora, tipo, publica_no_instagram). Na rampa, a fração do dia escolhe horários espalhados (feed e stories
+    separados, em ordem de hora); o Reels que não publica ainda gera a cópia do TikTok. Pausado: só a cópia do TikTok."""
+    f = ig_fracao(h, agora)
+    if f >= 1:
         return [(hr, t, True) for hr, t in config.INSTAGRAM_AGENDA]
-    volta = list(config.IG_VOLTA["agenda"]) if modo == "volta" else []
-    horas = {hr for hr, _ in volta}
-    return ([(hr, t, True) for hr, t in volta]
-            + [(hr, t, False) for hr, t in config.INSTAGRAM_AGENDA if t == "reels" and hr not in horas])
+    saida = []
+    for grupo in (True, False):
+        itens = sorted((hr, t) for hr, t in config.INSTAGRAM_AGENDA if (t in IG_FEED) == grupo)
+        for i, (hr, t) in enumerate(itens):
+            publica = int((i + 1) * f + 0.5) > int(i * f + 0.5)   # espalha round(n×f) horários pelo dia
+            if publica or t == "reels":
+                saida.append((hr, t, publica))
+    return saida
 
 
 def instagram_vencido(h: dict, agora: datetime) -> bool:
@@ -1334,15 +1360,12 @@ def rodar_instagram(h: dict, agora: datetime) -> None:
     # a que saiu primeiro no Telegram, quando libera, é a próxima do Instagram (com o selo)
     ofertas.sort(key=lambda o: "so_telegram_ate" not in o)
     modo = ig_modo(h, agora)
-    # 12/11: semana de volta → teto de 1 feed e 5 stories por dia e legenda sem link (trava também no instagram.py)
+    # 12/11: contagem do dia (feed/story) no histórico; na rampa da volta o teto vale a partir da agenda
     cont = h.setdefault("ig_cont", {})
     h["ig_cont"] = cont = {d: v for d, v in cont.items() if d >= (agora.date() - timedelta(days=3)).isoformat()}
     instagram.CONT = cont.setdefault(hoje, {"story": 0, "feed": 0})
-    volta = modo == "volta"
-    instagram.LIMITE.update(story=config.IG_VOLTA["max_stories"] if volta else None,
-                            feed=config.IG_VOLTA["max_feed"] if volta else None)
-    instagram.SEM_LINK[0] = volta
-    if modo == "normal":   # 11/11 suspensa / 12/11 semana de volta → nada de porta/especial/parceria/pedido
+    instagram.LIMITE.update(story=None, feed=None)
+    if modo != "pausado":   # 11/11: conta suspensa → nada de porta/especial/parceria/pedido
         try:
             publicar_porta(h, agora, tag)
         except Exception as e:
@@ -1411,7 +1434,8 @@ def rodar_instagram(h: dict, agora: datetime) -> None:
             except Exception as ex:
                 telegram.avisar_dono(f"Instagram: pedido atendido {o['id']} falhou: {ex}")
             feitos.append(f"pedido {o['id']}")
-    for hora, tipo, publica in agenda_ig(h, agora):   # 11/11 pausado: só o vídeo do TikTok; 12/11 volta: agenda curta
+    instagram.LIMITE.update(ig_teto(h, agora))   # 12/11: rampa da volta (porta/especial/pedido acima contam no teto)
+    for hora, tipo, publica in agenda_ig(h, agora):   # 11/11 pausado: só o vídeo do TikTok; 12/11 rampa: horários espalhados
         if not publica and tipo != "reels":
             continue
         chave = f"{hoje} {hora} {tipo}"
@@ -1530,8 +1554,11 @@ def rodar_instagram(h: dict, agora: datetime) -> None:
                     quadros, leg = reels_do_banco(h, agora)
                 mp4 = video.reel(quadros)
                 if publica:
-                    rid = instagram.reels(mp4, leg)
-                    h.setdefault("ig_reels_log", {})[str(rid)] = {"capa": tipo_capa, "hora": agora.isoformat()}
+                    try:
+                        rid = instagram.reels(mp4, leg)
+                        h.setdefault("ig_reels_log", {})[str(rid)] = {"capa": tipo_capa, "hora": agora.isoformat()}
+                    except instagram.IGLimite as e:   # 12/11: teto da rampa → o vídeo ainda vai para o TikTok
+                        print(f"[ig] {chave}: {e}")
                 guardar_tiktok(h, agora, mp4, leg, tipo_capa)
                 h["ig_ultimo_reel"] = agora.isoformat()
             elif tipo == "carrossel_top5":
@@ -1551,6 +1578,9 @@ def rodar_instagram(h: dict, agora: datetime) -> None:
         except instagram.ContaErrada as e:
             telegram.avisar_dono(f"INSTAGRAM BLOQUEADO (conta errada): {e}")
             return
+        except instagram.IGLimite as e:   # 12/11: teto da rampa atingido → horário fica de fora, sem aviso
+            print(f"[ig] {chave}: {e}")
+            feitos.append(chave)
         except Exception as e:
             # 05/11 (1 ano sem o dono): antes a peça que falhava 1 vez era dada como feita e se perdia
             # (post_achado 19h15, reels 12h40). Agora tenta de novo até 3 vezes dentro da janela de 50 min;
@@ -1563,9 +1593,11 @@ def rodar_instagram(h: dict, agora: datetime) -> None:
                 feitos.append(chave)
             else:
                 print(f"[ig] {chave} falhou ({tent[chave]}ª vez), tento de novo: {e}")
-    if modo == "normal":   # 11/11 suspensa / 12/11 semana de volta → sem vigia de stories, respostas nem DM
-        # Vigia: sempre pelo menos 3 stories no ar
+    if modo != "pausado":   # 11/11 suspensa → sem vigia de stories nem respostas
+        # Vigia: sempre pelo menos 3 stories no ar (12/11: na rampa da volta, não; vale só a agenda espalhada)
         try:
+            if modo == "rampa":
+                raise instagram.IGLimite("rampa da volta: sem vigia de stories")
             ativos = instagram.stories_ativos()
             faltam = max(0, config.STORIES_MINIMOS - ativos)
             for k in range(min(faltam, 3)):
