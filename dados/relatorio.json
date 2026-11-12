@@ -2365,17 +2365,17 @@
    "⚠️ Garimpo parado desde 11/11 18:50 — abrir o app Claude e conferir as rotinas\nPouca oferta na fila: marcas 2, tech 0.",
    "⚠️ Fila vazia (achadinhos, tech), último garimpo 08:48 — abrir o app Claude e conferir as rotinas"
   ],
-  "ultima_execucao": "13:13",
-  "execucoes": 10,
+  "ultima_execucao": "13:56",
+  "execucoes": 11,
   "telegram_posts": {
-   "achadinhos": 16,
-   "marcas": 13,
-   "tech": 10
+   "achadinhos": 18,
+   "marcas": 15,
+   "tech": 12
   },
   "ultimo_post": {
-   "achadinhos": "13:41",
-   "marcas": "13:49",
-   "tech": "13:56"
+   "achadinhos": "14:25",
+   "marcas": "14:32",
+   "tech": "14:38"
   },
   "meta_token": {
    "tipo": "SYSTEM_USER",
@@ -2383,7 +2383,7 @@
    "vence": "não vence",
    "acesso_vence": "-"
   },
-  "ultimo_garimpo": "12/11 11:52",
+  "ultimo_garimpo": "12/11 13:20",
   "convites_story": {
    "story-20261101": 0,
    "story-20261102": 0,
@@ -2417,7 +2417,8 @@
    "12:00 reels",
    "12:15 story_top4",
    "12:19 story_oferta",
-   "13:20 story_convite"
+   "13:20 story_convite",
+   "14:08 story_oferta"
   ],
   "shopee_ligada": true,
   "dm_auto": {
@@ -5397,22 +5398,22 @@
    "outro: palavra proibida: compatível": 7
   },
   "instagram": {
-   "seguidores": 471,
+   "seguidores": 474,
    "posts": 119,
-   "reach": 1998,
-   "profile_views": 77,
+   "reach": 2167,
+   "profile_views": 79,
    "website_clicks": 0,
    "stories_ativos": 24
   },
   "reels_alcance": {
-   "atualizado": "2026-11-12T13:13:28.837231-03:00",
+   "atualizado": "2026-11-12T13:56:59.670668-03:00",
    "itens": [
     {
      "id": "18230902090331796",
      "hora": "11/11 20:33",
      "capa": "ate_off",
      "reach": 2,
-     "views": 2,
+     "views": 3,
      "shares": 0,
      "saved": 0
     },
@@ -5779,10 +5780,16 @@
    "amz-B0DBRR5BP4": "ja_postado_30d",
    "amz-B0H7YPY854": "ja_postado_30d",
    "amz-B0D79HNMYL": "ja_postado_30d",
-   "amz-B00Z0UWV3O": "ja_postado_30d"
+   "amz-B00Z0UWV3O": "ja_postado_30d",
+   "amz-B00SAYCXWG": "ja_postado_30d",
+   "amz-B0BFT97SDN": "ja_postado_30d",
+   "amz-B0DHJ8QXLB": "ja_postado_30d",
+   "amz-B0DBXH1529": "ja_postado_30d",
+   "amz-B077BY8HQV": "ja_postado_30d",
+   "amz-B0BTYCRJSS": "ja_postado_30d"
   },
   "manuais_descartados": {
-   "ja_postado_30d": 152
+   "ja_postado_30d": 158
   },
   "tiktok": [
    {

@@ -1083,7 +1083,13 @@
   "2026-11-12 tech 13:34 amz-B00Z0UWV3O",
   "2026-11-12 achadinhos 13:41 amz-B0D79HNMYL",
   "2026-11-12 marcas 13:49 amz-B0BFT97SDN",
-  "2026-11-12 tech 13:56 amz-B00SAYCXWG"
+  "2026-11-12 tech 13:56 amz-B00SAYCXWG",
+  "2026-11-12 achadinhos 14:03 amz-B0DHJ8QXLB",
+  "2026-11-12 marcas 14:11 amz-B0DBXH1529",
+  "2026-11-12 tech 14:17 amz-B0BTYCRJSS",
+  "2026-11-12 achadinhos 14:25 amz-B077BY8HQV",
+  "2026-11-12 marcas 14:32 amz-B0FQ23DFN7",
+  "2026-11-12 tech 14:38 amz-B0GLSLLGZL"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -2129,7 +2135,13 @@
   "amz-B00Z0UWV3O": "2026-11-12T13:34:58.592134-03:00",
   "amz-B0D79HNMYL": "2026-11-12T13:41:21.810372-03:00",
   "amz-B0BFT97SDN": "2026-11-12T13:49:14.020675-03:00",
-  "amz-B00SAYCXWG": "2026-11-12T13:56:22.084387-03:00"
+  "amz-B00SAYCXWG": "2026-11-12T13:56:22.084387-03:00",
+  "amz-B0DHJ8QXLB": "2026-11-12T14:03:21.950770-03:00",
+  "amz-B0DBXH1529": "2026-11-12T14:11:26.933540-03:00",
+  "amz-B0BTYCRJSS": "2026-11-12T14:17:39.303287-03:00",
+  "amz-B077BY8HQV": "2026-11-12T14:25:08.241883-03:00",
+  "amz-B0FQ23DFN7": "2026-11-12T14:32:25.697898-03:00",
+  "amz-B0GLSLLGZL": "2026-11-12T14:38:59.656740-03:00"
  },
  "ofertas_dia": [
   {
@@ -13313,6 +13325,110 @@
    "preco_em": "2026-11-12T11:46:00-03:00",
    "entrou": "2026-11-12T12:03:38.763150-03:00",
    "dia": "2026-11-12"
+  },
+  {
+   "id": "amz-B0DHJ8QXLB",
+   "canal": "achadinhos",
+   "nome": "Kit Protetor Solar L'Oréal Expertise FPS 70",
+   "preco_antigo": 99.49,
+   "preco": 68.07,
+   "desconto": 32,
+   "link": "https://www.amazon.com.br/dp/B0DHJ8QXLB?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/613Gr9oZp+L._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-13T22:00:00-03:00",
+   "coletado_em": "2026-11-12T11:46:00-03:00",
+   "preco_em": "2026-11-12T11:46:00-03:00",
+   "entrou": "2026-11-12T12:03:38.763150-03:00",
+   "dia": "2026-11-12"
+  },
+  {
+   "id": "amz-B0DBXH1529",
+   "canal": "marcas",
+   "nome": "Tênis Fila Progress Lite Masculino",
+   "preco_antigo": 329.99,
+   "preco": 179.99,
+   "desconto": 45,
+   "link": "https://www.amazon.com.br/dp/B0DBXH1529?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51M3fDAYwoL._AC_SL1000_.jpg",
+   "loja": "Vendido pela Netshoes · entregue pela Netshoes",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-13T22:00:00-03:00",
+   "coletado_em": "2026-11-12T13:20:35-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "preco_em": "2026-11-12T13:20:35-03:00",
+   "entrou": "2026-11-12T13:34:58.105887-03:00",
+   "dia": "2026-11-12"
+  },
+  {
+   "id": "amz-B0BTYCRJSS",
+   "canal": "tech",
+   "nome": "Fone Bluetooth soundcore P20i da Anker",
+   "preco_antigo": 249.0,
+   "preco": 122.55,
+   "desconto": 51,
+   "link": "https://www.amazon.com.br/dp/B0BTYCRJSS?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51Ze-SzYKFL._AC_SL1000_.jpg",
+   "loja": "Loja oficial Anker · entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-13T22:00:00-03:00",
+   "coletado_em": "2026-11-12T13:20:35-03:00",
+   "preco_em": "2026-11-12T13:20:35-03:00",
+   "entrou": "2026-11-12T13:34:58.105887-03:00",
+   "dia": "2026-11-12"
+  },
+  {
+   "id": "amz-B077BY8HQV",
+   "canal": "achadinhos",
+   "nome": "Protetor Solar NIVEA Sun Kids & Babies FPS 60 125ml",
+   "preco_antigo": 81.9,
+   "preco": 37.17,
+   "desconto": 55,
+   "link": "https://www.amazon.com.br/dp/B077BY8HQV?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51EMbmDKHgL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-13T22:00:00-03:00",
+   "coletado_em": "2026-11-12T11:46:00-03:00",
+   "preco_em": "2026-11-12T11:46:00-03:00",
+   "entrou": "2026-11-12T12:03:38.763150-03:00",
+   "dia": "2026-11-12"
+  },
+  {
+   "id": "amz-B0FQ23DFN7",
+   "canal": "marcas",
+   "nome": "Tênis Olympikus Corre Max",
+   "preco_antigo": 549.99,
+   "preco": 389.99,
+   "desconto": 29,
+   "link": "https://www.amazon.com.br/dp/B0FQ23DFN7?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71+S0uA0+zL._AC_SL1000_.jpg",
+   "loja": "Loja oficial Olympikus",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-13T22:00:00-03:00",
+   "coletado_em": "2026-11-12T13:20:35-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "preco_em": "2026-11-12T13:20:35-03:00",
+   "entrou": "2026-11-12T13:34:58.105887-03:00",
+   "dia": "2026-11-12"
+  },
+  {
+   "id": "amz-B0GLSLLGZL",
+   "canal": "tech",
+   "nome": "Smartphone Motorola Moto g77 5G 256GB",
+   "preco_antigo": 2999.0,
+   "preco": 1579.0,
+   "desconto": 47,
+   "link": "https://www.amazon.com.br/dp/B0GLSLLGZL?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61zXvb3EmiL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-13T22:00:00-03:00",
+   "coletado_em": "2026-11-12T13:20:35-03:00",
+   "preco_em": "2026-11-12T13:20:35-03:00",
+   "entrou": "2026-11-12T13:34:58.105887-03:00",
+   "dia": "2026-11-12"
   }
  ],
  "ig_feitos": [
@@ -13445,10 +13561,10 @@
   "2026-11-12 12:00 reels",
   "2026-11-12 12:15 story_top4",
   "2026-11-12 12:19 story_oferta",
-  "2026-11-12 13:20 story_convite"
+  "2026-11-12 13:20 story_convite",
+  "2026-11-12 14:08 story_oferta"
  ],
  "ig_ofertas_usadas": [
-  "amz-B0CW7D8Z69",
   "amz-B017WWSY5Q",
   "amz-B0G4SQNDHB",
   "amz-B07WCVW56S",
@@ -13647,7 +13763,8 @@
   "shopee-23599291516",
   "shopee-47802618294",
   "shopee-18499921197",
-  "shopee-58260024078"
+  "shopee-58260024078",
+  "shopee-22091991704"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
@@ -13715,38 +13832,6 @@
  },
  "ultimo_pilar": "blackfriday",
  "fila": [
-  {
-   "id": "amz-B0DHJ8QXLB",
-   "canal": "achadinhos",
-   "nome": "Kit Protetor Solar L'Oréal Expertise FPS 70",
-   "preco_antigo": 99.49,
-   "preco": 68.07,
-   "desconto": 32,
-   "link": "https://www.amazon.com.br/dp/B0DHJ8QXLB?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/613Gr9oZp+L._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-13T22:00:00-03:00",
-   "coletado_em": "2026-11-12T11:46:00-03:00",
-   "preco_em": "2026-11-12T11:46:00-03:00",
-   "entrou": "2026-11-12T12:03:38.763150-03:00"
-  },
-  {
-   "id": "amz-B077BY8HQV",
-   "canal": "achadinhos",
-   "nome": "Protetor Solar NIVEA Sun Kids & Babies FPS 60 125ml",
-   "preco_antigo": 81.9,
-   "preco": 37.17,
-   "desconto": 55,
-   "link": "https://www.amazon.com.br/dp/B077BY8HQV?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51EMbmDKHgL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-13T22:00:00-03:00",
-   "coletado_em": "2026-11-12T11:46:00-03:00",
-   "preco_em": "2026-11-12T11:46:00-03:00",
-   "entrou": "2026-11-12T12:03:38.763150-03:00"
-  },
   {
    "id": "amz-B0DMWNWD8Y",
    "canal": "achadinhos",
@@ -13893,40 +13978,6 @@
    "entrou": "2026-11-12T12:03:38.763150-03:00"
   },
   {
-   "id": "amz-B0DBXH1529",
-   "canal": "marcas",
-   "nome": "Tênis Fila Progress Lite Masculino",
-   "preco_antigo": 329.99,
-   "preco": 179.99,
-   "desconto": 45,
-   "link": "https://www.amazon.com.br/dp/B0DBXH1529?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51M3fDAYwoL._AC_SL1000_.jpg",
-   "loja": "Vendido pela Netshoes · entregue pela Netshoes",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-13T22:00:00-03:00",
-   "coletado_em": "2026-11-12T13:20:35-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "preco_em": "2026-11-12T13:20:35-03:00",
-   "entrou": "2026-11-12T13:34:58.105887-03:00"
-  },
-  {
-   "id": "amz-B0FQ23DFN7",
-   "canal": "marcas",
-   "nome": "Tênis Olympikus Corre Max",
-   "preco_antigo": 549.99,
-   "preco": 389.99,
-   "desconto": 29,
-   "link": "https://www.amazon.com.br/dp/B0FQ23DFN7?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/71+S0uA0+zL._AC_SL1000_.jpg",
-   "loja": "Loja oficial Olympikus",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-13T22:00:00-03:00",
-   "coletado_em": "2026-11-12T13:20:35-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "preco_em": "2026-11-12T13:20:35-03:00",
-   "entrou": "2026-11-12T13:34:58.105887-03:00"
-  },
-  {
    "id": "amz-B0F18HTR4D",
    "canal": "marcas",
    "nome": "Garrafa Térmica Stanley Slim Bottle",
@@ -14002,38 +14053,6 @@
    "desconto": 40,
    "link": "https://www.amazon.com.br/dp/B0DXQCGQDS?tag=papagarimpou-20",
    "imagem": "https://m.media-amazon.com/images/I/41iMj88ZUkL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-13T22:00:00-03:00",
-   "coletado_em": "2026-11-12T13:20:35-03:00",
-   "preco_em": "2026-11-12T13:20:35-03:00",
-   "entrou": "2026-11-12T13:34:58.105887-03:00"
-  },
-  {
-   "id": "amz-B0BTYCRJSS",
-   "canal": "tech",
-   "nome": "Fone Bluetooth soundcore P20i da Anker",
-   "preco_antigo": 249.0,
-   "preco": 122.55,
-   "desconto": 51,
-   "link": "https://www.amazon.com.br/dp/B0BTYCRJSS?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51Ze-SzYKFL._AC_SL1000_.jpg",
-   "loja": "Loja oficial Anker · entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-13T22:00:00-03:00",
-   "coletado_em": "2026-11-12T13:20:35-03:00",
-   "preco_em": "2026-11-12T13:20:35-03:00",
-   "entrou": "2026-11-12T13:34:58.105887-03:00"
-  },
-  {
-   "id": "amz-B0GLSLLGZL",
-   "canal": "tech",
-   "nome": "Smartphone Motorola Moto g77 5G 256GB",
-   "preco_antigo": 2999.0,
-   "preco": 1579.0,
-   "desconto": 47,
-   "link": "https://www.amazon.com.br/dp/B0GLSLLGZL?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61zXvb3EmiL._AC_SL1000_.jpg",
    "loja": "Vendido e entregue pela Amazon",
    "plataforma": "Amazon",
    "valida_ate": "2026-11-13T22:00:00-03:00",
@@ -15083,7 +15102,13 @@
   "cambiologitechgdrivingforceparavolantesg29g920": "2026-11-12T13:34:58.592134-03:00",
   "lavadoraedesobstruidorawapwl4000ultra": "2026-11-12T13:41:21.810372-03:00",
   "insidertechtshirtgolaumasculina": "2026-11-12T13:49:14.020675-03:00",
-  "headsetgamerhyperxcloudiipretoevermelho": "2026-11-12T13:56:22.084387-03:00"
+  "headsetgamerhyperxcloudiipretoevermelho": "2026-11-12T13:56:22.084387-03:00",
+  "kitprotetorsolarlorealexpertisefps70": "2026-11-12T14:03:21.950770-03:00",
+  "tenisfilaprogresslitemasculino": "2026-11-12T14:11:26.933540-03:00",
+  "fonebluetoothsoundcorep20idaanker": "2026-11-12T14:17:39.303287-03:00",
+  "protetorsolarniveasunkidsbabiesfps60125ml": "2026-11-12T14:25:08.241883-03:00",
+  "tenisolympikuscorremax": "2026-11-12T14:32:25.697898-03:00",
+  "smartphonemotorolamotog775g256gb": "2026-11-12T14:38:59.656740-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
@@ -15399,7 +15424,7 @@
  "ig_dm_links": {},
  "story_link_dia": "2026-11-11",
  "pede_semana": "2026-46",
- "ultimo_garimpo": "2026-11-12T11:52:52-03:00",
+ "ultimo_garimpo": "2026-11-12T13:20:45-03:00",
  "vigia_aviso_post": "2026-11-09T18:27:03.734589-03:00",
  "vigia_aviso_garimpo": "2026-11-12T11:21:56.905199-03:00",
  "resumo_enviado": "2026-11-11",
@@ -15440,7 +15465,7 @@
   "marcas": "2026-11-12T11:59:03.820153-03:00"
  },
  "top10_dia": "2026-11-07",
- "manuais_lidos": "2026-11-12T13:49:13.640837-03:00",
+ "manuais_lidos": "2026-11-12T14:32:25.357320-03:00",
  "reserva_resultado": {
   "2026-11-07": {
    "achadinhos": {
@@ -15594,7 +15619,7 @@
    "hora": "2026-11-11T20:32:35.453128-03:00"
   }
  },
- "ig_respondido_em": "2026-11-12T13:56:18.503025-03:00",
+ "ig_respondido_em": "2026-11-12T14:38:56.498661-03:00",
  "dm_auto": {
   "2026-11-08": {
    "com_palavra": 0,
@@ -15946,7 +15971,7 @@
    "feed": 0
   },
   "2026-11-12": {
-   "story": 7,
+   "story": 8,
    "feed": 1
   }
  },
