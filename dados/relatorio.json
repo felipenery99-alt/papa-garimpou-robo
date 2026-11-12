@@ -2364,16 +2364,16 @@
   "erros": [
    "⚠️ Garimpo parado desde 11/11 18:50 — abrir o app Claude e conferir as rotinas\nPouca oferta na fila: marcas 2, tech 0."
   ],
-  "ultima_execucao": "08:17",
-  "execucoes": 4,
+  "ultima_execucao": "09:02",
+  "execucoes": 5,
   "telegram_posts": {
-   "achadinhos": 4,
-   "marcas": 1,
+   "achadinhos": 6,
+   "marcas": 6,
    "tech": 2
   },
   "ultimo_post": {
-   "achadinhos": "08:47",
-   "marcas": "08:32",
+   "achadinhos": "09:19",
+   "marcas": "09:48",
    "tech": "09:01"
   },
   "meta_token": {
@@ -2382,7 +2382,7 @@
    "vence": "não vence",
    "acesso_vence": "-"
   },
-  "ultimo_garimpo": "11/11 18:50",
+  "ultimo_garimpo": "12/11 08:48",
   "convites_story": {
    "story-20261101": 0,
    "story-20261102": 0,
@@ -2443,7 +2443,7 @@
    },
    "tech": {
     "busca": 0,
-    "quase": 1,
+    "quase": 2,
     "reprise": 0
    },
    "achadinhos": {
@@ -5065,28 +5065,42 @@
    "shopee-22394065827": "nota",
    "shopee-21599774279": "nota",
    "shopee-22594146487": "vendas longe",
-   "shopee-43335425038": "vendas longe"
+   "shopee-43335425038": "vendas longe",
+   "shopee-23793046202": "vendas longe",
+   "shopee-58257081737": "vendas longe",
+   "shopee-58257897588": "vendas longe",
+   "shopee-18255106550": "vendas longe",
+   "shopee-58264015152": "vendas longe",
+   "shopee-23695026280": "nota",
+   "shopee-58256296048": "desconto longe",
+   "shopee-28989018404": "desconto perto (até 10 pts)",
+   "shopee-58258890166": "vendas perto (125+)",
+   "shopee-58215579447": "nota",
+   "shopee-18499921197": "desconto perto (até 10 pts)",
+   "shopee-58250795411": "vendas perto (125+)",
+   "shopee-22094296933": "vendas longe",
+   "shopee-58271926582": "nota"
   },
   "shopee_oficial": {
-   "vendas longe": 1348,
-   "nota": 956,
-   "vendas perto (125+)": 97,
+   "vendas longe": 1354,
+   "nota": 959,
+   "vendas perto (125+)": 99,
    "aprovada": 70,
-   "desconto longe": 61,
+   "desconto longe": 62,
    "outro: marca fora da lista boa": 56,
-   "desconto perto (até 10 pts)": 18,
+   "desconto perto (até 10 pts)": 20,
    "outro: palavra proibida: compatível": 7
   },
   "instagram": {
    "seguidores": 466,
    "posts": 118,
-   "reach": 1330,
-   "profile_views": 59,
+   "reach": 1404,
+   "profile_views": 60,
    "website_clicks": 0,
    "stories_ativos": 25
   },
   "reels_alcance": {
-   "atualizado": "2026-11-12T08:17:20.373994-03:00",
+   "atualizado": "2026-11-12T09:02:36.457141-03:00",
    "itens": [
     {
      "id": "18230902090331796",
