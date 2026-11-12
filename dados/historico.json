@@ -1037,7 +1037,14 @@
   "2026-11-11 tech 20:48 amz-B0FKTPDBVL",
   "2026-11-11 achadinhos 20:55 amz-B097LRYSXW",
   "2026-11-11 marcas 21:01 amz-B0HC4X5798",
-  "2026-11-11 tech 21:09 amz-B0GPFCC9PK"
+  "2026-11-11 tech 21:09 amz-B0GPFCC9PK",
+  "2026-11-11 achadinhos 21:15 amz-B0CHT2X7X5",
+  "2026-11-11 achadinhos 21:18 amz-B0C2ZNDWK6",
+  "2026-11-11 marcas 21:25 amz-B0F9PXSDHS",
+  "2026-11-11 tech 21:32 amz-B00RM1EC1S",
+  "2026-11-11 achadinhos 21:39 amz-B077SYYBVZ",
+  "2026-11-11 marcas 21:46 amz-B0GL4RK6Z2",
+  "2026-11-11 tech 21:53 amz-B0GP36NXCM"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -2040,7 +2047,14 @@
   "amz-B0FKTPDBVL": "2026-11-11T20:48:02.396467-03:00",
   "amz-B097LRYSXW": "2026-11-11T20:55:21.787801-03:00",
   "amz-B0HC4X5798": "2026-11-11T21:01:49.943056-03:00",
-  "amz-B0GPFCC9PK": "2026-11-11T21:09:02.140540-03:00"
+  "amz-B0GPFCC9PK": "2026-11-11T21:09:02.140540-03:00",
+  "amz-B0CHT2X7X5": "2026-11-11T21:15:30.831786-03:00",
+  "amz-B0C2ZNDWK6": "2026-11-11T21:18:52.007823-03:00",
+  "amz-B0F9PXSDHS": "2026-11-11T21:25:33.858821-03:00",
+  "amz-B00RM1EC1S": "2026-11-11T21:32:11.601855-03:00",
+  "amz-B077SYYBVZ": "2026-11-11T21:39:26.788828-03:00",
+  "amz-B0GL4RK6Z2": "2026-11-11T21:46:01.411753-03:00",
+  "amz-B0GP36NXCM": "2026-11-11T21:53:18.496020-03:00"
  },
  "ofertas_dia": [
   {
@@ -12480,6 +12494,113 @@
    "valida_ate": "2026-11-12T22:00:00-03:00",
    "entrou": "2026-11-11T18:55:47.916885-03:00",
    "dia": "2026-11-11"
+  },
+  {
+   "id": "amz-B0CHT2X7X5",
+   "canal": "achadinhos",
+   "nome": "Britânia Ventilador BVT500 2 em 1 Maxx Force",
+   "preco_antigo": 288.17,
+   "preco": 171.91,
+   "desconto": 40,
+   "link": "https://www.amazon.com.br/dp/B0CHT2X7X5?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71RM5ukGREL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-12T22:00:00-03:00",
+   "gancho": "VENTILADOR 2 EM 1 COM 40% OFF",
+   "entrou": "2026-11-11T18:19:57.721704-03:00",
+   "dia": "2026-11-11"
+  },
+  {
+   "id": "amz-B0C2ZNDWK6",
+   "canal": "achadinhos",
+   "nome": "Conjunto de Bowls de Inox com Tampa Electrolux",
+   "preco_antigo": 159.9,
+   "preco": 72.11,
+   "desconto": 55,
+   "link": "https://www.amazon.com.br/dp/B0C2ZNDWK6?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51hUmO15FhL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-12T22:00:00-03:00",
+   "entrou": "2026-11-11T18:55:47.916885-03:00",
+   "dia": "2026-11-11"
+  },
+  {
+   "id": "amz-B0F9PXSDHS",
+   "canal": "marcas",
+   "nome": "Tênis Puma Court Classic Clean Masculino Preto",
+   "preco_antigo": 329.99,
+   "preco": 176.89,
+   "desconto": 46,
+   "link": "https://www.amazon.com.br/dp/B0F9PXSDHS?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/510Wn-LAWjL._AC_SL1200_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-12T22:00:00-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "entrou": "2026-11-11T18:55:47.916885-03:00",
+   "dia": "2026-11-11"
+  },
+  {
+   "id": "amz-B00RM1EC1S",
+   "canal": "tech",
+   "nome": "Pen Drive SanDisk Cruzer Blade 128GB",
+   "preco_antigo": 117.9,
+   "preco": 69.52,
+   "desconto": 41,
+   "link": "https://www.amazon.com.br/dp/B00RM1EC1S?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61DjwgS4cbL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-12T22:00:00-03:00",
+   "entrou": "2026-11-11T18:55:47.916885-03:00",
+   "dia": "2026-11-11"
+  },
+  {
+   "id": "amz-B077SYYBVZ",
+   "canal": "achadinhos",
+   "nome": "Jogo de Frigideiras Tramontina Turim Antiaderente 2 peças",
+   "preco_antigo": 80.78,
+   "preco": 48.44,
+   "desconto": 40,
+   "link": "https://www.amazon.com.br/dp/B077SYYBVZ?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51-qapztIfL._AC_SL1200_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-12T22:00:00-03:00",
+   "entrou": "2026-11-11T18:55:47.916885-03:00",
+   "dia": "2026-11-11"
+  },
+  {
+   "id": "amz-B0GL4RK6Z2",
+   "canal": "marcas",
+   "nome": "Copo Stanley Everyday Tumbler Texturizado 473ml",
+   "preco_antigo": 199.0,
+   "preco": 104.5,
+   "desconto": 47,
+   "link": "https://www.amazon.com.br/dp/B0GL4RK6Z2?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/416thm-I-zL._AC_SL1200_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-12T22:00:00-03:00",
+   "entrou": "2026-11-11T18:55:47.916885-03:00",
+   "dia": "2026-11-11"
+  },
+  {
+   "id": "amz-B0GP36NXCM",
+   "canal": "tech",
+   "nome": "Headset Gamer JBL Quantum 100M2 com microfone removível",
+   "preco_antigo": 199.0,
+   "preco": 139.9,
+   "desconto": 30,
+   "link": "https://www.amazon.com.br/dp/B0GP36NXCM?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61dk8ozePdL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-12T22:00:00-03:00",
+   "entrou": "2026-11-11T18:55:47.916885-03:00",
+   "dia": "2026-11-11"
   }
  ],
  "ig_feitos": [
@@ -12641,10 +12762,11 @@
   "2026-11-11 feed",
   "2026-11-11 20:30 reels",
   "2026-11-11 20:35 story_top4",
-  "2026-11-11 20:38 story_oferta"
+  "2026-11-11 20:38 story_oferta",
+  "2026-11-11 21:20 story_convite",
+  "2026-11-11 21:24 story_oferta"
  ],
  "ig_ofertas_usadas": [
-  "amz-B0GHZ991LG",
   "amz-B09KMW2N9Z",
   "amz-B0BYK9KP3W",
   "amz-B08TMCHQJM",
@@ -12843,7 +12965,8 @@
   "shopee-58209674409",
   "amz-B0BTHPZ9J4",
   "amz-B0CT5WQHH4",
-  "amz-B0DQLSG6YK"
+  "amz-B0DQLSG6YK",
+  "amz-B0DYVTZ89P"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
@@ -12909,49 +13032,6 @@
  },
  "ultimo_pilar": "dica",
  "fila": [
-  {
-   "id": "amz-B0CHT2X7X5",
-   "canal": "achadinhos",
-   "nome": "Britânia Ventilador BVT500 2 em 1 Maxx Force",
-   "preco_antigo": 288.17,
-   "preco": 171.91,
-   "desconto": 40,
-   "link": "https://www.amazon.com.br/dp/B0CHT2X7X5?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/71RM5ukGREL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-12T22:00:00-03:00",
-   "gancho": "VENTILADOR 2 EM 1 COM 40% OFF",
-   "entrou": "2026-11-11T18:19:57.721704-03:00"
-  },
-  {
-   "id": "amz-B0C2ZNDWK6",
-   "canal": "achadinhos",
-   "nome": "Conjunto de Bowls de Inox com Tampa Electrolux",
-   "preco_antigo": 159.9,
-   "preco": 72.11,
-   "desconto": 55,
-   "link": "https://www.amazon.com.br/dp/B0C2ZNDWK6?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51hUmO15FhL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-12T22:00:00-03:00",
-   "entrou": "2026-11-11T18:55:47.916885-03:00"
-  },
-  {
-   "id": "amz-B077SYYBVZ",
-   "canal": "achadinhos",
-   "nome": "Jogo de Frigideiras Tramontina Turim Antiaderente 2 peças",
-   "preco_antigo": 80.78,
-   "preco": 48.44,
-   "desconto": 40,
-   "link": "https://www.amazon.com.br/dp/B077SYYBVZ?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51-qapztIfL._AC_SL1200_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-12T22:00:00-03:00",
-   "entrou": "2026-11-11T18:55:47.916885-03:00"
-  },
   {
    "id": "amz-B0DY2MB9WT",
    "canal": "achadinhos",
@@ -13027,35 +13107,6 @@
    "entrou": "2026-11-11T18:55:47.916885-03:00"
   },
   {
-   "id": "amz-B0F9PXSDHS",
-   "canal": "marcas",
-   "nome": "Tênis Puma Court Classic Clean Masculino Preto",
-   "preco_antigo": 329.99,
-   "preco": 176.89,
-   "desconto": 46,
-   "link": "https://www.amazon.com.br/dp/B0F9PXSDHS?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/510Wn-LAWjL._AC_SL1200_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-12T22:00:00-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "entrou": "2026-11-11T18:55:47.916885-03:00"
-  },
-  {
-   "id": "amz-B0GL4RK6Z2",
-   "canal": "marcas",
-   "nome": "Copo Stanley Everyday Tumbler Texturizado 473ml",
-   "preco_antigo": 199.0,
-   "preco": 104.5,
-   "desconto": 47,
-   "link": "https://www.amazon.com.br/dp/B0GL4RK6Z2?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/416thm-I-zL._AC_SL1200_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-12T22:00:00-03:00",
-   "entrou": "2026-11-11T18:55:47.916885-03:00"
-  },
-  {
    "id": "amz-B0BNP2NSRT",
    "canal": "marcas",
    "nome": "Camiseta Básica Hering Super Cotton com Bolso Masculina",
@@ -13080,34 +13131,6 @@
    "link": "https://www.amazon.com.br/dp/B0GZX5BR6D?tag=papagarimpou-20",
    "imagem": "https://m.media-amazon.com/images/I/810r-B1lg2L._AC_SL1500_.jpg",
    "loja": "Loja oficial Integralmédica",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-12T22:00:00-03:00",
-   "entrou": "2026-11-11T18:55:47.916885-03:00"
-  },
-  {
-   "id": "amz-B00RM1EC1S",
-   "canal": "tech",
-   "nome": "Pen Drive SanDisk Cruzer Blade 128GB",
-   "preco_antigo": 117.9,
-   "preco": 69.52,
-   "desconto": 41,
-   "link": "https://www.amazon.com.br/dp/B00RM1EC1S?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61DjwgS4cbL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-12T22:00:00-03:00",
-   "entrou": "2026-11-11T18:55:47.916885-03:00"
-  },
-  {
-   "id": "amz-B0GP36NXCM",
-   "canal": "tech",
-   "nome": "Headset Gamer JBL Quantum 100M2 com microfone removível",
-   "preco_antigo": 199.0,
-   "preco": 139.9,
-   "desconto": 30,
-   "link": "https://www.amazon.com.br/dp/B0GP36NXCM?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61dk8ozePdL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
    "plataforma": "Amazon",
    "valida_ate": "2026-11-12T22:00:00-03:00",
    "entrou": "2026-11-11T18:55:47.916885-03:00"
@@ -13967,7 +13990,14 @@
   "headsetgamerjblquantum250branco": "2026-11-11T20:48:02.396467-03:00",
   "philcoescovasecadorapes14soft1300wbivolt": "2026-11-11T20:55:21.787801-03:00",
   "tenisasicsgelbackhand2feminino": "2026-11-11T21:01:49.943056-03:00",
-  "caixadesomjblpartyboxonthego2100wpreta": "2026-11-11T21:09:02.140540-03:00"
+  "caixadesomjblpartyboxonthego2100wpreta": "2026-11-11T21:09:02.140540-03:00",
+  "britaniaventiladorbvt5002em1maxxforce": "2026-11-11T21:15:30.831786-03:00",
+  "conjuntodebowlsdeinoxcomtampaelectrolux": "2026-11-11T21:18:52.007823-03:00",
+  "tenispumacourtclassiccleanmasculinopreto": "2026-11-11T21:25:33.858821-03:00",
+  "pendrivesandiskcruzerblade128gb": "2026-11-11T21:32:11.601855-03:00",
+  "jogodefrigideirastramontinaturimantiaderente2pecas": "2026-11-11T21:39:26.788828-03:00",
+  "copostanleyeverydaytumblertexturizado473ml": "2026-11-11T21:46:01.411753-03:00",
+  "headsetgamerjblquantum100m2commicrofoneremovivel": "2026-11-11T21:53:18.496020-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
@@ -14236,7 +14266,7 @@
    "entradas": []
   }
  },
- "tg_offset": 354369949,
+ "tg_offset": 354369950,
  "adivinha": {
   "dia": "2026-11-11",
   "oferta": {
@@ -14301,7 +14331,7 @@
   "marcas": "2026-11-11T12:51:21.081776-03:00"
  },
  "top10_dia": "2026-11-07",
- "manuais_lidos": "2026-11-11T21:01:49.513779-03:00",
+ "manuais_lidos": "2026-11-11T21:46:01.107495-03:00",
  "reserva_resultado": {
   "2026-11-07": {
    "achadinhos": {
@@ -14438,7 +14468,7 @@
    "hora": "2026-11-11T20:32:35.453128-03:00"
   }
  },
- "ig_respondido_em": "2026-11-11T21:08:58.029800-03:00",
+ "ig_respondido_em": "2026-11-11T21:53:15.440597-03:00",
  "dm_auto": {
   "2026-11-08": {
    "com_palavra": 0,
