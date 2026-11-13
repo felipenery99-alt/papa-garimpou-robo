@@ -1198,7 +1198,14 @@
   "2026-11-13 tech 14:45 amz-B0GQWP9K1G",
   "2026-11-13 achadinhos 14:52 amz-B0GW48ZKYM",
   "2026-11-13 marcas 15:00 amz-B0GFXYPXYC",
-  "2026-11-13 tech 15:07 amz-B0CY1PJ2CN"
+  "2026-11-13 tech 15:07 amz-B0CY1PJ2CN",
+  "2026-11-13 achadinhos 15:16 amz-B07YF6CJXL",
+  "2026-11-13 achadinhos 15:18 amz-B0CQKB4VMG",
+  "2026-11-13 marcas 15:25 amz-B0DT4X7WT7",
+  "2026-11-13 tech 15:32 amz-B0GD7CFFVT",
+  "2026-11-13 achadinhos 15:39 amz-B0GNCJSWF5",
+  "2026-11-13 marcas 15:45 amz-B0GWS4JSN2",
+  "2026-11-13 tech 15:53 amz-B0DWQK1Q8S"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -2349,7 +2356,14 @@
   "amz-B0GQWP9K1G": "2026-11-13T14:45:29.495380-03:00",
   "amz-B0GW48ZKYM": "2026-11-13T14:52:44.581971-03:00",
   "amz-B0GFXYPXYC": "2026-11-13T15:00:37.641712-03:00",
-  "amz-B0CY1PJ2CN": "2026-11-13T15:07:01.352228-03:00"
+  "amz-B0CY1PJ2CN": "2026-11-13T15:07:01.352228-03:00",
+  "amz-B07YF6CJXL": "2026-11-13T15:16:13.272406-03:00",
+  "amz-B0CQKB4VMG": "2026-11-13T15:18:25.641072-03:00",
+  "amz-B0DT4X7WT7": "2026-11-13T15:25:25.698380-03:00",
+  "amz-B0GD7CFFVT": "2026-11-13T15:32:14.320416-03:00",
+  "amz-B0GNCJSWF5": "2026-11-13T15:39:27.087494-03:00",
+  "amz-B0GWS4JSN2": "2026-11-13T15:45:56.602354-03:00",
+  "amz-B0DWQK1Q8S": "2026-11-13T15:53:35.133036-03:00"
  },
  "ofertas_dia": [
   {
@@ -15419,6 +15433,126 @@
    "preco_em": "2026-11-13T13:17:22-03:00",
    "entrou": "2026-11-13T13:31:30.561860-03:00",
    "dia": "2026-11-13"
+  },
+  {
+   "id": "amz-B07YF6CJXL",
+   "canal": "achadinhos",
+   "nome": "Lavadora de alta pressão WAP Combate Turbo 2600",
+   "preco_antigo": 1539.9,
+   "preco": 799.0,
+   "desconto": 48,
+   "link": "https://www.amazon.com.br/dp/B07YF6CJXL?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/81xlYGflETL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-14T22:00:00-03:00",
+   "coletado_em": "2026-11-13T13:18:01-03:00",
+   "preco_em": "2026-11-13T13:18:01-03:00",
+   "entrou": "2026-11-13T13:31:30.561860-03:00",
+   "dia": "2026-11-13"
+  },
+  {
+   "id": "amz-B0CQKB4VMG",
+   "canal": "achadinhos",
+   "nome": "Sérum L'Oréal Elseve Glycolic Gloss antiporosidade 100 ml",
+   "preco_antigo": 44.89,
+   "preco": 21.9,
+   "desconto": 51,
+   "link": "https://www.amazon.com.br/dp/B0CQKB4VMG?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61OVHzo7nEL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-14T22:00:00-03:00",
+   "coletado_em": "2026-11-13T13:18:20-03:00",
+   "preco_em": "2026-11-13T13:18:20-03:00",
+   "entrou": "2026-11-13T13:31:30.561860-03:00",
+   "dia": "2026-11-13"
+  },
+  {
+   "id": "amz-B0DT4X7WT7",
+   "canal": "marcas",
+   "nome": "Perfume Azzaro Wanted Forever Elixir 50 ml",
+   "preco_antigo": 799.0,
+   "preco": 598.78,
+   "desconto": 25,
+   "link": "https://www.amazon.com.br/dp/B0DT4X7WT7?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61zY8kAVR5L._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-14T22:00:00-03:00",
+   "coletado_em": "2026-11-13T13:17:51-03:00",
+   "preco_em": "2026-11-13T13:17:51-03:00",
+   "entrou": "2026-11-13T13:31:30.561860-03:00",
+   "dia": "2026-11-13"
+  },
+  {
+   "id": "amz-B0GD7CFFVT",
+   "canal": "tech",
+   "nome": "Controle GameSir G7 Pro sem fio para Xbox, PC e Android",
+   "preco_antigo": 899.0,
+   "preco": 512.98,
+   "desconto": 43,
+   "link": "https://www.amazon.com.br/dp/B0GD7CFFVT?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71svKYpuyeL._AC_SL1500_.jpg",
+   "loja": "Loja oficial GameSir · entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-14T22:00:00-03:00",
+   "coletado_em": "2026-11-13T13:17:24-03:00",
+   "preco_em": "2026-11-13T13:17:24-03:00",
+   "entrou": "2026-11-13T13:31:30.561860-03:00",
+   "dia": "2026-11-13"
+  },
+  {
+   "id": "amz-B0GNCJSWF5",
+   "canal": "achadinhos",
+   "nome": "Cafeteira espresso automática Mondial Dolce Latte 20 bar",
+   "preco_antigo": 1546.9,
+   "preco": 851.31,
+   "desconto": 45,
+   "link": "https://www.amazon.com.br/dp/B0GNCJSWF5?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51D04KXWjcL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-14T22:00:00-03:00",
+   "coletado_em": "2026-11-13T13:18:31-03:00",
+   "preco_em": "2026-11-13T13:18:31-03:00",
+   "entrou": "2026-11-13T13:31:30.561860-03:00",
+   "dia": "2026-11-13"
+  },
+  {
+   "id": "amz-B0GWS4JSN2",
+   "canal": "marcas",
+   "nome": "Kit 4 cuecas boxer Lupo de algodão",
+   "preco_antigo": 176.99,
+   "preco": 66.49,
+   "desconto": 62,
+   "link": "https://www.amazon.com.br/dp/B0GWS4JSN2?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/81bXmPOjkUL._AC_SL1500_.jpg",
+   "loja": "Vendido por parceiro · entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-14T22:00:00-03:00",
+   "coletado_em": "2026-11-13T13:17:43-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "preco_em": "2026-11-13T13:17:43-03:00",
+   "entrou": "2026-11-13T13:31:30.561860-03:00",
+   "dia": "2026-11-13"
+  },
+  {
+   "id": "amz-B0DWQK1Q8S",
+   "canal": "tech",
+   "nome": "Monitor gamer Samsung Odyssey G5 27\" QHD 165 Hz",
+   "preco_antigo": 1299.0,
+   "preco": 895.22,
+   "desconto": 31,
+   "link": "https://www.amazon.com.br/dp/B0DWQK1Q8S?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61Jv+Gj6aBL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-14T22:00:00-03:00",
+   "coletado_em": "2026-11-13T13:17:15-03:00",
+   "preco_em": "2026-11-13T13:17:15-03:00",
+   "entrou": "2026-11-13T13:31:30.561860-03:00",
+   "dia": "2026-11-13"
   }
  ],
  "ig_feitos": [
@@ -15816,70 +15950,6 @@
  "ultimo_pilar": "humor",
  "fila": [
   {
-   "id": "amz-B077C3SY25",
-   "canal": "achadinhos",
-   "nome": "Protetor solar corporal L'Oréal Solar Expertise FPS 70, 200 ml",
-   "preco_antigo": 99.69,
-   "preco": 66.41,
-   "desconto": 33,
-   "link": "https://www.amazon.com.br/dp/B077C3SY25?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61Y2s7uyYdL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-14T22:00:00-03:00",
-   "coletado_em": "2026-11-13T13:18:14-03:00",
-   "preco_em": "2026-11-13T13:18:14-03:00",
-   "entrou": "2026-11-13T13:31:30.561860-03:00"
-  },
-  {
-   "id": "amz-B07YF6CJXL",
-   "canal": "achadinhos",
-   "nome": "Lavadora de alta pressão WAP Combate Turbo 2600",
-   "preco_antigo": 1539.9,
-   "preco": 799.0,
-   "desconto": 48,
-   "link": "https://www.amazon.com.br/dp/B07YF6CJXL?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/81xlYGflETL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-14T22:00:00-03:00",
-   "coletado_em": "2026-11-13T13:18:01-03:00",
-   "preco_em": "2026-11-13T13:18:01-03:00",
-   "entrou": "2026-11-13T13:31:30.561860-03:00"
-  },
-  {
-   "id": "amz-B0CQKB4VMG",
-   "canal": "achadinhos",
-   "nome": "Sérum L'Oréal Elseve Glycolic Gloss antiporosidade 100 ml",
-   "preco_antigo": 44.89,
-   "preco": 21.9,
-   "desconto": 51,
-   "link": "https://www.amazon.com.br/dp/B0CQKB4VMG?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61OVHzo7nEL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-14T22:00:00-03:00",
-   "coletado_em": "2026-11-13T13:18:20-03:00",
-   "preco_em": "2026-11-13T13:18:20-03:00",
-   "entrou": "2026-11-13T13:31:30.561860-03:00"
-  },
-  {
-   "id": "amz-B0GNCJSWF5",
-   "canal": "achadinhos",
-   "nome": "Cafeteira espresso automática Mondial Dolce Latte 20 bar",
-   "preco_antigo": 1546.9,
-   "preco": 851.31,
-   "desconto": 45,
-   "link": "https://www.amazon.com.br/dp/B0GNCJSWF5?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51D04KXWjcL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-14T22:00:00-03:00",
-   "coletado_em": "2026-11-13T13:18:31-03:00",
-   "preco_em": "2026-11-13T13:18:31-03:00",
-   "entrou": "2026-11-13T13:31:30.561860-03:00"
-  },
-  {
    "id": "amz-B0C2DL4CJW",
    "canal": "achadinhos",
    "nome": "Creme antirrugas L'Oréal Revitalift Pro Retinol diurno",
@@ -15989,39 +16059,6 @@
    "valida_ate": "2026-11-14T22:00:00-03:00",
    "coletado_em": "2026-11-13T13:18:27-03:00",
    "preco_em": "2026-11-13T13:18:27-03:00",
-   "entrou": "2026-11-13T13:31:30.561860-03:00"
-  },
-  {
-   "id": "amz-B0DT4X7WT7",
-   "canal": "marcas",
-   "nome": "Perfume Azzaro Wanted Forever Elixir 50 ml",
-   "preco_antigo": 799.0,
-   "preco": 598.78,
-   "desconto": 25,
-   "link": "https://www.amazon.com.br/dp/B0DT4X7WT7?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61zY8kAVR5L._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-14T22:00:00-03:00",
-   "coletado_em": "2026-11-13T13:17:51-03:00",
-   "preco_em": "2026-11-13T13:17:51-03:00",
-   "entrou": "2026-11-13T13:31:30.561860-03:00"
-  },
-  {
-   "id": "amz-B0GWS4JSN2",
-   "canal": "marcas",
-   "nome": "Kit 4 cuecas boxer Lupo de algodão",
-   "preco_antigo": 176.99,
-   "preco": 66.49,
-   "desconto": 62,
-   "link": "https://www.amazon.com.br/dp/B0GWS4JSN2?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/81bXmPOjkUL._AC_SL1500_.jpg",
-   "loja": "Vendido por parceiro · entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-14T22:00:00-03:00",
-   "coletado_em": "2026-11-13T13:17:43-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "preco_em": "2026-11-13T13:17:43-03:00",
    "entrou": "2026-11-13T13:31:30.561860-03:00"
   },
   {
@@ -16261,38 +16298,6 @@
    "entrou": "2026-11-13T13:31:30.561860-03:00"
   },
   {
-   "id": "amz-B0GD7CFFVT",
-   "canal": "tech",
-   "nome": "Controle GameSir G7 Pro sem fio para Xbox, PC e Android",
-   "preco_antigo": 899.0,
-   "preco": 512.98,
-   "desconto": 43,
-   "link": "https://www.amazon.com.br/dp/B0GD7CFFVT?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/71svKYpuyeL._AC_SL1500_.jpg",
-   "loja": "Loja oficial GameSir · entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-14T22:00:00-03:00",
-   "coletado_em": "2026-11-13T13:17:24-03:00",
-   "preco_em": "2026-11-13T13:17:24-03:00",
-   "entrou": "2026-11-13T13:31:30.561860-03:00"
-  },
-  {
-   "id": "amz-B0DWQK1Q8S",
-   "canal": "tech",
-   "nome": "Monitor gamer Samsung Odyssey G5 27\" QHD 165 Hz",
-   "preco_antigo": 1299.0,
-   "preco": 895.22,
-   "desconto": 31,
-   "link": "https://www.amazon.com.br/dp/B0DWQK1Q8S?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61Jv+Gj6aBL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-14T22:00:00-03:00",
-   "coletado_em": "2026-11-13T13:17:15-03:00",
-   "preco_em": "2026-11-13T13:17:15-03:00",
-   "entrou": "2026-11-13T13:31:30.561860-03:00"
-  },
-  {
    "id": "amz-B0F7T2Y46Y",
    "canal": "tech",
    "nome": "Caixa de som JBL Flip 7 Bluetooth 25 W, preta",
@@ -16355,6 +16360,22 @@
    "coletado_em": "2026-11-13T13:17:51-03:00",
    "preco_em": "2026-11-13T13:17:51-03:00",
    "entrou": "2026-11-13T14:52:41.668704-03:00"
+  },
+  {
+   "id": "amz-B077C3SY25",
+   "canal": "achadinhos",
+   "nome": "Protetor solar corporal L'Oréal Solar Expertise FPS 70, 200 ml",
+   "preco_antigo": 99.69,
+   "preco": 66.41,
+   "desconto": 33,
+   "link": "https://www.amazon.com.br/dp/B077C3SY25?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61Y2s7uyYdL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-14T22:00:00-03:00",
+   "coletado_em": "2026-11-13T13:18:14-03:00",
+   "preco_em": "2026-11-13T13:18:14-03:00",
+   "entrou": "2026-11-13T15:18:25.205384-03:00"
   }
  ],
  "menus_fixados": [
@@ -17357,7 +17378,14 @@
   "appleiphone17256gbsalvia": "2026-11-13T14:45:29.495380-03:00",
   "fraldapamperspantsajustetotalg90unidades": "2026-11-13T14:52:44.581971-03:00",
   "camisetabasicaaramis": "2026-11-13T15:00:37.641712-03:00",
-  "controlegamesirkaleidcomfioparaxboxepchalleffect": "2026-11-13T15:07:01.352228-03:00"
+  "controlegamesirkaleidcomfioparaxboxepchalleffect": "2026-11-13T15:07:01.352228-03:00",
+  "lavadoradealtapressaowapcombateturbo2600": "2026-11-13T15:16:13.272406-03:00",
+  "serumlorealelseveglycolicglossantiporosidade100ml": "2026-11-13T15:18:25.641072-03:00",
+  "perfumeazzarowantedforeverelixir50ml": "2026-11-13T15:25:25.698380-03:00",
+  "controlegamesirg7prosemfioparaxboxpceandroid": "2026-11-13T15:32:14.320416-03:00",
+  "cafeteiraespressoautomaticamondialdolcelatte20bar": "2026-11-13T15:39:27.087494-03:00",
+  "kit4cuecasboxerlupodealgodao": "2026-11-13T15:45:56.602354-03:00",
+  "monitorgamersamsungodysseyg527qhd165hz": "2026-11-13T15:53:35.133036-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
@@ -17730,7 +17758,7 @@
   "marcas": "2026-11-12T17:56:29.409807-03:00"
  },
  "top10_dia": "2026-11-07",
- "manuais_lidos": "2026-11-13T15:07:01.005989-03:00",
+ "manuais_lidos": "2026-11-13T15:45:56.178241-03:00",
  "reserva_resultado": {
   "2026-11-07": {
    "achadinhos": {
@@ -17901,7 +17929,7 @@
    "hora": "2026-11-11T20:32:35.453128-03:00"
   }
  },
- "ig_respondido_em": "2026-11-13T15:00:21.637774-03:00",
+ "ig_respondido_em": "2026-11-13T15:53:29.691116-03:00",
  "dm_auto": {
   "2026-11-08": {
    "com_palavra": 0,

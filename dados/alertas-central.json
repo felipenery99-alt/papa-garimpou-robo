@@ -40,5 +40,11 @@
   "vezes": 1,
   "ultimo": "2026-11-13T17:39+00:00",
   "texto": "erro em 2026-11-13 marcas 14:39 amz-B0F1CLCF3T: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer')). Não postei."
+ },
+ "erro em #-#-# achadinhos #:# amz-B#C#SY#: ('Connection aborted.', ConnectionRese": {
+  "primeiro": "2026-11-13T18:14+00:00",
+  "vezes": 1,
+  "ultimo": "2026-11-13T18:14+00:00",
+  "texto": "erro em 2026-11-13 achadinhos 15:14 amz-B077C3SY25: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer')). Não postei."
  }
 }
