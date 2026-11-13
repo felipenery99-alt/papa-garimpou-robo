@@ -1156,7 +1156,13 @@
   "2026-11-13 tech 09:22 amz-B0GHZYTTVQ",
   "2026-11-13 achadinhos 09:29 amz-B0F4G5L639",
   "2026-11-13 marcas 09:35 amz-B000E7YK5K",
-  "2026-11-13 tech 09:44 amz-B0FK1NJLXB"
+  "2026-11-13 tech 09:44 amz-B0FK1NJLXB",
+  "2026-11-13 achadinhos 09:51 amz-B000P275F6",
+  "2026-11-13 achadinhos 09:56 amz-B0D9PL8638",
+  "2026-11-13 marcas 10:03 amz-B0GM3L1XBC",
+  "2026-11-13 achadinhos 10:18 amz-B0CJ9RX15Q",
+  "2026-11-13 marcas 10:26 amz-B0G5B3BV91",
+  "2026-11-13 tech 10:33 amz-B0H46DBZS8"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -2271,7 +2277,13 @@
   "amz-B0GHZYTTVQ": "2026-11-13T09:22:25.583236-03:00",
   "amz-B0F4G5L639": "2026-11-13T09:29:30.641546-03:00",
   "amz-B000E7YK5K": "2026-11-13T09:35:53.262163-03:00",
-  "amz-B0FK1NJLXB": "2026-11-13T09:44:02.002647-03:00"
+  "amz-B0FK1NJLXB": "2026-11-13T09:44:02.002647-03:00",
+  "amz-B000P275F6": "2026-11-13T09:51:01.625988-03:00",
+  "amz-B0D9PL8638": "2026-11-13T09:56:33.448031-03:00",
+  "amz-B0GM3L1XBC": "2026-11-13T10:03:24.756594-03:00",
+  "amz-B0CJ9RX15Q": "2026-11-13T10:18:13.749504-03:00",
+  "amz-B0G5B3BV91": "2026-11-13T10:26:06.398429-03:00",
+  "amz-B0H46DBZS8": "2026-11-13T10:33:18.779609-03:00"
  },
  "ofertas_dia": [
   {
@@ -14668,6 +14680,110 @@
    "preco_em": "2026-11-13T08:17:15-03:00",
    "entrou": "2026-11-13T08:17:33.727221-03:00",
    "dia": "2026-11-13"
+  },
+  {
+   "id": "amz-B000P275F6",
+   "canal": "achadinhos",
+   "nome": "Perfume Nautica Voyage EDT 50ml",
+   "preco_antigo": 139.0,
+   "preco": 78.18,
+   "desconto": 44,
+   "link": "https://www.amazon.com.br/dp/B000P275F6?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/41EKpTzg5JL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-14T22:00:00-03:00",
+   "coletado_em": "2026-11-13T08:17:15-03:00",
+   "preco_em": "2026-11-13T08:17:15-03:00",
+   "entrou": "2026-11-13T08:17:33.727221-03:00",
+   "dia": "2026-11-13"
+  },
+  {
+   "id": "amz-B0D9PL8638",
+   "canal": "achadinhos",
+   "nome": "Aspirador Vertical Britânia BAS30 2 em 1 1400W",
+   "preco_antigo": 234.6,
+   "preco": 109.0,
+   "desconto": 54,
+   "link": "https://www.amazon.com.br/dp/B0D9PL8638?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/41BWOPa7xqL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-14T22:00:00-03:00",
+   "coletado_em": "2026-11-13T08:17:15-03:00",
+   "preco_em": "2026-11-13T08:17:15-03:00",
+   "entrou": "2026-11-13T08:17:33.727221-03:00",
+   "dia": "2026-11-13"
+  },
+  {
+   "id": "amz-B0GM3L1XBC",
+   "canal": "marcas",
+   "nome": "Tênis Olympikus Apolis feminino",
+   "preco_antigo": 229.9,
+   "preco": 117.32,
+   "desconto": 49,
+   "link": "https://www.amazon.com.br/dp/B0GM3L1XBC?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61JHvDzBEGL._AC_SL1500_.jpg",
+   "loja": "Vendido por parceiro · entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-14T22:00:00-03:00",
+   "coletado_em": "2026-11-13T08:17:15-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "preco_em": "2026-11-13T08:17:15-03:00",
+   "entrou": "2026-11-13T08:17:33.727221-03:00",
+   "dia": "2026-11-13"
+  },
+  {
+   "id": "amz-B0CJ9RX15Q",
+   "canal": "achadinhos",
+   "nome": "Escova de Dente Oral-B Black extra macia 2 un",
+   "preco_antigo": 22.0,
+   "preco": 12.84,
+   "desconto": 42,
+   "link": "https://www.amazon.com.br/dp/B0CJ9RX15Q?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51ZjuIa-A3L._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-14T22:00:00-03:00",
+   "coletado_em": "2026-11-13T08:17:15-03:00",
+   "preco_em": "2026-11-13T08:17:15-03:00",
+   "entrou": "2026-11-13T08:17:33.727221-03:00",
+   "dia": "2026-11-13"
+  },
+  {
+   "id": "amz-B0G5B3BV91",
+   "canal": "marcas",
+   "nome": "Kit 2 Camisetas Dry Fit Speedo masculinas",
+   "preco_antigo": 78.99,
+   "preco": 56.99,
+   "desconto": 28,
+   "link": "https://www.amazon.com.br/dp/B0G5B3BV91?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71VNbLfs-QL._AC_SL1500_.jpg",
+   "loja": "Vendido por parceiro · entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-14T22:00:00-03:00",
+   "coletado_em": "2026-11-13T08:17:15-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "preco_em": "2026-11-13T08:17:15-03:00",
+   "entrou": "2026-11-13T08:17:33.727221-03:00",
+   "dia": "2026-11-13"
+  },
+  {
+   "id": "amz-B0H46DBZS8",
+   "canal": "tech",
+   "nome": "Fone JBL Live Beam 4 com tela e cancelamento de ruído",
+   "preco_antigo": 999.0,
+   "preco": 699.0,
+   "desconto": 30,
+   "link": "https://www.amazon.com.br/dp/B0H46DBZS8?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61PUJCNx5sL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-14T22:00:00-03:00",
+   "coletado_em": "2026-11-13T08:17:15-03:00",
+   "preco_em": "2026-11-13T08:17:15-03:00",
+   "entrou": "2026-11-13T08:17:33.727221-03:00",
+   "dia": "2026-11-13"
   }
  ],
  "ig_feitos": [
@@ -14781,7 +14897,8 @@
   "2026-11-12 21:20 story_convite",
   "2026-11-13 08:07 story_oferta",
   "2026-11-13 08:52 story_oferta",
-  "2026-11-13 09:40 story_convite"
+  "2026-11-13 09:40 story_convite",
+  "2026-11-13 10:20 story_oferta"
  ],
  "ig_ofertas_usadas": [
   "amz-B08XQWLDKP",
@@ -15045,61 +15162,14 @@
   "dc-kit-meia": "2026-11-07",
   "bf-2026-11-12": "2026-11-12",
   "dc-lista-desejo": "2026-11-13",
-  "bf-2026-11-13": "2026-11-13"
+  "bf-2026-11-13": "2026-11-13",
+  "dc-troca": "2026-11-13"
  },
  "pecas_dia": {
-  "2026-11-13": 2
+  "2026-11-13": 3
  },
- "ultimo_pilar": "blackfriday",
+ "ultimo_pilar": "dica",
  "fila": [
-  {
-   "id": "amz-B000P275F6",
-   "canal": "achadinhos",
-   "nome": "Perfume Nautica Voyage EDT 50ml",
-   "preco_antigo": 139.0,
-   "preco": 78.18,
-   "desconto": 44,
-   "link": "https://www.amazon.com.br/dp/B000P275F6?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/41EKpTzg5JL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-14T22:00:00-03:00",
-   "coletado_em": "2026-11-13T08:17:15-03:00",
-   "preco_em": "2026-11-13T08:17:15-03:00",
-   "entrou": "2026-11-13T08:17:33.727221-03:00"
-  },
-  {
-   "id": "amz-B0D9PL8638",
-   "canal": "achadinhos",
-   "nome": "Aspirador Vertical Britânia BAS30 2 em 1 1400W",
-   "preco_antigo": 234.6,
-   "preco": 109.0,
-   "desconto": 54,
-   "link": "https://www.amazon.com.br/dp/B0D9PL8638?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/41BWOPa7xqL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-14T22:00:00-03:00",
-   "coletado_em": "2026-11-13T08:17:15-03:00",
-   "preco_em": "2026-11-13T08:17:15-03:00",
-   "entrou": "2026-11-13T08:17:33.727221-03:00"
-  },
-  {
-   "id": "amz-B0CJ9RX15Q",
-   "canal": "achadinhos",
-   "nome": "Escova de Dente Oral-B Black extra macia 2 un",
-   "preco_antigo": 22.0,
-   "preco": 12.84,
-   "desconto": 42,
-   "link": "https://www.amazon.com.br/dp/B0CJ9RX15Q?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51ZjuIa-A3L._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-14T22:00:00-03:00",
-   "coletado_em": "2026-11-13T08:17:15-03:00",
-   "preco_em": "2026-11-13T08:17:15-03:00",
-   "entrou": "2026-11-13T08:17:33.727221-03:00"
-  },
   {
    "id": "amz-B0HG3BRBPC",
    "canal": "achadinhos",
@@ -15129,40 +15199,6 @@
    "plataforma": "Amazon",
    "valida_ate": "2026-11-14T22:00:00-03:00",
    "coletado_em": "2026-11-13T08:17:15-03:00",
-   "preco_em": "2026-11-13T08:17:15-03:00",
-   "entrou": "2026-11-13T08:17:33.727221-03:00"
-  },
-  {
-   "id": "amz-B0GM3L1XBC",
-   "canal": "marcas",
-   "nome": "Tênis Olympikus Apolis feminino",
-   "preco_antigo": 229.9,
-   "preco": 117.32,
-   "desconto": 49,
-   "link": "https://www.amazon.com.br/dp/B0GM3L1XBC?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61JHvDzBEGL._AC_SL1500_.jpg",
-   "loja": "Vendido por parceiro · entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-14T22:00:00-03:00",
-   "coletado_em": "2026-11-13T08:17:15-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "preco_em": "2026-11-13T08:17:15-03:00",
-   "entrou": "2026-11-13T08:17:33.727221-03:00"
-  },
-  {
-   "id": "amz-B0G5B3BV91",
-   "canal": "marcas",
-   "nome": "Kit 2 Camisetas Dry Fit Speedo masculinas",
-   "preco_antigo": 78.99,
-   "preco": 56.99,
-   "desconto": 28,
-   "link": "https://www.amazon.com.br/dp/B0G5B3BV91?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/71VNbLfs-QL._AC_SL1500_.jpg",
-   "loja": "Vendido por parceiro · entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-14T22:00:00-03:00",
-   "coletado_em": "2026-11-13T08:17:15-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
    "preco_em": "2026-11-13T08:17:15-03:00",
    "entrou": "2026-11-13T08:17:33.727221-03:00"
   },
@@ -15319,38 +15355,6 @@
    "entrou": "2026-11-13T08:17:33.727221-03:00"
   },
   {
-   "id": "amz-B0FLKL7DHZ",
-   "canal": "tech",
-   "nome": "Monitor Gamer AOC AGON G50 27\" 144Hz IPS G-Sync",
-   "preco_antigo": 899.0,
-   "preco": 633.53,
-   "desconto": 30,
-   "link": "https://www.amazon.com.br/dp/B0FLKL7DHZ?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/71RpoYhSWJL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-14T22:00:00-03:00",
-   "coletado_em": "2026-11-13T08:17:15-03:00",
-   "preco_em": "2026-11-13T08:17:15-03:00",
-   "entrou": "2026-11-13T08:17:33.727221-03:00"
-  },
-  {
-   "id": "amz-B0H46DBZS8",
-   "canal": "tech",
-   "nome": "Fone JBL Live Beam 4 com tela e cancelamento de ruído",
-   "preco_antigo": 999.0,
-   "preco": 699.0,
-   "desconto": 30,
-   "link": "https://www.amazon.com.br/dp/B0H46DBZS8?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61PUJCNx5sL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-14T22:00:00-03:00",
-   "coletado_em": "2026-11-13T08:17:15-03:00",
-   "preco_em": "2026-11-13T08:17:15-03:00",
-   "entrou": "2026-11-13T08:17:33.727221-03:00"
-  },
-  {
    "id": "amz-B0GYQKB2GB",
    "canal": "tech",
    "nome": "Smartwatch Huawei Watch Fit 5 AMOLED 1,82\"",
@@ -15465,6 +15469,22 @@
    "coletado_em": "2026-11-13T08:17:15-03:00",
    "preco_em": "2026-11-13T08:17:15-03:00",
    "entrou": "2026-11-13T09:08:02.942949-03:00"
+  },
+  {
+   "id": "amz-B0FLKL7DHZ",
+   "canal": "tech",
+   "nome": "Monitor Gamer AOC AGON G50 27\" 144Hz IPS G-Sync",
+   "preco_antigo": 899.0,
+   "preco": 633.53,
+   "desconto": 30,
+   "link": "https://www.amazon.com.br/dp/B0FLKL7DHZ?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71RpoYhSWJL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-14T22:00:00-03:00",
+   "coletado_em": "2026-11-13T08:17:15-03:00",
+   "preco_em": "2026-11-13T08:17:15-03:00",
+   "entrou": "2026-11-13T10:25:49.747919-03:00"
   }
  ],
  "menus_fixados": [
@@ -16431,7 +16451,13 @@
   "fonejblendurancepeak4esportivoancip68": "2026-11-13T09:22:25.583236-03:00",
   "liquidificadorarnopowermix700w24l": "2026-11-13T09:29:30.641546-03:00",
   "perfumeacquadigiogiorgioarmaniedtmasculino": "2026-11-13T09:35:53.262163-03:00",
-  "caixadesomjblboombox4bluetoothip68": "2026-11-13T09:44:02.002647-03:00"
+  "caixadesomjblboombox4bluetoothip68": "2026-11-13T09:44:02.002647-03:00",
+  "perfumenauticavoyageedt50ml": "2026-11-13T09:51:01.625988-03:00",
+  "aspiradorverticalbritaniabas302em11400w": "2026-11-13T09:56:33.448031-03:00",
+  "tenisolympikusapolisfeminino": "2026-11-13T10:03:24.756594-03:00",
+  "escovadedenteoralbblackextramacia2un": "2026-11-13T10:18:13.749504-03:00",
+  "kit2camisetasdryfitspeedomasculinas": "2026-11-13T10:26:06.398429-03:00",
+  "fonejbllivebeam4comtelaecancelamentoderuido": "2026-11-13T10:33:18.779609-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
@@ -16797,7 +16823,7 @@
   "marcas": "2026-11-12T17:56:29.409807-03:00"
  },
  "top10_dia": "2026-11-07",
- "manuais_lidos": "2026-11-13T09:35:52.946553-03:00",
+ "manuais_lidos": "2026-11-13T10:25:49.747919-03:00",
  "reserva_resultado": {
   "2026-11-07": {
    "achadinhos": {
@@ -16968,7 +16994,7 @@
    "hora": "2026-11-11T20:32:35.453128-03:00"
   }
  },
- "ig_respondido_em": "2026-11-13T09:43:39.750833-03:00",
+ "ig_respondido_em": "2026-11-13T10:25:49.747919-03:00",
  "dm_auto": {
   "2026-11-08": {
    "com_palavra": 0,
@@ -17294,7 +17320,7 @@
    "feed": 2
   },
   "2026-11-13": {
-   "story": 3,
+   "story": 4,
    "feed": 0
   }
  },
