@@ -15,6 +15,21 @@
      "canal": "tech"
     }
    ]
+  },
+  {
+   "tipo": "adivinha_resposta",
+   "hora": "16:09",
+   "produtos": [
+    {
+     "nome": "Smart Tv  LS43F6000 Samsung LED 43\" Full HD Tizen Voice Ready",
+     "preco_antigo": 4044.97,
+     "preco": 1617.99,
+     "desconto": 60,
+     "link": "https://s.shopee.com.br/5AtzHNbtcJ",
+     "loja": "LOI BRASIL",
+     "canal": "tech"
+    }
+   ]
   }
  ]
 }

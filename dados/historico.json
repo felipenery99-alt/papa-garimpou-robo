@@ -1205,7 +1205,13 @@
   "2026-11-13 tech 15:32 amz-B0GD7CFFVT",
   "2026-11-13 achadinhos 15:39 amz-B0GNCJSWF5",
   "2026-11-13 marcas 15:45 amz-B0GWS4JSN2",
-  "2026-11-13 tech 15:53 amz-B0DWQK1Q8S"
+  "2026-11-13 tech 15:53 amz-B0DWQK1Q8S",
+  "2026-11-13 achadinhos 16:02 amz-B0C2DL4CJW",
+  "2026-11-13 marcas 16:09 amz-B0G75GYH9N",
+  "2026-11-13 tech 16:16 amz-B0F7T2Y46Y",
+  "2026-11-13 achadinhos 16:23 amz-B0D79H78PK",
+  "2026-11-13 marcas 16:29 amz-B0GYFM2KMP",
+  "2026-11-13 tech 16:37 amz-B088JSSQBT"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -2363,7 +2369,13 @@
   "amz-B0GD7CFFVT": "2026-11-13T15:32:14.320416-03:00",
   "amz-B0GNCJSWF5": "2026-11-13T15:39:27.087494-03:00",
   "amz-B0GWS4JSN2": "2026-11-13T15:45:56.602354-03:00",
-  "amz-B0DWQK1Q8S": "2026-11-13T15:53:35.133036-03:00"
+  "amz-B0DWQK1Q8S": "2026-11-13T15:53:35.133036-03:00",
+  "amz-B0C2DL4CJW": "2026-11-13T16:02:02.425417-03:00",
+  "amz-B0G75GYH9N": "2026-11-13T16:09:54.116341-03:00",
+  "amz-B0F7T2Y46Y": "2026-11-13T16:16:19.610025-03:00",
+  "amz-B0D79H78PK": "2026-11-13T16:23:13.919118-03:00",
+  "amz-B0GYFM2KMP": "2026-11-13T16:29:32.400268-03:00",
+  "amz-B088JSSQBT": "2026-11-13T16:37:26.698708-03:00"
  },
  "ofertas_dia": [
   {
@@ -15553,6 +15565,110 @@
    "preco_em": "2026-11-13T13:17:15-03:00",
    "entrou": "2026-11-13T13:31:30.561860-03:00",
    "dia": "2026-11-13"
+  },
+  {
+   "id": "amz-B0C2DL4CJW",
+   "canal": "achadinhos",
+   "nome": "Creme antirrugas L'Oréal Revitalift Pro Retinol diurno",
+   "preco_antigo": 112.29,
+   "preco": 45.9,
+   "desconto": 59,
+   "link": "https://www.amazon.com.br/dp/B0C2DL4CJW?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71e9FCJeEwL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-14T22:00:00-03:00",
+   "coletado_em": "2026-11-13T13:18:22-03:00",
+   "preco_em": "2026-11-13T13:18:22-03:00",
+   "entrou": "2026-11-13T13:31:30.561860-03:00",
+   "dia": "2026-11-13"
+  },
+  {
+   "id": "amz-B0G75GYH9N",
+   "canal": "marcas",
+   "nome": "Tênis New Balance 327V1 feminino",
+   "preco_antigo": 599.99,
+   "preco": 399.9,
+   "desconto": 33,
+   "link": "https://www.amazon.com.br/dp/B0G75GYH9N?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61dc8Kmb5GL._AC_SL1200_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-14T22:00:00-03:00",
+   "coletado_em": "2026-11-13T13:17:26-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "preco_em": "2026-11-13T13:17:26-03:00",
+   "entrou": "2026-11-13T13:31:30.561860-03:00",
+   "dia": "2026-11-13"
+  },
+  {
+   "id": "amz-B0F7T2Y46Y",
+   "canal": "tech",
+   "nome": "Caixa de som JBL Flip 7 Bluetooth 25 W, preta",
+   "preco_antigo": 899.0,
+   "preco": 614.0,
+   "desconto": 32,
+   "link": "https://www.amazon.com.br/dp/B0F7T2Y46Y?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61S6CABfB7L._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-14T22:00:00-03:00",
+   "coletado_em": "2026-11-13T13:17:15-03:00",
+   "preco_em": "2026-11-13T13:17:15-03:00",
+   "entrou": "2026-11-13T13:31:30.561860-03:00",
+   "dia": "2026-11-13"
+  },
+  {
+   "id": "amz-B0D79H78PK",
+   "canal": "achadinhos",
+   "nome": "Lavadora e desobstruidora WAP WL 2660 Turbo Ultra 220V",
+   "preco_antigo": 1379.9,
+   "preco": 749.9,
+   "desconto": 46,
+   "link": "https://www.amazon.com.br/dp/B0D79H78PK?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71hOFRcA3SL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-14T22:00:00-03:00",
+   "coletado_em": "2026-11-13T13:18:06-03:00",
+   "preco_em": "2026-11-13T13:18:06-03:00",
+   "entrou": "2026-11-13T13:31:30.561860-03:00",
+   "dia": "2026-11-13"
+  },
+  {
+   "id": "amz-B0GYFM2KMP",
+   "canal": "marcas",
+   "nome": "Tênis Mizuno Wave Legend 5",
+   "preco_antigo": 599.99,
+   "preco": 399.9,
+   "desconto": 33,
+   "link": "https://www.amazon.com.br/dp/B0GYFM2KMP?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/7145BEY8wWL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-14T22:00:00-03:00",
+   "coletado_em": "2026-11-13T13:17:28-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "preco_em": "2026-11-13T13:17:28-03:00",
+   "entrou": "2026-11-13T13:31:30.561860-03:00",
+   "dia": "2026-11-13"
+  },
+  {
+   "id": "amz-B088JSSQBT",
+   "canal": "tech",
+   "nome": "Fone de ouvido Samsung intra-auricular com fio, preto",
+   "preco_antigo": 139.0,
+   "preco": 85.49,
+   "desconto": 38,
+   "link": "https://www.amazon.com.br/dp/B088JSSQBT?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/41QCgLjVcyL._AC_SL1000_.jpg",
+   "loja": "Vendido por parceiro · entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-14T22:00:00-03:00",
+   "coletado_em": "2026-11-13T13:17:17-03:00",
+   "preco_em": "2026-11-13T13:17:17-03:00",
+   "entrou": "2026-11-13T13:31:30.561860-03:00",
+   "dia": "2026-11-13"
   }
  ],
  "ig_feitos": [
@@ -15676,7 +15792,8 @@
   "2026-11-13 12:19 story_oferta",
   "2026-11-13 13:20 story_convite",
   "2026-11-13 14:08 story_oferta",
-  "2026-11-13 15:00 adivinha"
+  "2026-11-13 15:00 adivinha",
+  "2026-11-13 16:05 adivinha_resposta"
  ],
  "ig_ofertas_usadas": [
   "amz-B0CJ3BDN7T",
@@ -15950,38 +16067,6 @@
  "ultimo_pilar": "humor",
  "fila": [
   {
-   "id": "amz-B0C2DL4CJW",
-   "canal": "achadinhos",
-   "nome": "Creme antirrugas L'Oréal Revitalift Pro Retinol diurno",
-   "preco_antigo": 112.29,
-   "preco": 45.9,
-   "desconto": 59,
-   "link": "https://www.amazon.com.br/dp/B0C2DL4CJW?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/71e9FCJeEwL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-14T22:00:00-03:00",
-   "coletado_em": "2026-11-13T13:18:22-03:00",
-   "preco_em": "2026-11-13T13:18:22-03:00",
-   "entrou": "2026-11-13T13:31:30.561860-03:00"
-  },
-  {
-   "id": "amz-B0D79H78PK",
-   "canal": "achadinhos",
-   "nome": "Lavadora e desobstruidora WAP WL 2660 Turbo Ultra 220V",
-   "preco_antigo": 1379.9,
-   "preco": 749.9,
-   "desconto": 46,
-   "link": "https://www.amazon.com.br/dp/B0D79H78PK?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/71hOFRcA3SL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-14T22:00:00-03:00",
-   "coletado_em": "2026-11-13T13:18:06-03:00",
-   "preco_em": "2026-11-13T13:18:06-03:00",
-   "entrou": "2026-11-13T13:31:30.561860-03:00"
-  },
-  {
    "id": "amz-B0GW3XSY4W",
    "canal": "achadinhos",
    "nome": "Fralda Pampers Confort Sec XG, 86 unidades",
@@ -16059,40 +16144,6 @@
    "valida_ate": "2026-11-14T22:00:00-03:00",
    "coletado_em": "2026-11-13T13:18:27-03:00",
    "preco_em": "2026-11-13T13:18:27-03:00",
-   "entrou": "2026-11-13T13:31:30.561860-03:00"
-  },
-  {
-   "id": "amz-B0G75GYH9N",
-   "canal": "marcas",
-   "nome": "Tênis New Balance 327V1 feminino",
-   "preco_antigo": 599.99,
-   "preco": 399.9,
-   "desconto": 33,
-   "link": "https://www.amazon.com.br/dp/B0G75GYH9N?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61dc8Kmb5GL._AC_SL1200_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-14T22:00:00-03:00",
-   "coletado_em": "2026-11-13T13:17:26-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "preco_em": "2026-11-13T13:17:26-03:00",
-   "entrou": "2026-11-13T13:31:30.561860-03:00"
-  },
-  {
-   "id": "amz-B0GYFM2KMP",
-   "canal": "marcas",
-   "nome": "Tênis Mizuno Wave Legend 5",
-   "preco_antigo": 599.99,
-   "preco": 399.9,
-   "desconto": 33,
-   "link": "https://www.amazon.com.br/dp/B0GYFM2KMP?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/7145BEY8wWL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-14T22:00:00-03:00",
-   "coletado_em": "2026-11-13T13:17:28-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "preco_em": "2026-11-13T13:17:28-03:00",
    "entrou": "2026-11-13T13:31:30.561860-03:00"
   },
   {
@@ -16295,38 +16346,6 @@
    "coletado_em": "2026-11-13T13:17:30-03:00",
    "extra": "Preço a partir de: varia por tamanho e cor",
    "preco_em": "2026-11-13T13:17:30-03:00",
-   "entrou": "2026-11-13T13:31:30.561860-03:00"
-  },
-  {
-   "id": "amz-B0F7T2Y46Y",
-   "canal": "tech",
-   "nome": "Caixa de som JBL Flip 7 Bluetooth 25 W, preta",
-   "preco_antigo": 899.0,
-   "preco": 614.0,
-   "desconto": 32,
-   "link": "https://www.amazon.com.br/dp/B0F7T2Y46Y?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61S6CABfB7L._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-14T22:00:00-03:00",
-   "coletado_em": "2026-11-13T13:17:15-03:00",
-   "preco_em": "2026-11-13T13:17:15-03:00",
-   "entrou": "2026-11-13T13:31:30.561860-03:00"
-  },
-  {
-   "id": "amz-B088JSSQBT",
-   "canal": "tech",
-   "nome": "Fone de ouvido Samsung intra-auricular com fio, preto",
-   "preco_antigo": 139.0,
-   "preco": 85.49,
-   "desconto": 38,
-   "link": "https://www.amazon.com.br/dp/B088JSSQBT?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/41QCgLjVcyL._AC_SL1000_.jpg",
-   "loja": "Vendido por parceiro · entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-14T22:00:00-03:00",
-   "coletado_em": "2026-11-13T13:17:17-03:00",
-   "preco_em": "2026-11-13T13:17:17-03:00",
    "entrou": "2026-11-13T13:31:30.561860-03:00"
   },
   {
@@ -17385,7 +17404,13 @@
   "controlegamesirg7prosemfioparaxboxpceandroid": "2026-11-13T15:32:14.320416-03:00",
   "cafeteiraespressoautomaticamondialdolcelatte20bar": "2026-11-13T15:39:27.087494-03:00",
   "kit4cuecasboxerlupodealgodao": "2026-11-13T15:45:56.602354-03:00",
-  "monitorgamersamsungodysseyg527qhd165hz": "2026-11-13T15:53:35.133036-03:00"
+  "monitorgamersamsungodysseyg527qhd165hz": "2026-11-13T15:53:35.133036-03:00",
+  "cremeantirrugaslorealrevitaliftproretinoldiurno": "2026-11-13T16:02:02.425417-03:00",
+  "tenisnewbalance327v1feminino": "2026-11-13T16:09:54.116341-03:00",
+  "caixadesomjblflip7bluetooth25wpreta": "2026-11-13T16:16:19.610025-03:00",
+  "lavadoraedesobstruidorawapwl2660turboultra220v": "2026-11-13T16:23:13.919118-03:00",
+  "tenismizunowavelegend5": "2026-11-13T16:29:32.400268-03:00",
+  "fonedeouvidosamsungintraauricularcomfiopreto": "2026-11-13T16:37:26.698708-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
@@ -17758,7 +17783,7 @@
   "marcas": "2026-11-12T17:56:29.409807-03:00"
  },
  "top10_dia": "2026-11-07",
- "manuais_lidos": "2026-11-13T15:45:56.178241-03:00",
+ "manuais_lidos": "2026-11-13T16:29:32.047993-03:00",
  "reserva_resultado": {
   "2026-11-07": {
    "achadinhos": {
@@ -17929,7 +17954,7 @@
    "hora": "2026-11-11T20:32:35.453128-03:00"
   }
  },
- "ig_respondido_em": "2026-11-13T15:53:29.691116-03:00",
+ "ig_respondido_em": "2026-11-13T16:37:24.033399-03:00",
  "dm_auto": {
   "2026-11-08": {
    "com_palavra": 0,
@@ -18229,7 +18254,7 @@
    "feed": 2
   },
   "2026-11-13": {
-   "story": 10,
+   "story": 11,
    "feed": 1
   }
  },
