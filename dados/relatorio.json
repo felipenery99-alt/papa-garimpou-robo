@@ -2367,8 +2367,8 @@
    "⚠️ Fila vazia (achadinhos, marcas, tech), último garimpo 13:20 — abrir o app Claude e conferir as rotinas",
    "canal marcas sem oferta na fila há 69 min (busca extra também não achou). Abastecer ofertas_manuais.json."
   ],
-  "ultima_execucao": "21:20",
-  "execucoes": 21,
+  "ultima_execucao": "22:00",
+  "execucoes": 22,
   "telegram_posts": {
    "achadinhos": 41,
    "marcas": 28,
@@ -4238,7 +4238,7 @@
    "shopee-58269973244": "outro: marca fora da lista boa",
    "shopee-58271608260": "nota",
    "shopee-58222362447": "nota",
-   "shopee-58204154519": "nota",
+   "shopee-58204154519": "vendas longe",
    "shopee-58265790023": "nota",
    "shopee-58265786191": "nota",
    "shopee-58272398623": "nota",
@@ -5817,11 +5817,25 @@
    "shopee-58209234071": "vendas longe",
    "shopee-23893775778": "vendas longe",
    "shopee-21299856702": "vendas longe",
-   "shopee-58271961061": "nota"
+   "shopee-58271961061": "nota",
+   "shopee-53161540827": "nota",
+   "shopee-54659025374": "vendas longe",
+   "shopee-23592011906": "vendas longe",
+   "shopee-58257090809": "vendas longe",
+   "shopee-58262987140": "nota",
+   "shopee-52615208612": "vendas longe",
+   "shopee-58272369101": "nota",
+   "shopee-41472456603": "vendas longe",
+   "shopee-22999394474": "vendas longe",
+   "shopee-52013259456": "vendas longe",
+   "shopee-58269751777": "vendas longe",
+   "shopee-41854306396": "vendas longe",
+   "shopee-23597981680": "vendas longe",
+   "shopee-22994291435": "vendas longe"
   },
   "shopee_oficial": {
-   "vendas longe": 1721,
-   "nota": 1260,
+   "vendas longe": 1733,
+   "nota": 1262,
    "vendas perto (125+)": 103,
    "outro: marca fora da lista boa": 87,
    "aprovada": 70,
@@ -5833,12 +5847,12 @@
    "seguidores": 476,
    "posts": 120,
    "reach": 2912,
-   "profile_views": 100,
+   "profile_views": 102,
    "website_clicks": 1,
    "stories_ativos": 15
   },
   "reels_alcance": {
-   "atualizado": "2026-11-12T21:20:44.867390-03:00",
+   "atualizado": "2026-11-12T22:00:24.802948-03:00",
    "itens": [
     {
      "id": "18230902090331796",
