@@ -1211,7 +1211,14 @@
   "2026-11-13 tech 16:16 amz-B0F7T2Y46Y",
   "2026-11-13 achadinhos 16:23 amz-B0D79H78PK",
   "2026-11-13 marcas 16:29 amz-B0GYFM2KMP",
-  "2026-11-13 tech 16:37 amz-B088JSSQBT"
+  "2026-11-13 tech 16:37 amz-B088JSSQBT",
+  "2026-11-13 achadinhos 16:54 amz-B0GW3XSY4W",
+  "2026-11-13 achadinhos 17:03 amz-B077C2XZ91",
+  "2026-11-13 marcas 17:11 amz-B0GMTG45LL",
+  "2026-11-13 tech 17:18 amz-B0GVPGKM4P",
+  "2026-11-13 marcas 17:25 amz-B0DXN5BKM5",
+  "2026-11-13 achadinhos 17:32 amz-B077C3SY25",
+  "2026-11-13 marcas 17:40 amz-B0F1CLCF3T"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -2375,7 +2382,14 @@
   "amz-B0F7T2Y46Y": "2026-11-13T16:16:19.610025-03:00",
   "amz-B0D79H78PK": "2026-11-13T16:23:13.919118-03:00",
   "amz-B0GYFM2KMP": "2026-11-13T16:29:32.400268-03:00",
-  "amz-B088JSSQBT": "2026-11-13T16:37:26.698708-03:00"
+  "amz-B088JSSQBT": "2026-11-13T16:37:26.698708-03:00",
+  "amz-B0GW3XSY4W": "2026-11-13T16:54:30.814398-03:00",
+  "amz-B077C2XZ91": "2026-11-13T17:03:42.022008-03:00",
+  "amz-B0GMTG45LL": "2026-11-13T17:11:14.248057-03:00",
+  "amz-B0GVPGKM4P": "2026-11-13T17:18:54.711817-03:00",
+  "amz-B0DXN5BKM5": "2026-11-13T17:25:33.465972-03:00",
+  "amz-B077C3SY25": "2026-11-13T17:32:24.770125-03:00",
+  "amz-B0F1CLCF3T": "2026-11-13T17:40:32.053458-03:00"
  },
  "ofertas_dia": [
   {
@@ -15669,6 +15683,126 @@
    "preco_em": "2026-11-13T13:17:17-03:00",
    "entrou": "2026-11-13T13:31:30.561860-03:00",
    "dia": "2026-11-13"
+  },
+  {
+   "id": "amz-B0GW3XSY4W",
+   "canal": "achadinhos",
+   "nome": "Fralda Pampers Confort Sec XG, 86 unidades",
+   "preco_antigo": 189.9,
+   "preco": 90.32,
+   "desconto": 52,
+   "link": "https://www.amazon.com.br/dp/B0GW3XSY4W?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71MTFZFdO9L._AC_SL1200_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-14T22:00:00-03:00",
+   "coletado_em": "2026-11-13T13:18:28-03:00",
+   "preco_em": "2026-11-13T13:18:28-03:00",
+   "entrou": "2026-11-13T13:31:30.561860-03:00",
+   "dia": "2026-11-13"
+  },
+  {
+   "id": "amz-B077C2XZ91",
+   "canal": "achadinhos",
+   "nome": "Água micelar L'Oréal Paris purificante 5 em 1, 400 ml",
+   "preco_antigo": 69.39,
+   "preco": 32.39,
+   "desconto": 53,
+   "link": "https://www.amazon.com.br/dp/B077C2XZ91?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71KOmqvvf4L._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-14T22:00:00-03:00",
+   "coletado_em": "2026-11-13T13:18:22-03:00",
+   "preco_em": "2026-11-13T13:18:22-03:00",
+   "entrou": "2026-11-13T13:31:30.561860-03:00",
+   "dia": "2026-11-13"
+  },
+  {
+   "id": "amz-B0GMTG45LL",
+   "canal": "marcas",
+   "nome": "Tênis Fila Freestyle II preto",
+   "preco_antigo": 236.06,
+   "preco": 167.99,
+   "desconto": 29,
+   "link": "https://www.amazon.com.br/dp/B0GMTG45LL?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/41I-2nZgpqL._AC_SL1200_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-14T22:00:00-03:00",
+   "coletado_em": "2026-11-13T13:17:39-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "preco_em": "2026-11-13T13:17:39-03:00",
+   "entrou": "2026-11-13T13:31:30.561860-03:00",
+   "dia": "2026-11-13"
+  },
+  {
+   "id": "amz-B0GVPGKM4P",
+   "canal": "tech",
+   "nome": "Fone JBL Tune 780NC Bluetooth com cancelamento de ruído",
+   "preco_antigo": 560.52,
+   "preco": 353.0,
+   "desconto": 37,
+   "link": "https://www.amazon.com.br/dp/B0GVPGKM4P?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51MnMPeZUWL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-14T22:00:00-03:00",
+   "coletado_em": "2026-11-13T13:17:17-03:00",
+   "preco_em": "2026-11-13T13:17:17-03:00",
+   "entrou": "2026-11-13T13:31:30.561860-03:00",
+   "dia": "2026-11-13"
+  },
+  {
+   "id": "amz-B0DXN5BKM5",
+   "canal": "marcas",
+   "nome": "Garrafa Stanley Aerolight IceFlow Flip Straw 710 ml, Rose Quartz",
+   "preco_antigo": 309.0,
+   "preco": 206.58,
+   "desconto": 33,
+   "link": "https://www.amazon.com.br/dp/B0DXN5BKM5?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/41BV1h7mjiL._AC_SL1206_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-14T22:00:00-03:00",
+   "coletado_em": "2026-11-13T13:17:53-03:00",
+   "preco_em": "2026-11-13T13:17:53-03:00",
+   "entrou": "2026-11-13T13:31:30.561860-03:00",
+   "dia": "2026-11-13"
+  },
+  {
+   "id": "amz-B077C3SY25",
+   "canal": "achadinhos",
+   "nome": "Protetor solar corporal L'Oréal Solar Expertise FPS 70, 200 ml",
+   "preco_antigo": 99.69,
+   "preco": 66.41,
+   "desconto": 33,
+   "link": "https://www.amazon.com.br/dp/B077C3SY25?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61Y2s7uyYdL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-14T22:00:00-03:00",
+   "coletado_em": "2026-11-13T13:18:14-03:00",
+   "preco_em": "2026-11-13T13:18:14-03:00",
+   "entrou": "2026-11-13T15:18:25.205384-03:00",
+   "dia": "2026-11-13"
+  },
+  {
+   "id": "amz-B0F1CLCF3T",
+   "canal": "marcas",
+   "nome": "Perfume Boss Bottled Beyond Eau de Parfum 50 ml",
+   "preco_antigo": 761.72,
+   "preco": 374.77,
+   "desconto": 51,
+   "link": "https://www.amazon.com.br/dp/B0F1CLCF3T?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61PEWGhYCpL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-14T22:00:00-03:00",
+   "coletado_em": "2026-11-13T13:17:51-03:00",
+   "preco_em": "2026-11-13T13:17:51-03:00",
+   "entrou": "2026-11-13T14:52:41.668704-03:00",
+   "dia": "2026-11-13"
   }
  ],
  "ig_feitos": [
@@ -15793,10 +15927,11 @@
   "2026-11-13 13:20 story_convite",
   "2026-11-13 14:08 story_oferta",
   "2026-11-13 15:00 adivinha",
-  "2026-11-13 16:05 adivinha_resposta"
+  "2026-11-13 16:05 adivinha_resposta",
+  "story especial pede-pro-papa 2026-11-13",
+  "2026-11-13 17:36 story_oferta"
  ],
  "ig_ofertas_usadas": [
-  "amz-B0CJ3BDN7T",
   "amz-B008SBKTZ4",
   "amz-B0917MY5RD",
   "amz-B0DH9Y4MMF",
@@ -15995,7 +16130,8 @@
   "shopee-11444965462",
   "shopee-50801661798",
   "shopee-42565175368",
-  "shopee-40717702468"
+  "shopee-40717702468",
+  "shopee-22998796938"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
@@ -16067,38 +16203,6 @@
  "ultimo_pilar": "humor",
  "fila": [
   {
-   "id": "amz-B0GW3XSY4W",
-   "canal": "achadinhos",
-   "nome": "Fralda Pampers Confort Sec XG, 86 unidades",
-   "preco_antigo": 189.9,
-   "preco": 90.32,
-   "desconto": 52,
-   "link": "https://www.amazon.com.br/dp/B0GW3XSY4W?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/71MTFZFdO9L._AC_SL1200_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-14T22:00:00-03:00",
-   "coletado_em": "2026-11-13T13:18:28-03:00",
-   "preco_em": "2026-11-13T13:18:28-03:00",
-   "entrou": "2026-11-13T13:31:30.561860-03:00"
-  },
-  {
-   "id": "amz-B077C2XZ91",
-   "canal": "achadinhos",
-   "nome": "Água micelar L'Oréal Paris purificante 5 em 1, 400 ml",
-   "preco_antigo": 69.39,
-   "preco": 32.39,
-   "desconto": 53,
-   "link": "https://www.amazon.com.br/dp/B077C2XZ91?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/71KOmqvvf4L._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-14T22:00:00-03:00",
-   "coletado_em": "2026-11-13T13:18:22-03:00",
-   "preco_em": "2026-11-13T13:18:22-03:00",
-   "entrou": "2026-11-13T13:31:30.561860-03:00"
-  },
-  {
    "id": "amz-B08W3H6D56",
    "canal": "achadinhos",
    "nome": "Kit 2 desodorantes NIVEA Protect & Care aerossol 150 ml",
@@ -16112,7 +16216,7 @@
    "valida_ate": "2026-11-14T22:00:00-03:00",
    "coletado_em": "2026-11-13T13:18:11-03:00",
    "preco_em": "2026-11-13T13:18:11-03:00",
-   "entrou": "2026-11-13T13:31:30.561860-03:00"
+   "entrou": "2026-11-13T17:32:24.407121-03:00"
   },
   {
    "id": "amz-B09N4Y8TR7",
@@ -16128,7 +16232,7 @@
    "valida_ate": "2026-11-14T22:00:00-03:00",
    "coletado_em": "2026-11-13T13:18:31-03:00",
    "preco_em": "2026-11-13T13:18:31-03:00",
-   "entrou": "2026-11-13T13:31:30.561860-03:00"
+   "entrou": "2026-11-13T17:32:24.407121-03:00"
   },
   {
    "id": "amz-B07CG7NS5W",
@@ -16144,40 +16248,7 @@
    "valida_ate": "2026-11-14T22:00:00-03:00",
    "coletado_em": "2026-11-13T13:18:27-03:00",
    "preco_em": "2026-11-13T13:18:27-03:00",
-   "entrou": "2026-11-13T13:31:30.561860-03:00"
-  },
-  {
-   "id": "amz-B0GMTG45LL",
-   "canal": "marcas",
-   "nome": "Tênis Fila Freestyle II preto",
-   "preco_antigo": 236.06,
-   "preco": 167.99,
-   "desconto": 29,
-   "link": "https://www.amazon.com.br/dp/B0GMTG45LL?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/41I-2nZgpqL._AC_SL1200_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-14T22:00:00-03:00",
-   "coletado_em": "2026-11-13T13:17:39-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "preco_em": "2026-11-13T13:17:39-03:00",
-   "entrou": "2026-11-13T13:31:30.561860-03:00"
-  },
-  {
-   "id": "amz-B0DXN5BKM5",
-   "canal": "marcas",
-   "nome": "Garrafa Stanley Aerolight IceFlow Flip Straw 710 ml, Rose Quartz",
-   "preco_antigo": 309.0,
-   "preco": 206.58,
-   "desconto": 33,
-   "link": "https://www.amazon.com.br/dp/B0DXN5BKM5?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/41BV1h7mjiL._AC_SL1206_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-14T22:00:00-03:00",
-   "coletado_em": "2026-11-13T13:17:53-03:00",
-   "preco_em": "2026-11-13T13:17:53-03:00",
-   "entrou": "2026-11-13T13:31:30.561860-03:00"
+   "entrou": "2026-11-13T17:32:24.407121-03:00"
   },
   {
    "id": "amz-B0CBF2383Y",
@@ -16194,7 +16265,7 @@
    "coletado_em": "2026-11-13T13:17:32-03:00",
    "extra": "Preço a partir de: varia por tamanho e cor",
    "preco_em": "2026-11-13T13:17:32-03:00",
-   "entrou": "2026-11-13T13:31:30.561860-03:00"
+   "entrou": "2026-11-13T17:32:24.407121-03:00"
   },
   {
    "id": "amz-B0BNP2CYBB",
@@ -16211,7 +16282,7 @@
    "coletado_em": "2026-11-13T13:17:41-03:00",
    "extra": "Preço a partir de: varia por tamanho e cor",
    "preco_em": "2026-11-13T13:17:41-03:00",
-   "entrou": "2026-11-13T13:31:30.561860-03:00"
+   "entrou": "2026-11-13T17:32:24.407121-03:00"
   },
   {
    "id": "amz-B07XLCBWYG",
@@ -16228,7 +16299,7 @@
    "coletado_em": "2026-11-13T13:17:43-03:00",
    "extra": "Preço a partir de: varia por tamanho e cor",
    "preco_em": "2026-11-13T13:17:43-03:00",
-   "entrou": "2026-11-13T13:31:30.561860-03:00"
+   "entrou": "2026-11-13T17:32:24.407121-03:00"
   },
   {
    "id": "amz-B0009OAGQU",
@@ -16244,7 +16315,7 @@
    "valida_ate": "2026-11-14T22:00:00-03:00",
    "coletado_em": "2026-11-13T13:17:53-03:00",
    "preco_em": "2026-11-13T13:17:53-03:00",
-   "entrou": "2026-11-13T13:31:30.561860-03:00"
+   "entrou": "2026-11-13T17:32:24.407121-03:00"
   },
   {
    "id": "amz-B0H1H831SP",
@@ -16261,7 +16332,7 @@
    "coletado_em": "2026-11-13T13:17:43-03:00",
    "extra": "Preço a partir de: varia por tamanho e cor",
    "preco_em": "2026-11-13T13:17:43-03:00",
-   "entrou": "2026-11-13T13:31:30.561860-03:00"
+   "entrou": "2026-11-13T17:32:24.407121-03:00"
   },
   {
    "id": "amz-B0FFTPRLDT",
@@ -16278,7 +16349,7 @@
    "coletado_em": "2026-11-13T13:17:28-03:00",
    "extra": "Preço a partir de: varia por tamanho e cor",
    "preco_em": "2026-11-13T13:17:28-03:00",
-   "entrou": "2026-11-13T13:31:30.561860-03:00"
+   "entrou": "2026-11-13T17:32:24.407121-03:00"
   },
   {
    "id": "amz-B0B64C5M7V",
@@ -16295,7 +16366,7 @@
    "coletado_em": "2026-11-13T13:18:01-03:00",
    "extra": "Preço a partir de: varia por tamanho e cor",
    "preco_em": "2026-11-13T13:18:01-03:00",
-   "entrou": "2026-11-13T13:31:30.561860-03:00"
+   "entrou": "2026-11-13T17:32:24.407121-03:00"
   },
   {
    "id": "amz-B07RJYDD41",
@@ -16312,7 +16383,7 @@
    "coletado_em": "2026-11-13T13:17:45-03:00",
    "extra": "Preço a partir de: varia por tamanho e cor",
    "preco_em": "2026-11-13T13:17:45-03:00",
-   "entrou": "2026-11-13T13:31:30.561860-03:00"
+   "entrou": "2026-11-13T17:32:24.407121-03:00"
   },
   {
    "id": "amz-B0GYGCBJVX",
@@ -16329,7 +16400,7 @@
    "coletado_em": "2026-11-13T13:17:34-03:00",
    "extra": "Preço a partir de: varia por tamanho e cor",
    "preco_em": "2026-11-13T13:17:34-03:00",
-   "entrou": "2026-11-13T13:31:30.561860-03:00"
+   "entrou": "2026-11-13T17:32:24.407121-03:00"
   },
   {
    "id": "amz-B0FFV49K88",
@@ -16346,55 +16417,7 @@
    "coletado_em": "2026-11-13T13:17:30-03:00",
    "extra": "Preço a partir de: varia por tamanho e cor",
    "preco_em": "2026-11-13T13:17:30-03:00",
-   "entrou": "2026-11-13T13:31:30.561860-03:00"
-  },
-  {
-   "id": "amz-B0GVPGKM4P",
-   "canal": "tech",
-   "nome": "Fone JBL Tune 780NC Bluetooth com cancelamento de ruído",
-   "preco_antigo": 560.52,
-   "preco": 353.0,
-   "desconto": 37,
-   "link": "https://www.amazon.com.br/dp/B0GVPGKM4P?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51MnMPeZUWL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-14T22:00:00-03:00",
-   "coletado_em": "2026-11-13T13:17:17-03:00",
-   "preco_em": "2026-11-13T13:17:17-03:00",
-   "entrou": "2026-11-13T13:31:30.561860-03:00"
-  },
-  {
-   "id": "amz-B0F1CLCF3T",
-   "canal": "marcas",
-   "nome": "Perfume Boss Bottled Beyond Eau de Parfum 50 ml",
-   "preco_antigo": 761.72,
-   "preco": 374.77,
-   "desconto": 51,
-   "link": "https://www.amazon.com.br/dp/B0F1CLCF3T?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61PEWGhYCpL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-14T22:00:00-03:00",
-   "coletado_em": "2026-11-13T13:17:51-03:00",
-   "preco_em": "2026-11-13T13:17:51-03:00",
-   "entrou": "2026-11-13T14:52:41.668704-03:00"
-  },
-  {
-   "id": "amz-B077C3SY25",
-   "canal": "achadinhos",
-   "nome": "Protetor solar corporal L'Oréal Solar Expertise FPS 70, 200 ml",
-   "preco_antigo": 99.69,
-   "preco": 66.41,
-   "desconto": 33,
-   "link": "https://www.amazon.com.br/dp/B077C3SY25?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61Y2s7uyYdL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-14T22:00:00-03:00",
-   "coletado_em": "2026-11-13T13:18:14-03:00",
-   "preco_em": "2026-11-13T13:18:14-03:00",
-   "entrou": "2026-11-13T15:18:25.205384-03:00"
+   "entrou": "2026-11-13T17:32:24.407121-03:00"
   }
  ],
  "menus_fixados": [
@@ -17410,7 +17433,14 @@
   "caixadesomjblflip7bluetooth25wpreta": "2026-11-13T16:16:19.610025-03:00",
   "lavadoraedesobstruidorawapwl2660turboultra220v": "2026-11-13T16:23:13.919118-03:00",
   "tenismizunowavelegend5": "2026-11-13T16:29:32.400268-03:00",
-  "fonedeouvidosamsungintraauricularcomfiopreto": "2026-11-13T16:37:26.698708-03:00"
+  "fonedeouvidosamsungintraauricularcomfiopreto": "2026-11-13T16:37:26.698708-03:00",
+  "fraldapampersconfortsecxg86unidades": "2026-11-13T16:54:30.814398-03:00",
+  "aguamicelarlorealparispurificante5em1400ml": "2026-11-13T17:03:42.022008-03:00",
+  "tenisfilafreestyleiipreto": "2026-11-13T17:11:14.248057-03:00",
+  "fonejbltune780ncbluetoothcomcancelamentoderuido": "2026-11-13T17:18:54.711817-03:00",
+  "garrafastanleyaerolighticeflowflipstraw710mlrosequartz": "2026-11-13T17:25:33.465972-03:00",
+  "protetorsolarcorporallorealsolarexpertisefps70200ml": "2026-11-13T17:32:24.770125-03:00",
+  "perfumebossbottledbeyondeaudeparfum50ml": "2026-11-13T17:40:32.053458-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
@@ -17776,14 +17806,14 @@
   "2026-11-10 noite marcas",
   "2026-11-12 noite marcas"
  ],
- "reserva_meio": "2026-11-13T13:22:09.760816-03:00",
+ "reserva_meio": "2026-11-13T17:25:02.372158-03:00",
  "reserva_cheia": {
   "achadinhos": "2026-11-13T12:28:08.378483-03:00",
   "tech": "2026-11-12T17:56:29.409807-03:00",
   "marcas": "2026-11-12T17:56:29.409807-03:00"
  },
  "top10_dia": "2026-11-07",
- "manuais_lidos": "2026-11-13T16:29:32.047993-03:00",
+ "manuais_lidos": "2026-11-13T17:32:24.407121-03:00",
  "reserva_resultado": {
   "2026-11-07": {
    "achadinhos": {
@@ -17954,7 +17984,7 @@
    "hora": "2026-11-11T20:32:35.453128-03:00"
   }
  },
- "ig_respondido_em": "2026-11-13T16:37:24.033399-03:00",
+ "ig_respondido_em": "2026-11-13T17:39:51.074250-03:00",
  "dm_auto": {
   "2026-11-08": {
    "com_palavra": 0,
@@ -18254,7 +18284,7 @@
    "feed": 2
   },
   "2026-11-13": {
-   "story": 11,
+   "story": 13,
    "feed": 1
   }
  },
