@@ -1135,7 +1135,14 @@
   "2026-11-12 tech 20:11 amz-B0D4ZLWZBW",
   "2026-11-12 achadinhos 20:19 amz-B096ZV6PM1",
   "2026-11-12 marcas 20:26 amz-B0D3241PNR",
-  "2026-11-12 tech 20:33 amz-B0GQZF2DHP"
+  "2026-11-12 tech 20:33 amz-B0GQZF2DHP",
+  "2026-11-12 achadinhos 20:38 amz-B0CX1TP5DM",
+  "2026-11-12 marcas 20:44 amz-B0GV1MKHDB",
+  "2026-11-12 achadinhos 20:52 amz-B0CLDRS18S",
+  "2026-11-12 tech 20:59 amz-B01N5IB20Q",
+  "2026-11-12 achadinhos 21:07 amz-B0HF5265TZ",
+  "2026-11-12 achadinhos 21:13 amz-B0C2J8XTYY",
+  "2026-11-12 achadinhos 21:20 amz-B0CQRVQMXD"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -2230,7 +2237,14 @@
   "amz-B0D4ZLWZBW": "2026-11-12T20:11:52.454131-03:00",
   "amz-B096ZV6PM1": "2026-11-12T20:19:42.081127-03:00",
   "amz-B0D3241PNR": "2026-11-12T20:26:35.475660-03:00",
-  "amz-B0GQZF2DHP": "2026-11-12T20:33:24.277903-03:00"
+  "amz-B0GQZF2DHP": "2026-11-12T20:33:24.277903-03:00",
+  "amz-B0CX1TP5DM": "2026-11-12T20:38:30.825080-03:00",
+  "amz-B0GV1MKHDB": "2026-11-12T20:44:41.013467-03:00",
+  "amz-B0CLDRS18S": "2026-11-12T20:52:30.528078-03:00",
+  "amz-B01N5IB20Q": "2026-11-12T20:59:51.087583-03:00",
+  "amz-B0HF5265TZ": "2026-11-12T21:07:11.499989-03:00",
+  "amz-B0C2J8XTYY": "2026-11-12T21:13:16.486087-03:00",
+  "amz-B0CQRVQMXD": "2026-11-12T21:20:11.628838-03:00"
  },
  "ofertas_dia": [
   {
@@ -14266,6 +14280,126 @@
    "preco_em": "2026-11-12T18:22:31-03:00",
    "entrou": "2026-11-12T18:36:22.412880-03:00",
    "dia": "2026-11-12"
+  },
+  {
+   "id": "amz-B0CX1TP5DM",
+   "canal": "achadinhos",
+   "nome": "Liquidificador Philips Walita Série 3000",
+   "preco_antigo": 369.9,
+   "preco": 163.39,
+   "desconto": 56,
+   "link": "https://www.amazon.com.br/dp/B0CX1TP5DM?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/41C7vNzzSFL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-13T22:00:00-03:00",
+   "coletado_em": "2026-11-12T18:22:31-03:00",
+   "preco_em": "2026-11-12T18:22:31-03:00",
+   "entrou": "2026-11-12T18:36:22.412880-03:00",
+   "dia": "2026-11-12"
+  },
+  {
+   "id": "amz-B0GV1MKHDB",
+   "canal": "marcas",
+   "nome": "Tênis Mizuno CSD Sport",
+   "preco_antigo": 499.99,
+   "preco": 269.9,
+   "desconto": 46,
+   "link": "https://www.amazon.com.br/dp/B0GV1MKHDB?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/710bVW5qxEL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-13T22:00:00-03:00",
+   "coletado_em": "2026-11-12T18:22:31-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "preco_em": "2026-11-12T18:22:31-03:00",
+   "entrou": "2026-11-12T18:36:22.412880-03:00",
+   "dia": "2026-11-12"
+  },
+  {
+   "id": "amz-B0CLDRS18S",
+   "canal": "achadinhos",
+   "nome": "Aspirador de Pó Automotivo WAP Car 12V",
+   "preco_antigo": 119.9,
+   "preco": 69.9,
+   "desconto": 42,
+   "link": "https://www.amazon.com.br/dp/B0CLDRS18S?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71zj-+xJrbL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-13T22:00:00-03:00",
+   "coletado_em": "2026-11-12T18:22:31-03:00",
+   "preco_em": "2026-11-12T18:22:31-03:00",
+   "entrou": "2026-11-12T18:36:22.412880-03:00",
+   "dia": "2026-11-12"
+  },
+  {
+   "id": "amz-B01N5IB20Q",
+   "canal": "tech",
+   "nome": "SSD Kingston A400 240GB",
+   "preco_antigo": 600.77,
+   "preco": 313.49,
+   "desconto": 48,
+   "link": "https://www.amazon.com.br/dp/B01N5IB20Q?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/81+9rUcRVTL._AC_SL1500_.jpg",
+   "loja": "Vendido por parceiro · entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-13T22:00:00-03:00",
+   "coletado_em": "2026-11-12T18:22:31-03:00",
+   "preco_em": "2026-11-12T18:22:31-03:00",
+   "entrou": "2026-11-12T18:36:22.412880-03:00",
+   "dia": "2026-11-12"
+  },
+  {
+   "id": "amz-B0HF5265TZ",
+   "canal": "achadinhos",
+   "nome": "Refil Escova Elétrica Oral-B iO",
+   "preco_antigo": 109.7,
+   "preco": 76.59,
+   "desconto": 30,
+   "link": "https://www.amazon.com.br/dp/B0HF5265TZ?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61P5JNNVP4L._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-13T22:00:00-03:00",
+   "coletado_em": "2026-11-12T18:22:31-03:00",
+   "preco_em": "2026-11-12T18:22:31-03:00",
+   "entrou": "2026-11-12T18:36:22.412880-03:00",
+   "dia": "2026-11-12"
+  },
+  {
+   "id": "amz-B0C2J8XTYY",
+   "canal": "achadinhos",
+   "nome": "Lâminas de Reposição Originais Philips OneBlade",
+   "preco_antigo": 239.9,
+   "preco": 113.63,
+   "desconto": 53,
+   "link": "https://www.amazon.com.br/dp/B0C2J8XTYY?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/81jIOcGhrTL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-13T22:00:00-03:00",
+   "coletado_em": "2026-11-12T18:22:31-03:00",
+   "preco_em": "2026-11-12T18:22:31-03:00",
+   "entrou": "2026-11-12T18:36:22.412880-03:00",
+   "dia": "2026-11-12"
+  },
+  {
+   "id": "amz-B0CQRVQMXD",
+   "canal": "achadinhos",
+   "nome": "Frigideira Inox Antiaderente Electrolux",
+   "preco_antigo": 229.9,
+   "preco": 129.9,
+   "desconto": 43,
+   "link": "https://www.amazon.com.br/dp/B0CQRVQMXD?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/617owVlzb6L._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-13T22:00:00-03:00",
+   "coletado_em": "2026-11-12T18:22:31-03:00",
+   "preco_em": "2026-11-12T18:22:31-03:00",
+   "entrou": "2026-11-12T18:36:22.412880-03:00",
+   "dia": "2026-11-12"
   }
  ],
  "ig_feitos": [
@@ -14409,7 +14543,9 @@
   "2026-11-12 feed",
   "2026-11-12 19:15 post_achado",
   "2026-11-12 19:17 story_oferta",
-  "2026-11-12 20:30 reels"
+  "2026-11-12 20:30 reels",
+  "2026-11-12 20:35 story_top4",
+  "2026-11-12 21:20 story_convite"
  ],
  "ig_ofertas_usadas": [
   "amz-B08XQWLDKP",
@@ -14678,121 +14814,7 @@
   "2026-11-12": 1
  },
  "ultimo_pilar": "blackfriday",
- "fila": [
-  {
-   "id": "amz-B0CX1TP5DM",
-   "canal": "achadinhos",
-   "nome": "Liquidificador Philips Walita Série 3000",
-   "preco_antigo": 369.9,
-   "preco": 163.39,
-   "desconto": 56,
-   "link": "https://www.amazon.com.br/dp/B0CX1TP5DM?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/41C7vNzzSFL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-13T22:00:00-03:00",
-   "coletado_em": "2026-11-12T18:22:31-03:00",
-   "preco_em": "2026-11-12T18:22:31-03:00",
-   "entrou": "2026-11-12T18:36:22.412880-03:00"
-  },
-  {
-   "id": "amz-B0CLDRS18S",
-   "canal": "achadinhos",
-   "nome": "Aspirador de Pó Automotivo WAP Car 12V",
-   "preco_antigo": 119.9,
-   "preco": 69.9,
-   "desconto": 42,
-   "link": "https://www.amazon.com.br/dp/B0CLDRS18S?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/71zj-+xJrbL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-13T22:00:00-03:00",
-   "coletado_em": "2026-11-12T18:22:31-03:00",
-   "preco_em": "2026-11-12T18:22:31-03:00",
-   "entrou": "2026-11-12T18:36:22.412880-03:00"
-  },
-  {
-   "id": "amz-B0HF5265TZ",
-   "canal": "achadinhos",
-   "nome": "Refil Escova Elétrica Oral-B iO",
-   "preco_antigo": 109.7,
-   "preco": 76.59,
-   "desconto": 30,
-   "link": "https://www.amazon.com.br/dp/B0HF5265TZ?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61P5JNNVP4L._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-13T22:00:00-03:00",
-   "coletado_em": "2026-11-12T18:22:31-03:00",
-   "preco_em": "2026-11-12T18:22:31-03:00",
-   "entrou": "2026-11-12T18:36:22.412880-03:00"
-  },
-  {
-   "id": "amz-B0C2J8XTYY",
-   "canal": "achadinhos",
-   "nome": "Lâminas de Reposição Originais Philips OneBlade",
-   "preco_antigo": 239.9,
-   "preco": 113.63,
-   "desconto": 53,
-   "link": "https://www.amazon.com.br/dp/B0C2J8XTYY?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/81jIOcGhrTL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-13T22:00:00-03:00",
-   "coletado_em": "2026-11-12T18:22:31-03:00",
-   "preco_em": "2026-11-12T18:22:31-03:00",
-   "entrou": "2026-11-12T18:36:22.412880-03:00"
-  },
-  {
-   "id": "amz-B0CQRVQMXD",
-   "canal": "achadinhos",
-   "nome": "Frigideira Inox Antiaderente Electrolux",
-   "preco_antigo": 229.9,
-   "preco": 129.9,
-   "desconto": 43,
-   "link": "https://www.amazon.com.br/dp/B0CQRVQMXD?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/617owVlzb6L._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-13T22:00:00-03:00",
-   "coletado_em": "2026-11-12T18:22:31-03:00",
-   "preco_em": "2026-11-12T18:22:31-03:00",
-   "entrou": "2026-11-12T18:36:22.412880-03:00"
-  },
-  {
-   "id": "amz-B0GV1MKHDB",
-   "canal": "marcas",
-   "nome": "Tênis Mizuno CSD Sport",
-   "preco_antigo": 499.99,
-   "preco": 269.9,
-   "desconto": 46,
-   "link": "https://www.amazon.com.br/dp/B0GV1MKHDB?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/710bVW5qxEL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-13T22:00:00-03:00",
-   "coletado_em": "2026-11-12T18:22:31-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "preco_em": "2026-11-12T18:22:31-03:00",
-   "entrou": "2026-11-12T18:36:22.412880-03:00"
-  },
-  {
-   "id": "amz-B01N5IB20Q",
-   "canal": "tech",
-   "nome": "SSD Kingston A400 240GB",
-   "preco_antigo": 600.77,
-   "preco": 313.49,
-   "desconto": 48,
-   "link": "https://www.amazon.com.br/dp/B01N5IB20Q?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/81+9rUcRVTL._AC_SL1500_.jpg",
-   "loja": "Vendido por parceiro · entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-13T22:00:00-03:00",
-   "coletado_em": "2026-11-12T18:22:31-03:00",
-   "preco_em": "2026-11-12T18:22:31-03:00",
-   "entrou": "2026-11-12T18:36:22.412880-03:00"
-  }
- ],
+ "fila": [],
  "menus_fixados": [
   "v1 @papagarimpou",
   "v1 @papagarimpoumarcas",
@@ -15737,7 +15759,14 @@
   "roteadormeshtplinkdecox502unidades": "2026-11-12T20:11:52.454131-03:00",
   "detergenteypeclear500ml": "2026-11-12T20:19:42.081127-03:00",
   "tenisolympikusintuit": "2026-11-12T20:26:35.475660-03:00",
-  "fonebluetoothjbltune730bt": "2026-11-12T20:33:24.277903-03:00"
+  "fonebluetoothjbltune730bt": "2026-11-12T20:33:24.277903-03:00",
+  "liquidificadorphilipswalitaserie3000": "2026-11-12T20:38:30.825080-03:00",
+  "tenismizunocsdsport": "2026-11-12T20:44:41.013467-03:00",
+  "aspiradordepoautomotivowapcar12v": "2026-11-12T20:52:30.528078-03:00",
+  "ssdkingstona400240gb": "2026-11-12T20:59:51.087583-03:00",
+  "refilescovaeletricaoralbio": "2026-11-12T21:07:11.499989-03:00",
+  "laminasdereposicaooriginaisphilipsoneblade": "2026-11-12T21:13:16.486087-03:00",
+  "frigideirainoxantiaderenteelectrolux": "2026-11-12T21:20:11.628838-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
@@ -16035,7 +16064,7 @@
    "entradas": []
   }
  },
- "tg_offset": 354369950,
+ "tg_offset": 354369951,
  "adivinha": {
   "dia": "2026-11-11",
   "oferta": {
@@ -16096,14 +16125,14 @@
   "2026-11-10 noite marcas",
   "2026-11-12 noite marcas"
  ],
- "reserva_meio": "2026-11-12T18:27:29.395436-03:00",
+ "reserva_meio": "2026-11-12T21:13:16.257203-03:00",
  "reserva_cheia": {
   "achadinhos": "2026-11-12T17:34:05.140167-03:00",
   "tech": "2026-11-12T17:56:29.409807-03:00",
   "marcas": "2026-11-12T17:56:29.409807-03:00"
  },
  "top10_dia": "2026-11-07",
- "manuais_lidos": "2026-11-12T20:32:55.358197-03:00",
+ "manuais_lidos": "2026-11-12T21:13:16.257203-03:00",
  "reserva_resultado": {
   "2026-11-07": {
    "achadinhos": {
@@ -16257,7 +16286,7 @@
    "hora": "2026-11-11T20:32:35.453128-03:00"
   }
  },
- "ig_respondido_em": "2026-11-12T20:32:55.358197-03:00",
+ "ig_respondido_em": "2026-11-12T21:20:04.547323-03:00",
  "dm_auto": {
   "2026-11-08": {
    "com_palavra": 0,
@@ -16621,7 +16650,7 @@
    "feed": 0
   },
   "2026-11-12": {
-   "story": 14,
+   "story": 15,
    "feed": 2
   }
  },

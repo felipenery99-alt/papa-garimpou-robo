@@ -2367,17 +2367,17 @@
    "⚠️ Fila vazia (achadinhos, marcas, tech), último garimpo 13:20 — abrir o app Claude e conferir as rotinas",
    "canal marcas sem oferta na fila há 69 min (busca extra também não achou). Abastecer ofertas_manuais.json."
   ],
-  "ultima_execucao": "19:51",
-  "execucoes": 19,
+  "ultima_execucao": "20:34",
+  "execucoes": 20,
   "telegram_posts": {
-   "achadinhos": 36,
-   "marcas": 27,
-   "tech": 28
+   "achadinhos": 41,
+   "marcas": 28,
+   "tech": 29
   },
   "ultimo_post": {
-   "achadinhos": "20:19",
-   "marcas": "20:26",
-   "tech": "20:33"
+   "achadinhos": "21:20",
+   "marcas": "20:44",
+   "tech": "20:59"
   },
   "meta_token": {
    "tipo": "SYSTEM_USER",
@@ -2406,7 +2406,7 @@
   "telegram_membros": {
    "achadinhos": 3,
    "marcas": 6,
-   "tech": 7,
+   "tech": 6,
    "geral": 5
   },
   "instagram_feito": [
@@ -2429,7 +2429,9 @@
    "feed",
    "19:15 post_achado",
    "19:17 story_oferta",
-   "20:30 reels"
+   "20:30 reels",
+   "20:35 story_top4",
+   "21:20 story_convite"
   ],
   "shopee_ligada": true,
   "dm_auto": {
@@ -5803,10 +5805,13 @@
    "shopee-19298272743": "vendas longe",
    "shopee-23794181724": "vendas longe",
    "shopee-23299872597": "nota",
-   "shopee-22299872463": "nota"
+   "shopee-22299872463": "nota",
+   "shopee-22392678144": "vendas longe",
+   "shopee-9386128878": "vendas longe",
+   "shopee-22599546621": "vendas longe"
   },
   "shopee_oficial": {
-   "vendas longe": 1713,
+   "vendas longe": 1716,
    "nota": 1256,
    "vendas perto (125+)": 104,
    "outro: marca fora da lista boa": 87,
@@ -5818,13 +5823,13 @@
   "instagram": {
    "seguidores": 476,
    "posts": 120,
-   "reach": 2616,
-   "profile_views": 93,
+   "reach": 2667,
+   "profile_views": 98,
    "website_clicks": 1,
-   "stories_ativos": 19
+   "stories_ativos": 17
   },
   "reels_alcance": {
-   "atualizado": "2026-11-12T19:51:19.247399-03:00",
+   "atualizado": "2026-11-12T20:34:06.285120-03:00",
    "itens": [
     {
      "id": "18230902090331796",
@@ -6010,24 +6015,15 @@
      "id": "18128890189921037",
      "hora": "06/11 09:37",
      "capa": "ate_off",
-     "reach": 4,
+     "reach": 0,
      "views": 5,
-     "shares": 0,
-     "saved": 0
-    },
-    {
-     "id": "18448470532130420",
-     "hora": "05/11 21:12",
-     "capa": "ate_off",
-     "reach": 7,
-     "views": 9,
      "shares": 0,
      "saved": 0
     }
    ],
    "por_capa": {
     "ate_off": {
-     "n": 19,
+     "n": 18,
      "alcance_medio": 4
     },
     "uma_oferta": {
@@ -6237,10 +6233,16 @@
    "amz-B0D4ZLWZBW": "ja_postado_30d",
    "amz-B08MKVFT1W": "ja_postado_30d",
    "amz-B096ZV6PM1": "ja_postado_30d",
-   "amz-B0D3241PNR": "ja_postado_30d"
+   "amz-B0D3241PNR": "ja_postado_30d",
+   "amz-B0GQZF2DHP": "ja_postado_30d",
+   "amz-B0CX1TP5DM": "ja_postado_30d",
+   "amz-B0CLDRS18S": "ja_postado_30d",
+   "amz-B0GV1MKHDB": "ja_postado_30d",
+   "amz-B01N5IB20Q": "ja_postado_30d",
+   "amz-B0HF5265TZ": "ja_postado_30d"
   },
   "manuais_descartados": {
-   "ja_postado_30d": 200
+   "ja_postado_30d": 206
   },
   "tiktok": [
    {
