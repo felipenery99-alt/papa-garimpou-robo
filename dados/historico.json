@@ -1149,7 +1149,14 @@
   "2026-11-13 tech 08:38 amz-B0FF676FXT",
   "2026-11-13 achadinhos 08:45 amz-B0FNRZDCCS",
   "2026-11-13 marcas 08:52 amz-B0F2GMT6T3",
-  "2026-11-13 tech 08:58 amz-B0CVHGG6FG"
+  "2026-11-13 tech 08:58 amz-B0CVHGG6FG",
+  "2026-11-13 achadinhos 09:06 amz-B0842P53QT",
+  "2026-11-13 achadinhos 09:08 amz-B0C6YCW4WW",
+  "2026-11-13 marcas 09:14 amz-B08FV44PJ3",
+  "2026-11-13 tech 09:22 amz-B0GHZYTTVQ",
+  "2026-11-13 achadinhos 09:29 amz-B0F4G5L639",
+  "2026-11-13 marcas 09:35 amz-B000E7YK5K",
+  "2026-11-13 tech 09:44 amz-B0FK1NJLXB"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -2257,7 +2264,14 @@
   "amz-B0FF676FXT": "2026-11-13T08:38:05.322151-03:00",
   "amz-B0FNRZDCCS": "2026-11-13T08:45:35.276577-03:00",
   "amz-B0F2GMT6T3": "2026-11-13T08:52:26.537648-03:00",
-  "amz-B0CVHGG6FG": "2026-11-13T08:58:49.021387-03:00"
+  "amz-B0CVHGG6FG": "2026-11-13T08:58:49.021387-03:00",
+  "amz-B0842P53QT": "2026-11-13T09:06:57.323706-03:00",
+  "amz-B0C6YCW4WW": "2026-11-13T09:08:03.319850-03:00",
+  "amz-B08FV44PJ3": "2026-11-13T09:14:32.363807-03:00",
+  "amz-B0GHZYTTVQ": "2026-11-13T09:22:25.583236-03:00",
+  "amz-B0F4G5L639": "2026-11-13T09:29:30.641546-03:00",
+  "amz-B000E7YK5K": "2026-11-13T09:35:53.262163-03:00",
+  "amz-B0FK1NJLXB": "2026-11-13T09:44:02.002647-03:00"
  },
  "ofertas_dia": [
   {
@@ -14534,6 +14548,126 @@
    "preco_em": "2026-11-13T08:17:15-03:00",
    "entrou": "2026-11-13T08:17:33.727221-03:00",
    "dia": "2026-11-13"
+  },
+  {
+   "id": "amz-B0842P53QT",
+   "canal": "achadinhos",
+   "nome": "Pote de Vidro Hermético Invicta 1,04 L",
+   "preco_antigo": 33.14,
+   "preco": 19.9,
+   "desconto": 40,
+   "link": "https://www.amazon.com.br/dp/B0842P53QT?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/512JyNAwIlL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-14T22:00:00-03:00",
+   "coletado_em": "2026-11-13T08:17:15-03:00",
+   "preco_em": "2026-11-13T08:17:15-03:00",
+   "entrou": "2026-11-13T08:17:33.727221-03:00",
+   "dia": "2026-11-13"
+  },
+  {
+   "id": "amz-B0C6YCW4WW",
+   "canal": "achadinhos",
+   "nome": "Multiprocessador Philips Walita PowerChop 600 Plus 4 em 1",
+   "preco_antigo": 329.9,
+   "preco": 207.6,
+   "desconto": 37,
+   "link": "https://www.amazon.com.br/dp/B0C6YCW4WW?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71nBQOxN5TL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-14T22:00:00-03:00",
+   "coletado_em": "2026-11-13T08:17:15-03:00",
+   "preco_em": "2026-11-13T08:17:15-03:00",
+   "entrou": "2026-11-13T08:17:33.727221-03:00",
+   "dia": "2026-11-13"
+  },
+  {
+   "id": "amz-B08FV44PJ3",
+   "canal": "marcas",
+   "nome": "Creatina 100% Pura Adaptogen 300g",
+   "preco_antigo": 104.99,
+   "preco": 37.9,
+   "desconto": 64,
+   "link": "https://www.amazon.com.br/dp/B08FV44PJ3?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61RpJTHzwuL._AC_SL1500_.jpg",
+   "loja": "Vendido por parceiro · entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-14T22:00:00-03:00",
+   "coletado_em": "2026-11-13T08:17:15-03:00",
+   "preco_em": "2026-11-13T08:17:15-03:00",
+   "entrou": "2026-11-13T08:17:33.727221-03:00",
+   "dia": "2026-11-13"
+  },
+  {
+   "id": "amz-B0GHZYTTVQ",
+   "canal": "tech",
+   "nome": "Fone JBL Endurance Peak 4 esportivo ANC IP68",
+   "preco_antigo": 799.0,
+   "preco": 541.0,
+   "desconto": 32,
+   "link": "https://www.amazon.com.br/dp/B0GHZYTTVQ?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/41VCuV6hyGL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-14T22:00:00-03:00",
+   "coletado_em": "2026-11-13T08:17:15-03:00",
+   "preco_em": "2026-11-13T08:17:15-03:00",
+   "entrou": "2026-11-13T08:17:33.727221-03:00",
+   "dia": "2026-11-13"
+  },
+  {
+   "id": "amz-B0F4G5L639",
+   "canal": "achadinhos",
+   "nome": "Liquidificador Arno Power Mix 700W 2,4L",
+   "preco_antigo": 199.99,
+   "preco": 99.0,
+   "desconto": 50,
+   "link": "https://www.amazon.com.br/dp/B0F4G5L639?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61iQo0VNuSL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-14T22:00:00-03:00",
+   "coletado_em": "2026-11-13T08:17:15-03:00",
+   "gancho": "LIQUIDIFICADOR ARNO PELA METADE",
+   "preco_em": "2026-11-13T08:17:15-03:00",
+   "entrou": "2026-11-13T08:17:33.727221-03:00",
+   "dia": "2026-11-13"
+  },
+  {
+   "id": "amz-B000E7YK5K",
+   "canal": "marcas",
+   "nome": "Perfume Acqua di Giò Giorgio Armani EDT masculino",
+   "preco_antigo": 819.0,
+   "preco": 469.99,
+   "desconto": 43,
+   "link": "https://www.amazon.com.br/dp/B000E7YK5K?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61uaspEIxKL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-14T22:00:00-03:00",
+   "coletado_em": "2026-11-13T08:17:15-03:00",
+   "preco_em": "2026-11-13T08:17:15-03:00",
+   "entrou": "2026-11-13T08:17:33.727221-03:00",
+   "dia": "2026-11-13"
+  },
+  {
+   "id": "amz-B0FK1NJLXB",
+   "canal": "tech",
+   "nome": "Caixa de Som JBL Boombox 4 Bluetooth IP68",
+   "preco_antigo": 3199.0,
+   "preco": 2033.1,
+   "desconto": 36,
+   "link": "https://www.amazon.com.br/dp/B0FK1NJLXB?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71FPDlwePVL._AC_SL1500_.jpg",
+   "loja": "Vendido por parceiro · entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-14T22:00:00-03:00",
+   "coletado_em": "2026-11-13T08:17:15-03:00",
+   "preco_em": "2026-11-13T08:17:15-03:00",
+   "entrou": "2026-11-13T08:17:33.727221-03:00",
+   "dia": "2026-11-13"
   }
  ],
  "ig_feitos": [
@@ -14646,7 +14780,8 @@
   "2026-11-12 20:35 story_top4",
   "2026-11-12 21:20 story_convite",
   "2026-11-13 08:07 story_oferta",
-  "2026-11-13 08:52 story_oferta"
+  "2026-11-13 08:52 story_oferta",
+  "2026-11-13 09:40 story_convite"
  ],
  "ig_ofertas_usadas": [
   "amz-B08XQWLDKP",
@@ -14918,71 +15053,6 @@
  "ultimo_pilar": "blackfriday",
  "fila": [
   {
-   "id": "amz-B08746TZ2V",
-   "canal": "achadinhos",
-   "nome": "Mixer Philips Walita Pro Mix 4 em 1 400W",
-   "preco_antigo": 399.9,
-   "preco": 233.99,
-   "desconto": 41,
-   "link": "https://www.amazon.com.br/dp/B08746TZ2V?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51P6uGuFS8L._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-14T22:00:00-03:00",
-   "coletado_em": "2026-11-13T08:17:15-03:00",
-   "preco_em": "2026-11-13T08:17:15-03:00",
-   "entrou": "2026-11-13T08:17:33.727221-03:00"
-  },
-  {
-   "id": "amz-B0842P53QT",
-   "canal": "achadinhos",
-   "nome": "Pote de Vidro Hermético Invicta 1,04 L",
-   "preco_antigo": 33.14,
-   "preco": 19.9,
-   "desconto": 40,
-   "link": "https://www.amazon.com.br/dp/B0842P53QT?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/512JyNAwIlL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-14T22:00:00-03:00",
-   "coletado_em": "2026-11-13T08:17:15-03:00",
-   "preco_em": "2026-11-13T08:17:15-03:00",
-   "entrou": "2026-11-13T08:17:33.727221-03:00"
-  },
-  {
-   "id": "amz-B0C6YCW4WW",
-   "canal": "achadinhos",
-   "nome": "Multiprocessador Philips Walita PowerChop 600 Plus 4 em 1",
-   "preco_antigo": 329.9,
-   "preco": 207.6,
-   "desconto": 37,
-   "link": "https://www.amazon.com.br/dp/B0C6YCW4WW?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/71nBQOxN5TL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-14T22:00:00-03:00",
-   "coletado_em": "2026-11-13T08:17:15-03:00",
-   "preco_em": "2026-11-13T08:17:15-03:00",
-   "entrou": "2026-11-13T08:17:33.727221-03:00"
-  },
-  {
-   "id": "amz-B0F4G5L639",
-   "canal": "achadinhos",
-   "nome": "Liquidificador Arno Power Mix 700W 2,4L",
-   "preco_antigo": 199.99,
-   "preco": 99.0,
-   "desconto": 50,
-   "link": "https://www.amazon.com.br/dp/B0F4G5L639?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61iQo0VNuSL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-14T22:00:00-03:00",
-   "coletado_em": "2026-11-13T08:17:15-03:00",
-   "gancho": "LIQUIDIFICADOR ARNO PELA METADE",
-   "preco_em": "2026-11-13T08:17:15-03:00",
-   "entrou": "2026-11-13T08:17:33.727221-03:00"
-  },
-  {
    "id": "amz-B000P275F6",
    "canal": "achadinhos",
    "nome": "Perfume Nautica Voyage EDT 50ml",
@@ -15055,38 +15125,6 @@
    "desconto": 39,
    "link": "https://www.amazon.com.br/dp/B07DKPFDMW?tag=papagarimpou-20",
    "imagem": "https://m.media-amazon.com/images/I/71I+1RuM9-L._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-14T22:00:00-03:00",
-   "coletado_em": "2026-11-13T08:17:15-03:00",
-   "preco_em": "2026-11-13T08:17:15-03:00",
-   "entrou": "2026-11-13T08:17:33.727221-03:00"
-  },
-  {
-   "id": "amz-B08FV44PJ3",
-   "canal": "marcas",
-   "nome": "Creatina 100% Pura Adaptogen 300g",
-   "preco_antigo": 104.99,
-   "preco": 37.9,
-   "desconto": 64,
-   "link": "https://www.amazon.com.br/dp/B08FV44PJ3?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61RpJTHzwuL._AC_SL1500_.jpg",
-   "loja": "Vendido por parceiro · entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-14T22:00:00-03:00",
-   "coletado_em": "2026-11-13T08:17:15-03:00",
-   "preco_em": "2026-11-13T08:17:15-03:00",
-   "entrou": "2026-11-13T08:17:33.727221-03:00"
-  },
-  {
-   "id": "amz-B000E7YK5K",
-   "canal": "marcas",
-   "nome": "Perfume Acqua di Giò Giorgio Armani EDT masculino",
-   "preco_antigo": 819.0,
-   "preco": 469.99,
-   "desconto": 43,
-   "link": "https://www.amazon.com.br/dp/B000E7YK5K?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61uaspEIxKL._AC_SL1500_.jpg",
    "loja": "Vendido e entregue pela Amazon",
    "plataforma": "Amazon",
    "valida_ate": "2026-11-14T22:00:00-03:00",
@@ -15281,38 +15319,6 @@
    "entrou": "2026-11-13T08:17:33.727221-03:00"
   },
   {
-   "id": "amz-B0GHZYTTVQ",
-   "canal": "tech",
-   "nome": "Fone JBL Endurance Peak 4 esportivo ANC IP68",
-   "preco_antigo": 799.0,
-   "preco": 541.0,
-   "desconto": 32,
-   "link": "https://www.amazon.com.br/dp/B0GHZYTTVQ?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/41VCuV6hyGL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-14T22:00:00-03:00",
-   "coletado_em": "2026-11-13T08:17:15-03:00",
-   "preco_em": "2026-11-13T08:17:15-03:00",
-   "entrou": "2026-11-13T08:17:33.727221-03:00"
-  },
-  {
-   "id": "amz-B0FK1NJLXB",
-   "canal": "tech",
-   "nome": "Caixa de Som JBL Boombox 4 Bluetooth IP68",
-   "preco_antigo": 3199.0,
-   "preco": 2033.1,
-   "desconto": 36,
-   "link": "https://www.amazon.com.br/dp/B0FK1NJLXB?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/71FPDlwePVL._AC_SL1500_.jpg",
-   "loja": "Vendido por parceiro · entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-14T22:00:00-03:00",
-   "coletado_em": "2026-11-13T08:17:15-03:00",
-   "preco_em": "2026-11-13T08:17:15-03:00",
-   "entrou": "2026-11-13T08:17:33.727221-03:00"
-  },
-  {
    "id": "amz-B0FLKL7DHZ",
    "canal": "tech",
    "nome": "Monitor Gamer AOC AGON G50 27\" 144Hz IPS G-Sync",
@@ -15409,6 +15415,56 @@
    "link": "https://s.shopee.com.br/906hn0lH8D",
    "canal": "marcas",
    "entrou": "2026-11-13T08:17:33.727221-03:00"
+  },
+  {
+   "id": "shopee-22594959465",
+   "plataforma": "Shopee",
+   "nome": "Refil Desodorante Corporal Natura Essencial Atrai Masculino",
+   "loja": "NATURA",
+   "loja_oficial": true,
+   "preco": 28.45,
+   "preco_antigo": 56.9,
+   "desconto": 50,
+   "vendas": 653,
+   "nota": 4.9,
+   "comissao_pct": 16.0,
+   "imagem": "https://cf.shopee.com.br/file/sg-11134201-820lr-mnk67stocg0843",
+   "link": "https://s.shopee.com.br/3B8uqA6NmO",
+   "canal": "achadinhos",
+   "entrou": "2026-11-13T09:02:44.806912-03:00"
+  },
+  {
+   "id": "shopee-50801661798",
+   "plataforma": "Shopee",
+   "nome": "Caixa de Som Bluetooth JBL Boombox 4, com Auracast, IP68 Azul - 28913918",
+   "loja": "TNTinfoLoja",
+   "loja_oficial": true,
+   "preco": 2343.04,
+   "preco_antigo": 3905.07,
+   "desconto": 40,
+   "vendas": 519,
+   "nota": 5.0,
+   "comissao_pct": 6.0,
+   "imagem": "https://cf.shopee.com.br/file/sg-11134201-821d7-mh7w8c1tekg93a",
+   "link": "https://s.shopee.com.br/6q2DHq0KHo",
+   "canal": "tech",
+   "entrou": "2026-11-13T09:02:44.806912-03:00"
+  },
+  {
+   "id": "amz-B08746TZ2V",
+   "canal": "achadinhos",
+   "nome": "Mixer Philips Walita Pro Mix 4 em 1 400W",
+   "preco_antigo": 399.9,
+   "preco": 233.99,
+   "desconto": 41,
+   "link": "https://www.amazon.com.br/dp/B08746TZ2V?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51P6uGuFS8L._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-14T22:00:00-03:00",
+   "coletado_em": "2026-11-13T08:17:15-03:00",
+   "preco_em": "2026-11-13T08:17:15-03:00",
+   "entrou": "2026-11-13T09:08:02.942949-03:00"
   }
  ],
  "menus_fixados": [
@@ -16368,7 +16424,14 @@
   "smarttvsamsung43fullhdtizen2025": "2026-11-13T08:38:05.322151-03:00",
   "liquidificadorelectroluxpulsar1500w32l": "2026-11-13T08:45:35.276577-03:00",
   "integralmedicawheycrispbarovomaltine12un": "2026-11-13T08:52:26.537648-03:00",
-  "microfonesemfiojblquantumstreamwirelesslapelausbc": "2026-11-13T08:58:49.021387-03:00"
+  "microfonesemfiojblquantumstreamwirelesslapelausbc": "2026-11-13T08:58:49.021387-03:00",
+  "potedevidrohermeticoinvicta104l": "2026-11-13T09:06:57.323706-03:00",
+  "multiprocessadorphilipswalitapowerchop600plus4em1": "2026-11-13T09:08:03.319850-03:00",
+  "creatina100puraadaptogen300g": "2026-11-13T09:14:32.363807-03:00",
+  "fonejblendurancepeak4esportivoancip68": "2026-11-13T09:22:25.583236-03:00",
+  "liquidificadorarnopowermix700w24l": "2026-11-13T09:29:30.641546-03:00",
+  "perfumeacquadigiogiorgioarmaniedtmasculino": "2026-11-13T09:35:53.262163-03:00",
+  "caixadesomjblboombox4bluetoothip68": "2026-11-13T09:44:02.002647-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
@@ -16734,7 +16797,7 @@
   "marcas": "2026-11-12T17:56:29.409807-03:00"
  },
  "top10_dia": "2026-11-07",
- "manuais_lidos": "2026-11-13T08:52:09.890306-03:00",
+ "manuais_lidos": "2026-11-13T09:35:52.946553-03:00",
  "reserva_resultado": {
   "2026-11-07": {
    "achadinhos": {
@@ -16905,7 +16968,7 @@
    "hora": "2026-11-11T20:32:35.453128-03:00"
   }
  },
- "ig_respondido_em": "2026-11-13T08:52:09.890306-03:00",
+ "ig_respondido_em": "2026-11-13T09:43:39.750833-03:00",
  "dm_auto": {
   "2026-11-08": {
    "com_palavra": 0,
@@ -17231,7 +17294,7 @@
    "feed": 2
   },
   "2026-11-13": {
-   "story": 2,
+   "story": 3,
    "feed": 0
   }
  },

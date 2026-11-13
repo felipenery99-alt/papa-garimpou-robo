@@ -10,5 +10,11 @@
   "vezes": 1,
   "ultimo": "2026-11-12T21:23+00:00",
   "texto": "canal marcas sem oferta na fila há 69 min (busca extra também não achou). Abastecer ofertas_manuais.json."
+ },
+ "erro em #-#-# achadinhos #:# amz-B#TZ#V: ('Connection aborted.', ConnectionReset": {
+  "primeiro": "2026-11-13T12:05+00:00",
+  "vezes": 1,
+  "ultimo": "2026-11-13T12:05+00:00",
+  "texto": "erro em 2026-11-13 achadinhos 09:05 amz-B08746TZ2V: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer')). Não postei."
  }
 }
