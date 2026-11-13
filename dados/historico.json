@@ -1231,7 +1231,13 @@
   "2026-11-13 tech 18:46 amz-B0H12JMQG7",
   "2026-11-13 achadinhos 18:53 amz-B08C99QV6T",
   "2026-11-13 marcas 18:59 amz-B0H1H831SP",
-  "2026-11-13 tech 19:06 amz-B0DDTVL8V2"
+  "2026-11-13 tech 19:06 amz-B0DDTVL8V2",
+  "2026-11-13 achadinhos 19:13 amz-B0F676GF1X",
+  "2026-11-13 marcas 19:20 amz-B0FFTPRLDT",
+  "2026-11-13 tech 19:26 amz-B0GQWK8Y7F",
+  "2026-11-13 achadinhos 19:34 amz-B0DF3R4R73",
+  "2026-11-13 marcas 19:41 amz-B0B64C5M7V",
+  "2026-11-13 tech 19:48 amz-B0DJD163HT"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -2415,7 +2421,13 @@
   "amz-B0H12JMQG7": "2026-11-13T18:46:57.649909-03:00",
   "amz-B08C99QV6T": "2026-11-13T18:53:34.437427-03:00",
   "amz-B0H1H831SP": "2026-11-13T18:59:42.403656-03:00",
-  "amz-B0DDTVL8V2": "2026-11-13T19:06:52.308681-03:00"
+  "amz-B0DDTVL8V2": "2026-11-13T19:06:52.308681-03:00",
+  "amz-B0F676GF1X": "2026-11-13T19:13:30.270653-03:00",
+  "amz-B0FFTPRLDT": "2026-11-13T19:20:45.181036-03:00",
+  "amz-B0GQWK8Y7F": "2026-11-13T19:26:57.878903-03:00",
+  "amz-B0DF3R4R73": "2026-11-13T19:34:01.047204-03:00",
+  "amz-B0B64C5M7V": "2026-11-13T19:41:49.482729-03:00",
+  "amz-B0DJD163HT": "2026-11-13T19:48:58.430577-03:00"
  },
  "ofertas_dia": [
   {
@@ -16016,6 +16028,110 @@
    "preco_em": "2026-11-13T18:17:11-03:00",
    "entrou": "2026-11-13T18:24:16.101370-03:00",
    "dia": "2026-11-13"
+  },
+  {
+   "id": "amz-B0F676GF1X",
+   "canal": "achadinhos",
+   "nome": "Parafusadeira e Furadeira de Impacto WAP 3/8\"",
+   "preco_antigo": 199.9,
+   "preco": 119.9,
+   "desconto": 40,
+   "link": "https://www.amazon.com.br/dp/B0F676GF1X?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71ReqmBZIQL.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-14T22:00:00-03:00",
+   "coletado_em": "2026-11-13T18:17:11-03:00",
+   "preco_em": "2026-11-13T18:17:11-03:00",
+   "entrou": "2026-11-13T18:24:16.101370-03:00",
+   "dia": "2026-11-13"
+  },
+  {
+   "id": "amz-B0FFTPRLDT",
+   "canal": "marcas",
+   "nome": "Tênis Mizuno Hawk 6",
+   "preco_antigo": 349.99,
+   "preco": 219.99,
+   "desconto": 37,
+   "link": "https://www.amazon.com.br/dp/B0FFTPRLDT?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51kvOqF+bEL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-14T22:00:00-03:00",
+   "coletado_em": "2026-11-13T13:17:28-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "preco_em": "2026-11-13T13:17:28-03:00",
+   "entrou": "2026-11-13T17:32:24.407121-03:00",
+   "dia": "2026-11-13"
+  },
+  {
+   "id": "amz-B0GQWK8Y7F",
+   "canal": "tech",
+   "nome": "Apple iPhone 17 256 GB Branco",
+   "preco_antigo": 7999.0,
+   "preco": 5399.01,
+   "desconto": 33,
+   "link": "https://www.amazon.com.br/dp/B0GQWK8Y7F?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/41i8XYawSOL.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-14T22:00:00-03:00",
+   "coletado_em": "2026-11-13T18:17:11-03:00",
+   "preco_em": "2026-11-13T18:17:11-03:00",
+   "entrou": "2026-11-13T18:24:16.101370-03:00",
+   "dia": "2026-11-13"
+  },
+  {
+   "id": "amz-B0DF3R4R73",
+   "canal": "achadinhos",
+   "nome": "Jogo de Panelas Tramontina Linz Alumínio",
+   "preco_antigo": 320.51,
+   "preco": 189.88,
+   "desconto": 41,
+   "link": "https://www.amazon.com.br/dp/B0DF3R4R73?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/81BP6JiOwsL.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-14T22:00:00-03:00",
+   "coletado_em": "2026-11-13T18:17:11-03:00",
+   "preco_em": "2026-11-13T18:17:11-03:00",
+   "entrou": "2026-11-13T18:24:16.101370-03:00",
+   "dia": "2026-11-13"
+  },
+  {
+   "id": "amz-B0B64C5M7V",
+   "canal": "marcas",
+   "nome": "Tênis Aramis Daily Slip Canvas preto",
+   "preco_antigo": 319.9,
+   "preco": 199.49,
+   "desconto": 38,
+   "link": "https://www.amazon.com.br/dp/B0B64C5M7V?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51hU2fN09nL._AC_SL1200_.jpg",
+   "loja": "Vendido por parceiro · entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-14T22:00:00-03:00",
+   "coletado_em": "2026-11-13T13:18:01-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "preco_em": "2026-11-13T13:18:01-03:00",
+   "entrou": "2026-11-13T17:32:24.407121-03:00",
+   "dia": "2026-11-13"
+  },
+  {
+   "id": "amz-B0DJD163HT",
+   "canal": "tech",
+   "nome": "Teclado Gamer Logitech G PRO X TKL Rapid",
+   "preco_antigo": 1399.9,
+   "preco": 980.0,
+   "desconto": 30,
+   "link": "https://www.amazon.com.br/dp/B0DJD163HT?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61j0kN35ADL.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-14T22:00:00-03:00",
+   "coletado_em": "2026-11-13T18:17:11-03:00",
+   "preco_em": "2026-11-13T18:17:11-03:00",
+   "entrou": "2026-11-13T18:24:16.101370-03:00",
+   "dia": "2026-11-13"
   }
  ],
  "ig_feitos": [
@@ -16145,11 +16261,12 @@
   "2026-11-13 17:36 story_oferta",
   "2026-11-13 18:05 a_ou_b",
   "2026-11-13 18:30 reels",
-  "2026-11-13 18:42 story_oferta"
+  "2026-11-13 18:42 story_oferta",
+  "2026-11-13 feed",
+  "2026-11-13 19:15 post_achado",
+  "2026-11-13 19:17 story_oferta"
  ],
  "ig_ofertas_usadas": [
-  "shopee-22592962752",
-  "amz-B0FFTQD31C",
   "amz-B0B1LJFBPY",
   "amz-B0DB8TRNZX",
   "shopee-58209674589",
@@ -16347,7 +16464,9 @@
   "shopee-22998796938",
   "shopee-10677614679",
   "shopee-18516472597",
-  "shopee-58204551307"
+  "shopee-58204551307",
+  "shopee-16589927812",
+  "shopee-58254143357"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
@@ -16419,40 +16538,6 @@
  "ultimo_pilar": "humor",
  "fila": [
   {
-   "id": "amz-B0FFTPRLDT",
-   "canal": "marcas",
-   "nome": "Tênis Mizuno Hawk 6",
-   "preco_antigo": 349.99,
-   "preco": 219.99,
-   "desconto": 37,
-   "link": "https://www.amazon.com.br/dp/B0FFTPRLDT?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51kvOqF+bEL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-14T22:00:00-03:00",
-   "coletado_em": "2026-11-13T13:17:28-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "preco_em": "2026-11-13T13:17:28-03:00",
-   "entrou": "2026-11-13T17:32:24.407121-03:00"
-  },
-  {
-   "id": "amz-B0B64C5M7V",
-   "canal": "marcas",
-   "nome": "Tênis Aramis Daily Slip Canvas preto",
-   "preco_antigo": 319.9,
-   "preco": 199.49,
-   "desconto": 38,
-   "link": "https://www.amazon.com.br/dp/B0B64C5M7V?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51hU2fN09nL._AC_SL1200_.jpg",
-   "loja": "Vendido por parceiro · entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-14T22:00:00-03:00",
-   "coletado_em": "2026-11-13T13:18:01-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "preco_em": "2026-11-13T13:18:01-03:00",
-   "entrou": "2026-11-13T17:32:24.407121-03:00"
-  },
-  {
    "id": "amz-B07RJYDD41",
    "canal": "marcas",
    "nome": "Kit 6 cuecas boxer Lupo microfibra sem costura",
@@ -16504,38 +16589,6 @@
    "entrou": "2026-11-13T17:32:24.407121-03:00"
   },
   {
-   "id": "amz-B0F676GF1X",
-   "canal": "achadinhos",
-   "nome": "Parafusadeira e Furadeira de Impacto WAP 3/8\"",
-   "preco_antigo": 199.9,
-   "preco": 119.9,
-   "desconto": 40,
-   "link": "https://www.amazon.com.br/dp/B0F676GF1X?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/71ReqmBZIQL.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-14T22:00:00-03:00",
-   "coletado_em": "2026-11-13T18:17:11-03:00",
-   "preco_em": "2026-11-13T18:17:11-03:00",
-   "entrou": "2026-11-13T18:24:16.101370-03:00"
-  },
-  {
-   "id": "amz-B0DF3R4R73",
-   "canal": "achadinhos",
-   "nome": "Jogo de Panelas Tramontina Linz Alumínio",
-   "preco_antigo": 320.51,
-   "preco": 189.88,
-   "desconto": 41,
-   "link": "https://www.amazon.com.br/dp/B0DF3R4R73?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/81BP6JiOwsL.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-14T22:00:00-03:00",
-   "coletado_em": "2026-11-13T18:17:11-03:00",
-   "preco_em": "2026-11-13T18:17:11-03:00",
-   "entrou": "2026-11-13T18:24:16.101370-03:00"
-  },
-  {
    "id": "amz-B0CC6VM1R6",
    "canal": "marcas",
    "nome": "Tênis de Corrida Mizuno Wave Falcon Feminino",
@@ -16583,38 +16636,6 @@
    "valida_ate": "2026-11-14T22:00:00-03:00",
    "coletado_em": "2026-11-13T18:17:11-03:00",
    "extra": "Preço a partir de: varia por tamanho e cor",
-   "preco_em": "2026-11-13T18:17:11-03:00",
-   "entrou": "2026-11-13T18:24:16.101370-03:00"
-  },
-  {
-   "id": "amz-B0GQWK8Y7F",
-   "canal": "tech",
-   "nome": "Apple iPhone 17 256 GB Branco",
-   "preco_antigo": 7999.0,
-   "preco": 5399.01,
-   "desconto": 33,
-   "link": "https://www.amazon.com.br/dp/B0GQWK8Y7F?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/41i8XYawSOL.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-14T22:00:00-03:00",
-   "coletado_em": "2026-11-13T18:17:11-03:00",
-   "preco_em": "2026-11-13T18:17:11-03:00",
-   "entrou": "2026-11-13T18:24:16.101370-03:00"
-  },
-  {
-   "id": "amz-B0DJD163HT",
-   "canal": "tech",
-   "nome": "Teclado Gamer Logitech G PRO X TKL Rapid",
-   "preco_antigo": 1399.9,
-   "preco": 980.0,
-   "desconto": 30,
-   "link": "https://www.amazon.com.br/dp/B0DJD163HT?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61j0kN35ADL.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-14T22:00:00-03:00",
-   "coletado_em": "2026-11-13T18:17:11-03:00",
    "preco_em": "2026-11-13T18:17:11-03:00",
    "entrou": "2026-11-13T18:24:16.101370-03:00"
   },
@@ -17796,7 +17817,13 @@
   "caixadesomjblboombox4": "2026-11-13T18:46:57.649909-03:00",
   "kitparafusadeirafuradeiraboschgsb120li": "2026-11-13T18:53:34.437427-03:00",
   "kit4cuecasboxerluposemcosturamicrofibra": "2026-11-13T18:59:42.403656-03:00",
-  "fonebluetoothjbltourpro3": "2026-11-13T19:06:52.308681-03:00"
+  "fonebluetoothjbltourpro3": "2026-11-13T19:06:52.308681-03:00",
+  "parafusadeiraefuradeiradeimpactowap38": "2026-11-13T19:13:30.270653-03:00",
+  "tenismizunohawk6": "2026-11-13T19:20:45.181036-03:00",
+  "appleiphone17256gbbranco": "2026-11-13T19:26:57.878903-03:00",
+  "jogodepanelastramontinalinzaluminio": "2026-11-13T19:34:01.047204-03:00",
+  "tenisaramisdailyslipcanvaspreto": "2026-11-13T19:41:49.482729-03:00",
+  "tecladogamerlogitechgproxtklrapid": "2026-11-13T19:48:58.430577-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
@@ -18163,14 +18190,14 @@
   "2026-11-10 noite marcas",
   "2026-11-12 noite marcas"
  ],
- "reserva_meio": "2026-11-13T18:23:19.775158-03:00",
+ "reserva_meio": "2026-11-13T19:41:49.166696-03:00",
  "reserva_cheia": {
   "achadinhos": "2026-11-13T12:28:08.378483-03:00",
   "tech": "2026-11-13T18:07:34.116827-03:00",
   "marcas": "2026-11-12T17:56:29.409807-03:00"
  },
  "top10_dia": "2026-11-07",
- "manuais_lidos": "2026-11-13T18:59:38.015240-03:00",
+ "manuais_lidos": "2026-11-13T19:41:49.166696-03:00",
  "reserva_resultado": {
   "2026-11-07": {
    "achadinhos": {
@@ -18341,7 +18368,7 @@
    "hora": "2026-11-11T20:32:35.453128-03:00"
   }
  },
- "ig_respondido_em": "2026-11-13T18:59:38.015240-03:00",
+ "ig_respondido_em": "2026-11-13T19:48:56.044916-03:00",
  "dm_auto": {
   "2026-11-08": {
    "com_palavra": 0,
@@ -18623,8 +18650,8 @@
    "feed": 2
   },
   "2026-11-13": {
-   "story": 15,
-   "feed": 1
+   "story": 16,
+   "feed": 2
   }
  },
  "ig_conta_ok": "2026-11-13",
