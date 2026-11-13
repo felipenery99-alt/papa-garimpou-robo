@@ -1162,7 +1162,12 @@
   "2026-11-13 marcas 10:03 amz-B0GM3L1XBC",
   "2026-11-13 achadinhos 10:18 amz-B0CJ9RX15Q",
   "2026-11-13 marcas 10:26 amz-B0G5B3BV91",
-  "2026-11-13 tech 10:33 amz-B0H46DBZS8"
+  "2026-11-13 tech 10:33 amz-B0H46DBZS8",
+  "2026-11-13 achadinhos 10:40 amz-B0HG3BRBPC",
+  "2026-11-13 marcas 10:47 amz-B0CVXT2XVL",
+  "2026-11-13 achadinhos 11:02 amz-B07DKPFDMW",
+  "2026-11-13 marcas 11:09 amz-B0B5VLF789",
+  "2026-11-13 tech 11:16 amz-B0FPNTYB2L"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -2283,7 +2288,12 @@
   "amz-B0GM3L1XBC": "2026-11-13T10:03:24.756594-03:00",
   "amz-B0CJ9RX15Q": "2026-11-13T10:18:13.749504-03:00",
   "amz-B0G5B3BV91": "2026-11-13T10:26:06.398429-03:00",
-  "amz-B0H46DBZS8": "2026-11-13T10:33:18.779609-03:00"
+  "amz-B0H46DBZS8": "2026-11-13T10:33:18.779609-03:00",
+  "amz-B0HG3BRBPC": "2026-11-13T10:40:20.896033-03:00",
+  "amz-B0CVXT2XVL": "2026-11-13T10:47:29.588987-03:00",
+  "amz-B07DKPFDMW": "2026-11-13T11:02:51.165286-03:00",
+  "amz-B0B5VLF789": "2026-11-13T11:09:12.504417-03:00",
+  "amz-B0FPNTYB2L": "2026-11-13T11:16:15.928721-03:00"
  },
  "ofertas_dia": [
   {
@@ -14784,6 +14794,93 @@
    "preco_em": "2026-11-13T08:17:15-03:00",
    "entrou": "2026-11-13T08:17:33.727221-03:00",
    "dia": "2026-11-13"
+  },
+  {
+   "id": "amz-B0HG3BRBPC",
+   "canal": "achadinhos",
+   "nome": "Aspirador Vertical WAP Power Speed Max CZ40 1600W 3 em 1",
+   "preco_antigo": 329.9,
+   "preco": 209.9,
+   "desconto": 36,
+   "link": "https://www.amazon.com.br/dp/B0HG3BRBPC?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/31QzxKJPlGL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-14T22:00:00-03:00",
+   "coletado_em": "2026-11-13T08:17:15-03:00",
+   "preco_em": "2026-11-13T08:17:15-03:00",
+   "entrou": "2026-11-13T08:17:33.727221-03:00",
+   "dia": "2026-11-13"
+  },
+  {
+   "id": "amz-B0CVXT2XVL",
+   "canal": "marcas",
+   "nome": "Kit 2 Camisas Polo Básicas Hering masculinas",
+   "preco_antigo": 219.99,
+   "preco": 98.78,
+   "desconto": 55,
+   "link": "https://www.amazon.com.br/dp/B0CVXT2XVL?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71CTMBChEuL._AC_SL1500_.jpg",
+   "loja": "Loja oficial Hering · entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-14T22:00:00-03:00",
+   "coletado_em": "2026-11-13T08:17:15-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "preco_em": "2026-11-13T08:17:15-03:00",
+   "entrou": "2026-11-13T08:17:33.727221-03:00",
+   "dia": "2026-11-13"
+  },
+  {
+   "id": "amz-B07DKPFDMW",
+   "canal": "achadinhos",
+   "nome": "Protetor Solar Nivea Sun Protect & Hidrata FPS 30 200ml",
+   "preco_antigo": 58.9,
+   "preco": 36.19,
+   "desconto": 39,
+   "link": "https://www.amazon.com.br/dp/B07DKPFDMW?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71I+1RuM9-L._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-14T22:00:00-03:00",
+   "coletado_em": "2026-11-13T08:17:15-03:00",
+   "preco_em": "2026-11-13T08:17:15-03:00",
+   "entrou": "2026-11-13T08:17:33.727221-03:00",
+   "dia": "2026-11-13"
+  },
+  {
+   "id": "amz-B0B5VLF789",
+   "canal": "marcas",
+   "nome": "Camisa Polo Aramis masculina",
+   "preco_antigo": 219.9,
+   "preco": 130.86,
+   "desconto": 40,
+   "link": "https://www.amazon.com.br/dp/B0B5VLF789?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/717arxFVBsL._AC_SL1500_.jpg",
+   "loja": "Vendido por parceiro · entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-14T22:00:00-03:00",
+   "coletado_em": "2026-11-13T08:17:15-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "preco_em": "2026-11-13T08:17:15-03:00",
+   "entrou": "2026-11-13T08:17:33.727221-03:00",
+   "dia": "2026-11-13"
+  },
+  {
+   "id": "amz-B0FPNTYB2L",
+   "canal": "tech",
+   "nome": "Caixa de Som JBL Go Essential 2 Azul",
+   "preco_antigo": 219.0,
+   "preco": 138.0,
+   "desconto": 37,
+   "link": "https://www.amazon.com.br/dp/B0FPNTYB2L?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71QsbFJDVNL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-14T22:00:00-03:00",
+   "coletado_em": "2026-11-13T08:17:15-03:00",
+   "preco_em": "2026-11-13T08:17:15-03:00",
+   "entrou": "2026-11-13T08:17:33.727221-03:00",
+   "dia": "2026-11-13"
   }
  ],
  "ig_feitos": [
@@ -14898,7 +14995,8 @@
   "2026-11-13 08:07 story_oferta",
   "2026-11-13 08:52 story_oferta",
   "2026-11-13 09:40 story_convite",
-  "2026-11-13 10:20 story_oferta"
+  "2026-11-13 10:20 story_oferta",
+  "2026-11-13 11:11 story_oferta"
  ],
  "ig_ofertas_usadas": [
   "amz-B08XQWLDKP",
@@ -15163,79 +15261,14 @@
   "bf-2026-11-12": "2026-11-12",
   "dc-lista-desejo": "2026-11-13",
   "bf-2026-11-13": "2026-11-13",
-  "dc-troca": "2026-11-13"
+  "dc-troca": "2026-11-13",
+  "hu-sabado": "2026-11-13"
  },
  "pecas_dia": {
-  "2026-11-13": 3
+  "2026-11-13": 4
  },
- "ultimo_pilar": "dica",
+ "ultimo_pilar": "humor",
  "fila": [
-  {
-   "id": "amz-B0HG3BRBPC",
-   "canal": "achadinhos",
-   "nome": "Aspirador Vertical WAP Power Speed Max CZ40 1600W 3 em 1",
-   "preco_antigo": 329.9,
-   "preco": 209.9,
-   "desconto": 36,
-   "link": "https://www.amazon.com.br/dp/B0HG3BRBPC?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/31QzxKJPlGL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-14T22:00:00-03:00",
-   "coletado_em": "2026-11-13T08:17:15-03:00",
-   "preco_em": "2026-11-13T08:17:15-03:00",
-   "entrou": "2026-11-13T08:17:33.727221-03:00"
-  },
-  {
-   "id": "amz-B07DKPFDMW",
-   "canal": "achadinhos",
-   "nome": "Protetor Solar Nivea Sun Protect & Hidrata FPS 30 200ml",
-   "preco_antigo": 58.9,
-   "preco": 36.19,
-   "desconto": 39,
-   "link": "https://www.amazon.com.br/dp/B07DKPFDMW?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/71I+1RuM9-L._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-14T22:00:00-03:00",
-   "coletado_em": "2026-11-13T08:17:15-03:00",
-   "preco_em": "2026-11-13T08:17:15-03:00",
-   "entrou": "2026-11-13T08:17:33.727221-03:00"
-  },
-  {
-   "id": "amz-B0CVXT2XVL",
-   "canal": "marcas",
-   "nome": "Kit 2 Camisas Polo Básicas Hering masculinas",
-   "preco_antigo": 219.99,
-   "preco": 98.78,
-   "desconto": 55,
-   "link": "https://www.amazon.com.br/dp/B0CVXT2XVL?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/71CTMBChEuL._AC_SL1500_.jpg",
-   "loja": "Loja oficial Hering · entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-14T22:00:00-03:00",
-   "coletado_em": "2026-11-13T08:17:15-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "preco_em": "2026-11-13T08:17:15-03:00",
-   "entrou": "2026-11-13T08:17:33.727221-03:00"
-  },
-  {
-   "id": "amz-B0B5VLF789",
-   "canal": "marcas",
-   "nome": "Camisa Polo Aramis masculina",
-   "preco_antigo": 219.9,
-   "preco": 130.86,
-   "desconto": 40,
-   "link": "https://www.amazon.com.br/dp/B0B5VLF789?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/717arxFVBsL._AC_SL1500_.jpg",
-   "loja": "Vendido por parceiro · entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-14T22:00:00-03:00",
-   "coletado_em": "2026-11-13T08:17:15-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "preco_em": "2026-11-13T08:17:15-03:00",
-   "entrou": "2026-11-13T08:17:33.727221-03:00"
-  },
   {
    "id": "amz-B0GWK1X3SJ",
    "canal": "marcas",
@@ -15355,38 +15388,6 @@
    "entrou": "2026-11-13T08:17:33.727221-03:00"
   },
   {
-   "id": "amz-B0GYQKB2GB",
-   "canal": "tech",
-   "nome": "Smartwatch Huawei Watch Fit 5 AMOLED 1,82\"",
-   "preco_antigo": 999.0,
-   "preco": 664.05,
-   "desconto": 34,
-   "link": "https://www.amazon.com.br/dp/B0GYQKB2GB?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51lpUWoe0EL._AC_SL1500_.jpg",
-   "loja": "Vendido por parceiro · entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-14T22:00:00-03:00",
-   "coletado_em": "2026-11-13T08:17:15-03:00",
-   "preco_em": "2026-11-13T08:17:15-03:00",
-   "entrou": "2026-11-13T08:17:33.727221-03:00"
-  },
-  {
-   "id": "amz-B0FPNTYB2L",
-   "canal": "tech",
-   "nome": "Caixa de Som JBL Go Essential 2 Azul",
-   "preco_antigo": 219.0,
-   "preco": 138.0,
-   "desconto": 37,
-   "link": "https://www.amazon.com.br/dp/B0FPNTYB2L?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/71QsbFJDVNL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-14T22:00:00-03:00",
-   "coletado_em": "2026-11-13T08:17:15-03:00",
-   "preco_em": "2026-11-13T08:17:15-03:00",
-   "entrou": "2026-11-13T08:17:33.727221-03:00"
-  },
-  {
    "id": "shopee-10677614679",
    "plataforma": "Shopee",
    "nome": "Kit 10 Pares Meias Lupo Originais Cano Médio Alto Algodão Masculina Feminina Meia Atoalhada Grossas",
@@ -15485,6 +15486,39 @@
    "coletado_em": "2026-11-13T08:17:15-03:00",
    "preco_em": "2026-11-13T08:17:15-03:00",
    "entrou": "2026-11-13T10:25:49.747919-03:00"
+  },
+  {
+   "id": "shopee-42565175368",
+   "plataforma": "Shopee",
+   "nome": "Aspirador de Pó Robô WAP Robot W100 3 em 1 Antiqueda Bivolt 17W",
+   "loja": "LOI BRASIL",
+   "loja_oficial": true,
+   "preco": 537.99,
+   "preco_antigo": 1075.98,
+   "desconto": 50,
+   "vendas": 321,
+   "nota": 4.9,
+   "comissao_pct": 3.0,
+   "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mi3iwgro7wg2ad",
+   "link": "https://s.shopee.com.br/2BGPworkU4",
+   "canal": "achadinhos",
+   "entrou": "2026-11-13T10:34:36.026507-03:00"
+  },
+  {
+   "id": "amz-B0GYQKB2GB",
+   "canal": "tech",
+   "nome": "Smartwatch Huawei Watch Fit 5 AMOLED 1,82\"",
+   "preco_antigo": 999.0,
+   "preco": 664.05,
+   "desconto": 34,
+   "link": "https://www.amazon.com.br/dp/B0GYQKB2GB?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51lpUWoe0EL._AC_SL1500_.jpg",
+   "loja": "Vendido por parceiro · entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-14T22:00:00-03:00",
+   "coletado_em": "2026-11-13T08:17:15-03:00",
+   "preco_em": "2026-11-13T08:17:15-03:00",
+   "entrou": "2026-11-13T11:09:12.244557-03:00"
   }
  ],
  "menus_fixados": [
@@ -16457,7 +16491,12 @@
   "tenisolympikusapolisfeminino": "2026-11-13T10:03:24.756594-03:00",
   "escovadedenteoralbblackextramacia2un": "2026-11-13T10:18:13.749504-03:00",
   "kit2camisetasdryfitspeedomasculinas": "2026-11-13T10:26:06.398429-03:00",
-  "fonejbllivebeam4comtelaecancelamentoderuido": "2026-11-13T10:33:18.779609-03:00"
+  "fonejbllivebeam4comtelaecancelamentoderuido": "2026-11-13T10:33:18.779609-03:00",
+  "aspiradorverticalwappowerspeedmaxcz401600w3em1": "2026-11-13T10:40:20.896033-03:00",
+  "kit2camisaspolobasicasheringmasculinas": "2026-11-13T10:47:29.588987-03:00",
+  "protetorsolarniveasunprotecthidratafps30200ml": "2026-11-13T11:02:51.165286-03:00",
+  "camisapoloaramismasculina": "2026-11-13T11:09:12.504417-03:00",
+  "caixadesomjblgoessential2azul": "2026-11-13T11:16:15.928721-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
@@ -16823,7 +16862,7 @@
   "marcas": "2026-11-12T17:56:29.409807-03:00"
  },
  "top10_dia": "2026-11-07",
- "manuais_lidos": "2026-11-13T10:25:49.747919-03:00",
+ "manuais_lidos": "2026-11-13T11:09:12.244557-03:00",
  "reserva_resultado": {
   "2026-11-07": {
    "achadinhos": {
@@ -16994,7 +17033,7 @@
    "hora": "2026-11-11T20:32:35.453128-03:00"
   }
  },
- "ig_respondido_em": "2026-11-13T10:25:49.747919-03:00",
+ "ig_respondido_em": "2026-11-13T11:15:55.426467-03:00",
  "dm_auto": {
   "2026-11-08": {
    "com_palavra": 0,
@@ -17320,7 +17359,7 @@
    "feed": 2
   },
   "2026-11-13": {
-   "story": 4,
+   "story": 5,
    "feed": 0
   }
  },

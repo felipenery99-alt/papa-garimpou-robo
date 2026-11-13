@@ -22,5 +22,11 @@
   "vezes": 1,
   "ultimo": "2026-11-13T13:10+00:00",
   "texto": "erro em 2026-11-13 tech 10:10 amz-B0FLKL7DHZ: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer')). Não postei."
+ },
+ "erro em #-#-# tech #:# amz-B#GYQKB#GB: ('Connection aborted.', ConnectionResetEr": {
+  "primeiro": "2026-11-13T13:55+00:00",
+  "vezes": 1,
+  "ultimo": "2026-11-13T13:55+00:00",
+  "texto": "erro em 2026-11-13 tech 10:55 amz-B0GYQKB2GB: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer')). Não postei."
  }
 }

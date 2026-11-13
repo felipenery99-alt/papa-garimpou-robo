@@ -2658,19 +2658,20 @@
  "2026-11-13": {
   "erros": [
    "erro em 2026-11-13 achadinhos 09:05 amz-B08746TZ2V: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer')). Não postei.",
-   "erro em 2026-11-13 tech 10:10 amz-B0FLKL7DHZ: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer')). Não postei."
+   "erro em 2026-11-13 tech 10:10 amz-B0FLKL7DHZ: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer')). Não postei.",
+   "erro em 2026-11-13 tech 10:55 amz-B0GYQKB2GB: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer')). Não postei."
   ],
-  "ultima_execucao": "09:48",
-  "execucoes": 6,
+  "ultima_execucao": "10:34",
+  "execucoes": 7,
   "telegram_posts": {
-   "achadinhos": 9,
-   "marcas": 6,
-   "tech": 5
+   "achadinhos": 11,
+   "marcas": 8,
+   "tech": 6
   },
   "ultimo_post": {
-   "achadinhos": "10:18",
-   "marcas": "10:26",
-   "tech": "10:33"
+   "achadinhos": "11:02",
+   "marcas": "11:09",
+   "tech": "11:16"
   },
   "meta_token": {
    "tipo": "SYSTEM_USER",
@@ -2706,7 +2707,8 @@
    "08:07 story_oferta",
    "08:52 story_oferta",
    "09:40 story_convite",
-   "10:20 story_oferta"
+   "10:20 story_oferta",
+   "11:11 story_oferta"
   ],
   "shopee_ligada": true,
   "dm_auto": {
@@ -2771,7 +2773,7 @@
    "shopee-22593528984": "aprovada",
    "shopee-22998796938": "vendas perto (125+)",
    "shopee-41478796304": "aprovada",
-   "shopee-9841073441": "aprovada",
+   "shopee-9841073441": "desconto perto (até 10 pts)",
    "shopee-23093815030": "vendas perto (125+)",
    "shopee-18097723017": "vendas perto (125+)",
    "shopee-8857518243": "vendas perto (125+)",
@@ -5299,16 +5301,51 @@
    "shopee-19199385658": "vendas longe",
    "shopee-22292691651": "vendas longe",
    "shopee-58269751992": "desconto longe",
-   "shopee-58219769743": "vendas longe"
+   "shopee-58219769743": "vendas longe",
+   "shopee-23698542417": "vendas perto (125+)",
+   "shopee-58257497351": "vendas longe",
+   "shopee-13544411103": "vendas longe",
+   "shopee-27133056743": "vendas longe",
+   "shopee-22698164148": "vendas longe",
+   "shopee-8996384759": "vendas longe",
+   "shopee-53301244845": "vendas longe",
+   "shopee-29692270172": "vendas longe",
+   "shopee-42565175368": "aprovada",
+   "shopee-21597973564": "vendas longe",
+   "shopee-23799121923": "vendas longe",
+   "shopee-22193984838": "vendas longe",
+   "shopee-23498790117": "vendas longe",
+   "shopee-57358143909": "vendas longe",
+   "shopee-58221536784": "nota",
+   "shopee-58272398576": "nota",
+   "shopee-58272398063": "nota",
+   "shopee-58272398623": "nota",
+   "shopee-58272398435": "nota",
+   "shopee-58272398160": "nota",
+   "shopee-58272389845": "nota",
+   "shopee-58222369279": "nota",
+   "shopee-58222368037": "nota",
+   "shopee-58222364944": "nota",
+   "shopee-58222364912": "nota",
+   "shopee-58222364776": "nota",
+   "shopee-58222364660": "nota",
+   "shopee-58222364605": "nota",
+   "shopee-58222363679": "nota",
+   "shopee-58222358944": "nota",
+   "shopee-19597623174": "vendas longe",
+   "shopee-22094994527": "vendas longe",
+   "shopee-58270071701": "vendas longe",
+   "shopee-58269751777": "vendas longe",
+   "shopee-58220452195": "nota"
   },
   "shopee_oficial": {
-   "vendas longe": 1316,
-   "nota": 895,
-   "vendas perto (125+)": 99,
+   "vendas longe": 1332,
+   "nota": 912,
+   "vendas perto (125+)": 100,
    "outro: marca fora da lista boa": 77,
    "desconto longe": 69,
    "aprovada": 65,
-   "desconto perto (até 10 pts)": 19,
+   "desconto perto (até 10 pts)": 20,
    "outro: palavra proibida: compatível": 9
   },
   "manuais_descartados_ids": {
@@ -5536,21 +5573,26 @@
    "amz-B000P275F6": "ja_postado_30d",
    "amz-B0GM3L1XBC": "ja_postado_30d",
    "amz-B0D9PL8638": "ja_postado_30d",
-   "amz-B0CJ9RX15Q": "ja_postado_30d"
+   "amz-B0CJ9RX15Q": "ja_postado_30d",
+   "amz-B0G5B3BV91": "ja_postado_30d",
+   "amz-B0H46DBZS8": "ja_postado_30d",
+   "amz-B0CVXT2XVL": "ja_postado_30d",
+   "amz-B0HG3BRBPC": "ja_postado_30d",
+   "amz-B07DKPFDMW": "ja_postado_30d"
   },
   "manuais_descartados": {
-   "ja_postado_30d": 225
+   "ja_postado_30d": 230
   },
   "instagram": {
-   "seguidores": 483,
+   "seguidores": 485,
    "posts": 120,
-   "reach": 2282,
-   "profile_views": 70,
+   "reach": 2313,
+   "profile_views": 72,
    "website_clicks": 1,
    "stories_ativos": 16
   },
   "reels_alcance": {
-   "atualizado": "2026-11-13T09:48:43.065407-03:00",
+   "atualizado": "2026-11-13T10:34:36.026507-03:00",
    "itens": [
     {
      "id": "18230902090331796",
@@ -5602,7 +5644,7 @@
      "hora": "10/11 12:06",
      "capa": "ate_off",
      "reach": 4,
-     "views": 3,
+     "views": 4,
      "shares": 0,
      "saved": 0
     },
