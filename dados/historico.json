@@ -14418,41 +14418,7 @@
   "story especial top10-rolando 2026-11-07",
   "story especial pede-pro-papa 2026-11-08",
   "parceria jess-20261108",
-  "2026-11-09 08:07 story_oferta",
-  "2026-11-09 08:45 story_oferta",
-  "2026-11-09 08:52 story_oferta",
-  "2026-11-09 09:38 story_oferta",
-  "2026-11-09 10:20 story_oferta",
-  "2026-11-09 10:24 story_oferta",
-  "2026-11-09 11:11 story_oferta",
-  "2026-11-09 feed",
-  "2026-11-09 11:50 carrossel_top5",
-  "2026-11-09 12:00 reels",
-  "2026-11-09 11:56 story_oferta",
-  "2026-11-09 12:15 story_top4",
-  "2026-11-09 12:19 story_oferta",
-  "2026-11-09 12:47 story_oferta",
-  "2026-11-09 13:20 story_convite",
-  "2026-11-09 13:22 story_oferta",
-  "2026-11-09 14:08 story_oferta",
-  "2026-11-09 15:00 adivinha",
-  "2026-11-09 15:03 story_oferta",
-  "2026-11-09 16:05 adivinha_resposta",
-  "2026-11-09 16:44 story_oferta",
   "story especial pede-pro-papa 2026-11-09",
-  "2026-11-09 17:36 story_oferta",
-  "2026-11-09 18:05 a_ou_b",
-  "2026-11-09 18:09 story_oferta",
-  "2026-11-09 18:30 reels",
-  "2026-11-09 18:42 story_oferta",
-  "2026-11-09 19:15 post_achado",
-  "2026-11-09 19:17 story_oferta",
-  "2026-11-09 20:03 story_oferta",
-  "2026-11-09 20:30 reels",
-  "2026-11-09 20:35 story_top4",
-  "2026-11-09 20:38 story_oferta",
-  "2026-11-09 21:20 story_convite",
-  "2026-11-09 21:24 story_oferta",
   "2026-11-10 08:07 story_oferta",
   "2026-11-10 08:45 story_oferta",
   "2026-11-10 08:52 story_oferta",
@@ -14813,7 +14779,25 @@
   "2026-11-12": 1
  },
  "ultimo_pilar": "blackfriday",
- "fila": [],
+ "fila": [
+  {
+   "id": "shopee-50801661798",
+   "plataforma": "Shopee",
+   "nome": "Caixa de Som Bluetooth JBL Boombox 4, com Auracast, IP68 Azul - 28913918",
+   "loja": "TNTinfoLoja",
+   "loja_oficial": true,
+   "preco": 2343.04,
+   "preco_antigo": 3905.07,
+   "desconto": 40,
+   "vendas": 519,
+   "nota": 5.0,
+   "comissao_pct": 6.0,
+   "imagem": "https://cf.shopee.com.br/file/sg-11134201-821d7-mh7w8c1tekg93a",
+   "link": "https://s.shopee.com.br/6q2DHq0KHo",
+   "canal": "tech",
+   "entrou": "2026-11-13T00:21:34.118265-03:00"
+  }
+ ],
  "menus_fixados": [
   "v1 @papagarimpou",
   "v1 @papagarimpoumarcas",
@@ -16093,7 +16077,7 @@
  "vigia_aviso_post": "2026-11-09T18:27:03.734589-03:00",
  "vigia_aviso_garimpo": "2026-11-12T17:34:05.140167-03:00",
  "resumo_enviado": "2026-11-12",
- "token_conferido": "2026-11-12",
+ "token_conferido": "2026-11-13",
  "meta_token": {
   "tipo": "SYSTEM_USER",
   "valido": true,
@@ -16124,14 +16108,14 @@
   "2026-11-10 noite marcas",
   "2026-11-12 noite marcas"
  ],
- "reserva_meio": "2026-11-12T23:46:45.763868-03:00",
+ "reserva_meio": "2026-11-13T00:31:54.817578-03:00",
  "reserva_cheia": {
   "achadinhos": "2026-11-12T17:34:05.140167-03:00",
   "tech": "2026-11-12T17:56:29.409807-03:00",
   "marcas": "2026-11-12T17:56:29.409807-03:00"
  },
  "top10_dia": "2026-11-07",
- "manuais_lidos": "2026-11-12T23:46:45.763868-03:00",
+ "manuais_lidos": "2026-11-13T00:31:54.817578-03:00",
  "reserva_resultado": {
   "2026-11-07": {
    "achadinhos": {
@@ -16229,6 +16213,23 @@
     "quase": 6,
     "reprise": 3
    }
+  },
+  "2026-11-13": {
+   "achadinhos": {
+    "busca": 0,
+    "quase": 0,
+    "reprise": 0
+   },
+   "marcas": {
+    "busca": 0,
+    "quase": 0,
+    "reprise": 0
+   },
+   "tech": {
+    "busca": 0,
+    "quase": 0,
+    "reprise": 0
+   }
   }
  },
  "ig_reels_log": {
@@ -16285,7 +16286,7 @@
    "hora": "2026-11-11T20:32:35.453128-03:00"
   }
  },
- "ig_respondido_em": "2026-11-12T23:38:16.538728-03:00",
+ "ig_respondido_em": "2026-11-13T00:31:54.817578-03:00",
  "dm_auto": {
   "2026-11-08": {
    "com_palavra": 0,
@@ -16312,6 +16313,12 @@
    "ultimo_erro": ""
   },
   "2026-11-12": {
+   "com_palavra": 0,
+   "dm_ok": 0,
+   "dm_falha": 0,
+   "ultimo_erro": ""
+  },
+  "2026-11-13": {
    "com_palavra": 0,
    "dm_ok": 0,
    "dm_falha": 0,
@@ -16651,8 +16658,12 @@
   "2026-11-12": {
    "story": 15,
    "feed": 2
+  },
+  "2026-11-13": {
+   "story": 0,
+   "feed": 0
   }
  },
- "ig_conta_ok": "2026-11-12",
+ "ig_conta_ok": "2026-11-13",
  "share_erro": {}
 }
