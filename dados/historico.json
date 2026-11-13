@@ -14796,6 +14796,40 @@
    "link": "https://s.shopee.com.br/6q2DHq0KHo",
    "canal": "tech",
    "entrou": "2026-11-13T00:21:34.118265-03:00"
+  },
+  {
+   "id": "shopee-54114684881",
+   "plataforma": "Shopee",
+   "nome": "Deo Parfum Natura Essencial Masculino Miniatura 25 ml",
+   "loja": "NATURA",
+   "loja_oficial": true,
+   "preco": 69.44,
+   "preco_antigo": 115.73,
+   "desconto": 40,
+   "vendas": 424,
+   "nota": 5.0,
+   "comissao_pct": 16.0,
+   "imagem": "https://cf.shopee.com.br/file/sg-11134201-825ar-mr0o2v3qr3es84",
+   "link": "https://s.shopee.com.br/2qW4RY7eSM",
+   "canal": "achadinhos",
+   "entrou": "2026-11-13T00:33:56.651642-03:00"
+  },
+  {
+   "id": "shopee-22594959465",
+   "plataforma": "Shopee",
+   "nome": "Refil Desodorante Corporal Natura Essencial Atrai Masculino",
+   "loja": "NATURA",
+   "loja_oficial": true,
+   "preco": 28.45,
+   "preco_antigo": 56.9,
+   "desconto": 50,
+   "vendas": 653,
+   "nota": 4.9,
+   "comissao_pct": 16.0,
+   "imagem": "https://cf.shopee.com.br/file/sg-11134201-820lr-mnk67stocg0843",
+   "link": "https://s.shopee.com.br/3B8uqA6NmO",
+   "canal": "achadinhos",
+   "entrou": "2026-11-13T00:33:56.651642-03:00"
   }
  ],
  "menus_fixados": [
@@ -16115,7 +16149,7 @@
   "marcas": "2026-11-12T17:56:29.409807-03:00"
  },
  "top10_dia": "2026-11-07",
- "manuais_lidos": "2026-11-13T00:31:54.817578-03:00",
+ "manuais_lidos": "2026-11-13T00:44:03.619726-03:00",
  "reserva_resultado": {
   "2026-11-07": {
    "achadinhos": {
@@ -16286,7 +16320,7 @@
    "hora": "2026-11-11T20:32:35.453128-03:00"
   }
  },
- "ig_respondido_em": "2026-11-13T00:31:54.817578-03:00",
+ "ig_respondido_em": "2026-11-13T00:44:03.619726-03:00",
  "dm_auto": {
   "2026-11-08": {
    "com_palavra": 0,
