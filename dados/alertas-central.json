@@ -34,5 +34,11 @@
   "vezes": 1,
   "ultimo": "2026-11-13T15:12+00:00",
   "texto": "⚠️ Fila vazia (achadinhos), último garimpo 08:17 — abrir o app Claude e conferir as rotinas"
+ },
+ "erro em #-#-# marcas #:# amz-B#F#CLCF#T: ('Connection aborted.', ConnectionReset": {
+  "primeiro": "2026-11-13T17:39+00:00",
+  "vezes": 1,
+  "ultimo": "2026-11-13T17:39+00:00",
+  "texto": "erro em 2026-11-13 marcas 14:39 amz-B0F1CLCF3T: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer')). Não postei."
  }
 }

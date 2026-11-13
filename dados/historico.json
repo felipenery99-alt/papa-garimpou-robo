@@ -1193,7 +1193,12 @@
   "2026-11-13 achadinhos 14:03 shopee-58254143357",
   "2026-11-13 marcas 14:11 amz-B0H5YJM75G",
   "2026-11-13 tech 14:18 amz-B07N78G8GB",
-  "2026-11-13 achadinhos 14:24 shopee-22997647570"
+  "2026-11-13 achadinhos 14:24 shopee-22997647570",
+  "2026-11-13 achadinhos 14:30 shopee-21897631761",
+  "2026-11-13 tech 14:45 amz-B0GQWP9K1G",
+  "2026-11-13 achadinhos 14:52 amz-B0GW48ZKYM",
+  "2026-11-13 marcas 15:00 amz-B0GFXYPXYC",
+  "2026-11-13 tech 15:07 amz-B0CY1PJ2CN"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -1357,7 +1362,7 @@
   "ml-MLB5420759822": "2026-10-30T12:42:04.536653-03:00",
   "shopee-58255413156": "2026-10-30T13:01:32.427662-03:00",
   "ml-MLBU4074557041": "2026-10-30T13:11:10.532773-03:00",
-  "shopee-21897631761": "2026-11-09T11:29:58.634243-03:00",
+  "shopee-21897631761": "2026-11-13T14:30:57.014221-03:00",
   "shopee-9511754133": "2026-11-09T11:49:06.916664-03:00",
   "shopee-18797677549": "2026-11-07T08:17:20.765679-03:00",
   "shopee-20299205359": "2026-11-07T08:34:24.879393-03:00",
@@ -2340,7 +2345,11 @@
   "amz-B0GM1GYWR1": "2026-11-13T13:56:47.243907-03:00",
   "shopee-58254143357": "2026-11-13T14:03:44.053271-03:00",
   "amz-B0H5YJM75G": "2026-11-13T14:11:15.438453-03:00",
-  "amz-B07N78G8GB": "2026-11-13T14:18:03.821493-03:00"
+  "amz-B07N78G8GB": "2026-11-13T14:18:03.821493-03:00",
+  "amz-B0GQWP9K1G": "2026-11-13T14:45:29.495380-03:00",
+  "amz-B0GW48ZKYM": "2026-11-13T14:52:44.581971-03:00",
+  "amz-B0GFXYPXYC": "2026-11-13T15:00:37.641712-03:00",
+  "amz-B0CY1PJ2CN": "2026-11-13T15:07:01.352228-03:00"
  },
  "ofertas_dia": [
   {
@@ -15322,6 +15331,94 @@
    "entrou": "2026-11-13T12:28:08.378483-03:00",
    "reprise_dias": 3,
    "dia": "2026-11-13"
+  },
+  {
+   "id": "shopee-21897631761",
+   "plataforma": "Shopee",
+   "nome": "Secador De Cabelo Taiff New Tourmaline Profissional 2100W",
+   "loja": "Beleza Renovada Oficial",
+   "loja_oficial": true,
+   "preco": 382.28,
+   "preco_antigo": 616.58,
+   "desconto": 38,
+   "vendas": 526,
+   "nota": 4.9,
+   "comissao_pct": 12.0,
+   "imagem": "https://cf.shopee.com.br/file/sg-11134201-822y1-moe6fix56ubw37",
+   "link": "https://s.shopee.com.br/5fqG78cGhB",
+   "canal": "achadinhos",
+   "entrou": "2026-11-13T12:28:08.378483-03:00",
+   "reprise_dias": 3,
+   "dia": "2026-11-13"
+  },
+  {
+   "id": "amz-B0GQWP9K1G",
+   "canal": "tech",
+   "nome": "Apple iPhone 17 256 GB, Sálvia",
+   "preco_antigo": 7999.0,
+   "preco": 5399.0,
+   "desconto": 33,
+   "link": "https://www.amazon.com.br/dp/B0GQWP9K1G?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/41k9Fkg0r7L._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-14T22:00:00-03:00",
+   "coletado_em": "2026-11-13T13:17:19-03:00",
+   "preco_em": "2026-11-13T13:17:19-03:00",
+   "entrou": "2026-11-13T13:31:30.561860-03:00",
+   "dia": "2026-11-13"
+  },
+  {
+   "id": "amz-B0GW48ZKYM",
+   "canal": "achadinhos",
+   "nome": "Fralda Pampers Pants Ajuste Total G, 90 unidades",
+   "preco_antigo": 194.9,
+   "preco": 98.89,
+   "desconto": 49,
+   "link": "https://www.amazon.com.br/dp/B0GW48ZKYM?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61d8-utgUkL._AC_SL1200_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-14T22:00:00-03:00",
+   "coletado_em": "2026-11-13T13:18:26-03:00",
+   "preco_em": "2026-11-13T13:18:26-03:00",
+   "entrou": "2026-11-13T13:31:30.561860-03:00",
+   "dia": "2026-11-13"
+  },
+  {
+   "id": "amz-B0GFXYPXYC",
+   "canal": "marcas",
+   "nome": "Camiseta básica Aramis",
+   "preco_antigo": 179.9,
+   "preco": 95.44,
+   "desconto": 47,
+   "link": "https://www.amazon.com.br/dp/B0GFXYPXYC?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51MUd-qtGLL._AC_SL1200_.jpg",
+   "loja": "Vendido por parceiro · entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-14T22:00:00-03:00",
+   "coletado_em": "2026-11-13T13:17:59-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "preco_em": "2026-11-13T13:17:59-03:00",
+   "entrou": "2026-11-13T13:31:30.561860-03:00",
+   "dia": "2026-11-13"
+  },
+  {
+   "id": "amz-B0CY1PJ2CN",
+   "canal": "tech",
+   "nome": "Controle GameSir Kaleid com fio para Xbox e PC, Hall Effect",
+   "preco_antigo": 459.0,
+   "preco": 260.81,
+   "desconto": 43,
+   "link": "https://www.amazon.com.br/dp/B0CY1PJ2CN?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61rU5Owlk0L._AC_SL1000_.jpg",
+   "loja": "Loja oficial GameSir · entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-14T22:00:00-03:00",
+   "coletado_em": "2026-11-13T13:17:22-03:00",
+   "preco_em": "2026-11-13T13:17:22-03:00",
+   "entrou": "2026-11-13T13:31:30.561860-03:00",
+   "dia": "2026-11-13"
   }
  ],
  "ig_feitos": [
@@ -15444,10 +15541,10 @@
   "2026-11-13 12:15 story_top4",
   "2026-11-13 12:19 story_oferta",
   "2026-11-13 13:20 story_convite",
-  "2026-11-13 14:08 story_oferta"
+  "2026-11-13 14:08 story_oferta",
+  "2026-11-13 15:00 adivinha"
  ],
  "ig_ofertas_usadas": [
-  "amz-B0FWS3N7RN",
   "amz-B0CJ3BDN7T",
   "amz-B008SBKTZ4",
   "amz-B0917MY5RD",
@@ -15646,7 +15743,8 @@
   "shopee-57657281247",
   "shopee-11444965462",
   "shopee-50801661798",
-  "shopee-42565175368"
+  "shopee-42565175368",
+  "shopee-40717702468"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
@@ -15717,40 +15815,6 @@
  },
  "ultimo_pilar": "humor",
  "fila": [
-  {
-   "id": "shopee-21897631761",
-   "plataforma": "Shopee",
-   "nome": "Secador De Cabelo Taiff New Tourmaline Profissional 2100W",
-   "loja": "Beleza Renovada Oficial",
-   "loja_oficial": true,
-   "preco": 382.28,
-   "preco_antigo": 616.58,
-   "desconto": 38,
-   "vendas": 526,
-   "nota": 4.9,
-   "comissao_pct": 12.0,
-   "imagem": "https://cf.shopee.com.br/file/sg-11134201-822y1-moe6fix56ubw37",
-   "link": "https://s.shopee.com.br/5fqG78cGhB",
-   "canal": "achadinhos",
-   "entrou": "2026-11-13T12:28:08.378483-03:00",
-   "reprise_dias": 3
-  },
-  {
-   "id": "amz-B0GW48ZKYM",
-   "canal": "achadinhos",
-   "nome": "Fralda Pampers Pants Ajuste Total G, 90 unidades",
-   "preco_antigo": 194.9,
-   "preco": 98.89,
-   "desconto": 49,
-   "link": "https://www.amazon.com.br/dp/B0GW48ZKYM?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61d8-utgUkL._AC_SL1200_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-14T22:00:00-03:00",
-   "coletado_em": "2026-11-13T13:18:26-03:00",
-   "preco_em": "2026-11-13T13:18:26-03:00",
-   "entrou": "2026-11-13T13:31:30.561860-03:00"
-  },
   {
    "id": "amz-B077C3SY25",
    "canal": "achadinhos",
@@ -15925,39 +15989,6 @@
    "valida_ate": "2026-11-14T22:00:00-03:00",
    "coletado_em": "2026-11-13T13:18:27-03:00",
    "preco_em": "2026-11-13T13:18:27-03:00",
-   "entrou": "2026-11-13T13:31:30.561860-03:00"
-  },
-  {
-   "id": "amz-B0F1CLCF3T",
-   "canal": "marcas",
-   "nome": "Perfume Boss Bottled Beyond Eau de Parfum 50 ml",
-   "preco_antigo": 761.72,
-   "preco": 374.77,
-   "desconto": 51,
-   "link": "https://www.amazon.com.br/dp/B0F1CLCF3T?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61PEWGhYCpL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-14T22:00:00-03:00",
-   "coletado_em": "2026-11-13T13:17:51-03:00",
-   "preco_em": "2026-11-13T13:17:51-03:00",
-   "entrou": "2026-11-13T13:31:30.561860-03:00"
-  },
-  {
-   "id": "amz-B0GFXYPXYC",
-   "canal": "marcas",
-   "nome": "Camiseta básica Aramis",
-   "preco_antigo": 179.9,
-   "preco": 95.44,
-   "desconto": 47,
-   "link": "https://www.amazon.com.br/dp/B0GFXYPXYC?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51MUd-qtGLL._AC_SL1200_.jpg",
-   "loja": "Vendido por parceiro · entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-14T22:00:00-03:00",
-   "coletado_em": "2026-11-13T13:17:59-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "preco_em": "2026-11-13T13:17:59-03:00",
    "entrou": "2026-11-13T13:31:30.561860-03:00"
   },
   {
@@ -16230,38 +16261,6 @@
    "entrou": "2026-11-13T13:31:30.561860-03:00"
   },
   {
-   "id": "amz-B0GQWP9K1G",
-   "canal": "tech",
-   "nome": "Apple iPhone 17 256 GB, Sálvia",
-   "preco_antigo": 7999.0,
-   "preco": 5399.0,
-   "desconto": 33,
-   "link": "https://www.amazon.com.br/dp/B0GQWP9K1G?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/41k9Fkg0r7L._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-14T22:00:00-03:00",
-   "coletado_em": "2026-11-13T13:17:19-03:00",
-   "preco_em": "2026-11-13T13:17:19-03:00",
-   "entrou": "2026-11-13T13:31:30.561860-03:00"
-  },
-  {
-   "id": "amz-B0CY1PJ2CN",
-   "canal": "tech",
-   "nome": "Controle GameSir Kaleid com fio para Xbox e PC, Hall Effect",
-   "preco_antigo": 459.0,
-   "preco": 260.81,
-   "desconto": 43,
-   "link": "https://www.amazon.com.br/dp/B0CY1PJ2CN?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61rU5Owlk0L._AC_SL1000_.jpg",
-   "loja": "Loja oficial GameSir · entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-14T22:00:00-03:00",
-   "coletado_em": "2026-11-13T13:17:22-03:00",
-   "preco_em": "2026-11-13T13:17:22-03:00",
-   "entrou": "2026-11-13T13:31:30.561860-03:00"
-  },
-  {
    "id": "amz-B0GD7CFFVT",
    "canal": "tech",
    "nome": "Controle GameSir G7 Pro sem fio para Xbox, PC e Android",
@@ -16340,6 +16339,22 @@
    "coletado_em": "2026-11-13T13:17:17-03:00",
    "preco_em": "2026-11-13T13:17:17-03:00",
    "entrou": "2026-11-13T13:31:30.561860-03:00"
+  },
+  {
+   "id": "amz-B0F1CLCF3T",
+   "canal": "marcas",
+   "nome": "Perfume Boss Bottled Beyond Eau de Parfum 50 ml",
+   "preco_antigo": 761.72,
+   "preco": 374.77,
+   "desconto": 51,
+   "link": "https://www.amazon.com.br/dp/B0F1CLCF3T?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61PEWGhYCpL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-14T22:00:00-03:00",
+   "coletado_em": "2026-11-13T13:17:51-03:00",
+   "preco_em": "2026-11-13T13:17:51-03:00",
+   "entrou": "2026-11-13T14:52:41.668704-03:00"
   }
  ],
  "menus_fixados": [
@@ -16358,7 +16373,7 @@
   "tenisnikerevolution8masculino": "2026-10-30T12:42:04.536653-03:00",
   "laminarefilduplocompativelbarbeadorphilipsonebladereposicaoqp14xqp25xqp26xqp27xqp28xqp65xqp66x": "2026-10-30T13:01:32.427662-03:00",
   "tenisnikerevolution8feminino": "2026-10-30T13:11:10.532773-03:00",
-  "secadordecabelotaiffnewtourmalineprofissional2100w": "2026-11-09T11:29:58.634243-03:00",
+  "secadordecabelotaiffnewtourmalineprofissional2100w": "2026-11-13T14:30:57.014221-03:00",
   "creatinamaxtitanium300gpura": "2026-11-09T11:49:06.916664-03:00",
   "secadordecabelotaiffstyleprofissionaloriginal2000w": "2026-11-07T08:17:20.765679-03:00",
   "secadordecabelotaiffblackionprofissionaloriginal2000w": "2026-11-07T08:34:24.879393-03:00",
@@ -17338,7 +17353,11 @@
   "fonejbltune530btbluetoothoverearate76hdebateria": "2026-11-13T13:56:47.243907-03:00",
   "fritadeiraairfryerfornooven12lmondialbrancoinox2000wafon12lwi": "2026-11-13T14:03:44.053271-03:00",
   "tenismizunoenigma3": "2026-11-13T14:11:15.438453-03:00",
-  "headsetgamerhavith2232drgbcommicrofone": "2026-11-13T14:18:03.821493-03:00"
+  "headsetgamerhavith2232drgbcommicrofone": "2026-11-13T14:18:03.821493-03:00",
+  "appleiphone17256gbsalvia": "2026-11-13T14:45:29.495380-03:00",
+  "fraldapamperspantsajustetotalg90unidades": "2026-11-13T14:52:44.581971-03:00",
+  "camisetabasicaaramis": "2026-11-13T15:00:37.641712-03:00",
+  "controlegamesirkaleidcomfioparaxboxepchalleffect": "2026-11-13T15:07:01.352228-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
@@ -17644,23 +17663,24 @@
  },
  "tg_offset": 354369951,
  "adivinha": {
-  "dia": "2026-11-11",
+  "dia": "2026-11-13",
   "oferta": {
-   "id": "amz-B08LBQWQV4",
-   "canal": "achadinhos",
-   "nome": "Ventilador de mesa Mondial 30cm 110V",
-   "preco_antigo": 277.25,
-   "preco": 89.9,
-   "desconto": 68,
-   "link": "https://www.amazon.com.br/dp/B08LBQWQV4?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/81P0r5+MpdL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-12T22:00:00-03:00",
-   "extra": "Voltagem 110V",
-   "gancho": "VENTILADOR MONDIAL A 89 REAIS",
-   "entrou": "2026-11-11T09:04:32.696725-03:00",
-   "dia": "2026-11-11"
+   "id": "shopee-40717702468",
+   "plataforma": "Shopee",
+   "nome": "Smart Tv  LS43F6000 Samsung LED 43\" Full HD Tizen Voice Ready",
+   "loja": "LOI BRASIL",
+   "loja_oficial": true,
+   "preco": 1617.99,
+   "preco_antigo": 4044.97,
+   "desconto": 60,
+   "vendas": 277,
+   "nota": 4.9,
+   "comissao_pct": 3.0,
+   "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mekh9q9s3vur84",
+   "link": "https://s.shopee.com.br/5AtzHNbtcJ",
+   "canal": "tech",
+   "entrou": "2026-11-13T12:53:33.086224-03:00",
+   "dia": "2026-11-13"
   }
  },
  "ig_dm_links": {
@@ -17710,7 +17730,7 @@
   "marcas": "2026-11-12T17:56:29.409807-03:00"
  },
  "top10_dia": "2026-11-07",
- "manuais_lidos": "2026-11-13T14:24:35.149699-03:00",
+ "manuais_lidos": "2026-11-13T15:07:01.005989-03:00",
  "reserva_resultado": {
   "2026-11-07": {
    "achadinhos": {
@@ -17881,7 +17901,7 @@
    "hora": "2026-11-11T20:32:35.453128-03:00"
   }
  },
- "ig_respondido_em": "2026-11-13T14:24:35.149699-03:00",
+ "ig_respondido_em": "2026-11-13T15:00:21.637774-03:00",
  "dm_auto": {
   "2026-11-08": {
    "com_palavra": 0,
@@ -18181,7 +18201,7 @@
    "feed": 2
   },
   "2026-11-13": {
-   "story": 9,
+   "story": 10,
    "feed": 1
   }
  },

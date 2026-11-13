@@ -1,78 +1,18 @@
 {
- "dia": "2026-11-12",
+ "dia": "2026-11-13",
  "itens": [
   {
-   "tipo": "a_ou_b",
-   "hora": "18:07",
+   "tipo": "adivinha",
+   "hora": "15:00",
    "produtos": [
     {
-     "nome": "Chapinha Prancha Taiff Cerâmica PTC Action 180ºC Bivolt",
-     "preco_antigo": 249.74,
-     "preco": 94.9,
-     "desconto": 62,
-     "link": "https://s.shopee.com.br/8Kr0zdn7Nu",
-     "loja": "Perfumaria Sumirê",
-     "canal": "achadinhos"
-    },
-    {
-     "nome": "Kit Câmera Inteligente iM3 C Black Intelbras - 2 unidades ",
-     "preco_antigo": 562.5,
-     "preco": 315.0,
-     "desconto": 44,
-     "link": "https://s.shopee.com.br/4VeIj16I91",
-     "loja": "Intelbras Oficial",
-     "canal": "achadinhos"
-    }
-   ]
-  },
-  {
-   "tipo": "carrossel_salvavel",
-   "hora": "19:20",
-   "produtos": [
-    {
-     "nome": "Tênis Casual Eros 2 Confortável Unissex - Olympikus",
-     "preco_antigo": 320.57,
-     "preco": 169.9,
-     "desconto": 47,
-     "link": "https://s.shopee.com.br/1gK0ttEnZk",
-     "loja": "Tubarão Max",
-     "canal": "marcas"
-    },
-    {
-     "nome": "Tênis de Caminhada Casual Index 4 Unissex Confortável - Olympikus",
-     "preco_antigo": 291.5,
-     "preco": 157.41,
-     "desconto": 46,
-     "link": "https://s.shopee.com.br/30pOUL9is8",
-     "loja": "Tubarão Max",
-     "canal": "marcas"
-    },
-    {
-     "nome": "Tênis Mizuno CSD Sport",
-     "preco_antigo": 499.99,
-     "preco": 269.9,
-     "desconto": 46,
-     "link": "https://www.amazon.com.br/dp/B0GV1MKHDB?tag=papagarimpou-20",
-     "loja": "Vendido e entregue pela Amazon",
-     "canal": "marcas"
-    },
-    {
-     "nome": "Tênis de Caminhada Unissex Confortável Proof 3 - Olympikus",
-     "preco_antigo": 285.65,
-     "preco": 162.82,
-     "desconto": 43,
-     "link": "https://s.shopee.com.br/1qdR6CEAEn",
-     "loja": "Tubarão Max",
-     "canal": "marcas"
-    },
-    {
-     "nome": "Tênis de Caminhada Casual Unissex Confortável Beats - Olympikus",
-     "preco_antigo": 350.7,
-     "preco": 199.9,
-     "desconto": 43,
-     "link": "https://s.shopee.com.br/3g5Ah9OC6m",
-     "loja": "Tubarão Max",
-     "canal": "marcas"
+     "nome": "Smart Tv  LS43F6000 Samsung LED 43\" Full HD Tizen Voice Ready",
+     "preco_antigo": 4044.97,
+     "preco": 1617.99,
+     "desconto": 60,
+     "link": "https://s.shopee.com.br/5AtzHNbtcJ",
+     "loja": "LOI BRASIL",
+     "canal": "tech"
     }
    ]
   }
