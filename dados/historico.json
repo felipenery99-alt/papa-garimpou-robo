@@ -1237,7 +1237,13 @@
   "2026-11-13 tech 19:26 amz-B0GQWK8Y7F",
   "2026-11-13 achadinhos 19:34 amz-B0DF3R4R73",
   "2026-11-13 marcas 19:41 amz-B0B64C5M7V",
-  "2026-11-13 tech 19:48 amz-B0DJD163HT"
+  "2026-11-13 tech 19:48 amz-B0DJD163HT",
+  "2026-11-13 marcas 19:55 amz-B07RJYDD41",
+  "2026-11-13 tech 20:01 amz-B0FWD9LJV4",
+  "2026-11-13 marcas 20:08 amz-B0GYGCBJVX",
+  "2026-11-13 tech 20:15 amz-B0D936LKRP",
+  "2026-11-13 marcas 20:23 amz-B0FFV49K88",
+  "2026-11-13 achadinhos 20:30 shopee-20299205359"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -1404,7 +1410,7 @@
   "shopee-21897631761": "2026-11-13T14:30:57.014221-03:00",
   "shopee-9511754133": "2026-11-09T11:49:06.916664-03:00",
   "shopee-18797677549": "2026-11-07T08:17:20.765679-03:00",
-  "shopee-20299205359": "2026-11-07T08:34:24.879393-03:00",
+  "shopee-20299205359": "2026-11-13T20:30:00.024645-03:00",
   "shopee-22397314985": "2026-10-30T14:33:24.012715-03:00",
   "amz-B07H3GFJJ2": "2026-10-30T14:43:25.743445-03:00",
   "shopee-23694191736": "2026-10-30T14:58:31.163522-03:00",
@@ -2427,7 +2433,12 @@
   "amz-B0GQWK8Y7F": "2026-11-13T19:26:57.878903-03:00",
   "amz-B0DF3R4R73": "2026-11-13T19:34:01.047204-03:00",
   "amz-B0B64C5M7V": "2026-11-13T19:41:49.482729-03:00",
-  "amz-B0DJD163HT": "2026-11-13T19:48:58.430577-03:00"
+  "amz-B0DJD163HT": "2026-11-13T19:48:58.430577-03:00",
+  "amz-B07RJYDD41": "2026-11-13T19:55:32.962713-03:00",
+  "amz-B0FWD9LJV4": "2026-11-13T20:01:49.766861-03:00",
+  "amz-B0GYGCBJVX": "2026-11-13T20:08:58.176735-03:00",
+  "amz-B0D936LKRP": "2026-11-13T20:15:28.780912-03:00",
+  "amz-B0FFV49K88": "2026-11-13T20:23:19.486808-03:00"
  },
  "ofertas_dia": [
   {
@@ -16132,6 +16143,113 @@
    "preco_em": "2026-11-13T18:17:11-03:00",
    "entrou": "2026-11-13T18:24:16.101370-03:00",
    "dia": "2026-11-13"
+  },
+  {
+   "id": "amz-B07RJYDD41",
+   "canal": "marcas",
+   "nome": "Kit 6 cuecas boxer Lupo microfibra sem costura",
+   "preco_antigo": 194.87,
+   "preco": 136.32,
+   "desconto": 30,
+   "link": "https://www.amazon.com.br/dp/B07RJYDD41?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51pX3FPgm+L._AC_SL1200_.jpg",
+   "loja": "Vendido por parceiro · entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-14T22:00:00-03:00",
+   "coletado_em": "2026-11-13T13:17:45-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "preco_em": "2026-11-13T13:17:45-03:00",
+   "entrou": "2026-11-13T17:32:24.407121-03:00",
+   "dia": "2026-11-13"
+  },
+  {
+   "id": "amz-B0FWD9LJV4",
+   "canal": "tech",
+   "nome": "Headset Gamer JBL Quantum 950 sem fio",
+   "preco_antigo": 2199.0,
+   "preco": 1399.99,
+   "desconto": 36,
+   "link": "https://www.amazon.com.br/dp/B0FWD9LJV4?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/6149f8M4uKL.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-14T22:00:00-03:00",
+   "coletado_em": "2026-11-13T18:17:11-03:00",
+   "preco_em": "2026-11-13T18:17:11-03:00",
+   "entrou": "2026-11-13T18:24:16.101370-03:00",
+   "dia": "2026-11-13"
+  },
+  {
+   "id": "amz-B0GYGCBJVX",
+   "canal": "marcas",
+   "nome": "Tênis Puma Court Classic Clean masculino",
+   "preco_antigo": 329.99,
+   "preco": 207.0,
+   "desconto": 37,
+   "link": "https://www.amazon.com.br/dp/B0GYGCBJVX?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51NVEvUypEL._AC_SL1104_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-14T22:00:00-03:00",
+   "coletado_em": "2026-11-13T13:17:34-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "preco_em": "2026-11-13T13:17:34-03:00",
+   "entrou": "2026-11-13T17:32:24.407121-03:00",
+   "dia": "2026-11-13"
+  },
+  {
+   "id": "amz-B0D936LKRP",
+   "canal": "tech",
+   "nome": "Fone sem fio Samsung Galaxy Buds3",
+   "preco_antigo": 1699.0,
+   "preco": 709.65,
+   "desconto": 58,
+   "link": "https://www.amazon.com.br/dp/B0D936LKRP?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/41IUaksFeJL.jpg",
+   "loja": "Vendido por parceiro · entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-14T22:00:00-03:00",
+   "coletado_em": "2026-11-13T18:17:11-03:00",
+   "preco_em": "2026-11-13T18:17:11-03:00",
+   "entrou": "2026-11-13T18:24:16.101370-03:00",
+   "dia": "2026-11-13"
+  },
+  {
+   "id": "amz-B0FFV49K88",
+   "canal": "marcas",
+   "nome": "Tênis Mizuno Virtue 2",
+   "preco_antigo": 349.99,
+   "preco": 216.59,
+   "desconto": 38,
+   "link": "https://www.amazon.com.br/dp/B0FFV49K88?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71Jh852e2TL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-14T22:00:00-03:00",
+   "coletado_em": "2026-11-13T13:17:30-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "preco_em": "2026-11-13T13:17:30-03:00",
+   "entrou": "2026-11-13T17:32:24.407121-03:00",
+   "dia": "2026-11-13"
+  },
+  {
+   "id": "shopee-20299205359",
+   "plataforma": "Shopee",
+   "nome": "Secador De Cabelo Taiff Black Ion Profissional Original2000W",
+   "loja": "Beleza Renovada Oficial",
+   "loja_oficial": true,
+   "preco": 287.1,
+   "preco_antigo": 495.0,
+   "desconto": 42,
+   "vendas": 619,
+   "nota": 4.9,
+   "comissao_pct": 12.0,
+   "imagem": "https://cf.shopee.com.br/file/sg-11134201-822zv-moe6cpfbjkzt52",
+   "link": "https://s.shopee.com.br/6AmWi3aMgE",
+   "canal": "achadinhos",
+   "entrou": "2026-11-13T20:21:49.534614-03:00",
+   "reprise_dias": 3,
+   "dia": "2026-11-13"
   }
  ],
  "ig_feitos": [
@@ -16538,57 +16656,6 @@
  "ultimo_pilar": "humor",
  "fila": [
   {
-   "id": "amz-B07RJYDD41",
-   "canal": "marcas",
-   "nome": "Kit 6 cuecas boxer Lupo microfibra sem costura",
-   "preco_antigo": 194.87,
-   "preco": 136.32,
-   "desconto": 30,
-   "link": "https://www.amazon.com.br/dp/B07RJYDD41?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51pX3FPgm+L._AC_SL1200_.jpg",
-   "loja": "Vendido por parceiro · entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-14T22:00:00-03:00",
-   "coletado_em": "2026-11-13T13:17:45-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "preco_em": "2026-11-13T13:17:45-03:00",
-   "entrou": "2026-11-13T17:32:24.407121-03:00"
-  },
-  {
-   "id": "amz-B0GYGCBJVX",
-   "canal": "marcas",
-   "nome": "Tênis Puma Court Classic Clean masculino",
-   "preco_antigo": 329.99,
-   "preco": 207.0,
-   "desconto": 37,
-   "link": "https://www.amazon.com.br/dp/B0GYGCBJVX?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51NVEvUypEL._AC_SL1104_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-14T22:00:00-03:00",
-   "coletado_em": "2026-11-13T13:17:34-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "preco_em": "2026-11-13T13:17:34-03:00",
-   "entrou": "2026-11-13T17:32:24.407121-03:00"
-  },
-  {
-   "id": "amz-B0FFV49K88",
-   "canal": "marcas",
-   "nome": "Tênis Mizuno Virtue 2",
-   "preco_antigo": 349.99,
-   "preco": 216.59,
-   "desconto": 38,
-   "link": "https://www.amazon.com.br/dp/B0FFV49K88?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/71Jh852e2TL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-14T22:00:00-03:00",
-   "coletado_em": "2026-11-13T13:17:30-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "preco_em": "2026-11-13T13:17:30-03:00",
-   "entrou": "2026-11-13T17:32:24.407121-03:00"
-  },
-  {
    "id": "amz-B0CC6VM1R6",
    "canal": "marcas",
    "nome": "Tênis de Corrida Mizuno Wave Falcon Feminino",
@@ -16636,38 +16703,6 @@
    "valida_ate": "2026-11-14T22:00:00-03:00",
    "coletado_em": "2026-11-13T18:17:11-03:00",
    "extra": "Preço a partir de: varia por tamanho e cor",
-   "preco_em": "2026-11-13T18:17:11-03:00",
-   "entrou": "2026-11-13T18:24:16.101370-03:00"
-  },
-  {
-   "id": "amz-B0FWD9LJV4",
-   "canal": "tech",
-   "nome": "Headset Gamer JBL Quantum 950 sem fio",
-   "preco_antigo": 2199.0,
-   "preco": 1399.99,
-   "desconto": 36,
-   "link": "https://www.amazon.com.br/dp/B0FWD9LJV4?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/6149f8M4uKL.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-14T22:00:00-03:00",
-   "coletado_em": "2026-11-13T18:17:11-03:00",
-   "preco_em": "2026-11-13T18:17:11-03:00",
-   "entrou": "2026-11-13T18:24:16.101370-03:00"
-  },
-  {
-   "id": "amz-B0D936LKRP",
-   "canal": "tech",
-   "nome": "Fone sem fio Samsung Galaxy Buds3",
-   "preco_antigo": 1699.0,
-   "preco": 709.65,
-   "desconto": 58,
-   "link": "https://www.amazon.com.br/dp/B0D936LKRP?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/41IUaksFeJL.jpg",
-   "loja": "Vendido por parceiro · entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-14T22:00:00-03:00",
-   "coletado_em": "2026-11-13T18:17:11-03:00",
    "preco_em": "2026-11-13T18:17:11-03:00",
    "entrou": "2026-11-13T18:24:16.101370-03:00"
   },
@@ -16803,7 +16838,7 @@
   "secadordecabelotaiffnewtourmalineprofissional2100w": "2026-11-13T14:30:57.014221-03:00",
   "creatinamaxtitanium300gpura": "2026-11-09T11:49:06.916664-03:00",
   "secadordecabelotaiffstyleprofissionaloriginal2000w": "2026-11-07T08:17:20.765679-03:00",
-  "secadordecabelotaiffblackionprofissionaloriginal2000w": "2026-11-07T08:34:24.879393-03:00",
+  "secadordecabelotaiffblackionprofissionaloriginal2000w": "2026-11-13T20:30:00.024645-03:00",
   "creatinapote100gmaxtitanium": "2026-10-30T14:33:24.012715-03:00",
   "mousegamerhyperxpulsefirecorergb6200dpi": "2026-10-30T14:43:25.743445-03:00",
   "difusorcachosuniversalparasecadortaiffvariosmodelos": "2026-10-30T14:58:31.163522-03:00",
@@ -17823,7 +17858,12 @@
   "appleiphone17256gbbranco": "2026-11-13T19:26:57.878903-03:00",
   "jogodepanelastramontinalinzaluminio": "2026-11-13T19:34:01.047204-03:00",
   "tenisaramisdailyslipcanvaspreto": "2026-11-13T19:41:49.482729-03:00",
-  "tecladogamerlogitechgproxtklrapid": "2026-11-13T19:48:58.430577-03:00"
+  "tecladogamerlogitechgproxtklrapid": "2026-11-13T19:48:58.430577-03:00",
+  "kit6cuecasboxerlupomicrofibrasemcostura": "2026-11-13T19:55:32.962713-03:00",
+  "headsetgamerjblquantum950semfio": "2026-11-13T20:01:49.766861-03:00",
+  "tenispumacourtclassiccleanmasculino": "2026-11-13T20:08:58.176735-03:00",
+  "fonesemfiosamsunggalaxybuds3": "2026-11-13T20:15:28.780912-03:00",
+  "tenismizunovirtue2": "2026-11-13T20:23:19.486808-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
@@ -18190,14 +18230,14 @@
   "2026-11-10 noite marcas",
   "2026-11-12 noite marcas"
  ],
- "reserva_meio": "2026-11-13T19:41:49.166696-03:00",
+ "reserva_meio": "2026-11-13T20:21:49.534614-03:00",
  "reserva_cheia": {
-  "achadinhos": "2026-11-13T12:28:08.378483-03:00",
+  "achadinhos": "2026-11-13T20:21:49.534614-03:00",
   "tech": "2026-11-13T18:07:34.116827-03:00",
   "marcas": "2026-11-12T17:56:29.409807-03:00"
  },
  "top10_dia": "2026-11-07",
- "manuais_lidos": "2026-11-13T19:41:49.166696-03:00",
+ "manuais_lidos": "2026-11-13T20:21:49.534614-03:00",
  "reserva_resultado": {
   "2026-11-07": {
    "achadinhos": {
@@ -18300,7 +18340,7 @@
    "achadinhos": {
     "busca": 0,
     "quase": 4,
-    "reprise": 2
+    "reprise": 3
    },
    "marcas": {
     "busca": 0,
@@ -18368,7 +18408,7 @@
    "hora": "2026-11-11T20:32:35.453128-03:00"
   }
  },
- "ig_respondido_em": "2026-11-13T19:48:56.044916-03:00",
+ "ig_respondido_em": "2026-11-13T20:29:55.218786-03:00",
  "dm_auto": {
   "2026-11-08": {
    "com_palavra": 0,
