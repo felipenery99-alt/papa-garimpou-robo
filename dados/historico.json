@@ -1167,7 +1167,13 @@
   "2026-11-13 marcas 10:47 amz-B0CVXT2XVL",
   "2026-11-13 achadinhos 11:02 amz-B07DKPFDMW",
   "2026-11-13 marcas 11:09 amz-B0B5VLF789",
-  "2026-11-13 tech 11:16 amz-B0FPNTYB2L"
+  "2026-11-13 tech 11:16 amz-B0FPNTYB2L",
+  "2026-11-13 achadinhos 11:25 shopee-22594959465",
+  "2026-11-13 achadinhos 11:27 amz-B08746TZ2V",
+  "2026-11-13 marcas 11:35 amz-B0GWK1X3SJ",
+  "2026-11-13 tech 11:42 shopee-50801661798",
+  "2026-11-13 achadinhos 11:50 shopee-42565175368",
+  "2026-11-13 marcas 11:58 amz-B0D9QWVHN3"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -1676,15 +1682,15 @@
   "shopee-19646145273": "2026-11-05T16:26:50.399112-03:00",
   "shopee-22599383562": "2026-11-12T10:18:14.425225-03:00",
   "shopee-15714692913": "2026-11-05T16:53:48.183189-03:00",
-  "shopee-22594959465": "2026-11-05T17:00:37.959972-03:00",
+  "shopee-22594959465": "2026-11-13T11:25:04.011271-03:00",
   "shopee-40275577235": "2026-11-08T18:43:42.905672-03:00",
   "amz-B07K986YLL": "2026-11-05T17:32:30.439994-03:00",
   "amz-B0GXLZ1Z88": "2026-11-05T17:43:06.818028-03:00",
   "amz-B0DKJYNXM4": "2026-11-05T17:57:15.959411-03:00",
   "amz-B0CH5PTDY1": "2026-11-05T18:05:30.059209-03:00",
   "shopee-19497608994": "2026-11-12T11:44:49.476024-03:00",
-  "shopee-42565175368": "2026-11-05T18:18:27.405946-03:00",
-  "shopee-50801661798": "2026-11-05T18:24:30.014977-03:00",
+  "shopee-42565175368": "2026-11-13T11:50:18.319207-03:00",
+  "shopee-50801661798": "2026-11-13T11:42:36.169251-03:00",
   "shopee-23494777148": "2026-11-08T14:20:29.483606-03:00",
   "amz-B0CZLXLN8P": "2026-11-05T18:37:56.255838-03:00",
   "amz-B0GHSLKDVM": "2026-11-05T18:47:31.693248-03:00",
@@ -2293,7 +2299,10 @@
   "amz-B0CVXT2XVL": "2026-11-13T10:47:29.588987-03:00",
   "amz-B07DKPFDMW": "2026-11-13T11:02:51.165286-03:00",
   "amz-B0B5VLF789": "2026-11-13T11:09:12.504417-03:00",
-  "amz-B0FPNTYB2L": "2026-11-13T11:16:15.928721-03:00"
+  "amz-B0FPNTYB2L": "2026-11-13T11:16:15.928721-03:00",
+  "amz-B08746TZ2V": "2026-11-13T11:27:54.581899-03:00",
+  "amz-B0GWK1X3SJ": "2026-11-13T11:35:02.619522-03:00",
+  "amz-B0D9QWVHN3": "2026-11-13T11:58:53.193460-03:00"
  },
  "ofertas_dia": [
   {
@@ -14881,6 +14890,112 @@
    "preco_em": "2026-11-13T08:17:15-03:00",
    "entrou": "2026-11-13T08:17:33.727221-03:00",
    "dia": "2026-11-13"
+  },
+  {
+   "id": "shopee-22594959465",
+   "plataforma": "Shopee",
+   "nome": "Refil Desodorante Corporal Natura Essencial Atrai Masculino",
+   "loja": "NATURA",
+   "loja_oficial": true,
+   "preco": 28.45,
+   "preco_antigo": 56.9,
+   "desconto": 50,
+   "vendas": 653,
+   "nota": 4.9,
+   "comissao_pct": 16.0,
+   "imagem": "https://cf.shopee.com.br/file/sg-11134201-820lr-mnk67stocg0843",
+   "link": "https://s.shopee.com.br/3B8uqA6NmO",
+   "canal": "achadinhos",
+   "entrou": "2026-11-13T09:02:44.806912-03:00",
+   "dia": "2026-11-13"
+  },
+  {
+   "id": "amz-B08746TZ2V",
+   "canal": "achadinhos",
+   "nome": "Mixer Philips Walita Pro Mix 4 em 1 400W",
+   "preco_antigo": 399.9,
+   "preco": 233.99,
+   "desconto": 41,
+   "link": "https://www.amazon.com.br/dp/B08746TZ2V?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51P6uGuFS8L._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-14T22:00:00-03:00",
+   "coletado_em": "2026-11-13T08:17:15-03:00",
+   "preco_em": "2026-11-13T08:17:15-03:00",
+   "entrou": "2026-11-13T09:08:02.942949-03:00",
+   "dia": "2026-11-13"
+  },
+  {
+   "id": "amz-B0GWK1X3SJ",
+   "canal": "marcas",
+   "nome": "Garrafa Térmica Stanley Aerolight Transit 2.0 591ml",
+   "preco_antigo": 259.0,
+   "preco": 167.4,
+   "desconto": 35,
+   "link": "https://www.amazon.com.br/dp/B0GWK1X3SJ?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/41eoqbpislL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-14T22:00:00-03:00",
+   "coletado_em": "2026-11-13T08:17:15-03:00",
+   "preco_em": "2026-11-13T08:17:15-03:00",
+   "entrou": "2026-11-13T08:17:33.727221-03:00",
+   "dia": "2026-11-13"
+  },
+  {
+   "id": "shopee-50801661798",
+   "plataforma": "Shopee",
+   "nome": "Caixa de Som Bluetooth JBL Boombox 4, com Auracast, IP68 Azul - 28913918",
+   "loja": "TNTinfoLoja",
+   "loja_oficial": true,
+   "preco": 2343.04,
+   "preco_antigo": 3905.07,
+   "desconto": 40,
+   "vendas": 519,
+   "nota": 5.0,
+   "comissao_pct": 6.0,
+   "imagem": "https://cf.shopee.com.br/file/sg-11134201-821d7-mh7w8c1tekg93a",
+   "link": "https://s.shopee.com.br/6q2DHq0KHo",
+   "canal": "tech",
+   "entrou": "2026-11-13T09:02:44.806912-03:00",
+   "dia": "2026-11-13"
+  },
+  {
+   "id": "shopee-42565175368",
+   "plataforma": "Shopee",
+   "nome": "Aspirador de Pó Robô WAP Robot W100 3 em 1 Antiqueda Bivolt 17W",
+   "loja": "LOI BRASIL",
+   "loja_oficial": true,
+   "preco": 537.99,
+   "preco_antigo": 1075.98,
+   "desconto": 50,
+   "vendas": 321,
+   "nota": 4.9,
+   "comissao_pct": 3.0,
+   "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mi3iwgro7wg2ad",
+   "link": "https://s.shopee.com.br/2BGPworkU4",
+   "canal": "achadinhos",
+   "entrou": "2026-11-13T10:34:36.026507-03:00",
+   "dia": "2026-11-13"
+  },
+  {
+   "id": "amz-B0D9QWVHN3",
+   "canal": "marcas",
+   "nome": "Cueca Calvin Klein Trunk algodão toque macio",
+   "preco_antigo": 69.99,
+   "preco": 41.94,
+   "desconto": 40,
+   "link": "https://www.amazon.com.br/dp/B0D9QWVHN3?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61k4v4+-qjL._AC_SL1500_.jpg",
+   "loja": "Vendido por parceiro · entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-14T22:00:00-03:00",
+   "coletado_em": "2026-11-13T08:17:15-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "preco_em": "2026-11-13T08:17:15-03:00",
+   "entrou": "2026-11-13T08:17:33.727221-03:00",
+   "dia": "2026-11-13"
   }
  ],
  "ig_feitos": [
@@ -14996,7 +15111,10 @@
   "2026-11-13 08:52 story_oferta",
   "2026-11-13 09:40 story_convite",
   "2026-11-13 10:20 story_oferta",
-  "2026-11-13 11:11 story_oferta"
+  "2026-11-13 11:11 story_oferta",
+  "2026-11-13 feed",
+  "2026-11-13 11:50 carrossel_top5",
+  "2026-11-13 12:00 reels"
  ],
  "ig_ofertas_usadas": [
   "amz-B08XQWLDKP",
@@ -15202,7 +15320,7 @@
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
- "ig_ultimo_reel": "2026-11-12T20:32:55.358197-03:00",
+ "ig_ultimo_reel": "2026-11-13T12:06:27.856922-03:00",
  "pecas_usadas": {
   "ac-preco-inflado": "2026-10-27",
   "dc-7-dias": "2026-10-27",
@@ -15269,39 +15387,6 @@
  },
  "ultimo_pilar": "humor",
  "fila": [
-  {
-   "id": "amz-B0GWK1X3SJ",
-   "canal": "marcas",
-   "nome": "Garrafa Térmica Stanley Aerolight Transit 2.0 591ml",
-   "preco_antigo": 259.0,
-   "preco": 167.4,
-   "desconto": 35,
-   "link": "https://www.amazon.com.br/dp/B0GWK1X3SJ?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/41eoqbpislL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-14T22:00:00-03:00",
-   "coletado_em": "2026-11-13T08:17:15-03:00",
-   "preco_em": "2026-11-13T08:17:15-03:00",
-   "entrou": "2026-11-13T08:17:33.727221-03:00"
-  },
-  {
-   "id": "amz-B0D9QWVHN3",
-   "canal": "marcas",
-   "nome": "Cueca Calvin Klein Trunk algodão toque macio",
-   "preco_antigo": 69.99,
-   "preco": 41.94,
-   "desconto": 40,
-   "link": "https://www.amazon.com.br/dp/B0D9QWVHN3?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61k4v4+-qjL._AC_SL1500_.jpg",
-   "loja": "Vendido por parceiro · entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-14T22:00:00-03:00",
-   "coletado_em": "2026-11-13T08:17:15-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "preco_em": "2026-11-13T08:17:15-03:00",
-   "entrou": "2026-11-13T08:17:33.727221-03:00"
-  },
   {
    "id": "amz-B0CGR3KVMD",
    "canal": "marcas",
@@ -15420,89 +15505,6 @@
    "link": "https://s.shopee.com.br/906hn0lH8D",
    "canal": "marcas",
    "entrou": "2026-11-13T08:17:33.727221-03:00"
-  },
-  {
-   "id": "shopee-22594959465",
-   "plataforma": "Shopee",
-   "nome": "Refil Desodorante Corporal Natura Essencial Atrai Masculino",
-   "loja": "NATURA",
-   "loja_oficial": true,
-   "preco": 28.45,
-   "preco_antigo": 56.9,
-   "desconto": 50,
-   "vendas": 653,
-   "nota": 4.9,
-   "comissao_pct": 16.0,
-   "imagem": "https://cf.shopee.com.br/file/sg-11134201-820lr-mnk67stocg0843",
-   "link": "https://s.shopee.com.br/3B8uqA6NmO",
-   "canal": "achadinhos",
-   "entrou": "2026-11-13T09:02:44.806912-03:00"
-  },
-  {
-   "id": "shopee-50801661798",
-   "plataforma": "Shopee",
-   "nome": "Caixa de Som Bluetooth JBL Boombox 4, com Auracast, IP68 Azul - 28913918",
-   "loja": "TNTinfoLoja",
-   "loja_oficial": true,
-   "preco": 2343.04,
-   "preco_antigo": 3905.07,
-   "desconto": 40,
-   "vendas": 519,
-   "nota": 5.0,
-   "comissao_pct": 6.0,
-   "imagem": "https://cf.shopee.com.br/file/sg-11134201-821d7-mh7w8c1tekg93a",
-   "link": "https://s.shopee.com.br/6q2DHq0KHo",
-   "canal": "tech",
-   "entrou": "2026-11-13T09:02:44.806912-03:00"
-  },
-  {
-   "id": "amz-B08746TZ2V",
-   "canal": "achadinhos",
-   "nome": "Mixer Philips Walita Pro Mix 4 em 1 400W",
-   "preco_antigo": 399.9,
-   "preco": 233.99,
-   "desconto": 41,
-   "link": "https://www.amazon.com.br/dp/B08746TZ2V?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51P6uGuFS8L._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-14T22:00:00-03:00",
-   "coletado_em": "2026-11-13T08:17:15-03:00",
-   "preco_em": "2026-11-13T08:17:15-03:00",
-   "entrou": "2026-11-13T09:08:02.942949-03:00"
-  },
-  {
-   "id": "amz-B0FLKL7DHZ",
-   "canal": "tech",
-   "nome": "Monitor Gamer AOC AGON G50 27\" 144Hz IPS G-Sync",
-   "preco_antigo": 899.0,
-   "preco": 633.53,
-   "desconto": 30,
-   "link": "https://www.amazon.com.br/dp/B0FLKL7DHZ?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/71RpoYhSWJL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-14T22:00:00-03:00",
-   "coletado_em": "2026-11-13T08:17:15-03:00",
-   "preco_em": "2026-11-13T08:17:15-03:00",
-   "entrou": "2026-11-13T10:25:49.747919-03:00"
-  },
-  {
-   "id": "shopee-42565175368",
-   "plataforma": "Shopee",
-   "nome": "Aspirador de Pó Robô WAP Robot W100 3 em 1 Antiqueda Bivolt 17W",
-   "loja": "LOI BRASIL",
-   "loja_oficial": true,
-   "preco": 537.99,
-   "preco_antigo": 1075.98,
-   "desconto": 50,
-   "vendas": 321,
-   "nota": 4.9,
-   "comissao_pct": 3.0,
-   "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mi3iwgro7wg2ad",
-   "link": "https://s.shopee.com.br/2BGPworkU4",
-   "canal": "achadinhos",
-   "entrou": "2026-11-13T10:34:36.026507-03:00"
   },
   {
    "id": "amz-B0GYQKB2GB",
@@ -15882,15 +15884,15 @@
   "calcalegleggingmaxluposporttecnologiasemcosturaseamlessdryparatreinodealtorendimento": "2026-11-05T16:26:50.399112-03:00",
   "furadeiradeimpactogsb450restdbosch450wkitmaletacom300pcseacessorios": "2026-11-12T10:18:14.425225-03:00",
   "kit2cuecasboxerlupomicrofibrapoliamidasemcosturaconfortavelcuecamasculinaoriginal": "2026-11-05T16:53:48.183189-03:00",
-  "refildesodorantecorporalnaturaessencialatraimasculino": "2026-11-05T17:00:37.959972-03:00",
+  "refildesodorantecorporalnaturaessencialatraimasculino": "2026-11-13T11:25:04.011271-03:00",
   "smarttvsamsung32hdtizenhdrwifihdmibivoltpreta": "2026-11-08T18:43:42.905672-03:00",
   "webcamlogitechc920sfullhd1080pcommicrofone": "2026-11-05T17:32:30.439994-03:00",
   "kit12paresmeialuposapatilhainvisivel": "2026-11-05T17:43:06.818028-03:00",
   "kit6poteshermeticoselectroluxempilhaveis": "2026-11-05T17:57:15.959411-03:00",
   "chaleiraeletricawapwce117lbasegiratoria": "2026-11-05T18:05:30.059209-03:00",
   "extratoraehigienizadoraportatilwapspotcleanerw31450w": "2026-11-12T11:44:49.476024-03:00",
-  "aspiradordeporobowaprobotw1003em1antiquedabivolt17w": "2026-11-05T18:18:27.405946-03:00",
-  "caixadesombluetoothjblboombox4comauracastip68azul28913918": "2026-11-05T18:24:30.014977-03:00",
+  "aspiradordeporobowaprobotw1003em1antiquedabivolt17w": "2026-11-13T11:50:18.319207-03:00",
+  "caixadesombluetoothjblboombox4comauracastip68azul28913918": "2026-11-13T11:42:36.169251-03:00",
   "camerainteligentevisao360intelbrasime3603mp": "2026-11-08T14:20:29.483606-03:00",
   "garrafatermicastanleyflipstraw500mlcitron": "2026-11-05T18:37:56.255838-03:00",
   "tenismizunoedocross": "2026-11-05T18:47:31.693248-03:00",
@@ -16496,7 +16498,10 @@
   "kit2camisaspolobasicasheringmasculinas": "2026-11-13T10:47:29.588987-03:00",
   "protetorsolarniveasunprotecthidratafps30200ml": "2026-11-13T11:02:51.165286-03:00",
   "camisapoloaramismasculina": "2026-11-13T11:09:12.504417-03:00",
-  "caixadesomjblgoessential2azul": "2026-11-13T11:16:15.928721-03:00"
+  "caixadesomjblgoessential2azul": "2026-11-13T11:16:15.928721-03:00",
+  "mixerphilipswalitapromix4em1400w": "2026-11-13T11:27:54.581899-03:00",
+  "garrafatermicastanleyaerolighttransit20591ml": "2026-11-13T11:35:02.619522-03:00",
+  "cuecacalvinkleintrunkalgodaotoquemacio": "2026-11-13T11:58:53.193460-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
@@ -16728,6 +16733,12 @@
    "shopee-21049729949",
    "shopee-23892413591",
    "shopee-22599383562"
+  ],
+  "2026-11-13": [
+   "shopee-50801661798",
+   "shopee-54114684881",
+   "shopee-42565175368",
+   "shopee-22594959465"
   ]
  },
  "vendas_shopee": {},
@@ -16855,14 +16866,14 @@
   "2026-11-10 noite marcas",
   "2026-11-12 noite marcas"
  ],
- "reserva_meio": "2026-11-13T00:31:54.817578-03:00",
+ "reserva_meio": "2026-11-13T11:57:48.593850-03:00",
  "reserva_cheia": {
   "achadinhos": "2026-11-12T17:34:05.140167-03:00",
   "tech": "2026-11-12T17:56:29.409807-03:00",
   "marcas": "2026-11-12T17:56:29.409807-03:00"
  },
  "top10_dia": "2026-11-07",
- "manuais_lidos": "2026-11-13T11:09:12.244557-03:00",
+ "manuais_lidos": "2026-11-13T11:57:48.593850-03:00",
  "reserva_resultado": {
   "2026-11-07": {
    "achadinhos": {
@@ -17033,7 +17044,7 @@
    "hora": "2026-11-11T20:32:35.453128-03:00"
   }
  },
- "ig_respondido_em": "2026-11-13T11:15:55.426467-03:00",
+ "ig_respondido_em": "2026-11-13T12:06:27.856922-03:00",
  "dm_auto": {
   "2026-11-08": {
    "com_palavra": 0,
@@ -17177,6 +17188,14 @@
     "capa": "ate_off",
     "legenda": "Manda pra quem tá precisando disso 👇\n😎💎 Até 75% OFF em marca boa: os 5 achados do Papa hoje\n\nOfertas todo dia no Telegram: papagarimpouofertas 💎\n\nPubli · link de afiliado",
     "url": "https://raw.githubusercontent.com/felipenery99-alt/papa-garimpou-robo/tiktok-midia/20261112-2032-tiktok.mp4"
+   }
+  ],
+  "2026-11-13": [
+   {
+    "hora": "12:06",
+    "capa": "ate_off",
+    "legenda": "Manda pra quem tá precisando disso 👇\n😎💎 Até 50% OFF em marca boa: os 4 achados do Papa hoje\n\nOfertas todo dia no Telegram: papagarimpouofertas 💎\n\nPubli · link de afiliado",
+    "url": "https://raw.githubusercontent.com/felipenery99-alt/papa-garimpou-robo/tiktok-midia/20261113-1206-tiktok.mp4"
    }
   ]
  },
@@ -17360,9 +17379,12 @@
   },
   "2026-11-13": {
    "story": 5,
-   "feed": 0
+   "feed": 1
   }
  },
  "ig_conta_ok": "2026-11-13",
- "share_erro": {}
+ "share_erro": {},
+ "ig_tentativas": {
+  "2026-11-13 11:50 carrossel_top5": 1
+ }
 }
