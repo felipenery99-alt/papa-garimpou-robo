@@ -30,6 +30,9 @@ INSTAGRAM_AGENDA = [
     ("12:15", "story_top4"), ("13:20", "story_convite"), ("15:00", "adivinha"), ("18:30", "reels"),
     ("18:05", "a_ou_b"), ("19:15", "post_achado"), ("20:35", "story_top4"),
     ("21:20", "story_convite"),  # 29/10: 2º convite no pico da noite (Telegram parado em 2 membros/canal)
+    # 13/11 (CEO): Telegram 20 de 150 (atrasado) e nenhum convite de manhã. 3º convite às 09:40 (sai na execução
+    # das 10:24): antes das 18h vira a contagem da Black Friday ("busca @papagarimpouofertas"). Voltar em 28/11.
+    ("09:40", "story_convite"),
     # 29/10, dono: "alimentar o feed" — mais 4 posts de achado (sem oferta, sai peça do banco)
     # 09/11 (CEO PC): ~11 itens de feed/dia para 407 seguidores = engajamento por post muito baixo; os 4 Reels de
     # 08/11 tiveram alcance 0 e o alcance da conta caiu a 36. Feed enxugado para 5/dia (carrossel 11h50, Reels 12h,

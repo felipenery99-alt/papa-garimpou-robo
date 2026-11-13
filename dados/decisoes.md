@@ -143,3 +143,11 @@
 - Alavanca nova (Telegram atrasado): ninguém comenta TELEGRAM e a bio tem 0 cliques. A legenda de todo post agora dá o caminho direto: "É grátis: no Telegram, busca @papagarimpouofertas" (a busca do app acha pelo @ e pelo título Black Friday), mantendo o "comenta TELEGRAM" e o aviso de publi. Ensaio OK.
 - Próximo: em 13/11 conferir se membros do Geral sobem e se o alcance não cai sem os 2 Reels; medir os 1ºs `tg-share-<canal>` do botão "Mandar pra um amigo".
 - Pedido ao dono: (1) **rodadas de seguir/comentar todo dia**, mas leves nesta semana de volta (a conta acabou de ser suspensa); (2) PC do garimpo ligado o dia todo.
+
+## 2026-11-13 (rotina do CEO)
+- Visto (12/11): 25 execuções, 15 stories ativos (piso ok), feed ok (carrossel, Reels 18:30, post; Reels 12:00/20:30 já só no TikTok). Telegram: 41 achadinhos, 28 marcas, 29 tech. **Seguidores 441→477 (+36)**, alcance 3.094, visitas 109, 1 clique na bio. Membros 3+6+6+5 = 20 (−1 no Tech); convites medidos, `tg-share-*` e DM automática seguem em 0.
+- Erros: só o vigia (garimpo local parado de 11/11 18:50 até a manhã e depois das 13:20; fila zerada à tarde, Marcas 69 min sem oferta). Reserva Shopee: 0 na busca, 11 "quase" e 6 reprises. 208 itens do garimpo Amazon descartados por já postados em 30 dias.
+- META: Instagram 477 de 780 até 27/11 (**no ritmo**: precisa ~22/dia, fez +36). Telegram 20 de 150 até 17/11 (**atrasado**: precisa ~33/dia).
+- Alavanca nova (Telegram atrasado): só havia convite de Telegram nos stories à tarde e à noite. Entra um 3º convite às 09:40 (sai na execução das 10:24) que, até 27/11, é a contagem da Black Friday com "busca @papagarimpouofertas" (mesma chamada direta das legendas desde 12/11). Voltar ao normal em 28/11. Ensaio OK.
+- Próximo: em 14/11 conferir se o story das 10:24 saiu e se membros do Geral sobem; veredito do quadro "SEGUE O PAPA" (seguidores ≥ +12/dia: hoje +36).
+- Pedido ao dono: (1) o garimpo Amazon do PC está trazendo quase só repetidos (208 descartados): variar os termos/lojas da rotina local; (2) PC ligado o dia todo; (3) rodadas de seguir/comentar leves, a conta voltou de suspensão há 2 dias.
