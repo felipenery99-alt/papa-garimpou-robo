@@ -1218,7 +1218,13 @@
   "2026-11-13 tech 17:18 amz-B0GVPGKM4P",
   "2026-11-13 marcas 17:25 amz-B0DXN5BKM5",
   "2026-11-13 achadinhos 17:32 amz-B077C3SY25",
-  "2026-11-13 marcas 17:40 amz-B0F1CLCF3T"
+  "2026-11-13 marcas 17:40 amz-B0F1CLCF3T",
+  "2026-11-13 achadinhos 17:48 amz-B08W3H6D56",
+  "2026-11-13 marcas 17:54 amz-B0CBF2383Y",
+  "2026-11-13 achadinhos 18:00 amz-B09N4Y8TR7",
+  "2026-11-13 marcas 18:10 amz-B0BNP2CYBB",
+  "2026-11-13 achadinhos 18:16 amz-B07CG7NS5W",
+  "2026-11-13 marcas 18:23 amz-B07XLCBWYG"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -2389,7 +2395,13 @@
   "amz-B0GVPGKM4P": "2026-11-13T17:18:54.711817-03:00",
   "amz-B0DXN5BKM5": "2026-11-13T17:25:33.465972-03:00",
   "amz-B077C3SY25": "2026-11-13T17:32:24.770125-03:00",
-  "amz-B0F1CLCF3T": "2026-11-13T17:40:32.053458-03:00"
+  "amz-B0F1CLCF3T": "2026-11-13T17:40:32.053458-03:00",
+  "amz-B08W3H6D56": "2026-11-13T17:48:14.042744-03:00",
+  "amz-B0CBF2383Y": "2026-11-13T17:54:32.907627-03:00",
+  "amz-B09N4Y8TR7": "2026-11-13T18:00:46.127546-03:00",
+  "amz-B0BNP2CYBB": "2026-11-13T18:10:27.704630-03:00",
+  "amz-B07CG7NS5W": "2026-11-13T18:16:30.432938-03:00",
+  "amz-B07XLCBWYG": "2026-11-13T18:23:45.204242-03:00"
  },
  "ofertas_dia": [
   {
@@ -5863,15 +5875,15 @@
    "preco": 199.99,
    "preco_antigo": 454.52,
    "desconto": 56,
-   "vendas": 647,
+   "vendas": 601,
    "nota": 4.9,
    "comissao_pct": 12.0,
    "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdwk-m1d2ehidujdhf5",
-   "link": "https://s.shopee.com.br/7pueF4DRRU",
+   "link": "https://s.shopee.com.br/5q9gJRbdMC",
    "canal": "achadinhos",
-   "entrou": "2026-11-09T12:07:22.519963-03:00",
-   "reprise_dias": 2,
-   "dia": "2026-11-09"
+   "entrou": "2026-11-13T12:28:08.378483-03:00",
+   "reprise_dias": 3,
+   "dia": "2026-11-13"
   },
   {
    "id": "amz-B0C9KPBSV2",
@@ -5992,15 +6004,15 @@
    "preco": 382.28,
    "preco_antigo": 616.58,
    "desconto": 38,
-   "vendas": 577,
+   "vendas": 526,
    "nota": 4.9,
-   "comissao_pct": 15.0,
+   "comissao_pct": 12.0,
    "imagem": "https://cf.shopee.com.br/file/sg-11134201-822y1-moe6fix56ubw37",
-   "link": "https://s.shopee.com.br/7fbE2lE4mT",
+   "link": "https://s.shopee.com.br/5fqG78cGhB",
    "canal": "achadinhos",
-   "entrou": "2026-11-09T11:21:30.800722-03:00",
-   "reprise_dias": 2,
-   "dia": "2026-11-09"
+   "entrou": "2026-11-13T12:28:08.378483-03:00",
+   "reprise_dias": 3,
+   "dia": "2026-11-13"
   },
   {
    "id": "shopee-21116473058",
@@ -15354,44 +15366,6 @@
    "dia": "2026-11-13"
   },
   {
-   "id": "shopee-22997647570",
-   "plataforma": "Shopee",
-   "nome": "Escova secador Modeladora Taiff Oval Easy Pink Original",
-   "loja": "Beleza Renovada Oficial",
-   "loja_oficial": true,
-   "preco": 199.99,
-   "preco_antigo": 454.52,
-   "desconto": 56,
-   "vendas": 601,
-   "nota": 4.9,
-   "comissao_pct": 12.0,
-   "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdwk-m1d2ehidujdhf5",
-   "link": "https://s.shopee.com.br/5q9gJRbdMC",
-   "canal": "achadinhos",
-   "entrou": "2026-11-13T12:28:08.378483-03:00",
-   "reprise_dias": 3,
-   "dia": "2026-11-13"
-  },
-  {
-   "id": "shopee-21897631761",
-   "plataforma": "Shopee",
-   "nome": "Secador De Cabelo Taiff New Tourmaline Profissional 2100W",
-   "loja": "Beleza Renovada Oficial",
-   "loja_oficial": true,
-   "preco": 382.28,
-   "preco_antigo": 616.58,
-   "desconto": 38,
-   "vendas": 526,
-   "nota": 4.9,
-   "comissao_pct": 12.0,
-   "imagem": "https://cf.shopee.com.br/file/sg-11134201-822y1-moe6fix56ubw37",
-   "link": "https://s.shopee.com.br/5fqG78cGhB",
-   "canal": "achadinhos",
-   "entrou": "2026-11-13T12:28:08.378483-03:00",
-   "reprise_dias": 3,
-   "dia": "2026-11-13"
-  },
-  {
    "id": "amz-B0GQWP9K1G",
    "canal": "tech",
    "nome": "Apple iPhone 17 256 GB, Sálvia",
@@ -15803,6 +15777,111 @@
    "preco_em": "2026-11-13T13:17:51-03:00",
    "entrou": "2026-11-13T14:52:41.668704-03:00",
    "dia": "2026-11-13"
+  },
+  {
+   "id": "amz-B08W3H6D56",
+   "canal": "achadinhos",
+   "nome": "Kit 2 desodorantes NIVEA Protect & Care aerossol 150 ml",
+   "preco_antigo": 34.9,
+   "preco": 18.89,
+   "desconto": 46,
+   "link": "https://www.amazon.com.br/dp/B08W3H6D56?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61D+qzREnbL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-14T22:00:00-03:00",
+   "coletado_em": "2026-11-13T13:18:11-03:00",
+   "preco_em": "2026-11-13T13:18:11-03:00",
+   "entrou": "2026-11-13T17:32:24.407121-03:00",
+   "dia": "2026-11-13"
+  },
+  {
+   "id": "amz-B0CBF2383Y",
+   "canal": "marcas",
+   "nome": "Tênis Mizuno Wave Dynasty 5",
+   "preco_antigo": 399.99,
+   "preco": 259.99,
+   "desconto": 35,
+   "link": "https://www.amazon.com.br/dp/B0CBF2383Y?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61lwe9KcnKL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-14T22:00:00-03:00",
+   "coletado_em": "2026-11-13T13:17:32-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "preco_em": "2026-11-13T13:17:32-03:00",
+   "entrou": "2026-11-13T17:32:24.407121-03:00",
+   "dia": "2026-11-13"
+  },
+  {
+   "id": "amz-B09N4Y8TR7",
+   "canal": "achadinhos",
+   "nome": "Cafeteira elétrica Mondial Dolce Arome digital",
+   "preco_antigo": 378.94,
+   "preco": 219.9,
+   "desconto": 42,
+   "link": "https://www.amazon.com.br/dp/B09N4Y8TR7?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/712oLx9akuL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-14T22:00:00-03:00",
+   "coletado_em": "2026-11-13T13:18:31-03:00",
+   "preco_em": "2026-11-13T13:18:31-03:00",
+   "entrou": "2026-11-13T17:32:24.407121-03:00",
+   "dia": "2026-11-13"
+  },
+  {
+   "id": "amz-B0BNP2CYBB",
+   "canal": "marcas",
+   "nome": "Camiseta Henley Hering masculina texturizada",
+   "preco_antigo": 99.99,
+   "preco": 62.9,
+   "desconto": 37,
+   "link": "https://www.amazon.com.br/dp/B0BNP2CYBB?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/6193pTFeOvL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-14T22:00:00-03:00",
+   "coletado_em": "2026-11-13T13:17:41-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "preco_em": "2026-11-13T13:17:41-03:00",
+   "entrou": "2026-11-13T17:32:24.407121-03:00",
+   "dia": "2026-11-13"
+  },
+  {
+   "id": "amz-B07CG7NS5W",
+   "canal": "achadinhos",
+   "nome": "Furadeira e parafusadeira BLACK+DECKER 12V com 31 acessórios",
+   "preco_antigo": 395.9,
+   "preco": 254.12,
+   "desconto": 36,
+   "link": "https://www.amazon.com.br/dp/B07CG7NS5W?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51GleLO+xGL._AC_SL1000_.jpg",
+   "loja": "Vendido por parceiro · entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-14T22:00:00-03:00",
+   "coletado_em": "2026-11-13T13:18:27-03:00",
+   "preco_em": "2026-11-13T13:18:27-03:00",
+   "entrou": "2026-11-13T17:32:24.407121-03:00",
+   "dia": "2026-11-13"
+  },
+  {
+   "id": "amz-B07XLCBWYG",
+   "canal": "marcas",
+   "nome": "Camiseta manga longa Hering World masculina",
+   "preco_antigo": 79.99,
+   "preco": 49.99,
+   "desconto": 38,
+   "link": "https://www.amazon.com.br/dp/B07XLCBWYG?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/81rV5WRZuyL._AC_SL1500_.jpg",
+   "loja": "Loja oficial Hering · entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-14T22:00:00-03:00",
+   "coletado_em": "2026-11-13T13:17:43-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "preco_em": "2026-11-13T13:17:43-03:00",
+   "entrou": "2026-11-13T17:32:24.407121-03:00",
+   "dia": "2026-11-13"
   }
  ],
  "ig_feitos": [
@@ -15929,7 +16008,8 @@
   "2026-11-13 15:00 adivinha",
   "2026-11-13 16:05 adivinha_resposta",
   "story especial pede-pro-papa 2026-11-13",
-  "2026-11-13 17:36 story_oferta"
+  "2026-11-13 17:36 story_oferta",
+  "2026-11-13 18:05 a_ou_b"
  ],
  "ig_ofertas_usadas": [
   "amz-B008SBKTZ4",
@@ -16131,7 +16211,9 @@
   "shopee-50801661798",
   "shopee-42565175368",
   "shopee-40717702468",
-  "shopee-22998796938"
+  "shopee-22998796938",
+  "shopee-10677614679",
+  "shopee-18516472597"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
@@ -16202,105 +16284,6 @@
  },
  "ultimo_pilar": "humor",
  "fila": [
-  {
-   "id": "amz-B08W3H6D56",
-   "canal": "achadinhos",
-   "nome": "Kit 2 desodorantes NIVEA Protect & Care aerossol 150 ml",
-   "preco_antigo": 34.9,
-   "preco": 18.89,
-   "desconto": 46,
-   "link": "https://www.amazon.com.br/dp/B08W3H6D56?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61D+qzREnbL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-14T22:00:00-03:00",
-   "coletado_em": "2026-11-13T13:18:11-03:00",
-   "preco_em": "2026-11-13T13:18:11-03:00",
-   "entrou": "2026-11-13T17:32:24.407121-03:00"
-  },
-  {
-   "id": "amz-B09N4Y8TR7",
-   "canal": "achadinhos",
-   "nome": "Cafeteira elétrica Mondial Dolce Arome digital",
-   "preco_antigo": 378.94,
-   "preco": 219.9,
-   "desconto": 42,
-   "link": "https://www.amazon.com.br/dp/B09N4Y8TR7?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/712oLx9akuL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-14T22:00:00-03:00",
-   "coletado_em": "2026-11-13T13:18:31-03:00",
-   "preco_em": "2026-11-13T13:18:31-03:00",
-   "entrou": "2026-11-13T17:32:24.407121-03:00"
-  },
-  {
-   "id": "amz-B07CG7NS5W",
-   "canal": "achadinhos",
-   "nome": "Furadeira e parafusadeira BLACK+DECKER 12V com 31 acessórios",
-   "preco_antigo": 395.9,
-   "preco": 254.12,
-   "desconto": 36,
-   "link": "https://www.amazon.com.br/dp/B07CG7NS5W?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51GleLO+xGL._AC_SL1000_.jpg",
-   "loja": "Vendido por parceiro · entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-14T22:00:00-03:00",
-   "coletado_em": "2026-11-13T13:18:27-03:00",
-   "preco_em": "2026-11-13T13:18:27-03:00",
-   "entrou": "2026-11-13T17:32:24.407121-03:00"
-  },
-  {
-   "id": "amz-B0CBF2383Y",
-   "canal": "marcas",
-   "nome": "Tênis Mizuno Wave Dynasty 5",
-   "preco_antigo": 399.99,
-   "preco": 259.99,
-   "desconto": 35,
-   "link": "https://www.amazon.com.br/dp/B0CBF2383Y?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61lwe9KcnKL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-14T22:00:00-03:00",
-   "coletado_em": "2026-11-13T13:17:32-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "preco_em": "2026-11-13T13:17:32-03:00",
-   "entrou": "2026-11-13T17:32:24.407121-03:00"
-  },
-  {
-   "id": "amz-B0BNP2CYBB",
-   "canal": "marcas",
-   "nome": "Camiseta Henley Hering masculina texturizada",
-   "preco_antigo": 99.99,
-   "preco": 62.9,
-   "desconto": 37,
-   "link": "https://www.amazon.com.br/dp/B0BNP2CYBB?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/6193pTFeOvL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-14T22:00:00-03:00",
-   "coletado_em": "2026-11-13T13:17:41-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "preco_em": "2026-11-13T13:17:41-03:00",
-   "entrou": "2026-11-13T17:32:24.407121-03:00"
-  },
-  {
-   "id": "amz-B07XLCBWYG",
-   "canal": "marcas",
-   "nome": "Camiseta manga longa Hering World masculina",
-   "preco_antigo": 79.99,
-   "preco": 49.99,
-   "desconto": 38,
-   "link": "https://www.amazon.com.br/dp/B07XLCBWYG?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/81rV5WRZuyL._AC_SL1500_.jpg",
-   "loja": "Loja oficial Hering · entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-14T22:00:00-03:00",
-   "coletado_em": "2026-11-13T13:17:43-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "preco_em": "2026-11-13T13:17:43-03:00",
-   "entrou": "2026-11-13T17:32:24.407121-03:00"
-  },
   {
    "id": "amz-B0009OAGQU",
    "canal": "marcas",
@@ -17440,7 +17423,13 @@
   "fonejbltune780ncbluetoothcomcancelamentoderuido": "2026-11-13T17:18:54.711817-03:00",
   "garrafastanleyaerolighticeflowflipstraw710mlrosequartz": "2026-11-13T17:25:33.465972-03:00",
   "protetorsolarcorporallorealsolarexpertisefps70200ml": "2026-11-13T17:32:24.770125-03:00",
-  "perfumebossbottledbeyondeaudeparfum50ml": "2026-11-13T17:40:32.053458-03:00"
+  "perfumebossbottledbeyondeaudeparfum50ml": "2026-11-13T17:40:32.053458-03:00",
+  "kit2desodorantesniveaprotectcareaerossol150ml": "2026-11-13T17:48:14.042744-03:00",
+  "tenismizunowavedynasty5": "2026-11-13T17:54:32.907627-03:00",
+  "cafeteiraeletricamondialdolcearomedigital": "2026-11-13T18:00:46.127546-03:00",
+  "camisetahenleyheringmasculinatexturizada": "2026-11-13T18:10:27.704630-03:00",
+  "furadeiraeparafusadeirablackdecker12vcom31acessorios": "2026-11-13T18:16:30.432938-03:00",
+  "camisetamangalongaheringworldmasculina": "2026-11-13T18:23:45.204242-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
@@ -17769,11 +17758,11 @@
  "ig_dm_links": {
   "18113272949143552": "Oi! Aqui é o Papa 😎💎\n\nOs 5 melhores tênis de corrida até R$ 500:\n\n1. Tênis Casual Eros 2 Confortável Unissex - Olympikus — R$ 169,90\nhttps://s.shopee.com.br/1gK0ttEnZk\n\n2. Tênis de Caminhada Casual Index 4 Unissex Confortável - Olym — R$ 157,41\nhttps://s.shopee.com.br/30pOUL9is8\n\n3. Tênis Mizuno CSD Sport — R$ 269,90\nhttps://www.amazon.com.br/dp/B0GV1MKHDB?tag=papagarimpou-20\n\n4. Tênis de Caminhada Unissex Confortável Proof 3 - Olympikus — R$ 162,82\nhttps://s.shopee.com.br/1qdR6CEAEn\n\n5. Tênis de Caminhada Casual Unissex Confortável Beats - Olympi — R$ 199,90\nhttps://s.shopee.com.br/3g5Ah9OC6m\n\nPreço pode mudar a qualquer momento. Publi · link de afiliado"
  },
- "story_link_dia": "2026-11-12",
+ "story_link_dia": "2026-11-13",
  "pede_semana": "2026-46",
  "ultimo_garimpo": "2026-11-13T13:21:21-03:00",
  "vigia_aviso_post": "2026-11-09T18:27:03.734589-03:00",
- "vigia_aviso_garimpo": "2026-11-13T12:07:08.483294-03:00",
+ "vigia_aviso_garimpo": "2026-11-13T17:41:10.272375-03:00",
  "resumo_enviado": "2026-11-12",
  "token_conferido": "2026-11-13",
  "meta_token": {
@@ -17806,14 +17795,14 @@
   "2026-11-10 noite marcas",
   "2026-11-12 noite marcas"
  ],
- "reserva_meio": "2026-11-13T17:25:02.372158-03:00",
+ "reserva_meio": "2026-11-13T18:23:19.775158-03:00",
  "reserva_cheia": {
   "achadinhos": "2026-11-13T12:28:08.378483-03:00",
-  "tech": "2026-11-12T17:56:29.409807-03:00",
+  "tech": "2026-11-13T18:07:34.116827-03:00",
   "marcas": "2026-11-12T17:56:29.409807-03:00"
  },
  "top10_dia": "2026-11-07",
- "manuais_lidos": "2026-11-13T17:32:24.407121-03:00",
+ "manuais_lidos": "2026-11-13T18:16:30.130439-03:00",
  "reserva_resultado": {
   "2026-11-07": {
    "achadinhos": {
@@ -17984,7 +17973,7 @@
    "hora": "2026-11-11T20:32:35.453128-03:00"
   }
  },
- "ig_respondido_em": "2026-11-13T17:39:51.074250-03:00",
+ "ig_respondido_em": "2026-11-13T18:23:19.775158-03:00",
  "dm_auto": {
   "2026-11-08": {
    "com_palavra": 0,
@@ -18284,7 +18273,7 @@
    "feed": 2
   },
   "2026-11-13": {
-   "story": 13,
+   "story": 14,
    "feed": 1
   }
  },

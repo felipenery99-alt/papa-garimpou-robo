@@ -30,6 +30,30 @@
      "canal": "tech"
     }
    ]
+  },
+  {
+   "tipo": "a_ou_b",
+   "hora": "18:07",
+   "produtos": [
+    {
+     "nome": "Kit 10 Pares Meias Lupo Originais Cano Médio Alto Algodão Masculina Feminina Meia Atoalhada Grossas",
+     "preco_antigo": 151.55,
+     "preco": 96.99,
+     "desconto": 36,
+     "link": "https://s.shopee.com.br/7KyTnwrcW3",
+     "loja": "Osure",
+     "canal": "marcas"
+    },
+    {
+     "nome": "Kit De 3 Pares Meias Lupo Kids Infantil Cano Curto Algodão Tamanho 24 ao 35",
+     "preco_antigo": 49.16,
+     "preco": 29.99,
+     "desconto": 39,
+     "link": "https://s.shopee.com.br/906hn0lH8D",
+     "loja": "Deccó",
+     "canal": "marcas"
+    }
+   ]
   }
  ]
 }
