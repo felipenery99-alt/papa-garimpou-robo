@@ -1330,7 +1330,13 @@
   "2026-11-14 tech 16:39 amz-B0FTZY2PCV",
   "2026-11-14 achadinhos 16:47 amz-B0CBSZ41J4",
   "2026-11-14 marcas 16:53 amz-B0H7F46NCW",
-  "2026-11-14 tech 17:00 amz-B0FB8SXVSM"
+  "2026-11-14 tech 17:00 amz-B0FB8SXVSM",
+  "2026-11-14 achadinhos 17:07 amz-B0DY364D4K",
+  "2026-11-14 marcas 17:13 amz-B07V33SY4G",
+  "2026-11-14 tech 17:20 amz-B0H2JSCX82",
+  "2026-11-14 achadinhos 17:27 amz-B094XFQDSH",
+  "2026-11-14 marcas 17:34 amz-B084PV94XY",
+  "2026-11-14 tech 17:41 amz-B08ZRC6LP4"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -2606,7 +2612,13 @@
   "amz-B0FTZY2PCV": "2026-11-14T16:39:16.390721-03:00",
   "amz-B0CBSZ41J4": "2026-11-14T16:47:12.407204-03:00",
   "amz-B0H7F46NCW": "2026-11-14T16:53:38.476846-03:00",
-  "amz-B0FB8SXVSM": "2026-11-14T17:00:48.762259-03:00"
+  "amz-B0FB8SXVSM": "2026-11-14T17:00:48.762259-03:00",
+  "amz-B0DY364D4K": "2026-11-14T17:07:05.400065-03:00",
+  "amz-B07V33SY4G": "2026-11-14T17:13:24.048417-03:00",
+  "amz-B0H2JSCX82": "2026-11-14T17:20:43.100589-03:00",
+  "amz-B094XFQDSH": "2026-11-14T17:27:04.992150-03:00",
+  "amz-B084PV94XY": "2026-11-14T17:34:17.706469-03:00",
+  "amz-B08ZRC6LP4": "2026-11-14T17:41:54.093329-03:00"
  },
  "ofertas_dia": [
   {
@@ -17302,6 +17314,112 @@
    "preco_em": "2026-11-14T15:18:03-03:00",
    "entrou": "2026-11-14T15:23:26.395849-03:00",
    "dia": "2026-11-14"
+  },
+  {
+   "id": "amz-B0DY364D4K",
+   "canal": "achadinhos",
+   "nome": "Fritadeira Airfryer Philips Walita",
+   "preco_antigo": 899.9,
+   "preco": 586.52,
+   "desconto": 35,
+   "link": "https://www.amazon.com.br/dp/B0DY364D4K?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51k3MRCfDgL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-15T22:00:00-03:00",
+   "coletado_em": "2026-11-14T15:18:03-03:00",
+   "preco_em": "2026-11-14T15:18:03-03:00",
+   "entrou": "2026-11-14T15:23:26.395849-03:00",
+   "dia": "2026-11-14"
+  },
+  {
+   "id": "amz-B07V33SY4G",
+   "canal": "marcas",
+   "nome": "Camiseta Slim Hering Masculina Básica",
+   "preco_antigo": 59.99,
+   "preco": 33.24,
+   "desconto": 45,
+   "link": "https://www.amazon.com.br/dp/B07V33SY4G?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51yoNNF05cL._AC_SL1000_.jpg",
+   "loja": "Vendido pela Netshoes · entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-15T22:00:00-03:00",
+   "coletado_em": "2026-11-14T15:18:03-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "gancho": "HERING BÁSICA A PREÇO DE CAMISETA DE FEIRA",
+   "preco_em": "2026-11-14T15:18:03-03:00",
+   "entrou": "2026-11-14T15:23:26.395849-03:00",
+   "dia": "2026-11-14"
+  },
+  {
+   "id": "amz-B0H2JSCX82",
+   "canal": "tech",
+   "nome": "Headset Gamer Havit Fuxi",
+   "preco_antigo": 321.3,
+   "preco": 169.36,
+   "desconto": 47,
+   "link": "https://www.amazon.com.br/dp/B0H2JSCX82?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/715a8-USwnL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-15T22:00:00-03:00",
+   "coletado_em": "2026-11-14T15:18:03-03:00",
+   "preco_em": "2026-11-14T15:18:03-03:00",
+   "entrou": "2026-11-14T15:23:26.395849-03:00",
+   "dia": "2026-11-14"
+  },
+  {
+   "id": "amz-B094XFQDSH",
+   "canal": "achadinhos",
+   "nome": "Aspirador de Pó Vertical Electrolux",
+   "preco_antigo": 269.9,
+   "preco": 144.0,
+   "desconto": 47,
+   "link": "https://www.amazon.com.br/dp/B094XFQDSH?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/31uJcgzyEzL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-15T22:00:00-03:00",
+   "coletado_em": "2026-11-14T15:18:03-03:00",
+   "gancho": "ELECTROLUX QUASE PELA METADE",
+   "preco_em": "2026-11-14T15:18:03-03:00",
+   "entrou": "2026-11-14T15:23:26.395849-03:00",
+   "dia": "2026-11-14"
+  },
+  {
+   "id": "amz-B084PV94XY",
+   "canal": "marcas",
+   "nome": "Camisa Polo Hering Piquet com Bordado Masculina",
+   "preco_antigo": 99.99,
+   "preco": 61.74,
+   "desconto": 38,
+   "link": "https://www.amazon.com.br/dp/B084PV94XY?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51K5MTjrW7L._AC_SL1000_.jpg",
+   "loja": "Vendido pela Netshoes · entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-15T22:00:00-03:00",
+   "coletado_em": "2026-11-14T15:18:03-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "preco_em": "2026-11-14T15:18:03-03:00",
+   "entrou": "2026-11-14T15:23:26.395849-03:00",
+   "dia": "2026-11-14"
+  },
+  {
+   "id": "amz-B08ZRC6LP4",
+   "canal": "tech",
+   "nome": "Teclado sem Fio Logitech ERGO K860",
+   "preco_antigo": 754.0,
+   "preco": 529.9,
+   "desconto": 30,
+   "link": "https://www.amazon.com.br/dp/B08ZRC6LP4?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/719L-+P9vPL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-15T22:00:00-03:00",
+   "coletado_em": "2026-11-14T15:18:03-03:00",
+   "preco_em": "2026-11-14T15:18:03-03:00",
+   "entrou": "2026-11-14T15:23:26.395849-03:00",
+   "dia": "2026-11-14"
   }
  ],
  "ig_feitos": [
@@ -17419,7 +17537,8 @@
   "2026-11-14 14:08 story_oferta",
   "2026-11-14 15:00 adivinha",
   "2026-11-14 16:05 adivinha_resposta",
-  "2026-11-14 16:44 story_oferta"
+  "2026-11-14 16:44 story_oferta",
+  "story especial pede-pro-papa 2026-11-14"
  ],
  "ig_ofertas_usadas": [
   "amz-B0FPG9431G",
@@ -17697,39 +17816,6 @@
  "ultimo_pilar": "mito",
  "fila": [
   {
-   "id": "amz-B0DY364D4K",
-   "canal": "achadinhos",
-   "nome": "Fritadeira Airfryer Philips Walita",
-   "preco_antigo": 899.9,
-   "preco": 586.52,
-   "desconto": 35,
-   "link": "https://www.amazon.com.br/dp/B0DY364D4K?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51k3MRCfDgL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-15T22:00:00-03:00",
-   "coletado_em": "2026-11-14T15:18:03-03:00",
-   "preco_em": "2026-11-14T15:18:03-03:00",
-   "entrou": "2026-11-14T15:23:26.395849-03:00"
-  },
-  {
-   "id": "amz-B094XFQDSH",
-   "canal": "achadinhos",
-   "nome": "Aspirador de Pó Vertical Electrolux",
-   "preco_antigo": 269.9,
-   "preco": 144.0,
-   "desconto": 47,
-   "link": "https://www.amazon.com.br/dp/B094XFQDSH?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/31uJcgzyEzL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-15T22:00:00-03:00",
-   "coletado_em": "2026-11-14T15:18:03-03:00",
-   "gancho": "ELECTROLUX QUASE PELA METADE",
-   "preco_em": "2026-11-14T15:18:03-03:00",
-   "entrou": "2026-11-14T15:23:26.395849-03:00"
-  },
-  {
    "id": "amz-B08JZC8ZXW",
    "canal": "achadinhos",
    "nome": "Liquidificador Philco PLQ1350 Turbo",
@@ -17878,41 +17964,6 @@
    "entrou": "2026-11-14T15:23:26.395849-03:00"
   },
   {
-   "id": "amz-B07V33SY4G",
-   "canal": "marcas",
-   "nome": "Camiseta Slim Hering Masculina Básica",
-   "preco_antigo": 59.99,
-   "preco": 33.24,
-   "desconto": 45,
-   "link": "https://www.amazon.com.br/dp/B07V33SY4G?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51yoNNF05cL._AC_SL1000_.jpg",
-   "loja": "Vendido pela Netshoes · entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-15T22:00:00-03:00",
-   "coletado_em": "2026-11-14T15:18:03-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "gancho": "HERING BÁSICA A PREÇO DE CAMISETA DE FEIRA",
-   "preco_em": "2026-11-14T15:18:03-03:00",
-   "entrou": "2026-11-14T15:23:26.395849-03:00"
-  },
-  {
-   "id": "amz-B084PV94XY",
-   "canal": "marcas",
-   "nome": "Camisa Polo Hering Piquet com Bordado Masculina",
-   "preco_antigo": 99.99,
-   "preco": 61.74,
-   "desconto": 38,
-   "link": "https://www.amazon.com.br/dp/B084PV94XY?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51K5MTjrW7L._AC_SL1000_.jpg",
-   "loja": "Vendido pela Netshoes · entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-15T22:00:00-03:00",
-   "coletado_em": "2026-11-14T15:18:03-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "preco_em": "2026-11-14T15:18:03-03:00",
-   "entrou": "2026-11-14T15:23:26.395849-03:00"
-  },
-  {
    "id": "amz-B0CTB835GH",
    "canal": "marcas",
    "nome": "Perfume Lancôme La Vie Est Belle Rose Eau de Parfum",
@@ -17926,38 +17977,6 @@
    "valida_ate": "2026-11-15T22:00:00-03:00",
    "coletado_em": "2026-11-14T15:18:03-03:00",
    "gancho": "LA VIE EST BELLE COM 44% OFF",
-   "preco_em": "2026-11-14T15:18:03-03:00",
-   "entrou": "2026-11-14T15:23:26.395849-03:00"
-  },
-  {
-   "id": "amz-B0H2JSCX82",
-   "canal": "tech",
-   "nome": "Headset Gamer Havit Fuxi",
-   "preco_antigo": 321.3,
-   "preco": 169.36,
-   "desconto": 47,
-   "link": "https://www.amazon.com.br/dp/B0H2JSCX82?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/715a8-USwnL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-15T22:00:00-03:00",
-   "coletado_em": "2026-11-14T15:18:03-03:00",
-   "preco_em": "2026-11-14T15:18:03-03:00",
-   "entrou": "2026-11-14T15:23:26.395849-03:00"
-  },
-  {
-   "id": "amz-B08ZRC6LP4",
-   "canal": "tech",
-   "nome": "Teclado sem Fio Logitech ERGO K860",
-   "preco_antigo": 754.0,
-   "preco": 529.9,
-   "desconto": 30,
-   "link": "https://www.amazon.com.br/dp/B08ZRC6LP4?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/719L-+P9vPL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-15T22:00:00-03:00",
-   "coletado_em": "2026-11-14T15:18:03-03:00",
    "preco_em": "2026-11-14T15:18:03-03:00",
    "entrou": "2026-11-14T15:23:26.395849-03:00"
   },
@@ -19281,7 +19300,13 @@
   "headsetsemfioxboxoficialseriesxsoneepc": "2026-11-14T16:39:16.390721-03:00",
   "aspiradordepobritania": "2026-11-14T16:47:12.407204-03:00",
   "camisetaregularheringtexturizadamasculina": "2026-11-14T16:53:38.476846-03:00",
-  "controlegamesirg7secomfioparaxboxepc": "2026-11-14T17:00:48.762259-03:00"
+  "controlegamesirg7secomfioparaxboxepc": "2026-11-14T17:00:48.762259-03:00",
+  "fritadeiraairfryerphilipswalita": "2026-11-14T17:07:05.400065-03:00",
+  "camisetaslimheringmasculinabasica": "2026-11-14T17:13:24.048417-03:00",
+  "headsetgamerhavitfuxi": "2026-11-14T17:20:43.100589-03:00",
+  "aspiradordepoverticalelectrolux": "2026-11-14T17:27:04.992150-03:00",
+  "camisapoloheringpiquetcombordadomasculina": "2026-11-14T17:34:17.706469-03:00",
+  "tecladosemfiologitechergok860": "2026-11-14T17:41:54.093329-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
@@ -19621,7 +19646,7 @@
  "ig_dm_links": {
   "18113272949143552": "Oi! Aqui é o Papa 😎💎\n\nOs 5 melhores tênis de corrida até R$ 500:\n\n1. Tênis Casual Eros 2 Confortável Unissex - Olympikus — R$ 169,90\nhttps://s.shopee.com.br/1gK0ttEnZk\n\n2. Tênis de Caminhada Casual Index 4 Unissex Confortável - Olym — R$ 157,41\nhttps://s.shopee.com.br/30pOUL9is8\n\n3. Tênis Mizuno CSD Sport — R$ 269,90\nhttps://www.amazon.com.br/dp/B0GV1MKHDB?tag=papagarimpou-20\n\n4. Tênis de Caminhada Unissex Confortável Proof 3 - Olympikus — R$ 162,82\nhttps://s.shopee.com.br/1qdR6CEAEn\n\n5. Tênis de Caminhada Casual Unissex Confortável Beats - Olympi — R$ 199,90\nhttps://s.shopee.com.br/3g5Ah9OC6m\n\nPreço pode mudar a qualquer momento. Publi · link de afiliado"
  },
- "story_link_dia": "2026-11-13",
+ "story_link_dia": "2026-11-14",
  "pede_semana": "2026-46",
  "ultimo_garimpo": "2026-11-14T15:18:14-03:00",
  "vigia_aviso_post": "2026-11-09T18:27:03.734589-03:00",
@@ -19667,7 +19692,7 @@
   "marcas": "2026-11-12T17:56:29.409807-03:00"
  },
  "top10_dia": "2026-11-07",
- "manuais_lidos": "2026-11-14T17:00:44.391738-03:00",
+ "manuais_lidos": "2026-11-14T17:41:48.837422-03:00",
  "reserva_resultado": {
   "2026-11-07": {
    "achadinhos": {
@@ -19855,7 +19880,7 @@
    "hora": "2026-11-11T20:32:35.453128-03:00"
   }
  },
- "ig_respondido_em": "2026-11-14T17:00:44.391738-03:00",
+ "ig_respondido_em": "2026-11-14T17:41:48.837422-03:00",
  "dm_auto": {
   "2026-11-08": {
    "com_palavra": 0,
@@ -20075,7 +20100,7 @@
    "feed": 2
   },
   "2026-11-14": {
-   "story": 13,
+   "story": 14,
    "feed": 1
   }
  },
