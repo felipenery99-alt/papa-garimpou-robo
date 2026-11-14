@@ -1305,7 +1305,14 @@
   "2026-11-14 tech 13:51 amz-B0FQHRNRYQ",
   "2026-11-14 achadinhos 13:59 amz-B0DY2FTYX3",
   "2026-11-14 marcas 14:06 amz-B07XYGSRQB",
-  "2026-11-14 tech 14:13 amz-B0FJMHMCBZ"
+  "2026-11-14 tech 14:13 amz-B0FJMHMCBZ",
+  "2026-11-14 achadinhos 14:19 amz-B07SSMCZ7Z",
+  "2026-11-14 achadinhos 14:21 amz-B0C4RV19RH",
+  "2026-11-14 marcas 14:27 amz-B0FLQS3RDG",
+  "2026-11-14 tech 14:34 amz-B0FV11G92G",
+  "2026-11-14 achadinhos 14:41 amz-B01F2LB4NS",
+  "2026-11-14 marcas 14:48 amz-B0DBMLN386",
+  "2026-11-14 tech 14:54 amz-B0G1TQ6587"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -2556,7 +2563,14 @@
   "amz-B0FQHRNRYQ": "2026-11-14T13:51:38.188834-03:00",
   "amz-B0DY2FTYX3": "2026-11-14T13:59:42.398254-03:00",
   "amz-B07XYGSRQB": "2026-11-14T14:06:43.273856-03:00",
-  "amz-B0FJMHMCBZ": "2026-11-14T14:13:48.068760-03:00"
+  "amz-B0FJMHMCBZ": "2026-11-14T14:13:48.068760-03:00",
+  "amz-B07SSMCZ7Z": "2026-11-14T14:19:08.618504-03:00",
+  "amz-B0C4RV19RH": "2026-11-14T14:21:03.047232-03:00",
+  "amz-B0FLQS3RDG": "2026-11-14T14:27:46.551265-03:00",
+  "amz-B0FV11G92G": "2026-11-14T14:34:05.411100-03:00",
+  "amz-B01F2LB4NS": "2026-11-14T14:41:59.518426-03:00",
+  "amz-B0DBMLN386": "2026-11-14T14:48:50.473534-03:00",
+  "amz-B0G1TQ6587": "2026-11-14T14:54:59.120357-03:00"
  },
  "ofertas_dia": [
   {
@@ -16822,6 +16836,125 @@
    "preco_em": "2026-11-14T12:20:00-03:00",
    "entrou": "2026-11-14T12:38:47.781530-03:00",
    "dia": "2026-11-14"
+  },
+  {
+   "id": "amz-B07SSMCZ7Z",
+   "canal": "achadinhos",
+   "nome": "Colônia Granado Terrapeutics Cardamomo e Gengibre 230ml",
+   "preco_antigo": 106.0,
+   "preco": 74.0,
+   "desconto": 30,
+   "link": "https://www.amazon.com.br/dp/B07SSMCZ7Z?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51vDem8tXLL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-15T22:00:00-03:00",
+   "coletado_em": "2026-11-14T12:20:00-03:00",
+   "preco_em": "2026-11-14T12:20:00-03:00",
+   "entrou": "2026-11-14T12:38:47.781530-03:00",
+   "dia": "2026-11-14"
+  },
+  {
+   "id": "amz-B0C4RV19RH",
+   "canal": "achadinhos",
+   "nome": "Protetor Solar Sallve Toque Seco FPS 50 40g",
+   "preco_antigo": 64.9,
+   "preco": 41.38,
+   "desconto": 36,
+   "link": "https://www.amazon.com.br/dp/B0C4RV19RH?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/41LBgrPdJTL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-15T22:00:00-03:00",
+   "coletado_em": "2026-11-14T12:20:00-03:00",
+   "preco_em": "2026-11-14T12:20:00-03:00",
+   "entrou": "2026-11-14T12:38:47.781530-03:00",
+   "dia": "2026-11-14"
+  },
+  {
+   "id": "amz-B0FLQS3RDG",
+   "canal": "marcas",
+   "nome": "Creatina Integralmédica Hardcore 100% pura 350g",
+   "preco_antigo": 44.63,
+   "preco": 32.83,
+   "desconto": 26,
+   "link": "https://www.amazon.com.br/dp/B0FLQS3RDG?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61nvV65QaqL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-15T22:00:00-03:00",
+   "coletado_em": "2026-11-14T12:20:00-03:00",
+   "preco_em": "2026-11-14T12:20:00-03:00",
+   "entrou": "2026-11-14T12:38:47.781530-03:00",
+   "dia": "2026-11-14"
+  },
+  {
+   "id": "amz-B0FV11G92G",
+   "canal": "tech",
+   "nome": "Tablet Samsung Galaxy Tab A11 64GB 4GB RAM tela 8,7\"",
+   "preco_antigo": 1399.0,
+   "preco": 980.1,
+   "desconto": 30,
+   "link": "https://www.amazon.com.br/dp/B0FV11G92G?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/5151q3WfOvL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-15T22:00:00-03:00",
+   "coletado_em": "2026-11-14T12:20:00-03:00",
+   "preco_em": "2026-11-14T12:20:00-03:00",
+   "entrou": "2026-11-14T12:38:47.781530-03:00",
+   "dia": "2026-11-14"
+  },
+  {
+   "id": "amz-B01F2LB4NS",
+   "canal": "achadinhos",
+   "nome": "Perfume Cacharel Anaïs Anaïs L'Original Eau de Toilette",
+   "preco_antigo": 249.0,
+   "preco": 158.99,
+   "desconto": 36,
+   "link": "https://www.amazon.com.br/dp/B01F2LB4NS?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51c6f5thd0L._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-15T22:00:00-03:00",
+   "coletado_em": "2026-11-14T12:20:00-03:00",
+   "preco_em": "2026-11-14T12:20:00-03:00",
+   "entrou": "2026-11-14T12:38:47.781530-03:00",
+   "dia": "2026-11-14"
+  },
+  {
+   "id": "amz-B0DBMLN386",
+   "canal": "marcas",
+   "nome": "Perfume Armani Acqua di Gioia Intense Eau de Parfum",
+   "preco_antigo": 1099.0,
+   "preco": 592.79,
+   "desconto": 46,
+   "link": "https://www.amazon.com.br/dp/B0DBMLN386?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61kpou5f5ZL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-15T22:00:00-03:00",
+   "coletado_em": "2026-11-14T12:20:00-03:00",
+   "preco_em": "2026-11-14T12:20:00-03:00",
+   "entrou": "2026-11-14T12:38:47.781530-03:00",
+   "dia": "2026-11-14"
+  },
+  {
+   "id": "amz-B0G1TQ6587",
+   "canal": "tech",
+   "nome": "Samsung Galaxy Tab S10 Lite 128GB tela 10,9\" Wi-Fi",
+   "preco_antigo": 3548.0,
+   "preco": 2349.51,
+   "desconto": 34,
+   "link": "https://www.amazon.com.br/dp/B0G1TQ6587?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51dYOEfu13L._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-15T22:00:00-03:00",
+   "coletado_em": "2026-11-14T12:20:00-03:00",
+   "preco_em": "2026-11-14T12:20:00-03:00",
+   "entrou": "2026-11-14T12:38:47.781530-03:00",
+   "dia": "2026-11-14"
   }
  ],
  "ig_feitos": [
@@ -16935,10 +17068,10 @@
   "2026-11-14 12:00 reels",
   "2026-11-14 12:15 story_top4",
   "2026-11-14 12:47 story_oferta",
-  "2026-11-14 13:20 story_convite"
+  "2026-11-14 13:20 story_convite",
+  "2026-11-14 14:08 story_oferta"
  ],
  "ig_ofertas_usadas": [
-  "amz-B0BYWL962Q",
   "amz-B0G87ZRVV1",
   "amz-B08R9341ZB",
   "amz-B0FPG9431G",
@@ -17137,7 +17270,8 @@
   "shopee-20298661104",
   "shopee-58211443678",
   "shopee-50559775356",
-  "shopee-40084160591"
+  "shopee-40084160591",
+  "shopee-20397809626"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
@@ -17212,54 +17346,6 @@
  },
  "ultimo_pilar": "mito",
  "fila": [
-  {
-   "id": "amz-B07SSMCZ7Z",
-   "canal": "achadinhos",
-   "nome": "Colônia Granado Terrapeutics Cardamomo e Gengibre 230ml",
-   "preco_antigo": 106.0,
-   "preco": 74.0,
-   "desconto": 30,
-   "link": "https://www.amazon.com.br/dp/B07SSMCZ7Z?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51vDem8tXLL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-15T22:00:00-03:00",
-   "coletado_em": "2026-11-14T12:20:00-03:00",
-   "preco_em": "2026-11-14T12:20:00-03:00",
-   "entrou": "2026-11-14T12:38:47.781530-03:00"
-  },
-  {
-   "id": "amz-B0C4RV19RH",
-   "canal": "achadinhos",
-   "nome": "Protetor Solar Sallve Toque Seco FPS 50 40g",
-   "preco_antigo": 64.9,
-   "preco": 41.38,
-   "desconto": 36,
-   "link": "https://www.amazon.com.br/dp/B0C4RV19RH?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/41LBgrPdJTL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-15T22:00:00-03:00",
-   "coletado_em": "2026-11-14T12:20:00-03:00",
-   "preco_em": "2026-11-14T12:20:00-03:00",
-   "entrou": "2026-11-14T12:38:47.781530-03:00"
-  },
-  {
-   "id": "amz-B01F2LB4NS",
-   "canal": "achadinhos",
-   "nome": "Perfume Cacharel Anaïs Anaïs L'Original Eau de Toilette",
-   "preco_antigo": 249.0,
-   "preco": 158.99,
-   "desconto": 36,
-   "link": "https://www.amazon.com.br/dp/B01F2LB4NS?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51c6f5thd0L._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-15T22:00:00-03:00",
-   "coletado_em": "2026-11-14T12:20:00-03:00",
-   "preco_em": "2026-11-14T12:20:00-03:00",
-   "entrou": "2026-11-14T12:38:47.781530-03:00"
-  },
   {
    "id": "amz-B0DHSW82HD",
    "canal": "achadinhos",
@@ -17406,38 +17492,6 @@
    "entrou": "2026-11-14T12:38:47.781530-03:00"
   },
   {
-   "id": "amz-B0FLQS3RDG",
-   "canal": "marcas",
-   "nome": "Creatina Integralmédica Hardcore 100% pura 350g",
-   "preco_antigo": 44.63,
-   "preco": 32.83,
-   "desconto": 26,
-   "link": "https://www.amazon.com.br/dp/B0FLQS3RDG?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61nvV65QaqL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-15T22:00:00-03:00",
-   "coletado_em": "2026-11-14T12:20:00-03:00",
-   "preco_em": "2026-11-14T12:20:00-03:00",
-   "entrou": "2026-11-14T12:38:47.781530-03:00"
-  },
-  {
-   "id": "amz-B0DBMLN386",
-   "canal": "marcas",
-   "nome": "Perfume Armani Acqua di Gioia Intense Eau de Parfum",
-   "preco_antigo": 1099.0,
-   "preco": 592.79,
-   "desconto": 46,
-   "link": "https://www.amazon.com.br/dp/B0DBMLN386?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61kpou5f5ZL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-15T22:00:00-03:00",
-   "coletado_em": "2026-11-14T12:20:00-03:00",
-   "preco_em": "2026-11-14T12:20:00-03:00",
-   "entrou": "2026-11-14T12:38:47.781530-03:00"
-  },
-  {
    "id": "amz-B0BXH21DB1",
    "canal": "marcas",
    "nome": "Perfume Montblanc Signature Absolue Feminino EDP",
@@ -17501,38 +17555,6 @@
    "coletado_em": "2026-11-14T12:15:00-03:00",
    "extra": "Preço a partir de: varia por tamanho e cor",
    "preco_em": "2026-11-14T12:15:00-03:00",
-   "entrou": "2026-11-14T12:38:47.781530-03:00"
-  },
-  {
-   "id": "amz-B0FV11G92G",
-   "canal": "tech",
-   "nome": "Tablet Samsung Galaxy Tab A11 64GB 4GB RAM tela 8,7\"",
-   "preco_antigo": 1399.0,
-   "preco": 980.1,
-   "desconto": 30,
-   "link": "https://www.amazon.com.br/dp/B0FV11G92G?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/5151q3WfOvL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-15T22:00:00-03:00",
-   "coletado_em": "2026-11-14T12:20:00-03:00",
-   "preco_em": "2026-11-14T12:20:00-03:00",
-   "entrou": "2026-11-14T12:38:47.781530-03:00"
-  },
-  {
-   "id": "amz-B0G1TQ6587",
-   "canal": "tech",
-   "nome": "Samsung Galaxy Tab S10 Lite 128GB tela 10,9\" Wi-Fi",
-   "preco_antigo": 3548.0,
-   "preco": 2349.51,
-   "desconto": 34,
-   "link": "https://www.amazon.com.br/dp/B0G1TQ6587?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51dYOEfu13L._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-15T22:00:00-03:00",
-   "coletado_em": "2026-11-14T12:20:00-03:00",
-   "preco_em": "2026-11-14T12:20:00-03:00",
    "entrou": "2026-11-14T12:38:47.781530-03:00"
   },
   {
@@ -18764,7 +18786,14 @@
   "appleiphoneair512gbazulceu": "2026-11-14T13:51:38.188834-03:00",
   "parafusadeiraechavedeimpactoboschgdx18v285": "2026-11-14T13:59:42.398254-03:00",
   "camisetabasicaheringcomfortsupercotton": "2026-11-14T14:06:43.273856-03:00",
-  "headphonebluetoothphilipstah2300commicrofoneate55h": "2026-11-14T14:13:48.068760-03:00"
+  "headphonebluetoothphilipstah2300commicrofoneate55h": "2026-11-14T14:13:48.068760-03:00",
+  "coloniagranadoterrapeuticscardamomoegengibre230ml": "2026-11-14T14:19:08.618504-03:00",
+  "protetorsolarsallvetoquesecofps5040g": "2026-11-14T14:21:03.047232-03:00",
+  "creatinaintegralmedicahardcore100pura350g": "2026-11-14T14:27:46.551265-03:00",
+  "tabletsamsunggalaxytaba1164gb4gbramtela87": "2026-11-14T14:34:05.411100-03:00",
+  "perfumecacharelanaisanaisloriginaleaudetoilette": "2026-11-14T14:41:59.518426-03:00",
+  "perfumearmaniacquadigioiaintenseeaudeparfum": "2026-11-14T14:48:50.473534-03:00",
+  "samsunggalaxytabs10lite128gbtela109wifi": "2026-11-14T14:54:59.120357-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
@@ -19150,7 +19179,7 @@
   "marcas": "2026-11-12T17:56:29.409807-03:00"
  },
  "top10_dia": "2026-11-07",
- "manuais_lidos": "2026-11-14T14:13:32.023351-03:00",
+ "manuais_lidos": "2026-11-14T14:54:54.856975-03:00",
  "reserva_resultado": {
   "2026-11-07": {
    "achadinhos": {
@@ -19338,7 +19367,7 @@
    "hora": "2026-11-11T20:32:35.453128-03:00"
   }
  },
- "ig_respondido_em": "2026-11-14T14:13:32.023351-03:00",
+ "ig_respondido_em": "2026-11-14T14:54:54.856975-03:00",
  "dm_auto": {
   "2026-11-08": {
    "com_palavra": 0,
@@ -19558,7 +19587,7 @@
    "feed": 2
   },
   "2026-11-14": {
-   "story": 9,
+   "story": 10,
    "feed": 1
   }
  },
