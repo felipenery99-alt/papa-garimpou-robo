@@ -1348,7 +1348,13 @@
   "2026-11-14 tech 18:46 amz-B0GR7FC9FF",
   "2026-11-14 achadinhos 18:53 amz-B09N5G6DGX",
   "2026-11-14 marcas 19:00 amz-B0041QLC9C",
-  "2026-11-14 tech 19:06 amz-B0CY5PBPJD"
+  "2026-11-14 tech 19:06 amz-B0CY5PBPJD",
+  "2026-11-14 achadinhos 19:16 amz-B0CWLN6BQF",
+  "2026-11-14 marcas 19:24 amz-B0F5ZGCDYH",
+  "2026-11-14 tech 19:31 amz-B0GLS8QF4B",
+  "2026-11-14 achadinhos 19:38 amz-B0FY6RV5FM",
+  "2026-11-14 marcas 19:45 amz-B0CGR37DNX",
+  "2026-11-14 tech 19:52 amz-B0BCR4P3HH"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -2642,7 +2648,13 @@
   "amz-B0GR7FC9FF": "2026-11-14T18:46:56.646067-03:00",
   "amz-B09N5G6DGX": "2026-11-14T18:53:19.970956-03:00",
   "amz-B0041QLC9C": "2026-11-14T19:00:07.851660-03:00",
-  "amz-B0CY5PBPJD": "2026-11-14T19:06:29.903795-03:00"
+  "amz-B0CY5PBPJD": "2026-11-14T19:06:29.903795-03:00",
+  "amz-B0CWLN6BQF": "2026-11-14T19:16:43.861622-03:00",
+  "amz-B0F5ZGCDYH": "2026-11-14T19:24:05.272033-03:00",
+  "amz-B0GLS8QF4B": "2026-11-14T19:31:40.526479-03:00",
+  "amz-B0FY6RV5FM": "2026-11-14T19:38:18.552634-03:00",
+  "amz-B0CGR37DNX": "2026-11-14T19:45:31.211440-03:00",
+  "amz-B0BCR4P3HH": "2026-11-14T19:52:10.401440-03:00"
  },
  "ofertas_dia": [
   {
@@ -17655,6 +17667,110 @@
    "preco_em": "2026-11-14T15:18:03-03:00",
    "entrou": "2026-11-14T15:23:26.395849-03:00",
    "dia": "2026-11-14"
+  },
+  {
+   "id": "amz-B0CWLN6BQF",
+   "canal": "achadinhos",
+   "nome": "Cafeteira Britânia BCF19 Inox 18 Cafezinhos",
+   "preco_antigo": 152.0,
+   "preco": 89.0,
+   "desconto": 41,
+   "link": "https://www.amazon.com.br/dp/B0CWLN6BQF?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/515I8adwatL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-15T22:00:00-03:00",
+   "coletado_em": "2026-11-14T15:18:03-03:00",
+   "preco_em": "2026-11-14T15:18:03-03:00",
+   "entrou": "2026-11-14T15:23:26.395849-03:00",
+   "dia": "2026-11-14"
+  },
+  {
+   "id": "amz-B0F5ZGCDYH",
+   "canal": "marcas",
+   "nome": "Copo Térmico Stanley Slim 3 em 1 com tampa e canudo 296ml",
+   "preco_antigo": 219.0,
+   "preco": 98.55,
+   "desconto": 55,
+   "link": "https://www.amazon.com.br/dp/B0F5ZGCDYH?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/410JBwR57TL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-15T22:00:00-03:00",
+   "coletado_em": "2026-11-14T18:18:48-03:00",
+   "gancho": "STANLEY POR MENOS DE 100 REAIS",
+   "preco_em": "2026-11-14T18:18:48-03:00",
+   "entrou": "2026-11-14T18:26:46.931671-03:00",
+   "dia": "2026-11-14"
+  },
+  {
+   "id": "amz-B0GLS8QF4B",
+   "canal": "tech",
+   "nome": "Smartphone Motorola Moto G77 5G 256GB 8GB RAM",
+   "preco_antigo": 2999.0,
+   "preco": 1577.0,
+   "desconto": 47,
+   "link": "https://www.amazon.com.br/dp/B0GLS8QF4B?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61VvteJGEVL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-15T22:00:00-03:00",
+   "coletado_em": "2026-11-14T12:20:00-03:00",
+   "preco_em": "2026-11-14T12:20:00-03:00",
+   "entrou": "2026-11-14T16:46:46.756008-03:00",
+   "dia": "2026-11-14"
+  },
+  {
+   "id": "amz-B0FY6RV5FM",
+   "canal": "achadinhos",
+   "nome": "Liquidificador Portátil WAP Blender Go 300W com 2 copos",
+   "preco_antigo": 259.9,
+   "preco": 147.63,
+   "desconto": 43,
+   "link": "https://www.amazon.com.br/dp/B0FY6RV5FM?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51y8e0Fl8DL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-15T22:00:00-03:00",
+   "coletado_em": "2026-11-14T12:20:00-03:00",
+   "preco_em": "2026-11-14T12:20:00-03:00",
+   "entrou": "2026-11-14T16:46:46.756008-03:00",
+   "dia": "2026-11-14"
+  },
+  {
+   "id": "amz-B0CGR37DNX",
+   "canal": "marcas",
+   "nome": "Copo Térmico Stanley Pilsner 444ml",
+   "preco_antigo": 189.0,
+   "preco": 99.92,
+   "desconto": 47,
+   "link": "https://www.amazon.com.br/dp/B0CGR37DNX?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/41BNPGsoZvL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-15T22:00:00-03:00",
+   "coletado_em": "2026-11-14T18:18:48-03:00",
+   "gancho": "PILSNER DA STANLEY COM 47% OFF",
+   "preco_em": "2026-11-14T18:18:48-03:00",
+   "entrou": "2026-11-14T18:26:46.931671-03:00",
+   "dia": "2026-11-14"
+  },
+  {
+   "id": "amz-B0BCR4P3HH",
+   "canal": "tech",
+   "nome": "Impressora Multifuncional HP Smart Tank 724 tanque de tinta",
+   "preco_antigo": 1899.0,
+   "preco": 1099.0,
+   "desconto": 42,
+   "link": "https://www.amazon.com.br/dp/B0BCR4P3HH?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51erROH-+NL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-15T22:00:00-03:00",
+   "coletado_em": "2026-11-14T12:20:00-03:00",
+   "preco_em": "2026-11-14T12:20:00-03:00",
+   "entrou": "2026-11-14T16:46:46.756008-03:00",
+   "dia": "2026-11-14"
   }
  ],
  "ig_feitos": [
@@ -17776,7 +17892,10 @@
   "story especial pede-pro-papa 2026-11-14",
   "2026-11-14 18:05 a_ou_b",
   "2026-11-14 18:09 story_oferta",
-  "2026-11-14 18:30 reels"
+  "2026-11-14 18:30 reels",
+  "2026-11-14 feed",
+  "2026-11-14 19:15 post_achado",
+  "2026-11-14 19:17 story_oferta"
  ],
  "ig_ofertas_usadas": [
   "amz-B0FPG9431G",
@@ -18048,111 +18167,14 @@
   "hu-mae": "2026-11-14",
   "mv-preco-cai-bf": "2026-11-14",
   "hu-black-fraude": "2026-11-14",
-  "mv-importado": "2026-11-14"
+  "mv-importado": "2026-11-14",
+  "hu-amigo-replica": "2026-11-14"
  },
  "pecas_dia": {
-  "2026-11-14": 5
+  "2026-11-14": 6
  },
- "ultimo_pilar": "mito",
+ "ultimo_pilar": "humor",
  "fila": [
-  {
-   "id": "amz-B0CWLN6BQF",
-   "canal": "achadinhos",
-   "nome": "Cafeteira Britânia BCF19 Inox 18 Cafezinhos",
-   "preco_antigo": 152.0,
-   "preco": 89.0,
-   "desconto": 41,
-   "link": "https://www.amazon.com.br/dp/B0CWLN6BQF?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/515I8adwatL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-15T22:00:00-03:00",
-   "coletado_em": "2026-11-14T15:18:03-03:00",
-   "preco_em": "2026-11-14T15:18:03-03:00",
-   "entrou": "2026-11-14T15:23:26.395849-03:00"
-  },
-  {
-   "id": "amz-B0C2J8DQC1",
-   "canal": "achadinhos",
-   "nome": "Barbeador Philips OneBlade",
-   "preco_antigo": 244.74,
-   "preco": 134.0,
-   "desconto": 45,
-   "link": "https://www.amazon.com.br/dp/B0C2J8DQC1?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/71QS7WTTChL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-15T22:00:00-03:00",
-   "coletado_em": "2026-11-14T15:18:03-03:00",
-   "gancho": "ONEBLADE DA PHILIPS COM 45% OFF",
-   "preco_em": "2026-11-14T15:18:03-03:00",
-   "entrou": "2026-11-14T15:23:26.395849-03:00"
-  },
-  {
-   "id": "amz-B0G1ZM8PQ7",
-   "canal": "achadinhos",
-   "nome": "Parafusadeira e Furadeira BLACK+DECKER",
-   "preco_antigo": 299.0,
-   "preco": 197.13,
-   "desconto": 34,
-   "link": "https://www.amazon.com.br/dp/B0G1ZM8PQ7?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/81lU2uA8DRL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-15T22:00:00-03:00",
-   "coletado_em": "2026-11-14T15:18:03-03:00",
-   "preco_em": "2026-11-14T15:18:03-03:00",
-   "entrou": "2026-11-14T15:23:26.395849-03:00"
-  },
-  {
-   "id": "amz-B09W48TKX2",
-   "canal": "achadinhos",
-   "nome": "Jogo de Frigideiras Tramontina Caribe 3 Peças",
-   "preco_antigo": 136.53,
-   "preco": 73.99,
-   "desconto": 46,
-   "link": "https://www.amazon.com.br/dp/B09W48TKX2?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51-jW6qP7YL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-15T22:00:00-03:00",
-   "coletado_em": "2026-11-14T15:18:03-03:00",
-   "gancho": "TRAMONTINA QUASE PELA METADE",
-   "preco_em": "2026-11-14T15:18:03-03:00",
-   "entrou": "2026-11-14T15:23:26.395849-03:00"
-  },
-  {
-   "id": "amz-B07Y2G7VX5",
-   "canal": "tech",
-   "nome": "Headset Gamer Havit com Microfone",
-   "preco_antigo": 219.0,
-   "preco": 139.99,
-   "desconto": 36,
-   "link": "https://www.amazon.com.br/dp/B07Y2G7VX5?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/71yVhRlcJdL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-15T22:00:00-03:00",
-   "coletado_em": "2026-11-14T15:18:03-03:00",
-   "preco_em": "2026-11-14T15:18:03-03:00",
-   "entrou": "2026-11-14T15:23:26.395849-03:00"
-  },
-  {
-   "id": "amz-B0FY6RV5FM",
-   "canal": "achadinhos",
-   "nome": "Liquidificador Portátil WAP Blender Go 300W com 2 copos",
-   "preco_antigo": 259.9,
-   "preco": 147.63,
-   "desconto": 43,
-   "link": "https://www.amazon.com.br/dp/B0FY6RV5FM?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51y8e0Fl8DL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-15T22:00:00-03:00",
-   "coletado_em": "2026-11-14T12:20:00-03:00",
-   "preco_em": "2026-11-14T12:20:00-03:00",
-   "entrou": "2026-11-14T16:46:46.756008-03:00"
-  },
   {
    "id": "amz-B084GXZ2V2",
    "canal": "achadinhos",
@@ -18195,38 +18217,6 @@
    "desconto": 42,
    "link": "https://www.amazon.com.br/dp/B08F9ZQ52X?tag=papagarimpou-20",
    "imagem": "https://m.media-amazon.com/images/I/51MEDcXC5hL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-15T22:00:00-03:00",
-   "coletado_em": "2026-11-14T12:20:00-03:00",
-   "preco_em": "2026-11-14T12:20:00-03:00",
-   "entrou": "2026-11-14T16:46:46.756008-03:00"
-  },
-  {
-   "id": "amz-B0GLS8QF4B",
-   "canal": "tech",
-   "nome": "Smartphone Motorola Moto G77 5G 256GB 8GB RAM",
-   "preco_antigo": 2999.0,
-   "preco": 1577.0,
-   "desconto": 47,
-   "link": "https://www.amazon.com.br/dp/B0GLS8QF4B?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61VvteJGEVL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-15T22:00:00-03:00",
-   "coletado_em": "2026-11-14T12:20:00-03:00",
-   "preco_em": "2026-11-14T12:20:00-03:00",
-   "entrou": "2026-11-14T16:46:46.756008-03:00"
-  },
-  {
-   "id": "amz-B0BCR4P3HH",
-   "canal": "tech",
-   "nome": "Impressora Multifuncional HP Smart Tank 724 tanque de tinta",
-   "preco_antigo": 1899.0,
-   "preco": 1099.0,
-   "desconto": 42,
-   "link": "https://www.amazon.com.br/dp/B0BCR4P3HH?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51erROH-+NL._AC_SL1500_.jpg",
    "loja": "Vendido e entregue pela Amazon",
    "plataforma": "Amazon",
    "valida_ate": "2026-11-15T22:00:00-03:00",
@@ -18384,40 +18374,6 @@
    "coletado_em": "2026-11-14T18:16:48-03:00",
    "gancho": "WAP QUASE PELA METADE",
    "preco_em": "2026-11-14T18:16:48-03:00",
-   "entrou": "2026-11-14T18:26:46.931671-03:00"
-  },
-  {
-   "id": "amz-B0F5ZGCDYH",
-   "canal": "marcas",
-   "nome": "Copo Térmico Stanley Slim 3 em 1 com tampa e canudo 296ml",
-   "preco_antigo": 219.0,
-   "preco": 98.55,
-   "desconto": 55,
-   "link": "https://www.amazon.com.br/dp/B0F5ZGCDYH?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/410JBwR57TL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-15T22:00:00-03:00",
-   "coletado_em": "2026-11-14T18:18:48-03:00",
-   "gancho": "STANLEY POR MENOS DE 100 REAIS",
-   "preco_em": "2026-11-14T18:18:48-03:00",
-   "entrou": "2026-11-14T18:26:46.931671-03:00"
-  },
-  {
-   "id": "amz-B0CGR37DNX",
-   "canal": "marcas",
-   "nome": "Copo Térmico Stanley Pilsner 444ml",
-   "preco_antigo": 189.0,
-   "preco": 99.92,
-   "desconto": 47,
-   "link": "https://www.amazon.com.br/dp/B0CGR37DNX?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/41BNPGsoZvL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-15T22:00:00-03:00",
-   "coletado_em": "2026-11-14T18:18:48-03:00",
-   "gancho": "PILSNER DA STANLEY COM 47% OFF",
-   "preco_em": "2026-11-14T18:18:48-03:00",
    "entrou": "2026-11-14T18:26:46.931671-03:00"
   },
   {
@@ -18591,6 +18547,72 @@
    "gancho": "FINAL FANTASY NO PS5 COM 30% OFF",
    "preco_em": "2026-11-14T18:16:48-03:00",
    "entrou": "2026-11-14T18:26:46.931671-03:00"
+  },
+  {
+   "id": "amz-B0C2J8DQC1",
+   "canal": "achadinhos",
+   "nome": "Barbeador Philips OneBlade",
+   "preco_antigo": 244.74,
+   "preco": 134.0,
+   "desconto": 45,
+   "link": "https://www.amazon.com.br/dp/B0C2J8DQC1?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71QS7WTTChL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-15T22:00:00-03:00",
+   "coletado_em": "2026-11-14T15:18:03-03:00",
+   "gancho": "ONEBLADE DA PHILIPS COM 45% OFF",
+   "preco_em": "2026-11-14T15:18:03-03:00",
+   "entrou": "2026-11-14T19:23:44.168916-03:00"
+  },
+  {
+   "id": "amz-B0G1ZM8PQ7",
+   "canal": "achadinhos",
+   "nome": "Parafusadeira e Furadeira BLACK+DECKER",
+   "preco_antigo": 299.0,
+   "preco": 197.13,
+   "desconto": 34,
+   "link": "https://www.amazon.com.br/dp/B0G1ZM8PQ7?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/81lU2uA8DRL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-15T22:00:00-03:00",
+   "coletado_em": "2026-11-14T15:18:03-03:00",
+   "preco_em": "2026-11-14T15:18:03-03:00",
+   "entrou": "2026-11-14T19:23:44.168916-03:00"
+  },
+  {
+   "id": "amz-B09W48TKX2",
+   "canal": "achadinhos",
+   "nome": "Jogo de Frigideiras Tramontina Caribe 3 Peças",
+   "preco_antigo": 136.53,
+   "preco": 73.99,
+   "desconto": 46,
+   "link": "https://www.amazon.com.br/dp/B09W48TKX2?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51-jW6qP7YL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-15T22:00:00-03:00",
+   "coletado_em": "2026-11-14T15:18:03-03:00",
+   "gancho": "TRAMONTINA QUASE PELA METADE",
+   "preco_em": "2026-11-14T15:18:03-03:00",
+   "entrou": "2026-11-14T19:23:44.168916-03:00"
+  },
+  {
+   "id": "amz-B07Y2G7VX5",
+   "canal": "tech",
+   "nome": "Headset Gamer Havit com Microfone",
+   "preco_antigo": 219.0,
+   "preco": 139.99,
+   "desconto": 36,
+   "link": "https://www.amazon.com.br/dp/B07Y2G7VX5?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71yVhRlcJdL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-15T22:00:00-03:00",
+   "coletado_em": "2026-11-14T15:18:03-03:00",
+   "preco_em": "2026-11-14T15:18:03-03:00",
+   "entrou": "2026-11-14T19:23:44.168916-03:00"
   }
  ],
  "menus_fixados": [
@@ -19736,7 +19758,13 @@
   "monsterhunterstories3twistedreflectionps5": "2026-11-14T18:46:56.646067-03:00",
   "cafeteiraeletricamondialdolcearome220v": "2026-11-14T18:53:19.970956-03:00",
   "perfumegiorgioarmaniacquadigioiaedp100ml": "2026-11-14T19:00:07.851660-03:00",
-  "microfonesemfiojblpartyboxwirelessmic": "2026-11-14T19:06:29.903795-03:00"
+  "microfonesemfiojblpartyboxwirelessmic": "2026-11-14T19:06:29.903795-03:00",
+  "cafeteirabritaniabcf19inox18cafezinhos": "2026-11-14T19:16:43.861622-03:00",
+  "copotermicostanleyslim3em1comtampaecanudo296ml": "2026-11-14T19:24:05.272033-03:00",
+  "smartphonemotorolamotog775g256gb8gbram": "2026-11-14T19:31:40.526479-03:00",
+  "liquidificadorportatilwapblendergo300wcom2copos": "2026-11-14T19:38:18.552634-03:00",
+  "copotermicostanleypilsner444ml": "2026-11-14T19:45:31.211440-03:00",
+  "impressoramultifuncionalhpsmarttank724tanquedetinta": "2026-11-14T19:52:10.401440-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
@@ -20123,7 +20151,7 @@
   "marcas": "2026-11-12T17:56:29.409807-03:00"
  },
  "top10_dia": "2026-11-07",
- "manuais_lidos": "2026-11-14T19:06:29.552252-03:00",
+ "manuais_lidos": "2026-11-14T19:52:06.074853-03:00",
  "reserva_resultado": {
   "2026-11-07": {
    "achadinhos": {
@@ -20311,7 +20339,7 @@
    "hora": "2026-11-11T20:32:35.453128-03:00"
   }
  },
- "ig_respondido_em": "2026-11-14T19:00:03.893493-03:00",
+ "ig_respondido_em": "2026-11-14T19:52:06.074853-03:00",
  "dm_auto": {
   "2026-11-08": {
    "com_palavra": 0,
@@ -20513,8 +20541,8 @@
    "feed": 2
   },
   "2026-11-14": {
-   "story": 16,
-   "feed": 1
+   "story": 17,
+   "feed": 2
   }
  },
  "ig_conta_ok": "2026-11-14",
