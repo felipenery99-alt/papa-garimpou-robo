@@ -1318,7 +1318,13 @@
   "2026-11-14 tech 15:16 amz-B0CZ7CDRSV",
   "2026-11-14 achadinhos 15:23 amz-B0C6FTC1Q8",
   "2026-11-14 marcas 15:30 amz-B0H34VRPF3",
-  "2026-11-14 tech 15:36 amz-B0CK2DP7FX"
+  "2026-11-14 tech 15:36 amz-B0CK2DP7FX",
+  "2026-11-14 achadinhos 15:41 amz-B08M2PP78L",
+  "2026-11-14 marcas 15:49 amz-B0BFT83VQQ",
+  "2026-11-14 tech 15:56 amz-B0H1F1VKJT",
+  "2026-11-14 achadinhos 16:03 amz-B07TJ9CVXC",
+  "2026-11-14 marcas 16:11 amz-B0H9BSRGHJ",
+  "2026-11-14 tech 16:17 amz-B0DZXW5XJ3"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -2582,7 +2588,13 @@
   "amz-B0CZ7CDRSV": "2026-11-14T15:16:33.439946-03:00",
   "amz-B0C6FTC1Q8": "2026-11-14T15:23:26.892920-03:00",
   "amz-B0H34VRPF3": "2026-11-14T15:30:32.092533-03:00",
-  "amz-B0CK2DP7FX": "2026-11-14T15:36:52.188558-03:00"
+  "amz-B0CK2DP7FX": "2026-11-14T15:36:52.188558-03:00",
+  "amz-B08M2PP78L": "2026-11-14T15:41:59.200628-03:00",
+  "amz-B0BFT83VQQ": "2026-11-14T15:49:24.832528-03:00",
+  "amz-B0H1F1VKJT": "2026-11-14T15:56:43.777946-03:00",
+  "amz-B07TJ9CVXC": "2026-11-14T16:03:20.534619-03:00",
+  "amz-B0H9BSRGHJ": "2026-11-14T16:11:03.187859-03:00",
+  "amz-B0DZXW5XJ3": "2026-11-14T16:17:49.244952-03:00"
  },
  "ofertas_dia": [
   {
@@ -17069,6 +17081,110 @@
    "preco_em": "2026-11-14T12:20:00-03:00",
    "entrou": "2026-11-14T12:38:47.781530-03:00",
    "dia": "2026-11-14"
+  },
+  {
+   "id": "amz-B08M2PP78L",
+   "canal": "achadinhos",
+   "nome": "Perfume I Want Choo Jimmy Choo Feminino EDP",
+   "preco_antigo": 549.0,
+   "preco": 297.0,
+   "desconto": 46,
+   "link": "https://www.amazon.com.br/dp/B08M2PP78L?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61eWOIxKvML._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-15T22:00:00-03:00",
+   "coletado_em": "2026-11-14T12:20:00-03:00",
+   "preco_em": "2026-11-14T12:20:00-03:00",
+   "entrou": "2026-11-14T12:38:47.781530-03:00",
+   "dia": "2026-11-14"
+  },
+  {
+   "id": "amz-B0BFT83VQQ",
+   "canal": "marcas",
+   "nome": "Tech T-shirt Insider Gola U Masculina",
+   "preco_antigo": 159.0,
+   "preco": 103.07,
+   "desconto": 35,
+   "link": "https://www.amazon.com.br/dp/B0BFT83VQQ?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61BpzartPUL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-15T22:00:00-03:00",
+   "coletado_em": "2026-11-14T12:15:00-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "preco_em": "2026-11-14T12:15:00-03:00",
+   "entrou": "2026-11-14T12:38:47.781530-03:00",
+   "dia": "2026-11-14"
+  },
+  {
+   "id": "amz-B0H1F1VKJT",
+   "canal": "tech",
+   "nome": "Caixa de Som Bluetooth JBL Go 5 à prova d'água",
+   "preco_antigo": 359.0,
+   "preco": 252.7,
+   "desconto": 30,
+   "link": "https://www.amazon.com.br/dp/B0H1F1VKJT?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71iEBIqbzkL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-15T22:00:00-03:00",
+   "coletado_em": "2026-11-14T12:20:00-03:00",
+   "preco_em": "2026-11-14T12:20:00-03:00",
+   "entrou": "2026-11-14T12:38:47.781530-03:00",
+   "dia": "2026-11-14"
+  },
+  {
+   "id": "amz-B07TJ9CVXC",
+   "canal": "achadinhos",
+   "nome": "Protetor Solar Corporal NeoStrata Antioxidante FPS 99 200ml",
+   "preco_antigo": 207.99,
+   "preco": 92.99,
+   "desconto": 55,
+   "link": "https://www.amazon.com.br/dp/B07TJ9CVXC?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/41q3VIdWQNL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-15T22:00:00-03:00",
+   "coletado_em": "2026-11-14T12:20:00-03:00",
+   "preco_em": "2026-11-14T12:20:00-03:00",
+   "entrou": "2026-11-14T12:38:47.781530-03:00",
+   "dia": "2026-11-14"
+  },
+  {
+   "id": "amz-B0H9BSRGHJ",
+   "canal": "marcas",
+   "nome": "Tênis ASICS Gel-Pulse 17 SE Feminino",
+   "preco_antigo": 599.99,
+   "preco": 329.9,
+   "desconto": 45,
+   "link": "https://www.amazon.com.br/dp/B0H9BSRGHJ?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51f+IFIdcCL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-15T22:00:00-03:00",
+   "coletado_em": "2026-11-14T12:15:00-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "preco_em": "2026-11-14T12:15:00-03:00",
+   "entrou": "2026-11-14T12:38:47.781530-03:00",
+   "dia": "2026-11-14"
+  },
+  {
+   "id": "amz-B0DZXW5XJ3",
+   "canal": "tech",
+   "nome": "Webcam Full HD Intelbras WCI1080P 60 FPS",
+   "preco_antigo": 339.0,
+   "preco": 208.1,
+   "desconto": 39,
+   "link": "https://www.amazon.com.br/dp/B0DZXW5XJ3?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61F+GF0eAVL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-15T22:00:00-03:00",
+   "coletado_em": "2026-11-14T12:20:00-03:00",
+   "preco_em": "2026-11-14T12:20:00-03:00",
+   "entrou": "2026-11-14T12:38:47.781530-03:00",
+   "dia": "2026-11-14"
   }
  ],
  "ig_feitos": [
@@ -17184,10 +17300,10 @@
   "2026-11-14 12:47 story_oferta",
   "2026-11-14 13:20 story_convite",
   "2026-11-14 14:08 story_oferta",
-  "2026-11-14 15:00 adivinha"
+  "2026-11-14 15:00 adivinha",
+  "2026-11-14 16:05 adivinha_resposta"
  ],
  "ig_ofertas_usadas": [
-  "amz-B0G87ZRVV1",
   "amz-B08R9341ZB",
   "amz-B0FPG9431G",
   "amz-B0GHZ4VBHD",
@@ -17463,38 +17579,6 @@
  "ultimo_pilar": "mito",
  "fila": [
   {
-   "id": "amz-B08M2PP78L",
-   "canal": "achadinhos",
-   "nome": "Perfume I Want Choo Jimmy Choo Feminino EDP",
-   "preco_antigo": 549.0,
-   "preco": 297.0,
-   "desconto": 46,
-   "link": "https://www.amazon.com.br/dp/B08M2PP78L?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61eWOIxKvML._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-15T22:00:00-03:00",
-   "coletado_em": "2026-11-14T12:20:00-03:00",
-   "preco_em": "2026-11-14T12:20:00-03:00",
-   "entrou": "2026-11-14T12:38:47.781530-03:00"
-  },
-  {
-   "id": "amz-B07TJ9CVXC",
-   "canal": "achadinhos",
-   "nome": "Protetor Solar Corporal NeoStrata Antioxidante FPS 99 200ml",
-   "preco_antigo": 207.99,
-   "preco": 92.99,
-   "desconto": 55,
-   "link": "https://www.amazon.com.br/dp/B07TJ9CVXC?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/41q3VIdWQNL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-15T22:00:00-03:00",
-   "coletado_em": "2026-11-14T12:20:00-03:00",
-   "preco_em": "2026-11-14T12:20:00-03:00",
-   "entrou": "2026-11-14T12:38:47.781530-03:00"
-  },
-  {
    "id": "amz-B077NM5T81",
    "canal": "achadinhos",
    "nome": "Personal Blender Mondial DG-01 220V",
@@ -17568,72 +17652,6 @@
    "desconto": 42,
    "link": "https://www.amazon.com.br/dp/B08F9ZQ52X?tag=papagarimpou-20",
    "imagem": "https://m.media-amazon.com/images/I/51MEDcXC5hL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-15T22:00:00-03:00",
-   "coletado_em": "2026-11-14T12:20:00-03:00",
-   "preco_em": "2026-11-14T12:20:00-03:00",
-   "entrou": "2026-11-14T12:38:47.781530-03:00"
-  },
-  {
-   "id": "amz-B0BFT83VQQ",
-   "canal": "marcas",
-   "nome": "Tech T-shirt Insider Gola U Masculina",
-   "preco_antigo": 159.0,
-   "preco": 103.07,
-   "desconto": 35,
-   "link": "https://www.amazon.com.br/dp/B0BFT83VQQ?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61BpzartPUL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-15T22:00:00-03:00",
-   "coletado_em": "2026-11-14T12:15:00-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "preco_em": "2026-11-14T12:15:00-03:00",
-   "entrou": "2026-11-14T12:38:47.781530-03:00"
-  },
-  {
-   "id": "amz-B0H9BSRGHJ",
-   "canal": "marcas",
-   "nome": "Tênis ASICS Gel-Pulse 17 SE Feminino",
-   "preco_antigo": 599.99,
-   "preco": 329.9,
-   "desconto": 45,
-   "link": "https://www.amazon.com.br/dp/B0H9BSRGHJ?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51f+IFIdcCL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-15T22:00:00-03:00",
-   "coletado_em": "2026-11-14T12:15:00-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "preco_em": "2026-11-14T12:15:00-03:00",
-   "entrou": "2026-11-14T12:38:47.781530-03:00"
-  },
-  {
-   "id": "amz-B0H1F1VKJT",
-   "canal": "tech",
-   "nome": "Caixa de Som Bluetooth JBL Go 5 à prova d'água",
-   "preco_antigo": 359.0,
-   "preco": 252.7,
-   "desconto": 30,
-   "link": "https://www.amazon.com.br/dp/B0H1F1VKJT?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/71iEBIqbzkL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-15T22:00:00-03:00",
-   "coletado_em": "2026-11-14T12:20:00-03:00",
-   "preco_em": "2026-11-14T12:20:00-03:00",
-   "entrou": "2026-11-14T12:38:47.781530-03:00"
-  },
-  {
-   "id": "amz-B0DZXW5XJ3",
-   "canal": "tech",
-   "nome": "Webcam Full HD Intelbras WCI1080P 60 FPS",
-   "preco_antigo": 339.0,
-   "preco": 208.1,
-   "desconto": 39,
-   "link": "https://www.amazon.com.br/dp/B0DZXW5XJ3?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61F+GF0eAVL._AC_SL1500_.jpg",
    "loja": "Vendido e entregue pela Amazon",
    "plataforma": "Amazon",
    "valida_ate": "2026-11-15T22:00:00-03:00",
@@ -19232,7 +19250,13 @@
   "jogostellarbladeps5": "2026-11-14T15:16:33.439946-03:00",
   "liquidificadormondialturboglassjarradevidro": "2026-11-14T15:23:26.892920-03:00",
   "garrafatermicastanleyadventuretogo201lash": "2026-11-14T15:30:32.092533-03:00",
-  "headsetgamerhavitfuxih3semfio": "2026-11-14T15:36:52.188558-03:00"
+  "headsetgamerhavitfuxih3semfio": "2026-11-14T15:36:52.188558-03:00",
+  "perfumeiwantchoojimmychoofemininoedp": "2026-11-14T15:41:59.200628-03:00",
+  "techtshirtinsidergolaumasculina": "2026-11-14T15:49:24.832528-03:00",
+  "caixadesombluetoothjblgo5aprovadagua": "2026-11-14T15:56:43.777946-03:00",
+  "protetorsolarcorporalneostrataantioxidantefps99200ml": "2026-11-14T16:03:20.534619-03:00",
+  "tenisasicsgelpulse17sefeminino": "2026-11-14T16:11:03.187859-03:00",
+  "webcamfullhdintelbraswci1080p60fps": "2026-11-14T16:17:49.244952-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
@@ -19574,7 +19598,7 @@
  },
  "story_link_dia": "2026-11-13",
  "pede_semana": "2026-46",
- "ultimo_garimpo": "2026-11-14T12:23:12-03:00",
+ "ultimo_garimpo": "2026-11-14T15:18:14-03:00",
  "vigia_aviso_post": "2026-11-09T18:27:03.734589-03:00",
  "vigia_aviso_garimpo": "2026-11-14T11:21:45.539968-03:00",
  "resumo_enviado": "2026-11-13",
@@ -19618,7 +19642,7 @@
   "marcas": "2026-11-12T17:56:29.409807-03:00"
  },
  "top10_dia": "2026-11-07",
- "manuais_lidos": "2026-11-14T15:36:51.795624-03:00",
+ "manuais_lidos": "2026-11-14T16:17:48.828862-03:00",
  "reserva_resultado": {
   "2026-11-07": {
    "achadinhos": {
@@ -19806,7 +19830,7 @@
    "hora": "2026-11-11T20:32:35.453128-03:00"
   }
  },
- "ig_respondido_em": "2026-11-14T15:30:25.119475-03:00",
+ "ig_respondido_em": "2026-11-14T16:10:45.408163-03:00",
  "dm_auto": {
   "2026-11-08": {
    "com_palavra": 0,
@@ -20026,7 +20050,7 @@
    "feed": 2
   },
   "2026-11-14": {
-   "story": 11,
+   "story": 12,
    "feed": 1
   }
  },
