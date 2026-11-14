@@ -1249,7 +1249,11 @@
   "2026-11-13 marcas 20:53 amz-B0H4W6R27Z",
   "2026-11-13 tech 21:01 amz-B0DK3TBCRD",
   "2026-11-13 marcas 21:08 amz-B0F6312WT5",
-  "2026-11-13 tech 21:16 amz-B0BRSSGBCN"
+  "2026-11-13 tech 21:16 amz-B0BRSSGBCN",
+  "2026-11-13 tech 21:25 amz-B0D7QTMLYM",
+  "2026-11-13 tech 21:32 amz-B0CJ9NXG41",
+  "2026-11-13 tech 21:41 amz-B09J1SYX5B",
+  "2026-11-13 tech 21:48 amz-B0D4NSS9XV"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -2450,7 +2454,11 @@
   "amz-B0H4W6R27Z": "2026-11-13T20:53:24.079025-03:00",
   "amz-B0DK3TBCRD": "2026-11-13T21:01:12.662775-03:00",
   "amz-B0F6312WT5": "2026-11-13T21:08:12.663413-03:00",
-  "amz-B0BRSSGBCN": "2026-11-13T21:16:03.421893-03:00"
+  "amz-B0BRSSGBCN": "2026-11-13T21:16:03.421893-03:00",
+  "amz-B0D7QTMLYM": "2026-11-13T21:25:41.321918-03:00",
+  "amz-B0CJ9NXG41": "2026-11-13T21:32:52.902952-03:00",
+  "amz-B09J1SYX5B": "2026-11-13T21:41:17.943768-03:00",
+  "amz-B0D4NSS9XV": "2026-11-13T21:48:27.503953-03:00"
  },
  "ofertas_dia": [
   {
@@ -16367,6 +16375,74 @@
    "preco_em": "2026-11-13T18:17:11-03:00",
    "entrou": "2026-11-13T18:24:16.101370-03:00",
    "dia": "2026-11-13"
+  },
+  {
+   "id": "amz-B0D7QTMLYM",
+   "canal": "tech",
+   "nome": "Apple EarPods com conector Lightning",
+   "preco_antigo": 219.0,
+   "preco": 143.1,
+   "desconto": 35,
+   "link": "https://www.amazon.com.br/dp/B0D7QTMLYM?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/317eB4+yU6L.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-14T22:00:00-03:00",
+   "coletado_em": "2026-11-13T18:17:11-03:00",
+   "preco_em": "2026-11-13T18:17:11-03:00",
+   "entrou": "2026-11-13T18:24:16.101370-03:00",
+   "dia": "2026-11-13"
+  },
+  {
+   "id": "amz-B0CJ9NXG41",
+   "canal": "tech",
+   "nome": "Mouse Gamer Logitech G PRO X Superlight 2",
+   "preco_antigo": 999.9,
+   "preco": 699.99,
+   "desconto": 30,
+   "link": "https://www.amazon.com.br/dp/B0CJ9NXG41?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51xcS2jnaKL.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-14T22:00:00-03:00",
+   "coletado_em": "2026-11-13T18:17:11-03:00",
+   "preco_em": "2026-11-13T18:17:11-03:00",
+   "entrou": "2026-11-13T18:24:16.101370-03:00",
+   "dia": "2026-11-13"
+  },
+  {
+   "id": "amz-B09J1SYX5B",
+   "canal": "tech",
+   "nome": "Mouse Vertical sem fio Logitech Lift Left (canhoto)",
+   "preco_antigo": 379.9,
+   "preco": 267.69,
+   "desconto": 30,
+   "link": "https://www.amazon.com.br/dp/B09J1SYX5B?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61EWLRLgYQL.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-14T22:00:00-03:00",
+   "coletado_em": "2026-11-13T18:17:11-03:00",
+   "preco_em": "2026-11-13T18:17:11-03:00",
+   "entrou": "2026-11-13T18:24:16.101370-03:00",
+   "dia": "2026-11-13"
+  },
+  {
+   "id": "amz-B0D4NSS9XV",
+   "canal": "tech",
+   "nome": "Notebook Samsung Galaxy Book4 Core i3",
+   "preco_antigo": 4699.0,
+   "preco": 2999.0,
+   "desconto": 36,
+   "link": "https://www.amazon.com.br/dp/B0D4NSS9XV?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71qOQOgOZUL.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-14T22:00:00-03:00",
+   "coletado_em": "2026-11-13T18:17:11-03:00",
+   "preco_em": "2026-11-13T18:17:11-03:00",
+   "entrou": "2026-11-13T18:24:16.101370-03:00",
+   "dia": "2026-11-13"
   }
  ],
  "ig_feitos": [
@@ -16501,7 +16577,9 @@
   "2026-11-13 19:15 post_achado",
   "2026-11-13 19:17 story_oferta",
   "2026-11-13 20:30 reels",
-  "2026-11-13 20:35 story_top4"
+  "2026-11-13 20:35 story_top4",
+  "2026-11-13 21:20 story_convite",
+  "2026-11-13 21:24 story_oferta"
  ],
  "ig_ofertas_usadas": [
   "amz-B0B1LJFBPY",
@@ -16767,78 +16845,14 @@
   "dc-lista-desejo": "2026-11-13",
   "bf-2026-11-13": "2026-11-13",
   "dc-troca": "2026-11-13",
-  "hu-sabado": "2026-11-13"
+  "hu-sabado": "2026-11-13",
+  "dc-frete-gratis": "2026-11-13"
  },
  "pecas_dia": {
-  "2026-11-13": 4
+  "2026-11-13": 5
  },
- "ultimo_pilar": "humor",
- "fila": [
-  {
-   "id": "amz-B0D7QTMLYM",
-   "canal": "tech",
-   "nome": "Apple EarPods com conector Lightning",
-   "preco_antigo": 219.0,
-   "preco": 143.1,
-   "desconto": 35,
-   "link": "https://www.amazon.com.br/dp/B0D7QTMLYM?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/317eB4+yU6L.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-14T22:00:00-03:00",
-   "coletado_em": "2026-11-13T18:17:11-03:00",
-   "preco_em": "2026-11-13T18:17:11-03:00",
-   "entrou": "2026-11-13T18:24:16.101370-03:00"
-  },
-  {
-   "id": "amz-B0CJ9NXG41",
-   "canal": "tech",
-   "nome": "Mouse Gamer Logitech G PRO X Superlight 2",
-   "preco_antigo": 999.9,
-   "preco": 699.99,
-   "desconto": 30,
-   "link": "https://www.amazon.com.br/dp/B0CJ9NXG41?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51xcS2jnaKL.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-14T22:00:00-03:00",
-   "coletado_em": "2026-11-13T18:17:11-03:00",
-   "preco_em": "2026-11-13T18:17:11-03:00",
-   "entrou": "2026-11-13T18:24:16.101370-03:00"
-  },
-  {
-   "id": "amz-B09J1SYX5B",
-   "canal": "tech",
-   "nome": "Mouse Vertical sem fio Logitech Lift Left (canhoto)",
-   "preco_antigo": 379.9,
-   "preco": 267.69,
-   "desconto": 30,
-   "link": "https://www.amazon.com.br/dp/B09J1SYX5B?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61EWLRLgYQL.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-14T22:00:00-03:00",
-   "coletado_em": "2026-11-13T18:17:11-03:00",
-   "preco_em": "2026-11-13T18:17:11-03:00",
-   "entrou": "2026-11-13T18:24:16.101370-03:00"
-  },
-  {
-   "id": "amz-B0D4NSS9XV",
-   "canal": "tech",
-   "nome": "Notebook Samsung Galaxy Book4 Core i3",
-   "preco_antigo": 4699.0,
-   "preco": 2999.0,
-   "desconto": 36,
-   "link": "https://www.amazon.com.br/dp/B0D4NSS9XV?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/71qOQOgOZUL.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-14T22:00:00-03:00",
-   "coletado_em": "2026-11-13T18:17:11-03:00",
-   "preco_em": "2026-11-13T18:17:11-03:00",
-   "entrou": "2026-11-13T18:24:16.101370-03:00"
-  }
- ],
+ "ultimo_pilar": "dica",
+ "fila": [],
  "menus_fixados": [
   "v1 @papagarimpou",
   "v1 @papagarimpoumarcas",
@@ -17889,7 +17903,11 @@
   "tenisdecorridaasicsgelventuremasculino": "2026-11-13T20:53:24.079025-03:00",
   "fonebluetoothjbltuneflex2": "2026-11-13T21:01:12.662775-03:00",
   "tenispumar78lightwindunissex": "2026-11-13T21:08:12.663413-03:00",
-  "tecladomecanicogamersemfiologitechgprox60": "2026-11-13T21:16:03.421893-03:00"
+  "tecladomecanicogamersemfiologitechgprox60": "2026-11-13T21:16:03.421893-03:00",
+  "appleearpodscomconectorlightning": "2026-11-13T21:25:41.321918-03:00",
+  "mousegamerlogitechgproxsuperlight2": "2026-11-13T21:32:52.902952-03:00",
+  "mouseverticalsemfiologitechliftleftcanhoto": "2026-11-13T21:41:17.943768-03:00",
+  "notebooksamsunggalaxybook4corei3": "2026-11-13T21:48:27.503953-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
@@ -18261,14 +18279,14 @@
   "2026-11-10 noite marcas",
   "2026-11-12 noite marcas"
  ],
- "reserva_meio": "2026-11-13T21:01:12.634405-03:00",
+ "reserva_meio": "2026-11-13T21:56:08.696718-03:00",
  "reserva_cheia": {
   "achadinhos": "2026-11-13T20:21:49.534614-03:00",
   "tech": "2026-11-13T18:07:34.116827-03:00",
   "marcas": "2026-11-12T17:56:29.409807-03:00"
  },
  "top10_dia": "2026-11-07",
- "manuais_lidos": "2026-11-13T21:08:07.296174-03:00",
+ "manuais_lidos": "2026-11-13T21:56:08.696718-03:00",
  "reserva_resultado": {
   "2026-11-07": {
    "achadinhos": {
@@ -18439,7 +18457,7 @@
    "hora": "2026-11-11T20:32:35.453128-03:00"
   }
  },
- "ig_respondido_em": "2026-11-13T21:08:07.296174-03:00",
+ "ig_respondido_em": "2026-11-13T21:56:08.696718-03:00",
  "dm_auto": {
   "2026-11-08": {
    "com_palavra": 0,
@@ -18727,7 +18745,7 @@
    "feed": 2
   },
   "2026-11-13": {
-   "story": 17,
+   "story": 18,
    "feed": 2
   }
  },
