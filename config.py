@@ -64,6 +64,10 @@ SALVAVEIS = [
     ("tênis de corrida", ("tênis", "tenis"), 500),
 ]
 SALVAVEL_DIA_SEMANA = 3   # quinta
+# 14/11 (CEO): seguidores +11 em 13/11 (meta 780 até 27/11 pede ~23/dia). Post salvável é o formato que gera
+# salvamento/compartilhamento e o QUERO dele leva à DM com convite do Telegram. Até a Black Friday sai também
+# na segunda (outra categoria da quinta). Voltar a só quinta em 28/11.
+SALVAVEL_DIAS = {0, SALVAVEL_DIA_SEMANA}
 
 # ---------------------------------------------------------------------------
 # RITMO

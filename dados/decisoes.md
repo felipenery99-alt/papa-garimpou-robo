@@ -151,3 +151,12 @@
 - Alavanca nova (Telegram atrasado): só havia convite de Telegram nos stories à tarde e à noite. Entra um 3º convite às 09:40 (sai na execução das 10:24) que, até 27/11, é a contagem da Black Friday com "busca @papagarimpouofertas" (mesma chamada direta das legendas desde 12/11). Voltar ao normal em 28/11. Ensaio OK.
 - Próximo: em 14/11 conferir se o story das 10:24 saiu e se membros do Geral sobem; veredito do quadro "SEGUE O PAPA" (seguidores ≥ +12/dia: hoje +36).
 - Pedido ao dono: (1) o garimpo Amazon do PC está trazendo quase só repetidos (208 descartados): variar os termos/lojas da rotina local; (2) PC ligado o dia todo; (3) rodadas de seguir/comentar leves, a conta voltou de suspensão há 2 dias.
+
+## 2026-11-14 (rotina do CEO)
+- Visto (13/11): 26 execuções, 18 stories ativos (piso ok), feed ok (carrossel 11:50, Reels 18:30, post 19:15). Telegram: 37 achadinhos, 40 marcas, 34 tech. Seguidores 478→488 (+10), alcance 3.340, visitas 97, 1 clique na bio. Membros 3+6+6+5 = 20 (parado); convites medidos, `tg-share-*` e DM automática seguem em 0. Convite das 09:40 saiu ok.
+- Erros: **6 ofertas da Amazon perdidas por "Connection reset by peer"** (09:05 a 15:14; a mesma oferta passou 20 min depois); vigia: fila vazia à tarde (garimpo local parado depois das 13:21). 305 itens do garimpo Amazon descartados por repetidos.
+- Correção: o reset vinha ao baixar a foto do CDN da Amazon. A foto agora é baixada com até 3 tentativas e cabeçalho de navegador (`post._baixar_imagem`); baixar foto não posta nada, então não há risco de post duplicado. O envio ao Telegram continua sem nova tentativa.
+- META: Instagram 488 de 780 até 27/11 (**atrasado**: precisa ~23/dia, fez +10). Telegram 20 de 150 até 17/11 (**atrasado**, vai ser perdida).
+- Alavanca nova: o carrossel salvável ("5 melhores X de marca até R$ Y", QUERO → DM com links + convite do Telegram) sai também na **segunda** até a Black Friday, com categoria diferente da quinta (`config.SALVAVEL_DIAS`). Hoje há 6 tênis de corrida para segunda; sem 5 itens, cai no post normal. Voltar a só quinta em 28/11. Ensaio OK.
+- Próximo: em 15/11 conferir se os resets sumiram dos `erros`; domingo: +30 peças no `conteudo.py` e pesquisa de contas grandes.
+- Pedido ao dono: (1) garimpo Amazon do PC traz quase só repetidos (305 descartados): variar termos/lojas; (2) PC ligado à tarde; (3) rodadas de seguir/comentar todo dia (é o que move seguidores).

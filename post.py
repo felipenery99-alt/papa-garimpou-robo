@@ -1,5 +1,6 @@
 """Monta a legenda do post no modelo do Papa e aplica o selo do Papa na foto."""
 import io
+import time
 from pathlib import Path
 
 import requests
@@ -110,15 +111,31 @@ def _garantir_selo() -> None:
     img.resize((400, 400), Image.LANCZOS).save(SELO)
 
 
+def _baixar_imagem(url: str, tentativas: int = 3) -> bytes:
+    """14/11 (CEO): em 13/11 seis ofertas da Amazon caíram com "Connection reset by peer" e não foram postadas
+    (a mesma oferta passou 20 min depois). Baixar a foto não posta nada, então tentar de novo é seguro:
+    até 3 tentativas com espera curta e cabeçalho de navegador (o CDN da Amazon corta pedidos "robô")."""
+    cab = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) "
+                         "Chrome/124.0 Safari/537.36", "Accept": "image/avif,image/webp,image/*,*/*;q=0.8"}
+    for n in range(tentativas):
+        try:
+            r = requests.get(url, timeout=30, headers=cab)
+            r.raise_for_status()
+            return r.content
+        except (requests.ConnectionError, requests.Timeout) as e:
+            if n == tentativas - 1:
+                raise
+            print(f"[foto] falha ao baixar ({e}); tento de novo")
+            time.sleep(3 * (n + 1))
+
+
 def foto_com_selo(url_imagem: str) -> bytes:
     try:
         _garantir_selo()
     except Exception as e:
         print(f"selo indisponível: {e}")
     """Baixa a foto do produto, deixa quadrada (1080) e põe o selo do Papa no canto."""
-    r = requests.get(url_imagem, timeout=30)
-    r.raise_for_status()
-    img = Image.open(io.BytesIO(r.content)).convert("RGB")
+    img = Image.open(io.BytesIO(_baixar_imagem(url_imagem))).convert("RGB")
     img = ImageOps.pad(img, (1080, 1080), color=(255, 255, 255))
     if SELO.exists():
         selo = Image.open(SELO).convert("RGBA")

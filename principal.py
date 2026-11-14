@@ -1183,7 +1183,8 @@ def publicar_salvavel(h: dict, agora: datetime, tag: str) -> bool:
         + [o for o in carregar_manuais(h, agora) if "so_telegram_ate" not in o]
     n = len(config.SALVAVEIS)
     for k in range(n):
-        cat, palavras, teto = config.SALVAVEIS[(agora.isocalendar()[1] + k) % n]
+        # 14/11: segunda e quinta da mesma semana começam por categorias diferentes
+        cat, palavras, teto = config.SALVAVEIS[(2 * agora.isocalendar()[1] + (agora.weekday() >= 3) + k) % n]
         vistos, top = set(), []
         for o in sorted(pool, key=lambda o: o.get("desconto") or 0, reverse=True):
             nome = (o.get("nome") or "").lower()
@@ -1524,7 +1525,7 @@ def rodar_instagram(h: dict, agora: datetime) -> None:
                     feitos += [f"{hoje} feed", chave]
                     print(f"[ig] publicado {chave} (top 5 da semana)")
                     continue
-            if tipo == "post_achado" and hora == "19:15" and agora.weekday() == config.SALVAVEL_DIA_SEMANA \
+            if tipo == "post_achado" and hora == "19:15" and agora.weekday() in config.SALVAVEL_DIAS \
                     and publicar_salvavel(h, agora, tag):
                 feitos += [f"{hoje} feed", chave]
                 print(f"[ig] publicado {chave} (carrossel salvável)")
