@@ -1354,7 +1354,13 @@
   "2026-11-14 tech 19:31 amz-B0GLS8QF4B",
   "2026-11-14 achadinhos 19:38 amz-B0FY6RV5FM",
   "2026-11-14 marcas 19:45 amz-B0CGR37DNX",
-  "2026-11-14 tech 19:52 amz-B0BCR4P3HH"
+  "2026-11-14 tech 19:52 amz-B0BCR4P3HH",
+  "2026-11-14 achadinhos 19:57 amz-B084GXZ2V2",
+  "2026-11-14 marcas 20:06 amz-B0FCG9N7GV",
+  "2026-11-14 tech 20:12 amz-B0DM6G7929",
+  "2026-11-14 achadinhos 20:20 amz-B076X8YRLC",
+  "2026-11-14 marcas 20:28 amz-B083QF4LCF",
+  "2026-11-14 tech 20:35 amz-B0DCLNM6ZY"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -2654,7 +2660,13 @@
   "amz-B0GLS8QF4B": "2026-11-14T19:31:40.526479-03:00",
   "amz-B0FY6RV5FM": "2026-11-14T19:38:18.552634-03:00",
   "amz-B0CGR37DNX": "2026-11-14T19:45:31.211440-03:00",
-  "amz-B0BCR4P3HH": "2026-11-14T19:52:10.401440-03:00"
+  "amz-B0BCR4P3HH": "2026-11-14T19:52:10.401440-03:00",
+  "amz-B084GXZ2V2": "2026-11-14T19:57:57.488770-03:00",
+  "amz-B0FCG9N7GV": "2026-11-14T20:06:02.759441-03:00",
+  "amz-B0DM6G7929": "2026-11-14T20:12:42.750195-03:00",
+  "amz-B076X8YRLC": "2026-11-14T20:20:20.573106-03:00",
+  "amz-B083QF4LCF": "2026-11-14T20:28:02.830777-03:00",
+  "amz-B0DCLNM6ZY": "2026-11-14T20:35:08.554869-03:00"
  },
  "ofertas_dia": [
   {
@@ -17771,6 +17783,113 @@
    "preco_em": "2026-11-14T12:20:00-03:00",
    "entrou": "2026-11-14T16:46:46.756008-03:00",
    "dia": "2026-11-14"
+  },
+  {
+   "id": "amz-B084GXZ2V2",
+   "canal": "achadinhos",
+   "nome": "Protetor Solar Darrow Actine FPS 60 sem cor 40g",
+   "preco_antigo": 69.99,
+   "preco": 38.9,
+   "desconto": 44,
+   "link": "https://www.amazon.com.br/dp/B084GXZ2V2?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/41t0JRbsFhL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-15T22:00:00-03:00",
+   "coletado_em": "2026-11-14T12:20:00-03:00",
+   "preco_em": "2026-11-14T12:20:00-03:00",
+   "entrou": "2026-11-14T16:46:46.756008-03:00",
+   "dia": "2026-11-14"
+  },
+  {
+   "id": "amz-B0FCG9N7GV",
+   "canal": "marcas",
+   "nome": "Camisa Corinthians Listrada Masculina Preta (licenciada)",
+   "preco_antigo": 99.99,
+   "preco": 57.9,
+   "desconto": 42,
+   "link": "https://www.amazon.com.br/dp/B0FCG9N7GV?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/518hKBGDO+L._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-15T22:00:00-03:00",
+   "coletado_em": "2026-11-14T18:18:48-03:00",
+   "gancho": "CAMISA DO TIMÃO POR 57,90",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "preco_em": "2026-11-14T18:18:48-03:00",
+   "entrou": "2026-11-14T18:26:46.931671-03:00",
+   "dia": "2026-11-14"
+  },
+  {
+   "id": "amz-B0DM6G7929",
+   "canal": "tech",
+   "nome": "Impressora Laser Brother HL-L1222 monocromática",
+   "preco_antigo": 1099.0,
+   "preco": 719.1,
+   "desconto": 35,
+   "link": "https://www.amazon.com.br/dp/B0DM6G7929?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51jpgI7fwnL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-15T22:00:00-03:00",
+   "coletado_em": "2026-11-14T12:20:00-03:00",
+   "preco_em": "2026-11-14T12:20:00-03:00",
+   "entrou": "2026-11-14T16:46:46.756008-03:00",
+   "dia": "2026-11-14"
+  },
+  {
+   "id": "amz-B076X8YRLC",
+   "canal": "achadinhos",
+   "nome": "Perfume Cacharel Amor Amor Feminino",
+   "preco_antigo": 229.0,
+   "preco": 116.91,
+   "desconto": 49,
+   "link": "https://www.amazon.com.br/dp/B076X8YRLC?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51F+mN4yzKL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-15T22:00:00-03:00",
+   "coletado_em": "2026-11-14T12:20:00-03:00",
+   "gancho": "AMOR AMOR PELA METADE",
+   "preco_em": "2026-11-14T12:20:00-03:00",
+   "entrou": "2026-11-14T16:46:46.756008-03:00",
+   "dia": "2026-11-14"
+  },
+  {
+   "id": "amz-B083QF4LCF",
+   "canal": "marcas",
+   "nome": "Óculos de Sol Oakley Flak 2.0 XL Masculino",
+   "preco_antigo": 1110.0,
+   "preco": 599.9,
+   "desconto": 46,
+   "link": "https://www.amazon.com.br/dp/B083QF4LCF?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/515ZdwjMlLL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-15T22:00:00-03:00",
+   "coletado_em": "2026-11-14T18:18:48-03:00",
+   "gancho": "OAKLEY FLAK COM 46% OFF",
+   "preco_em": "2026-11-14T18:18:48-03:00",
+   "entrou": "2026-11-14T18:26:46.931671-03:00",
+   "dia": "2026-11-14"
+  },
+  {
+   "id": "amz-B0DCLNM6ZY",
+   "canal": "tech",
+   "nome": "Caixa de Som WAAW by Alok Hyperboom 1000 Bluetooth",
+   "preco_antigo": 1899.9,
+   "preco": 1190.35,
+   "desconto": 37,
+   "link": "https://www.amazon.com.br/dp/B0DCLNM6ZY?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61ij9yVUh+L._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-15T22:00:00-03:00",
+   "coletado_em": "2026-11-14T18:16:48-03:00",
+   "gancho": "CAIXA DO ALOK COM 37% OFF",
+   "preco_em": "2026-11-14T18:16:48-03:00",
+   "entrou": "2026-11-14T18:26:46.931671-03:00",
+   "dia": "2026-11-14"
   }
  ],
  "ig_feitos": [
@@ -17895,7 +18014,10 @@
   "2026-11-14 18:30 reels",
   "2026-11-14 feed",
   "2026-11-14 19:15 post_achado",
-  "2026-11-14 19:17 story_oferta"
+  "2026-11-14 19:17 story_oferta",
+  "2026-11-14 20:03 story_oferta",
+  "story especial top10-rolando 2026-11-14",
+  "2026-11-14 20:30 reels"
  ],
  "ig_ofertas_usadas": [
   "amz-B0FPG9431G",
@@ -18101,7 +18223,7 @@
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
- "ig_ultimo_reel": "2026-11-14T18:32:07.180577-03:00",
+ "ig_ultimo_reel": "2026-11-14T20:34:33.999575-03:00",
  "pecas_usadas": {
   "ac-preco-inflado": "2026-10-27",
   "dc-7-dias": "2026-10-27",
@@ -18168,46 +18290,14 @@
   "mv-preco-cai-bf": "2026-11-14",
   "hu-black-fraude": "2026-11-14",
   "mv-importado": "2026-11-14",
-  "hu-amigo-replica": "2026-11-14"
+  "hu-amigo-replica": "2026-11-14",
+  "mv-nota-5": "2026-11-14"
  },
  "pecas_dia": {
-  "2026-11-14": 6
+  "2026-11-14": 7
  },
- "ultimo_pilar": "humor",
+ "ultimo_pilar": "mito",
  "fila": [
-  {
-   "id": "amz-B084GXZ2V2",
-   "canal": "achadinhos",
-   "nome": "Protetor Solar Darrow Actine FPS 60 sem cor 40g",
-   "preco_antigo": 69.99,
-   "preco": 38.9,
-   "desconto": 44,
-   "link": "https://www.amazon.com.br/dp/B084GXZ2V2?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/41t0JRbsFhL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-15T22:00:00-03:00",
-   "coletado_em": "2026-11-14T12:20:00-03:00",
-   "preco_em": "2026-11-14T12:20:00-03:00",
-   "entrou": "2026-11-14T16:46:46.756008-03:00"
-  },
-  {
-   "id": "amz-B076X8YRLC",
-   "canal": "achadinhos",
-   "nome": "Perfume Cacharel Amor Amor Feminino",
-   "preco_antigo": 229.0,
-   "preco": 116.91,
-   "desconto": 49,
-   "link": "https://www.amazon.com.br/dp/B076X8YRLC?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51F+mN4yzKL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-15T22:00:00-03:00",
-   "coletado_em": "2026-11-14T12:20:00-03:00",
-   "gancho": "AMOR AMOR PELA METADE",
-   "preco_em": "2026-11-14T12:20:00-03:00",
-   "entrou": "2026-11-14T16:46:46.756008-03:00"
-  },
   {
    "id": "amz-B08F9ZQ52X",
    "canal": "achadinhos",
@@ -18217,22 +18307,6 @@
    "desconto": 42,
    "link": "https://www.amazon.com.br/dp/B08F9ZQ52X?tag=papagarimpou-20",
    "imagem": "https://m.media-amazon.com/images/I/51MEDcXC5hL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-15T22:00:00-03:00",
-   "coletado_em": "2026-11-14T12:20:00-03:00",
-   "preco_em": "2026-11-14T12:20:00-03:00",
-   "entrou": "2026-11-14T16:46:46.756008-03:00"
-  },
-  {
-   "id": "amz-B0DM6G7929",
-   "canal": "tech",
-   "nome": "Impressora Laser Brother HL-L1222 monocromática",
-   "preco_antigo": 1099.0,
-   "preco": 719.1,
-   "desconto": 35,
-   "link": "https://www.amazon.com.br/dp/B0DM6G7929?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51jpgI7fwnL._AC_SL1500_.jpg",
    "loja": "Vendido e entregue pela Amazon",
    "plataforma": "Amazon",
    "valida_ate": "2026-11-15T22:00:00-03:00",
@@ -18377,41 +18451,6 @@
    "entrou": "2026-11-14T18:26:46.931671-03:00"
   },
   {
-   "id": "amz-B0FCG9N7GV",
-   "canal": "marcas",
-   "nome": "Camisa Corinthians Listrada Masculina Preta (licenciada)",
-   "preco_antigo": 99.99,
-   "preco": 57.9,
-   "desconto": 42,
-   "link": "https://www.amazon.com.br/dp/B0FCG9N7GV?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/518hKBGDO+L._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-15T22:00:00-03:00",
-   "coletado_em": "2026-11-14T18:18:48-03:00",
-   "gancho": "CAMISA DO TIMÃO POR 57,90",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "preco_em": "2026-11-14T18:18:48-03:00",
-   "entrou": "2026-11-14T18:26:46.931671-03:00"
-  },
-  {
-   "id": "amz-B083QF4LCF",
-   "canal": "marcas",
-   "nome": "Óculos de Sol Oakley Flak 2.0 XL Masculino",
-   "preco_antigo": 1110.0,
-   "preco": 599.9,
-   "desconto": 46,
-   "link": "https://www.amazon.com.br/dp/B083QF4LCF?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/515ZdwjMlLL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-15T22:00:00-03:00",
-   "coletado_em": "2026-11-14T18:18:48-03:00",
-   "gancho": "OAKLEY FLAK COM 46% OFF",
-   "preco_em": "2026-11-14T18:18:48-03:00",
-   "entrou": "2026-11-14T18:26:46.931671-03:00"
-  },
-  {
    "id": "amz-B0G6PCMDX4",
    "canal": "marcas",
    "nome": "Camiseta Flamengo Gávea Masculina (licenciada)",
@@ -18495,23 +18534,6 @@
    "coletado_em": "2026-11-14T18:18:48-03:00",
    "gancho": "MOCHILA THE NORTH FACE COM 37% OFF",
    "preco_em": "2026-11-14T18:18:48-03:00",
-   "entrou": "2026-11-14T18:26:46.931671-03:00"
-  },
-  {
-   "id": "amz-B0DCLNM6ZY",
-   "canal": "tech",
-   "nome": "Caixa de Som WAAW by Alok Hyperboom 1000 Bluetooth",
-   "preco_antigo": 1899.9,
-   "preco": 1190.35,
-   "desconto": 37,
-   "link": "https://www.amazon.com.br/dp/B0DCLNM6ZY?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61ij9yVUh+L._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-15T22:00:00-03:00",
-   "coletado_em": "2026-11-14T18:16:48-03:00",
-   "gancho": "CAIXA DO ALOK COM 37% OFF",
-   "preco_em": "2026-11-14T18:16:48-03:00",
    "entrou": "2026-11-14T18:26:46.931671-03:00"
   },
   {
@@ -19764,7 +19786,13 @@
   "smartphonemotorolamotog775g256gb8gbram": "2026-11-14T19:31:40.526479-03:00",
   "liquidificadorportatilwapblendergo300wcom2copos": "2026-11-14T19:38:18.552634-03:00",
   "copotermicostanleypilsner444ml": "2026-11-14T19:45:31.211440-03:00",
-  "impressoramultifuncionalhpsmarttank724tanquedetinta": "2026-11-14T19:52:10.401440-03:00"
+  "impressoramultifuncionalhpsmarttank724tanquedetinta": "2026-11-14T19:52:10.401440-03:00",
+  "protetorsolardarrowactinefps60semcor40g": "2026-11-14T19:57:57.488770-03:00",
+  "camisacorinthianslistradamasculinapretalicenciada": "2026-11-14T20:06:02.759441-03:00",
+  "impressoralaserbrotherhll1222monocromatica": "2026-11-14T20:12:42.750195-03:00",
+  "perfumecacharelamoramorfeminino": "2026-11-14T20:20:20.573106-03:00",
+  "oculosdesoloakleyflak20xlmasculino": "2026-11-14T20:28:02.830777-03:00",
+  "caixadesomwaawbyalokhyperboom1000bluetooth": "2026-11-14T20:35:08.554869-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
@@ -20010,10 +20038,14 @@
    "shopee-58204551307"
   ],
   "2026-11-14": [
-   "shopee-20298661104",
+   "shopee-20397809626",
+   "shopee-27481488690",
+   "shopee-40084160591",
    "shopee-58211443678",
-   "shopee-50559775356",
-   "shopee-21116473058"
+   "shopee-21116473058",
+   "shopee-20298661104",
+   "shopee-23494293697",
+   "shopee-50559775356"
   ]
  },
  "vendas_shopee": {},
@@ -20080,7 +20112,7 @@
    "entradas": []
   }
  },
- "tg_offset": 354369951,
+ "tg_offset": 354369952,
  "adivinha": {
   "dia": "2026-11-14",
   "oferta": {
@@ -20151,7 +20183,7 @@
   "marcas": "2026-11-12T17:56:29.409807-03:00"
  },
  "top10_dia": "2026-11-07",
- "manuais_lidos": "2026-11-14T19:52:06.074853-03:00",
+ "manuais_lidos": "2026-11-14T20:34:33.999575-03:00",
  "reserva_resultado": {
   "2026-11-07": {
    "achadinhos": {
@@ -20339,7 +20371,7 @@
    "hora": "2026-11-11T20:32:35.453128-03:00"
   }
  },
- "ig_respondido_em": "2026-11-14T19:52:06.074853-03:00",
+ "ig_respondido_em": "2026-11-14T20:34:33.999575-03:00",
  "dm_auto": {
   "2026-11-08": {
    "com_palavra": 0,
@@ -20523,6 +20555,12 @@
     "capa": "uma_oferta",
     "legenda": "Manda pra quem tá precisando disso 👇\n😎💎 Kit De 9 Pares Meias Lupo Kids Infantil Cano Curto Algodão Tamanho 24 ao 36\n\nOfertas todo dia no Telegram: papagarimpouofertas 💎\n\nPubli · link de afiliado",
     "url": "https://raw.githubusercontent.com/felipenery99-alt/papa-garimpou-robo/tiktok-midia/20261114-1832-tiktok.mp4"
+   },
+   {
+    "hora": "20:34",
+    "capa": "ate_off",
+    "legenda": "Manda pra quem tá precisando disso 👇\n😎💎 Até 46% OFF em marca boa: os 4 achados do Papa hoje\n\nOfertas todo dia no Telegram: papagarimpouofertas 💎\n\nPubli · link de afiliado",
+    "url": "https://raw.githubusercontent.com/felipenery99-alt/papa-garimpou-robo/tiktok-midia/20261114-2034-tiktok.mp4"
    }
   ]
  },
@@ -20541,7 +20579,7 @@
    "feed": 2
   },
   "2026-11-14": {
-   "story": 17,
+   "story": 19,
    "feed": 2
   }
  },
