@@ -1,57 +1,18 @@
 {
- "dia": "2026-11-13",
+ "dia": "2026-11-14",
  "itens": [
   {
    "tipo": "adivinha",
-   "hora": "15:00",
+   "hora": "15:02",
    "produtos": [
     {
-     "nome": "Smart Tv  LS43F6000 Samsung LED 43\" Full HD Tizen Voice Ready",
-     "preco_antigo": 4044.97,
-     "preco": 1617.99,
-     "desconto": 60,
-     "link": "https://s.shopee.com.br/5AtzHNbtcJ",
-     "loja": "LOI BRASIL",
-     "canal": "tech"
-    }
-   ]
-  },
-  {
-   "tipo": "adivinha_resposta",
-   "hora": "16:09",
-   "produtos": [
-    {
-     "nome": "Smart Tv  LS43F6000 Samsung LED 43\" Full HD Tizen Voice Ready",
-     "preco_antigo": 4044.97,
-     "preco": 1617.99,
-     "desconto": 60,
-     "link": "https://s.shopee.com.br/5AtzHNbtcJ",
-     "loja": "LOI BRASIL",
-     "canal": "tech"
-    }
-   ]
-  },
-  {
-   "tipo": "a_ou_b",
-   "hora": "18:07",
-   "produtos": [
-    {
-     "nome": "Kit 10 Pares Meias Lupo Originais Cano Médio Alto Algodão Masculina Feminina Meia Atoalhada Grossas",
-     "preco_antigo": 151.55,
-     "preco": 96.99,
-     "desconto": 36,
-     "link": "https://s.shopee.com.br/7KyTnwrcW3",
-     "loja": "Osure",
-     "canal": "marcas"
-    },
-    {
-     "nome": "Kit De 3 Pares Meias Lupo Kids Infantil Cano Curto Algodão Tamanho 24 ao 35",
-     "preco_antigo": 49.16,
-     "preco": 29.99,
-     "desconto": 39,
-     "link": "https://s.shopee.com.br/906hn0lH8D",
-     "loja": "Deccó",
-     "canal": "marcas"
+     "nome": "Aspirador de Pó e Agua Wap Gtw 15 Inox 1700W 14,8L 220V FW008810",
+     "preco_antigo": 824.56,
+     "preco": 470.0,
+     "desconto": 43,
+     "link": "https://s.shopee.com.br/40i1skamws",
+     "loja": "Webcontinental",
+     "canal": "achadinhos"
     }
    ]
   }

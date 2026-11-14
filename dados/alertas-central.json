@@ -76,5 +76,11 @@
   "vezes": 1,
   "ultimo": "2026-11-14T14:20+00:00",
   "texto": "erro em 2026-11-14 achadinhos 11:20 amz-B076M8G7VT: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer')). Não postei."
+ },
+ "canal geral não recebeu amz-B#CZ#CDRSV: ('Connection aborted.', ConnectionResetE": {
+  "primeiro": "2026-11-14T18:16+00:00",
+  "vezes": 1,
+  "ultimo": "2026-11-14T18:16+00:00",
+  "texto": "canal geral não recebeu amz-B0CZ7CDRSV: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
  }
 }
