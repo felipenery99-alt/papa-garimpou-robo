@@ -1299,7 +1299,13 @@
   "2026-11-14 tech 13:12 amz-B0FHYLZ7W1",
   "2026-11-14 achadinhos 13:19 amz-B0C9G2QNS9",
   "2026-11-14 marcas 13:26 amz-B07XS4Q829",
-  "2026-11-14 tech 13:32 amz-B0CYW2N6TX"
+  "2026-11-14 tech 13:32 amz-B0CYW2N6TX",
+  "2026-11-14 achadinhos 13:38 amz-B0BYK6RQHB",
+  "2026-11-14 marcas 13:45 amz-B0H4HS5XRN",
+  "2026-11-14 tech 13:51 amz-B0FQHRNRYQ",
+  "2026-11-14 achadinhos 13:59 amz-B0DY2FTYX3",
+  "2026-11-14 marcas 14:06 amz-B07XYGSRQB",
+  "2026-11-14 tech 14:13 amz-B0FJMHMCBZ"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -2544,7 +2550,13 @@
   "amz-B0FHYLZ7W1": "2026-11-14T13:12:39.125598-03:00",
   "amz-B0C9G2QNS9": "2026-11-14T13:19:22.892991-03:00",
   "amz-B07XS4Q829": "2026-11-14T13:26:36.318798-03:00",
-  "amz-B0CYW2N6TX": "2026-11-14T13:32:44.916203-03:00"
+  "amz-B0CYW2N6TX": "2026-11-14T13:32:44.916203-03:00",
+  "amz-B0BYK6RQHB": "2026-11-14T13:38:52.508933-03:00",
+  "amz-B0H4HS5XRN": "2026-11-14T13:45:20.775591-03:00",
+  "amz-B0FQHRNRYQ": "2026-11-14T13:51:38.188834-03:00",
+  "amz-B0DY2FTYX3": "2026-11-14T13:59:42.398254-03:00",
+  "amz-B07XYGSRQB": "2026-11-14T14:06:43.273856-03:00",
+  "amz-B0FJMHMCBZ": "2026-11-14T14:13:48.068760-03:00"
  },
  "ofertas_dia": [
   {
@@ -16706,6 +16718,110 @@
    "preco_em": "2026-11-14T12:20:00-03:00",
    "entrou": "2026-11-14T12:38:47.781530-03:00",
    "dia": "2026-11-14"
+  },
+  {
+   "id": "amz-B0BYK6RQHB",
+   "canal": "achadinhos",
+   "nome": "Liquidificador Philco PLQ2100PI 12 velocidades + turbo 3L 1400W",
+   "preco_antigo": 289.0,
+   "preco": 161.1,
+   "desconto": 44,
+   "link": "https://www.amazon.com.br/dp/B0BYK6RQHB?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51aZSC4vBFL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-15T22:00:00-03:00",
+   "coletado_em": "2026-11-14T12:20:00-03:00",
+   "preco_em": "2026-11-14T12:20:00-03:00",
+   "entrou": "2026-11-14T12:38:47.781530-03:00",
+   "dia": "2026-11-14"
+  },
+  {
+   "id": "amz-B0H4HS5XRN",
+   "canal": "marcas",
+   "nome": "Tênis Fila Progress Feminino",
+   "preco_antigo": 349.99,
+   "preco": 229.99,
+   "desconto": 34,
+   "link": "https://www.amazon.com.br/dp/B0H4HS5XRN?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51ZIJd267wL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-15T22:00:00-03:00",
+   "coletado_em": "2026-11-14T08:20:00-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "preco_em": "2026-11-14T08:20:00-03:00",
+   "entrou": "2026-11-14T12:38:47.781530-03:00",
+   "dia": "2026-11-14"
+  },
+  {
+   "id": "amz-B0FQHRNRYQ",
+   "canal": "tech",
+   "nome": "Apple iPhone Air 512GB Azul Céu",
+   "preco_antigo": 11999.0,
+   "preco": 7797.6,
+   "desconto": 35,
+   "link": "https://www.amazon.com.br/dp/B0FQHRNRYQ?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/41-fmBw4gTL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-15T22:00:00-03:00",
+   "coletado_em": "2026-11-14T12:20:00-03:00",
+   "preco_em": "2026-11-14T12:20:00-03:00",
+   "entrou": "2026-11-14T12:38:47.781530-03:00",
+   "dia": "2026-11-14"
+  },
+  {
+   "id": "amz-B0DY2FTYX3",
+   "canal": "achadinhos",
+   "nome": "Parafusadeira e Chave de Impacto Bosch GDX 18V-285",
+   "preco_antigo": 1258.72,
+   "preco": 861.99,
+   "desconto": 32,
+   "link": "https://www.amazon.com.br/dp/B0DY2FTYX3?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61mXwNfKr9L._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-15T22:00:00-03:00",
+   "coletado_em": "2026-11-14T12:20:00-03:00",
+   "preco_em": "2026-11-14T12:20:00-03:00",
+   "entrou": "2026-11-14T12:38:47.781530-03:00",
+   "dia": "2026-11-14"
+  },
+  {
+   "id": "amz-B07XYGSRQB",
+   "canal": "marcas",
+   "nome": "Camiseta Básica Hering Comfort Super Cotton",
+   "preco_antigo": 89.99,
+   "preco": 49.9,
+   "desconto": 45,
+   "link": "https://www.amazon.com.br/dp/B07XYGSRQB?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51D9TTM5RwL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-15T22:00:00-03:00",
+   "coletado_em": "2026-11-14T08:20:00-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "preco_em": "2026-11-14T08:20:00-03:00",
+   "entrou": "2026-11-14T12:38:47.781530-03:00",
+   "dia": "2026-11-14"
+  },
+  {
+   "id": "amz-B0FJMHMCBZ",
+   "canal": "tech",
+   "nome": "Headphone Bluetooth Philips TAH2300 com microfone, até 55 h",
+   "preco_antigo": 149.0,
+   "preco": 105.0,
+   "desconto": 30,
+   "link": "https://www.amazon.com.br/dp/B0FJMHMCBZ?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51BmQ8K9sML._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-15T22:00:00-03:00",
+   "coletado_em": "2026-11-14T12:20:00-03:00",
+   "preco_em": "2026-11-14T12:20:00-03:00",
+   "entrou": "2026-11-14T12:38:47.781530-03:00",
+   "dia": "2026-11-14"
   }
  ],
  "ig_feitos": [
@@ -17097,38 +17213,6 @@
  "ultimo_pilar": "mito",
  "fila": [
   {
-   "id": "amz-B0BYK6RQHB",
-   "canal": "achadinhos",
-   "nome": "Liquidificador Philco PLQ2100PI 12 velocidades + turbo 3L 1400W",
-   "preco_antigo": 289.0,
-   "preco": 161.1,
-   "desconto": 44,
-   "link": "https://www.amazon.com.br/dp/B0BYK6RQHB?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51aZSC4vBFL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-15T22:00:00-03:00",
-   "coletado_em": "2026-11-14T12:20:00-03:00",
-   "preco_em": "2026-11-14T12:20:00-03:00",
-   "entrou": "2026-11-14T12:38:47.781530-03:00"
-  },
-  {
-   "id": "amz-B0DY2FTYX3",
-   "canal": "achadinhos",
-   "nome": "Parafusadeira e Chave de Impacto Bosch GDX 18V-285",
-   "preco_antigo": 1258.72,
-   "preco": 861.99,
-   "desconto": 32,
-   "link": "https://www.amazon.com.br/dp/B0DY2FTYX3?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61mXwNfKr9L._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-15T22:00:00-03:00",
-   "coletado_em": "2026-11-14T12:20:00-03:00",
-   "preco_em": "2026-11-14T12:20:00-03:00",
-   "entrou": "2026-11-14T12:38:47.781530-03:00"
-  },
-  {
    "id": "amz-B07SSMCZ7Z",
    "canal": "achadinhos",
    "nome": "Colônia Granado Terrapeutics Cardamomo e Gengibre 230ml",
@@ -17322,40 +17406,6 @@
    "entrou": "2026-11-14T12:38:47.781530-03:00"
   },
   {
-   "id": "amz-B0H4HS5XRN",
-   "canal": "marcas",
-   "nome": "Tênis Fila Progress Feminino",
-   "preco_antigo": 349.99,
-   "preco": 229.99,
-   "desconto": 34,
-   "link": "https://www.amazon.com.br/dp/B0H4HS5XRN?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51ZIJd267wL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-15T22:00:00-03:00",
-   "coletado_em": "2026-11-14T08:20:00-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "preco_em": "2026-11-14T08:20:00-03:00",
-   "entrou": "2026-11-14T12:38:47.781530-03:00"
-  },
-  {
-   "id": "amz-B07XYGSRQB",
-   "canal": "marcas",
-   "nome": "Camiseta Básica Hering Comfort Super Cotton",
-   "preco_antigo": 89.99,
-   "preco": 49.9,
-   "desconto": 45,
-   "link": "https://www.amazon.com.br/dp/B07XYGSRQB?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51D9TTM5RwL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-15T22:00:00-03:00",
-   "coletado_em": "2026-11-14T08:20:00-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "preco_em": "2026-11-14T08:20:00-03:00",
-   "entrou": "2026-11-14T12:38:47.781530-03:00"
-  },
-  {
    "id": "amz-B0FLQS3RDG",
    "canal": "marcas",
    "nome": "Creatina Integralmédica Hardcore 100% pura 350g",
@@ -17451,38 +17501,6 @@
    "coletado_em": "2026-11-14T12:15:00-03:00",
    "extra": "Preço a partir de: varia por tamanho e cor",
    "preco_em": "2026-11-14T12:15:00-03:00",
-   "entrou": "2026-11-14T12:38:47.781530-03:00"
-  },
-  {
-   "id": "amz-B0FQHRNRYQ",
-   "canal": "tech",
-   "nome": "Apple iPhone Air 512GB Azul Céu",
-   "preco_antigo": 11999.0,
-   "preco": 7797.6,
-   "desconto": 35,
-   "link": "https://www.amazon.com.br/dp/B0FQHRNRYQ?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/41-fmBw4gTL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-15T22:00:00-03:00",
-   "coletado_em": "2026-11-14T12:20:00-03:00",
-   "preco_em": "2026-11-14T12:20:00-03:00",
-   "entrou": "2026-11-14T12:38:47.781530-03:00"
-  },
-  {
-   "id": "amz-B0FJMHMCBZ",
-   "canal": "tech",
-   "nome": "Headphone Bluetooth Philips TAH2300 com microfone, até 55 h",
-   "preco_antigo": 149.0,
-   "preco": 105.0,
-   "desconto": 30,
-   "link": "https://www.amazon.com.br/dp/B0FJMHMCBZ?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51BmQ8K9sML._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-15T22:00:00-03:00",
-   "coletado_em": "2026-11-14T12:20:00-03:00",
-   "preco_em": "2026-11-14T12:20:00-03:00",
    "entrou": "2026-11-14T12:38:47.781530-03:00"
   },
   {
@@ -18740,7 +18758,13 @@
   "caixadesombluetoothaiwasp0530waprovadaguaipx5": "2026-11-14T13:12:39.125598-03:00",
   "secadordecabelogamaitalylichiaceramicion2100w": "2026-11-14T13:19:22.892991-03:00",
   "regataheringfemininaslimemribanacanelada": "2026-11-14T13:26:36.318798-03:00",
-  "notebookasusvivobookgo15ryzen58gbssd512gb": "2026-11-14T13:32:44.916203-03:00"
+  "notebookasusvivobookgo15ryzen58gbssd512gb": "2026-11-14T13:32:44.916203-03:00",
+  "liquidificadorphilcoplq2100pi12velocidadesturbo3l1400w": "2026-11-14T13:38:52.508933-03:00",
+  "tenisfilaprogressfeminino": "2026-11-14T13:45:20.775591-03:00",
+  "appleiphoneair512gbazulceu": "2026-11-14T13:51:38.188834-03:00",
+  "parafusadeiraechavedeimpactoboschgdx18v285": "2026-11-14T13:59:42.398254-03:00",
+  "camisetabasicaheringcomfortsupercotton": "2026-11-14T14:06:43.273856-03:00",
+  "headphonebluetoothphilipstah2300commicrofoneate55h": "2026-11-14T14:13:48.068760-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
@@ -19126,7 +19150,7 @@
   "marcas": "2026-11-12T17:56:29.409807-03:00"
  },
  "top10_dia": "2026-11-07",
- "manuais_lidos": "2026-11-14T13:32:44.574899-03:00",
+ "manuais_lidos": "2026-11-14T14:13:32.023351-03:00",
  "reserva_resultado": {
   "2026-11-07": {
    "achadinhos": {
@@ -19314,7 +19338,7 @@
    "hora": "2026-11-11T20:32:35.453128-03:00"
   }
  },
- "ig_respondido_em": "2026-11-14T13:26:20.805496-03:00",
+ "ig_respondido_em": "2026-11-14T14:13:32.023351-03:00",
  "dm_auto": {
   "2026-11-08": {
    "com_palavra": 0,
@@ -19496,50 +19520,6 @@
   ]
  },
  "amz_visto": {
-  "amz-B0G3RV2KX8|60.75": "2026-11-11T13:52:38-03:00",
-  "amz-B0CZS8PWHR|123.49": "2026-11-11T13:52:38-03:00",
-  "amz-B0CX8MT2M2|999.0": "2026-11-11T13:52:38-03:00",
-  "amz-B0GQWVYKZV|5273.1": "2026-11-11T13:52:38-03:00",
-  "amz-B09GSR58JF|127.3": "2026-11-11T13:52:38-03:00",
-  "amz-B0HDFYG15C|53.91": "2026-11-11T13:52:38-03:00",
-  "amz-B0G87ZKH8Q|189.99": "2026-11-11T13:52:38-03:00",
-  "amz-B0DYB2PRJG|89.77": "2026-11-11T13:52:38-03:00",
-  "amz-B0CL5CN24Y|125.0": "2026-11-11T13:52:38-03:00",
-  "amz-B08R92W45F|66.41": "2026-11-11T13:52:38-03:00",
-  "amz-B0HDFV9XDD|53.91": "2026-11-11T13:52:38-03:00",
-  "amz-B076MDW718|125.99": "2026-11-11T13:52:38-03:00",
-  "amz-B0DWC22Y7J|188.99": "2026-11-11T13:52:38-03:00",
-  "amz-B0G4NFQWG8|323.91": "2026-11-11T13:52:38-03:00",
-  "amz-B0F4LHGTDY|29.02": "2026-11-11T13:52:38-03:00",
-  "amz-B0GVT7QXF7|1799.1": "2026-11-11T13:52:38-03:00",
-  "amz-B0GML3T1SP|269.9": "2026-11-11T13:52:38-03:00",
-  "amz-B0F61S2T6G|161.01": "2026-11-11T13:52:38-03:00",
-  "amz-B0GJ7H8WLW|1324.0": "2026-11-11T13:52:38-03:00",
-  "amz-B0DY1SWX7H|34.9": "2026-11-11T13:52:38-03:00",
-  "amz-B097WGFH37|28.49": "2026-11-11T13:52:38-03:00",
-  "amz-B0BHTSFKQ8|70.3": "2026-11-11T13:52:38-03:00",
-  "amz-B0FFNFFSQ6|289.9": "2026-11-11T13:52:38-03:00",
-  "amz-B0FHXMHLH5|161.55": "2026-11-11T13:52:38-03:00",
-  "amz-B0D4VKD19F|2754.04": "2026-11-11T13:52:38-03:00",
-  "amz-B076BBQS8B|160.12": "2026-11-11T13:52:38-03:00",
-  "amz-B07G56XF47|78.75": "2026-11-11T13:52:38-03:00",
-  "amz-B084XRBHB8|73.58": "2026-11-11T13:52:38-03:00",
-  "amz-B08K1B2NHM|212.55": "2026-11-11T13:52:38-03:00",
-  "amz-B0GVSXJF6K|1888.56": "2026-11-11T13:52:38-03:00",
-  "amz-B0C1CQHQGG|86.31": "2026-11-11T13:52:38-03:00",
-  "amz-B08QDX99RL|55.9": "2026-11-11T13:52:38-03:00",
-  "amz-B0CW26HSKM|205.69": "2026-11-11T13:52:38-03:00",
-  "amz-B0FR6PC1FB|1899.0": "2026-11-11T13:52:38-03:00",
-  "amz-B0C63XQXLZ|123.4": "2026-11-11T13:52:38-03:00",
-  "amz-B09VYBFFKF|448.38": "2026-11-11T13:52:38-03:00",
-  "amz-B0F3LZ6RHF|2809.11": "2026-11-11T13:52:38-03:00",
-  "amz-B076MC45HR|101.63": "2026-11-11T13:52:38-03:00",
-  "amz-B098YHFT9S|917.15": "2026-11-11T13:52:38-03:00",
-  "amz-B00A0VCJPI|97.9": "2026-11-11T13:52:38-03:00",
-  "amz-B09XBPCKRH|94.9": "2026-11-11T13:52:38-03:00",
-  "amz-B0DG9XBH2W|188.99": "2026-11-11T13:52:38-03:00",
-  "amz-B097LRYSXW|123.4": "2026-11-11T13:52:38-03:00",
-  "amz-B0CHT2X7X5|171.91": "2026-11-11T13:52:38-03:00",
   "amz-B0H91SW8FW|29.61": "2026-11-11T18:50:54-03:00",
   "amz-B0DXR6MKR8|3099.0": "2026-11-11T18:50:54-03:00",
   "amz-B0C2ZNDWK6|72.11": "2026-11-11T18:50:54-03:00",
@@ -19585,6 +19565,6 @@
  "ig_conta_ok": "2026-11-14",
  "share_erro": {},
  "ig_tentativas": {
-  "2026-11-13 11:50 carrossel_top5": 1
+  "2026-11-14 14:08 story_oferta": 1
  }
 }
