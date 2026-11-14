@@ -1280,7 +1280,14 @@
   "2026-11-14 marcas 10:45 amz-B0D1DSSZWJ",
   "2026-11-14 tech 10:51 amz-B0DHL7WWMQ",
   "2026-11-14 achadinhos 10:58 amz-B0DMWLR8J1",
-  "2026-11-14 tech 11:12 amz-B0FK8D2W2C"
+  "2026-11-14 tech 11:12 amz-B0FK8D2W2C",
+  "2026-11-14 achadinhos 11:21 amz-B0FG9GWZJS",
+  "2026-11-14 achadinhos 11:28 amz-B0DFRRVLL8",
+  "2026-11-14 marcas 11:35 amz-B0CKTHQVXF",
+  "2026-11-14 achadinhos 11:41 amz-B0FSG7GZDY",
+  "2026-11-14 marcas 11:48 amz-B0FXJBVK45",
+  "2026-11-14 marcas 12:00 amz-B0GW92MKCH",
+  "2026-11-14 tech 12:07 shopee-40084160591"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -2509,7 +2516,14 @@
   "amz-B0D1DSSZWJ": "2026-11-14T10:45:41.954031-03:00",
   "amz-B0DHL7WWMQ": "2026-11-14T10:51:45.538885-03:00",
   "amz-B0DMWLR8J1": "2026-11-14T10:58:03.266793-03:00",
-  "amz-B0FK8D2W2C": "2026-11-14T11:12:41.151304-03:00"
+  "amz-B0FK8D2W2C": "2026-11-14T11:12:41.151304-03:00",
+  "amz-B0FG9GWZJS": "2026-11-14T11:21:45.550075-03:00",
+  "amz-B0DFRRVLL8": "2026-11-14T11:28:13.637977-03:00",
+  "amz-B0CKTHQVXF": "2026-11-14T11:35:00.943799-03:00",
+  "amz-B0FSG7GZDY": "2026-11-14T11:41:38.574720-03:00",
+  "amz-B0FXJBVK45": "2026-11-14T11:48:54.405125-03:00",
+  "amz-B0GW92MKCH": "2026-11-14T12:00:13.548636-03:00",
+  "shopee-40084160591": "2026-11-14T12:07:16.821731-03:00"
  },
  "ofertas_dia": [
   {
@@ -16373,6 +16387,130 @@
    "preco_em": "2026-11-14T08:20:00-03:00",
    "entrou": "2026-11-14T08:26:54.096564-03:00",
    "dia": "2026-11-14"
+  },
+  {
+   "id": "amz-B0FG9GWZJS",
+   "canal": "achadinhos",
+   "nome": "Aparador e Barbeador Philips Série 3000 10 em 1",
+   "preco_antigo": 319.9,
+   "preco": 220.39,
+   "desconto": 31,
+   "link": "https://www.amazon.com.br/dp/B0FG9GWZJS?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71ilMif2TEL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-15T22:00:00-03:00",
+   "coletado_em": "2026-11-14T08:20:00-03:00",
+   "preco_em": "2026-11-14T08:20:00-03:00",
+   "entrou": "2026-11-14T08:26:54.096564-03:00",
+   "dia": "2026-11-14"
+  },
+  {
+   "id": "amz-B0DFRRVLL8",
+   "canal": "achadinhos",
+   "nome": "Escova Elétrica Philips Colgate Sonic Pro 35",
+   "preco_antigo": 464.8,
+   "preco": 249.99,
+   "desconto": 46,
+   "link": "https://www.amazon.com.br/dp/B0DFRRVLL8?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71maPvrQlSL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-15T22:00:00-03:00",
+   "coletado_em": "2026-11-14T08:20:00-03:00",
+   "preco_em": "2026-11-14T08:20:00-03:00",
+   "entrou": "2026-11-14T08:26:54.096564-03:00",
+   "dia": "2026-11-14"
+  },
+  {
+   "id": "amz-B0CKTHQVXF",
+   "canal": "marcas",
+   "nome": "Mochila Puma Academy",
+   "preco_antigo": 329.99,
+   "preco": 199.9,
+   "desconto": 39,
+   "link": "https://www.amazon.com.br/dp/B0CKTHQVXF?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71LFm4OrjpL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-15T22:00:00-03:00",
+   "coletado_em": "2026-11-14T08:20:00-03:00",
+   "preco_em": "2026-11-14T08:20:00-03:00",
+   "entrou": "2026-11-14T08:26:54.096564-03:00",
+   "dia": "2026-11-14"
+  },
+  {
+   "id": "amz-B0FSG7GZDY",
+   "canal": "achadinhos",
+   "nome": "Air Fryer Britânia Silverstone 4,2L 1500W 127V",
+   "preco_antigo": 331.5,
+   "preco": 199.0,
+   "desconto": 40,
+   "link": "https://www.amazon.com.br/dp/B0FSG7GZDY?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61arZpM93-L._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-15T22:00:00-03:00",
+   "coletado_em": "2026-11-14T08:20:00-03:00",
+   "extra": "Voltagem: 127V",
+   "preco_em": "2026-11-14T08:20:00-03:00",
+   "entrou": "2026-11-14T08:26:54.096564-03:00",
+   "dia": "2026-11-14"
+  },
+  {
+   "id": "amz-B0FXJBVK45",
+   "canal": "marcas",
+   "nome": "Tênis Fila Agil",
+   "preco_antigo": 399.99,
+   "preco": 249.9,
+   "desconto": 38,
+   "link": "https://www.amazon.com.br/dp/B0FXJBVK45?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61Dtolp5mnL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-15T22:00:00-03:00",
+   "coletado_em": "2026-11-14T08:20:00-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "preco_em": "2026-11-14T08:20:00-03:00",
+   "entrou": "2026-11-14T08:26:54.096564-03:00",
+   "dia": "2026-11-14"
+  },
+  {
+   "id": "amz-B0GW92MKCH",
+   "canal": "marcas",
+   "nome": "Tênis Fila Runner 2K Feminino",
+   "preco_antigo": 499.9,
+   "preco": 347.36,
+   "desconto": 31,
+   "link": "https://www.amazon.com.br/dp/B0GW92MKCH?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51LM2rhvfpL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-15T22:00:00-03:00",
+   "coletado_em": "2026-11-14T08:20:00-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "preco_em": "2026-11-14T08:20:00-03:00",
+   "entrou": "2026-11-14T08:26:54.096564-03:00",
+   "dia": "2026-11-14"
+  },
+  {
+   "id": "shopee-40084160591",
+   "plataforma": "Shopee",
+   "nome": "Monitor Gamer LG UltraGear 27\" FHD 144Hz IPS - 27G411B-B",
+   "loja": "NegociuN",
+   "loja_oficial": true,
+   "preco": 811.85,
+   "preco_antigo": 1176.59,
+   "desconto": 31,
+   "vendas": 127,
+   "nota": 4.9,
+   "comissao_pct": 3.0,
+   "imagem": "https://cf.shopee.com.br/file/br-11134207-820me-msmwwza1qebpc7",
+   "link": "https://s.shopee.com.br/4B1Sjo9iNA",
+   "quase": true,
+   "canal": "tech",
+   "entrou": "2026-11-14T11:56:11.521150-03:00",
+   "dia": "2026-11-14"
   }
  ],
  "ig_feitos": [
@@ -16479,7 +16617,11 @@
   "2026-11-14 08:52 story_oferta",
   "2026-11-14 09:38 story_oferta",
   "2026-11-14 10:20 story_oferta",
-  "2026-11-14 10:24 story_oferta"
+  "2026-11-14 10:24 story_oferta",
+  "2026-11-14 feed",
+  "2026-11-14 11:50 carrossel_top5",
+  "2026-11-14 11:56 story_oferta",
+  "2026-11-14 12:00 reels"
  ],
  "ig_ofertas_usadas": [
   "amz-B0D27SFGFJ",
@@ -16685,7 +16827,7 @@
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
- "ig_ultimo_reel": "2026-11-13T20:30:39.253014-03:00",
+ "ig_ultimo_reel": "2026-11-14T12:06:57.002380-03:00",
  "pecas_usadas": {
   "ac-preco-inflado": "2026-10-27",
   "dc-7-dias": "2026-10-27",
@@ -16748,112 +16890,14 @@
   "hu-sabado": "2026-11-13",
   "dc-frete-gratis": "2026-11-13",
   "bf-2026-11-14": "2026-11-14",
-  "hu-mae": "2026-11-14"
+  "hu-mae": "2026-11-14",
+  "mv-preco-cai-bf": "2026-11-14"
  },
  "pecas_dia": {
-  "2026-11-14": 2
+  "2026-11-14": 3
  },
- "ultimo_pilar": "humor",
+ "ultimo_pilar": "mito",
  "fila": [
-  {
-   "id": "amz-B0FG9GWZJS",
-   "canal": "achadinhos",
-   "nome": "Aparador e Barbeador Philips Série 3000 10 em 1",
-   "preco_antigo": 319.9,
-   "preco": 220.39,
-   "desconto": 31,
-   "link": "https://www.amazon.com.br/dp/B0FG9GWZJS?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/71ilMif2TEL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-15T22:00:00-03:00",
-   "coletado_em": "2026-11-14T08:20:00-03:00",
-   "preco_em": "2026-11-14T08:20:00-03:00",
-   "entrou": "2026-11-14T08:26:54.096564-03:00"
-  },
-  {
-   "id": "amz-B0DFRRVLL8",
-   "canal": "achadinhos",
-   "nome": "Escova Elétrica Philips Colgate Sonic Pro 35",
-   "preco_antigo": 464.8,
-   "preco": 249.99,
-   "desconto": 46,
-   "link": "https://www.amazon.com.br/dp/B0DFRRVLL8?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/71maPvrQlSL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-15T22:00:00-03:00",
-   "coletado_em": "2026-11-14T08:20:00-03:00",
-   "preco_em": "2026-11-14T08:20:00-03:00",
-   "entrou": "2026-11-14T08:26:54.096564-03:00"
-  },
-  {
-   "id": "amz-B0FSG7GZDY",
-   "canal": "achadinhos",
-   "nome": "Air Fryer Britânia Silverstone 4,2L 1500W 127V",
-   "preco_antigo": 331.5,
-   "preco": 199.0,
-   "desconto": 40,
-   "link": "https://www.amazon.com.br/dp/B0FSG7GZDY?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61arZpM93-L._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-15T22:00:00-03:00",
-   "coletado_em": "2026-11-14T08:20:00-03:00",
-   "extra": "Voltagem: 127V",
-   "preco_em": "2026-11-14T08:20:00-03:00",
-   "entrou": "2026-11-14T08:26:54.096564-03:00"
-  },
-  {
-   "id": "amz-B0CKTHQVXF",
-   "canal": "marcas",
-   "nome": "Mochila Puma Academy",
-   "preco_antigo": 329.99,
-   "preco": 199.9,
-   "desconto": 39,
-   "link": "https://www.amazon.com.br/dp/B0CKTHQVXF?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/71LFm4OrjpL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-15T22:00:00-03:00",
-   "coletado_em": "2026-11-14T08:20:00-03:00",
-   "preco_em": "2026-11-14T08:20:00-03:00",
-   "entrou": "2026-11-14T08:26:54.096564-03:00"
-  },
-  {
-   "id": "amz-B0FXJBVK45",
-   "canal": "marcas",
-   "nome": "Tênis Fila Agil",
-   "preco_antigo": 399.99,
-   "preco": 249.9,
-   "desconto": 38,
-   "link": "https://www.amazon.com.br/dp/B0FXJBVK45?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61Dtolp5mnL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-15T22:00:00-03:00",
-   "coletado_em": "2026-11-14T08:20:00-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "preco_em": "2026-11-14T08:20:00-03:00",
-   "entrou": "2026-11-14T08:26:54.096564-03:00"
-  },
-  {
-   "id": "amz-B0GW92MKCH",
-   "canal": "marcas",
-   "nome": "Tênis Fila Runner 2K Feminino",
-   "preco_antigo": 499.9,
-   "preco": 347.36,
-   "desconto": 31,
-   "link": "https://www.amazon.com.br/dp/B0GW92MKCH?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51LM2rhvfpL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-15T22:00:00-03:00",
-   "coletado_em": "2026-11-14T08:20:00-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "preco_em": "2026-11-14T08:20:00-03:00",
-   "entrou": "2026-11-14T08:26:54.096564-03:00"
-  },
   {
    "id": "amz-B0FH3K45PH",
    "canal": "marcas",
@@ -16989,6 +17033,22 @@
    "extra": "Preço a partir de: varia por tamanho e cor",
    "preco_em": "2026-11-14T08:20:00-03:00",
    "entrou": "2026-11-14T11:20:22.993869-03:00"
+  },
+  {
+   "id": "amz-B076M8G7VT",
+   "canal": "achadinhos",
+   "nome": "Maleta de Ferramentas Tramontina 65 Peças",
+   "preco_antigo": 328.46,
+   "preco": 219.99,
+   "desconto": 33,
+   "link": "https://www.amazon.com.br/dp/B076M8G7VT?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61bZTBkWzCL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-15T22:00:00-03:00",
+   "coletado_em": "2026-11-14T08:20:00-03:00",
+   "preco_em": "2026-11-14T08:20:00-03:00",
+   "entrou": "2026-11-14T11:21:45.539968-03:00"
   }
  ],
  "menus_fixados": [
@@ -18069,7 +18129,14 @@
   "mochilaunissexmizunobelisa": "2026-11-14T10:45:41.954031-03:00",
   "fonesemfiojblenduranceracetwsesportivo": "2026-11-14T10:51:45.538885-03:00",
   "airfryerphilco9l2000wgoldpaf90b220v": "2026-11-14T10:58:03.266793-03:00",
-  "pacmanworld2repacnintendoswitch": "2026-11-14T11:12:41.151304-03:00"
+  "pacmanworld2repacnintendoswitch": "2026-11-14T11:12:41.151304-03:00",
+  "aparadorebarbeadorphilipsserie300010em1": "2026-11-14T11:21:45.550075-03:00",
+  "escovaeletricaphilipscolgatesonicpro35": "2026-11-14T11:28:13.637977-03:00",
+  "mochilapumaacademy": "2026-11-14T11:35:00.943799-03:00",
+  "airfryerbritaniasilverstone42l1500w127v": "2026-11-14T11:41:38.574720-03:00",
+  "tenisfilaagil": "2026-11-14T11:48:54.405125-03:00",
+  "tenisfilarunner2kfeminino": "2026-11-14T12:00:13.548636-03:00",
+  "monitorgamerlgultragear27fhd144hzips27g411bb": "2026-11-14T12:07:16.821731-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
@@ -18313,6 +18380,11 @@
    "shopee-40717702468",
    "shopee-20299205359",
    "shopee-58204551307"
+  ],
+  "2026-11-14": [
+   "shopee-20298661104",
+   "shopee-58211443678",
+   "shopee-50559775356"
   ]
  },
  "vendas_shopee": {},
@@ -18408,7 +18480,7 @@
  "pede_semana": "2026-46",
  "ultimo_garimpo": "2026-11-14T08:23:51-03:00",
  "vigia_aviso_post": "2026-11-09T18:27:03.734589-03:00",
- "vigia_aviso_garimpo": "2026-11-14T08:04:55.112322-03:00",
+ "vigia_aviso_garimpo": "2026-11-14T11:21:45.539968-03:00",
  "resumo_enviado": "2026-11-13",
  "token_conferido": "2026-11-14",
  "meta_token": {
@@ -18443,14 +18515,14 @@
   "2026-11-13 noite achadinhos",
   "2026-11-13 noite marcas"
  ],
- "reserva_meio": "2026-11-14T11:20:22.993869-03:00",
+ "reserva_meio": "2026-11-14T11:56:11.521150-03:00",
  "reserva_cheia": {
   "achadinhos": "2026-11-13T20:21:49.534614-03:00",
-  "tech": "2026-11-13T18:07:34.116827-03:00",
+  "tech": "2026-11-14T11:56:11.521150-03:00",
   "marcas": "2026-11-12T17:56:29.409807-03:00"
  },
  "top10_dia": "2026-11-07",
- "manuais_lidos": "2026-11-14T11:20:22.993869-03:00",
+ "manuais_lidos": "2026-11-14T12:06:57.002380-03:00",
  "reserva_resultado": {
   "2026-11-07": {
    "achadinhos": {
@@ -18579,7 +18651,7 @@
    },
    "tech": {
     "busca": 0,
-    "quase": 0,
+    "quase": 1,
     "reprise": 0
    }
   }
@@ -18638,7 +18710,7 @@
    "hora": "2026-11-11T20:32:35.453128-03:00"
   }
  },
- "ig_respondido_em": "2026-11-14T11:12:37.402591-03:00",
+ "ig_respondido_em": "2026-11-14T12:06:57.002380-03:00",
  "dm_auto": {
   "2026-11-08": {
    "com_palavra": 0,
@@ -18809,6 +18881,14 @@
     "legenda": "Manda pra quem tá precisando disso 👇\n😎💎 Até 60% OFF em marca boa: os 5 achados do Papa hoje\n\nOfertas todo dia no Telegram: papagarimpouofertas 💎\n\nPubli · link de afiliado",
     "url": "https://raw.githubusercontent.com/felipenery99-alt/papa-garimpou-robo/tiktok-midia/20261113-2030-tiktok.mp4"
    }
+  ],
+  "2026-11-14": [
+   {
+    "hora": "12:06",
+    "capa": "ate_off",
+    "legenda": "Manda pra quem tá precisando disso 👇\n😎💎 Até 60% OFF em marca boa: os 3 achados do Papa hoje\n\nOfertas todo dia no Telegram: papagarimpouofertas 💎\n\nPubli · link de afiliado",
+    "url": "https://raw.githubusercontent.com/felipenery99-alt/papa-garimpou-robo/tiktok-midia/20261114-1206-tiktok.mp4"
+   }
   ]
  },
  "amz_visto": {
@@ -18894,8 +18974,8 @@
    "feed": 2
   },
   "2026-11-14": {
-   "story": 5,
-   "feed": 0
+   "story": 6,
+   "feed": 1
   }
  },
  "ig_conta_ok": "2026-11-14",
