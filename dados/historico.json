@@ -1243,7 +1243,13 @@
   "2026-11-13 marcas 20:08 amz-B0GYGCBJVX",
   "2026-11-13 tech 20:15 amz-B0D936LKRP",
   "2026-11-13 marcas 20:23 amz-B0FFV49K88",
-  "2026-11-13 achadinhos 20:30 shopee-20299205359"
+  "2026-11-13 achadinhos 20:30 shopee-20299205359",
+  "2026-11-13 marcas 20:39 amz-B0CC6VM1R6",
+  "2026-11-13 tech 20:45 amz-B0F1C49115",
+  "2026-11-13 marcas 20:53 amz-B0H4W6R27Z",
+  "2026-11-13 tech 21:01 amz-B0DK3TBCRD",
+  "2026-11-13 marcas 21:08 amz-B0F6312WT5",
+  "2026-11-13 tech 21:16 amz-B0BRSSGBCN"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -2438,7 +2444,13 @@
   "amz-B0FWD9LJV4": "2026-11-13T20:01:49.766861-03:00",
   "amz-B0GYGCBJVX": "2026-11-13T20:08:58.176735-03:00",
   "amz-B0D936LKRP": "2026-11-13T20:15:28.780912-03:00",
-  "amz-B0FFV49K88": "2026-11-13T20:23:19.486808-03:00"
+  "amz-B0FFV49K88": "2026-11-13T20:23:19.486808-03:00",
+  "amz-B0CC6VM1R6": "2026-11-13T20:39:24.099537-03:00",
+  "amz-B0F1C49115": "2026-11-13T20:45:56.093204-03:00",
+  "amz-B0H4W6R27Z": "2026-11-13T20:53:24.079025-03:00",
+  "amz-B0DK3TBCRD": "2026-11-13T21:01:12.662775-03:00",
+  "amz-B0F6312WT5": "2026-11-13T21:08:12.663413-03:00",
+  "amz-B0BRSSGBCN": "2026-11-13T21:16:03.421893-03:00"
  },
  "ofertas_dia": [
   {
@@ -16250,6 +16262,111 @@
    "entrou": "2026-11-13T20:21:49.534614-03:00",
    "reprise_dias": 3,
    "dia": "2026-11-13"
+  },
+  {
+   "id": "amz-B0CC6VM1R6",
+   "canal": "marcas",
+   "nome": "Tênis de Corrida Mizuno Wave Falcon Feminino",
+   "preco_antigo": 379.0,
+   "preco": 206.99,
+   "desconto": 45,
+   "link": "https://www.amazon.com.br/dp/B0CC6VM1R6?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/617-4sTCKVL.jpg",
+   "loja": "Vendido pela Netshoes · Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-14T22:00:00-03:00",
+   "coletado_em": "2026-11-13T18:17:11-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "preco_em": "2026-11-13T18:17:11-03:00",
+   "entrou": "2026-11-13T18:24:16.101370-03:00",
+   "dia": "2026-11-13"
+  },
+  {
+   "id": "amz-B0F1C49115",
+   "canal": "tech",
+   "nome": "Monitor Gamer Samsung 24\" Full HD 100 Hz",
+   "preco_antigo": 710.0,
+   "preco": 488.7,
+   "desconto": 31,
+   "link": "https://www.amazon.com.br/dp/B0F1C49115?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/510mTWzS4lL.jpg",
+   "loja": "Vendido por parceiro · entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-14T22:00:00-03:00",
+   "coletado_em": "2026-11-13T18:17:11-03:00",
+   "preco_em": "2026-11-13T18:17:11-03:00",
+   "entrou": "2026-11-13T18:24:16.101370-03:00",
+   "dia": "2026-11-13"
+  },
+  {
+   "id": "amz-B0H4W6R27Z",
+   "canal": "marcas",
+   "nome": "Tênis de Corrida ASICS Gel-Venture Masculino",
+   "preco_antigo": 499.49,
+   "preco": 284.99,
+   "desconto": 43,
+   "link": "https://www.amazon.com.br/dp/B0H4W6R27Z?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71-bngkIGrL.jpg",
+   "loja": "Vendido pela Netshoes · Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-14T22:00:00-03:00",
+   "coletado_em": "2026-11-13T18:17:11-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "preco_em": "2026-11-13T18:17:11-03:00",
+   "entrou": "2026-11-13T18:24:16.101370-03:00",
+   "dia": "2026-11-13"
+  },
+  {
+   "id": "amz-B0DK3TBCRD",
+   "canal": "tech",
+   "nome": "Fone Bluetooth JBL Tune Flex 2",
+   "preco_antigo": 599.0,
+   "preco": 365.4,
+   "desconto": 39,
+   "link": "https://www.amazon.com.br/dp/B0DK3TBCRD?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51wS-euBmGL.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-14T22:00:00-03:00",
+   "coletado_em": "2026-11-13T18:17:11-03:00",
+   "preco_em": "2026-11-13T18:17:11-03:00",
+   "entrou": "2026-11-13T18:24:16.101370-03:00",
+   "dia": "2026-11-13"
+  },
+  {
+   "id": "amz-B0F6312WT5",
+   "canal": "marcas",
+   "nome": "Tênis Puma R78 Lightwind Unissex",
+   "preco_antigo": 449.99,
+   "preco": 239.9,
+   "desconto": 47,
+   "link": "https://www.amazon.com.br/dp/B0F6312WT5?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/711aCgID8kL.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-14T22:00:00-03:00",
+   "coletado_em": "2026-11-13T18:17:11-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "preco_em": "2026-11-13T18:17:11-03:00",
+   "entrou": "2026-11-13T18:24:16.101370-03:00",
+   "dia": "2026-11-13"
+  },
+  {
+   "id": "amz-B0BRSSGBCN",
+   "canal": "tech",
+   "nome": "Teclado Mecânico Gamer sem fio Logitech G PRO X 60",
+   "preco_antigo": 1199.9,
+   "preco": 809.91,
+   "desconto": 33,
+   "link": "https://www.amazon.com.br/dp/B0BRSSGBCN?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61eYcXZO94L.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-14T22:00:00-03:00",
+   "coletado_em": "2026-11-13T18:17:11-03:00",
+   "preco_em": "2026-11-13T18:17:11-03:00",
+   "entrou": "2026-11-13T18:24:16.101370-03:00",
+   "dia": "2026-11-13"
   }
  ],
  "ig_feitos": [
@@ -16382,7 +16499,9 @@
   "2026-11-13 18:42 story_oferta",
   "2026-11-13 feed",
   "2026-11-13 19:15 post_achado",
-  "2026-11-13 19:17 story_oferta"
+  "2026-11-13 19:17 story_oferta",
+  "2026-11-13 20:30 reels",
+  "2026-11-13 20:35 story_top4"
  ],
  "ig_ofertas_usadas": [
   "amz-B0B1LJFBPY",
@@ -16588,7 +16707,7 @@
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
- "ig_ultimo_reel": "2026-11-13T18:31:44.841884-03:00",
+ "ig_ultimo_reel": "2026-11-13T20:30:39.253014-03:00",
  "pecas_usadas": {
   "ac-preco-inflado": "2026-10-27",
   "dc-7-dias": "2026-10-27",
@@ -16655,105 +16774,6 @@
  },
  "ultimo_pilar": "humor",
  "fila": [
-  {
-   "id": "amz-B0CC6VM1R6",
-   "canal": "marcas",
-   "nome": "Tênis de Corrida Mizuno Wave Falcon Feminino",
-   "preco_antigo": 379.0,
-   "preco": 206.99,
-   "desconto": 45,
-   "link": "https://www.amazon.com.br/dp/B0CC6VM1R6?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/617-4sTCKVL.jpg",
-   "loja": "Vendido pela Netshoes · Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-14T22:00:00-03:00",
-   "coletado_em": "2026-11-13T18:17:11-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "preco_em": "2026-11-13T18:17:11-03:00",
-   "entrou": "2026-11-13T18:24:16.101370-03:00"
-  },
-  {
-   "id": "amz-B0H4W6R27Z",
-   "canal": "marcas",
-   "nome": "Tênis de Corrida ASICS Gel-Venture Masculino",
-   "preco_antigo": 499.49,
-   "preco": 284.99,
-   "desconto": 43,
-   "link": "https://www.amazon.com.br/dp/B0H4W6R27Z?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/71-bngkIGrL.jpg",
-   "loja": "Vendido pela Netshoes · Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-14T22:00:00-03:00",
-   "coletado_em": "2026-11-13T18:17:11-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "preco_em": "2026-11-13T18:17:11-03:00",
-   "entrou": "2026-11-13T18:24:16.101370-03:00"
-  },
-  {
-   "id": "amz-B0F6312WT5",
-   "canal": "marcas",
-   "nome": "Tênis Puma R78 Lightwind Unissex",
-   "preco_antigo": 449.99,
-   "preco": 239.9,
-   "desconto": 47,
-   "link": "https://www.amazon.com.br/dp/B0F6312WT5?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/711aCgID8kL.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-14T22:00:00-03:00",
-   "coletado_em": "2026-11-13T18:17:11-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "preco_em": "2026-11-13T18:17:11-03:00",
-   "entrou": "2026-11-13T18:24:16.101370-03:00"
-  },
-  {
-   "id": "amz-B0F1C49115",
-   "canal": "tech",
-   "nome": "Monitor Gamer Samsung 24\" Full HD 100 Hz",
-   "preco_antigo": 710.0,
-   "preco": 488.7,
-   "desconto": 31,
-   "link": "https://www.amazon.com.br/dp/B0F1C49115?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/510mTWzS4lL.jpg",
-   "loja": "Vendido por parceiro · entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-14T22:00:00-03:00",
-   "coletado_em": "2026-11-13T18:17:11-03:00",
-   "preco_em": "2026-11-13T18:17:11-03:00",
-   "entrou": "2026-11-13T18:24:16.101370-03:00"
-  },
-  {
-   "id": "amz-B0DK3TBCRD",
-   "canal": "tech",
-   "nome": "Fone Bluetooth JBL Tune Flex 2",
-   "preco_antigo": 599.0,
-   "preco": 365.4,
-   "desconto": 39,
-   "link": "https://www.amazon.com.br/dp/B0DK3TBCRD?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51wS-euBmGL.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-14T22:00:00-03:00",
-   "coletado_em": "2026-11-13T18:17:11-03:00",
-   "preco_em": "2026-11-13T18:17:11-03:00",
-   "entrou": "2026-11-13T18:24:16.101370-03:00"
-  },
-  {
-   "id": "amz-B0BRSSGBCN",
-   "canal": "tech",
-   "nome": "Teclado Mecânico Gamer sem fio Logitech G PRO X 60",
-   "preco_antigo": 1199.9,
-   "preco": 809.91,
-   "desconto": 33,
-   "link": "https://www.amazon.com.br/dp/B0BRSSGBCN?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61eYcXZO94L.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-14T22:00:00-03:00",
-   "coletado_em": "2026-11-13T18:17:11-03:00",
-   "preco_em": "2026-11-13T18:17:11-03:00",
-   "entrou": "2026-11-13T18:24:16.101370-03:00"
-  },
   {
    "id": "amz-B0D7QTMLYM",
    "canal": "tech",
@@ -17863,7 +17883,13 @@
   "headsetgamerjblquantum950semfio": "2026-11-13T20:01:49.766861-03:00",
   "tenispumacourtclassiccleanmasculino": "2026-11-13T20:08:58.176735-03:00",
   "fonesemfiosamsunggalaxybuds3": "2026-11-13T20:15:28.780912-03:00",
-  "tenismizunovirtue2": "2026-11-13T20:23:19.486808-03:00"
+  "tenismizunovirtue2": "2026-11-13T20:23:19.486808-03:00",
+  "tenisdecorridamizunowavefalconfeminino": "2026-11-13T20:39:24.099537-03:00",
+  "monitorgamersamsung24fullhd100hz": "2026-11-13T20:45:56.093204-03:00",
+  "tenisdecorridaasicsgelventuremasculino": "2026-11-13T20:53:24.079025-03:00",
+  "fonebluetoothjbltuneflex2": "2026-11-13T21:01:12.662775-03:00",
+  "tenispumar78lightwindunissex": "2026-11-13T21:08:12.663413-03:00",
+  "tecladomecanicogamersemfiologitechgprox60": "2026-11-13T21:16:03.421893-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
@@ -18098,10 +18124,15 @@
   ],
   "2026-11-13": [
    "shopee-50801661798",
+   "shopee-10677614679",
+   "shopee-22998796938",
+   "shopee-54114684881",
+   "shopee-42565175368",
    "shopee-22997647570",
    "shopee-22594959465",
-   "shopee-42565175368",
-   "shopee-54114684881"
+   "shopee-40717702468",
+   "shopee-20299205359",
+   "shopee-58204551307"
   ]
  },
  "vendas_shopee": {},
@@ -18230,14 +18261,14 @@
   "2026-11-10 noite marcas",
   "2026-11-12 noite marcas"
  ],
- "reserva_meio": "2026-11-13T20:21:49.534614-03:00",
+ "reserva_meio": "2026-11-13T21:01:12.634405-03:00",
  "reserva_cheia": {
   "achadinhos": "2026-11-13T20:21:49.534614-03:00",
   "tech": "2026-11-13T18:07:34.116827-03:00",
   "marcas": "2026-11-12T17:56:29.409807-03:00"
  },
  "top10_dia": "2026-11-07",
- "manuais_lidos": "2026-11-13T20:21:49.534614-03:00",
+ "manuais_lidos": "2026-11-13T21:08:07.296174-03:00",
  "reserva_resultado": {
   "2026-11-07": {
    "achadinhos": {
@@ -18408,7 +18439,7 @@
    "hora": "2026-11-11T20:32:35.453128-03:00"
   }
  },
- "ig_respondido_em": "2026-11-13T20:29:55.218786-03:00",
+ "ig_respondido_em": "2026-11-13T21:08:07.296174-03:00",
  "dm_auto": {
   "2026-11-08": {
    "com_palavra": 0,
@@ -18566,6 +18597,12 @@
     "capa": "uma_oferta",
     "legenda": "Manda pra quem tá precisando disso 👇\n😎💎 Escova secador Modeladora Taiff Oval Easy Pink Original\n\nOfertas todo dia no Telegram: papagarimpouofertas 💎\n\nPubli · link de afiliado",
     "url": "https://raw.githubusercontent.com/felipenery99-alt/papa-garimpou-robo/tiktok-midia/20261113-1831-tiktok.mp4"
+   },
+   {
+    "hora": "20:30",
+    "capa": "ate_off",
+    "legenda": "Manda pra quem tá precisando disso 👇\n😎💎 Até 60% OFF em marca boa: os 5 achados do Papa hoje\n\nOfertas todo dia no Telegram: papagarimpouofertas 💎\n\nPubli · link de afiliado",
+    "url": "https://raw.githubusercontent.com/felipenery99-alt/papa-garimpou-robo/tiktok-midia/20261113-2030-tiktok.mp4"
    }
   ]
  },
@@ -18690,7 +18727,7 @@
    "feed": 2
   },
   "2026-11-13": {
-   "story": 16,
+   "story": 17,
    "feed": 2
   }
  },

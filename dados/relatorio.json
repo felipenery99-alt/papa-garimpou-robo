@@ -2666,17 +2666,17 @@
    "erro em 2026-11-13 achadinhos 15:14 amz-B077C3SY25: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer')). Não postei.",
    "⚠️ Fila vazia (tech), último garimpo 13:21 — abrir o app Claude e conferir as rotinas"
   ],
-  "ultima_execucao": "19:49",
-  "execucoes": 19,
+  "ultima_execucao": "20:30",
+  "execucoes": 20,
   "telegram_posts": {
    "achadinhos": 37,
-   "marcas": 37,
-   "tech": 27
+   "marcas": 40,
+   "tech": 30
   },
   "ultimo_post": {
    "achadinhos": "20:30",
-   "marcas": "20:23",
-   "tech": "20:15"
+   "marcas": "21:08",
+   "tech": "21:16"
   },
   "meta_token": {
    "tipo": "SYSTEM_USER",
@@ -2729,7 +2729,9 @@
    "18:42 story_oferta",
    "feed",
    "19:15 post_achado",
-   "19:17 story_oferta"
+   "19:17 story_oferta",
+   "20:30 reels",
+   "20:35 story_top4"
   ],
   "shopee_ligada": true,
   "dm_auto": {
@@ -4037,7 +4039,7 @@
    "shopee-23599432415": "vendas longe",
    "shopee-58258973055": "vendas longe",
    "shopee-58208306666": "vendas longe",
-   "shopee-58259400776": "nota",
+   "shopee-58259400776": "vendas longe",
    "shopee-58217097003": "nota",
    "shopee-58208978612": "nota",
    "shopee-23794916264": "vendas longe",
@@ -5989,8 +5991,8 @@
    "shopee-13755330531": "vendas longe"
   },
   "shopee_oficial": {
-   "vendas longe": 1654,
-   "nota": 1164,
+   "vendas longe": 1655,
+   "nota": 1163,
    "vendas perto (125+)": 102,
    "outro: marca fora da lista boa": 96,
    "desconto longe": 72,
@@ -6292,21 +6294,26 @@
    "amz-B07RJYDD41": "ja_postado_30d",
    "amz-B0FWD9LJV4": "ja_postado_30d",
    "amz-B0GYGCBJVX": "ja_postado_30d",
-   "amz-B0D936LKRP": "ja_postado_30d"
+   "amz-B0D936LKRP": "ja_postado_30d",
+   "amz-B0FFV49K88": "ja_postado_30d",
+   "amz-B0CC6VM1R6": "ja_postado_30d",
+   "amz-B0F1C49115": "ja_postado_30d",
+   "amz-B0H4W6R27Z": "ja_postado_30d",
+   "amz-B0DK3TBCRD": "ja_postado_30d"
   },
   "manuais_descartados": {
-   "ja_postado_30d": 294
+   "ja_postado_30d": 299
   },
   "instagram": {
-   "seguidores": 484,
+   "seguidores": 485,
    "posts": 122,
-   "reach": 2993,
-   "profile_views": 86,
+   "reach": 3014,
+   "profile_views": 89,
    "website_clicks": 1,
    "stories_ativos": 17
   },
   "reels_alcance": {
-   "atualizado": "2026-11-13T19:49:28.579824-03:00",
+   "atualizado": "2026-11-13T20:30:39.253014-03:00",
    "itens": [
     {
      "id": "18230902090331796",
@@ -6493,6 +6500,11 @@
     "hora": "18:31",
     "capa": "uma_oferta",
     "url": "https://raw.githubusercontent.com/felipenery99-alt/papa-garimpou-robo/tiktok-midia/20261113-1831-tiktok.mp4"
+   },
+   {
+    "hora": "20:30",
+    "capa": "ate_off",
+    "url": "https://raw.githubusercontent.com/felipenery99-alt/papa-garimpou-robo/tiktok-midia/20261113-2030-tiktok.mp4"
    }
   ]
  }
