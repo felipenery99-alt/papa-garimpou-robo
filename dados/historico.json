@@ -1342,7 +1342,13 @@
   "2026-11-14 achadinhos 18:03 amz-B0DXMZB5GB",
   "2026-11-14 tech 18:10 amz-B0CHJXCJTW",
   "2026-11-14 achadinhos 18:18 amz-B09GSQMJ5T",
-  "2026-11-14 tech 18:26 amz-B07MC6RLN4"
+  "2026-11-14 tech 18:26 amz-B07MC6RLN4",
+  "2026-11-14 achadinhos 18:32 amz-B0C7D72S7Z",
+  "2026-11-14 marcas 18:39 amz-B0CDSDXQW4",
+  "2026-11-14 tech 18:46 amz-B0GR7FC9FF",
+  "2026-11-14 achadinhos 18:53 amz-B09N5G6DGX",
+  "2026-11-14 marcas 19:00 amz-B0041QLC9C",
+  "2026-11-14 tech 19:06 amz-B0CY5PBPJD"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -2630,7 +2636,13 @@
   "amz-B0DXMZB5GB": "2026-11-14T18:03:01.881349-03:00",
   "amz-B0CHJXCJTW": "2026-11-14T18:10:58.051733-03:00",
   "amz-B09GSQMJ5T": "2026-11-14T18:18:53.176319-03:00",
-  "amz-B07MC6RLN4": "2026-11-14T18:26:51.691918-03:00"
+  "amz-B07MC6RLN4": "2026-11-14T18:26:51.691918-03:00",
+  "amz-B0C7D72S7Z": "2026-11-14T18:32:17.070085-03:00",
+  "amz-B0CDSDXQW4": "2026-11-14T18:39:53.770393-03:00",
+  "amz-B0GR7FC9FF": "2026-11-14T18:46:56.646067-03:00",
+  "amz-B09N5G6DGX": "2026-11-14T18:53:19.970956-03:00",
+  "amz-B0041QLC9C": "2026-11-14T19:00:07.851660-03:00",
+  "amz-B0CY5PBPJD": "2026-11-14T19:06:29.903795-03:00"
  },
  "ofertas_dia": [
   {
@@ -17535,6 +17547,114 @@
    "preco_em": "2026-11-14T15:18:03-03:00",
    "entrou": "2026-11-14T15:23:26.395849-03:00",
    "dia": "2026-11-14"
+  },
+  {
+   "id": "amz-B0C7D72S7Z",
+   "canal": "achadinhos",
+   "nome": "Cafeteira Espresso Oster PrimaLatte Touch",
+   "preco_antigo": 1999.0,
+   "preco": 737.27,
+   "desconto": 63,
+   "link": "https://www.amazon.com.br/dp/B0C7D72S7Z?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61Nwem6YkSL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-15T22:00:00-03:00",
+   "coletado_em": "2026-11-14T15:18:03-03:00",
+   "gancho": "ESPRESSO OSTER COM 63% OFF",
+   "preco_em": "2026-11-14T15:18:03-03:00",
+   "entrou": "2026-11-14T15:23:26.395849-03:00",
+   "dia": "2026-11-14"
+  },
+  {
+   "id": "amz-B0CDSDXQW4",
+   "canal": "marcas",
+   "nome": "Chuteira Mizuno Morelia Club IN (futsal)",
+   "preco_antigo": 399.99,
+   "preco": 189.9,
+   "desconto": 53,
+   "link": "https://www.amazon.com.br/dp/B0CDSDXQW4?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51FOCnV3XvL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-15T22:00:00-03:00",
+   "coletado_em": "2026-11-14T18:16:48-03:00",
+   "gancho": "CHUTEIRA MIZUNO PELA METADE",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "preco_em": "2026-11-14T18:16:48-03:00",
+   "entrou": "2026-11-14T18:26:46.931671-03:00",
+   "dia": "2026-11-14"
+  },
+  {
+   "id": "amz-B0GR7FC9FF",
+   "canal": "tech",
+   "nome": "Monster Hunter Stories 3 Twisted Reflection - PS5",
+   "preco_antigo": 349.9,
+   "preco": 229.9,
+   "desconto": 34,
+   "link": "https://www.amazon.com.br/dp/B0GR7FC9FF?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71WZG33IZmL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-15T22:00:00-03:00",
+   "coletado_em": "2026-11-14T15:18:03-03:00",
+   "preco_em": "2026-11-14T15:18:03-03:00",
+   "entrou": "2026-11-14T15:23:26.395849-03:00",
+   "dia": "2026-11-14"
+  },
+  {
+   "id": "amz-B09N5G6DGX",
+   "canal": "achadinhos",
+   "nome": "Cafeteira Elétrica Mondial Dolce Arome 220V",
+   "preco_antigo": 229.9,
+   "preco": 113.99,
+   "desconto": 50,
+   "link": "https://www.amazon.com.br/dp/B09N5G6DGX?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/715Fs-3Vm5L._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-15T22:00:00-03:00",
+   "coletado_em": "2026-11-14T15:18:03-03:00",
+   "extra": "Versão 220V",
+   "preco_em": "2026-11-14T15:18:03-03:00",
+   "entrou": "2026-11-14T15:23:26.395849-03:00",
+   "dia": "2026-11-14"
+  },
+  {
+   "id": "amz-B0041QLC9C",
+   "canal": "marcas",
+   "nome": "Perfume Giorgio Armani Acqua di Gioia EDP 100ml",
+   "preco_antigo": 999.0,
+   "preco": 581.99,
+   "desconto": 42,
+   "link": "https://www.amazon.com.br/dp/B0041QLC9C?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51SzOM0LgcL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-15T22:00:00-03:00",
+   "coletado_em": "2026-11-14T18:16:48-03:00",
+   "gancho": "ACQUA DI GIOIA COM 42% OFF",
+   "preco_em": "2026-11-14T18:16:48-03:00",
+   "entrou": "2026-11-14T18:26:46.931671-03:00",
+   "dia": "2026-11-14"
+  },
+  {
+   "id": "amz-B0CY5PBPJD",
+   "canal": "tech",
+   "nome": "Microfone Sem Fio JBL PartyBox Wireless Mic",
+   "preco_antigo": 749.0,
+   "preco": 472.77,
+   "desconto": 37,
+   "link": "https://www.amazon.com.br/dp/B0CY5PBPJD?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/617cuZjLqUL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-15T22:00:00-03:00",
+   "coletado_em": "2026-11-14T15:18:03-03:00",
+   "gancho": "KARAOKÊ JBL COM 37% OFF",
+   "preco_em": "2026-11-14T15:18:03-03:00",
+   "entrou": "2026-11-14T15:23:26.395849-03:00",
+   "dia": "2026-11-14"
   }
  ],
  "ig_feitos": [
@@ -17655,7 +17775,8 @@
   "2026-11-14 16:44 story_oferta",
   "story especial pede-pro-papa 2026-11-14",
   "2026-11-14 18:05 a_ou_b",
-  "2026-11-14 18:09 story_oferta"
+  "2026-11-14 18:09 story_oferta",
+  "2026-11-14 18:30 reels"
  ],
  "ig_ofertas_usadas": [
   "amz-B0FPG9431G",
@@ -17861,7 +17982,7 @@
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
- "ig_ultimo_reel": "2026-11-14T12:06:57.002380-03:00",
+ "ig_ultimo_reel": "2026-11-14T18:32:07.180577-03:00",
  "pecas_usadas": {
   "ac-preco-inflado": "2026-10-27",
   "dc-7-dias": "2026-10-27",
@@ -17935,40 +18056,6 @@
  "ultimo_pilar": "mito",
  "fila": [
   {
-   "id": "amz-B0C7D72S7Z",
-   "canal": "achadinhos",
-   "nome": "Cafeteira Espresso Oster PrimaLatte Touch",
-   "preco_antigo": 1999.0,
-   "preco": 737.27,
-   "desconto": 63,
-   "link": "https://www.amazon.com.br/dp/B0C7D72S7Z?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61Nwem6YkSL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-15T22:00:00-03:00",
-   "coletado_em": "2026-11-14T15:18:03-03:00",
-   "gancho": "ESPRESSO OSTER COM 63% OFF",
-   "preco_em": "2026-11-14T15:18:03-03:00",
-   "entrou": "2026-11-14T15:23:26.395849-03:00"
-  },
-  {
-   "id": "amz-B09N5G6DGX",
-   "canal": "achadinhos",
-   "nome": "Cafeteira Elétrica Mondial Dolce Arome 220V",
-   "preco_antigo": 229.9,
-   "preco": 113.99,
-   "desconto": 50,
-   "link": "https://www.amazon.com.br/dp/B09N5G6DGX?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/715Fs-3Vm5L._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-15T22:00:00-03:00",
-   "coletado_em": "2026-11-14T15:18:03-03:00",
-   "extra": "Versão 220V",
-   "preco_em": "2026-11-14T15:18:03-03:00",
-   "entrou": "2026-11-14T15:23:26.395849-03:00"
-  },
-  {
    "id": "amz-B0CWLN6BQF",
    "canal": "achadinhos",
    "nome": "Cafeteira Britânia BCF19 Inox 18 Cafezinhos",
@@ -18031,39 +18118,6 @@
    "valida_ate": "2026-11-15T22:00:00-03:00",
    "coletado_em": "2026-11-14T15:18:03-03:00",
    "gancho": "TRAMONTINA QUASE PELA METADE",
-   "preco_em": "2026-11-14T15:18:03-03:00",
-   "entrou": "2026-11-14T15:23:26.395849-03:00"
-  },
-  {
-   "id": "amz-B0GR7FC9FF",
-   "canal": "tech",
-   "nome": "Monster Hunter Stories 3 Twisted Reflection - PS5",
-   "preco_antigo": 349.9,
-   "preco": 229.9,
-   "desconto": 34,
-   "link": "https://www.amazon.com.br/dp/B0GR7FC9FF?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/71WZG33IZmL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-15T22:00:00-03:00",
-   "coletado_em": "2026-11-14T15:18:03-03:00",
-   "preco_em": "2026-11-14T15:18:03-03:00",
-   "entrou": "2026-11-14T15:23:26.395849-03:00"
-  },
-  {
-   "id": "amz-B0CY5PBPJD",
-   "canal": "tech",
-   "nome": "Microfone Sem Fio JBL PartyBox Wireless Mic",
-   "preco_antigo": 749.0,
-   "preco": 472.77,
-   "desconto": 37,
-   "link": "https://www.amazon.com.br/dp/B0CY5PBPJD?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/617cuZjLqUL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-15T22:00:00-03:00",
-   "coletado_em": "2026-11-14T15:18:03-03:00",
-   "gancho": "KARAOKÊ JBL COM 37% OFF",
    "preco_em": "2026-11-14T15:18:03-03:00",
    "entrou": "2026-11-14T15:23:26.395849-03:00"
   },
@@ -18329,41 +18383,6 @@
    "valida_ate": "2026-11-15T22:00:00-03:00",
    "coletado_em": "2026-11-14T18:16:48-03:00",
    "gancho": "WAP QUASE PELA METADE",
-   "preco_em": "2026-11-14T18:16:48-03:00",
-   "entrou": "2026-11-14T18:26:46.931671-03:00"
-  },
-  {
-   "id": "amz-B0CDSDXQW4",
-   "canal": "marcas",
-   "nome": "Chuteira Mizuno Morelia Club IN (futsal)",
-   "preco_antigo": 399.99,
-   "preco": 189.9,
-   "desconto": 53,
-   "link": "https://www.amazon.com.br/dp/B0CDSDXQW4?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51FOCnV3XvL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-15T22:00:00-03:00",
-   "coletado_em": "2026-11-14T18:16:48-03:00",
-   "gancho": "CHUTEIRA MIZUNO PELA METADE",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "preco_em": "2026-11-14T18:16:48-03:00",
-   "entrou": "2026-11-14T18:26:46.931671-03:00"
-  },
-  {
-   "id": "amz-B0041QLC9C",
-   "canal": "marcas",
-   "nome": "Perfume Giorgio Armani Acqua di Gioia EDP 100ml",
-   "preco_antigo": 999.0,
-   "preco": 581.99,
-   "desconto": 42,
-   "link": "https://www.amazon.com.br/dp/B0041QLC9C?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51SzOM0LgcL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-15T22:00:00-03:00",
-   "coletado_em": "2026-11-14T18:16:48-03:00",
-   "gancho": "ACQUA DI GIOIA COM 42% OFF",
    "preco_em": "2026-11-14T18:16:48-03:00",
    "entrou": "2026-11-14T18:26:46.931671-03:00"
   },
@@ -19711,7 +19730,13 @@
   "escovasecadorabritaniaviihtubebes36": "2026-11-14T18:03:01.881349-03:00",
   "headsetgamerhavit": "2026-11-14T18:10:58.051733-03:00",
   "mascaralorealprofessionnelprolonger": "2026-11-14T18:18:53.176319-03:00",
-  "mousegamerhavitms1001srgb": "2026-11-14T18:26:51.691918-03:00"
+  "mousegamerhavitms1001srgb": "2026-11-14T18:26:51.691918-03:00",
+  "cafeteiraespressoosterprimalattetouch": "2026-11-14T18:32:17.070085-03:00",
+  "chuteiramizunomoreliaclubinfutsal": "2026-11-14T18:39:53.770393-03:00",
+  "monsterhunterstories3twistedreflectionps5": "2026-11-14T18:46:56.646067-03:00",
+  "cafeteiraeletricamondialdolcearome220v": "2026-11-14T18:53:19.970956-03:00",
+  "perfumegiorgioarmaniacquadigioiaedp100ml": "2026-11-14T19:00:07.851660-03:00",
+  "microfonesemfiojblpartyboxwirelessmic": "2026-11-14T19:06:29.903795-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
@@ -19959,7 +19984,8 @@
   "2026-11-14": [
    "shopee-20298661104",
    "shopee-58211443678",
-   "shopee-50559775356"
+   "shopee-50559775356",
+   "shopee-21116473058"
   ]
  },
  "vendas_shopee": {},
@@ -20053,7 +20079,7 @@
  },
  "story_link_dia": "2026-11-14",
  "pede_semana": "2026-46",
- "ultimo_garimpo": "2026-11-14T15:18:14-03:00",
+ "ultimo_garimpo": "2026-11-14T18:18:56-03:00",
  "vigia_aviso_post": "2026-11-09T18:27:03.734589-03:00",
  "vigia_aviso_garimpo": "2026-11-14T11:21:45.539968-03:00",
  "resumo_enviado": "2026-11-13",
@@ -20097,7 +20123,7 @@
   "marcas": "2026-11-12T17:56:29.409807-03:00"
  },
  "top10_dia": "2026-11-07",
- "manuais_lidos": "2026-11-14T18:26:46.931671-03:00",
+ "manuais_lidos": "2026-11-14T19:06:29.552252-03:00",
  "reserva_resultado": {
   "2026-11-07": {
    "achadinhos": {
@@ -20285,7 +20311,7 @@
    "hora": "2026-11-11T20:32:35.453128-03:00"
   }
  },
- "ig_respondido_em": "2026-11-14T18:26:46.931671-03:00",
+ "ig_respondido_em": "2026-11-14T19:00:03.893493-03:00",
  "dm_auto": {
   "2026-11-08": {
    "com_palavra": 0,
@@ -20463,34 +20489,16 @@
     "capa": "ate_off",
     "legenda": "Manda pra quem tá precisando disso 👇\n😎💎 Até 60% OFF em marca boa: os 3 achados do Papa hoje\n\nOfertas todo dia no Telegram: papagarimpouofertas 💎\n\nPubli · link de afiliado",
     "url": "https://raw.githubusercontent.com/felipenery99-alt/papa-garimpou-robo/tiktok-midia/20261114-1206-tiktok.mp4"
+   },
+   {
+    "hora": "18:32",
+    "capa": "uma_oferta",
+    "legenda": "Manda pra quem tá precisando disso 👇\n😎💎 Kit De 9 Pares Meias Lupo Kids Infantil Cano Curto Algodão Tamanho 24 ao 36\n\nOfertas todo dia no Telegram: papagarimpouofertas 💎\n\nPubli · link de afiliado",
+    "url": "https://raw.githubusercontent.com/felipenery99-alt/papa-garimpou-robo/tiktok-midia/20261114-1832-tiktok.mp4"
    }
   ]
  },
- "amz_visto": {
-  "amz-B0H91SW8FW|29.61": "2026-11-11T18:50:54-03:00",
-  "amz-B0DXR6MKR8|3099.0": "2026-11-11T18:50:54-03:00",
-  "amz-B0C2ZNDWK6|72.11": "2026-11-11T18:50:54-03:00",
-  "amz-B077SYYBVZ|48.44": "2026-11-11T18:50:54-03:00",
-  "amz-B0CP6BZHK3|4219.0": "2026-11-11T18:50:54-03:00",
-  "amz-B0FLFWP47Z|107.92": "2026-11-11T18:50:54-03:00",
-  "amz-B0GTRPYH9M|5130.17": "2026-11-11T18:50:54-03:00",
-  "amz-B0DXN35GR8|151.3": "2026-11-11T18:50:54-03:00",
-  "amz-B0DY2MB9WT|649.0": "2026-11-11T18:50:54-03:00",
-  "amz-B08JPLVFF7|399.0": "2026-11-11T18:50:54-03:00",
-  "amz-B0HC4X5798|179.99": "2026-11-11T18:50:54-03:00",
-  "amz-B0FYQ5TQDL|492.15": "2026-11-11T18:50:54-03:00",
-  "amz-B0F9PXSDHS|176.89": "2026-11-11T18:50:54-03:00",
-  "amz-B07C91RQZ4|95.18": "2026-11-11T18:50:54-03:00",
-  "amz-B08YHR9C4S|119.9": "2026-11-11T18:50:54-03:00",
-  "amz-B0FKTPDBVL|239.32": "2026-11-11T18:50:54-03:00",
-  "amz-B0GL4RK6Z2|104.5": "2026-11-11T18:50:54-03:00",
-  "amz-B0GPFCC9PK|1519.05": "2026-11-11T18:50:54-03:00",
-  "amz-B0FYS6ZHB4|67.42": "2026-11-11T18:50:54-03:00",
-  "amz-B0BNP2NSRT|40.9": "2026-11-11T18:50:54-03:00",
-  "amz-B0GZX5BR6D|84.55": "2026-11-11T18:50:54-03:00",
-  "amz-B00RM1EC1S|69.52": "2026-11-11T18:50:54-03:00",
-  "amz-B0GP36NXCM|139.9": "2026-11-11T18:50:54-03:00"
- },
+ "amz_visto": {},
  "ig_cont": {
   "2026-11-11": {
    "story": 0,
