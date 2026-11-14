@@ -16367,6 +16367,23 @@
    "canal": "marcas",
    "entrou": "2026-11-14T00:02:11.185012-03:00",
    "reprise_dias": 7
+  },
+  {
+   "id": "shopee-3258773144",
+   "plataforma": "Shopee",
+   "nome": "Baseus EnerFill FN22 Fast Charger 1C PD 20W/30W/45W Safety Protections Mini Gan Tech Adapter for IPhone 17",
+   "loja": "Baseus Oficial Store",
+   "loja_oficial": true,
+   "preco": 49.49,
+   "preco_antigo": 137.47,
+   "desconto": 64,
+   "vendas": 568,
+   "nota": 4.9,
+   "comissao_pct": 7.0,
+   "imagem": "https://cf.shopee.com.br/file/cn-11134207-820l4-mmzna00skykoe1",
+   "link": "https://s.shopee.com.br/906kLS31zO",
+   "canal": "tech",
+   "entrou": "2026-11-14T00:30:11.558882-03:00"
   }
  ],
  "menus_fixados": [
@@ -17804,7 +17821,7 @@
   "marcas": "2026-11-12T17:56:29.409807-03:00"
  },
  "top10_dia": "2026-11-07",
- "manuais_lidos": "2026-11-14T00:13:02.594648-03:00",
+ "manuais_lidos": "2026-11-14T00:43:19.076115-03:00",
  "reserva_resultado": {
   "2026-11-07": {
    "achadinhos": {
@@ -17992,7 +18009,7 @@
    "hora": "2026-11-11T20:32:35.453128-03:00"
   }
  },
- "ig_respondido_em": "2026-11-14T00:13:02.594648-03:00",
+ "ig_respondido_em": "2026-11-14T00:43:19.076115-03:00",
  "dm_auto": {
   "2026-11-08": {
    "com_palavra": 0,
