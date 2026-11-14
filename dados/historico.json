@@ -1293,7 +1293,13 @@
   "2026-11-14 achadinhos 12:31 shopee-23494293697",
   "2026-11-14 achadinhos 12:38 amz-B076M8G7VT",
   "2026-11-14 marcas 12:45 shopee-21116473058",
-  "2026-11-14 tech 12:52 amz-B01M5GZ228"
+  "2026-11-14 tech 12:52 amz-B01M5GZ228",
+  "2026-11-14 achadinhos 12:57 amz-B076BB8J7Z",
+  "2026-11-14 marcas 13:05 shopee-27481488690",
+  "2026-11-14 tech 13:12 amz-B0FHYLZ7W1",
+  "2026-11-14 achadinhos 13:19 amz-B0C9G2QNS9",
+  "2026-11-14 marcas 13:26 amz-B07XS4Q829",
+  "2026-11-14 tech 13:32 amz-B0CYW2N6TX"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -1655,7 +1661,7 @@
   "shopee-18516472597": "2026-11-13T13:31:31.057037-03:00",
   "amz-B0FMYR9C72": "2026-11-02T13:43:08.347333-03:00",
   "amz-B0CX1VM979": "2026-11-02T13:58:34.189287-03:00",
-  "shopee-27481488690": "2026-11-02T14:27:26.380140-03:00",
+  "shopee-27481488690": "2026-11-14T13:05:40.259418-03:00",
   "amz-B0FDXC3Q9M": "2026-11-02T14:36:04.621654-03:00",
   "amz-B0BQBRS3WC": "2026-11-02T14:47:11.501327-03:00",
   "amz-B08DHW4CT9": "2026-11-02T14:54:48.251961-03:00",
@@ -2533,7 +2539,12 @@
   "amz-B0FH3K45PH": "2026-11-14T12:22:50.486101-03:00",
   "shopee-23494293697": "2026-11-14T12:31:06.146612-03:00",
   "amz-B076M8G7VT": "2026-11-14T12:38:48.225449-03:00",
-  "amz-B01M5GZ228": "2026-11-14T12:52:24.155202-03:00"
+  "amz-B01M5GZ228": "2026-11-14T12:52:24.155202-03:00",
+  "amz-B076BB8J7Z": "2026-11-14T12:57:54.402021-03:00",
+  "amz-B0FHYLZ7W1": "2026-11-14T13:12:39.125598-03:00",
+  "amz-B0C9G2QNS9": "2026-11-14T13:19:22.892991-03:00",
+  "amz-B07XS4Q829": "2026-11-14T13:26:36.318798-03:00",
+  "amz-B0CYW2N6TX": "2026-11-14T13:32:44.916203-03:00"
  },
  "ofertas_dia": [
   {
@@ -16591,6 +16602,110 @@
    "preco_em": "2026-11-14T12:20:00-03:00",
    "entrou": "2026-11-14T12:38:47.781530-03:00",
    "dia": "2026-11-14"
+  },
+  {
+   "id": "amz-B076BB8J7Z",
+   "canal": "achadinhos",
+   "nome": "Liquidificador Philco PH900 3L Preto 220V",
+   "preco_antigo": 249.9,
+   "preco": 113.89,
+   "desconto": 54,
+   "link": "https://www.amazon.com.br/dp/B076BB8J7Z?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51UcFkAcKDL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-15T22:00:00-03:00",
+   "coletado_em": "2026-11-14T12:20:00-03:00",
+   "preco_em": "2026-11-14T12:20:00-03:00",
+   "entrou": "2026-11-14T12:38:47.781530-03:00",
+   "dia": "2026-11-14"
+  },
+  {
+   "id": "shopee-27481488690",
+   "plataforma": "Shopee",
+   "nome": "Kit com 4 Pares de Meias Lupo Sport Infantil Cano Médio Algodão Cores Básicas Menino e Menina",
+   "loja": "Deccó",
+   "loja_oficial": true,
+   "preco": 35.99,
+   "preco_antigo": 58.05,
+   "desconto": 38,
+   "vendas": 574,
+   "nota": 4.9,
+   "comissao_pct": 10.0,
+   "imagem": "https://cf.shopee.com.br/file/br-11134207-820lz-mv3i1326bz0i41",
+   "link": "https://s.shopee.com.br/8AXanToRp8",
+   "canal": "marcas",
+   "entrou": "2026-11-14T10:35:05.021117-03:00",
+   "dia": "2026-11-14"
+  },
+  {
+   "id": "amz-B0FHYLZ7W1",
+   "canal": "tech",
+   "nome": "Caixa de Som Bluetooth AIWA SP-05 30W à prova d'água IPX5",
+   "preco_antigo": 599.0,
+   "preco": 303.0,
+   "desconto": 49,
+   "link": "https://www.amazon.com.br/dp/B0FHYLZ7W1?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/818o0JxXW8L._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-15T22:00:00-03:00",
+   "coletado_em": "2026-11-14T12:20:00-03:00",
+   "preco_em": "2026-11-14T12:20:00-03:00",
+   "entrou": "2026-11-14T12:38:47.781530-03:00",
+   "dia": "2026-11-14"
+  },
+  {
+   "id": "amz-B0C9G2QNS9",
+   "canal": "achadinhos",
+   "nome": "Secador de Cabelo GA.MA Italy Lichia Ceramic Ion 2100W",
+   "preco_antigo": 249.9,
+   "preco": 120.69,
+   "desconto": 52,
+   "link": "https://www.amazon.com.br/dp/B0C9G2QNS9?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/41SKap2yyhL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-15T22:00:00-03:00",
+   "coletado_em": "2026-11-14T12:20:00-03:00",
+   "preco_em": "2026-11-14T12:20:00-03:00",
+   "entrou": "2026-11-14T12:38:47.781530-03:00",
+   "dia": "2026-11-14"
+  },
+  {
+   "id": "amz-B07XS4Q829",
+   "canal": "marcas",
+   "nome": "Regata Hering Feminina Slim em Ribana Canelada",
+   "preco_antigo": 69.99,
+   "preco": 46.9,
+   "desconto": 33,
+   "link": "https://www.amazon.com.br/dp/B07XS4Q829?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51VHm-P0icL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-15T22:00:00-03:00",
+   "coletado_em": "2026-11-14T08:20:00-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "preco_em": "2026-11-14T08:20:00-03:00",
+   "entrou": "2026-11-14T11:20:22.993869-03:00",
+   "dia": "2026-11-14"
+  },
+  {
+   "id": "amz-B0CYW2N6TX",
+   "canal": "tech",
+   "nome": "Notebook ASUS VivoBook Go 15 Ryzen 5 8GB SSD 512GB",
+   "preco_antigo": 4299.0,
+   "preco": 2519.14,
+   "desconto": 41,
+   "link": "https://www.amazon.com.br/dp/B0CYW2N6TX?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71TK+vh6JIL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-15T22:00:00-03:00",
+   "coletado_em": "2026-11-14T12:20:00-03:00",
+   "preco_em": "2026-11-14T12:20:00-03:00",
+   "entrou": "2026-11-14T12:38:47.781530-03:00",
+   "dia": "2026-11-14"
   }
  ],
  "ig_feitos": [
@@ -16703,10 +16818,10 @@
   "2026-11-14 11:56 story_oferta",
   "2026-11-14 12:00 reels",
   "2026-11-14 12:15 story_top4",
-  "2026-11-14 12:47 story_oferta"
+  "2026-11-14 12:47 story_oferta",
+  "2026-11-14 13:20 story_convite"
  ],
  "ig_ofertas_usadas": [
-  "amz-B0D27SFGFJ",
   "amz-B0BYWL962Q",
   "amz-B0G87ZRVV1",
   "amz-B08R9341ZB",
@@ -16981,72 +17096,6 @@
  },
  "ultimo_pilar": "mito",
  "fila": [
-  {
-   "id": "shopee-27481488690",
-   "plataforma": "Shopee",
-   "nome": "Kit com 4 Pares de Meias Lupo Sport Infantil Cano Médio Algodão Cores Básicas Menino e Menina",
-   "loja": "Deccó",
-   "loja_oficial": true,
-   "preco": 35.99,
-   "preco_antigo": 58.05,
-   "desconto": 38,
-   "vendas": 574,
-   "nota": 4.9,
-   "comissao_pct": 10.0,
-   "imagem": "https://cf.shopee.com.br/file/br-11134207-820lz-mv3i1326bz0i41",
-   "link": "https://s.shopee.com.br/8AXanToRp8",
-   "canal": "marcas",
-   "entrou": "2026-11-14T10:35:05.021117-03:00"
-  },
-  {
-   "id": "amz-B07XS4Q829",
-   "canal": "marcas",
-   "nome": "Regata Hering Feminina Slim em Ribana Canelada",
-   "preco_antigo": 69.99,
-   "preco": 46.9,
-   "desconto": 33,
-   "link": "https://www.amazon.com.br/dp/B07XS4Q829?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51VHm-P0icL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-15T22:00:00-03:00",
-   "coletado_em": "2026-11-14T08:20:00-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "preco_em": "2026-11-14T08:20:00-03:00",
-   "entrou": "2026-11-14T11:20:22.993869-03:00"
-  },
-  {
-   "id": "amz-B076BB8J7Z",
-   "canal": "achadinhos",
-   "nome": "Liquidificador Philco PH900 3L Preto 220V",
-   "preco_antigo": 249.9,
-   "preco": 113.89,
-   "desconto": 54,
-   "link": "https://www.amazon.com.br/dp/B076BB8J7Z?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51UcFkAcKDL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-15T22:00:00-03:00",
-   "coletado_em": "2026-11-14T12:20:00-03:00",
-   "preco_em": "2026-11-14T12:20:00-03:00",
-   "entrou": "2026-11-14T12:38:47.781530-03:00"
-  },
-  {
-   "id": "amz-B0C9G2QNS9",
-   "canal": "achadinhos",
-   "nome": "Secador de Cabelo GA.MA Italy Lichia Ceramic Ion 2100W",
-   "preco_antigo": 249.9,
-   "preco": 120.69,
-   "desconto": 52,
-   "link": "https://www.amazon.com.br/dp/B0C9G2QNS9?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/41SKap2yyhL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-15T22:00:00-03:00",
-   "coletado_em": "2026-11-14T12:20:00-03:00",
-   "preco_em": "2026-11-14T12:20:00-03:00",
-   "entrou": "2026-11-14T12:38:47.781530-03:00"
-  },
   {
    "id": "amz-B0BYK6RQHB",
    "canal": "achadinhos",
@@ -17402,38 +17451,6 @@
    "coletado_em": "2026-11-14T12:15:00-03:00",
    "extra": "Preço a partir de: varia por tamanho e cor",
    "preco_em": "2026-11-14T12:15:00-03:00",
-   "entrou": "2026-11-14T12:38:47.781530-03:00"
-  },
-  {
-   "id": "amz-B0FHYLZ7W1",
-   "canal": "tech",
-   "nome": "Caixa de Som Bluetooth AIWA SP-05 30W à prova d'água IPX5",
-   "preco_antigo": 599.0,
-   "preco": 303.0,
-   "desconto": 49,
-   "link": "https://www.amazon.com.br/dp/B0FHYLZ7W1?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/818o0JxXW8L._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-15T22:00:00-03:00",
-   "coletado_em": "2026-11-14T12:20:00-03:00",
-   "preco_em": "2026-11-14T12:20:00-03:00",
-   "entrou": "2026-11-14T12:38:47.781530-03:00"
-  },
-  {
-   "id": "amz-B0CYW2N6TX",
-   "canal": "tech",
-   "nome": "Notebook ASUS VivoBook Go 15 Ryzen 5 8GB SSD 512GB",
-   "preco_antigo": 4299.0,
-   "preco": 2519.14,
-   "desconto": 41,
-   "link": "https://www.amazon.com.br/dp/B0CYW2N6TX?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/71TK+vh6JIL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-15T22:00:00-03:00",
-   "coletado_em": "2026-11-14T12:20:00-03:00",
-   "preco_em": "2026-11-14T12:20:00-03:00",
    "entrou": "2026-11-14T12:38:47.781530-03:00"
   },
   {
@@ -17843,7 +17860,7 @@
   "kitde3paresmeiaslupokidsinfantilcanocurtoalgodaotamanho24ao35": "2026-11-13T13:31:31.057037-03:00",
   "easportsfc26playstation5": "2026-11-02T13:43:08.347333-03:00",
   "liquidificadorphilipswalitaserie3000turbo1000w220v": "2026-11-02T13:58:34.189287-03:00",
-  "kitcom4paresdemeiasluposportinfantilcanomedioalgodaocoresbasicasmeninoemenina": "2026-11-02T14:27:26.380140-03:00",
+  "kitcom4paresdemeiasluposportinfantilcanomedioalgodaocoresbasicasmeninoemenina": "2026-11-14T13:05:40.259418-03:00",
   "samsunggalaxywatch8smartwatch44mmgrafite": "2026-11-02T14:36:04.621654-03:00",
   "tecladogamersemfiologitechgproxtkl": "2026-11-02T14:47:11.501327-03:00",
   "perfumemywaygiorgioarmanifemininoedp": "2026-11-02T14:54:48.251961-03:00",
@@ -18718,7 +18735,12 @@
   "tenisfilafreestyleiimasculino": "2026-11-14T12:22:50.486101-03:00",
   "aspiradordepoeaguawapgtw15inox1700w148l220vfw008810": "2026-11-14T12:31:06.146612-03:00",
   "maletadeferramentastramontina65pecas": "2026-11-14T12:38:48.225449-03:00",
-  "fonedeouvidojbltune110branco": "2026-11-14T12:52:24.155202-03:00"
+  "fonedeouvidojbltune110branco": "2026-11-14T12:52:24.155202-03:00",
+  "liquidificadorphilcoph9003lpreto220v": "2026-11-14T12:57:54.402021-03:00",
+  "caixadesombluetoothaiwasp0530waprovadaguaipx5": "2026-11-14T13:12:39.125598-03:00",
+  "secadordecabelogamaitalylichiaceramicion2100w": "2026-11-14T13:19:22.892991-03:00",
+  "regataheringfemininaslimemribanacanelada": "2026-11-14T13:26:36.318798-03:00",
+  "notebookasusvivobookgo15ryzen58gbssd512gb": "2026-11-14T13:32:44.916203-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
@@ -19060,7 +19082,7 @@
  },
  "story_link_dia": "2026-11-13",
  "pede_semana": "2026-46",
- "ultimo_garimpo": "2026-11-14T08:23:51-03:00",
+ "ultimo_garimpo": "2026-11-14T12:23:12-03:00",
  "vigia_aviso_post": "2026-11-09T18:27:03.734589-03:00",
  "vigia_aviso_garimpo": "2026-11-14T11:21:45.539968-03:00",
  "resumo_enviado": "2026-11-13",
@@ -19104,7 +19126,7 @@
   "marcas": "2026-11-12T17:56:29.409807-03:00"
  },
  "top10_dia": "2026-11-07",
- "manuais_lidos": "2026-11-14T12:52:09.136062-03:00",
+ "manuais_lidos": "2026-11-14T13:32:44.574899-03:00",
  "reserva_resultado": {
   "2026-11-07": {
    "achadinhos": {
@@ -19292,7 +19314,7 @@
    "hora": "2026-11-11T20:32:35.453128-03:00"
   }
  },
- "ig_respondido_em": "2026-11-14T12:52:09.136062-03:00",
+ "ig_respondido_em": "2026-11-14T13:26:20.805496-03:00",
  "dm_auto": {
   "2026-11-08": {
    "com_palavra": 0,
@@ -19556,7 +19578,7 @@
    "feed": 2
   },
   "2026-11-14": {
-   "story": 8,
+   "story": 9,
    "feed": 1
   }
  },
