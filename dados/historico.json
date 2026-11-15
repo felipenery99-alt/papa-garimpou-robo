@@ -1427,7 +1427,14 @@
   "2026-11-15 tech 13:55 amz-B0FNWFXG2W",
   "2026-11-15 achadinhos 14:02 amz-B0GWFKB9YV",
   "2026-11-15 marcas 14:10 amz-B07HRHBLCF",
-  "2026-11-15 tech 14:17 amz-B0FQHFTDF7"
+  "2026-11-15 tech 14:17 amz-B0FQHFTDF7",
+  "2026-11-15 achadinhos 14:23 amz-B0CWC3KCR1",
+  "2026-11-15 achadinhos 14:26 amz-B08HSFTVP1",
+  "2026-11-15 marcas 14:32 amz-B0FG5N9BYG",
+  "2026-11-15 tech 14:39 amz-B0C5DK38R9",
+  "2026-11-15 achadinhos 14:46 amz-B099ZCGZK9",
+  "2026-11-15 marcas 14:53 amz-B0DYC23WNG",
+  "2026-11-15 tech 15:01 amz-B0FG2MD49G"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -2792,7 +2799,14 @@
   "amz-B0FNWFXG2W": "2026-11-15T13:55:57.959520-03:00",
   "amz-B0GWFKB9YV": "2026-11-15T14:02:19.443851-03:00",
   "amz-B07HRHBLCF": "2026-11-15T14:10:35.737400-03:00",
-  "amz-B0FQHFTDF7": "2026-11-15T14:17:13.743138-03:00"
+  "amz-B0FQHFTDF7": "2026-11-15T14:17:13.743138-03:00",
+  "amz-B0CWC3KCR1": "2026-11-15T14:23:29.508421-03:00",
+  "amz-B08HSFTVP1": "2026-11-15T14:26:11.957686-03:00",
+  "amz-B0FG5N9BYG": "2026-11-15T14:32:28.222177-03:00",
+  "amz-B0C5DK38R9": "2026-11-15T14:39:20.400341-03:00",
+  "amz-B099ZCGZK9": "2026-11-15T14:46:01.916589-03:00",
+  "amz-B0DYC23WNG": "2026-11-15T14:53:59.136496-03:00",
+  "amz-B0FG2MD49G": "2026-11-15T15:01:55.610833-03:00"
  },
  "ofertas_dia": [
   {
@@ -18341,6 +18355,128 @@
    "preco_em": "2026-11-15T12:18:12-03:00",
    "entrou": "2026-11-15T12:27:23.713939-03:00",
    "dia": "2026-11-15"
+  },
+  {
+   "id": "amz-B0CWC3KCR1",
+   "canal": "achadinhos",
+   "nome": "Ferro a Vapor Philips Walita PerfectCare Série 6000",
+   "preco_antigo": 2299.9,
+   "preco": 1009.42,
+   "desconto": 56,
+   "link": "https://www.amazon.com.br/dp/B0CWC3KCR1?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/512SccpXv-L._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-16T22:00:00-03:00",
+   "coletado_em": "2026-11-15T12:18:12-03:00",
+   "preco_em": "2026-11-15T12:18:12-03:00",
+   "entrou": "2026-11-15T12:27:23.713939-03:00",
+   "dia": "2026-11-15"
+  },
+  {
+   "id": "amz-B08HSFTVP1",
+   "canal": "achadinhos",
+   "nome": "Protetor Solar Corporal Australian Gold Gel Creme",
+   "preco_antigo": 89.99,
+   "preco": 43.6,
+   "desconto": 52,
+   "link": "https://www.amazon.com.br/dp/B08HSFTVP1?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51RzUZDCdLL._AC_SL1000_.jpg",
+   "loja": "Vendido por parceiro · entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-16T22:00:00-03:00",
+   "coletado_em": "2026-11-15T12:18:12-03:00",
+   "preco_em": "2026-11-15T12:18:12-03:00",
+   "entrou": "2026-11-15T12:27:23.713939-03:00",
+   "dia": "2026-11-15"
+  },
+  {
+   "id": "amz-B0FG5N9BYG",
+   "canal": "marcas",
+   "nome": "Tênis Mizuno Cool Ride 3 Junior",
+   "preco_antigo": 349.99,
+   "preco": 179.9,
+   "desconto": 49,
+   "link": "https://www.amazon.com.br/dp/B0FG5N9BYG?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61pvqiz4yrL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-16T22:00:00-03:00",
+   "coletado_em": "2026-11-15T08:20:41-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "preco_em": "2026-11-15T08:20:41-03:00",
+   "entrou": "2026-11-15T12:27:23.713939-03:00",
+   "dia": "2026-11-15"
+  },
+  {
+   "id": "amz-B0C5DK38R9",
+   "canal": "tech",
+   "nome": "Teclado Mecânico Gamer Redragon Fizz 60% RGB",
+   "preco_antigo": 243.75,
+   "preco": 129.99,
+   "desconto": 47,
+   "link": "https://www.amazon.com.br/dp/B0C5DK38R9?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51UD1j4Y59L._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-16T22:00:00-03:00",
+   "coletado_em": "2026-11-15T12:18:12-03:00",
+   "preco_em": "2026-11-15T12:18:12-03:00",
+   "entrou": "2026-11-15T12:27:23.713939-03:00",
+   "dia": "2026-11-15"
+  },
+  {
+   "id": "amz-B099ZCGZK9",
+   "canal": "achadinhos",
+   "nome": "Cafeteira Nespresso Essenza Mini Branca 110V",
+   "preco_antigo": 829.0,
+   "preco": 455.05,
+   "desconto": 45,
+   "link": "https://www.amazon.com.br/dp/B099ZCGZK9?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51OmeGN0wGL._AC_SL1000_.jpg",
+   "loja": "Loja oficial Nespresso · entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-16T22:00:00-03:00",
+   "coletado_em": "2026-11-15T12:18:12-03:00",
+   "gancho": "NESPRESSO COM 45% OFF",
+   "preco_em": "2026-11-15T12:18:12-03:00",
+   "entrou": "2026-11-15T12:27:23.713939-03:00",
+   "dia": "2026-11-15"
+  },
+  {
+   "id": "amz-B0DYC23WNG",
+   "canal": "marcas",
+   "nome": "Chinelo Under Armour Ansa Light",
+   "preco_antigo": 139.99,
+   "preco": 89.99,
+   "desconto": 36,
+   "link": "https://www.amazon.com.br/dp/B0DYC23WNG?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/41TkZIf7IoL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-16T22:00:00-03:00",
+   "coletado_em": "2026-11-15T08:20:41-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "preco_em": "2026-11-15T08:20:41-03:00",
+   "entrou": "2026-11-15T12:27:23.713939-03:00",
+   "dia": "2026-11-15"
+  },
+  {
+   "id": "amz-B0FG2MD49G",
+   "canal": "tech",
+   "nome": "Roteador Mesh TP-Link Deco BE22 Wi-Fi 7 (3 unidades)",
+   "preco_antigo": 1999.0,
+   "preco": 1183.41,
+   "desconto": 41,
+   "link": "https://www.amazon.com.br/dp/B0FG2MD49G?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/41mXFxxYVwL._AC_SL1000_.jpg",
+   "loja": "Vendido por parceiro · entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-16T22:00:00-03:00",
+   "coletado_em": "2026-11-15T12:18:12-03:00",
+   "preco_em": "2026-11-15T12:18:12-03:00",
+   "entrou": "2026-11-15T12:27:23.713939-03:00",
+   "dia": "2026-11-15"
   }
  ],
  "ig_feitos": [
@@ -18449,7 +18585,8 @@
   "2026-11-15 12:19 story_oferta",
   "2026-11-15 12:47 story_oferta",
   "2026-11-15 13:20 story_convite",
-  "2026-11-15 14:08 story_oferta"
+  "2026-11-15 14:08 story_oferta",
+  "2026-11-15 15:00 adivinha"
  ],
  "ig_ofertas_usadas": [
   "amz-B0CJ3WFW9H",
@@ -18734,62 +18871,14 @@
   "ac-qr-code": "2026-11-15",
   "dc-prazo": "2026-11-15",
   "hu-domingo": "2026-11-15",
-  "bs-nao-posta": "2026-11-15"
+  "bs-nao-posta": "2026-11-15",
+  "ac-boleto": "2026-11-15"
  },
  "pecas_dia": {
-  "2026-11-15": 6
+  "2026-11-15": 7
  },
- "ultimo_pilar": "bastidor",
+ "ultimo_pilar": "anticilada",
  "fila": [
-  {
-   "id": "amz-B0CWC3KCR1",
-   "canal": "achadinhos",
-   "nome": "Ferro a Vapor Philips Walita PerfectCare Série 6000",
-   "preco_antigo": 2299.9,
-   "preco": 1009.42,
-   "desconto": 56,
-   "link": "https://www.amazon.com.br/dp/B0CWC3KCR1?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/512SccpXv-L._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-16T22:00:00-03:00",
-   "coletado_em": "2026-11-15T12:18:12-03:00",
-   "preco_em": "2026-11-15T12:18:12-03:00",
-   "entrou": "2026-11-15T12:27:23.713939-03:00"
-  },
-  {
-   "id": "amz-B08HSFTVP1",
-   "canal": "achadinhos",
-   "nome": "Protetor Solar Corporal Australian Gold Gel Creme",
-   "preco_antigo": 89.99,
-   "preco": 43.6,
-   "desconto": 52,
-   "link": "https://www.amazon.com.br/dp/B08HSFTVP1?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51RzUZDCdLL._AC_SL1000_.jpg",
-   "loja": "Vendido por parceiro · entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-16T22:00:00-03:00",
-   "coletado_em": "2026-11-15T12:18:12-03:00",
-   "preco_em": "2026-11-15T12:18:12-03:00",
-   "entrou": "2026-11-15T12:27:23.713939-03:00"
-  },
-  {
-   "id": "amz-B099ZCGZK9",
-   "canal": "achadinhos",
-   "nome": "Cafeteira Nespresso Essenza Mini Branca 110V",
-   "preco_antigo": 829.0,
-   "preco": 455.05,
-   "desconto": 45,
-   "link": "https://www.amazon.com.br/dp/B099ZCGZK9?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51OmeGN0wGL._AC_SL1000_.jpg",
-   "loja": "Loja oficial Nespresso · entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-16T22:00:00-03:00",
-   "coletado_em": "2026-11-15T12:18:12-03:00",
-   "gancho": "NESPRESSO COM 45% OFF",
-   "preco_em": "2026-11-15T12:18:12-03:00",
-   "entrou": "2026-11-15T12:27:23.713939-03:00"
-  },
   {
    "id": "amz-B076QDQVMJ",
    "canal": "achadinhos",
@@ -18869,40 +18958,6 @@
    "valida_ate": "2026-11-16T22:00:00-03:00",
    "coletado_em": "2026-11-15T12:18:12-03:00",
    "preco_em": "2026-11-15T12:18:12-03:00",
-   "entrou": "2026-11-15T12:27:23.713939-03:00"
-  },
-  {
-   "id": "amz-B0FG5N9BYG",
-   "canal": "marcas",
-   "nome": "Tênis Mizuno Cool Ride 3 Junior",
-   "preco_antigo": 349.99,
-   "preco": 179.9,
-   "desconto": 49,
-   "link": "https://www.amazon.com.br/dp/B0FG5N9BYG?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61pvqiz4yrL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-16T22:00:00-03:00",
-   "coletado_em": "2026-11-15T08:20:41-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "preco_em": "2026-11-15T08:20:41-03:00",
-   "entrou": "2026-11-15T12:27:23.713939-03:00"
-  },
-  {
-   "id": "amz-B0DYC23WNG",
-   "canal": "marcas",
-   "nome": "Chinelo Under Armour Ansa Light",
-   "preco_antigo": 139.99,
-   "preco": 89.99,
-   "desconto": 36,
-   "link": "https://www.amazon.com.br/dp/B0DYC23WNG?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/41TkZIf7IoL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-16T22:00:00-03:00",
-   "coletado_em": "2026-11-15T08:20:41-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "preco_em": "2026-11-15T08:20:41-03:00",
    "entrou": "2026-11-15T12:27:23.713939-03:00"
   },
   {
@@ -19000,38 +19055,6 @@
    "desconto": 39,
    "link": "https://www.amazon.com.br/dp/B0BYDT7FTB?tag=papagarimpou-20",
    "imagem": "https://m.media-amazon.com/images/I/514-kE3LxlL._AC_SL1000_.jpg",
-   "loja": "Vendido por parceiro · entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-16T22:00:00-03:00",
-   "coletado_em": "2026-11-15T12:18:12-03:00",
-   "preco_em": "2026-11-15T12:18:12-03:00",
-   "entrou": "2026-11-15T12:27:23.713939-03:00"
-  },
-  {
-   "id": "amz-B0C5DK38R9",
-   "canal": "tech",
-   "nome": "Teclado Mecânico Gamer Redragon Fizz 60% RGB",
-   "preco_antigo": 243.75,
-   "preco": 129.99,
-   "desconto": 47,
-   "link": "https://www.amazon.com.br/dp/B0C5DK38R9?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51UD1j4Y59L._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-16T22:00:00-03:00",
-   "coletado_em": "2026-11-15T12:18:12-03:00",
-   "preco_em": "2026-11-15T12:18:12-03:00",
-   "entrou": "2026-11-15T12:27:23.713939-03:00"
-  },
-  {
-   "id": "amz-B0FG2MD49G",
-   "canal": "tech",
-   "nome": "Roteador Mesh TP-Link Deco BE22 Wi-Fi 7 (3 unidades)",
-   "preco_antigo": 1999.0,
-   "preco": 1183.41,
-   "desconto": 41,
-   "link": "https://www.amazon.com.br/dp/B0FG2MD49G?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/41mXFxxYVwL._AC_SL1000_.jpg",
    "loja": "Vendido por parceiro · entregue pela Amazon",
    "plataforma": "Amazon",
    "valida_ate": "2026-11-16T22:00:00-03:00",
@@ -20351,7 +20374,14 @@
   "fonebluetoothsoundcorep31idaanker": "2026-11-15T13:55:57.959520-03:00",
   "garrafatermicastanleyaerolighttransit350ml": "2026-11-15T14:02:19.443851-03:00",
   "camisapolonauticamasculina": "2026-11-15T14:10:35.737400-03:00",
-  "appleiphoneair256gbpretosideral": "2026-11-15T14:17:13.743138-03:00"
+  "appleiphoneair256gbpretosideral": "2026-11-15T14:17:13.743138-03:00",
+  "ferroavaporphilipswalitaperfectcareserie6000": "2026-11-15T14:23:29.508421-03:00",
+  "protetorsolarcorporalaustraliangoldgelcreme": "2026-11-15T14:26:11.957686-03:00",
+  "tenismizunocoolride3junior": "2026-11-15T14:32:28.222177-03:00",
+  "tecladomecanicogamerredragonfizz60rgb": "2026-11-15T14:39:20.400341-03:00",
+  "cafeteiranespressoessenzaminibranca110v": "2026-11-15T14:46:01.916589-03:00",
+  "chinelounderarmouransalight": "2026-11-15T14:53:59.136496-03:00",
+  "roteadormeshtplinkdecobe22wifi73unidades": "2026-11-15T15:01:55.610833-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
@@ -20742,7 +20772,7 @@
   "marcas": "2026-11-12T17:56:29.409807-03:00"
  },
  "top10_dia": "2026-11-14",
- "manuais_lidos": "2026-11-15T14:10:01.540197-03:00",
+ "manuais_lidos": "2026-11-15T14:53:58.730317-03:00",
  "reserva_resultado": {
   "2026-11-07": {
    "achadinhos": {
@@ -20942,7 +20972,7 @@
    "hora": "2026-11-11T20:32:35.453128-03:00"
   }
  },
- "ig_respondido_em": "2026-11-15T14:16:57.126272-03:00",
+ "ig_respondido_em": "2026-11-15T15:01:34.842748-03:00",
  "dm_auto": {
   "2026-11-08": {
    "com_palavra": 0,
@@ -21164,7 +21194,7 @@
    "feed": 2
   },
   "2026-11-15": {
-   "story": 11,
+   "story": 12,
    "feed": 1
   }
  },
