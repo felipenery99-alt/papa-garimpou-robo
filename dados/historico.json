@@ -1414,7 +1414,13 @@
   "2026-11-15 tech 12:27 shopee-19399263103",
   "2026-11-15 achadinhos 12:35 shopee-41478796304",
   "2026-11-15 marcas 12:42 shopee-21916807534",
-  "2026-11-15 tech 12:49 amz-B08F7FKQ8P"
+  "2026-11-15 tech 12:49 amz-B08F7FKQ8P",
+  "2026-11-15 achadinhos 12:56 shopee-18797677549",
+  "2026-11-15 marcas 13:03 amz-B0FNNBX44S",
+  "2026-11-15 tech 13:11 amz-B0GKQTTCMM",
+  "2026-11-15 achadinhos 13:17 shopee-21997684262",
+  "2026-11-15 marcas 13:25 amz-B0G455G4HY",
+  "2026-11-15 tech 13:32 amz-B0FK18FNYH"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -1580,7 +1586,7 @@
   "ml-MLBU4074557041": "2026-10-30T13:11:10.532773-03:00",
   "shopee-21897631761": "2026-11-13T14:30:57.014221-03:00",
   "shopee-9511754133": "2026-11-09T11:49:06.916664-03:00",
-  "shopee-18797677549": "2026-11-07T08:17:20.765679-03:00",
+  "shopee-18797677549": "2026-11-15T12:56:34.891916-03:00",
   "shopee-20299205359": "2026-11-13T20:30:00.024645-03:00",
   "shopee-22397314985": "2026-10-30T14:33:24.012715-03:00",
   "amz-B07H3GFJJ2": "2026-10-30T14:43:25.743445-03:00",
@@ -1626,7 +1632,7 @@
   "nike-016269ID": "2026-10-30T21:58:28.949352-03:00",
   "shopee-27231768018": "2026-11-07T09:43:24.086407-03:00",
   "nike-004386ID": "2026-10-31T08:27:49.576516-03:00",
-  "shopee-21997684262": "2026-11-07T09:52:26.330308-03:00",
+  "shopee-21997684262": "2026-11-15T13:17:51.052731-03:00",
   "nike-079609MT": "2026-10-31T08:39:18.146993-03:00",
   "shopee-23094056729": "2026-11-08T10:25:31.657692-03:00",
   "shopee-22396095321": "2026-10-31T09:05:11.173180-03:00",
@@ -2768,7 +2774,11 @@
   "amz-B0GVSYZJ4W": "2026-11-15T12:04:18.571638-03:00",
   "amz-B0DPL9L9ZD": "2026-11-15T12:11:06.493033-03:00",
   "amz-B0B7SH8YPV": "2026-11-15T12:13:34.975163-03:00",
-  "amz-B08F7FKQ8P": "2026-11-15T12:49:31.632873-03:00"
+  "amz-B08F7FKQ8P": "2026-11-15T12:49:31.632873-03:00",
+  "amz-B0FNNBX44S": "2026-11-15T13:03:46.220220-03:00",
+  "amz-B0GKQTTCMM": "2026-11-15T13:11:13.378987-03:00",
+  "amz-B0G455G4HY": "2026-11-15T13:25:55.533524-03:00",
+  "amz-B0FK18FNYH": "2026-11-15T13:32:49.343767-03:00"
  },
  "ofertas_dia": [
   {
@@ -18086,6 +18096,114 @@
    "preco_em": "2026-11-15T08:20:41-03:00",
    "entrou": "2026-11-15T12:27:23.713939-03:00",
    "dia": "2026-11-15"
+  },
+  {
+   "id": "shopee-18797677549",
+   "plataforma": "Shopee",
+   "nome": "Secador De Cabelo Taiff Style Profissional Original 2000W",
+   "loja": "Beleza Renovada Oficial",
+   "loja_oficial": true,
+   "preco": 274.46,
+   "preco_antigo": 481.51,
+   "desconto": 43,
+   "vendas": 663,
+   "nota": 4.9,
+   "comissao_pct": 12.0,
+   "imagem": "https://cf.shopee.com.br/file/sg-11134201-824jf-mf0cfquk2m16e3",
+   "link": "https://s.shopee.com.br/gReu9NIMD",
+   "canal": "achadinhos",
+   "entrou": "2026-11-15T09:48:29.938087-03:00",
+   "dia": "2026-11-15"
+  },
+  {
+   "id": "amz-B0FNNBX44S",
+   "canal": "marcas",
+   "nome": "Tênis New Balance 480 Low masculino",
+   "preco_antigo": 549.99,
+   "preco": 279.9,
+   "desconto": 49,
+   "link": "https://www.amazon.com.br/dp/B0FNNBX44S?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61RpnYLxJeL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-16T22:00:00-03:00",
+   "coletado_em": "2026-11-15T08:20:41-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "preco_em": "2026-11-15T08:20:41-03:00",
+   "entrou": "2026-11-15T12:27:23.713939-03:00",
+   "dia": "2026-11-15"
+  },
+  {
+   "id": "amz-B0GKQTTCMM",
+   "canal": "tech",
+   "nome": "Celular Samsung Galaxy S26 Ultra 5G 256GB",
+   "preco_antigo": 11499.0,
+   "preco": 6760.11,
+   "desconto": 41,
+   "link": "https://www.amazon.com.br/dp/B0GKQTTCMM?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61tUK0-AiTL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-16T22:00:00-03:00",
+   "coletado_em": "2026-11-15T08:20:41-03:00",
+   "gancho": "S26 ULTRA COM QUASE R$ 4.800 OFF",
+   "preco_em": "2026-11-15T08:20:41-03:00",
+   "entrou": "2026-11-15T12:27:23.713939-03:00",
+   "dia": "2026-11-15"
+  },
+  {
+   "id": "shopee-21997684262",
+   "plataforma": "Shopee",
+   "nome": "Sanduicheira e Grill Britânia 2 em 1 750W BGRE01",
+   "loja": "Britânia Oficial",
+   "loja_oficial": true,
+   "preco": 79.9,
+   "preco_antigo": 140.18,
+   "desconto": 43,
+   "vendas": 1246,
+   "nota": 4.9,
+   "comissao_pct": 4.0,
+   "imagem": "https://cf.shopee.com.br/file/sg-11134201-8258u-mudiny7ntseea9",
+   "link": "https://s.shopee.com.br/9fMTclVHFS",
+   "canal": "achadinhos",
+   "entrou": "2026-11-15T12:07:04.843144-03:00",
+   "dia": "2026-11-15"
+  },
+  {
+   "id": "amz-B0G455G4HY",
+   "canal": "marcas",
+   "nome": "Tênis New Balance 413v3 masculino",
+   "preco_antigo": 379.99,
+   "preco": 177.99,
+   "desconto": 53,
+   "link": "https://www.amazon.com.br/dp/B0G455G4HY?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/610TwVzHBhL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-16T22:00:00-03:00",
+   "coletado_em": "2026-11-15T08:20:41-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "preco_em": "2026-11-15T08:20:41-03:00",
+   "entrou": "2026-11-15T12:27:23.713939-03:00",
+   "dia": "2026-11-15"
+  },
+  {
+   "id": "amz-B0FK18FNYH",
+   "canal": "tech",
+   "nome": "Caixa de Som JBL Boombox 4 Bluetooth Branca",
+   "preco_antigo": 3199.0,
+   "preco": 2184.05,
+   "desconto": 32,
+   "link": "https://www.amazon.com.br/dp/B0FK18FNYH?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/718KNSMkqJL._AC_SL1000_.jpg",
+   "loja": "Vendido por parceiro · entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-16T22:00:00-03:00",
+   "coletado_em": "2026-11-15T12:18:12-03:00",
+   "gancho": "BOOMBOX 4 DA JBL COM MIL REAIS A MENOS",
+   "preco_em": "2026-11-15T12:18:12-03:00",
+   "entrou": "2026-11-15T12:27:23.713939-03:00",
+   "dia": "2026-11-15"
   }
  ],
  "ig_feitos": [
@@ -18192,10 +18310,10 @@
   "2026-11-15 11:56 story_oferta",
   "2026-11-15 12:00 reels",
   "2026-11-15 12:19 story_oferta",
-  "2026-11-15 12:47 story_oferta"
+  "2026-11-15 12:47 story_oferta",
+  "2026-11-15 13:20 story_convite"
  ],
  "ig_ofertas_usadas": [
-  "amz-B0GHZ4VBHD",
   "amz-B09DCZWN1K",
   "amz-B0CJ3WFW9H",
   "amz-B003JSEG4Q",
@@ -18486,57 +18604,6 @@
  "ultimo_pilar": "bastidor",
  "fila": [
   {
-   "id": "shopee-18797677549",
-   "plataforma": "Shopee",
-   "nome": "Secador De Cabelo Taiff Style Profissional Original 2000W",
-   "loja": "Beleza Renovada Oficial",
-   "loja_oficial": true,
-   "preco": 274.46,
-   "preco_antigo": 481.51,
-   "desconto": 43,
-   "vendas": 663,
-   "nota": 4.9,
-   "comissao_pct": 12.0,
-   "imagem": "https://cf.shopee.com.br/file/sg-11134201-824jf-mf0cfquk2m16e3",
-   "link": "https://s.shopee.com.br/gReu9NIMD",
-   "canal": "achadinhos",
-   "entrou": "2026-11-15T09:48:29.938087-03:00"
-  },
-  {
-   "id": "shopee-21199205245",
-   "plataforma": "Shopee",
-   "nome": "Secador De Cabelo Taiff Style Profissional Original 2000W",
-   "loja": "Beleza Renovada Oficial",
-   "loja_oficial": true,
-   "preco": 261.93,
-   "preco_antigo": 422.47,
-   "desconto": 38,
-   "vendas": 506,
-   "nota": 4.9,
-   "comissao_pct": 12.0,
-   "imagem": "https://cf.shopee.com.br/file/sg-11134201-82608-ml7dpgvbti4j34",
-   "link": "https://s.shopee.com.br/2BGSguHaJc",
-   "canal": "achadinhos",
-   "entrou": "2026-11-15T09:48:29.938087-03:00"
-  },
-  {
-   "id": "shopee-21997684262",
-   "plataforma": "Shopee",
-   "nome": "Sanduicheira e Grill Britânia 2 em 1 750W BGRE01",
-   "loja": "Britânia Oficial",
-   "loja_oficial": true,
-   "preco": 79.9,
-   "preco_antigo": 140.18,
-   "desconto": 43,
-   "vendas": 1246,
-   "nota": 4.9,
-   "comissao_pct": 4.0,
-   "imagem": "https://cf.shopee.com.br/file/sg-11134201-8258u-mudiny7ntseea9",
-   "link": "https://s.shopee.com.br/9fMTclVHFS",
-   "canal": "achadinhos",
-   "entrou": "2026-11-15T12:07:04.843144-03:00"
-  },
-  {
    "id": "amz-B0F7J2KKFW",
    "canal": "achadinhos",
    "nome": "Escova elétrica Oral-B iO2 com sensor de pressão",
@@ -18717,40 +18784,6 @@
    "entrou": "2026-11-15T12:27:23.713939-03:00"
   },
   {
-   "id": "amz-B0FNNBX44S",
-   "canal": "marcas",
-   "nome": "Tênis New Balance 480 Low masculino",
-   "preco_antigo": 549.99,
-   "preco": 279.9,
-   "desconto": 49,
-   "link": "https://www.amazon.com.br/dp/B0FNNBX44S?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61RpnYLxJeL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-16T22:00:00-03:00",
-   "coletado_em": "2026-11-15T08:20:41-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "preco_em": "2026-11-15T08:20:41-03:00",
-   "entrou": "2026-11-15T12:27:23.713939-03:00"
-  },
-  {
-   "id": "amz-B0G455G4HY",
-   "canal": "marcas",
-   "nome": "Tênis New Balance 413v3 masculino",
-   "preco_antigo": 379.99,
-   "preco": 177.99,
-   "desconto": 53,
-   "link": "https://www.amazon.com.br/dp/B0G455G4HY?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/610TwVzHBhL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-16T22:00:00-03:00",
-   "coletado_em": "2026-11-15T08:20:41-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "preco_em": "2026-11-15T08:20:41-03:00",
-   "entrou": "2026-11-15T12:27:23.713939-03:00"
-  },
-  {
    "id": "amz-B0G26QMJVL",
    "canal": "marcas",
    "nome": "Kit 5 cuecas Levi's microfibra",
@@ -18916,40 +18949,6 @@
    "plataforma": "Amazon",
    "valida_ate": "2026-11-16T22:00:00-03:00",
    "coletado_em": "2026-11-15T12:18:12-03:00",
-   "preco_em": "2026-11-15T12:18:12-03:00",
-   "entrou": "2026-11-15T12:27:23.713939-03:00"
-  },
-  {
-   "id": "amz-B0GKQTTCMM",
-   "canal": "tech",
-   "nome": "Celular Samsung Galaxy S26 Ultra 5G 256GB",
-   "preco_antigo": 11499.0,
-   "preco": 6760.11,
-   "desconto": 41,
-   "link": "https://www.amazon.com.br/dp/B0GKQTTCMM?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61tUK0-AiTL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-16T22:00:00-03:00",
-   "coletado_em": "2026-11-15T08:20:41-03:00",
-   "gancho": "S26 ULTRA COM QUASE R$ 4.800 OFF",
-   "preco_em": "2026-11-15T08:20:41-03:00",
-   "entrou": "2026-11-15T12:27:23.713939-03:00"
-  },
-  {
-   "id": "amz-B0FK18FNYH",
-   "canal": "tech",
-   "nome": "Caixa de Som JBL Boombox 4 Bluetooth Branca",
-   "preco_antigo": 3199.0,
-   "preco": 2184.05,
-   "desconto": 32,
-   "link": "https://www.amazon.com.br/dp/B0FK18FNYH?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/718KNSMkqJL._AC_SL1000_.jpg",
-   "loja": "Vendido por parceiro · entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-16T22:00:00-03:00",
-   "coletado_em": "2026-11-15T12:18:12-03:00",
-   "gancho": "BOOMBOX 4 DA JBL COM MIL REAIS A MENOS",
    "preco_em": "2026-11-15T12:18:12-03:00",
    "entrou": "2026-11-15T12:27:23.713939-03:00"
   },
@@ -19134,7 +19133,7 @@
   "tenisnikerevolution8feminino": "2026-10-30T13:11:10.532773-03:00",
   "secadordecabelotaiffnewtourmalineprofissional2100w": "2026-11-13T14:30:57.014221-03:00",
   "creatinamaxtitanium300gpura": "2026-11-09T11:49:06.916664-03:00",
-  "secadordecabelotaiffstyleprofissionaloriginal2000w": "2026-11-07T08:17:20.765679-03:00",
+  "secadordecabelotaiffstyleprofissionaloriginal2000w": "2026-11-15T12:56:34.891916-03:00",
   "secadordecabelotaiffblackionprofissionaloriginal2000w": "2026-11-13T20:30:00.024645-03:00",
   "creatinapote100gmaxtitanium": "2026-10-30T14:33:24.012715-03:00",
   "mousegamerhyperxpulsefirecorergb6200dpi": "2026-10-30T14:43:25.743445-03:00",
@@ -19180,7 +19179,7 @@
   "camisetanikesportswearclubmasculina": "2026-10-30T21:58:28.949352-03:00",
   "cafeteiraeletricaelectroluxecm1015xicaras600wgrafite110v": "2026-11-07T09:43:24.086407-03:00",
   "camisetajordansportswearjumpmanairmasculina": "2026-10-31T08:27:49.576516-03:00",
-  "sanduicheiraegrillbritania2em1750wbgre01": "2026-11-07T09:52:26.330308-03:00",
+  "sanduicheiraegrillbritania2em1750wbgre01": "2026-11-15T13:17:51.052731-03:00",
   "camisetacorinthiansnike2026treinomasculina": "2026-10-31T08:39:18.146993-03:00",
   "jogodefaqueirotramontinabuzios24pecastalheresemacoinox": "2026-11-08T10:25:31.657692-03:00",
   "sanduicheiraegrillbritaniabgr27ipress2em1850w": "2026-10-31T09:05:11.173180-03:00",
@@ -20319,7 +20318,11 @@
   "celularsamsunggalaxya375g256gb8gbram": "2026-11-15T12:04:18.571638-03:00",
   "protetorsolarbastaosallveantimachasfps90comcor": "2026-11-15T12:11:06.493033-03:00",
   "leaveinlorealprofessionnelnutrioil": "2026-11-15T12:13:34.975163-03:00",
-  "volantelogitechg923paraxboxepc": "2026-11-15T12:49:31.632873-03:00"
+  "volantelogitechg923paraxboxepc": "2026-11-15T12:49:31.632873-03:00",
+  "tenisnewbalance480lowmasculino": "2026-11-15T13:03:46.220220-03:00",
+  "celularsamsunggalaxys26ultra5g256gb": "2026-11-15T13:11:13.378987-03:00",
+  "tenisnewbalance413v3masculino": "2026-11-15T13:25:55.533524-03:00",
+  "caixadesomjblboombox4bluetoothbranca": "2026-11-15T13:32:49.343767-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
@@ -20666,7 +20669,7 @@
  },
  "story_link_dia": "2026-11-14",
  "pede_semana": "2026-46",
- "ultimo_garimpo": "2026-11-15T08:20:53-03:00",
+ "ultimo_garimpo": "2026-11-15T12:18:14-03:00",
  "vigia_aviso_post": "2026-11-09T18:27:03.734589-03:00",
  "vigia_aviso_garimpo": "2026-11-15T08:17:22.723951-03:00",
  "resumo_enviado": "2026-11-14",
@@ -20710,7 +20713,7 @@
   "marcas": "2026-11-12T17:56:29.409807-03:00"
  },
  "top10_dia": "2026-11-14",
- "manuais_lidos": "2026-11-15T12:42:32.047445-03:00",
+ "manuais_lidos": "2026-11-15T13:25:32.236051-03:00",
  "reserva_resultado": {
   "2026-11-07": {
    "achadinhos": {
@@ -20910,7 +20913,7 @@
    "hora": "2026-11-11T20:32:35.453128-03:00"
   }
  },
- "ig_respondido_em": "2026-11-15T12:49:14.765553-03:00",
+ "ig_respondido_em": "2026-11-15T13:25:32.236051-03:00",
  "dm_auto": {
   "2026-11-08": {
    "com_palavra": 0,
@@ -21132,7 +21135,7 @@
    "feed": 2
   },
   "2026-11-15": {
-   "story": 9,
+   "story": 10,
    "feed": 1
   }
  },
