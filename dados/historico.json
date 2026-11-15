@@ -18560,74 +18560,6 @@
  "ultimo_pilar": "humor",
  "fila": [
   {
-   "id": "amz-B076QF5VJJ",
-   "canal": "achadinhos",
-   "nome": "Lavadora de Alta Pressão WAP Ágil 1800",
-   "preco_antigo": 599.9,
-   "preco": 316.81,
-   "desconto": 47,
-   "link": "https://www.amazon.com.br/dp/B076QF5VJJ?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/71PnrOD9HaL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-15T22:00:00-03:00",
-   "coletado_em": "2026-11-14T18:16:48-03:00",
-   "gancho": "WAP QUASE PELA METADE",
-   "preco_em": "2026-11-14T18:16:48-03:00",
-   "entrou": "2026-11-14T18:26:46.931671-03:00"
-  },
-  {
-   "id": "amz-B07N7XL6JM",
-   "canal": "marcas",
-   "nome": "Óculos de Sol Oakley Sutro OO9406 Masculino",
-   "preco_antigo": 1050.0,
-   "preco": 569.9,
-   "desconto": 46,
-   "link": "https://www.amazon.com.br/dp/B07N7XL6JM?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51V6h8hUylL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-15T22:00:00-03:00",
-   "coletado_em": "2026-11-14T18:18:48-03:00",
-   "gancho": "OAKLEY SUTRO COM 46% OFF",
-   "preco_em": "2026-11-14T18:18:48-03:00",
-   "entrou": "2026-11-14T18:26:46.931671-03:00"
-  },
-  {
-   "id": "amz-B085MJWD38",
-   "canal": "marcas",
-   "nome": "Whey Integralmédica 100% Pure Cookies and Cream 1,8kg",
-   "preco_antigo": 429.9,
-   "preco": 286.98,
-   "desconto": 33,
-   "link": "https://www.amazon.com.br/dp/B085MJWD38?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/81LQ0lKVktL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-15T22:00:00-03:00",
-   "coletado_em": "2026-11-14T18:18:48-03:00",
-   "gancho": "WHEY 1,8KG DA INTEGRALMÉDICA COM 33% OFF",
-   "preco_em": "2026-11-14T18:18:48-03:00",
-   "entrou": "2026-11-14T18:26:46.931671-03:00"
-  },
-  {
-   "id": "amz-B0CN9TLR5K",
-   "canal": "marcas",
-   "nome": "Mochila para notebook The North Face Vault Everyday",
-   "preco_antigo": 799.0,
-   "preco": 499.9,
-   "desconto": 37,
-   "link": "https://www.amazon.com.br/dp/B0CN9TLR5K?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/810gaTKLATL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-15T22:00:00-03:00",
-   "coletado_em": "2026-11-14T18:18:48-03:00",
-   "gancho": "MOCHILA THE NORTH FACE COM 37% OFF",
-   "preco_em": "2026-11-14T18:18:48-03:00",
-   "entrou": "2026-11-14T18:26:46.931671-03:00"
-  },
-  {
    "id": "amz-B0C2J8DQC1",
    "canal": "achadinhos",
    "nome": "Barbeador Philips OneBlade",
@@ -18676,6 +18608,74 @@
    "gancho": "TRAMONTINA QUASE PELA METADE",
    "preco_em": "2026-11-14T15:18:03-03:00",
    "entrou": "2026-11-14T19:23:44.168916-03:00"
+  },
+  {
+   "id": "amz-B076QF5VJJ",
+   "canal": "achadinhos",
+   "nome": "Lavadora de Alta Pressão WAP Ágil 1800",
+   "preco_antigo": 599.9,
+   "preco": 316.81,
+   "desconto": 47,
+   "link": "https://www.amazon.com.br/dp/B076QF5VJJ?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71PnrOD9HaL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-15T22:00:00-03:00",
+   "coletado_em": "2026-11-14T18:16:48-03:00",
+   "gancho": "WAP QUASE PELA METADE",
+   "preco_em": "2026-11-14T18:16:48-03:00",
+   "entrou": "2026-11-14T22:55:16.323183-03:00"
+  },
+  {
+   "id": "amz-B07N7XL6JM",
+   "canal": "marcas",
+   "nome": "Óculos de Sol Oakley Sutro OO9406 Masculino",
+   "preco_antigo": 1050.0,
+   "preco": 569.9,
+   "desconto": 46,
+   "link": "https://www.amazon.com.br/dp/B07N7XL6JM?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51V6h8hUylL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-15T22:00:00-03:00",
+   "coletado_em": "2026-11-14T18:18:48-03:00",
+   "gancho": "OAKLEY SUTRO COM 46% OFF",
+   "preco_em": "2026-11-14T18:18:48-03:00",
+   "entrou": "2026-11-14T22:55:16.323183-03:00"
+  },
+  {
+   "id": "amz-B085MJWD38",
+   "canal": "marcas",
+   "nome": "Whey Integralmédica 100% Pure Cookies and Cream 1,8kg",
+   "preco_antigo": 429.9,
+   "preco": 286.98,
+   "desconto": 33,
+   "link": "https://www.amazon.com.br/dp/B085MJWD38?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/81LQ0lKVktL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-15T22:00:00-03:00",
+   "coletado_em": "2026-11-14T18:18:48-03:00",
+   "gancho": "WHEY 1,8KG DA INTEGRALMÉDICA COM 33% OFF",
+   "preco_em": "2026-11-14T18:18:48-03:00",
+   "entrou": "2026-11-14T22:55:16.323183-03:00"
+  },
+  {
+   "id": "amz-B0CN9TLR5K",
+   "canal": "marcas",
+   "nome": "Mochila para notebook The North Face Vault Everyday",
+   "preco_antigo": 799.0,
+   "preco": 499.9,
+   "desconto": 37,
+   "link": "https://www.amazon.com.br/dp/B0CN9TLR5K?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/810gaTKLATL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-15T22:00:00-03:00",
+   "coletado_em": "2026-11-14T18:18:48-03:00",
+   "gancho": "MOCHILA THE NORTH FACE COM 37% OFF",
+   "preco_em": "2026-11-14T18:18:48-03:00",
+   "entrou": "2026-11-14T22:55:16.323183-03:00"
   }
  ],
  "menus_fixados": [
@@ -20196,7 +20196,7 @@
  "ultimo_garimpo": "2026-11-14T18:18:56-03:00",
  "vigia_aviso_post": "2026-11-09T18:27:03.734589-03:00",
  "vigia_aviso_garimpo": "2026-11-14T11:21:45.539968-03:00",
- "resumo_enviado": "2026-11-13",
+ "resumo_enviado": "2026-11-14",
  "token_conferido": "2026-11-14",
  "meta_token": {
   "tipo": "SYSTEM_USER",
@@ -20230,14 +20230,14 @@
   "2026-11-13 noite achadinhos",
   "2026-11-13 noite marcas"
  ],
- "reserva_meio": "2026-11-14T22:26:21.571852-03:00",
+ "reserva_meio": "2026-11-14T23:03:43.665466-03:00",
  "reserva_cheia": {
   "achadinhos": "2026-11-13T20:21:49.534614-03:00",
   "tech": "2026-11-14T11:56:11.521150-03:00",
   "marcas": "2026-11-12T17:56:29.409807-03:00"
  },
  "top10_dia": "2026-11-14",
- "manuais_lidos": "2026-11-14T22:17:06.057723-03:00",
+ "manuais_lidos": "2026-11-14T23:03:43.665466-03:00",
  "reserva_resultado": {
   "2026-11-07": {
    "achadinhos": {
@@ -20425,7 +20425,7 @@
    "hora": "2026-11-11T20:32:35.453128-03:00"
   }
  },
- "ig_respondido_em": "2026-11-14T22:17:33.456004-03:00",
+ "ig_respondido_em": "2026-11-14T22:55:16.323183-03:00",
  "dm_auto": {
   "2026-11-08": {
    "com_palavra": 0,
