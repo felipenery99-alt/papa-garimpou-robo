@@ -1367,7 +1367,13 @@
   "2026-11-14 achadinhos 21:00 amz-B0CH5JQWHJ",
   "2026-11-14 achadinhos 21:06 amz-B07YNFW5T2",
   "2026-11-14 achadinhos 21:10 amz-B07G2MJJYQ",
-  "2026-11-14 marcas 21:18 amz-B0G6PCMDX4"
+  "2026-11-14 marcas 21:18 amz-B0G6PCMDX4",
+  "2026-11-14 achadinhos 21:23 amz-B07MR3H8NY",
+  "2026-11-14 tech 21:30 amz-B0C6JZ2ZDN",
+  "2026-11-14 tech 21:38 amz-B0FP78MNNJ",
+  "2026-11-14 achadinhos 21:45 amz-B0DYQ7GZBC",
+  "2026-11-14 marcas 21:51 amz-B0DY2VR565",
+  "2026-11-14 tech 21:58 amz-B07Y2G7VX5"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -2680,7 +2686,13 @@
   "amz-B0CH5JQWHJ": "2026-11-14T21:00:12.929010-03:00",
   "amz-B07YNFW5T2": "2026-11-14T21:06:15.106722-03:00",
   "amz-B07G2MJJYQ": "2026-11-14T21:10:26.229853-03:00",
-  "amz-B0G6PCMDX4": "2026-11-14T21:18:10.406208-03:00"
+  "amz-B0G6PCMDX4": "2026-11-14T21:18:10.406208-03:00",
+  "amz-B07MR3H8NY": "2026-11-14T21:23:58.597510-03:00",
+  "amz-B0C6JZ2ZDN": "2026-11-14T21:30:29.743456-03:00",
+  "amz-B0FP78MNNJ": "2026-11-14T21:38:01.422073-03:00",
+  "amz-B0DYQ7GZBC": "2026-11-14T21:45:34.889417-03:00",
+  "amz-B0DY2VR565": "2026-11-14T21:51:44.701973-03:00",
+  "amz-B07Y2G7VX5": "2026-11-14T21:58:44.301525-03:00"
  },
  "ofertas_dia": [
   {
@@ -18030,6 +18042,113 @@
    "preco_em": "2026-11-14T18:18:48-03:00",
    "entrou": "2026-11-14T18:26:46.931671-03:00",
    "dia": "2026-11-14"
+  },
+  {
+   "id": "amz-B07MR3H8NY",
+   "canal": "achadinhos",
+   "nome": "Perfume Lancôme Idôle Eau de Parfum Feminino",
+   "preco_antigo": 779.0,
+   "preco": 479.99,
+   "desconto": 38,
+   "link": "https://www.amazon.com.br/dp/B07MR3H8NY?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/41daLSoQiGL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-15T22:00:00-03:00",
+   "coletado_em": "2026-11-14T18:16:48-03:00",
+   "gancho": "IDÔLE DA LANCÔME COM 38% OFF",
+   "preco_em": "2026-11-14T18:16:48-03:00",
+   "entrou": "2026-11-14T18:26:46.931671-03:00",
+   "dia": "2026-11-14"
+  },
+  {
+   "id": "amz-B0C6JZ2ZDN",
+   "canal": "tech",
+   "nome": "Combo Logitech MX Keys S + Mouse com apoio de mãos",
+   "preco_antigo": 1499.9,
+   "preco": 949.9,
+   "desconto": 37,
+   "link": "https://www.amazon.com.br/dp/B0C6JZ2ZDN?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61dHtG0j4hL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-15T22:00:00-03:00",
+   "coletado_em": "2026-11-14T18:16:48-03:00",
+   "gancho": "COMBO MX DA LOGITECH COM 37% OFF",
+   "preco_em": "2026-11-14T18:16:48-03:00",
+   "entrou": "2026-11-14T18:26:46.931671-03:00",
+   "dia": "2026-11-14"
+  },
+  {
+   "id": "amz-B0FP78MNNJ",
+   "canal": "tech",
+   "nome": "Jogo Final Fantasy Tactics: The Ivalice Chronicles PS5",
+   "preco_antigo": 299.9,
+   "preco": 209.9,
+   "desconto": 30,
+   "link": "https://www.amazon.com.br/dp/B0FP78MNNJ?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/91+jU8d-taL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-15T22:00:00-03:00",
+   "coletado_em": "2026-11-14T18:16:48-03:00",
+   "gancho": "FINAL FANTASY NO PS5 COM 30% OFF",
+   "preco_em": "2026-11-14T18:16:48-03:00",
+   "entrou": "2026-11-14T18:26:46.931671-03:00",
+   "dia": "2026-11-14"
+  },
+  {
+   "id": "amz-B0DYQ7GZBC",
+   "canal": "achadinhos",
+   "nome": "Lavadora de Alta Pressão Kärcher Prática Black 1500 PSI",
+   "preco_antigo": 459.0,
+   "preco": 282.0,
+   "desconto": 39,
+   "link": "https://www.amazon.com.br/dp/B0DYQ7GZBC?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71Vmy52AhJL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-15T22:00:00-03:00",
+   "coletado_em": "2026-11-14T18:16:48-03:00",
+   "gancho": "KÄRCHER COM 39% OFF",
+   "preco_em": "2026-11-14T18:16:48-03:00",
+   "entrou": "2026-11-14T18:26:46.931671-03:00",
+   "dia": "2026-11-14"
+  },
+  {
+   "id": "amz-B0DY2VR565",
+   "canal": "marcas",
+   "nome": "Copo Stanley Quencher H2.0 FlowState 887ml",
+   "preco_antigo": 375.0,
+   "preco": 150.0,
+   "desconto": 60,
+   "link": "https://www.amazon.com.br/dp/B0DY2VR565?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/41p5AaPwRxL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-15T22:00:00-03:00",
+   "coletado_em": "2026-11-14T18:18:48-03:00",
+   "gancho": "STANLEY QUENCHER COM 60% OFF",
+   "preco_em": "2026-11-14T18:18:48-03:00",
+   "entrou": "2026-11-14T18:26:46.931671-03:00",
+   "dia": "2026-11-14"
+  },
+  {
+   "id": "amz-B07Y2G7VX5",
+   "canal": "tech",
+   "nome": "Headset Gamer Havit com Microfone",
+   "preco_antigo": 219.0,
+   "preco": 139.99,
+   "desconto": 36,
+   "link": "https://www.amazon.com.br/dp/B07Y2G7VX5?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71yVhRlcJdL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-15T22:00:00-03:00",
+   "coletado_em": "2026-11-14T15:18:03-03:00",
+   "preco_em": "2026-11-14T15:18:03-03:00",
+   "entrou": "2026-11-14T19:23:44.168916-03:00",
+   "dia": "2026-11-14"
   }
  ],
  "ig_feitos": [
@@ -18158,7 +18277,8 @@
   "2026-11-14 20:03 story_oferta",
   "story especial top10-rolando 2026-11-14",
   "2026-11-14 20:30 reels",
-  "2026-11-14 20:38 story_oferta"
+  "2026-11-14 20:38 story_oferta",
+  "2026-11-14 21:20 story_convite"
  ],
  "ig_ofertas_usadas": [
   "amz-B0FPG9431G",
@@ -18441,40 +18561,6 @@
  "ultimo_pilar": "humor",
  "fila": [
   {
-   "id": "amz-B07MR3H8NY",
-   "canal": "achadinhos",
-   "nome": "Perfume Lancôme Idôle Eau de Parfum Feminino",
-   "preco_antigo": 779.0,
-   "preco": 479.99,
-   "desconto": 38,
-   "link": "https://www.amazon.com.br/dp/B07MR3H8NY?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/41daLSoQiGL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-15T22:00:00-03:00",
-   "coletado_em": "2026-11-14T18:16:48-03:00",
-   "gancho": "IDÔLE DA LANCÔME COM 38% OFF",
-   "preco_em": "2026-11-14T18:16:48-03:00",
-   "entrou": "2026-11-14T18:26:46.931671-03:00"
-  },
-  {
-   "id": "amz-B0DYQ7GZBC",
-   "canal": "achadinhos",
-   "nome": "Lavadora de Alta Pressão Kärcher Prática Black 1500 PSI",
-   "preco_antigo": 459.0,
-   "preco": 282.0,
-   "desconto": 39,
-   "link": "https://www.amazon.com.br/dp/B0DYQ7GZBC?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/71Vmy52AhJL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-15T22:00:00-03:00",
-   "coletado_em": "2026-11-14T18:16:48-03:00",
-   "gancho": "KÄRCHER COM 39% OFF",
-   "preco_em": "2026-11-14T18:16:48-03:00",
-   "entrou": "2026-11-14T18:26:46.931671-03:00"
-  },
-  {
    "id": "amz-B076QF5VJJ",
    "canal": "achadinhos",
    "nome": "Lavadora de Alta Pressão WAP Ágil 1800",
@@ -18489,23 +18575,6 @@
    "coletado_em": "2026-11-14T18:16:48-03:00",
    "gancho": "WAP QUASE PELA METADE",
    "preco_em": "2026-11-14T18:16:48-03:00",
-   "entrou": "2026-11-14T18:26:46.931671-03:00"
-  },
-  {
-   "id": "amz-B0DY2VR565",
-   "canal": "marcas",
-   "nome": "Copo Stanley Quencher H2.0 FlowState 887ml",
-   "preco_antigo": 375.0,
-   "preco": 150.0,
-   "desconto": 60,
-   "link": "https://www.amazon.com.br/dp/B0DY2VR565?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/41p5AaPwRxL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-15T22:00:00-03:00",
-   "coletado_em": "2026-11-14T18:18:48-03:00",
-   "gancho": "STANLEY QUENCHER COM 60% OFF",
-   "preco_em": "2026-11-14T18:18:48-03:00",
    "entrou": "2026-11-14T18:26:46.931671-03:00"
   },
   {
@@ -18560,40 +18629,6 @@
    "entrou": "2026-11-14T18:26:46.931671-03:00"
   },
   {
-   "id": "amz-B0C6JZ2ZDN",
-   "canal": "tech",
-   "nome": "Combo Logitech MX Keys S + Mouse com apoio de mãos",
-   "preco_antigo": 1499.9,
-   "preco": 949.9,
-   "desconto": 37,
-   "link": "https://www.amazon.com.br/dp/B0C6JZ2ZDN?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61dHtG0j4hL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-15T22:00:00-03:00",
-   "coletado_em": "2026-11-14T18:16:48-03:00",
-   "gancho": "COMBO MX DA LOGITECH COM 37% OFF",
-   "preco_em": "2026-11-14T18:16:48-03:00",
-   "entrou": "2026-11-14T18:26:46.931671-03:00"
-  },
-  {
-   "id": "amz-B0FP78MNNJ",
-   "canal": "tech",
-   "nome": "Jogo Final Fantasy Tactics: The Ivalice Chronicles PS5",
-   "preco_antigo": 299.9,
-   "preco": 209.9,
-   "desconto": 30,
-   "link": "https://www.amazon.com.br/dp/B0FP78MNNJ?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/91+jU8d-taL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-15T22:00:00-03:00",
-   "coletado_em": "2026-11-14T18:16:48-03:00",
-   "gancho": "FINAL FANTASY NO PS5 COM 30% OFF",
-   "preco_em": "2026-11-14T18:16:48-03:00",
-   "entrou": "2026-11-14T18:26:46.931671-03:00"
-  },
-  {
    "id": "amz-B0C2J8DQC1",
    "canal": "achadinhos",
    "nome": "Barbeador Philips OneBlade",
@@ -18640,22 +18675,6 @@
    "valida_ate": "2026-11-15T22:00:00-03:00",
    "coletado_em": "2026-11-14T15:18:03-03:00",
    "gancho": "TRAMONTINA QUASE PELA METADE",
-   "preco_em": "2026-11-14T15:18:03-03:00",
-   "entrou": "2026-11-14T19:23:44.168916-03:00"
-  },
-  {
-   "id": "amz-B07Y2G7VX5",
-   "canal": "tech",
-   "nome": "Headset Gamer Havit com Microfone",
-   "preco_antigo": 219.0,
-   "preco": 139.99,
-   "desconto": 36,
-   "link": "https://www.amazon.com.br/dp/B07Y2G7VX5?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/71yVhRlcJdL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-15T22:00:00-03:00",
-   "coletado_em": "2026-11-14T15:18:03-03:00",
    "preco_em": "2026-11-14T15:18:03-03:00",
    "entrou": "2026-11-14T19:23:44.168916-03:00"
   }
@@ -19822,7 +19841,13 @@
   "airfryerwapbarbecuedigital12em110l": "2026-11-14T21:00:12.929010-03:00",
   "hidratantelabialniveacerejashine48g": "2026-11-14T21:06:15.106722-03:00",
   "parafusadeirafuradeiradeimpactovonder12v": "2026-11-14T21:10:26.229853-03:00",
-  "camisetaflamengogaveamasculinalicenciada": "2026-11-14T21:18:10.406208-03:00"
+  "camisetaflamengogaveamasculinalicenciada": "2026-11-14T21:18:10.406208-03:00",
+  "perfumelancomeidoleeaudeparfumfeminino": "2026-11-14T21:23:58.597510-03:00",
+  "combologitechmxkeyssmousecomapoiodemaos": "2026-11-14T21:30:29.743456-03:00",
+  "jogofinalfantasytacticstheivalicechroniclesps5": "2026-11-14T21:38:01.422073-03:00",
+  "lavadoradealtapressaokarcherpraticablack1500psi": "2026-11-14T21:45:34.889417-03:00",
+  "copostanleyquencherh20flowstate887ml": "2026-11-14T21:51:44.701973-03:00",
+  "headsetgamerhavitcommicrofone": "2026-11-14T21:58:44.301525-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
@@ -20213,7 +20238,7 @@
   "marcas": "2026-11-12T17:56:29.409807-03:00"
  },
  "top10_dia": "2026-11-14",
- "manuais_lidos": "2026-11-14T21:10:08.442745-03:00",
+ "manuais_lidos": "2026-11-14T21:51:40.964571-03:00",
  "reserva_resultado": {
   "2026-11-07": {
    "achadinhos": {
@@ -20401,7 +20426,7 @@
    "hora": "2026-11-11T20:32:35.453128-03:00"
   }
  },
- "ig_respondido_em": "2026-11-14T21:10:08.442745-03:00",
+ "ig_respondido_em": "2026-11-14T21:51:40.964571-03:00",
  "dm_auto": {
   "2026-11-08": {
    "com_palavra": 0,
