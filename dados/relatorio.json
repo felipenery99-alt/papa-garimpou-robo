@@ -3138,18 +3138,20 @@
   ]
  },
  "2026-11-15": {
-  "erros": [],
-  "ultima_execucao": "03:51",
-  "execucoes": 1,
+  "erros": [
+   "⚠️ Fila vazia (tech), último garimpo 14/11 18:18 — abrir o app Claude e conferir as rotinas"
+  ],
+  "ultima_execucao": "08:17",
+  "execucoes": 2,
   "telegram_posts": {
-   "achadinhos": 0,
-   "marcas": 0,
-   "tech": 0
+   "achadinhos": 3,
+   "marcas": 2,
+   "tech": 2
   },
   "ultimo_post": {
-   "achadinhos": null,
-   "marcas": null,
-   "tech": null
+   "achadinhos": "08:48",
+   "marcas": "08:55",
+   "tech": "09:03"
   },
   "meta_token": {
    "tipo": "SYSTEM_USER",
@@ -3181,7 +3183,10 @@
    "tech": 7,
    "geral": 5
   },
-  "instagram_feito": [],
+  "instagram_feito": [
+   "08:07 story_oferta",
+   "08:52 story_oferta"
+  ],
   "shopee_ligada": true,
   "dm_auto": {
    "com_palavra": 0,
@@ -3209,6 +3214,11 @@
   },
   "reserva_resultado": {
    "tech": {
+    "busca": 0,
+    "quase": 0,
+    "reprise": 1
+   },
+   "achadinhos": {
     "busca": 0,
     "quase": 0,
     "reprise": 1
@@ -4832,15 +4842,63 @@
    "shopee-23791128501": "vendas longe",
    "shopee-55160558810": "nota",
    "shopee-23093687171": "vendas longe",
-   "shopee-18098004565": "nota"
+   "shopee-18098004565": "nota",
+   "shopee-23799657372": "outro: marca fora da lista boa",
+   "shopee-22894180063": "vendas longe",
+   "shopee-22798181129": "nota",
+   "shopee-58263896610": "nota",
+   "shopee-23298980901": "nota",
+   "shopee-19199595484": "nota",
+   "shopee-22893115959": "vendas longe",
+   "shopee-58271471209": "nota",
+   "shopee-58270468112": "vendas longe",
+   "shopee-58271735782": "nota",
+   "shopee-58270168539": "nota",
+   "shopee-13311893672": "vendas longe",
+   "shopee-58212948917": "vendas longe",
+   "shopee-58220452271": "vendas longe",
+   "shopee-58270062643": "nota",
+   "shopee-23999639240": "vendas longe",
+   "shopee-58271646754": "nota",
+   "shopee-58212712893": "vendas longe",
+   "shopee-23194161348": "vendas longe",
+   "shopee-20398132455": "vendas longe",
+   "shopee-43371694047": "vendas longe",
+   "shopee-22094467696": "vendas longe",
+   "shopee-28989018404": "desconto longe",
+   "shopee-58257906433": "vendas longe",
+   "shopee-23094200951": "nota",
+   "shopee-58215887557": "vendas longe",
+   "shopee-22694214133": "nota",
+   "shopee-58266674318": "vendas longe",
+   "shopee-58219872348": "vendas longe",
+   "shopee-58269760751": "vendas longe",
+   "shopee-58266674286": "vendas longe",
+   "shopee-58220503800": "nota",
+   "shopee-22395184671": "nota",
+   "shopee-58218391923": "vendas longe",
+   "shopee-58268400393": "vendas longe",
+   "shopee-58218392052": "nota",
+   "shopee-23999668807": "nota",
+   "shopee-58268083005": "nota",
+   "shopee-23298790546": "vendas longe",
+   "shopee-58268400334": "nota",
+   "shopee-22395184672": "nota",
+   "shopee-58263828927": "nota",
+   "shopee-58215887559": "nota",
+   "shopee-58207910141": "vendas longe",
+   "shopee-23298710922": "vendas longe",
+   "shopee-58268158621": "nota",
+   "shopee-22499394557": "nota",
+   "shopee-43161776816": "vendas perto (125+)"
   },
   "shopee_oficial": {
-   "vendas longe": 847,
-   "nota": 565,
-   "vendas perto (125+)": 61,
-   "desconto longe": 47,
+   "vendas longe": 870,
+   "nota": 587,
+   "vendas perto (125+)": 62,
+   "desconto longe": 48,
+   "outro: marca fora da lista boa": 42,
    "aprovada": 41,
-   "outro: marca fora da lista boa": 41,
    "desconto perto (até 10 pts)": 14,
    "outro: palavra proibida: compatível": 2
   },
@@ -5053,21 +5111,26 @@
    "amz-B0FCG9N7GV": "ja_postado_30d",
    "amz-B083QF4LCF": "ja_postado_30d",
    "amz-B0G6PCMDX4": "ja_postado_30d",
-   "amz-B0DY2VR565": "ja_postado_30d"
+   "amz-B0DY2VR565": "ja_postado_30d",
+   "amz-B0C2J8DQC1": "ja_postado_30d",
+   "amz-B0G1ZM8PQ7": "ja_postado_30d",
+   "amz-B07N7XL6JM": "ja_postado_30d",
+   "amz-B09W48TKX2": "ja_postado_30d",
+   "amz-B08F6QCG19": "ja_postado_30d"
   },
   "manuais_descartados": {
-   "ja_postado_30d": 209
+   "ja_postado_30d": 214
   },
   "instagram": {
    "seguidores": 497,
    "posts": 124,
-   "reach": 3444,
-   "profile_views": 90,
+   "reach": 2285,
+   "profile_views": 56,
    "website_clicks": 0,
    "stories_ativos": 19
   },
   "reels_alcance": {
-   "atualizado": "2026-11-15T03:51:49.488855-03:00",
+   "atualizado": "2026-11-15T08:17:22.723951-03:00",
    "itens": [
     {
      "id": "18230902090331796",
