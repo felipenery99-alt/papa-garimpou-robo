@@ -1447,7 +1447,13 @@
   "2026-11-15 tech 16:22 amz-B0CX5B4N1N",
   "2026-11-15 achadinhos 16:28 amz-B01HOJHOLW",
   "2026-11-15 marcas 16:36 amz-B0H11ZTLTX",
-  "2026-11-15 tech 16:43 amz-B0DQY5B679"
+  "2026-11-15 tech 16:43 amz-B0DQY5B679",
+  "2026-11-15 achadinhos 16:51 amz-B09HHMQ1SG",
+  "2026-11-15 marcas 16:59 amz-B0GVLW1Y1T",
+  "2026-11-15 tech 17:05 amz-B0BTJBNFSV",
+  "2026-11-15 achadinhos 17:12 amz-B076HYKFL7",
+  "2026-11-15 marcas 17:19 amz-B0F62GFP7X",
+  "2026-11-15 tech 17:27 amz-B0C2RS4ZG6"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -2832,7 +2838,13 @@
   "amz-B0CX5B4N1N": "2026-11-15T16:22:23.378627-03:00",
   "amz-B01HOJHOLW": "2026-11-15T16:28:34.122141-03:00",
   "amz-B0H11ZTLTX": "2026-11-15T16:36:33.064553-03:00",
-  "amz-B0DQY5B679": "2026-11-15T16:43:39.699160-03:00"
+  "amz-B0DQY5B679": "2026-11-15T16:43:39.699160-03:00",
+  "amz-B09HHMQ1SG": "2026-11-15T16:51:11.405431-03:00",
+  "amz-B0GVLW1Y1T": "2026-11-15T16:59:08.673080-03:00",
+  "amz-B0BTJBNFSV": "2026-11-15T17:05:36.306835-03:00",
+  "amz-B076HYKFL7": "2026-11-15T17:12:05.226855-03:00",
+  "amz-B0F62GFP7X": "2026-11-15T17:19:51.221024-03:00",
+  "amz-B0C2RS4ZG6": "2026-11-15T17:27:44.654219-03:00"
  },
  "ofertas_dia": [
   {
@@ -18692,6 +18704,111 @@
    "preco_em": "2026-11-15T15:24:45-03:00",
    "entrou": "2026-11-15T15:35:17.028486-03:00",
    "dia": "2026-11-15"
+  },
+  {
+   "id": "amz-B09HHMQ1SG",
+   "canal": "achadinhos",
+   "nome": "Liquidificador Mondial Easy Power 550W · 220V",
+   "preco_antigo": 129.9,
+   "preco": 76.49,
+   "desconto": 41,
+   "link": "https://www.amazon.com.br/dp/B09HHMQ1SG?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71cMRdQd96L._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-16T22:00:00-03:00",
+   "coletado_em": "2026-11-15T15:24:45-03:00",
+   "preco_em": "2026-11-15T15:24:45-03:00",
+   "entrou": "2026-11-15T15:35:17.028486-03:00",
+   "dia": "2026-11-15"
+  },
+  {
+   "id": "amz-B0GVLW1Y1T",
+   "canal": "marcas",
+   "nome": "Camiseta básica masculina Hering Comfort Super Cotton",
+   "preco_antigo": 89.99,
+   "preco": 49.9,
+   "desconto": 45,
+   "link": "https://www.amazon.com.br/dp/B0GVLW1Y1T?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51DDW32awRL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-16T22:00:00-03:00",
+   "coletado_em": "2026-11-15T15:24:45-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "preco_em": "2026-11-15T15:24:45-03:00",
+   "entrou": "2026-11-15T15:35:17.028486-03:00",
+   "dia": "2026-11-15"
+  },
+  {
+   "id": "amz-B0BTJBNFSV",
+   "canal": "tech",
+   "nome": "Headset gamer Havit H2002d com microfone · driver 53mm",
+   "preco_antigo": 229.0,
+   "preco": 153.4,
+   "desconto": 33,
+   "link": "https://www.amazon.com.br/dp/B0BTJBNFSV?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71pJtOX24yL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-16T22:00:00-03:00",
+   "coletado_em": "2026-11-15T15:24:45-03:00",
+   "preco_em": "2026-11-15T15:24:45-03:00",
+   "entrou": "2026-11-15T15:35:17.028486-03:00",
+   "dia": "2026-11-15"
+  },
+  {
+   "id": "amz-B076HYKFL7",
+   "canal": "achadinhos",
+   "nome": "Panela de pressão elétrica Electrolux por Rita Lobo 6L",
+   "preco_antigo": 739.9,
+   "preco": 479.01,
+   "desconto": 35,
+   "link": "https://www.amazon.com.br/dp/B076HYKFL7?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61W25IvSTrL._AC_SL1148_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-16T22:00:00-03:00",
+   "coletado_em": "2026-11-15T15:24:45-03:00",
+   "preco_em": "2026-11-15T15:24:45-03:00",
+   "entrou": "2026-11-15T15:35:17.028486-03:00",
+   "dia": "2026-11-15"
+  },
+  {
+   "id": "amz-B0F62GFP7X",
+   "canal": "marcas",
+   "nome": "Copo Stanley Quencher ProTour Flip Straw 1,18 L Rose Quartz",
+   "preco_antigo": 359.0,
+   "preco": 171.73,
+   "desconto": 52,
+   "link": "https://www.amazon.com.br/dp/B0F62GFP7X?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/41nTzxQBNLL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-16T22:00:00-03:00",
+   "coletado_em": "2026-11-15T08:20:41-03:00",
+   "gancho": "STANLEY QUENCHER PELA METADE",
+   "preco_em": "2026-11-15T08:20:41-03:00",
+   "entrou": "2026-11-15T16:36:28.411373-03:00",
+   "dia": "2026-11-15"
+  },
+  {
+   "id": "amz-B0C2RS4ZG6",
+   "canal": "tech",
+   "nome": "Echo Spot com Alexa (geração mais recente) · despertador inteligente",
+   "preco_antigo": 899.0,
+   "preco": 599.0,
+   "desconto": 33,
+   "link": "https://www.amazon.com.br/dp/B0C2RS4ZG6?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/718KFI+hBOL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-16T22:00:00-03:00",
+   "coletado_em": "2026-11-15T15:24:45-03:00",
+   "gancho": "ALEXA NO CRIADO-MUDO COM DESCONTÃO",
+   "preco_em": "2026-11-15T15:24:45-03:00",
+   "entrou": "2026-11-15T15:35:17.028486-03:00",
+   "dia": "2026-11-15"
   }
  ],
  "ig_feitos": [
@@ -18802,7 +18919,8 @@
   "2026-11-15 13:20 story_convite",
   "2026-11-15 14:08 story_oferta",
   "2026-11-15 15:00 adivinha",
-  "2026-11-15 16:05 adivinha_resposta"
+  "2026-11-15 16:05 adivinha_resposta",
+  "2026-11-15 16:44 story_oferta"
  ],
  "ig_ofertas_usadas": [
   "amz-B0CJ3WFW9H",
@@ -19089,45 +19207,14 @@
   "hu-domingo": "2026-11-15",
   "bs-nao-posta": "2026-11-15",
   "ac-boleto": "2026-11-15",
-  "bs-canal-marcas": "2026-11-15"
+  "bs-canal-marcas": "2026-11-15",
+  "ac-whats-loja": "2026-11-15"
  },
  "pecas_dia": {
-  "2026-11-15": 8
+  "2026-11-15": 9
  },
- "ultimo_pilar": "bastidor",
+ "ultimo_pilar": "anticilada",
  "fila": [
-  {
-   "id": "amz-B09HHMQ1SG",
-   "canal": "achadinhos",
-   "nome": "Liquidificador Mondial Easy Power 550W · 220V",
-   "preco_antigo": 129.9,
-   "preco": 76.49,
-   "desconto": 41,
-   "link": "https://www.amazon.com.br/dp/B09HHMQ1SG?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/71cMRdQd96L._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-16T22:00:00-03:00",
-   "coletado_em": "2026-11-15T15:24:45-03:00",
-   "preco_em": "2026-11-15T15:24:45-03:00",
-   "entrou": "2026-11-15T15:35:17.028486-03:00"
-  },
-  {
-   "id": "amz-B076HYKFL7",
-   "canal": "achadinhos",
-   "nome": "Panela de pressão elétrica Electrolux por Rita Lobo 6L",
-   "preco_antigo": 739.9,
-   "preco": 479.01,
-   "desconto": 35,
-   "link": "https://www.amazon.com.br/dp/B076HYKFL7?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61W25IvSTrL._AC_SL1148_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-16T22:00:00-03:00",
-   "coletado_em": "2026-11-15T15:24:45-03:00",
-   "preco_em": "2026-11-15T15:24:45-03:00",
-   "entrou": "2026-11-15T15:35:17.028486-03:00"
-  },
   {
    "id": "amz-B00XJP8MKI",
    "canal": "achadinhos",
@@ -19258,56 +19345,6 @@
    "entrou": "2026-11-15T15:35:17.028486-03:00"
   },
   {
-   "id": "amz-B0GVLW1Y1T",
-   "canal": "marcas",
-   "nome": "Camiseta básica masculina Hering Comfort Super Cotton",
-   "preco_antigo": 89.99,
-   "preco": 49.9,
-   "desconto": 45,
-   "link": "https://www.amazon.com.br/dp/B0GVLW1Y1T?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51DDW32awRL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-16T22:00:00-03:00",
-   "coletado_em": "2026-11-15T15:24:45-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "preco_em": "2026-11-15T15:24:45-03:00",
-   "entrou": "2026-11-15T15:35:17.028486-03:00"
-  },
-  {
-   "id": "amz-B0BTJBNFSV",
-   "canal": "tech",
-   "nome": "Headset gamer Havit H2002d com microfone · driver 53mm",
-   "preco_antigo": 229.0,
-   "preco": 153.4,
-   "desconto": 33,
-   "link": "https://www.amazon.com.br/dp/B0BTJBNFSV?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/71pJtOX24yL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-16T22:00:00-03:00",
-   "coletado_em": "2026-11-15T15:24:45-03:00",
-   "preco_em": "2026-11-15T15:24:45-03:00",
-   "entrou": "2026-11-15T15:35:17.028486-03:00"
-  },
-  {
-   "id": "amz-B0C2RS4ZG6",
-   "canal": "tech",
-   "nome": "Echo Spot com Alexa (geração mais recente) · despertador inteligente",
-   "preco_antigo": 899.0,
-   "preco": 599.0,
-   "desconto": 33,
-   "link": "https://www.amazon.com.br/dp/B0C2RS4ZG6?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/718KFI+hBOL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-16T22:00:00-03:00",
-   "coletado_em": "2026-11-15T15:24:45-03:00",
-   "gancho": "ALEXA NO CRIADO-MUDO COM DESCONTÃO",
-   "preco_em": "2026-11-15T15:24:45-03:00",
-   "entrou": "2026-11-15T15:35:17.028486-03:00"
-  },
-  {
    "id": "amz-B0D8KXR131",
    "canal": "tech",
    "nome": "Controle GameSir G7 SE com fio · PC e Xbox Series X|S",
@@ -19322,23 +19359,6 @@
    "coletado_em": "2026-11-15T15:24:45-03:00",
    "preco_em": "2026-11-15T15:24:45-03:00",
    "entrou": "2026-11-15T15:35:17.028486-03:00"
-  },
-  {
-   "id": "amz-B0F62GFP7X",
-   "canal": "marcas",
-   "nome": "Copo Stanley Quencher ProTour Flip Straw 1,18 L Rose Quartz",
-   "preco_antigo": 359.0,
-   "preco": 171.73,
-   "desconto": 52,
-   "link": "https://www.amazon.com.br/dp/B0F62GFP7X?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/41nTzxQBNLL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-16T22:00:00-03:00",
-   "coletado_em": "2026-11-15T08:20:41-03:00",
-   "gancho": "STANLEY QUENCHER PELA METADE",
-   "preco_em": "2026-11-15T08:20:41-03:00",
-   "entrou": "2026-11-15T16:36:28.411373-03:00"
   },
   {
    "id": "amz-B0FXJCT2FL",
@@ -20658,7 +20678,13 @@
   "caixadesomjblgo4bluetoothaprovadagua": "2026-11-15T16:22:23.378627-03:00",
   "jogodefacaspremiumtramontina3pecas": "2026-11-15T16:28:34.122141-03:00",
   "whey100concentradodarklabrefil900gcappuccino": "2026-11-15T16:36:33.064553-03:00",
-  "controlegamesirnovalitesemfiopccelulareswitch": "2026-11-15T16:43:39.699160-03:00"
+  "controlegamesirnovalitesemfiopccelulareswitch": "2026-11-15T16:43:39.699160-03:00",
+  "liquidificadormondialeasypower550w220v": "2026-11-15T16:51:11.405431-03:00",
+  "camisetabasicamasculinaheringcomfortsupercotton": "2026-11-15T16:59:08.673080-03:00",
+  "headsetgamerhavith2002dcommicrofonedriver53mm": "2026-11-15T17:05:36.306835-03:00",
+  "paneladepressaoeletricaelectroluxporritalobo6l": "2026-11-15T17:12:05.226855-03:00",
+  "copostanleyquencherprotourflipstraw118lrosequartz": "2026-11-15T17:19:51.221024-03:00",
+  "echospotcomalexageracaomaisrecentedespertadorinteligente": "2026-11-15T17:27:44.654219-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
@@ -21049,7 +21075,7 @@
   "marcas": "2026-11-12T17:56:29.409807-03:00"
  },
  "top10_dia": "2026-11-14",
- "manuais_lidos": "2026-11-15T16:36:28.411373-03:00",
+ "manuais_lidos": "2026-11-15T17:19:50.822960-03:00",
  "reserva_resultado": {
   "2026-11-07": {
    "achadinhos": {
@@ -21249,7 +21275,7 @@
    "hora": "2026-11-11T20:32:35.453128-03:00"
   }
  },
- "ig_respondido_em": "2026-11-15T16:36:28.411373-03:00",
+ "ig_respondido_em": "2026-11-15T17:27:39.449779-03:00",
  "dm_auto": {
   "2026-11-08": {
    "com_palavra": 0,
@@ -21471,7 +21497,7 @@
    "feed": 2
   },
   "2026-11-15": {
-   "story": 13,
+   "story": 14,
    "feed": 1
   }
  },
