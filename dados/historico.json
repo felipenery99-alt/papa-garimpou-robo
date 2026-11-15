@@ -1400,7 +1400,14 @@
   "2026-11-15 tech 10:58 amz-B0D2XRXNGY",
   "2026-11-15 achadinhos 11:04 amz-B0F9Z2DV83",
   "2026-11-15 marcas 11:11 amz-B0F22PGY7K",
-  "2026-11-15 tech 11:19 amz-B0FNSXGPHT"
+  "2026-11-15 tech 11:19 amz-B0FNSXGPHT",
+  "2026-11-15 achadinhos 11:25 amz-B0D43M99PS",
+  "2026-11-15 achadinhos 11:30 amz-B0DKQTMXT2",
+  "2026-11-15 marcas 11:36 amz-B08RHWX6G1",
+  "2026-11-15 tech 11:44 amz-B09KXFTCLP",
+  "2026-11-15 achadinhos 11:50 amz-B0FJMMP8CX",
+  "2026-11-15 marcas 11:57 amz-B0CL4NKT83",
+  "2026-11-15 tech 12:04 amz-B0GVSYZJ4W"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -2744,7 +2751,14 @@
   "amz-B0D2XRXNGY": "2026-11-15T10:58:37.190869-03:00",
   "amz-B0F9Z2DV83": "2026-11-15T11:04:53.108060-03:00",
   "amz-B0F22PGY7K": "2026-11-15T11:11:21.914021-03:00",
-  "amz-B0FNSXGPHT": "2026-11-15T11:19:03.397913-03:00"
+  "amz-B0FNSXGPHT": "2026-11-15T11:19:03.397913-03:00",
+  "amz-B0D43M99PS": "2026-11-15T11:25:01.035257-03:00",
+  "amz-B0DKQTMXT2": "2026-11-15T11:30:17.612305-03:00",
+  "amz-B08RHWX6G1": "2026-11-15T11:36:54.255400-03:00",
+  "amz-B09KXFTCLP": "2026-11-15T11:44:02.284648-03:00",
+  "amz-B0FJMMP8CX": "2026-11-15T11:50:34.221875-03:00",
+  "amz-B0CL4NKT83": "2026-11-15T11:57:29.962354-03:00",
+  "amz-B0GVSYZJ4W": "2026-11-15T12:04:18.571638-03:00"
  },
  "ofertas_dia": [
   {
@@ -17924,6 +17938,128 @@
    "preco_em": "2026-11-15T08:20:41-03:00",
    "entrou": "2026-11-15T08:24:50.803222-03:00",
    "dia": "2026-11-15"
+  },
+  {
+   "id": "amz-B0D43M99PS",
+   "canal": "achadinhos",
+   "nome": "Gel de limpeza L'Oréal Paris Glycolic-Bright anti-marcas",
+   "preco_antigo": 54.89,
+   "preco": 26.26,
+   "desconto": 52,
+   "link": "https://www.amazon.com.br/dp/B0D43M99PS?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71IBK3e8tQL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-16T22:00:00-03:00",
+   "coletado_em": "2026-11-15T08:20:41-03:00",
+   "preco_em": "2026-11-15T08:20:41-03:00",
+   "entrou": "2026-11-15T08:24:50.803222-03:00",
+   "dia": "2026-11-15"
+  },
+  {
+   "id": "amz-B0DKQTMXT2",
+   "canal": "achadinhos",
+   "nome": "Pote hermético de vidro Lyor com tampa de silicone",
+   "preco_antigo": 30.1,
+   "preco": 21.39,
+   "desconto": 29,
+   "link": "https://www.amazon.com.br/dp/B0DKQTMXT2?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51lRI2TIxVL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-16T22:00:00-03:00",
+   "coletado_em": "2026-11-15T08:20:41-03:00",
+   "preco_em": "2026-11-15T08:20:41-03:00",
+   "entrou": "2026-11-15T08:24:50.803222-03:00",
+   "dia": "2026-11-15"
+  },
+  {
+   "id": "amz-B08RHWX6G1",
+   "canal": "marcas",
+   "nome": "Perfume Lattafa Fakhar Black EDP 100 ml",
+   "preco_antigo": 349.99,
+   "preco": 179.91,
+   "desconto": 49,
+   "link": "https://www.amazon.com.br/dp/B08RHWX6G1?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61GbNQ4PxDL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-16T22:00:00-03:00",
+   "coletado_em": "2026-11-15T08:20:41-03:00",
+   "gancho": "LATTAFA ORIGINAL VENDIDO PELA AMAZON",
+   "preco_em": "2026-11-15T08:20:41-03:00",
+   "entrou": "2026-11-15T08:24:50.803222-03:00",
+   "dia": "2026-11-15"
+  },
+  {
+   "id": "amz-B09KXFTCLP",
+   "canal": "tech",
+   "nome": "Mouse sem fio Logitech Signature M650 L Left (canhotos)",
+   "preco_antigo": 229.9,
+   "preco": 139.9,
+   "desconto": 39,
+   "link": "https://www.amazon.com.br/dp/B09KXFTCLP?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71VW+lp5zTL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-16T22:00:00-03:00",
+   "coletado_em": "2026-11-15T08:20:41-03:00",
+   "preco_em": "2026-11-15T08:20:41-03:00",
+   "entrou": "2026-11-15T08:24:50.803222-03:00",
+   "dia": "2026-11-15"
+  },
+  {
+   "id": "amz-B0FJMMP8CX",
+   "canal": "achadinhos",
+   "nome": "Air fryer Britânia Redstone 8 L 3 em 1",
+   "preco_antigo": 399.0,
+   "preco": 263.91,
+   "desconto": 34,
+   "link": "https://www.amazon.com.br/dp/B0FJMMP8CX?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/516IzwstaCL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-16T22:00:00-03:00",
+   "coletado_em": "2026-11-15T08:20:41-03:00",
+   "preco_em": "2026-11-15T08:20:41-03:00",
+   "entrou": "2026-11-15T08:24:50.803222-03:00",
+   "dia": "2026-11-15"
+  },
+  {
+   "id": "amz-B0CL4NKT83",
+   "canal": "marcas",
+   "nome": "Perfume Azzaro Chrome United EDT 100 ml",
+   "preco_antigo": 449.0,
+   "preco": 242.98,
+   "desconto": 46,
+   "link": "https://www.amazon.com.br/dp/B0CL4NKT83?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51AFyXoQQFL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-16T22:00:00-03:00",
+   "coletado_em": "2026-11-15T08:20:41-03:00",
+   "gancho": "AZZARO CHROME COM 46% OFF",
+   "preco_em": "2026-11-15T08:20:41-03:00",
+   "entrou": "2026-11-15T08:24:50.803222-03:00",
+   "dia": "2026-11-15"
+  },
+  {
+   "id": "amz-B0GVSYZJ4W",
+   "canal": "tech",
+   "nome": "Celular Samsung Galaxy A37 5G 256GB 8GB RAM",
+   "preco_antigo": 3599.0,
+   "preco": 1954.21,
+   "desconto": 46,
+   "link": "https://www.amazon.com.br/dp/B0GVSYZJ4W?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51aUn8rRtBL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-16T22:00:00-03:00",
+   "coletado_em": "2026-11-15T08:20:41-03:00",
+   "gancho": "GALAXY A37 COM 46% OFF",
+   "preco_em": "2026-11-15T08:20:41-03:00",
+   "entrou": "2026-11-15T08:24:50.803222-03:00",
+   "dia": "2026-11-15"
   }
  ],
  "ig_feitos": [
@@ -18024,7 +18160,11 @@
   "2026-11-15 09:38 story_oferta",
   "2026-11-15 09:40 story_convite",
   "2026-11-15 10:24 story_oferta",
-  "2026-11-15 11:11 story_oferta"
+  "2026-11-15 11:11 story_oferta",
+  "2026-11-15 feed",
+  "2026-11-15 11:50 carrossel_top5",
+  "2026-11-15 11:56 story_oferta",
+  "2026-11-15 12:00 reels"
  ],
  "ig_ofertas_usadas": [
   "amz-B0GHZ4VBHD",
@@ -18230,7 +18370,7 @@
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
- "ig_ultimo_reel": "2026-11-14T20:34:33.999575-03:00",
+ "ig_ultimo_reel": "2026-11-15T12:04:04.360521-03:00",
  "pecas_usadas": {
   "ac-preco-inflado": "2026-10-27",
   "dc-7-dias": "2026-10-27",
@@ -18303,10 +18443,15 @@
   "bf-2026-11-15": "2026-11-15",
   "hu-pix-feliz": "2026-11-15",
   "mv-pix": "2026-11-15",
-  "hu-marca-boa": "2026-11-15"
+  "hu-marca-boa": "2026-11-15",
+  "mv-loja-grande": "2026-11-15",
+  "bs-marcas": "2026-11-15",
+  "ac-qr-code": "2026-11-15",
+  "dc-prazo": "2026-11-15",
+  "hu-domingo": "2026-11-15"
  },
  "pecas_dia": {
-  "2026-11-15": 4
+  "2026-11-15": 5
  },
  "ultimo_pilar": "humor",
  "fila": [
@@ -18326,54 +18471,6 @@
    "link": "https://s.shopee.com.br/70LiRyh06v",
    "canal": "marcas",
    "entrou": "2026-11-15T08:17:22.723951-03:00"
-  },
-  {
-   "id": "amz-B0D43M99PS",
-   "canal": "achadinhos",
-   "nome": "Gel de limpeza L'Oréal Paris Glycolic-Bright anti-marcas",
-   "preco_antigo": 54.89,
-   "preco": 26.26,
-   "desconto": 52,
-   "link": "https://www.amazon.com.br/dp/B0D43M99PS?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/71IBK3e8tQL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-16T22:00:00-03:00",
-   "coletado_em": "2026-11-15T08:20:41-03:00",
-   "preco_em": "2026-11-15T08:20:41-03:00",
-   "entrou": "2026-11-15T08:24:50.803222-03:00"
-  },
-  {
-   "id": "amz-B0DKQTMXT2",
-   "canal": "achadinhos",
-   "nome": "Pote hermético de vidro Lyor com tampa de silicone",
-   "preco_antigo": 30.1,
-   "preco": 21.39,
-   "desconto": 29,
-   "link": "https://www.amazon.com.br/dp/B0DKQTMXT2?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51lRI2TIxVL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-16T22:00:00-03:00",
-   "coletado_em": "2026-11-15T08:20:41-03:00",
-   "preco_em": "2026-11-15T08:20:41-03:00",
-   "entrou": "2026-11-15T08:24:50.803222-03:00"
-  },
-  {
-   "id": "amz-B0FJMMP8CX",
-   "canal": "achadinhos",
-   "nome": "Air fryer Britânia Redstone 8 L 3 em 1",
-   "preco_antigo": 399.0,
-   "preco": 263.91,
-   "desconto": 34,
-   "link": "https://www.amazon.com.br/dp/B0FJMMP8CX?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/516IzwstaCL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-16T22:00:00-03:00",
-   "coletado_em": "2026-11-15T08:20:41-03:00",
-   "preco_em": "2026-11-15T08:20:41-03:00",
-   "entrou": "2026-11-15T08:24:50.803222-03:00"
   },
   {
    "id": "amz-B0DPL9L9ZD",
@@ -18454,23 +18551,6 @@
    "plataforma": "Amazon",
    "valida_ate": "2026-11-16T22:00:00-03:00",
    "coletado_em": "2026-11-15T08:20:41-03:00",
-   "preco_em": "2026-11-15T08:20:41-03:00",
-   "entrou": "2026-11-15T08:24:50.803222-03:00"
-  },
-  {
-   "id": "amz-B08RHWX6G1",
-   "canal": "marcas",
-   "nome": "Perfume Lattafa Fakhar Black EDP 100 ml",
-   "preco_antigo": 349.99,
-   "preco": 179.91,
-   "desconto": 49,
-   "link": "https://www.amazon.com.br/dp/B08RHWX6G1?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61GbNQ4PxDL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-16T22:00:00-03:00",
-   "coletado_em": "2026-11-15T08:20:41-03:00",
-   "gancho": "LATTAFA ORIGINAL VENDIDO PELA AMAZON",
    "preco_em": "2026-11-15T08:20:41-03:00",
    "entrou": "2026-11-15T08:24:50.803222-03:00"
   },
@@ -18627,23 +18707,6 @@
    "entrou": "2026-11-15T08:24:50.803222-03:00"
   },
   {
-   "id": "amz-B0CL4NKT83",
-   "canal": "marcas",
-   "nome": "Perfume Azzaro Chrome United EDT 100 ml",
-   "preco_antigo": 449.0,
-   "preco": 242.98,
-   "desconto": 46,
-   "link": "https://www.amazon.com.br/dp/B0CL4NKT83?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51AFyXoQQFL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-16T22:00:00-03:00",
-   "coletado_em": "2026-11-15T08:20:41-03:00",
-   "gancho": "AZZARO CHROME COM 46% OFF",
-   "preco_em": "2026-11-15T08:20:41-03:00",
-   "entrou": "2026-11-15T08:24:50.803222-03:00"
-  },
-  {
    "id": "amz-B0F62GFP7X",
    "canal": "marcas",
    "nome": "Copo Stanley Quencher ProTour Flip Straw 1,18 L Rose Quartz",
@@ -18675,39 +18738,6 @@
    "coletado_em": "2026-11-15T08:20:41-03:00",
    "extra": "Preço a partir de: varia por tamanho e cor",
    "gancho": "FILA DE CORRIDA COM 58% OFF",
-   "preco_em": "2026-11-15T08:20:41-03:00",
-   "entrou": "2026-11-15T08:24:50.803222-03:00"
-  },
-  {
-   "id": "amz-B09KXFTCLP",
-   "canal": "tech",
-   "nome": "Mouse sem fio Logitech Signature M650 L Left (canhotos)",
-   "preco_antigo": 229.9,
-   "preco": 139.9,
-   "desconto": 39,
-   "link": "https://www.amazon.com.br/dp/B09KXFTCLP?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/71VW+lp5zTL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-16T22:00:00-03:00",
-   "coletado_em": "2026-11-15T08:20:41-03:00",
-   "preco_em": "2026-11-15T08:20:41-03:00",
-   "entrou": "2026-11-15T08:24:50.803222-03:00"
-  },
-  {
-   "id": "amz-B0GVSYZJ4W",
-   "canal": "tech",
-   "nome": "Celular Samsung Galaxy A37 5G 256GB 8GB RAM",
-   "preco_antigo": 3599.0,
-   "preco": 1954.21,
-   "desconto": 46,
-   "link": "https://www.amazon.com.br/dp/B0GVSYZJ4W?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51aUn8rRtBL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-16T22:00:00-03:00",
-   "coletado_em": "2026-11-15T08:20:41-03:00",
-   "gancho": "GALAXY A37 COM 46% OFF",
    "preco_em": "2026-11-15T08:20:41-03:00",
    "entrou": "2026-11-15T08:24:50.803222-03:00"
   },
@@ -18794,6 +18824,24 @@
    "link": "https://s.shopee.com.br/2BGSguHaJc",
    "canal": "achadinhos",
    "entrou": "2026-11-15T09:48:29.938087-03:00"
+  },
+  {
+   "id": "shopee-19399263103",
+   "plataforma": "Shopee",
+   "nome": "Baseus Cabo Rápido Usb Para Tipo- C Baseus Cafule Nylon 2a 2 Metros Preto para iPhone 15 16 Android",
+   "loja": "Baseus Oficial",
+   "loja_oficial": true,
+   "preco": 39.9,
+   "preco_antigo": 65.41,
+   "desconto": 39,
+   "vendas": 461,
+   "nota": 5.0,
+   "comissao_pct": 11.0,
+   "imagem": "https://cf.shopee.com.br/file/br-11134207-820lj-mo7yfc2x4w040d",
+   "link": "https://s.shopee.com.br/9zzHmL9ve7",
+   "canal": "tech",
+   "entrou": "2026-11-15T11:21:57.451730-03:00",
+   "reprise_dias": 7
   }
  ],
  "menus_fixados": [
@@ -18804,7 +18852,7 @@
   "bv1 @papagarimpouofertas"
  ],
  "feed_dia": {
-  "2026-11-07": 1
+  "2026-11-15": 1
  },
  "postados_nome": {
   "escovasecadormodeladorataiffovaleasypinkoriginal": "2026-11-13T14:24:40.607702-03:00",
@@ -19989,7 +20037,14 @@
   "foneabertosoundcoreankerv20ibluetooth": "2026-11-15T10:58:37.190869-03:00",
   "roboaspiradorwaprobotw3103em1bivolt": "2026-11-15T11:04:53.108060-03:00",
   "perfumelancomelavieestbellevanillenudeedp": "2026-11-15T11:11:21.914021-03:00",
-  "headsetgamerjblquantum250commicrofone": "2026-11-15T11:19:03.397913-03:00"
+  "headsetgamerjblquantum250commicrofone": "2026-11-15T11:19:03.397913-03:00",
+  "geldelimpezalorealparisglycolicbrightantimarcas": "2026-11-15T11:25:01.035257-03:00",
+  "potehermeticodevidrolyorcomtampadesilicone": "2026-11-15T11:30:17.612305-03:00",
+  "perfumelattafafakharblackedp100ml": "2026-11-15T11:36:54.255400-03:00",
+  "mousesemfiologitechsignaturem650lleftcanhotos": "2026-11-15T11:44:02.284648-03:00",
+  "airfryerbritaniaredstone8l3em1": "2026-11-15T11:50:34.221875-03:00",
+  "perfumeazzarochromeunitededt100ml": "2026-11-15T11:57:29.962354-03:00",
+  "celularsamsunggalaxya375g256gb8gbram": "2026-11-15T12:04:18.571638-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
@@ -20380,7 +20435,7 @@
   "marcas": "2026-11-12T17:56:29.409807-03:00"
  },
  "top10_dia": "2026-11-14",
- "manuais_lidos": "2026-11-15T11:11:07.763391-03:00",
+ "manuais_lidos": "2026-11-15T11:57:12.471657-03:00",
  "reserva_resultado": {
   "2026-11-07": {
    "achadinhos": {
@@ -20517,7 +20572,7 @@
    "tech": {
     "busca": 0,
     "quase": 0,
-    "reprise": 1
+    "reprise": 2
    },
    "achadinhos": {
     "busca": 0,
@@ -20580,7 +20635,7 @@
    "hora": "2026-11-11T20:32:35.453128-03:00"
   }
  },
- "ig_respondido_em": "2026-11-15T11:11:07.763391-03:00",
+ "ig_respondido_em": "2026-11-15T12:04:04.360521-03:00",
  "dm_auto": {
   "2026-11-08": {
    "com_palavra": 0,
@@ -20777,6 +20832,14 @@
     "legenda": "Manda pra quem tá precisando disso 👇\n😎💎 Até 46% OFF em marca boa: os 4 achados do Papa hoje\n\nOfertas todo dia no Telegram: papagarimpouofertas 💎\n\nPubli · link de afiliado",
     "url": "https://raw.githubusercontent.com/felipenery99-alt/papa-garimpou-robo/tiktok-midia/20261114-2034-tiktok.mp4"
    }
+  ],
+  "2026-11-15": [
+   {
+    "hora": "12:04",
+    "capa": "banco",
+    "legenda": "Manda pra quem tá precisando disso 👇\n😎💎 Qr Code De / Olhe O Prazo / Domingo À Noite\n\nOfertas todo dia no Telegram: papagarimpouofertas 💎\n\nPubli · link de afiliado",
+    "url": "https://raw.githubusercontent.com/felipenery99-alt/papa-garimpou-robo/tiktok-midia/20261115-1204-tiktok.mp4"
+   }
   ]
  },
  "amz_visto": {},
@@ -20794,8 +20857,8 @@
    "feed": 2
   },
   "2026-11-15": {
-   "story": 6,
-   "feed": 0
+   "story": 7,
+   "feed": 1
   }
  },
  "ig_conta_ok": "2026-11-15",
