@@ -18560,56 +18560,6 @@
  "ultimo_pilar": "humor",
  "fila": [
   {
-   "id": "amz-B0C2J8DQC1",
-   "canal": "achadinhos",
-   "nome": "Barbeador Philips OneBlade",
-   "preco_antigo": 244.74,
-   "preco": 134.0,
-   "desconto": 45,
-   "link": "https://www.amazon.com.br/dp/B0C2J8DQC1?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/71QS7WTTChL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-15T22:00:00-03:00",
-   "coletado_em": "2026-11-14T15:18:03-03:00",
-   "gancho": "ONEBLADE DA PHILIPS COM 45% OFF",
-   "preco_em": "2026-11-14T15:18:03-03:00",
-   "entrou": "2026-11-14T19:23:44.168916-03:00"
-  },
-  {
-   "id": "amz-B0G1ZM8PQ7",
-   "canal": "achadinhos",
-   "nome": "Parafusadeira e Furadeira BLACK+DECKER",
-   "preco_antigo": 299.0,
-   "preco": 197.13,
-   "desconto": 34,
-   "link": "https://www.amazon.com.br/dp/B0G1ZM8PQ7?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/81lU2uA8DRL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-15T22:00:00-03:00",
-   "coletado_em": "2026-11-14T15:18:03-03:00",
-   "preco_em": "2026-11-14T15:18:03-03:00",
-   "entrou": "2026-11-14T19:23:44.168916-03:00"
-  },
-  {
-   "id": "amz-B09W48TKX2",
-   "canal": "achadinhos",
-   "nome": "Jogo de Frigideiras Tramontina Caribe 3 Peças",
-   "preco_antigo": 136.53,
-   "preco": 73.99,
-   "desconto": 46,
-   "link": "https://www.amazon.com.br/dp/B09W48TKX2?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51-jW6qP7YL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-15T22:00:00-03:00",
-   "coletado_em": "2026-11-14T15:18:03-03:00",
-   "gancho": "TRAMONTINA QUASE PELA METADE",
-   "preco_em": "2026-11-14T15:18:03-03:00",
-   "entrou": "2026-11-14T19:23:44.168916-03:00"
-  },
-  {
    "id": "amz-B076QF5VJJ",
    "canal": "achadinhos",
    "nome": "Lavadora de Alta Pressão WAP Ágil 1800",
@@ -18676,6 +18626,73 @@
    "gancho": "MOCHILA THE NORTH FACE COM 37% OFF",
    "preco_em": "2026-11-14T18:18:48-03:00",
    "entrou": "2026-11-14T22:55:16.323183-03:00"
+  },
+  {
+   "id": "amz-B0C2J8DQC1",
+   "canal": "achadinhos",
+   "nome": "Barbeador Philips OneBlade",
+   "preco_antigo": 244.74,
+   "preco": 134.0,
+   "desconto": 45,
+   "link": "https://www.amazon.com.br/dp/B0C2J8DQC1?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71QS7WTTChL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-15T22:00:00-03:00",
+   "coletado_em": "2026-11-14T15:18:03-03:00",
+   "gancho": "ONEBLADE DA PHILIPS COM 45% OFF",
+   "preco_em": "2026-11-14T15:18:03-03:00",
+   "entrou": "2026-11-14T23:31:40.198087-03:00"
+  },
+  {
+   "id": "amz-B0G1ZM8PQ7",
+   "canal": "achadinhos",
+   "nome": "Parafusadeira e Furadeira BLACK+DECKER",
+   "preco_antigo": 299.0,
+   "preco": 197.13,
+   "desconto": 34,
+   "link": "https://www.amazon.com.br/dp/B0G1ZM8PQ7?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/81lU2uA8DRL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-15T22:00:00-03:00",
+   "coletado_em": "2026-11-14T15:18:03-03:00",
+   "preco_em": "2026-11-14T15:18:03-03:00",
+   "entrou": "2026-11-14T23:31:40.198087-03:00"
+  },
+  {
+   "id": "amz-B09W48TKX2",
+   "canal": "achadinhos",
+   "nome": "Jogo de Frigideiras Tramontina Caribe 3 Peças",
+   "preco_antigo": 136.53,
+   "preco": 73.99,
+   "desconto": 46,
+   "link": "https://www.amazon.com.br/dp/B09W48TKX2?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51-jW6qP7YL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-15T22:00:00-03:00",
+   "coletado_em": "2026-11-14T15:18:03-03:00",
+   "gancho": "TRAMONTINA QUASE PELA METADE",
+   "preco_em": "2026-11-14T15:18:03-03:00",
+   "entrou": "2026-11-14T23:31:40.198087-03:00"
+  },
+  {
+   "id": "shopee-3258773144",
+   "plataforma": "Shopee",
+   "nome": "Baseus EnerFill FN22 Fast Charger 1C PD 20W/30W/45W Safety Protections Mini Gan Tech Adapter for IPhone 17",
+   "loja": "Baseus Oficial Store",
+   "loja_oficial": true,
+   "preco": 49.49,
+   "preco_antigo": 137.47,
+   "desconto": 64,
+   "vendas": 578,
+   "nota": 4.9,
+   "comissao_pct": 7.0,
+   "imagem": "https://cf.shopee.com.br/file/cn-11134207-820l4-mmzna00skykoe1",
+   "link": "https://s.shopee.com.br/906kLS31zO",
+   "canal": "tech",
+   "entrou": "2026-11-14T23:41:02.978307-03:00"
   }
  ],
  "menus_fixados": [
@@ -20230,14 +20247,14 @@
   "2026-11-13 noite achadinhos",
   "2026-11-13 noite marcas"
  ],
- "reserva_meio": "2026-11-14T23:03:43.665466-03:00",
+ "reserva_meio": "2026-11-14T23:41:02.978307-03:00",
  "reserva_cheia": {
   "achadinhos": "2026-11-13T20:21:49.534614-03:00",
   "tech": "2026-11-14T11:56:11.521150-03:00",
   "marcas": "2026-11-12T17:56:29.409807-03:00"
  },
  "top10_dia": "2026-11-14",
- "manuais_lidos": "2026-11-14T23:03:43.665466-03:00",
+ "manuais_lidos": "2026-11-14T23:41:02.978307-03:00",
  "reserva_resultado": {
   "2026-11-07": {
    "achadinhos": {
@@ -20365,7 +20382,7 @@
     "reprise": 1
    },
    "tech": {
-    "busca": 0,
+    "busca": 1,
     "quase": 1,
     "reprise": 0
    }
@@ -20425,7 +20442,7 @@
    "hora": "2026-11-11T20:32:35.453128-03:00"
   }
  },
- "ig_respondido_em": "2026-11-14T22:55:16.323183-03:00",
+ "ig_respondido_em": "2026-11-14T23:31:40.198087-03:00",
  "dm_auto": {
   "2026-11-08": {
    "com_palavra": 0,

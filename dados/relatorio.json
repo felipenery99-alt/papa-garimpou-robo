@@ -2930,8 +2930,8 @@
    "⚠️ Fila vazia (tech), último garimpo 08:23 — abrir o app Claude e conferir as rotinas",
    "canal geral não recebeu amz-B0CZ7CDRSV: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
   ],
-  "ultima_execucao": "22:55",
-  "execucoes": 26,
+  "ultima_execucao": "23:31",
+  "execucoes": 27,
   "telegram_posts": {
    "achadinhos": 50,
    "marcas": 35,
@@ -3036,7 +3036,7 @@
     "reprise": 1
    },
    "tech": {
-    "busca": 0,
+    "busca": 1,
     "quase": 1,
     "reprise": 0
    }
@@ -6282,17 +6282,43 @@
    "shopee-58271881318": "nota",
    "shopee-22293488061": "vendas longe",
    "shopee-23697149423": "vendas longe",
-   "shopee-58204359882": "vendas longe"
+   "shopee-58204359882": "vendas longe",
+   "shopee-23193172144": "vendas longe",
+   "shopee-58271232424": "nota",
+   "shopee-48910151008": "vendas longe",
+   "shopee-58265768319": "nota",
+   "shopee-58218755541": "nota",
+   "shopee-23193257469": "nota",
+   "shopee-55421071989": "nota",
+   "shopee-53161540827": "nota",
+   "shopee-10104506606": "vendas longe",
+   "shopee-22494748067": "vendas longe",
+   "shopee-58268158621": "nota",
+   "shopee-22499394557": "nota",
+   "shopee-17573368716": "nota",
+   "shopee-58217898612": "nota",
+   "shopee-58220628745": "nota",
+   "shopee-58219552537": "nota",
+   "shopee-58220869574": "nota",
+   "shopee-55218936776": "nota",
+   "shopee-42135014258": "nota",
+   "shopee-19399263103": "aprovada",
+   "shopee-22898460218": "outro: marca fora da lista boa",
+   "shopee-9739004991": "desconto perto (até 10 pts)",
+   "shopee-58263574170": "nota",
+   "shopee-58263189018": "nota",
+   "shopee-58212848215": "nota",
+   "shopee-23299439754": "nota"
   },
   "shopee_oficial": {
-   "vendas longe": 1684,
-   "nota": 1159,
+   "vendas longe": 1688,
+   "nota": 1178,
    "vendas perto (125+)": 107,
-   "outro: marca fora da lista boa": 97,
+   "outro: marca fora da lista boa": 98,
+   "aprovada": 69,
    "desconto longe": 69,
-   "aprovada": 68,
    "outro: palavra proibida: compatível": 31,
-   "desconto perto (até 10 pts)": 26
+   "desconto perto (até 10 pts)": 27
   },
   "manuais_descartados_ids": {
    "amz-B0D98VK8PP": "ja_postado_30d",
@@ -6610,13 +6636,13 @@
   "instagram": {
    "seguidores": 496,
    "posts": 124,
-   "reach": 3050,
-   "profile_views": 80,
+   "reach": 3063,
+   "profile_views": 83,
    "website_clicks": 0,
    "stories_ativos": 19
   },
   "reels_alcance": {
-   "atualizado": "2026-11-14T22:55:16.323183-03:00",
+   "atualizado": "2026-11-14T23:31:40.198087-03:00",
    "itens": [
     {
      "id": "18230902090331796",
