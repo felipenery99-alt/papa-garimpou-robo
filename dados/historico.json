@@ -17415,41 +17415,7 @@
   "parceria jess-20261108",
   "story especial pede-pro-papa 2026-11-09",
   "story especial pede-pro-papa 2026-11-10",
-  "2026-11-11 08:07 story_oferta",
-  "2026-11-11 08:45 story_oferta",
-  "2026-11-11 08:52 story_oferta",
-  "2026-11-11 09:38 story_oferta",
-  "2026-11-11 10:20 story_oferta",
-  "2026-11-11 10:24 story_oferta",
-  "2026-11-11 11:11 story_oferta",
-  "2026-11-11 feed",
-  "2026-11-11 11:50 carrossel_top5",
-  "2026-11-11 11:56 story_oferta",
-  "2026-11-11 12:00 reels",
-  "2026-11-11 12:15 story_top4",
-  "2026-11-11 12:19 story_oferta",
-  "2026-11-11 12:47 story_oferta",
-  "2026-11-11 13:20 story_convite",
-  "2026-11-11 13:22 story_oferta",
-  "2026-11-11 14:08 story_oferta",
-  "2026-11-11 15:00 adivinha",
-  "2026-11-11 15:03 story_oferta",
-  "2026-11-11 16:05 adivinha_resposta",
-  "2026-11-11 16:44 story_oferta",
   "story especial pede-pro-papa 2026-11-11",
-  "2026-11-11 18:05 a_ou_b",
-  "2026-11-11 17:36 story_oferta",
-  "2026-11-11 18:09 story_oferta",
-  "2026-11-11 18:30 reels",
-  "2026-11-11 18:42 story_oferta",
-  "2026-11-11 19:15 post_achado",
-  "2026-11-11 19:17 story_oferta",
-  "2026-11-11 20:03 story_oferta",
-  "2026-11-11 20:30 reels",
-  "2026-11-11 20:35 story_top4",
-  "2026-11-11 20:38 story_oferta",
-  "2026-11-11 21:20 story_convite",
-  "2026-11-11 21:24 story_oferta",
   "2026-11-12 08:07 story_oferta",
   "2026-11-12 08:52 story_oferta",
   "2026-11-12 10:20 story_oferta",
@@ -17806,74 +17772,6 @@
  "ultimo_pilar": "humor",
  "fila": [
   {
-   "id": "amz-B076QF5VJJ",
-   "canal": "achadinhos",
-   "nome": "Lavadora de Alta Pressão WAP Ágil 1800",
-   "preco_antigo": 599.9,
-   "preco": 316.81,
-   "desconto": 47,
-   "link": "https://www.amazon.com.br/dp/B076QF5VJJ?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/71PnrOD9HaL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-15T22:00:00-03:00",
-   "coletado_em": "2026-11-14T18:16:48-03:00",
-   "gancho": "WAP QUASE PELA METADE",
-   "preco_em": "2026-11-14T18:16:48-03:00",
-   "entrou": "2026-11-14T22:55:16.323183-03:00"
-  },
-  {
-   "id": "amz-B07N7XL6JM",
-   "canal": "marcas",
-   "nome": "Óculos de Sol Oakley Sutro OO9406 Masculino",
-   "preco_antigo": 1050.0,
-   "preco": 569.9,
-   "desconto": 46,
-   "link": "https://www.amazon.com.br/dp/B07N7XL6JM?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51V6h8hUylL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-15T22:00:00-03:00",
-   "coletado_em": "2026-11-14T18:18:48-03:00",
-   "gancho": "OAKLEY SUTRO COM 46% OFF",
-   "preco_em": "2026-11-14T18:18:48-03:00",
-   "entrou": "2026-11-14T22:55:16.323183-03:00"
-  },
-  {
-   "id": "amz-B085MJWD38",
-   "canal": "marcas",
-   "nome": "Whey Integralmédica 100% Pure Cookies and Cream 1,8kg",
-   "preco_antigo": 429.9,
-   "preco": 286.98,
-   "desconto": 33,
-   "link": "https://www.amazon.com.br/dp/B085MJWD38?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/81LQ0lKVktL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-15T22:00:00-03:00",
-   "coletado_em": "2026-11-14T18:18:48-03:00",
-   "gancho": "WHEY 1,8KG DA INTEGRALMÉDICA COM 33% OFF",
-   "preco_em": "2026-11-14T18:18:48-03:00",
-   "entrou": "2026-11-14T22:55:16.323183-03:00"
-  },
-  {
-   "id": "amz-B0CN9TLR5K",
-   "canal": "marcas",
-   "nome": "Mochila para notebook The North Face Vault Everyday",
-   "preco_antigo": 799.0,
-   "preco": 499.9,
-   "desconto": 37,
-   "link": "https://www.amazon.com.br/dp/B0CN9TLR5K?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/810gaTKLATL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-15T22:00:00-03:00",
-   "coletado_em": "2026-11-14T18:18:48-03:00",
-   "gancho": "MOCHILA THE NORTH FACE COM 37% OFF",
-   "preco_em": "2026-11-14T18:18:48-03:00",
-   "entrou": "2026-11-14T22:55:16.323183-03:00"
-  },
-  {
    "id": "amz-B0C2J8DQC1",
    "canal": "achadinhos",
    "nome": "Barbeador Philips OneBlade",
@@ -17888,7 +17786,7 @@
    "coletado_em": "2026-11-14T15:18:03-03:00",
    "gancho": "ONEBLADE DA PHILIPS COM 45% OFF",
    "preco_em": "2026-11-14T15:18:03-03:00",
-   "entrou": "2026-11-14T23:31:40.198087-03:00"
+   "entrou": "2026-11-15T03:51:49.488855-03:00"
   },
   {
    "id": "amz-B0G1ZM8PQ7",
@@ -17904,7 +17802,7 @@
    "valida_ate": "2026-11-15T22:00:00-03:00",
    "coletado_em": "2026-11-14T15:18:03-03:00",
    "preco_em": "2026-11-14T15:18:03-03:00",
-   "entrou": "2026-11-14T23:31:40.198087-03:00"
+   "entrou": "2026-11-15T03:51:49.488855-03:00"
   },
   {
    "id": "amz-B09W48TKX2",
@@ -17921,24 +17819,229 @@
    "coletado_em": "2026-11-14T15:18:03-03:00",
    "gancho": "TRAMONTINA QUASE PELA METADE",
    "preco_em": "2026-11-14T15:18:03-03:00",
-   "entrou": "2026-11-14T23:31:40.198087-03:00"
+   "entrou": "2026-11-15T03:51:49.488855-03:00"
   },
   {
-   "id": "shopee-3258773144",
+   "id": "amz-B076QF5VJJ",
+   "canal": "achadinhos",
+   "nome": "Lavadora de Alta Pressão WAP Ágil 1800",
+   "preco_antigo": 599.9,
+   "preco": 316.81,
+   "desconto": 47,
+   "link": "https://www.amazon.com.br/dp/B076QF5VJJ?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71PnrOD9HaL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-15T22:00:00-03:00",
+   "coletado_em": "2026-11-14T18:16:48-03:00",
+   "gancho": "WAP QUASE PELA METADE",
+   "preco_em": "2026-11-14T18:16:48-03:00",
+   "entrou": "2026-11-15T03:51:49.488855-03:00"
+  },
+  {
+   "id": "amz-B07N7XL6JM",
+   "canal": "marcas",
+   "nome": "Óculos de Sol Oakley Sutro OO9406 Masculino",
+   "preco_antigo": 1050.0,
+   "preco": 569.9,
+   "desconto": 46,
+   "link": "https://www.amazon.com.br/dp/B07N7XL6JM?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51V6h8hUylL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-15T22:00:00-03:00",
+   "coletado_em": "2026-11-14T18:18:48-03:00",
+   "gancho": "OAKLEY SUTRO COM 46% OFF",
+   "preco_em": "2026-11-14T18:18:48-03:00",
+   "entrou": "2026-11-15T03:51:49.488855-03:00"
+  },
+  {
+   "id": "amz-B085MJWD38",
+   "canal": "marcas",
+   "nome": "Whey Integralmédica 100% Pure Cookies and Cream 1,8kg",
+   "preco_antigo": 429.9,
+   "preco": 286.98,
+   "desconto": 33,
+   "link": "https://www.amazon.com.br/dp/B085MJWD38?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/81LQ0lKVktL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-15T22:00:00-03:00",
+   "coletado_em": "2026-11-14T18:18:48-03:00",
+   "gancho": "WHEY 1,8KG DA INTEGRALMÉDICA COM 33% OFF",
+   "preco_em": "2026-11-14T18:18:48-03:00",
+   "entrou": "2026-11-15T03:51:49.488855-03:00"
+  },
+  {
+   "id": "amz-B0CN9TLR5K",
+   "canal": "marcas",
+   "nome": "Mochila para notebook The North Face Vault Everyday",
+   "preco_antigo": 799.0,
+   "preco": 499.9,
+   "desconto": 37,
+   "link": "https://www.amazon.com.br/dp/B0CN9TLR5K?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/810gaTKLATL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-15T22:00:00-03:00",
+   "coletado_em": "2026-11-14T18:18:48-03:00",
+   "gancho": "MOCHILA THE NORTH FACE COM 37% OFF",
+   "preco_em": "2026-11-14T18:18:48-03:00",
+   "entrou": "2026-11-15T03:51:49.488855-03:00"
+  },
+  {
+   "id": "shopee-18797677549",
    "plataforma": "Shopee",
-   "nome": "Baseus EnerFill FN22 Fast Charger 1C PD 20W/30W/45W Safety Protections Mini Gan Tech Adapter for IPhone 17",
-   "loja": "Baseus Oficial Store",
+   "nome": "Secador De Cabelo Taiff Style Profissional Original 2000W",
+   "loja": "Beleza Renovada Oficial",
    "loja_oficial": true,
-   "preco": 49.49,
-   "preco_antigo": 137.47,
-   "desconto": 64,
-   "vendas": 578,
+   "preco": 274.46,
+   "preco_antigo": 481.51,
+   "desconto": 43,
+   "vendas": 663,
    "nota": 4.9,
-   "comissao_pct": 7.0,
-   "imagem": "https://cf.shopee.com.br/file/cn-11134207-820l4-mmzna00skykoe1",
-   "link": "https://s.shopee.com.br/906kLS31zO",
+   "comissao_pct": 12.0,
+   "imagem": "https://cf.shopee.com.br/file/sg-11134201-824jf-mf0cfquk2m16e3",
+   "link": "https://s.shopee.com.br/gReu9NIMD",
+   "canal": "achadinhos",
+   "entrou": "2026-11-15T03:51:49.488855-03:00"
+  },
+  {
+   "id": "shopee-20999203046",
+   "plataforma": "Shopee",
+   "nome": "Ventilador Mondial 30cm Vsp 30 B 60hz Loi",
+   "loja": "LOI BRASIL",
+   "loja_oficial": true,
+   "preco": 139.99,
+   "preco_antigo": 264.13,
+   "desconto": 47,
+   "vendas": 5093,
+   "nota": 4.9,
+   "comissao_pct": 6.0,
+   "imagem": "https://cf.shopee.com.br/file/br-11134207-820lg-mralqrfevhfp9f",
+   "link": "https://s.shopee.com.br/ql56WgYuy",
+   "canal": "achadinhos",
+   "entrou": "2026-11-15T03:51:49.488855-03:00"
+  },
+  {
+   "id": "shopee-21199205245",
+   "plataforma": "Shopee",
+   "nome": "Secador De Cabelo Taiff Style Profissional Original 2000W",
+   "loja": "Beleza Renovada Oficial",
+   "loja_oficial": true,
+   "preco": 261.93,
+   "preco_antigo": 422.47,
+   "desconto": 38,
+   "vendas": 506,
+   "nota": 4.9,
+   "comissao_pct": 12.0,
+   "imagem": "https://cf.shopee.com.br/file/sg-11134201-82608-ml7dpgvbti4j34",
+   "link": "https://s.shopee.com.br/2BGSguHaJc",
+   "canal": "achadinhos",
+   "entrou": "2026-11-15T03:51:49.488855-03:00"
+  },
+  {
+   "id": "shopee-21997684262",
+   "plataforma": "Shopee",
+   "nome": "Sanduicheira e Grill Britânia 2 em 1 750W BGRE01",
+   "loja": "Britânia Oficial",
+   "loja_oficial": true,
+   "preco": 79.9,
+   "preco_antigo": 140.18,
+   "desconto": 43,
+   "vendas": 1246,
+   "nota": 4.9,
+   "comissao_pct": 4.0,
+   "imagem": "https://cf.shopee.com.br/file/sg-11134201-8258u-mudiny7ntseea9",
+   "link": "https://s.shopee.com.br/9fMTclVHFS",
+   "canal": "achadinhos",
+   "entrou": "2026-11-15T03:51:49.488855-03:00"
+  },
+  {
+   "id": "shopee-27231768018",
+   "plataforma": "Shopee",
+   "nome": "Cafeteira Elétrica Electrolux Ecm10 15 Xícaras 600w Grafite 110V",
+   "loja": "123 Comprou!",
+   "loja_oficial": true,
+   "preco": 122.9,
+   "preco_antigo": 223.45,
+   "desconto": 45,
+   "vendas": 606,
+   "nota": 4.9,
+   "comissao_pct": 3.0,
+   "imagem": "https://cf.shopee.com.br/file/sg-11134201-7repc-m83ssyedawlt1e",
+   "link": "https://s.shopee.com.br/BVJv3zqe8",
+   "canal": "achadinhos",
+   "entrou": "2026-11-15T03:51:49.488855-03:00"
+  },
+  {
+   "id": "shopee-19646145273",
+   "plataforma": "Shopee",
+   "nome": "Calça Leg Legging Max Lupo Sport Tecnologia Sem Costura Seamless Dry para Treino de Alto Rendimento",
+   "loja": "Deccó",
+   "loja_oficial": true,
+   "preco": 136.77,
+   "preco_antigo": 224.21,
+   "desconto": 39,
+   "vendas": 2379,
+   "nota": 4.9,
+   "comissao_pct": 13.0,
+   "imagem": "https://cf.shopee.com.br/file/br-11134207-820lm-mtqpjx92cw7411",
+   "link": "https://s.shopee.com.br/4fxnPiXonB",
+   "canal": "marcas",
+   "entrou": "2026-11-15T03:51:49.488855-03:00"
+  },
+  {
+   "id": "shopee-21916807534",
+   "plataforma": "Shopee",
+   "nome": "Kit Com 6 Pares De Meias Lupo Sport Cano Médio Esportiva Adulto Em Algodão",
+   "loja": "Deccó",
+   "loja_oficial": true,
+   "preco": 57.87,
+   "preco_antigo": 103.34,
+   "desconto": 44,
+   "vendas": 2890,
+   "nota": 4.9,
+   "comissao_pct": 10.0,
+   "imagem": "https://cf.shopee.com.br/file/br-11134207-820lj-mv5zhrhmsl4zf8",
+   "link": "https://s.shopee.com.br/60TB0BAoAm",
+   "canal": "marcas",
+   "entrou": "2026-11-15T03:51:49.488855-03:00"
+  },
+  {
+   "id": "shopee-23398337380",
+   "plataforma": "Shopee",
+   "nome": "Camiseta Basica Tech Insider Masculina",
+   "loja": "INSIDER",
+   "loja_oficial": true,
+   "preco": 110.0,
+   "preco_antigo": 174.6,
+   "desconto": 37,
+   "vendas": 564,
+   "nota": 4.9,
+   "comissao_pct": 11.0,
+   "imagem": "https://cf.shopee.com.br/file/sg-11134201-821dg-mgxzygq135l76e",
+   "link": "https://s.shopee.com.br/70LiRyh06v",
+   "canal": "marcas",
+   "entrou": "2026-11-15T03:51:49.488855-03:00"
+  },
+  {
+   "id": "shopee-19399263103",
+   "plataforma": "Shopee",
+   "nome": "Baseus Cabo Rápido Usb Para Tipo- C Baseus Cafule Nylon 2a 2 Metros Preto para iPhone 15 16 Android",
+   "loja": "Baseus Oficial",
+   "loja_oficial": true,
+   "preco": 39.9,
+   "preco_antigo": 65.41,
+   "desconto": 39,
+   "vendas": 461,
+   "nota": 5.0,
+   "comissao_pct": 11.0,
+   "imagem": "https://cf.shopee.com.br/file/br-11134207-820lj-mo7yfc2x4w040d",
+   "link": "https://s.shopee.com.br/9zzHmL9ve7",
    "canal": "tech",
-   "entrou": "2026-11-14T23:41:02.978307-03:00"
+   "entrou": "2026-11-15T04:04:06.635259-03:00",
+   "reprise_dias": 7
   }
  ],
  "menus_fixados": [
@@ -19460,7 +19563,7 @@
  "vigia_aviso_post": "2026-11-09T18:27:03.734589-03:00",
  "vigia_aviso_garimpo": "2026-11-14T11:21:45.539968-03:00",
  "resumo_enviado": "2026-11-14",
- "token_conferido": "2026-11-14",
+ "token_conferido": "2026-11-15",
  "meta_token": {
   "tipo": "SYSTEM_USER",
   "valido": true,
@@ -19493,14 +19596,14 @@
   "2026-11-13 noite achadinhos",
   "2026-11-13 noite marcas"
  ],
- "reserva_meio": "2026-11-14T23:41:02.978307-03:00",
+ "reserva_meio": "2026-11-15T04:04:06.635259-03:00",
  "reserva_cheia": {
   "achadinhos": "2026-11-13T20:21:49.534614-03:00",
   "tech": "2026-11-14T11:56:11.521150-03:00",
   "marcas": "2026-11-12T17:56:29.409807-03:00"
  },
  "top10_dia": "2026-11-14",
- "manuais_lidos": "2026-11-15T00:09:04.596627-03:00",
+ "manuais_lidos": "2026-11-15T04:04:06.635259-03:00",
  "reserva_resultado": {
   "2026-11-07": {
    "achadinhos": {
@@ -19632,6 +19735,13 @@
     "quase": 1,
     "reprise": 0
    }
+  },
+  "2026-11-15": {
+   "tech": {
+    "busca": 0,
+    "quase": 0,
+    "reprise": 1
+   }
   }
  },
  "ig_reels_log": {
@@ -19688,7 +19798,7 @@
    "hora": "2026-11-11T20:32:35.453128-03:00"
   }
  },
- "ig_respondido_em": "2026-11-14T23:59:34.602320-03:00",
+ "ig_respondido_em": "2026-11-15T04:04:06.635259-03:00",
  "dm_auto": {
   "2026-11-08": {
    "com_palavra": 0,
@@ -19727,6 +19837,12 @@
    "ultimo_erro": ""
   },
   "2026-11-14": {
+   "com_palavra": 0,
+   "dm_ok": 0,
+   "dm_falha": 0,
+   "ultimo_erro": ""
+  },
+  "2026-11-15": {
    "com_palavra": 0,
    "dm_ok": 0,
    "dm_falha": 0,
@@ -19883,10 +19999,6 @@
  },
  "amz_visto": {},
  "ig_cont": {
-  "2026-11-11": {
-   "story": 0,
-   "feed": 0
-  },
   "2026-11-12": {
    "story": 15,
    "feed": 2
@@ -19898,9 +20010,13 @@
   "2026-11-14": {
    "story": 19,
    "feed": 2
+  },
+  "2026-11-15": {
+   "story": 0,
+   "feed": 0
   }
  },
- "ig_conta_ok": "2026-11-14",
+ "ig_conta_ok": "2026-11-15",
  "share_erro": {},
  "ig_tentativas": {
   "2026-11-14 14:08 story_oferta": 1
