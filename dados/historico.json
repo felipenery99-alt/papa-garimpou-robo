@@ -1380,7 +1380,13 @@
   "2026-11-15 tech 08:40 amz-B08F6QCG19",
   "2026-11-15 achadinhos 08:48 amz-B09W48TKX2",
   "2026-11-15 marcas 08:55 amz-B085MJWD38",
-  "2026-11-15 tech 09:03 amz-B0FD41XC3P"
+  "2026-11-15 tech 09:03 amz-B0FD41XC3P",
+  "2026-11-15 achadinhos 09:10 amz-B076QF5VJJ",
+  "2026-11-15 marcas 09:16 amz-B0CN9TLR5K",
+  "2026-11-15 tech 09:23 amz-B0D41SDLTB",
+  "2026-11-15 achadinhos 09:30 shopee-20999203046",
+  "2026-11-15 marcas 09:39 shopee-19646145273",
+  "2026-11-15 tech 09:46 amz-B0GPB8Z3WM"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -1562,7 +1568,7 @@
   "shopee-20799892548": "2026-10-30T16:26:36.118648-03:00",
   "amz-B0FJPBWMLC": "2026-10-30T16:33:16.136410-03:00",
   "amz-B0GVP9G4SJ": "2026-10-30T16:40:39.724553-03:00",
-  "shopee-20999203046": "2026-11-07T09:11:34.606076-03:00",
+  "shopee-20999203046": "2026-11-15T09:30:56.092896-03:00",
   "ml-MLB3727972293": "2026-10-30T16:57:14.024144-03:00",
   "amz-B0GR11L1VP": "2026-10-30T17:06:02.337517-03:00",
   "shopee-22594312519": "2026-10-30T17:14:23.189553-03:00",
@@ -1886,7 +1892,7 @@
   "amz-B0BLZVD5S5": "2026-11-05T15:50:39.295911-03:00",
   "shopee-54114684881": "2026-11-13T08:17:33.734545-03:00",
   "amz-B0F1C3MRMF": "2026-11-05T16:18:45.643547-03:00",
-  "shopee-19646145273": "2026-11-05T16:26:50.399112-03:00",
+  "shopee-19646145273": "2026-11-15T09:39:16.351164-03:00",
   "shopee-22599383562": "2026-11-12T10:18:14.425225-03:00",
   "shopee-15714692913": "2026-11-05T16:53:48.183189-03:00",
   "shopee-22594959465": "2026-11-13T11:25:04.011271-03:00",
@@ -2706,7 +2712,11 @@
   "amz-B08F6QCG19": "2026-11-15T08:40:26.409542-03:00",
   "amz-B09W48TKX2": "2026-11-15T08:48:01.960348-03:00",
   "amz-B085MJWD38": "2026-11-15T08:55:44.426309-03:00",
-  "amz-B0FD41XC3P": "2026-11-15T09:03:03.928444-03:00"
+  "amz-B0FD41XC3P": "2026-11-15T09:03:03.928444-03:00",
+  "amz-B076QF5VJJ": "2026-11-15T09:10:39.193635-03:00",
+  "amz-B0CN9TLR5K": "2026-11-15T09:16:46.361998-03:00",
+  "amz-B0D41SDLTB": "2026-11-15T09:23:09.675060-03:00",
+  "amz-B0GPB8Z3WM": "2026-11-15T09:46:16.600820-03:00"
  },
  "ofertas_dia": [
   {
@@ -17533,6 +17543,114 @@
    "preco_em": "2026-11-15T08:20:41-03:00",
    "entrou": "2026-11-15T08:24:50.803222-03:00",
    "dia": "2026-11-15"
+  },
+  {
+   "id": "amz-B076QF5VJJ",
+   "canal": "achadinhos",
+   "nome": "Lavadora de Alta Pressão WAP Ágil 1800",
+   "preco_antigo": 599.9,
+   "preco": 316.81,
+   "desconto": 47,
+   "link": "https://www.amazon.com.br/dp/B076QF5VJJ?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71PnrOD9HaL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-15T22:00:00-03:00",
+   "coletado_em": "2026-11-14T18:16:48-03:00",
+   "gancho": "WAP QUASE PELA METADE",
+   "preco_em": "2026-11-14T18:16:48-03:00",
+   "entrou": "2026-11-15T08:17:22.723951-03:00",
+   "dia": "2026-11-15"
+  },
+  {
+   "id": "amz-B0CN9TLR5K",
+   "canal": "marcas",
+   "nome": "Mochila para notebook The North Face Vault Everyday",
+   "preco_antigo": 799.0,
+   "preco": 499.9,
+   "desconto": 37,
+   "link": "https://www.amazon.com.br/dp/B0CN9TLR5K?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/810gaTKLATL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-15T22:00:00-03:00",
+   "coletado_em": "2026-11-14T18:18:48-03:00",
+   "gancho": "MOCHILA THE NORTH FACE COM 37% OFF",
+   "preco_em": "2026-11-14T18:18:48-03:00",
+   "entrou": "2026-11-15T08:17:22.723951-03:00",
+   "dia": "2026-11-15"
+  },
+  {
+   "id": "amz-B0D41SDLTB",
+   "canal": "tech",
+   "nome": "Mouse gamer Redragon K1ng 1K sensor PAW3327",
+   "preco_antigo": 153.0,
+   "preco": 79.65,
+   "desconto": 48,
+   "link": "https://www.amazon.com.br/dp/B0D41SDLTB?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51h06ltKy4L._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-16T22:00:00-03:00",
+   "coletado_em": "2026-11-15T08:20:41-03:00",
+   "preco_em": "2026-11-15T08:20:41-03:00",
+   "entrou": "2026-11-15T08:24:50.803222-03:00",
+   "dia": "2026-11-15"
+  },
+  {
+   "id": "shopee-20999203046",
+   "plataforma": "Shopee",
+   "nome": "Ventilador Mondial 30cm Vsp 30 B 60hz Loi",
+   "loja": "LOI BRASIL",
+   "loja_oficial": true,
+   "preco": 139.99,
+   "preco_antigo": 264.13,
+   "desconto": 47,
+   "vendas": 5093,
+   "nota": 4.9,
+   "comissao_pct": 6.0,
+   "imagem": "https://cf.shopee.com.br/file/br-11134207-820lg-mralqrfevhfp9f",
+   "link": "https://s.shopee.com.br/ql56WgYuy",
+   "canal": "achadinhos",
+   "entrou": "2026-11-15T08:17:22.723951-03:00",
+   "reprise_dias": 7,
+   "dia": "2026-11-15"
+  },
+  {
+   "id": "shopee-19646145273",
+   "plataforma": "Shopee",
+   "nome": "Calça Leg Legging Max Lupo Sport Tecnologia Sem Costura Seamless Dry para Treino de Alto Rendimento",
+   "loja": "Deccó",
+   "loja_oficial": true,
+   "preco": 136.77,
+   "preco_antigo": 224.21,
+   "desconto": 39,
+   "vendas": 2379,
+   "nota": 4.9,
+   "comissao_pct": 13.0,
+   "imagem": "https://cf.shopee.com.br/file/br-11134207-820lm-mtqpjx92cw7411",
+   "link": "https://s.shopee.com.br/4fxnPiXonB",
+   "canal": "marcas",
+   "entrou": "2026-11-15T08:17:22.723951-03:00",
+   "dia": "2026-11-15"
+  },
+  {
+   "id": "amz-B0GPB8Z3WM",
+   "canal": "tech",
+   "nome": "Monitor gamer Acer Nitro KG270 27\" Full HD",
+   "preco_antigo": 1053.57,
+   "preco": 610.0,
+   "desconto": 42,
+   "link": "https://www.amazon.com.br/dp/B0GPB8Z3WM?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61NeWCHasvL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-16T22:00:00-03:00",
+   "coletado_em": "2026-11-15T08:20:41-03:00",
+   "gancho": "MONITOR 27 POLEGADAS ACER NITRO",
+   "preco_em": "2026-11-15T08:20:41-03:00",
+   "entrou": "2026-11-15T08:24:50.803222-03:00",
+   "dia": "2026-11-15"
   }
  ],
  "ig_feitos": [
@@ -17629,7 +17747,9 @@
   "2026-11-14 20:38 story_oferta",
   "2026-11-14 21:20 story_convite",
   "2026-11-15 08:07 story_oferta",
-  "2026-11-15 08:52 story_oferta"
+  "2026-11-15 08:52 story_oferta",
+  "2026-11-15 09:38 story_oferta",
+  "2026-11-15 09:40 story_convite"
  ],
  "ig_ofertas_usadas": [
   "amz-B0FPG9431G",
@@ -17906,65 +18026,14 @@
   "mv-nota-5": "2026-11-14",
   "hu-carrinho-abandonado": "2026-11-14",
   "bf-2026-11-15": "2026-11-15",
-  "hu-pix-feliz": "2026-11-15"
+  "hu-pix-feliz": "2026-11-15",
+  "mv-pix": "2026-11-15"
  },
  "pecas_dia": {
-  "2026-11-14": 8,
-  "2026-11-15": 2
+  "2026-11-15": 3
  },
- "ultimo_pilar": "humor",
+ "ultimo_pilar": "mito",
  "fila": [
-  {
-   "id": "amz-B076QF5VJJ",
-   "canal": "achadinhos",
-   "nome": "Lavadora de Alta Pressão WAP Ágil 1800",
-   "preco_antigo": 599.9,
-   "preco": 316.81,
-   "desconto": 47,
-   "link": "https://www.amazon.com.br/dp/B076QF5VJJ?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/71PnrOD9HaL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-15T22:00:00-03:00",
-   "coletado_em": "2026-11-14T18:16:48-03:00",
-   "gancho": "WAP QUASE PELA METADE",
-   "preco_em": "2026-11-14T18:16:48-03:00",
-   "entrou": "2026-11-15T08:17:22.723951-03:00"
-  },
-  {
-   "id": "amz-B0CN9TLR5K",
-   "canal": "marcas",
-   "nome": "Mochila para notebook The North Face Vault Everyday",
-   "preco_antigo": 799.0,
-   "preco": 499.9,
-   "desconto": 37,
-   "link": "https://www.amazon.com.br/dp/B0CN9TLR5K?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/810gaTKLATL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-15T22:00:00-03:00",
-   "coletado_em": "2026-11-14T18:18:48-03:00",
-   "gancho": "MOCHILA THE NORTH FACE COM 37% OFF",
-   "preco_em": "2026-11-14T18:18:48-03:00",
-   "entrou": "2026-11-15T08:17:22.723951-03:00"
-  },
-  {
-   "id": "shopee-19646145273",
-   "plataforma": "Shopee",
-   "nome": "Calça Leg Legging Max Lupo Sport Tecnologia Sem Costura Seamless Dry para Treino de Alto Rendimento",
-   "loja": "Deccó",
-   "loja_oficial": true,
-   "preco": 136.77,
-   "preco_antigo": 224.21,
-   "desconto": 39,
-   "vendas": 2379,
-   "nota": 4.9,
-   "comissao_pct": 13.0,
-   "imagem": "https://cf.shopee.com.br/file/br-11134207-820lm-mtqpjx92cw7411",
-   "link": "https://s.shopee.com.br/4fxnPiXonB",
-   "canal": "marcas",
-   "entrou": "2026-11-15T08:17:22.723951-03:00"
-  },
   {
    "id": "shopee-23398337380",
    "plataforma": "Shopee",
@@ -17981,24 +18050,6 @@
    "link": "https://s.shopee.com.br/70LiRyh06v",
    "canal": "marcas",
    "entrou": "2026-11-15T08:17:22.723951-03:00"
-  },
-  {
-   "id": "shopee-20999203046",
-   "plataforma": "Shopee",
-   "nome": "Ventilador Mondial 30cm Vsp 30 B 60hz Loi",
-   "loja": "LOI BRASIL",
-   "loja_oficial": true,
-   "preco": 139.99,
-   "preco_antigo": 264.13,
-   "desconto": 47,
-   "vendas": 5093,
-   "nota": 4.9,
-   "comissao_pct": 6.0,
-   "imagem": "https://cf.shopee.com.br/file/br-11134207-820lg-mralqrfevhfp9f",
-   "link": "https://s.shopee.com.br/ql56WgYuy",
-   "canal": "achadinhos",
-   "entrou": "2026-11-15T08:17:22.723951-03:00",
-   "reprise_dias": 7
   },
   {
    "id": "amz-B08YF6JTNB",
@@ -18448,39 +18499,6 @@
    "entrou": "2026-11-15T08:24:50.803222-03:00"
   },
   {
-   "id": "amz-B0D41SDLTB",
-   "canal": "tech",
-   "nome": "Mouse gamer Redragon K1ng 1K sensor PAW3327",
-   "preco_antigo": 153.0,
-   "preco": 79.65,
-   "desconto": 48,
-   "link": "https://www.amazon.com.br/dp/B0D41SDLTB?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51h06ltKy4L._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-16T22:00:00-03:00",
-   "coletado_em": "2026-11-15T08:20:41-03:00",
-   "preco_em": "2026-11-15T08:20:41-03:00",
-   "entrou": "2026-11-15T08:24:50.803222-03:00"
-  },
-  {
-   "id": "amz-B0GPB8Z3WM",
-   "canal": "tech",
-   "nome": "Monitor gamer Acer Nitro KG270 27\" Full HD",
-   "preco_antigo": 1053.57,
-   "preco": 610.0,
-   "desconto": 42,
-   "link": "https://www.amazon.com.br/dp/B0GPB8Z3WM?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61NeWCHasvL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-16T22:00:00-03:00",
-   "coletado_em": "2026-11-15T08:20:41-03:00",
-   "gancho": "MONITOR 27 POLEGADAS ACER NITRO",
-   "preco_em": "2026-11-15T08:20:41-03:00",
-   "entrou": "2026-11-15T08:24:50.803222-03:00"
-  },
-  {
    "id": "amz-B0GKQNGV23",
    "canal": "tech",
    "nome": "Celular Samsung Galaxy S26 5G 256GB 12GB RAM",
@@ -18612,6 +18630,91 @@
    "gancho": "S26 ULTRA COM QUASE R$ 4.800 OFF",
    "preco_em": "2026-11-15T08:20:41-03:00",
    "entrou": "2026-11-15T08:24:50.803222-03:00"
+  },
+  {
+   "id": "amz-B0F1C2P82S",
+   "canal": "marcas",
+   "nome": "Perfume Hugo Boss Bottled Beyond Eau de Parfum 100ml",
+   "preco_antigo": 857.21,
+   "preco": 570.0,
+   "desconto": 34,
+   "link": "https://www.amazon.com.br/dp/B0F1C2P82S?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61vvFxFRskL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-15T13:00:00-03:00",
+   "coletado_em": "2026-11-14T12:20:00-03:00",
+   "nao_antes": "2026-11-15T10:00:00-03:00",
+   "preco_em": "2026-11-14T12:20:00-03:00",
+   "entrou": "2026-11-15T09:03:34.141650-03:00"
+  },
+  {
+   "id": "amz-B0BTDCRCXF",
+   "canal": "marcas",
+   "nome": "Perfume Armani Code Eau de Toilette Giorgio Armani",
+   "preco_antigo": 899.0,
+   "preco": 542.99,
+   "desconto": 40,
+   "link": "https://www.amazon.com.br/dp/B0BTDCRCXF?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61hrP0XSecL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-15T13:00:00-03:00",
+   "coletado_em": "2026-11-14T12:20:00-03:00",
+   "nao_antes": "2026-11-15T10:00:00-03:00",
+   "preco_em": "2026-11-14T12:20:00-03:00",
+   "entrou": "2026-11-15T09:03:34.141650-03:00"
+  },
+  {
+   "id": "amz-B07K1BW1XY",
+   "canal": "marcas",
+   "nome": "Perfume Montblanc Explorer Eau de Parfum 100ml",
+   "preco_antigo": 938.64,
+   "preco": 434.6,
+   "desconto": 54,
+   "link": "https://www.amazon.com.br/dp/B07K1BW1XY?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61lMdchVC3L._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-15T13:00:00-03:00",
+   "coletado_em": "2026-11-14T12:20:00-03:00",
+   "nao_antes": "2026-11-15T10:00:00-03:00",
+   "preco_em": "2026-11-14T12:20:00-03:00",
+   "entrou": "2026-11-15T09:03:34.141650-03:00"
+  },
+  {
+   "id": "amz-B0F22PGY7K",
+   "canal": "marcas",
+   "nome": "Perfume Lancôme La Vie est Belle Vanille Nude EDP",
+   "preco_antigo": 529.0,
+   "preco": 297.33,
+   "desconto": 44,
+   "link": "https://www.amazon.com.br/dp/B0F22PGY7K?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/41QatcejPPL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-15T13:00:00-03:00",
+   "coletado_em": "2026-11-14T12:20:00-03:00",
+   "nao_antes": "2026-11-15T10:00:00-03:00",
+   "preco_em": "2026-11-14T12:20:00-03:00",
+   "entrou": "2026-11-15T09:03:34.141650-03:00"
+  },
+  {
+   "id": "shopee-41478796304",
+   "plataforma": "Shopee",
+   "nome": "Cuscuzeira Pequena Tramontina em Alumínio com Revestimento Interno e Externo em Antiaderente 10 cm 0,8 L",
+   "loja": "Mec G Store",
+   "loja_oficial": true,
+   "preco": 81.59,
+   "preco_antigo": 129.51,
+   "desconto": 37,
+   "vendas": 322,
+   "nota": 4.9,
+   "comissao_pct": 13.9,
+   "imagem": "https://cf.shopee.com.br/file/br-11134207-820ld-mp9co3ov8d8h40",
+   "link": "https://s.shopee.com.br/50aZmKazc4",
+   "canal": "achadinhos",
+   "entrou": "2026-11-15T09:03:34.141650-03:00"
   }
  ],
  "menus_fixados": [
@@ -18648,7 +18751,7 @@
   "fritadeiraeletricasemoleoairfryermondial5lgrandfamilyafn50timer1900w": "2026-10-30T16:26:36.118648-03:00",
   "tenisnewbalancefreshfoamarishiv4masculino": "2026-10-30T16:33:16.136410-03:00",
   "fonebluetoothjbltune780nccomcancelamentoderuido": "2026-10-30T16:40:39.724553-03:00",
-  "ventiladormondial30cmvsp30b60hzloi": "2026-11-07T09:11:34.606076-03:00",
+  "ventiladormondial30cmvsp30b60hzloi": "2026-11-15T09:30:56.092896-03:00",
   "tenisnikejourneyrunmasculino": "2026-10-30T16:57:14.024144-03:00",
   "fonebluetoothjbltune730btoverearate76hdebateria": "2026-10-30T17:06:02.337517-03:00",
   "faqueirotramontinaoriginalleme20pecascomlaminasemacoinoxecabosdepolipropilenovermelhopretocinza": "2026-10-30T17:14:23.189553-03:00",
@@ -18972,7 +19075,7 @@
   "protetorsolarlarocheposayultracover": "2026-11-05T15:50:39.295911-03:00",
   "deoparfumnaturaessencialmasculinominiatura25ml": "2026-11-13T08:17:33.734545-03:00",
   "headsetgamerredragonzeuslite": "2026-11-05T16:18:45.643547-03:00",
-  "calcalegleggingmaxluposporttecnologiasemcosturaseamlessdryparatreinodealtorendimento": "2026-11-05T16:26:50.399112-03:00",
+  "calcalegleggingmaxluposporttecnologiasemcosturaseamlessdryparatreinodealtorendimento": "2026-11-15T09:39:16.351164-03:00",
   "furadeiradeimpactogsb450restdbosch450wkitmaletacom300pcseacessorios": "2026-11-12T10:18:14.425225-03:00",
   "kit2cuecasboxerlupomicrofibrapoliamidasemcosturaconfortavelcuecamasculinaoriginal": "2026-11-05T16:53:48.183189-03:00",
   "refildesodorantecorporalnaturaessencialatraimasculino": "2026-11-13T11:25:04.011271-03:00",
@@ -19789,7 +19892,11 @@
   "tecladomecanicoredragonkumaraswitchredabnt2": "2026-11-15T08:40:26.409542-03:00",
   "jogodefrigideirastramontinacaribe3pecas": "2026-11-15T08:48:01.960348-03:00",
   "wheyintegralmedica100purecookiesandcream18kg": "2026-11-15T08:55:44.426309-03:00",
-  "controlegamesirg7protrimodeparaxboxepc": "2026-11-15T09:03:03.928444-03:00"
+  "controlegamesirg7protrimodeparaxboxepc": "2026-11-15T09:03:03.928444-03:00",
+  "lavadoradealtapressaowapagil1800": "2026-11-15T09:10:39.193635-03:00",
+  "mochilaparanotebookthenorthfacevaulteveryday": "2026-11-15T09:16:46.361998-03:00",
+  "mousegamerredragonk1ng1ksensorpaw3327": "2026-11-15T09:23:09.675060-03:00",
+  "monitorgameracernitrokg27027fullhd": "2026-11-15T09:46:16.600820-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
@@ -20136,7 +20243,7 @@
  },
  "story_link_dia": "2026-11-14",
  "pede_semana": "2026-46",
- "ultimo_garimpo": "2026-11-14T18:18:56-03:00",
+ "ultimo_garimpo": "2026-11-15T08:20:53-03:00",
  "vigia_aviso_post": "2026-11-09T18:27:03.734589-03:00",
  "vigia_aviso_garimpo": "2026-11-15T08:17:22.723951-03:00",
  "resumo_enviado": "2026-11-14",
@@ -20180,7 +20287,7 @@
   "marcas": "2026-11-12T17:56:29.409807-03:00"
  },
  "top10_dia": "2026-11-14",
- "manuais_lidos": "2026-11-15T08:55:30.326520-03:00",
+ "manuais_lidos": "2026-11-15T09:38:58.707031-03:00",
  "reserva_resultado": {
   "2026-11-07": {
    "achadinhos": {
@@ -20380,7 +20487,7 @@
    "hora": "2026-11-11T20:32:35.453128-03:00"
   }
  },
- "ig_respondido_em": "2026-11-15T08:55:30.326520-03:00",
+ "ig_respondido_em": "2026-11-15T09:46:00.283202-03:00",
  "dm_auto": {
   "2026-11-08": {
    "com_palavra": 0,
@@ -20594,7 +20701,7 @@
    "feed": 2
   },
   "2026-11-15": {
-   "story": 2,
+   "story": 4,
    "feed": 0
   }
  },
