@@ -922,8 +922,10 @@ def soltar_fila(h: dict, telegram, limite: datetime, atraso: bool = True) -> int
         oferta = viva
         hoje = agora.date().isoformat()
         chave = f"{hoje} {canal} {agora:%H:%M} {oferta['id']}"
+        etapa = "foto"   # 15/11 (CEO): resets seguiram em 14/11 mesmo com a foto em nova tentativa; o erro diz a etapa
         try:
             foto, leg = post.foto_com_selo(oferta["imagem"]), post.legenda(oferta, canal)
+            etapa = "envio ao Telegram"
             telegram.postar_foto(config.CANAIS[canal], foto, leg, botao_share(h, telegram, config.CANAIS[canal], oferta))
             try:   # cópia no canal geral; se falhar, não atrapalha o canal do nicho
                 telegram.postar_foto(config.GERAL, foto, leg, botao_share(h, telegram, config.GERAL, oferta))
@@ -945,7 +947,7 @@ def soltar_fila(h: dict, telegram, limite: datetime, atraso: bool = True) -> int
             telegram.avisar_dono(f"BLOQUEADO destino errado: {e}")
             return erros + 1
         except Exception as e:
-            telegram.avisar_dono(f"erro em {chave}: {e}. Não postei.")
+            telegram.avisar_dono(f"erro em {chave} ({etapa}): {e}. Não postei.")
             erros += 1
             if erros >= 3:
                 return erros

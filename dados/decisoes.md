@@ -160,3 +160,13 @@
 - Alavanca nova: o carrossel salvável ("5 melhores X de marca até R$ Y", QUERO → DM com links + convite do Telegram) sai também na **segunda** até a Black Friday, com categoria diferente da quinta (`config.SALVAVEL_DIAS`). Hoje há 6 tênis de corrida para segunda; sem 5 itens, cai no post normal. Voltar a só quinta em 28/11. Ensaio OK.
 - Próximo: em 15/11 conferir se os resets sumiram dos `erros`; domingo: +30 peças no `conteudo.py` e pesquisa de contas grandes.
 - Pedido ao dono: (1) garimpo Amazon do PC traz quase só repetidos (305 descartados): variar termos/lojas; (2) PC ligado à tarde; (3) rodadas de seguir/comentar todo dia (é o que move seguidores).
+
+## 2026-11-15 (rotina do CEO, domingo)
+- Visto (14/11): 26 execuções, 19 stories ativos (piso ok), feed ok (carrossel 11:50, Reels 18:30, post 19:15). Telegram: 50 achadinhos, 35 marcas, 35 tech. Seguidores 488→496 (+8), alcance 3.050, visitas 80, 0 cliques na bio. Membros 3+6+7+5 = 21 (+1 no Tech); convites, `tg-share-*` e DM automática seguem em 0.
+- Erros: **resets continuaram** (2 ofertas perdidas 11:05/11:20 e 1 cópia no Geral) mesmo com a foto em nova tentativa desde 14/11 → o corte deve estar no envio ao Telegram, não na foto. O erro agora diz a etapa ("foto" ou "envio ao Telegram") para confirmar antes de mexer; envio segue sem nova tentativa (risco de post duplicado). Vigia: tech sem fila à tarde; 308 itens Amazon descartados por repetidos.
+- META: Instagram 496 de 780 até 27/11 (**atrasado**: precisa ~24/dia, fez +8). Telegram 21 de 150 até 17/11 (**atrasado**, será perdida).
+- Domingo: +30 peças no `conteudo.py` (167 no total; 5 anticilada, 5 dica, 4 humor, 5 mito, 5 bastidor, 6 conversa), sem repetir tema das 137 antigas; artes conferidas.
+- Alavanca nova (Telegram atrasado): peças de story que tiram o atrito de entrar — "NA BUSCA DO TELEGRAM: @papagarimpouofertas", "SEM CADASTRO", "DE ONDE VÊM OS ACHADOS", "QUANDO O PAPA POSTA" — entram no giro a partir de hoje. Ensaio OK.
+- Pesquisa de contas grandes: (1) nome do canal com o termo buscado ("achadinhos", "cupom", "ofertas") traz entrada orgânica → já feito nos 4 títulos; (2) canais de ofertas crescem com **troca de divulgação** com canais do mesmo nicho e tamanho parecido, sem custo → pedido ao dono.
+- Próximo: em 16/11 ler a etapa dos resets nos `erros`; em 17/11 fechar a meta do Telegram e propor a nova.
+- Pedido ao dono: (1) combinar 1 ou 2 trocas de divulgação grátis com canais de achados de tamanho parecido (o robô não negocia); (2) destaque "TELEGRAM" no perfil; (3) PC do garimpo ligado à tarde (tech secou).
