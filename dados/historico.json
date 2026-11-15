@@ -1360,7 +1360,14 @@
   "2026-11-14 tech 20:12 amz-B0DM6G7929",
   "2026-11-14 achadinhos 20:20 amz-B076X8YRLC",
   "2026-11-14 marcas 20:28 amz-B083QF4LCF",
-  "2026-11-14 tech 20:35 amz-B0DCLNM6ZY"
+  "2026-11-14 tech 20:35 amz-B0DCLNM6ZY",
+  "2026-11-14 achadinhos 20:41 amz-B08F9ZQ52X",
+  "2026-11-14 achadinhos 20:47 amz-B0HCCMX64B",
+  "2026-11-14 achadinhos 20:53 amz-B0BHFCSY3V",
+  "2026-11-14 achadinhos 21:00 amz-B0CH5JQWHJ",
+  "2026-11-14 achadinhos 21:06 amz-B07YNFW5T2",
+  "2026-11-14 achadinhos 21:10 amz-B07G2MJJYQ",
+  "2026-11-14 marcas 21:18 amz-B0G6PCMDX4"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -2666,7 +2673,14 @@
   "amz-B0DM6G7929": "2026-11-14T20:12:42.750195-03:00",
   "amz-B076X8YRLC": "2026-11-14T20:20:20.573106-03:00",
   "amz-B083QF4LCF": "2026-11-14T20:28:02.830777-03:00",
-  "amz-B0DCLNM6ZY": "2026-11-14T20:35:08.554869-03:00"
+  "amz-B0DCLNM6ZY": "2026-11-14T20:35:08.554869-03:00",
+  "amz-B08F9ZQ52X": "2026-11-14T20:41:06.744779-03:00",
+  "amz-B0HCCMX64B": "2026-11-14T20:47:08.766116-03:00",
+  "amz-B0BHFCSY3V": "2026-11-14T20:53:10.918682-03:00",
+  "amz-B0CH5JQWHJ": "2026-11-14T21:00:12.929010-03:00",
+  "amz-B07YNFW5T2": "2026-11-14T21:06:15.106722-03:00",
+  "amz-B07G2MJJYQ": "2026-11-14T21:10:26.229853-03:00",
+  "amz-B0G6PCMDX4": "2026-11-14T21:18:10.406208-03:00"
  },
  "ofertas_dia": [
   {
@@ -17890,6 +17904,132 @@
    "preco_em": "2026-11-14T18:16:48-03:00",
    "entrou": "2026-11-14T18:26:46.931671-03:00",
    "dia": "2026-11-14"
+  },
+  {
+   "id": "amz-B08F9ZQ52X",
+   "canal": "achadinhos",
+   "nome": "Perfume Idôle Lancôme Feminino Eau de Parfum",
+   "preco_antigo": 1069.0,
+   "preco": 615.99,
+   "desconto": 42,
+   "link": "https://www.amazon.com.br/dp/B08F9ZQ52X?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51MEDcXC5hL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-15T22:00:00-03:00",
+   "coletado_em": "2026-11-14T12:20:00-03:00",
+   "preco_em": "2026-11-14T12:20:00-03:00",
+   "entrou": "2026-11-14T16:46:46.756008-03:00",
+   "dia": "2026-11-14"
+  },
+  {
+   "id": "amz-B0HCCMX64B",
+   "canal": "achadinhos",
+   "nome": "Air Fryer WAP Prosdócimo AF01 4,5L com visor",
+   "preco_antigo": 349.9,
+   "preco": 239.9,
+   "desconto": 31,
+   "link": "https://www.amazon.com.br/dp/B0HCCMX64B?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/510iyOnTgUL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-15T22:00:00-03:00",
+   "coletado_em": "2026-11-14T18:16:48-03:00",
+   "gancho": "AIR FRYER COM VISOR BARATINHA",
+   "preco_em": "2026-11-14T18:16:48-03:00",
+   "entrou": "2026-11-14T18:26:46.931671-03:00",
+   "dia": "2026-11-14"
+  },
+  {
+   "id": "amz-B0BHFCSY3V",
+   "canal": "achadinhos",
+   "nome": "Lavadora/Desobstruidora WAP Ousada Plus Ultra 2200",
+   "preco_antigo": 779.9,
+   "preco": 465.49,
+   "desconto": 40,
+   "link": "https://www.amazon.com.br/dp/B0BHFCSY3V?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71JfVWfp2nL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-15T22:00:00-03:00",
+   "coletado_em": "2026-11-14T18:16:48-03:00",
+   "gancho": "WAP OUSADA COM 40% OFF",
+   "preco_em": "2026-11-14T18:16:48-03:00",
+   "entrou": "2026-11-14T18:26:46.931671-03:00",
+   "dia": "2026-11-14"
+  },
+  {
+   "id": "amz-B0CH5JQWHJ",
+   "canal": "achadinhos",
+   "nome": "Air Fryer WAP Barbecue Digital 12 em 1 10L",
+   "preco_antigo": 1666.64,
+   "preco": 999.0,
+   "desconto": 40,
+   "link": "https://www.amazon.com.br/dp/B0CH5JQWHJ?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61pS0GnqhCL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-15T22:00:00-03:00",
+   "coletado_em": "2026-11-14T18:16:48-03:00",
+   "gancho": "AIR FRYER FORNO DA WAP COM 40% OFF",
+   "preco_em": "2026-11-14T18:16:48-03:00",
+   "entrou": "2026-11-14T18:26:46.931671-03:00",
+   "dia": "2026-11-14"
+  },
+  {
+   "id": "amz-B07YNFW5T2",
+   "canal": "achadinhos",
+   "nome": "Hidratante Labial NIVEA Cereja Shine 4,8g",
+   "preco_antigo": 24.1,
+   "preco": 13.1,
+   "desconto": 46,
+   "link": "https://www.amazon.com.br/dp/B07YNFW5T2?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/7136z-s7eCL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-15T22:00:00-03:00",
+   "coletado_em": "2026-11-14T18:16:48-03:00",
+   "gancho": "NIVEA LABIAL POR 13 REAIS",
+   "preco_em": "2026-11-14T18:16:48-03:00",
+   "entrou": "2026-11-14T18:26:46.931671-03:00",
+   "dia": "2026-11-14"
+  },
+  {
+   "id": "amz-B07G2MJJYQ",
+   "canal": "achadinhos",
+   "nome": "Parafusadeira/Furadeira de Impacto Vonder 12V",
+   "preco_antigo": 504.18,
+   "preco": 233.22,
+   "desconto": 54,
+   "link": "https://www.amazon.com.br/dp/B07G2MJJYQ?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/81W3txK-SCL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-15T22:00:00-03:00",
+   "coletado_em": "2026-11-14T18:16:48-03:00",
+   "gancho": "PARAFUSADEIRA VONDER COM 54% OFF",
+   "preco_em": "2026-11-14T18:16:48-03:00",
+   "entrou": "2026-11-14T18:26:46.931671-03:00",
+   "dia": "2026-11-14"
+  },
+  {
+   "id": "amz-B0G6PCMDX4",
+   "canal": "marcas",
+   "nome": "Camiseta Flamengo Gávea Masculina (licenciada)",
+   "preco_antigo": 109.99,
+   "preco": 49.9,
+   "desconto": 55,
+   "link": "https://www.amazon.com.br/dp/B0G6PCMDX4?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51TdJCKB6jL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-15T22:00:00-03:00",
+   "coletado_em": "2026-11-14T18:18:48-03:00",
+   "gancho": "CAMISETA DO MENGÃO POR 49,90",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "preco_em": "2026-11-14T18:18:48-03:00",
+   "entrou": "2026-11-14T18:26:46.931671-03:00",
+   "dia": "2026-11-14"
   }
  ],
  "ig_feitos": [
@@ -18017,7 +18157,8 @@
   "2026-11-14 19:17 story_oferta",
   "2026-11-14 20:03 story_oferta",
   "story especial top10-rolando 2026-11-14",
-  "2026-11-14 20:30 reels"
+  "2026-11-14 20:30 reels",
+  "2026-11-14 20:38 story_oferta"
  ],
  "ig_ofertas_usadas": [
   "amz-B0FPG9431G",
@@ -18291,114 +18432,14 @@
   "hu-black-fraude": "2026-11-14",
   "mv-importado": "2026-11-14",
   "hu-amigo-replica": "2026-11-14",
-  "mv-nota-5": "2026-11-14"
+  "mv-nota-5": "2026-11-14",
+  "hu-carrinho-abandonado": "2026-11-14"
  },
  "pecas_dia": {
-  "2026-11-14": 7
+  "2026-11-14": 8
  },
- "ultimo_pilar": "mito",
+ "ultimo_pilar": "humor",
  "fila": [
-  {
-   "id": "amz-B08F9ZQ52X",
-   "canal": "achadinhos",
-   "nome": "Perfume Idôle Lancôme Feminino Eau de Parfum",
-   "preco_antigo": 1069.0,
-   "preco": 615.99,
-   "desconto": 42,
-   "link": "https://www.amazon.com.br/dp/B08F9ZQ52X?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51MEDcXC5hL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-15T22:00:00-03:00",
-   "coletado_em": "2026-11-14T12:20:00-03:00",
-   "preco_em": "2026-11-14T12:20:00-03:00",
-   "entrou": "2026-11-14T16:46:46.756008-03:00"
-  },
-  {
-   "id": "amz-B0HCCMX64B",
-   "canal": "achadinhos",
-   "nome": "Air Fryer WAP Prosdócimo AF01 4,5L com visor",
-   "preco_antigo": 349.9,
-   "preco": 239.9,
-   "desconto": 31,
-   "link": "https://www.amazon.com.br/dp/B0HCCMX64B?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/510iyOnTgUL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-15T22:00:00-03:00",
-   "coletado_em": "2026-11-14T18:16:48-03:00",
-   "gancho": "AIR FRYER COM VISOR BARATINHA",
-   "preco_em": "2026-11-14T18:16:48-03:00",
-   "entrou": "2026-11-14T18:26:46.931671-03:00"
-  },
-  {
-   "id": "amz-B0BHFCSY3V",
-   "canal": "achadinhos",
-   "nome": "Lavadora/Desobstruidora WAP Ousada Plus Ultra 2200",
-   "preco_antigo": 779.9,
-   "preco": 465.49,
-   "desconto": 40,
-   "link": "https://www.amazon.com.br/dp/B0BHFCSY3V?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/71JfVWfp2nL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-15T22:00:00-03:00",
-   "coletado_em": "2026-11-14T18:16:48-03:00",
-   "gancho": "WAP OUSADA COM 40% OFF",
-   "preco_em": "2026-11-14T18:16:48-03:00",
-   "entrou": "2026-11-14T18:26:46.931671-03:00"
-  },
-  {
-   "id": "amz-B0CH5JQWHJ",
-   "canal": "achadinhos",
-   "nome": "Air Fryer WAP Barbecue Digital 12 em 1 10L",
-   "preco_antigo": 1666.64,
-   "preco": 999.0,
-   "desconto": 40,
-   "link": "https://www.amazon.com.br/dp/B0CH5JQWHJ?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61pS0GnqhCL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-15T22:00:00-03:00",
-   "coletado_em": "2026-11-14T18:16:48-03:00",
-   "gancho": "AIR FRYER FORNO DA WAP COM 40% OFF",
-   "preco_em": "2026-11-14T18:16:48-03:00",
-   "entrou": "2026-11-14T18:26:46.931671-03:00"
-  },
-  {
-   "id": "amz-B07YNFW5T2",
-   "canal": "achadinhos",
-   "nome": "Hidratante Labial NIVEA Cereja Shine 4,8g",
-   "preco_antigo": 24.1,
-   "preco": 13.1,
-   "desconto": 46,
-   "link": "https://www.amazon.com.br/dp/B07YNFW5T2?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/7136z-s7eCL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-15T22:00:00-03:00",
-   "coletado_em": "2026-11-14T18:16:48-03:00",
-   "gancho": "NIVEA LABIAL POR 13 REAIS",
-   "preco_em": "2026-11-14T18:16:48-03:00",
-   "entrou": "2026-11-14T18:26:46.931671-03:00"
-  },
-  {
-   "id": "amz-B07G2MJJYQ",
-   "canal": "achadinhos",
-   "nome": "Parafusadeira/Furadeira de Impacto Vonder 12V",
-   "preco_antigo": 504.18,
-   "preco": 233.22,
-   "desconto": 54,
-   "link": "https://www.amazon.com.br/dp/B07G2MJJYQ?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/81W3txK-SCL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-15T22:00:00-03:00",
-   "coletado_em": "2026-11-14T18:16:48-03:00",
-   "gancho": "PARAFUSADEIRA VONDER COM 54% OFF",
-   "preco_em": "2026-11-14T18:16:48-03:00",
-   "entrou": "2026-11-14T18:26:46.931671-03:00"
-  },
   {
    "id": "amz-B07MR3H8NY",
    "canal": "achadinhos",
@@ -18448,24 +18489,6 @@
    "coletado_em": "2026-11-14T18:16:48-03:00",
    "gancho": "WAP QUASE PELA METADE",
    "preco_em": "2026-11-14T18:16:48-03:00",
-   "entrou": "2026-11-14T18:26:46.931671-03:00"
-  },
-  {
-   "id": "amz-B0G6PCMDX4",
-   "canal": "marcas",
-   "nome": "Camiseta Flamengo Gávea Masculina (licenciada)",
-   "preco_antigo": 109.99,
-   "preco": 49.9,
-   "desconto": 55,
-   "link": "https://www.amazon.com.br/dp/B0G6PCMDX4?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51TdJCKB6jL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-15T22:00:00-03:00",
-   "coletado_em": "2026-11-14T18:18:48-03:00",
-   "gancho": "CAMISETA DO MENGÃO POR 49,90",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "preco_em": "2026-11-14T18:18:48-03:00",
    "entrou": "2026-11-14T18:26:46.931671-03:00"
   },
   {
@@ -19792,7 +19815,14 @@
   "impressoralaserbrotherhll1222monocromatica": "2026-11-14T20:12:42.750195-03:00",
   "perfumecacharelamoramorfeminino": "2026-11-14T20:20:20.573106-03:00",
   "oculosdesoloakleyflak20xlmasculino": "2026-11-14T20:28:02.830777-03:00",
-  "caixadesomwaawbyalokhyperboom1000bluetooth": "2026-11-14T20:35:08.554869-03:00"
+  "caixadesomwaawbyalokhyperboom1000bluetooth": "2026-11-14T20:35:08.554869-03:00",
+  "perfumeidolelancomefemininoeaudeparfum": "2026-11-14T20:41:06.744779-03:00",
+  "airfryerwapprosdocimoaf0145lcomvisor": "2026-11-14T20:47:08.766116-03:00",
+  "lavadoradesobstruidorawapousadaplusultra2200": "2026-11-14T20:53:10.918682-03:00",
+  "airfryerwapbarbecuedigital12em110l": "2026-11-14T21:00:12.929010-03:00",
+  "hidratantelabialniveacerejashine48g": "2026-11-14T21:06:15.106722-03:00",
+  "parafusadeirafuradeiradeimpactovonder12v": "2026-11-14T21:10:26.229853-03:00",
+  "camisetaflamengogaveamasculinalicenciada": "2026-11-14T21:18:10.406208-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
@@ -20182,8 +20212,8 @@
   "tech": "2026-11-14T11:56:11.521150-03:00",
   "marcas": "2026-11-12T17:56:29.409807-03:00"
  },
- "top10_dia": "2026-11-07",
- "manuais_lidos": "2026-11-14T20:34:33.999575-03:00",
+ "top10_dia": "2026-11-14",
+ "manuais_lidos": "2026-11-14T21:10:08.442745-03:00",
  "reserva_resultado": {
   "2026-11-07": {
    "achadinhos": {
@@ -20371,7 +20401,7 @@
    "hora": "2026-11-11T20:32:35.453128-03:00"
   }
  },
- "ig_respondido_em": "2026-11-14T20:34:33.999575-03:00",
+ "ig_respondido_em": "2026-11-14T21:10:08.442745-03:00",
  "dm_auto": {
   "2026-11-08": {
    "com_palavra": 0,
