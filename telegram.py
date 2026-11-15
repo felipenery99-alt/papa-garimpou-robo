@@ -259,6 +259,9 @@ def avisar_dono(texto: str, prefixo: bool = True, urgente: bool | None = None, d
         print(f"[ALERTA] falhou ao avisar: {e}")
 
 
+ENTREGA: dict = {}   # última entrega ao dono (tipo do chat, message_ids ou erro) → historico resumo_log
+
+
 def mensagem_dono(texto: str) -> bool:
     """04/11 (resumo diário): texto pronto para o chat do dono, sem prefixo e sem entrar na lista de erros.
     Quebra em partes de até 4000 caracteres (limite do Telegram). True só se todas as partes saíram."""
@@ -267,12 +270,24 @@ def mensagem_dono(texto: str) -> bool:
         print("[DONO] sem ALERTA_CHAT_ID/token; não enviei")
         return False
     partes = [texto[i:i + 4000] for i in range(0, len(texto), 4000)] or [""]
+    ENTREGA.clear()
     try:
+        # 14/11 (dono: "parei de receber o resumo"): registra para onde foi e o message_id (sem nome/título:
+        # o repositório é público e o dono é anônimo). Tipo "private" = chat do dono com o robô.
+        try:
+            c = requests.get(API.format(token=_token(), metodo="getChat"), params={"chat_id": chat}, timeout=30).json()
+            ENTREGA["chat_tipo"] = (c.get("result") or {}).get("type") or f"erro: {c.get('description')}"
+        except Exception as e:
+            ENTREGA["chat_tipo"] = f"erro: {e}"[:120]
+        ENTREGA["message_ids"] = []
         for p in partes:
             r = requests.post(API.format(token=_token(), metodo="sendMessage"), data={"chat_id": chat, "text": p}, timeout=30).json()
             if not r.get("ok"):
                 print(f"[DONO] Telegram recusou: {r}")
+                ENTREGA["erro"] = str(r.get("description", r))[:200]
                 return False
+            ENTREGA["message_ids"].append(r["result"]["message_id"])
+        print(f"[DONO] entregue: chat {ENTREGA['chat_tipo']}, message_id {ENTREGA['message_ids']}")
         return True
     except Exception as e:
         print(f"[DONO] falhou: {e}")

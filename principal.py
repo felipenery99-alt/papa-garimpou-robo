@@ -1852,7 +1852,12 @@ def enviar_resumo_dono(h: dict, telegram, agora: datetime) -> None:
     ontem = (agora.date() - timedelta(days=1)).isoformat()
     if not texto or dia not in (agora.date().isoformat(), ontem) or h.get("resumo_enviado", "") >= dia:
         return
-    if telegram.mensagem_dono(texto):
+    ok = telegram.mensagem_dono(texto)
+    # 14/11: prova de entrega (tipo do chat + message_id, ou o erro) no histórico, últimos 7 envios
+    log = h.setdefault("resumo_log", [])
+    log.append({"dia": dia, "quando": agora.strftime("%d/%m %H:%M"), "ok": ok, **getattr(telegram, "ENTREGA", {})})
+    h["resumo_log"] = log[-7:]
+    if ok:
         h["resumo_enviado"] = dia
         salvar_hist(h)
         print(f"[resumo] resumo de {dia} enviado ao dono")
