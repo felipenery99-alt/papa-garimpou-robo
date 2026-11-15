@@ -3141,17 +3141,17 @@
   "erros": [
    "⚠️ Fila vazia (tech), último garimpo 14/11 18:18 — abrir o app Claude e conferir as rotinas"
   ],
-  "ultima_execucao": "11:21",
-  "execucoes": 6,
+  "ultima_execucao": "12:07",
+  "execucoes": 7,
   "telegram_posts": {
-   "achadinhos": 14,
-   "marcas": 10,
-   "tech": 10
+   "achadinhos": 17,
+   "marcas": 12,
+   "tech": 12
   },
   "ultimo_post": {
-   "achadinhos": "11:50",
-   "marcas": "11:57",
-   "tech": "12:04"
+   "achadinhos": "12:35",
+   "marcas": "12:42",
+   "tech": "12:49"
   },
   "meta_token": {
    "tipo": "SYSTEM_USER",
@@ -3193,7 +3193,9 @@
    "feed",
    "11:50 carrossel_top5",
    "11:56 story_oferta",
-   "12:00 reels"
+   "12:00 reels",
+   "12:19 story_oferta",
+   "12:47 story_oferta"
   ],
   "shopee_ligada": true,
   "dm_auto": {
@@ -5521,14 +5523,52 @@
    "shopee-56253263812": "outro: marca fora da lista boa",
    "shopee-47802618294": "desconto perto (até 10 pts)",
    "shopee-23694450435": "outro: marca fora da lista boa",
-   "shopee-23494418184": "vendas longe"
+   "shopee-23494418184": "vendas longe",
+   "shopee-58201057658": "vendas longe",
+   "shopee-23298215816": "vendas longe",
+   "shopee-22997138730": "vendas longe",
+   "shopee-58201060981": "vendas longe",
+   "shopee-22593586007": "vendas longe",
+   "shopee-21899678963": "outro: marca fora da lista boa",
+   "shopee-58267521189": "vendas longe",
+   "shopee-22292859488": "desconto longe",
+   "shopee-58269791215": "vendas longe",
+   "shopee-21098957145": "vendas longe",
+   "shopee-18399855330": "vendas longe",
+   "shopee-23499008571": "vendas longe",
+   "shopee-22992641064": "vendas longe",
+   "shopee-40711617194": "vendas longe",
+   "shopee-23499008563": "vendas longe",
+   "shopee-23794483582": "nota",
+   "shopee-21098957143": "vendas longe",
+   "shopee-23396014254": "vendas longe",
+   "shopee-23196019496": "vendas longe",
+   "shopee-23793877801": "vendas longe",
+   "shopee-58206303149": "vendas longe",
+   "shopee-22099905774": "nota",
+   "shopee-22299494448": "nota",
+   "shopee-58265324179": "nota",
+   "shopee-58259210630": "nota",
+   "shopee-58213473372": "nota",
+   "shopee-23197480844": "nota",
+   "shopee-22894180036": "nota",
+   "shopee-22798676628": "nota",
+   "shopee-22798181153": "vendas longe",
+   "shopee-22698686097": "nota",
+   "shopee-22698185760": "vendas longe",
+   "shopee-58254163302": "nota",
+   "shopee-58254163235": "nota",
+   "shopee-58212345283": "nota",
+   "shopee-58212322624": "nota",
+   "shopee-23324289569": "nota",
+   "shopee-23099004766": "nota"
   },
   "shopee_oficial": {
-   "vendas longe": 1177,
-   "nota": 804,
+   "vendas longe": 1197,
+   "nota": 820,
    "vendas perto (125+)": 99,
-   "desconto longe": 64,
-   "outro: marca fora da lista boa": 57,
+   "desconto longe": 65,
+   "outro: marca fora da lista boa": 58,
    "aprovada": 56,
    "desconto perto (até 10 pts)": 22,
    "outro: palavra proibida: compatível": 10
@@ -5772,10 +5812,14 @@
    "amz-B08RHWX6G1": "ja_postado_30d",
    "amz-B0DKQTMXT2": "ja_postado_30d",
    "amz-B0FJMMP8CX": "ja_postado_30d",
-   "amz-B09KXFTCLP": "ja_postado_30d"
+   "amz-B09KXFTCLP": "ja_postado_30d",
+   "amz-B0CL4NKT83": "ja_postado_30d",
+   "amz-B0GVSYZJ4W": "ja_postado_30d",
+   "amz-B0DPL9L9ZD": "ja_postado_30d",
+   "amz-B0B7SH8YPV": "ja_postado_30d"
   },
   "manuais_descartados": {
-   "ja_postado_30d": 239
+   "ja_postado_30d": 243
   },
   "instagram": {
    "seguidores": 498,
@@ -5783,10 +5827,10 @@
    "reach": 2316,
    "profile_views": 56,
    "website_clicks": 0,
-   "stories_ativos": 20
+   "stories_ativos": 21
   },
   "reels_alcance": {
-   "atualizado": "2026-11-15T11:21:57.451730-03:00",
+   "atualizado": "2026-11-15T12:07:04.843144-03:00",
    "itens": [
     {
      "id": "18230902090331796",
@@ -5895,20 +5939,11 @@
      "views": 5,
      "shares": 0,
      "saved": 0
-    },
-    {
-     "id": "18031310432866524",
-     "hora": "08/11 12:05",
-     "capa": "ate_off",
-     "reach": 0,
-     "views": 0,
-     "shares": 0,
-     "saved": 0
     }
    ],
    "por_capa": {
     "ate_off": {
-     "n": 10,
+     "n": 9,
      "alcance_medio": 5
     },
     "uma_oferta": {
