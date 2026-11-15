@@ -3142,17 +3142,17 @@
    "⚠️ Fila vazia (tech), último garimpo 14/11 18:18 — abrir o app Claude e conferir as rotinas",
    "⚠️ Fila vazia (marcas), último garimpo 15:24 — abrir o app Claude e conferir as rotinas"
   ],
-  "ultima_execucao": "18:54",
-  "execucoes": 16,
+  "ultima_execucao": "19:36",
+  "execucoes": 17,
   "telegram_posts": {
-   "achadinhos": 38,
-   "marcas": 29,
-   "tech": 31
+   "achadinhos": 40,
+   "marcas": 31,
+   "tech": 33
   },
   "ultimo_post": {
-   "achadinhos": "19:21",
-   "marcas": "19:28",
-   "tech": "19:36"
+   "achadinhos": "20:03",
+   "marcas": "20:11",
+   "tech": "20:18"
   },
   "meta_token": {
    "tipo": "SYSTEM_USER",
@@ -3527,13 +3527,13 @@
    "shopee-20298661104": "aprovada",
    "shopee-18999298418": "desconto longe",
    "shopee-58213517435": "desconto longe",
-   "shopee-22092869191": "vendas longe",
+   "shopee-22092869191": "vendas perto (125+)",
    "shopee-58219289149": "vendas perto (125+)",
    "shopee-22396095321": "desconto longe",
    "shopee-20975432880": "vendas longe",
    "shopee-23697606453": "vendas longe",
    "shopee-23698581948": "vendas longe",
-   "shopee-58260062583": "vendas perto (125+)",
+   "shopee-58260062583": "vendas longe",
    "shopee-19598100675": "vendas longe",
    "shopee-23398535010": "vendas longe",
    "shopee-22793957158": "vendas longe",
@@ -3541,7 +3541,7 @@
    "shopee-51716214742": "vendas longe",
    "shopee-23394246207": "vendas longe",
    "shopee-46408034619": "vendas longe",
-   "shopee-58219290642": "vendas longe",
+   "shopee-58219290642": "nota",
    "shopee-22993517125": "vendas longe",
    "shopee-58215416492": "vendas longe",
    "shopee-18899897601": "vendas longe",
@@ -3867,7 +3867,7 @@
    "shopee-22594500473": "vendas longe",
    "shopee-53217736131": "nota",
    "shopee-43830855940": "vendas longe",
-   "shopee-48769943177": "nota",
+   "shopee-48769943177": "vendas longe",
    "shopee-52760507509": "vendas longe",
    "shopee-48967761207": "vendas longe",
    "shopee-58203683596": "vendas longe",
@@ -3895,7 +3895,7 @@
    "shopee-47917747572": "vendas longe",
    "shopee-47210519621": "nota",
    "shopee-55819487167": "nota",
-   "shopee-54419919301": "nota",
+   "shopee-54419919301": "vendas longe",
    "shopee-53767736296": "nota",
    "shopee-58271031421": "vendas longe",
    "shopee-56717736208": "vendas longe",
@@ -4312,7 +4312,7 @@
    "shopee-23295390499": "nota",
    "shopee-22699891405": "nota",
    "shopee-58204728865": "vendas longe",
-   "shopee-21399899302": "nota",
+   "shopee-21399899302": "vendas longe",
    "shopee-58254717962": "nota",
    "shopee-58222363739": "nota",
    "shopee-58271562417": "nota",
@@ -5785,14 +5785,24 @@
    "shopee-58272369101": "nota",
    "shopee-41472456603": "vendas longe",
    "shopee-22999394474": "vendas longe",
-   "shopee-46965854659": "nota"
+   "shopee-46965854659": "nota",
+   "shopee-22694716750": "nota",
+   "shopee-50160531915": "nota",
+   "shopee-22598018608": "vendas longe",
+   "shopee-46917196165": "nota",
+   "shopee-58220043393": "nota",
+   "shopee-23098440368": "vendas longe",
+   "shopee-23694735764": "vendas longe",
+   "shopee-46617187383": "nota",
+   "shopee-46617187351": "nota",
+   "shopee-3258773144": "aprovada"
   },
   "shopee_oficial": {
-   "vendas longe": 1363,
-   "nota": 840,
+   "vendas longe": 1368,
+   "nota": 844,
    "vendas perto (125+)": 105,
    "desconto longe": 67,
-   "aprovada": 62,
+   "aprovada": 63,
    "outro: marca fora da lista boa": 60,
    "desconto perto (até 10 pts)": 25,
    "outro: palavra proibida: compatível": 11
@@ -6094,10 +6104,16 @@
    "amz-B0DCP66SMZ": "ja_postado_30d",
    "amz-B09KYJ9D7D": "ja_postado_30d",
    "amz-B099ZBTCQ3": "ja_postado_30d",
-   "amz-B0HQKJ9TWR": "ja_postado_30d"
+   "amz-B0HQKJ9TWR": "ja_postado_30d",
+   "amz-B0CPXZHF8F": "ja_postado_30d",
+   "amz-B0HLH4CQW5": "ja_postado_30d",
+   "amz-B0DMWLX7F3": "ja_postado_30d",
+   "amz-B0CZSBQHYL": "ja_postado_30d",
+   "amz-B01HOJIK5Q": "ja_postado_30d",
+   "amz-B0HJRY43GG": "ja_postado_30d"
   },
   "manuais_descartados": {
-   "ja_postado_30d": 297
+   "ja_postado_30d": 303
   },
   "instagram": {
    "seguidores": 500,
@@ -6105,10 +6121,10 @@
    "reach": 2316,
    "profile_views": 62,
    "website_clicks": 0,
-   "stories_ativos": 21
+   "stories_ativos": 20
   },
   "reels_alcance": {
-   "atualizado": "2026-11-15T18:54:41.178677-03:00",
+   "atualizado": "2026-11-15T19:36:33.193234-03:00",
    "itens": [
     {
      "id": "18230902090331796",
