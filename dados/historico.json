@@ -1420,7 +1420,14 @@
   "2026-11-15 tech 13:11 amz-B0GKQTTCMM",
   "2026-11-15 achadinhos 13:17 shopee-21997684262",
   "2026-11-15 marcas 13:25 amz-B0G455G4HY",
-  "2026-11-15 tech 13:32 amz-B0FK18FNYH"
+  "2026-11-15 tech 13:32 amz-B0FK18FNYH",
+  "2026-11-15 achadinhos 13:38 amz-B0F7J2KKFW",
+  "2026-11-15 achadinhos 13:42 amz-B0CGBR6QFC",
+  "2026-11-15 marcas 13:49 amz-B0G26QMJVL",
+  "2026-11-15 tech 13:55 amz-B0FNWFXG2W",
+  "2026-11-15 achadinhos 14:02 amz-B0GWFKB9YV",
+  "2026-11-15 marcas 14:10 amz-B07HRHBLCF",
+  "2026-11-15 tech 14:17 amz-B0FQHFTDF7"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -2778,7 +2785,14 @@
   "amz-B0FNNBX44S": "2026-11-15T13:03:46.220220-03:00",
   "amz-B0GKQTTCMM": "2026-11-15T13:11:13.378987-03:00",
   "amz-B0G455G4HY": "2026-11-15T13:25:55.533524-03:00",
-  "amz-B0FK18FNYH": "2026-11-15T13:32:49.343767-03:00"
+  "amz-B0FK18FNYH": "2026-11-15T13:32:49.343767-03:00",
+  "amz-B0F7J2KKFW": "2026-11-15T13:38:56.451894-03:00",
+  "amz-B0CGBR6QFC": "2026-11-15T13:42:12.684139-03:00",
+  "amz-B0G26QMJVL": "2026-11-15T13:49:48.988760-03:00",
+  "amz-B0FNWFXG2W": "2026-11-15T13:55:57.959520-03:00",
+  "amz-B0GWFKB9YV": "2026-11-15T14:02:19.443851-03:00",
+  "amz-B07HRHBLCF": "2026-11-15T14:10:35.737400-03:00",
+  "amz-B0FQHFTDF7": "2026-11-15T14:17:13.743138-03:00"
  },
  "ofertas_dia": [
   {
@@ -18204,6 +18218,129 @@
    "preco_em": "2026-11-15T12:18:12-03:00",
    "entrou": "2026-11-15T12:27:23.713939-03:00",
    "dia": "2026-11-15"
+  },
+  {
+   "id": "amz-B0F7J2KKFW",
+   "canal": "achadinhos",
+   "nome": "Escova elétrica Oral-B iO2 com sensor de pressão",
+   "preco_antigo": 406.25,
+   "preco": 212.94,
+   "desconto": 48,
+   "link": "https://www.amazon.com.br/dp/B0F7J2KKFW?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61pnLvX5amL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-16T22:00:00-03:00",
+   "coletado_em": "2026-11-15T08:20:41-03:00",
+   "gancho": "ORAL-B iO PELA METADE",
+   "preco_em": "2026-11-15T08:20:41-03:00",
+   "entrou": "2026-11-15T12:27:23.713939-03:00",
+   "dia": "2026-11-15"
+  },
+  {
+   "id": "amz-B0CGBR6QFC",
+   "canal": "achadinhos",
+   "nome": "Robô aspirador WAP Robot W400 3 em 1",
+   "preco_antigo": 1699.9,
+   "preco": 699.0,
+   "desconto": 59,
+   "link": "https://www.amazon.com.br/dp/B0CGBR6QFC?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61wz3x3JVBL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-16T22:00:00-03:00",
+   "coletado_em": "2026-11-15T08:20:41-03:00",
+   "gancho": "ROBÔ WAP COM R$ 1.000 A MENOS",
+   "preco_em": "2026-11-15T08:20:41-03:00",
+   "entrou": "2026-11-15T12:27:23.713939-03:00",
+   "dia": "2026-11-15"
+  },
+  {
+   "id": "amz-B0G26QMJVL",
+   "canal": "marcas",
+   "nome": "Kit 5 cuecas Levi's microfibra",
+   "preco_antigo": 256.85,
+   "preco": 188.27,
+   "desconto": 27,
+   "link": "https://www.amazon.com.br/dp/B0G26QMJVL?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61gWYzRZP8L._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-16T22:00:00-03:00",
+   "coletado_em": "2026-11-15T08:20:41-03:00",
+   "preco_em": "2026-11-15T08:20:41-03:00",
+   "entrou": "2026-11-15T12:27:23.713939-03:00",
+   "dia": "2026-11-15"
+  },
+  {
+   "id": "amz-B0FNWFXG2W",
+   "canal": "tech",
+   "nome": "Fone Bluetooth soundcore P31i da Anker",
+   "preco_antigo": 499.0,
+   "preco": 283.1,
+   "desconto": 43,
+   "link": "https://www.amazon.com.br/dp/B0FNWFXG2W?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51lrl13ZY0L._AC_SL1000_.jpg",
+   "loja": "Loja oficial Anker · entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-16T22:00:00-03:00",
+   "coletado_em": "2026-11-15T12:18:12-03:00",
+   "preco_em": "2026-11-15T12:18:12-03:00",
+   "entrou": "2026-11-15T12:27:23.713939-03:00",
+   "dia": "2026-11-15"
+  },
+  {
+   "id": "amz-B0GWFKB9YV",
+   "canal": "achadinhos",
+   "nome": "Garrafa térmica Stanley Aerolight Transit 350 ml",
+   "preco_antigo": 249.0,
+   "preco": 134.5,
+   "desconto": 46,
+   "link": "https://www.amazon.com.br/dp/B0GWFKB9YV?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71MzobIlWdL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-16T22:00:00-03:00",
+   "coletado_em": "2026-11-15T08:20:41-03:00",
+   "preco_em": "2026-11-15T08:20:41-03:00",
+   "entrou": "2026-11-15T12:27:23.713939-03:00",
+   "dia": "2026-11-15"
+  },
+  {
+   "id": "amz-B07HRHBLCF",
+   "canal": "marcas",
+   "nome": "Camisa polo Nautica masculina",
+   "preco_antigo": 238.67,
+   "preco": 140.92,
+   "desconto": 41,
+   "link": "https://www.amazon.com.br/dp/B07HRHBLCF?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51WkIEQCxhL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-16T22:00:00-03:00",
+   "coletado_em": "2026-11-15T08:20:41-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "preco_em": "2026-11-15T08:20:41-03:00",
+   "entrou": "2026-11-15T12:27:23.713939-03:00",
+   "dia": "2026-11-15"
+  },
+  {
+   "id": "amz-B0FQHFTDF7",
+   "canal": "tech",
+   "nome": "Apple iPhone Air 256GB Preto Sideral",
+   "preco_antigo": 10499.0,
+   "preco": 7299.0,
+   "desconto": 30,
+   "link": "https://www.amazon.com.br/dp/B0FQHFTDF7?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/416JhH4tebL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-16T22:00:00-03:00",
+   "coletado_em": "2026-11-15T12:18:12-03:00",
+   "gancho": "IPHONE AIR COM R$ 3 MIL A MENOS",
+   "preco_em": "2026-11-15T12:18:12-03:00",
+   "entrou": "2026-11-15T12:27:23.713939-03:00",
+   "dia": "2026-11-15"
   }
  ],
  "ig_feitos": [
@@ -18311,10 +18448,10 @@
   "2026-11-15 12:00 reels",
   "2026-11-15 12:19 story_oferta",
   "2026-11-15 12:47 story_oferta",
-  "2026-11-15 13:20 story_convite"
+  "2026-11-15 13:20 story_convite",
+  "2026-11-15 14:08 story_oferta"
  ],
  "ig_ofertas_usadas": [
-  "amz-B09DCZWN1K",
   "amz-B0CJ3WFW9H",
   "amz-B003JSEG4Q",
   "amz-B0C15596N6",
@@ -18513,7 +18650,8 @@
   "shopee-23494293697",
   "shopee-27481488690",
   "shopee-19646145273",
-  "shopee-23398337380"
+  "shopee-23398337380",
+  "shopee-21997684262"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
@@ -18603,56 +18741,6 @@
  },
  "ultimo_pilar": "bastidor",
  "fila": [
-  {
-   "id": "amz-B0F7J2KKFW",
-   "canal": "achadinhos",
-   "nome": "Escova elétrica Oral-B iO2 com sensor de pressão",
-   "preco_antigo": 406.25,
-   "preco": 212.94,
-   "desconto": 48,
-   "link": "https://www.amazon.com.br/dp/B0F7J2KKFW?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61pnLvX5amL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-16T22:00:00-03:00",
-   "coletado_em": "2026-11-15T08:20:41-03:00",
-   "gancho": "ORAL-B iO PELA METADE",
-   "preco_em": "2026-11-15T08:20:41-03:00",
-   "entrou": "2026-11-15T12:27:23.713939-03:00"
-  },
-  {
-   "id": "amz-B0CGBR6QFC",
-   "canal": "achadinhos",
-   "nome": "Robô aspirador WAP Robot W400 3 em 1",
-   "preco_antigo": 1699.9,
-   "preco": 699.0,
-   "desconto": 59,
-   "link": "https://www.amazon.com.br/dp/B0CGBR6QFC?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61wz3x3JVBL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-16T22:00:00-03:00",
-   "coletado_em": "2026-11-15T08:20:41-03:00",
-   "gancho": "ROBÔ WAP COM R$ 1.000 A MENOS",
-   "preco_em": "2026-11-15T08:20:41-03:00",
-   "entrou": "2026-11-15T12:27:23.713939-03:00"
-  },
-  {
-   "id": "amz-B0GWFKB9YV",
-   "canal": "achadinhos",
-   "nome": "Garrafa térmica Stanley Aerolight Transit 350 ml",
-   "preco_antigo": 249.0,
-   "preco": 134.5,
-   "desconto": 46,
-   "link": "https://www.amazon.com.br/dp/B0GWFKB9YV?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/71MzobIlWdL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-16T22:00:00-03:00",
-   "coletado_em": "2026-11-15T08:20:41-03:00",
-   "preco_em": "2026-11-15T08:20:41-03:00",
-   "entrou": "2026-11-15T12:27:23.713939-03:00"
-  },
   {
    "id": "amz-B0CWC3KCR1",
    "canal": "achadinhos",
@@ -18781,39 +18869,6 @@
    "valida_ate": "2026-11-16T22:00:00-03:00",
    "coletado_em": "2026-11-15T12:18:12-03:00",
    "preco_em": "2026-11-15T12:18:12-03:00",
-   "entrou": "2026-11-15T12:27:23.713939-03:00"
-  },
-  {
-   "id": "amz-B0G26QMJVL",
-   "canal": "marcas",
-   "nome": "Kit 5 cuecas Levi's microfibra",
-   "preco_antigo": 256.85,
-   "preco": 188.27,
-   "desconto": 27,
-   "link": "https://www.amazon.com.br/dp/B0G26QMJVL?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61gWYzRZP8L._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-16T22:00:00-03:00",
-   "coletado_em": "2026-11-15T08:20:41-03:00",
-   "preco_em": "2026-11-15T08:20:41-03:00",
-   "entrou": "2026-11-15T12:27:23.713939-03:00"
-  },
-  {
-   "id": "amz-B07HRHBLCF",
-   "canal": "marcas",
-   "nome": "Camisa polo Nautica masculina",
-   "preco_antigo": 238.67,
-   "preco": 140.92,
-   "desconto": 41,
-   "link": "https://www.amazon.com.br/dp/B07HRHBLCF?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51WkIEQCxhL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-16T22:00:00-03:00",
-   "coletado_em": "2026-11-15T08:20:41-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "preco_em": "2026-11-15T08:20:41-03:00",
    "entrou": "2026-11-15T12:27:23.713939-03:00"
   },
   {
@@ -18949,39 +19004,6 @@
    "plataforma": "Amazon",
    "valida_ate": "2026-11-16T22:00:00-03:00",
    "coletado_em": "2026-11-15T12:18:12-03:00",
-   "preco_em": "2026-11-15T12:18:12-03:00",
-   "entrou": "2026-11-15T12:27:23.713939-03:00"
-  },
-  {
-   "id": "amz-B0FNWFXG2W",
-   "canal": "tech",
-   "nome": "Fone Bluetooth soundcore P31i da Anker",
-   "preco_antigo": 499.0,
-   "preco": 283.1,
-   "desconto": 43,
-   "link": "https://www.amazon.com.br/dp/B0FNWFXG2W?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51lrl13ZY0L._AC_SL1000_.jpg",
-   "loja": "Loja oficial Anker · entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-16T22:00:00-03:00",
-   "coletado_em": "2026-11-15T12:18:12-03:00",
-   "preco_em": "2026-11-15T12:18:12-03:00",
-   "entrou": "2026-11-15T12:27:23.713939-03:00"
-  },
-  {
-   "id": "amz-B0FQHFTDF7",
-   "canal": "tech",
-   "nome": "Apple iPhone Air 256GB Preto Sideral",
-   "preco_antigo": 10499.0,
-   "preco": 7299.0,
-   "desconto": 30,
-   "link": "https://www.amazon.com.br/dp/B0FQHFTDF7?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/416JhH4tebL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-16T22:00:00-03:00",
-   "coletado_em": "2026-11-15T12:18:12-03:00",
-   "gancho": "IPHONE AIR COM R$ 3 MIL A MENOS",
    "preco_em": "2026-11-15T12:18:12-03:00",
    "entrou": "2026-11-15T12:27:23.713939-03:00"
   },
@@ -20322,7 +20344,14 @@
   "tenisnewbalance480lowmasculino": "2026-11-15T13:03:46.220220-03:00",
   "celularsamsunggalaxys26ultra5g256gb": "2026-11-15T13:11:13.378987-03:00",
   "tenisnewbalance413v3masculino": "2026-11-15T13:25:55.533524-03:00",
-  "caixadesomjblboombox4bluetoothbranca": "2026-11-15T13:32:49.343767-03:00"
+  "caixadesomjblboombox4bluetoothbranca": "2026-11-15T13:32:49.343767-03:00",
+  "escovaeletricaoralbio2comsensordepressao": "2026-11-15T13:38:56.451894-03:00",
+  "roboaspiradorwaprobotw4003em1": "2026-11-15T13:42:12.684139-03:00",
+  "kit5cuecaslevismicrofibra": "2026-11-15T13:49:48.988760-03:00",
+  "fonebluetoothsoundcorep31idaanker": "2026-11-15T13:55:57.959520-03:00",
+  "garrafatermicastanleyaerolighttransit350ml": "2026-11-15T14:02:19.443851-03:00",
+  "camisapolonauticamasculina": "2026-11-15T14:10:35.737400-03:00",
+  "appleiphoneair256gbpretosideral": "2026-11-15T14:17:13.743138-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
@@ -20713,7 +20742,7 @@
   "marcas": "2026-11-12T17:56:29.409807-03:00"
  },
  "top10_dia": "2026-11-14",
- "manuais_lidos": "2026-11-15T13:25:32.236051-03:00",
+ "manuais_lidos": "2026-11-15T14:10:01.540197-03:00",
  "reserva_resultado": {
   "2026-11-07": {
    "achadinhos": {
@@ -20913,7 +20942,7 @@
    "hora": "2026-11-11T20:32:35.453128-03:00"
   }
  },
- "ig_respondido_em": "2026-11-15T13:25:32.236051-03:00",
+ "ig_respondido_em": "2026-11-15T14:16:57.126272-03:00",
  "dm_auto": {
   "2026-11-08": {
    "com_palavra": 0,
@@ -21135,13 +21164,13 @@
    "feed": 2
   },
   "2026-11-15": {
-   "story": 10,
+   "story": 11,
    "feed": 1
   }
  },
  "ig_conta_ok": "2026-11-15",
  "share_erro": {},
  "ig_tentativas": {
-  "2026-11-14 14:08 story_oferta": 1
+  "2026-11-15 14:08 story_oferta": 1
  }
 }
