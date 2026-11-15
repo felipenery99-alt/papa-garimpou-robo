@@ -1,10 +1,4 @@
 {
- "⚠️ Fila vazia (achadinhos, marcas, tech), último garimpo #:# — abrir o app Claud": {
-  "primeiro": "2026-11-12T20:40+00:00",
-  "vezes": 1,
-  "ultimo": "2026-11-12T20:40+00:00",
-  "texto": "⚠️ Fila vazia (achadinhos, marcas, tech), último garimpo 13:20 — abrir o app Claude e conferir as rotinas"
- },
  "canal marcas sem oferta na fila há # min (busca extra também não achou). Abastec": {
   "primeiro": "2026-11-12T21:23+00:00",
   "vezes": 2,
@@ -82,5 +76,11 @@
   "vezes": 1,
   "ultimo": "2026-11-14T18:16+00:00",
   "texto": "canal geral não recebeu amz-B0CZ7CDRSV: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
+ },
+ "⚠️ Fila vazia (marcas), último garimpo #:# — abrir o app Claude e conferir as ro": {
+  "primeiro": "2026-11-15T21:14+00:00",
+  "vezes": 1,
+  "ultimo": "2026-11-15T21:14+00:00",
+  "texto": "⚠️ Fila vazia (marcas), último garimpo 15:24 — abrir o app Claude e conferir as rotinas"
  }
 }

@@ -3139,19 +3139,20 @@
  },
  "2026-11-15": {
   "erros": [
-   "⚠️ Fila vazia (tech), último garimpo 14/11 18:18 — abrir o app Claude e conferir as rotinas"
+   "⚠️ Fila vazia (tech), último garimpo 14/11 18:18 — abrir o app Claude e conferir as rotinas",
+   "⚠️ Fila vazia (marcas), último garimpo 15:24 — abrir o app Claude e conferir as rotinas"
   ],
-  "ultima_execucao": "17:28",
-  "execucoes": 14,
+  "ultima_execucao": "18:10",
+  "execucoes": 15,
   "telegram_posts": {
-   "achadinhos": 34,
-   "marcas": 26,
-   "tech": 26
+   "achadinhos": 36,
+   "marcas": 27,
+   "tech": 29
   },
   "ultimo_post": {
-   "achadinhos": "17:55",
-   "marcas": "18:03",
-   "tech": "18:10"
+   "achadinhos": "18:40",
+   "marcas": "18:47",
+   "tech": "18:54"
   },
   "meta_token": {
    "tipo": "SYSTEM_USER",
@@ -3202,7 +3203,9 @@
    "16:05 adivinha_resposta",
    "16:44 story_oferta",
    "17:36 story_oferta",
-   "18:09 story_oferta"
+   "18:09 story_oferta",
+   "18:30 reels",
+   "18:42 story_oferta"
   ],
   "shopee_ligada": true,
   "dm_auto": {
@@ -3239,6 +3242,11 @@
     "busca": 0,
     "quase": 0,
     "reprise": 1
+   },
+   "marcas": {
+    "busca": 0,
+    "quase": 0,
+    "reprise": 0
    }
   },
   "shopee_oficial_ids": {
@@ -5523,7 +5531,7 @@
    "shopee-58252767762": "vendas longe",
    "shopee-22599546621": "vendas longe",
    "shopee-58220452473": "vendas longe",
-   "shopee-58269657547": "nota",
+   "shopee-58269657547": "vendas longe",
    "shopee-18497677565": "vendas longe",
    "shopee-58214029046": "vendas longe",
    "shopee-55307381455": "vendas longe",
@@ -5689,11 +5697,86 @@
    "shopee-53161540827": "nota",
    "shopee-55421071989": "nota",
    "shopee-18697987228": "vendas longe",
-   "shopee-22093994785": "outro: marca fora da lista boa"
+   "shopee-22093994785": "outro: marca fora da lista boa",
+   "shopee-58265912585": "vendas longe",
+   "shopee-49006289588": "vendas longe",
+   "shopee-58264713995": "vendas longe",
+   "shopee-55509269719": "vendas longe",
+   "shopee-58206905777": "vendas longe",
+   "shopee-58265284569": "vendas longe",
+   "shopee-58217985986": "vendas longe",
+   "shopee-22794287405": "vendas longe",
+   "shopee-47664702496": "vendas longe",
+   "shopee-58219941571": "vendas longe",
+   "shopee-40885496910": "vendas longe",
+   "shopee-23091131346": "vendas longe",
+   "shopee-58256501332": "vendas longe",
+   "shopee-19097690832": "vendas longe",
+   "shopee-58210687456": "vendas longe",
+   "shopee-22494957729": "vendas longe",
+   "shopee-46958589396": "vendas longe",
+   "shopee-58266674386": "vendas longe",
+   "shopee-23499357905": "vendas longe",
+   "shopee-52363987025": "vendas longe",
+   "shopee-58265920618": "vendas longe",
+   "shopee-58217366185": "vendas longe",
+   "shopee-42630148423": "vendas longe",
+   "shopee-23293511965": "vendas longe",
+   "shopee-58207782662": "vendas longe",
+   "shopee-22896913974": "vendas longe",
+   "shopee-28145294298": "vendas longe",
+   "shopee-22894142328": "vendas longe",
+   "shopee-19599841339": "vendas longe",
+   "shopee-58265921435": "vendas longe",
+   "shopee-7993814727": "vendas longe",
+   "shopee-58265912619": "vendas longe",
+   "shopee-58216148999": "vendas longe",
+   "shopee-58205196721": "vendas longe",
+   "shopee-44503202565": "vendas longe",
+   "shopee-58256254997": "vendas longe",
+   "shopee-58265921193": "vendas longe",
+   "shopee-58265912275": "vendas longe",
+   "shopee-40983656993": "vendas longe",
+   "shopee-58206799813": "vendas longe",
+   "shopee-58265921083": "vendas longe",
+   "shopee-48669947575": "vendas longe",
+   "shopee-26987321898": "vendas longe",
+   "shopee-58265912211": "vendas longe",
+   "shopee-58265912258": "vendas longe",
+   "shopee-58265908611": "vendas longe",
+   "shopee-18498112527": "vendas longe",
+   "shopee-47606143322": "vendas longe",
+   "shopee-57758143689": "vendas longe",
+   "shopee-58214231037": "vendas longe",
+   "shopee-58220120572": "vendas longe",
+   "shopee-22794905563": "vendas longe",
+   "shopee-58256173411": "vendas longe",
+   "shopee-58268103300": "vendas longe",
+   "shopee-58265908777": "vendas longe",
+   "shopee-23494301531": "vendas longe",
+   "shopee-51513119161": "vendas longe",
+   "shopee-58265912555": "vendas longe",
+   "shopee-58215923257": "vendas longe",
+   "shopee-22694863465": "vendas longe",
+   "shopee-58265916671": "vendas longe",
+   "shopee-58216400206": "vendas longe",
+   "shopee-26494221681": "vendas longe",
+   "shopee-27086237485": "vendas longe",
+   "shopee-58266079790": "vendas longe",
+   "shopee-47215634516": "vendas longe",
+   "shopee-55512266854": "vendas longe",
+   "shopee-49667101574": "vendas longe",
+   "shopee-58265912669": "vendas longe",
+   "shopee-23336700427": "vendas longe",
+   "shopee-58265912392": "vendas longe",
+   "shopee-58215913218": "vendas longe",
+   "shopee-23195217074": "vendas longe",
+   "shopee-52910808641": "vendas longe",
+   "shopee-58215935063": "vendas longe"
   },
   "shopee_oficial": {
-   "vendas longe": 1279,
-   "nota": 838,
+   "vendas longe": 1355,
+   "nota": 837,
    "vendas perto (125+)": 106,
    "desconto longe": 66,
    "aprovada": 63,
@@ -5986,21 +6069,27 @@
    "amz-B0FXJCT2FL": "ja_postado_30d",
    "amz-B00XJP8MKI": "ja_postado_30d",
    "amz-B09CC3QFDX": "ja_postado_30d",
-   "amz-B0D8KXR131": "ja_postado_30d"
+   "amz-B0D8KXR131": "ja_postado_30d",
+   "amz-B0BYDT7FTB": "ja_postado_30d",
+   "amz-B0F6NSM3CW": "ja_postado_30d",
+   "amz-B077VYCV37": "ja_postado_30d",
+   "amz-B0F63L9DLK": "ja_postado_30d",
+   "amz-B0FQFJ1T12": "ja_postado_30d",
+   "amz-B0GPSV6SFG": "ja_postado_30d"
   },
   "manuais_descartados": {
-   "ja_postado_30d": 285
+   "ja_postado_30d": 291
   },
   "instagram": {
-   "seguidores": 499,
+   "seguidores": 500,
    "posts": 125,
    "reach": 2316,
    "profile_views": 62,
    "website_clicks": 0,
-   "stories_ativos": 22
+   "stories_ativos": 21
   },
   "reels_alcance": {
-   "atualizado": "2026-11-15T17:28:15.182198-03:00",
+   "atualizado": "2026-11-15T18:10:51.499165-03:00",
    "itens": [
     {
      "id": "18230902090331796",
@@ -6100,34 +6189,30 @@
      "views": 1,
      "shares": 0,
      "saved": 0
-    },
-    {
-     "id": "18498252658111064",
-     "hora": "08/11 18:36",
-     "capa": "ate_off",
-     "reach": 2,
-     "views": 5,
-     "shares": 0,
-     "saved": 0
     }
    ],
    "por_capa": {
     "ate_off": {
-     "n": 9,
-     "alcance_medio": 5
+     "n": 8,
+     "alcance_medio": 6
     },
     "uma_oferta": {
      "n": 3,
      "alcance_medio": 6
     }
    },
-   "campeao": "uma_oferta"
+   "campeao": "ate_off"
   },
   "tiktok": [
    {
     "hora": "12:04",
     "capa": "banco",
     "url": "https://raw.githubusercontent.com/felipenery99-alt/papa-garimpou-robo/tiktok-midia/20261115-1204-tiktok.mp4"
+   },
+   {
+    "hora": "18:33",
+    "capa": "uma_oferta",
+    "url": "https://raw.githubusercontent.com/felipenery99-alt/papa-garimpou-robo/tiktok-midia/20261115-1833-tiktok.mp4"
    }
   ]
  }
