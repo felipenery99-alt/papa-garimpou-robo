@@ -1465,7 +1465,13 @@
   "2026-11-15 tech 18:34 amz-B0FQFJ1T12",
   "2026-11-15 achadinhos 18:40 amz-B0GPSV6SFG",
   "2026-11-15 marcas 18:47 amz-B0CL523N5V",
-  "2026-11-15 tech 18:54 amz-B09LVFNMVJ"
+  "2026-11-15 tech 18:54 amz-B09LVFNMVJ",
+  "2026-11-15 achadinhos 19:00 amz-B0DCP66SMZ",
+  "2026-11-15 marcas 19:06 amz-B09KYJ9D7D",
+  "2026-11-15 tech 19:13 amz-B0HQKJ9TWR",
+  "2026-11-15 achadinhos 19:21 amz-B099ZBTCQ3",
+  "2026-11-15 marcas 19:28 amz-B0HLH4CQW5",
+  "2026-11-15 tech 19:36 amz-B0CPXZHF8F"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -2868,7 +2874,13 @@
   "amz-B0FQFJ1T12": "2026-11-15T18:34:07.452397-03:00",
   "amz-B0GPSV6SFG": "2026-11-15T18:40:21.853719-03:00",
   "amz-B0CL523N5V": "2026-11-15T18:47:16.871082-03:00",
-  "amz-B09LVFNMVJ": "2026-11-15T18:54:12.581435-03:00"
+  "amz-B09LVFNMVJ": "2026-11-15T18:54:12.581435-03:00",
+  "amz-B0DCP66SMZ": "2026-11-15T19:00:07.395437-03:00",
+  "amz-B09KYJ9D7D": "2026-11-15T19:06:18.466120-03:00",
+  "amz-B0HQKJ9TWR": "2026-11-15T19:13:29.892536-03:00",
+  "amz-B099ZBTCQ3": "2026-11-15T19:21:10.325866-03:00",
+  "amz-B0HLH4CQW5": "2026-11-15T19:28:28.487461-03:00",
+  "amz-B0CPXZHF8F": "2026-11-15T19:36:05.903040-03:00"
  },
  "ofertas_dia": [
   {
@@ -19040,6 +19052,109 @@
    "preco_em": "2026-11-15T18:15:00-03:00",
    "entrou": "2026-11-15T18:33:54.933937-03:00",
    "dia": "2026-11-15"
+  },
+  {
+   "id": "amz-B0DCP66SMZ",
+   "canal": "achadinhos",
+   "nome": "Liquidificador WAP WB2000 copo de vidro 2 litros",
+   "preco_antigo": 659.9,
+   "preco": 375.0,
+   "desconto": 43,
+   "link": "https://www.amazon.com.br/dp/B0DCP66SMZ?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/714RN13BXbL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-16T22:00:00-03:00",
+   "coletado_em": "2026-11-15T15:24:45-03:00",
+   "preco_em": "2026-11-15T15:24:45-03:00",
+   "entrou": "2026-11-15T15:35:17.028486-03:00",
+   "dia": "2026-11-15"
+  },
+  {
+   "id": "amz-B09KYJ9D7D",
+   "canal": "marcas",
+   "nome": "Kit com 5 Camisetas Básicas Masculinas Hering",
+   "preco_antigo": 249.99,
+   "preco": 132.98,
+   "desconto": 47,
+   "link": "https://www.amazon.com.br/dp/B09KYJ9D7D?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/41HVLKjYWlL.jpg",
+   "loja": "Loja oficial Hering · entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-16T22:00:00-03:00",
+   "coletado_em": "2026-11-15T18:15:00-03:00",
+   "preco_em": "2026-11-15T18:15:00-03:00",
+   "entrou": "2026-11-15T18:33:54.933937-03:00",
+   "dia": "2026-11-15"
+  },
+  {
+   "id": "amz-B0HQKJ9TWR",
+   "canal": "tech",
+   "nome": "Bundle Nintendo Switch OLED + Super Mario Bros. Wonder",
+   "preco_antigo": 3168.9,
+   "preco": 2278.0,
+   "desconto": 28,
+   "link": "https://www.amazon.com.br/dp/B0HQKJ9TWR?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51BgIM+XUDL.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-16T22:00:00-03:00",
+   "coletado_em": "2026-11-15T18:15:00-03:00",
+   "preco_em": "2026-11-15T18:15:00-03:00",
+   "entrou": "2026-11-15T18:33:54.933937-03:00",
+   "dia": "2026-11-15"
+  },
+  {
+   "id": "amz-B099ZBTCQ3",
+   "canal": "achadinhos",
+   "nome": "Cafeteira Nespresso Essenza Mini preta · 220V",
+   "preco_antigo": 829.0,
+   "preco": 455.05,
+   "desconto": 45,
+   "link": "https://www.amazon.com.br/dp/B099ZBTCQ3?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51QP72LhToL._AC_SL1000_.jpg",
+   "loja": "Loja oficial Nespresso · entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-16T22:00:00-03:00",
+   "coletado_em": "2026-11-15T15:24:45-03:00",
+   "gancho": "NESPRESSO QUASE PELA METADE",
+   "preco_em": "2026-11-15T15:24:45-03:00",
+   "entrou": "2026-11-15T15:35:17.028486-03:00",
+   "dia": "2026-11-15"
+  },
+  {
+   "id": "amz-B0HLH4CQW5",
+   "canal": "marcas",
+   "nome": "Creatina 500g + Glutamina 500g Dark Lab",
+   "preco_antigo": 159.78,
+   "preco": 109.34,
+   "desconto": 32,
+   "link": "https://www.amazon.com.br/dp/B0HLH4CQW5?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61HPYYmaCzL.jpg",
+   "loja": "Loja oficial Dark Lab · entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-16T22:00:00-03:00",
+   "coletado_em": "2026-11-15T18:15:00-03:00",
+   "preco_em": "2026-11-15T18:15:00-03:00",
+   "entrou": "2026-11-15T18:33:54.933937-03:00",
+   "dia": "2026-11-15"
+  },
+  {
+   "id": "amz-B0CPXZHF8F",
+   "canal": "tech",
+   "nome": "Mouse Gamer sem Fio Redragon King Pro",
+   "preco_antigo": 297.5,
+   "preco": 165.99,
+   "desconto": 44,
+   "link": "https://www.amazon.com.br/dp/B0CPXZHF8F?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51D3XVu2TFL.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-16T22:00:00-03:00",
+   "coletado_em": "2026-11-15T18:15:00-03:00",
+   "preco_em": "2026-11-15T18:15:00-03:00",
+   "entrou": "2026-11-15T18:33:54.933937-03:00",
+   "dia": "2026-11-15"
   }
  ],
  "ig_feitos": [
@@ -19156,7 +19271,10 @@
   "2026-11-15 17:36 story_oferta",
   "2026-11-15 18:09 story_oferta",
   "2026-11-15 18:30 reels",
-  "2026-11-15 18:42 story_oferta"
+  "2026-11-15 18:42 story_oferta",
+  "2026-11-15 feed",
+  "2026-11-15 19:15 post_achado",
+  "2026-11-15 19:17 story_oferta"
  ],
  "ig_ofertas_usadas": [
   "amz-B0CJ3WFW9H",
@@ -19447,46 +19565,15 @@
   "ac-whats-loja": "2026-11-15",
   "bs-canal-achadinhos": "2026-11-15",
   "ac-foto-perfeita": "2026-11-15",
-  "bs-gratis": "2026-11-15"
+  "bs-gratis": "2026-11-15",
+  "cv-salario": "2026-11-15",
+  "bs-silenciar": "2026-11-15"
  },
  "pecas_dia": {
-  "2026-11-15": 12
+  "2026-11-15": 13
  },
  "ultimo_pilar": "bastidor",
  "fila": [
-  {
-   "id": "amz-B0DCP66SMZ",
-   "canal": "achadinhos",
-   "nome": "Liquidificador WAP WB2000 copo de vidro 2 litros",
-   "preco_antigo": 659.9,
-   "preco": 375.0,
-   "desconto": 43,
-   "link": "https://www.amazon.com.br/dp/B0DCP66SMZ?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/714RN13BXbL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-16T22:00:00-03:00",
-   "coletado_em": "2026-11-15T15:24:45-03:00",
-   "preco_em": "2026-11-15T15:24:45-03:00",
-   "entrou": "2026-11-15T15:35:17.028486-03:00"
-  },
-  {
-   "id": "amz-B099ZBTCQ3",
-   "canal": "achadinhos",
-   "nome": "Cafeteira Nespresso Essenza Mini preta · 220V",
-   "preco_antigo": 829.0,
-   "preco": 455.05,
-   "desconto": 45,
-   "link": "https://www.amazon.com.br/dp/B099ZBTCQ3?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51QP72LhToL._AC_SL1000_.jpg",
-   "loja": "Loja oficial Nespresso · entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-16T22:00:00-03:00",
-   "coletado_em": "2026-11-15T15:24:45-03:00",
-   "gancho": "NESPRESSO QUASE PELA METADE",
-   "preco_em": "2026-11-15T15:24:45-03:00",
-   "entrou": "2026-11-15T15:35:17.028486-03:00"
-  },
   {
    "id": "amz-B0C512S3FC",
    "canal": "achadinhos",
@@ -19712,38 +19799,6 @@
    "entrou": "2026-11-15T18:33:54.933937-03:00"
   },
   {
-   "id": "amz-B09KYJ9D7D",
-   "canal": "marcas",
-   "nome": "Kit com 5 Camisetas Básicas Masculinas Hering",
-   "preco_antigo": 249.99,
-   "preco": 132.98,
-   "desconto": 47,
-   "link": "https://www.amazon.com.br/dp/B09KYJ9D7D?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/41HVLKjYWlL.jpg",
-   "loja": "Loja oficial Hering · entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-16T22:00:00-03:00",
-   "coletado_em": "2026-11-15T18:15:00-03:00",
-   "preco_em": "2026-11-15T18:15:00-03:00",
-   "entrou": "2026-11-15T18:33:54.933937-03:00"
-  },
-  {
-   "id": "amz-B0HLH4CQW5",
-   "canal": "marcas",
-   "nome": "Creatina 500g + Glutamina 500g Dark Lab",
-   "preco_antigo": 159.78,
-   "preco": 109.34,
-   "desconto": 32,
-   "link": "https://www.amazon.com.br/dp/B0HLH4CQW5?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61HPYYmaCzL.jpg",
-   "loja": "Loja oficial Dark Lab · entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-16T22:00:00-03:00",
-   "coletado_em": "2026-11-15T18:15:00-03:00",
-   "preco_em": "2026-11-15T18:15:00-03:00",
-   "entrou": "2026-11-15T18:33:54.933937-03:00"
-  },
-  {
    "id": "amz-B0CZSBQHYL",
    "canal": "marcas",
    "nome": "Garrafa Stanley IceFlow Flip com Palhinha",
@@ -19865,38 +19920,6 @@
    "link": "https://www.amazon.com.br/dp/B0CKS4Q5MV?tag=papagarimpou-20",
    "imagem": "https://m.media-amazon.com/images/I/519Qu-LgJ9L.jpg",
    "loja": "Loja oficial Reserva · entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-16T22:00:00-03:00",
-   "coletado_em": "2026-11-15T18:15:00-03:00",
-   "preco_em": "2026-11-15T18:15:00-03:00",
-   "entrou": "2026-11-15T18:33:54.933937-03:00"
-  },
-  {
-   "id": "amz-B0HQKJ9TWR",
-   "canal": "tech",
-   "nome": "Bundle Nintendo Switch OLED + Super Mario Bros. Wonder",
-   "preco_antigo": 3168.9,
-   "preco": 2278.0,
-   "desconto": 28,
-   "link": "https://www.amazon.com.br/dp/B0HQKJ9TWR?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51BgIM+XUDL.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-16T22:00:00-03:00",
-   "coletado_em": "2026-11-15T18:15:00-03:00",
-   "preco_em": "2026-11-15T18:15:00-03:00",
-   "entrou": "2026-11-15T18:33:54.933937-03:00"
-  },
-  {
-   "id": "amz-B0CPXZHF8F",
-   "canal": "tech",
-   "nome": "Mouse Gamer sem Fio Redragon King Pro",
-   "preco_antigo": 297.5,
-   "preco": 165.99,
-   "desconto": 44,
-   "link": "https://www.amazon.com.br/dp/B0CPXZHF8F?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51D3XVu2TFL.jpg",
-   "loja": "Vendido e entregue pela Amazon",
    "plataforma": "Amazon",
    "valida_ate": "2026-11-16T22:00:00-03:00",
    "coletado_em": "2026-11-15T18:15:00-03:00",
@@ -20072,7 +20095,7 @@
   "bv1 @papagarimpouofertas"
  ],
  "feed_dia": {
-  "2026-11-15": 1
+  "2026-11-15": 2
  },
  "postados_nome": {
   "escovasecadormodeladorataiffovaleasypinkoriginal": "2026-11-13T14:24:40.607702-03:00",
@@ -21316,7 +21339,13 @@
   "applewatchseries11gpsaluminiopreto": "2026-11-15T18:34:07.452397-03:00",
   "shampoolorealprofessionnelserieexpertprolonger": "2026-11-15T18:40:21.853719-03:00",
   "kitcom3camisetasbasicasmasculinashering": "2026-11-15T18:47:16.871082-03:00",
-  "roteadormeshtplinkdecox50wifi62un": "2026-11-15T18:54:12.581435-03:00"
+  "roteadormeshtplinkdecox50wifi62un": "2026-11-15T18:54:12.581435-03:00",
+  "liquidificadorwapwb2000copodevidro2litros": "2026-11-15T19:00:07.395437-03:00",
+  "kitcom5camisetasbasicasmasculinashering": "2026-11-15T19:06:18.466120-03:00",
+  "bundlenintendoswitcholedsupermariobroswonder": "2026-11-15T19:13:29.892536-03:00",
+  "cafeteiranespressoessenzaminipreta220v": "2026-11-15T19:21:10.325866-03:00",
+  "creatina500gglutamina500gdarklab": "2026-11-15T19:28:28.487461-03:00",
+  "mousegamersemfioredragonkingpro": "2026-11-15T19:36:05.903040-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
@@ -21666,7 +21695,7 @@
  },
  "story_link_dia": "2026-11-15",
  "pede_semana": "2026-46",
- "ultimo_garimpo": "2026-11-15T15:24:46-03:00",
+ "ultimo_garimpo": "2026-11-15T18:18:18-03:00",
  "vigia_aviso_post": "2026-11-09T18:27:03.734589-03:00",
  "vigia_aviso_garimpo": "2026-11-15T18:10:51.499165-03:00",
  "resumo_enviado": "2026-11-14",
@@ -21710,7 +21739,7 @@
   "marcas": "2026-11-12T17:56:29.409807-03:00"
  },
  "top10_dia": "2026-11-14",
- "manuais_lidos": "2026-11-15T18:46:55.708198-03:00",
+ "manuais_lidos": "2026-11-15T19:28:28.131458-03:00",
  "reserva_resultado": {
   "2026-11-07": {
    "achadinhos": {
@@ -21915,7 +21944,7 @@
    "hora": "2026-11-11T20:32:35.453128-03:00"
   }
  },
- "ig_respondido_em": "2026-11-15T18:46:55.708198-03:00",
+ "ig_respondido_em": "2026-11-15T19:36:00.514104-03:00",
  "dm_auto": {
   "2026-11-08": {
    "com_palavra": 0,
@@ -22143,8 +22172,8 @@
    "feed": 2
   },
   "2026-11-15": {
-   "story": 18,
-   "feed": 1
+   "story": 19,
+   "feed": 2
   }
  },
  "ig_conta_ok": "2026-11-15",
