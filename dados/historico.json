@@ -1393,7 +1393,14 @@
   "2026-11-15 tech 10:10 amz-B0GKQNGV23",
   "2026-11-15 achadinhos 10:17 amz-B0CNBJ6DHQ",
   "2026-11-15 marcas 10:25 amz-B0BTDCRCXF",
-  "2026-11-15 tech 10:32 amz-B0CRTN7C8C"
+  "2026-11-15 tech 10:32 amz-B0CRTN7C8C",
+  "2026-11-15 achadinhos 10:39 amz-B0GSHCTG8S",
+  "2026-11-15 achadinhos 10:42 amz-B094SK425Z",
+  "2026-11-15 marcas 10:50 amz-B07K1BW1XY",
+  "2026-11-15 tech 10:58 amz-B0D2XRXNGY",
+  "2026-11-15 achadinhos 11:04 amz-B0F9Z2DV83",
+  "2026-11-15 marcas 11:11 amz-B0F22PGY7K",
+  "2026-11-15 tech 11:19 amz-B0FNSXGPHT"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -2730,7 +2737,14 @@
   "amz-B0GKQNGV23": "2026-11-15T10:10:12.078364-03:00",
   "amz-B0CNBJ6DHQ": "2026-11-15T10:17:53.341747-03:00",
   "amz-B0BTDCRCXF": "2026-11-15T10:25:28.690046-03:00",
-  "amz-B0CRTN7C8C": "2026-11-15T10:32:13.331600-03:00"
+  "amz-B0CRTN7C8C": "2026-11-15T10:32:13.331600-03:00",
+  "amz-B0GSHCTG8S": "2026-11-15T10:39:00.414229-03:00",
+  "amz-B094SK425Z": "2026-11-15T10:42:44.311706-03:00",
+  "amz-B07K1BW1XY": "2026-11-15T10:50:40.836400-03:00",
+  "amz-B0D2XRXNGY": "2026-11-15T10:58:37.190869-03:00",
+  "amz-B0F9Z2DV83": "2026-11-15T11:04:53.108060-03:00",
+  "amz-B0F22PGY7K": "2026-11-15T11:11:21.914021-03:00",
+  "amz-B0FNSXGPHT": "2026-11-15T11:19:03.397913-03:00"
  },
  "ofertas_dia": [
   {
@@ -17788,6 +17802,128 @@
    "preco_em": "2026-11-15T08:20:41-03:00",
    "entrou": "2026-11-15T08:24:50.803222-03:00",
    "dia": "2026-11-15"
+  },
+  {
+   "id": "amz-B0GSHCTG8S",
+   "canal": "achadinhos",
+   "nome": "Air fryer forno Electrolux 7 L 1700W digital",
+   "preco_antigo": 489.0,
+   "preco": 349.51,
+   "desconto": 29,
+   "link": "https://www.amazon.com.br/dp/B0GSHCTG8S?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/414LnS9h04L._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-16T22:00:00-03:00",
+   "coletado_em": "2026-11-15T08:20:41-03:00",
+   "preco_em": "2026-11-15T08:20:41-03:00",
+   "entrou": "2026-11-15T08:24:50.803222-03:00",
+   "dia": "2026-11-15"
+  },
+  {
+   "id": "amz-B094SK425Z",
+   "canal": "achadinhos",
+   "nome": "Kit 6 facas inox Electrolux com afiador e cepo",
+   "preco_antigo": 569.9,
+   "preco": 262.94,
+   "desconto": 54,
+   "link": "https://www.amazon.com.br/dp/B094SK425Z?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51M9eAP6oYL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-16T22:00:00-03:00",
+   "coletado_em": "2026-11-15T08:20:41-03:00",
+   "preco_em": "2026-11-15T08:20:41-03:00",
+   "entrou": "2026-11-15T08:24:50.803222-03:00",
+   "dia": "2026-11-15"
+  },
+  {
+   "id": "amz-B07K1BW1XY",
+   "canal": "marcas",
+   "nome": "Perfume Montblanc Explorer Eau de Parfum 100ml",
+   "preco_antigo": 938.64,
+   "preco": 434.6,
+   "desconto": 54,
+   "link": "https://www.amazon.com.br/dp/B07K1BW1XY?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61lMdchVC3L._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-15T13:00:00-03:00",
+   "coletado_em": "2026-11-14T12:20:00-03:00",
+   "nao_antes": "2026-11-15T10:00:00-03:00",
+   "preco_em": "2026-11-14T12:20:00-03:00",
+   "entrou": "2026-11-15T09:03:34.141650-03:00",
+   "dia": "2026-11-15"
+  },
+  {
+   "id": "amz-B0D2XRXNGY",
+   "canal": "tech",
+   "nome": "Fone aberto soundcore Anker V20i Bluetooth",
+   "preco_antigo": 319.0,
+   "preco": 187.15,
+   "desconto": 41,
+   "link": "https://www.amazon.com.br/dp/B0D2XRXNGY?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/6181jAbkbOL._AC_SL1000_.jpg",
+   "loja": "Loja oficial Anker · entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-16T22:00:00-03:00",
+   "coletado_em": "2026-11-15T08:20:41-03:00",
+   "preco_em": "2026-11-15T08:20:41-03:00",
+   "entrou": "2026-11-15T08:24:50.803222-03:00",
+   "dia": "2026-11-15"
+  },
+  {
+   "id": "amz-B0F9Z2DV83",
+   "canal": "achadinhos",
+   "nome": "Robô aspirador WAP Robot W310 3 em 1 bivolt",
+   "preco_antigo": 1199.9,
+   "preco": 509.72,
+   "desconto": 58,
+   "link": "https://www.amazon.com.br/dp/B0F9Z2DV83?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61QHYk962EL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-16T22:00:00-03:00",
+   "coletado_em": "2026-11-15T08:20:41-03:00",
+   "preco_em": "2026-11-15T08:20:41-03:00",
+   "entrou": "2026-11-15T08:24:50.803222-03:00",
+   "dia": "2026-11-15"
+  },
+  {
+   "id": "amz-B0F22PGY7K",
+   "canal": "marcas",
+   "nome": "Perfume Lancôme La Vie est Belle Vanille Nude EDP",
+   "preco_antigo": 529.0,
+   "preco": 297.33,
+   "desconto": 44,
+   "link": "https://www.amazon.com.br/dp/B0F22PGY7K?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/41QatcejPPL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-15T13:00:00-03:00",
+   "coletado_em": "2026-11-14T12:20:00-03:00",
+   "nao_antes": "2026-11-15T10:00:00-03:00",
+   "preco_em": "2026-11-14T12:20:00-03:00",
+   "entrou": "2026-11-15T09:03:34.141650-03:00",
+   "dia": "2026-11-15"
+  },
+  {
+   "id": "amz-B0FNSXGPHT",
+   "canal": "tech",
+   "nome": "Headset gamer JBL Quantum 250 com microfone",
+   "preco_antigo": 349.0,
+   "preco": 174.39,
+   "desconto": 50,
+   "link": "https://www.amazon.com.br/dp/B0FNSXGPHT?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/616858X-FUL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-16T22:00:00-03:00",
+   "coletado_em": "2026-11-15T08:20:41-03:00",
+   "gancho": "JBL QUANTUM PELA METADE DO PREÇO",
+   "preco_em": "2026-11-15T08:20:41-03:00",
+   "entrou": "2026-11-15T08:24:50.803222-03:00",
+   "dia": "2026-11-15"
   }
  ],
  "ig_feitos": [
@@ -17887,7 +18023,8 @@
   "2026-11-15 08:52 story_oferta",
   "2026-11-15 09:38 story_oferta",
   "2026-11-15 09:40 story_convite",
-  "2026-11-15 10:24 story_oferta"
+  "2026-11-15 10:24 story_oferta",
+  "2026-11-15 11:11 story_oferta"
  ],
  "ig_ofertas_usadas": [
   "amz-B0GHZ4VBHD",
@@ -18165,12 +18302,13 @@
   "hu-carrinho-abandonado": "2026-11-14",
   "bf-2026-11-15": "2026-11-15",
   "hu-pix-feliz": "2026-11-15",
-  "mv-pix": "2026-11-15"
+  "mv-pix": "2026-11-15",
+  "hu-marca-boa": "2026-11-15"
  },
  "pecas_dia": {
-  "2026-11-15": 3
+  "2026-11-15": 4
  },
- "ultimo_pilar": "mito",
+ "ultimo_pilar": "humor",
  "fila": [
   {
    "id": "shopee-23398337380",
@@ -18188,54 +18326,6 @@
    "link": "https://s.shopee.com.br/70LiRyh06v",
    "canal": "marcas",
    "entrou": "2026-11-15T08:17:22.723951-03:00"
-  },
-  {
-   "id": "amz-B0GSHCTG8S",
-   "canal": "achadinhos",
-   "nome": "Air fryer forno Electrolux 7 L 1700W digital",
-   "preco_antigo": 489.0,
-   "preco": 349.51,
-   "desconto": 29,
-   "link": "https://www.amazon.com.br/dp/B0GSHCTG8S?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/414LnS9h04L._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-16T22:00:00-03:00",
-   "coletado_em": "2026-11-15T08:20:41-03:00",
-   "preco_em": "2026-11-15T08:20:41-03:00",
-   "entrou": "2026-11-15T08:24:50.803222-03:00"
-  },
-  {
-   "id": "amz-B094SK425Z",
-   "canal": "achadinhos",
-   "nome": "Kit 6 facas inox Electrolux com afiador e cepo",
-   "preco_antigo": 569.9,
-   "preco": 262.94,
-   "desconto": 54,
-   "link": "https://www.amazon.com.br/dp/B094SK425Z?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51M9eAP6oYL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-16T22:00:00-03:00",
-   "coletado_em": "2026-11-15T08:20:41-03:00",
-   "preco_em": "2026-11-15T08:20:41-03:00",
-   "entrou": "2026-11-15T08:24:50.803222-03:00"
-  },
-  {
-   "id": "amz-B0F9Z2DV83",
-   "canal": "achadinhos",
-   "nome": "Robô aspirador WAP Robot W310 3 em 1 bivolt",
-   "preco_antigo": 1199.9,
-   "preco": 509.72,
-   "desconto": 58,
-   "link": "https://www.amazon.com.br/dp/B0F9Z2DV83?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61QHYk962EL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-16T22:00:00-03:00",
-   "coletado_em": "2026-11-15T08:20:41-03:00",
-   "preco_em": "2026-11-15T08:20:41-03:00",
-   "entrou": "2026-11-15T08:24:50.803222-03:00"
   },
   {
    "id": "amz-B0D43M99PS",
@@ -18589,39 +18679,6 @@
    "entrou": "2026-11-15T08:24:50.803222-03:00"
   },
   {
-   "id": "amz-B0D2XRXNGY",
-   "canal": "tech",
-   "nome": "Fone aberto soundcore Anker V20i Bluetooth",
-   "preco_antigo": 319.0,
-   "preco": 187.15,
-   "desconto": 41,
-   "link": "https://www.amazon.com.br/dp/B0D2XRXNGY?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/6181jAbkbOL._AC_SL1000_.jpg",
-   "loja": "Loja oficial Anker · entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-16T22:00:00-03:00",
-   "coletado_em": "2026-11-15T08:20:41-03:00",
-   "preco_em": "2026-11-15T08:20:41-03:00",
-   "entrou": "2026-11-15T08:24:50.803222-03:00"
-  },
-  {
-   "id": "amz-B0FNSXGPHT",
-   "canal": "tech",
-   "nome": "Headset gamer JBL Quantum 250 com microfone",
-   "preco_antigo": 349.0,
-   "preco": 174.39,
-   "desconto": 50,
-   "link": "https://www.amazon.com.br/dp/B0FNSXGPHT?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/616858X-FUL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-16T22:00:00-03:00",
-   "coletado_em": "2026-11-15T08:20:41-03:00",
-   "gancho": "JBL QUANTUM PELA METADE DO PREÇO",
-   "preco_em": "2026-11-15T08:20:41-03:00",
-   "entrou": "2026-11-15T08:24:50.803222-03:00"
-  },
-  {
    "id": "amz-B09KXFTCLP",
    "canal": "tech",
    "nome": "Mouse sem fio Logitech Signature M650 L Left (canhotos)",
@@ -18686,40 +18743,6 @@
    "gancho": "S26 ULTRA COM QUASE R$ 4.800 OFF",
    "preco_em": "2026-11-15T08:20:41-03:00",
    "entrou": "2026-11-15T08:24:50.803222-03:00"
-  },
-  {
-   "id": "amz-B07K1BW1XY",
-   "canal": "marcas",
-   "nome": "Perfume Montblanc Explorer Eau de Parfum 100ml",
-   "preco_antigo": 938.64,
-   "preco": 434.6,
-   "desconto": 54,
-   "link": "https://www.amazon.com.br/dp/B07K1BW1XY?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61lMdchVC3L._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-15T13:00:00-03:00",
-   "coletado_em": "2026-11-14T12:20:00-03:00",
-   "nao_antes": "2026-11-15T10:00:00-03:00",
-   "preco_em": "2026-11-14T12:20:00-03:00",
-   "entrou": "2026-11-15T09:03:34.141650-03:00"
-  },
-  {
-   "id": "amz-B0F22PGY7K",
-   "canal": "marcas",
-   "nome": "Perfume Lancôme La Vie est Belle Vanille Nude EDP",
-   "preco_antigo": 529.0,
-   "preco": 297.33,
-   "desconto": 44,
-   "link": "https://www.amazon.com.br/dp/B0F22PGY7K?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/41QatcejPPL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-15T13:00:00-03:00",
-   "coletado_em": "2026-11-14T12:20:00-03:00",
-   "nao_antes": "2026-11-15T10:00:00-03:00",
-   "preco_em": "2026-11-14T12:20:00-03:00",
-   "entrou": "2026-11-15T09:03:34.141650-03:00"
   },
   {
    "id": "shopee-41478796304",
@@ -19959,7 +19982,14 @@
   "celularsamsunggalaxys265g256gb12gbram": "2026-11-15T10:10:12.078364-03:00",
   "lavadoradealtapressaowapwl2660turbo220v": "2026-11-15T10:17:53.341747-03:00",
   "perfumearmanicodeeaudetoilettegiorgioarmani": "2026-11-15T10:25:28.690046-03:00",
-  "fonebluetoothsoundcoreankerp30icomcancelamentoderuido": "2026-11-15T10:32:13.331600-03:00"
+  "fonebluetoothsoundcoreankerp30icomcancelamentoderuido": "2026-11-15T10:32:13.331600-03:00",
+  "airfryerfornoelectrolux7l1700wdigital": "2026-11-15T10:39:00.414229-03:00",
+  "kit6facasinoxelectroluxcomafiadorecepo": "2026-11-15T10:42:44.311706-03:00",
+  "perfumemontblancexplorereaudeparfum100ml": "2026-11-15T10:50:40.836400-03:00",
+  "foneabertosoundcoreankerv20ibluetooth": "2026-11-15T10:58:37.190869-03:00",
+  "roboaspiradorwaprobotw3103em1bivolt": "2026-11-15T11:04:53.108060-03:00",
+  "perfumelancomelavieestbellevanillenudeedp": "2026-11-15T11:11:21.914021-03:00",
+  "headsetgamerjblquantum250commicrofone": "2026-11-15T11:19:03.397913-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
@@ -20350,7 +20380,7 @@
   "marcas": "2026-11-12T17:56:29.409807-03:00"
  },
  "top10_dia": "2026-11-14",
- "manuais_lidos": "2026-11-15T10:25:11.737148-03:00",
+ "manuais_lidos": "2026-11-15T11:11:07.763391-03:00",
  "reserva_resultado": {
   "2026-11-07": {
    "achadinhos": {
@@ -20550,7 +20580,7 @@
    "hora": "2026-11-11T20:32:35.453128-03:00"
   }
  },
- "ig_respondido_em": "2026-11-15T10:25:11.737148-03:00",
+ "ig_respondido_em": "2026-11-15T11:11:07.763391-03:00",
  "dm_auto": {
   "2026-11-08": {
    "com_palavra": 0,
@@ -20764,7 +20794,7 @@
    "feed": 2
   },
   "2026-11-15": {
-   "story": 5,
+   "story": 6,
    "feed": 0
   }
  },
