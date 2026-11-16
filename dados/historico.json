@@ -1526,7 +1526,12 @@
   "2026-11-16 marcas 12:27 shopee-22194331598",
   "2026-11-16 tech 12:34 amz-B0FQFH5PJS",
   "2026-11-16 marcas 12:49 shopee-21616812729",
-  "2026-11-16 tech 12:56 shopee-58206236149"
+  "2026-11-16 tech 12:56 shopee-58206236149",
+  "2026-11-16 achadinhos 13:02 amz-B076QCBC3G",
+  "2026-11-16 marcas 13:10 shopee-56159571991",
+  "2026-11-16 achadinhos 13:25 shopee-23204913091",
+  "2026-11-16 marcas 13:31 amz-B0HC3ZFGK6",
+  "2026-11-16 tech 13:38 shopee-41253171051"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -1807,7 +1812,7 @@
   "amz-B0DVBD54KG": "2026-11-01T11:46:00-03:00",
   "amz-B0G6FS95NY": "2026-11-01T11:03:00-03:00",
   "amz-B08DFCF9HW": "2026-11-01T12:13:11.645129-03:00",
-  "shopee-41253171051": "2026-11-08T13:47:53.347845-03:00",
+  "shopee-41253171051": "2026-11-16T13:38:17.299462-03:00",
   "mgl-SG4-0157-058": "2026-11-01T13:05:00.292225-03:00",
   "amz-B07QKN5NF1": "2026-11-01T13:17:29.200797-03:00",
   "amz-B0GMKCC31R": "2026-11-01T13:38:24.419011-03:00",
@@ -2012,7 +2017,7 @@
   "amz-B086XNNSDN": "2026-11-05T12:25:21.393662-03:00",
   "shopee-22493521596": "2026-11-08T19:13:45.954669-03:00",
   "shopee-23793236583": "2026-11-05T12:57:21.491364-03:00",
-  "shopee-56159571991": "2026-11-08T19:21:36.349047-03:00",
+  "shopee-56159571991": "2026-11-16T13:10:27.921822-03:00",
   "shopee-16168525614": "2026-11-08T18:36:49.523697-03:00",
   "amz-B0FMFRFNWG": "2026-11-05T13:20:01.538228-03:00",
   "amz-B0F253GVWR": "2026-11-05T13:26:13.963625-03:00",
@@ -2211,7 +2216,7 @@
   "shopee-23398535010": "2026-11-08T16:28:20.218160-03:00",
   "shopee-49507610530": "2026-11-08T16:34:35.146641-03:00",
   "shopee-58203329255": "2026-11-08T16:44:48.311865-03:00",
-  "shopee-23204913091": "2026-11-08T16:51:47.758717-03:00",
+  "shopee-23204913091": "2026-11-16T13:25:34.425839-03:00",
   "shopee-58253650623": "2026-11-08T16:58:59.376380-03:00",
   "shopee-23899333842": "2026-11-08T17:05:54.399381-03:00",
   "shopee-23702004611": "2026-11-08T17:12:25.656352-03:00",
@@ -2987,7 +2992,9 @@
   "amz-B0GKQJVLNX": "2026-11-16T12:13:12.941288-03:00",
   "amz-B09GHLKBBZ": "2026-11-16T12:20:16.891711-03:00",
   "amz-B0FQFH5PJS": "2026-11-16T12:34:57.630668-03:00",
-  "shopee-21616812729": "2026-11-16T12:49:16.037507-03:00"
+  "shopee-21616812729": "2026-11-16T12:49:16.037507-03:00",
+  "amz-B076QCBC3G": "2026-11-16T13:02:49.196369-03:00",
+  "amz-B0HC3ZFGK6": "2026-11-16T13:31:47.654696-03:00"
  },
  "ofertas_dia": [
   {
@@ -19054,6 +19061,95 @@
    "canal": "marcas",
    "entrou": "2026-11-16T10:06:22.608196-03:00",
    "dia": "2026-11-16"
+  },
+  {
+   "id": "amz-B076QCBC3G",
+   "canal": "achadinhos",
+   "nome": "Lavadora de Alta Pressão WAP Atacama Smart 2200 220V",
+   "preco_antigo": 629.9,
+   "preco": 379.9,
+   "desconto": 40,
+   "link": "https://www.amazon.com.br/dp/B076QCBC3G?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/711OpDhWASS.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-16T22:00:00-03:00",
+   "coletado_em": "2026-11-15T18:15:00-03:00",
+   "preco_em": "2026-11-15T18:15:00-03:00",
+   "entrou": "2026-11-16T09:36:12.906140-03:00",
+   "dia": "2026-11-16"
+  },
+  {
+   "id": "shopee-56159571991",
+   "plataforma": "Shopee",
+   "nome": "Tênis Feminino de Caminhada Casual Elevado - Olympikus",
+   "loja": "Tubarão Max",
+   "loja_oficial": true,
+   "preco": 239.99,
+   "preco_antigo": 328.75,
+   "desconto": 27,
+   "vendas": 272,
+   "nota": 4.9,
+   "comissao_pct": 3.0,
+   "imagem": "https://cf.shopee.com.br/file/sg-11134201-820lk-mnk5a79obkea88",
+   "link": "https://s.shopee.com.br/8AXgEUQcou",
+   "canal": "marcas",
+   "entrou": "2026-11-16T11:33:06.570325-03:00",
+   "dia": "2026-11-16"
+  },
+  {
+   "id": "shopee-23204913091",
+   "plataforma": "Shopee",
+   "nome": "Câmera Inteligente Wi-Fi iM5 SC Full HD Branca Intelbras",
+   "loja": "Intelbras Oficial",
+   "loja_oficial": true,
+   "preco": 249.9,
+   "preco_antigo": 403.06,
+   "desconto": 38,
+   "vendas": 342,
+   "nota": 5.0,
+   "comissao_pct": 5.0,
+   "imagem": "https://cf.shopee.com.br/file/sg-11134201-81zut-miq4iyy1cmwy46",
+   "link": "https://s.shopee.com.br/9AQDWfI7qo",
+   "canal": "achadinhos",
+   "entrou": "2026-11-16T10:06:22.608196-03:00",
+   "dia": "2026-11-16"
+  },
+  {
+   "id": "amz-B0HC3ZFGK6",
+   "canal": "marcas",
+   "nome": "Camiseta Lacoste Sport Masculina",
+   "preco_antigo": 252.62,
+   "preco": 179.99,
+   "desconto": 29,
+   "link": "https://www.amazon.com.br/dp/B0HC3ZFGK6?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/41OJG1QWgzL._AC_SL1000_.jpg",
+   "loja": "Vendido pela Netshoes · entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-17T22:00:00-03:00",
+   "coletado_em": "2026-11-16T12:14:08-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "preco_em": "2026-11-16T12:14:08-03:00",
+   "entrou": "2026-11-16T12:27:28.330926-03:00",
+   "dia": "2026-11-16"
+  },
+  {
+   "id": "shopee-41253171051",
+   "plataforma": "Shopee",
+   "nome": "Baseus BP1 Pro ANC Fone De Ouvido Sem Fio-50dB Redução De Ruído De Alta Resolução Bluetooth 6.0 IPX55 À Prova D'água",
+   "loja": "Baseus Oficial Store",
+   "loja_oficial": true,
+   "preco": 84.99,
+   "preco_antigo": 229.7,
+   "desconto": 63,
+   "vendas": 890,
+   "nota": 4.9,
+   "comissao_pct": 7.0,
+   "imagem": "https://cf.shopee.com.br/file/cn-11134207-820l4-msv0wwv7avb661",
+   "link": "https://s.shopee.com.br/AKcCZSL82j",
+   "canal": "tech",
+   "entrou": "2026-11-16T12:13:45.643361-03:00",
+   "dia": "2026-11-16"
   }
  ],
  "ig_feitos": [
@@ -19170,12 +19266,10 @@
   "parceria grupodiv-20261116",
   "2026-11-16 12:15 story_top4",
   "2026-11-16 12:19 story_oferta",
-  "2026-11-16 12:47 story_oferta"
+  "2026-11-16 12:47 story_oferta",
+  "2026-11-16 13:22 story_oferta"
  ],
  "ig_ofertas_usadas": [
-  "amz-B0CJ3WFW9H",
-  "amz-B003JSEG4Q",
-  "amz-B0C15596N6",
   "amz-B00WQSFO1E",
   "amz-B0CGCHWKH1",
   "amz-B07MRMHML9",
@@ -19374,7 +19468,8 @@
   "shopee-23398337380",
   "shopee-21997684262",
   "shopee-44106064553",
-  "shopee-22194331598"
+  "shopee-22194331598",
+  "shopee-58206236149"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
@@ -19486,39 +19581,6 @@
  "ultimo_pilar": "dica",
  "fila": [
   {
-   "id": "amz-B076QCBC3G",
-   "canal": "achadinhos",
-   "nome": "Lavadora de Alta Pressão WAP Atacama Smart 2200 220V",
-   "preco_antigo": 629.9,
-   "preco": 379.9,
-   "desconto": 40,
-   "link": "https://www.amazon.com.br/dp/B076QCBC3G?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/711OpDhWASS.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-16T22:00:00-03:00",
-   "coletado_em": "2026-11-15T18:15:00-03:00",
-   "preco_em": "2026-11-15T18:15:00-03:00",
-   "entrou": "2026-11-16T09:36:12.906140-03:00"
-  },
-  {
-   "id": "shopee-23204913091",
-   "plataforma": "Shopee",
-   "nome": "Câmera Inteligente Wi-Fi iM5 SC Full HD Branca Intelbras",
-   "loja": "Intelbras Oficial",
-   "loja_oficial": true,
-   "preco": 249.9,
-   "preco_antigo": 403.06,
-   "desconto": 38,
-   "vendas": 342,
-   "nota": 5.0,
-   "comissao_pct": 5.0,
-   "imagem": "https://cf.shopee.com.br/file/sg-11134201-81zut-miq4iyy1cmwy46",
-   "link": "https://s.shopee.com.br/9AQDWfI7qo",
-   "canal": "achadinhos",
-   "entrou": "2026-11-16T10:06:22.608196-03:00"
-  },
-  {
    "id": "shopee-18597753531",
    "plataforma": "Shopee",
    "nome": "Aspirador de Pó e Água Wap GTW 10 1400W 10 Litros Amarelo/Preto 127V FW005705",
@@ -19534,23 +19596,6 @@
    "link": "https://s.shopee.com.br/2VtJ5VGeQ9",
    "canal": "achadinhos",
    "entrou": "2026-11-16T10:49:43.366728-03:00"
-  },
-  {
-   "id": "shopee-56159571991",
-   "plataforma": "Shopee",
-   "nome": "Tênis Feminino de Caminhada Casual Elevado - Olympikus",
-   "loja": "Tubarão Max",
-   "loja_oficial": true,
-   "preco": 239.99,
-   "preco_antigo": 328.75,
-   "desconto": 27,
-   "vendas": 272,
-   "nota": 4.9,
-   "comissao_pct": 3.0,
-   "imagem": "https://cf.shopee.com.br/file/sg-11134201-820lk-mnk5a79obkea88",
-   "link": "https://s.shopee.com.br/8AXgEUQcou",
-   "canal": "marcas",
-   "entrou": "2026-11-16T11:33:06.570325-03:00"
   },
   {
    "id": "shopee-22693266079",
@@ -19584,40 +19629,6 @@
    "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdq0lnzoxgb5c7",
    "link": "https://s.shopee.com.br/80EG8WvlT8",
    "canal": "achadinhos",
-   "entrou": "2026-11-16T12:13:45.643361-03:00"
-  },
-  {
-   "id": "shopee-3258773144",
-   "plataforma": "Shopee",
-   "nome": "Baseus EnerFill FN22 Fast Charger 1C PD 20W/30W/45W Safety Protections Mini Gan Tech Adapter for IPhone 17",
-   "loja": "Baseus Oficial Store",
-   "loja_oficial": true,
-   "preco": 45.79,
-   "preco_antigo": 138.76,
-   "desconto": 67,
-   "vendas": 559,
-   "nota": 4.9,
-   "comissao_pct": 7.0,
-   "imagem": "https://cf.shopee.com.br/file/cn-11134207-820l4-mmzna00skykoe1",
-   "link": "https://s.shopee.com.br/6VPU0PZipM",
-   "canal": "tech",
-   "entrou": "2026-11-16T12:13:45.643361-03:00"
-  },
-  {
-   "id": "shopee-41253171051",
-   "plataforma": "Shopee",
-   "nome": "Baseus BP1 Pro ANC Fone De Ouvido Sem Fio-50dB Redução De Ruído De Alta Resolução Bluetooth 6.0 IPX55 À Prova D'água",
-   "loja": "Baseus Oficial Store",
-   "loja_oficial": true,
-   "preco": 84.99,
-   "preco_antigo": 229.7,
-   "desconto": 63,
-   "vendas": 890,
-   "nota": 4.9,
-   "comissao_pct": 7.0,
-   "imagem": "https://cf.shopee.com.br/file/cn-11134207-820l4-msv0wwv7avb661",
-   "link": "https://s.shopee.com.br/AKcCZSL82j",
-   "canal": "tech",
    "entrou": "2026-11-16T12:13:45.643361-03:00"
   },
   {
@@ -19732,23 +19743,6 @@
    "plataforma": "Amazon",
    "valida_ate": "2026-11-17T22:00:00-03:00",
    "coletado_em": "2026-11-16T12:14:08-03:00",
-   "preco_em": "2026-11-16T12:14:08-03:00",
-   "entrou": "2026-11-16T12:27:28.330926-03:00"
-  },
-  {
-   "id": "amz-B0HC3ZFGK6",
-   "canal": "marcas",
-   "nome": "Camiseta Lacoste Sport Masculina",
-   "preco_antigo": 252.62,
-   "preco": 179.99,
-   "desconto": 29,
-   "link": "https://www.amazon.com.br/dp/B0HC3ZFGK6?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/41OJG1QWgzL._AC_SL1000_.jpg",
-   "loja": "Vendido pela Netshoes · entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-17T22:00:00-03:00",
-   "coletado_em": "2026-11-16T12:14:08-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
    "preco_em": "2026-11-16T12:14:08-03:00",
    "entrou": "2026-11-16T12:27:28.330926-03:00"
   },
@@ -20396,7 +20390,7 @@
   "garrafatermicastanleyslimbottle591ml": "2026-11-01T11:46:00-03:00",
   "jogosarosedicaostandardps5": "2026-11-01T11:03:00-03:00",
   "liquidificadoroster1400full32lpreto127v": "2026-11-01T12:13:11.645129-03:00",
-  "baseusbp1proancfonedeouvidosemfio50dbreducaoderuidodealtaresolucaobluetooth60ipx55aprovadagua": "2026-11-08T13:47:53.347845-03:00",
+  "baseusbp1proancfonedeouvidosemfio50dbreducaoderuidodealtaresolucaobluetooth60ipx55aprovadagua": "2026-11-16T13:38:17.299462-03:00",
   "tenisasicspatriot14feminino": "2026-11-01T13:05:00.292225-03:00",
   "liquidificadormondialturbopower550wpreto": "2026-11-01T13:17:29.200797-03:00",
   "fonesamsunggalaxybuds4comgalaxyai": "2026-11-01T13:38:24.419011-03:00",
@@ -20601,7 +20595,7 @@
   "jogodepanelastramontinaparis5pecasvermelho": "2026-11-05T12:25:21.393662-03:00",
   "tenisolympikusatmosfemininooriginal": "2026-11-08T19:13:45.954669-03:00",
   "smarttv43lgfullhd43lr67thinqaiwifibluetoothhdr": "2026-11-05T12:57:21.491364-03:00",
-  "tenisfemininodecaminhadacasualelevadoolympikus": "2026-11-08T19:21:36.349047-03:00",
+  "tenisfemininodecaminhadacasualelevadoolympikus": "2026-11-16T13:10:27.921822-03:00",
   "pranchachapinhataiffprofissionalclassicaceramica180cbivolt": "2026-11-08T18:36:49.523697-03:00",
   "tabletsamsunggalaxytabs10lite128gb": "2026-11-05T13:20:01.538228-03:00",
   "sanduicheiraegrillbritania2em1750w127v": "2026-11-05T13:26:13.963625-03:00",
@@ -20800,7 +20794,7 @@
   "sanduicheiraegrill2em1redstone750wbgr16corpretocompratabritania": "2026-11-08T16:28:20.218160-03:00",
   "teniscasualeros2confortavelunissexolympikus": "2026-11-08T16:34:35.146641-03:00",
   "eudorainstancemorangoirresistivelspray200ml": "2026-11-08T16:44:48.311865-03:00",
-  "camerainteligentewifiim5scfullhdbrancaintelbras": "2026-11-08T16:51:47.758717-03:00",
+  "camerainteligentewifiim5scfullhdbrancaintelbras": "2026-11-16T13:25:34.425839-03:00",
   "barraproteinavo2wheybar12unidadesintegralmedica": "2026-11-08T16:58:59.376380-03:00",
   "smartphonemotorolamotog064g256gb4gbramcameratraseira50mpcamerafrontal8mptelade695200mahbege": "2026-11-08T17:05:54.399381-03:00",
   "secadortaiffstylepreto2000w220v": "2026-11-08T17:12:25.656352-03:00",
@@ -21573,7 +21567,9 @@
   "celularsamsunggalaxys26ultra5g256gb12gbram": "2026-11-16T12:13:12.941288-03:00",
   "ferroavaporphilipswalitaserie30001400w110v": "2026-11-16T12:20:16.891711-03:00",
   "applewatchse3gpsaluminioluzdasestrelas": "2026-11-16T12:34:57.630668-03:00",
-  "kitcom6cuecaslupoboxerdemicrofibrasemcosturaboxmasculinaadultooriginal": "2026-11-16T12:49:16.037507-03:00"
+  "kitcom6cuecaslupoboxerdemicrofibrasemcosturaboxmasculinaadultooriginal": "2026-11-16T12:49:16.037507-03:00",
+  "lavadoradealtapressaowapatacamasmart2200220v": "2026-11-16T13:02:49.196369-03:00",
+  "camisetalacostesportmasculina": "2026-11-16T13:31:47.654696-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
@@ -21928,7 +21924,7 @@
  },
  "story_link_dia": "2026-11-15",
  "pede_semana": "2026-46",
- "ultimo_garimpo": "2026-11-16T08:24:07-03:00",
+ "ultimo_garimpo": "2026-11-16T12:17:48-03:00",
  "vigia_aviso_post": "2026-11-09T18:27:03.734589-03:00",
  "vigia_aviso_garimpo": "2026-11-15T18:10:51.499165-03:00",
  "resumo_enviado": "2026-11-15",
@@ -21972,7 +21968,7 @@
   "marcas": "2026-11-12T17:56:29.409807-03:00"
  },
  "top10_dia": "2026-11-14",
- "manuais_lidos": "2026-11-16T12:56:14.606763-03:00",
+ "manuais_lidos": "2026-11-16T13:38:13.377760-03:00",
  "reserva_resultado": {
   "2026-11-07": {
    "achadinhos": {
@@ -22184,7 +22180,7 @@
    "hora": "2026-11-11T20:32:35.453128-03:00"
   }
  },
- "ig_respondido_em": "2026-11-16T12:48:58.650102-03:00",
+ "ig_respondido_em": "2026-11-16T13:38:13.377760-03:00",
  "dm_auto": {
   "2026-11-09": {
    "com_palavra": 0,
@@ -22426,7 +22422,7 @@
    "feed": 2
   },
   "2026-11-16": {
-   "story": 11,
+   "story": 12,
    "feed": 1
   }
  },
