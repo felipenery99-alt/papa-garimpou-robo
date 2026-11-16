@@ -170,3 +170,12 @@
 - Pesquisa de contas grandes: (1) nome do canal com o termo buscado ("achadinhos", "cupom", "ofertas") traz entrada orgânica → já feito nos 4 títulos; (2) canais de ofertas crescem com **troca de divulgação** com canais do mesmo nicho e tamanho parecido, sem custo → pedido ao dono.
 - Próximo: em 16/11 ler a etapa dos resets nos `erros`; em 17/11 fechar a meta do Telegram e propor a nova.
 - Pedido ao dono: (1) combinar 1 ou 2 trocas de divulgação grátis com canais de achados de tamanho parecido (o robô não negocia); (2) destaque "TELEGRAM" no perfil; (3) PC do garimpo ligado à tarde (tech secou).
+
+## 2026-11-16 (rotina do CEO)
+- Visto (15/11): 23 execuções, 22 stories ativos (piso ok), feed ok (carrossel 11:50, Reels 18:30, post 19:15). Telegram: 46 achadinhos, 36 marcas, 37 tech. Seguidores 496→501 (+5), **alcance 2.316 (caindo: 3.3k em 13/11)**, **visitas ao perfil 74 (146 em 10/11, cai todo dia)**, 0 cliques na bio. Membros 3+6+7+5 = 21 (parado há 6 dias); convites, `tg-share-*` e DM automática seguem em 0.
+- Erros: **nenhum "Connection reset" em 15/11** (a etapa nova não chegou a aparecer; segue a observação). Só o vigia: fila vazia à tarde no tech e no marcas (garimpo local parado depois das 15:24/18:18); 320 itens Amazon descartados por repetidos.
+- META: Instagram 501 de 780 até 27/11 (**atrasado**: precisa ~25/dia, fez +5). Telegram 21 de 150 até 17/11 (**perdida amanhã**; nova proposta abaixo).
+- Alavanca nova: a chamada de toda legenda do Instagram ganha um motivo concreto para entrar agora: "A Black Friday (27/11) sai primeiro no Telegram: lá vai toda oferta na hora em que eu acho" + busca @papagarimpouofertas. É verdade (no Instagram só sai parte, nos horários dos stories), sem urgência falsa. Voltar ao texto antigo em 28/11. Ensaio OK.
+- Proposta de meta do Telegram (realista com 21 hoje): 60 até 27/11 e 300 até 31/12. Fecho amanhã se não houver salto.
+- Próximo: em 17/11 ver se membros do Geral sobem com a nova chamada e se as visitas ao perfil seguem caindo (se sim, o motivo é a falta das rodadas de seguir/comentar).
+- Pedido ao dono: (1) **voltar às rodadas de seguir/comentar todo dia** — visitas ao perfil caíram pela metade em 6 dias; (2) troca de divulgação grátis com 1–2 canais de achados de tamanho parecido; (3) PC do garimpo ligado à tarde.

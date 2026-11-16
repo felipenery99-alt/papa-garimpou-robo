@@ -995,7 +995,11 @@ SIGA_REEL = "\n\n👉 Siga @papa.garimpou pra não perder"
 # (link "ig-dm"). Sem hashtag; o aviso de publicidade fica em texto.
 # 12/11 (CEO): 0 comentários TELEGRAM e 0 cliques na bio há dias; a busca do Telegram acha o canal pelo @ e pelo
 # título "Black Friday" (Tech subiu 5→7). A legenda passa a dar o @ para buscar direto no app, sem depender do direct.
-LEGENDA_CTA = ("\n\nQuer as ofertas antes de todo mundo? É grátis: no Telegram, busca @papagarimpouofertas 💎 "
+# 16/11 (CEO): Telegram parado em 21 membros há 6 dias e visitas ao perfil caindo (146→74). Até a Black Friday a
+# chamada dá um motivo concreto para entrar agora: no Telegram sai TODA oferta na hora em que o robô acha (no
+# Instagram só uma parte, nos horários dos stories) — é verdade, sem urgência falsa. Voltar ao texto antigo em 28/11.
+LEGENDA_CTA = ("\n\nA Black Friday (27/11) sai primeiro no Telegram: lá vai toda oferta na hora em que eu acho. "
+               "É grátis: busca @papagarimpouofertas 💎 "
                "(ou comenta TELEGRAM que eu te mando o link no direct)\n\n"
                "Publi · link de afiliado")
 
