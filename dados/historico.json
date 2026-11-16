@@ -1583,7 +1583,13 @@
   "2026-11-16 tech 19:35 amz-B0BX52PCJ5",
   "2026-11-16 achadinhos 19:42 amz-B0C9FJQ1WQ",
   "2026-11-16 marcas 19:49 amz-B0FH3YDT4L",
-  "2026-11-16 tech 19:56 amz-B0844MSVD3"
+  "2026-11-16 tech 19:56 amz-B0844MSVD3",
+  "2026-11-16 achadinhos 20:02 amz-B0F9X7J46C",
+  "2026-11-16 marcas 20:11 amz-B0DVJJLSFV",
+  "2026-11-16 tech 20:17 amz-B0FPRNGRCL",
+  "2026-11-16 achadinhos 20:25 amz-B0F4LT38LJ",
+  "2026-11-16 marcas 20:32 amz-B001FWXI88",
+  "2026-11-16 tech 20:39 amz-B0DVCGPNC7"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -3095,7 +3101,13 @@
   "amz-B0BX52PCJ5": "2026-11-16T19:35:10.082594-03:00",
   "amz-B0C9FJQ1WQ": "2026-11-16T19:42:04.318148-03:00",
   "amz-B0FH3YDT4L": "2026-11-16T19:49:24.716637-03:00",
-  "amz-B0844MSVD3": "2026-11-16T19:56:44.703853-03:00"
+  "amz-B0844MSVD3": "2026-11-16T19:56:44.703853-03:00",
+  "amz-B0F9X7J46C": "2026-11-16T20:02:53.466390-03:00",
+  "amz-B0DVJJLSFV": "2026-11-16T20:11:11.351820-03:00",
+  "amz-B0FPRNGRCL": "2026-11-16T20:17:46.861821-03:00",
+  "amz-B0F4LT38LJ": "2026-11-16T20:25:09.991127-03:00",
+  "amz-B001FWXI88": "2026-11-16T20:32:19.593178-03:00",
+  "amz-B0DVCGPNC7": "2026-11-16T20:39:13.882185-03:00"
  },
  "ofertas_dia": [
   {
@@ -20050,6 +20062,111 @@
    "preco_em": "2026-11-16T18:16:59-03:00",
    "entrou": "2026-11-16T18:21:48.058175-03:00",
    "dia": "2026-11-16"
+  },
+  {
+   "id": "amz-B0F9X7J46C",
+   "canal": "achadinhos",
+   "nome": "Escova Secadora GA.MA Italy Gold Ion 3D Multicabeças",
+   "preco_antigo": 399.9,
+   "preco": 177.99,
+   "desconto": 55,
+   "link": "https://www.amazon.com.br/dp/B0F9X7J46C?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/517kvPjVrnL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-17T22:00:00-03:00",
+   "coletado_em": "2026-11-16T18:16:59-03:00",
+   "preco_em": "2026-11-16T18:16:59-03:00",
+   "entrou": "2026-11-16T18:21:48.058175-03:00",
+   "dia": "2026-11-16"
+  },
+  {
+   "id": "amz-B0DVJJLSFV",
+   "canal": "marcas",
+   "nome": "Tênis New Balance 413v3 Feminino",
+   "preco_antigo": 349.99,
+   "preco": 199.9,
+   "desconto": 43,
+   "link": "https://www.amazon.com.br/dp/B0DVJJLSFV?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/610TwVzHBhL._AC_SL1200_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-17T22:00:00-03:00",
+   "coletado_em": "2026-11-16T12:17:10-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "preco_em": "2026-11-16T12:17:10-03:00",
+   "entrou": "2026-11-16T16:39:10.064259-03:00",
+   "dia": "2026-11-16"
+  },
+  {
+   "id": "amz-B0FPRNGRCL",
+   "canal": "tech",
+   "nome": "Soundbar JBL Bar 500 MK2 5.1 Dolby Atmos",
+   "preco_antigo": 3999.0,
+   "preco": 2528.0,
+   "desconto": 37,
+   "link": "https://www.amazon.com.br/dp/B0FPRNGRCL?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51rxYBYCAdL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-17T22:00:00-03:00",
+   "coletado_em": "2026-11-16T18:16:59-03:00",
+   "preco_em": "2026-11-16T18:16:59-03:00",
+   "entrou": "2026-11-16T18:21:48.058175-03:00",
+   "dia": "2026-11-16"
+  },
+  {
+   "id": "amz-B0F4LT38LJ",
+   "canal": "achadinhos",
+   "nome": "Shampoo L'Oréal Paris Elseve Bond Repair",
+   "preco_antigo": 55.39,
+   "preco": 29.99,
+   "desconto": 46,
+   "link": "https://www.amazon.com.br/dp/B0F4LT38LJ?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61uqL4Z7HvL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-17T22:00:00-03:00",
+   "coletado_em": "2026-11-16T18:16:59-03:00",
+   "preco_em": "2026-11-16T18:16:59-03:00",
+   "entrou": "2026-11-16T18:21:48.058175-03:00",
+   "dia": "2026-11-16"
+  },
+  {
+   "id": "amz-B001FWXI88",
+   "canal": "marcas",
+   "nome": "Perfume Nautica Blue EDT 50ml",
+   "preco_antigo": 139.0,
+   "preco": 68.13,
+   "desconto": 51,
+   "link": "https://www.amazon.com.br/dp/B001FWXI88?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61gx-QVhZmL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-17T22:00:00-03:00",
+   "coletado_em": "2026-11-16T18:16:59-03:00",
+   "gancho": "NAUTICA BLUE PELA METADE",
+   "preco_em": "2026-11-16T18:16:59-03:00",
+   "entrou": "2026-11-16T18:21:48.058175-03:00",
+   "dia": "2026-11-16"
+  },
+  {
+   "id": "amz-B0DVCGPNC7",
+   "canal": "tech",
+   "nome": "Kit Volante Logitech G923 para Xbox e PC",
+   "preco_antigo": 3969.8,
+   "preco": 2705.8,
+   "desconto": 32,
+   "link": "https://www.amazon.com.br/dp/B0DVCGPNC7?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/513AseuUsgL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-17T22:00:00-03:00",
+   "coletado_em": "2026-11-16T18:16:59-03:00",
+   "gancho": "VOLANTE LOGITECH G923 COM DESCONTÃO",
+   "preco_em": "2026-11-16T18:16:59-03:00",
+   "entrou": "2026-11-16T18:21:48.058175-03:00",
+   "dia": "2026-11-16"
   }
  ],
  "ig_feitos": [
@@ -20178,7 +20295,11 @@
   "2026-11-16 18:09 story_oferta",
   "2026-11-16 feed",
   "2026-11-16 18:30 reels",
-  "2026-11-16 18:42 story_oferta"
+  "2026-11-16 18:42 story_oferta",
+  "2026-11-16 20:03 story_oferta",
+  "2026-11-16 20:30 reels",
+  "2026-11-16 20:35 story_top4",
+  "2026-11-16 20:38 story_oferta"
  ],
  "ig_ofertas_usadas": [
   "amz-B0C2JFGFK9",
@@ -20384,7 +20505,7 @@
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
- "ig_ultimo_reel": "2026-11-16T18:37:24.615329-03:00",
+ "ig_ultimo_reel": "2026-11-16T20:32:01.582692-03:00",
  "pecas_usadas": {
   "ac-preco-inflado": "2026-10-27",
   "dc-7-dias": "2026-10-27",
@@ -20488,62 +20609,15 @@
   "hu-entregador": "2026-11-16",
   "mv-desconto-alto": "2026-11-16",
   "hu-so-olhando": "2026-11-16",
-  "mv-sem-juros": "2026-11-16"
+  "mv-sem-juros": "2026-11-16",
+  "hu-novembro": "2026-11-16",
+  "mv-afiliado-confia": "2026-11-16"
  },
  "pecas_dia": {
-  "2026-11-16": 11
+  "2026-11-16": 13
  },
  "ultimo_pilar": "mito",
  "fila": [
-  {
-   "id": "amz-B0DVJJLSFV",
-   "canal": "marcas",
-   "nome": "Tênis New Balance 413v3 Feminino",
-   "preco_antigo": 349.99,
-   "preco": 199.9,
-   "desconto": 43,
-   "link": "https://www.amazon.com.br/dp/B0DVJJLSFV?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/610TwVzHBhL._AC_SL1200_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-17T22:00:00-03:00",
-   "coletado_em": "2026-11-16T12:17:10-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "preco_em": "2026-11-16T12:17:10-03:00",
-   "entrou": "2026-11-16T16:39:10.064259-03:00"
-  },
-  {
-   "id": "amz-B0F9X7J46C",
-   "canal": "achadinhos",
-   "nome": "Escova Secadora GA.MA Italy Gold Ion 3D Multicabeças",
-   "preco_antigo": 399.9,
-   "preco": 177.99,
-   "desconto": 55,
-   "link": "https://www.amazon.com.br/dp/B0F9X7J46C?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/517kvPjVrnL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-17T22:00:00-03:00",
-   "coletado_em": "2026-11-16T18:16:59-03:00",
-   "preco_em": "2026-11-16T18:16:59-03:00",
-   "entrou": "2026-11-16T18:21:48.058175-03:00"
-  },
-  {
-   "id": "amz-B0F4LT38LJ",
-   "canal": "achadinhos",
-   "nome": "Shampoo L'Oréal Paris Elseve Bond Repair",
-   "preco_antigo": 55.39,
-   "preco": 29.99,
-   "desconto": 46,
-   "link": "https://www.amazon.com.br/dp/B0F4LT38LJ?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61uqL4Z7HvL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-17T22:00:00-03:00",
-   "coletado_em": "2026-11-16T18:16:59-03:00",
-   "preco_em": "2026-11-16T18:16:59-03:00",
-   "entrou": "2026-11-16T18:21:48.058175-03:00"
-  },
   {
    "id": "amz-B08NVNFV82",
    "canal": "achadinhos",
@@ -20606,23 +20680,6 @@
    "plataforma": "Amazon",
    "valida_ate": "2026-11-17T22:00:00-03:00",
    "coletado_em": "2026-11-16T18:16:59-03:00",
-   "preco_em": "2026-11-16T18:16:59-03:00",
-   "entrou": "2026-11-16T18:21:48.058175-03:00"
-  },
-  {
-   "id": "amz-B001FWXI88",
-   "canal": "marcas",
-   "nome": "Perfume Nautica Blue EDT 50ml",
-   "preco_antigo": 139.0,
-   "preco": 68.13,
-   "desconto": 51,
-   "link": "https://www.amazon.com.br/dp/B001FWXI88?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61gx-QVhZmL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-17T22:00:00-03:00",
-   "coletado_em": "2026-11-16T18:16:59-03:00",
-   "gancho": "NAUTICA BLUE PELA METADE",
    "preco_em": "2026-11-16T18:16:59-03:00",
    "entrou": "2026-11-16T18:21:48.058175-03:00"
   },
@@ -20692,39 +20749,6 @@
    "entrou": "2026-11-16T18:21:48.058175-03:00"
   },
   {
-   "id": "amz-B0FPRNGRCL",
-   "canal": "tech",
-   "nome": "Soundbar JBL Bar 500 MK2 5.1 Dolby Atmos",
-   "preco_antigo": 3999.0,
-   "preco": 2528.0,
-   "desconto": 37,
-   "link": "https://www.amazon.com.br/dp/B0FPRNGRCL?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51rxYBYCAdL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-17T22:00:00-03:00",
-   "coletado_em": "2026-11-16T18:16:59-03:00",
-   "preco_em": "2026-11-16T18:16:59-03:00",
-   "entrou": "2026-11-16T18:21:48.058175-03:00"
-  },
-  {
-   "id": "amz-B0DVCGPNC7",
-   "canal": "tech",
-   "nome": "Kit Volante Logitech G923 para Xbox e PC",
-   "preco_antigo": 3969.8,
-   "preco": 2705.8,
-   "desconto": 32,
-   "link": "https://www.amazon.com.br/dp/B0DVCGPNC7?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/513AseuUsgL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-17T22:00:00-03:00",
-   "coletado_em": "2026-11-16T18:16:59-03:00",
-   "gancho": "VOLANTE LOGITECH G923 COM DESCONTÃO",
-   "preco_em": "2026-11-16T18:16:59-03:00",
-   "entrou": "2026-11-16T18:21:48.058175-03:00"
-  },
-  {
    "id": "amz-B015CH1PJU",
    "canal": "tech",
    "nome": "Pendrive SanDisk Ultra Fit 128GB",
@@ -20739,6 +20763,23 @@
    "coletado_em": "2026-11-16T18:16:59-03:00",
    "preco_em": "2026-11-16T18:16:59-03:00",
    "entrou": "2026-11-16T18:21:48.058175-03:00"
+  },
+  {
+   "id": "shopee-49606086815",
+   "plataforma": "Shopee",
+   "nome": "Ventilador Mesa Mondial Nvsp-30-b2 30cm Super Power II 60W",
+   "loja": "LOI BRASIL",
+   "loja_oficial": true,
+   "preco": 149.99,
+   "preco_antigo": 238.08,
+   "desconto": 37,
+   "vendas": 506,
+   "nota": 4.9,
+   "comissao_pct": 6.0,
+   "imagem": "https://cf.shopee.com.br/file/br-11134207-81zup-mkjp4drrfchu25",
+   "link": "https://s.shopee.com.br/2BGSgybUDM",
+   "canal": "achadinhos",
+   "entrou": "2026-11-16T19:57:18.160697-03:00"
   }
  ],
  "menus_fixados": [
@@ -22103,7 +22144,13 @@
   "mousegamerhyperxpulsefirehaste2": "2026-11-16T19:35:10.082594-03:00",
   "secadordecabelogamaitalylichia": "2026-11-16T19:42:04.318148-03:00",
   "tenisfilacomet2feminino": "2026-11-16T19:49:24.716637-03:00",
-  "hdexternoportatilwd1tb": "2026-11-16T19:56:44.703853-03:00"
+  "hdexternoportatilwd1tb": "2026-11-16T19:56:44.703853-03:00",
+  "escovasecadoragamaitalygoldion3dmulticabecas": "2026-11-16T20:02:53.466390-03:00",
+  "tenisnewbalance413v3feminino": "2026-11-16T20:11:11.351820-03:00",
+  "soundbarjblbar500mk251dolbyatmos": "2026-11-16T20:17:46.861821-03:00",
+  "shampoolorealpariselsevebondrepair": "2026-11-16T20:25:09.991127-03:00",
+  "perfumenauticablueedt50ml": "2026-11-16T20:32:19.593178-03:00",
+  "kitvolantelogitechg923paraxboxepc": "2026-11-16T20:39:13.882185-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
@@ -22367,7 +22414,12 @@
    "shopee-18797677549"
   ],
   "2026-11-16": [
-   "shopee-41253171051"
+   "shopee-41253171051",
+   "shopee-22693266079",
+   "shopee-21616812729",
+   "shopee-22194331598",
+   "shopee-44106064553",
+   "shopee-18597753531"
   ]
  },
  "vendas_shopee": {},
@@ -22505,7 +22557,7 @@
   "marcas": "2026-11-12T17:56:29.409807-03:00"
  },
  "top10_dia": "2026-11-14",
- "manuais_lidos": "2026-11-16T19:49:24.288431-03:00",
+ "manuais_lidos": "2026-11-16T20:32:01.582692-03:00",
  "reserva_resultado": {
   "2026-11-07": {
    "achadinhos": {
@@ -22721,7 +22773,7 @@
    "hora": "2026-11-16T18:37:24.615329-03:00"
   }
  },
- "ig_respondido_em": "2026-11-16T19:56:39.131558-03:00",
+ "ig_respondido_em": "2026-11-16T20:38:59.802203-03:00",
  "dm_auto": {
   "2026-11-09": {
    "com_palavra": 0,
@@ -22951,6 +23003,12 @@
     "capa": "uma_oferta",
     "legenda": "Manda pra quem tá precisando disso 👇\n😎💎 Baseus BP1 Pro ANC Fone De Ouvido Sem Fio-50dB Redução De Ruído De Alta Resolução Bluetoot\n\nOfertas todo dia no Telegram: papagarimpouofertas 💎\n\nPubli · link de afiliado",
     "url": "https://raw.githubusercontent.com/felipenery99-alt/papa-garimpou-robo/tiktok-midia/20261116-1837-tiktok.mp4"
+   },
+   {
+    "hora": "20:32",
+    "capa": "ate_off",
+    "legenda": "Manda pra quem tá precisando disso 👇\n😎💎 Até 44% OFF em marca boa: os 5 achados do Papa hoje\n\nOfertas todo dia no Telegram: papagarimpouofertas 💎\n\nPubli · link de afiliado",
+    "url": "https://raw.githubusercontent.com/felipenery99-alt/papa-garimpou-robo/tiktok-midia/20261116-2032-tiktok.mp4"
    }
   ]
  },
@@ -22969,7 +23027,7 @@
    "feed": 2
   },
   "2026-11-16": {
-   "story": 21,
+   "story": 23,
    "feed": 2
   }
  },
