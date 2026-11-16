@@ -1720,8 +1720,16 @@ def link_share(h: dict, telegram, destino: str) -> str | None:
         return None
 
 
+BOTAO_COMPRA = True   # 16/11 (CEO local): "Mandar pra um amigo" deu 0 entradas em 4 dias (só 21 membros) →
+                      # trocado por "🛒 Ver na loja" com o link de afiliado (botão é mais fácil de tocar que o link
+                      # da legenda). Meta: cliques Amazon/dia +30% até 19/11; senão volta (False = botão antigo).
+
+
 def botao_share(h: dict, telegram, destino: str, o: dict) -> list[tuple[str, str]] | None:
     from urllib.parse import urlencode
+    if BOTAO_COMPRA:
+        link = str(o.get("link") or "")
+        return [("🛒 Ver na loja", link)] if link.startswith("https://") else None
     try:
         link = link_share(h, telegram, destino)
     except Exception as e:
