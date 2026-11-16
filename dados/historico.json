@@ -1531,7 +1531,13 @@
   "2026-11-16 marcas 13:10 shopee-56159571991",
   "2026-11-16 achadinhos 13:25 shopee-23204913091",
   "2026-11-16 marcas 13:31 amz-B0HC3ZFGK6",
-  "2026-11-16 tech 13:38 shopee-41253171051"
+  "2026-11-16 tech 13:38 shopee-41253171051",
+  "2026-11-16 achadinhos 13:46 shopee-18597753531",
+  "2026-11-16 marcas 13:53 amz-B0GXLP4H2R",
+  "2026-11-16 tech 14:00 amz-B0FPNSXKKJ",
+  "2026-11-16 achadinhos 14:07 shopee-22693266079",
+  "2026-11-16 marcas 14:15 amz-B0HDG841K8",
+  "2026-11-16 tech 14:22 amz-B0C3BSZ56D"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -1803,7 +1809,7 @@
   "amz-B09XJL4B9H": "2026-11-01T09:54:42.474828-03:00",
   "amz-B0CC6MGM1B": "2026-11-01T09:58:48.637360-03:00",
   "amz-B0DF2WSGF6": "2026-11-01T10:02:52.200028-03:00",
-  "shopee-18597753531": "2026-11-08T10:51:27.803636-03:00",
+  "shopee-18597753531": "2026-11-16T13:46:07.610082-03:00",
   "amz-B0CP2RKYMY": "2026-11-01T10:18:02.537735-03:00",
   "amz-B0DD1M9WJT": "2026-11-01T11:31:00-03:00",
   "amz-B08LPJ1FTK": "2026-11-01T11:34:00-03:00",
@@ -2149,7 +2155,7 @@
   "shopee-41117508450": "2026-11-06T19:18:15.321266-03:00",
   "shopee-23592990089": "2026-11-06T19:35:50.027373-03:00",
   "shopee-41478796304": "2026-11-15T12:35:27.439078-03:00",
-  "shopee-22693266079": "2026-11-07T08:54:37.265674-03:00",
+  "shopee-22693266079": "2026-11-16T14:07:36.539639-03:00",
   "shopee-21916807534": "2026-11-15T12:42:32.473472-03:00",
   "shopee-58261216325": "2026-11-07T09:18:22.433210-03:00",
   "shopee-18216465769": "2026-11-07T09:26:34.269334-03:00",
@@ -2994,7 +3000,11 @@
   "amz-B0FQFH5PJS": "2026-11-16T12:34:57.630668-03:00",
   "shopee-21616812729": "2026-11-16T12:49:16.037507-03:00",
   "amz-B076QCBC3G": "2026-11-16T13:02:49.196369-03:00",
-  "amz-B0HC3ZFGK6": "2026-11-16T13:31:47.654696-03:00"
+  "amz-B0HC3ZFGK6": "2026-11-16T13:31:47.654696-03:00",
+  "amz-B0GXLP4H2R": "2026-11-16T13:53:58.890944-03:00",
+  "amz-B0FPNSXKKJ": "2026-11-16T14:00:23.486196-03:00",
+  "amz-B0HDG841K8": "2026-11-16T14:15:06.155519-03:00",
+  "amz-B0C3BSZ56D": "2026-11-16T14:22:36.802096-03:00"
  },
  "ofertas_dia": [
   {
@@ -19150,6 +19160,111 @@
    "canal": "tech",
    "entrou": "2026-11-16T12:13:45.643361-03:00",
    "dia": "2026-11-16"
+  },
+  {
+   "id": "shopee-18597753531",
+   "plataforma": "Shopee",
+   "nome": "Aspirador de Pó e Água Wap GTW 10 1400W 10 Litros Amarelo/Preto 127V FW005705",
+   "loja": "Webcontinental ES",
+   "loja_oficial": true,
+   "preco": 262.0,
+   "preco_antigo": 403.08,
+   "desconto": 35,
+   "vendas": 881,
+   "nota": 4.9,
+   "comissao_pct": 7.0,
+   "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdwc-m0z2bbz1q0sn91",
+   "link": "https://s.shopee.com.br/2VtJ5VGeQ9",
+   "canal": "achadinhos",
+   "entrou": "2026-11-16T10:49:43.366728-03:00",
+   "dia": "2026-11-16"
+  },
+  {
+   "id": "amz-B0GXLP4H2R",
+   "canal": "marcas",
+   "nome": "Kit 6 Pares de Meias Lupo Invisíveis Masculinas",
+   "preco_antigo": 116.99,
+   "preco": 44.19,
+   "desconto": 62,
+   "link": "https://www.amazon.com.br/dp/B0GXLP4H2R?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/81hoFWW6ELL._AC_SL1500_.jpg",
+   "loja": "Vendido por parceiro · entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-17T22:00:00-03:00",
+   "coletado_em": "2026-11-16T12:14:08-03:00",
+   "gancho": "6 PARES DE LUPO POR MENOS DE 45 CONTO",
+   "preco_em": "2026-11-16T12:14:08-03:00",
+   "entrou": "2026-11-16T12:27:28.330926-03:00",
+   "dia": "2026-11-16"
+  },
+  {
+   "id": "amz-B0FPNSXKKJ",
+   "canal": "tech",
+   "nome": "Caixa de Som JBL Go Essential 2 Vermelha",
+   "preco_antigo": 219.0,
+   "preco": 166.9,
+   "desconto": 24,
+   "link": "https://www.amazon.com.br/dp/B0FPNSXKKJ?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/711ksmJStyL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-17T22:00:00-03:00",
+   "coletado_em": "2026-11-16T12:14:08-03:00",
+   "preco_em": "2026-11-16T12:14:08-03:00",
+   "entrou": "2026-11-16T12:27:28.330926-03:00",
+   "dia": "2026-11-16"
+  },
+  {
+   "id": "shopee-22693266079",
+   "plataforma": "Shopee",
+   "nome": "Faqueiro Tramontina Aço Inox Buzios 36 Peças",
+   "loja": "Wala Place",
+   "loja_oficial": true,
+   "preco": 114.32,
+   "preco_antigo": 204.14,
+   "desconto": 44,
+   "vendas": 273,
+   "nota": 4.9,
+   "comissao_pct": 7.0,
+   "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdwx-lzvdf9smgqp8a7",
+   "link": "https://s.shopee.com.br/AUvb77mFOn",
+   "canal": "achadinhos",
+   "entrou": "2026-11-16T12:13:45.643361-03:00",
+   "dia": "2026-11-16"
+  },
+  {
+   "id": "amz-B0HDG841K8",
+   "canal": "marcas",
+   "nome": "Daily Whey Protein Growth 800g Morango",
+   "preco_antigo": 149.9,
+   "preco": 107.91,
+   "desconto": 28,
+   "link": "https://www.amazon.com.br/dp/B0HDG841K8?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61rJr-6h0YL._AC_SL1200_.jpg",
+   "loja": "Loja oficial Growth · entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-17T22:00:00-03:00",
+   "coletado_em": "2026-11-16T12:14:08-03:00",
+   "preco_em": "2026-11-16T12:14:08-03:00",
+   "entrou": "2026-11-16T12:27:28.330926-03:00",
+   "dia": "2026-11-16"
+  },
+  {
+   "id": "amz-B0C3BSZ56D",
+   "canal": "tech",
+   "nome": "Headset Gamer HyperX Cloud III (PC, PS5, Xbox)",
+   "preco_antigo": 486.9,
+   "preco": 349.0,
+   "desconto": 28,
+   "link": "https://www.amazon.com.br/dp/B0C3BSZ56D?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71AMEEP3HLL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-17T22:00:00-03:00",
+   "coletado_em": "2026-11-16T12:14:08-03:00",
+   "preco_em": "2026-11-16T12:14:08-03:00",
+   "entrou": "2026-11-16T12:27:28.330926-03:00",
+   "dia": "2026-11-16"
   }
  ],
  "ig_feitos": [
@@ -19267,10 +19382,10 @@
   "2026-11-16 12:15 story_top4",
   "2026-11-16 12:19 story_oferta",
   "2026-11-16 12:47 story_oferta",
-  "2026-11-16 13:22 story_oferta"
+  "2026-11-16 13:22 story_oferta",
+  "2026-11-16 14:08 story_oferta"
  ],
  "ig_ofertas_usadas": [
-  "amz-B00WQSFO1E",
   "amz-B0CGCHWKH1",
   "amz-B07MRMHML9",
   "amz-B09KYB18ZY",
@@ -19469,7 +19584,8 @@
   "shopee-21997684262",
   "shopee-44106064553",
   "shopee-22194331598",
-  "shopee-58206236149"
+  "shopee-58206236149",
+  "shopee-21616812729"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
@@ -19580,40 +19696,6 @@
  },
  "ultimo_pilar": "dica",
  "fila": [
-  {
-   "id": "shopee-18597753531",
-   "plataforma": "Shopee",
-   "nome": "Aspirador de Pó e Água Wap GTW 10 1400W 10 Litros Amarelo/Preto 127V FW005705",
-   "loja": "Webcontinental ES",
-   "loja_oficial": true,
-   "preco": 262.0,
-   "preco_antigo": 403.08,
-   "desconto": 35,
-   "vendas": 881,
-   "nota": 4.9,
-   "comissao_pct": 7.0,
-   "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdwc-m0z2bbz1q0sn91",
-   "link": "https://s.shopee.com.br/2VtJ5VGeQ9",
-   "canal": "achadinhos",
-   "entrou": "2026-11-16T10:49:43.366728-03:00"
-  },
-  {
-   "id": "shopee-22693266079",
-   "plataforma": "Shopee",
-   "nome": "Faqueiro Tramontina Aço Inox Buzios 36 Peças",
-   "loja": "Wala Place",
-   "loja_oficial": true,
-   "preco": 114.32,
-   "preco_antigo": 204.14,
-   "desconto": 44,
-   "vendas": 273,
-   "nota": 4.9,
-   "comissao_pct": 7.0,
-   "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdwx-lzvdf9smgqp8a7",
-   "link": "https://s.shopee.com.br/AUvb77mFOn",
-   "canal": "achadinhos",
-   "entrou": "2026-11-16T12:13:45.643361-03:00"
-  },
   {
    "id": "shopee-23094056729",
    "plataforma": "Shopee",
@@ -19740,39 +19822,6 @@
    "link": "https://www.amazon.com.br/dp/B0GKPGFGMP?tag=papagarimpou-20",
    "imagem": "https://m.media-amazon.com/images/I/51XNWY9hbIL._AC_SL1000_.jpg",
    "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-17T22:00:00-03:00",
-   "coletado_em": "2026-11-16T12:14:08-03:00",
-   "preco_em": "2026-11-16T12:14:08-03:00",
-   "entrou": "2026-11-16T12:27:28.330926-03:00"
-  },
-  {
-   "id": "amz-B0GXLP4H2R",
-   "canal": "marcas",
-   "nome": "Kit 6 Pares de Meias Lupo Invisíveis Masculinas",
-   "preco_antigo": 116.99,
-   "preco": 44.19,
-   "desconto": 62,
-   "link": "https://www.amazon.com.br/dp/B0GXLP4H2R?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/81hoFWW6ELL._AC_SL1500_.jpg",
-   "loja": "Vendido por parceiro · entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-17T22:00:00-03:00",
-   "coletado_em": "2026-11-16T12:14:08-03:00",
-   "gancho": "6 PARES DE LUPO POR MENOS DE 45 CONTO",
-   "preco_em": "2026-11-16T12:14:08-03:00",
-   "entrou": "2026-11-16T12:27:28.330926-03:00"
-  },
-  {
-   "id": "amz-B0HDG841K8",
-   "canal": "marcas",
-   "nome": "Daily Whey Protein Growth 800g Morango",
-   "preco_antigo": 149.9,
-   "preco": 107.91,
-   "desconto": 28,
-   "link": "https://www.amazon.com.br/dp/B0HDG841K8?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61rJr-6h0YL._AC_SL1200_.jpg",
-   "loja": "Loja oficial Growth · entregue pela Amazon",
    "plataforma": "Amazon",
    "valida_ate": "2026-11-17T22:00:00-03:00",
    "coletado_em": "2026-11-16T12:14:08-03:00",
@@ -19948,38 +19997,6 @@
    "coletado_em": "2026-11-16T12:17:10-03:00",
    "extra": "Preço a partir de: varia por tamanho e cor",
    "preco_em": "2026-11-16T12:17:10-03:00",
-   "entrou": "2026-11-16T12:27:28.330926-03:00"
-  },
-  {
-   "id": "amz-B0FPNSXKKJ",
-   "canal": "tech",
-   "nome": "Caixa de Som JBL Go Essential 2 Vermelha",
-   "preco_antigo": 219.0,
-   "preco": 166.9,
-   "desconto": 24,
-   "link": "https://www.amazon.com.br/dp/B0FPNSXKKJ?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/711ksmJStyL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-17T22:00:00-03:00",
-   "coletado_em": "2026-11-16T12:14:08-03:00",
-   "preco_em": "2026-11-16T12:14:08-03:00",
-   "entrou": "2026-11-16T12:27:28.330926-03:00"
-  },
-  {
-   "id": "amz-B0C3BSZ56D",
-   "canal": "tech",
-   "nome": "Headset Gamer HyperX Cloud III (PC, PS5, Xbox)",
-   "preco_antigo": 486.9,
-   "preco": 349.0,
-   "desconto": 28,
-   "link": "https://www.amazon.com.br/dp/B0C3BSZ56D?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/71AMEEP3HLL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-17T22:00:00-03:00",
-   "coletado_em": "2026-11-16T12:14:08-03:00",
-   "preco_em": "2026-11-16T12:14:08-03:00",
    "entrou": "2026-11-16T12:27:28.330926-03:00"
   },
   {
@@ -20381,7 +20398,7 @@
   "kit12poteshermeticoselectrolux": "2026-11-01T09:54:42.474828-03:00",
   "tenisdecorridamizunowavefalconmasculino": "2026-11-01T09:58:48.637360-03:00",
   "monitorgamerlg24ips100hzfullhd": "2026-11-01T10:02:52.200028-03:00",
-  "aspiradordepoeaguawapgtw101400w10litrosamarelopreto127vfw005705": "2026-11-08T10:51:27.803636-03:00",
+  "aspiradordepoeaguawapgtw101400w10litrosamarelopreto127vfw005705": "2026-11-16T13:46:07.610082-03:00",
   "tenisnewbalance574v2unissex": "2026-11-01T10:18:02.537735-03:00",
   "airfryerfornophilipswalitaserie5000220v": "2026-11-01T11:31:00-03:00",
   "camisetaheringmasculinagolavregular": "2026-11-01T11:34:00-03:00",
@@ -20727,7 +20744,7 @@
   "headphonebaseusbh1ncsemfiobluetooth60anc45dbgravesfortes80hbateriasomhires": "2026-11-06T19:18:15.321266-03:00",
   "baseuscarregadordeparederapidotipocsupersiqc20wparacelularesiphonesamsungeoutros": "2026-11-06T19:35:50.027373-03:00",
   "cuscuzeirapequenatramontinaemaluminiocomrevestimentointernoeexternoemantiaderente10cm08l": "2026-11-15T12:35:27.439078-03:00",
-  "faqueirotramontinaacoinoxbuzios36pecas": "2026-11-07T08:54:37.265674-03:00",
+  "faqueirotramontinaacoinoxbuzios36pecas": "2026-11-16T14:07:36.539639-03:00",
   "kitcom6paresdemeiasluposportcanomedioesportivaadultoemalgodao": "2026-11-15T12:42:32.473472-03:00",
   "camerainteligenteinternaim12mpintelbras": "2026-11-07T09:18:22.433210-03:00",
   "kit10paresmeiasluposportcanoinvisivelalgodaosoquetesapatilhaunissexoriginalconfortavel": "2026-11-07T09:26:34.269334-03:00",
@@ -21569,7 +21586,11 @@
   "applewatchse3gpsaluminioluzdasestrelas": "2026-11-16T12:34:57.630668-03:00",
   "kitcom6cuecaslupoboxerdemicrofibrasemcosturaboxmasculinaadultooriginal": "2026-11-16T12:49:16.037507-03:00",
   "lavadoradealtapressaowapatacamasmart2200220v": "2026-11-16T13:02:49.196369-03:00",
-  "camisetalacostesportmasculina": "2026-11-16T13:31:47.654696-03:00"
+  "camisetalacostesportmasculina": "2026-11-16T13:31:47.654696-03:00",
+  "kit6paresdemeiaslupoinvisiveismasculinas": "2026-11-16T13:53:58.890944-03:00",
+  "caixadesomjblgoessential2vermelha": "2026-11-16T14:00:23.486196-03:00",
+  "dailywheyproteingrowth800gmorango": "2026-11-16T14:15:06.155519-03:00",
+  "headsetgamerhyperxcloudiiipcps5xbox": "2026-11-16T14:22:36.802096-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
@@ -21968,7 +21989,7 @@
   "marcas": "2026-11-12T17:56:29.409807-03:00"
  },
  "top10_dia": "2026-11-14",
- "manuais_lidos": "2026-11-16T13:38:13.377760-03:00",
+ "manuais_lidos": "2026-11-16T14:22:36.411739-03:00",
  "reserva_resultado": {
   "2026-11-07": {
    "achadinhos": {
@@ -22180,7 +22201,7 @@
    "hora": "2026-11-11T20:32:35.453128-03:00"
   }
  },
- "ig_respondido_em": "2026-11-16T13:38:13.377760-03:00",
+ "ig_respondido_em": "2026-11-16T14:14:50.526121-03:00",
  "dm_auto": {
   "2026-11-09": {
    "com_palavra": 0,
@@ -22422,7 +22443,7 @@
    "feed": 2
   },
   "2026-11-16": {
-   "story": 12,
+   "story": 13,
    "feed": 1
   }
  },
