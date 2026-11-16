@@ -5,18 +5,6 @@
   "ultimo": "2026-11-14T01:03+00:00",
   "texto": "canal marcas sem oferta na fila há 52 min (busca extra também não achou). Abastecer ofertas_manuais.json."
  },
- "erro em #-#-# marcas #:# amz-B#F#CLCF#T: ('Connection aborted.', ConnectionReset": {
-  "primeiro": "2026-11-13T17:39+00:00",
-  "vezes": 1,
-  "ultimo": "2026-11-13T17:39+00:00",
-  "texto": "erro em 2026-11-13 marcas 14:39 amz-B0F1CLCF3T: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer')). Não postei."
- },
- "erro em #-#-# achadinhos #:# amz-B#C#SY#: ('Connection aborted.', ConnectionRese": {
-  "primeiro": "2026-11-13T18:14+00:00",
-  "vezes": 1,
-  "ultimo": "2026-11-13T18:14+00:00",
-  "texto": "erro em 2026-11-13 achadinhos 15:14 amz-B077C3SY25: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer')). Não postei."
- },
  "⚠️ Fila vazia (tech), último garimpo #:# — abrir o app Claude e conferir as roti": {
   "primeiro": "2026-11-13T20:46+00:00",
   "vezes": 2,
@@ -94,5 +82,35 @@
   "vezes": 1,
   "ultimo": "2026-11-16T16:18+00:00",
   "texto": "erro em 2026-11-16 tech 13:18 shopee-3258773144 (foto): 503 Server Error: Service Unavailable for url: https://cf.shopee.com.br/file/cn-11134207-820l4-mmzna00skykoe1. Não postei."
+ },
+ "erro em #-#-# achadinhos #:# amz-B#CJYJH#TD (envio ao Telegram): HTTPSConnection": {
+  "primeiro": "2026-11-16T19:02+00:00",
+  "vezes": 1,
+  "ultimo": "2026-11-16T19:02+00:00",
+  "texto": "erro em 2026-11-16 achadinhos 16:01 amz-B0CJYJH5TD (envio ao Telegram): HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=60). Não postei."
+ },
+ "erro em #-#-# achadinhos #:# amz-B#VL#FQCV (envio ao Telegram): HTTPSConnectionP": {
+  "primeiro": "2026-11-16T19:04+00:00",
+  "vezes": 1,
+  "ultimo": "2026-11-16T19:04+00:00",
+  "texto": "erro em 2026-11-16 achadinhos 16:03 amz-B07VL6FQCV (envio ao Telegram): HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=60). Não postei."
+ },
+ "erro em #-#-# achadinhos #:# amz-B#GKPGFGMP (envio ao Telegram): HTTPSConnection": {
+  "primeiro": "2026-11-16T19:06+00:00",
+  "vezes": 1,
+  "ultimo": "2026-11-16T19:06+00:00",
+  "texto": "erro em 2026-11-16 achadinhos 16:05 amz-B0GKPGFGMP (envio ao Telegram): HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=60). Não postei."
+ },
+ "erro em #-#-# achadinhos #:# amz-B#DD#KQWZF (envio ao Telegram): Telegram recuso": {
+  "primeiro": "2026-11-16T19:07+00:00",
+  "vezes": 1,
+  "ultimo": "2026-11-16T19:07+00:00",
+  "texto": "erro em 2026-11-16 achadinhos 16:07 amz-B0DD5KQWZF (envio ao Telegram): Telegram recusou: {'ok': False, 'error_code': 500, 'description': 'Internal Server Error'}. Não postei."
+ },
+ "erro em #-#-# achadinhos #:# amz-B#D#VXWXB (envio ao Telegram): HTTPSConnectionP": {
+  "primeiro": "2026-11-16T19:09+00:00",
+  "vezes": 1,
+  "ultimo": "2026-11-16T19:09+00:00",
+  "texto": "erro em 2026-11-16 achadinhos 16:08 amz-B0D98VXWXB (envio ao Telegram): HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=60). Não postei."
  }
 }

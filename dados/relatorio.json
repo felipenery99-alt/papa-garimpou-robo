@@ -3316,19 +3316,24 @@
    "canal geral não recebeu shopee-44106064553: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))",
    "Instagram: parceria grupodiv-20261116 falhou: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))",
    "erro em 2026-11-16 achadinhos 12:42 amz-B0DD5KQWZF (envio ao Telegram): ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer')). Não postei.",
-   "erro em 2026-11-16 tech 13:18 shopee-3258773144 (foto): 503 Server Error: Service Unavailable for url: https://cf.shopee.com.br/file/cn-11134207-820l4-mmzna00skykoe1. Não postei."
+   "erro em 2026-11-16 tech 13:18 shopee-3258773144 (foto): 503 Server Error: Service Unavailable for url: https://cf.shopee.com.br/file/cn-11134207-820l4-mmzna00skykoe1. Não postei.",
+   "erro em 2026-11-16 achadinhos 16:01 amz-B0CJYJH5TD (envio ao Telegram): HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=60). Não postei.",
+   "erro em 2026-11-16 achadinhos 16:03 amz-B07VL6FQCV (envio ao Telegram): HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=60). Não postei.",
+   "erro em 2026-11-16 achadinhos 16:05 amz-B0GKPGFGMP (envio ao Telegram): HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=60). Não postei.",
+   "erro em 2026-11-16 achadinhos 16:07 amz-B0DD5KQWZF (envio ao Telegram): Telegram recusou: {'ok': False, 'error_code': 500, 'description': 'Internal Server Error'}. Não postei.",
+   "erro em 2026-11-16 achadinhos 16:08 amz-B0D98VXWXB (envio ao Telegram): HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=60). Não postei."
   ],
-  "ultima_execucao": "15:13",
-  "execucoes": 11,
+  "ultima_execucao": "16:01",
+  "execucoes": 12,
   "telegram_posts": {
-   "achadinhos": 19,
-   "marcas": 20,
-   "tech": 19
+   "achadinhos": 22,
+   "marcas": 22,
+   "tech": 21
   },
   "ultimo_post": {
-   "achadinhos": "15:39",
-   "marcas": "15:46",
-   "tech": "15:53"
+   "achadinhos": "16:32",
+   "marcas": "16:39",
+   "tech": "16:46"
   },
   "meta_token": {
    "tipo": "SYSTEM_USER",
@@ -3377,7 +3382,8 @@
    "13:22 story_oferta",
    "14:08 story_oferta",
    "15:00 adivinha",
-   "15:03 story_oferta"
+   "15:03 story_oferta",
+   "16:44 story_oferta"
   ],
   "shopee_ligada": true,
   "dm_auto": {
@@ -4773,7 +4779,7 @@
    "shopee-58271471209": "nota",
    "shopee-58270468112": "vendas longe",
    "shopee-58271735782": "nota",
-   "shopee-58270168539": "nota",
+   "shopee-58270168539": "vendas longe",
    "shopee-58212948917": "vendas longe",
    "shopee-58220452271": "vendas longe",
    "shopee-58270062643": "vendas longe",
@@ -5397,12 +5403,31 @@
    "shopee-23599672233": "vendas longe",
    "shopee-58269768671": "vendas longe",
    "shopee-58270468105": "outro: marca fora da lista boa",
-   "shopee-19998260244": "vendas longe"
+   "shopee-19998260244": "vendas longe",
+   "shopee-9886408270": "vendas longe",
+   "shopee-27235757939": "vendas longe",
+   "shopee-11423336613": "vendas longe",
+   "shopee-58219522297": "vendas longe",
+   "shopee-10023514904": "vendas longe",
+   "shopee-46900143387": "vendas longe",
+   "shopee-19368935007": "vendas longe",
+   "shopee-58256601883": "vendas longe",
+   "shopee-23994859376": "vendas longe",
+   "shopee-13755330531": "vendas longe",
+   "shopee-3796624777": "vendas longe",
+   "shopee-5366305492": "vendas longe",
+   "shopee-44708843123": "vendas longe",
+   "shopee-22298982547": "vendas longe",
+   "shopee-44901761953": "vendas longe",
+   "shopee-41165201409": "vendas longe",
+   "shopee-58002598728": "vendas perto (125+)",
+   "shopee-43630230308": "vendas longe",
+   "shopee-54306272132": "vendas longe"
   },
   "shopee_oficial": {
-   "vendas longe": 1130,
-   "nota": 556,
-   "vendas perto (125+)": 98,
+   "vendas longe": 1149,
+   "nota": 555,
+   "vendas perto (125+)": 99,
    "aprovada": 63,
    "outro: marca fora da lista boa": 62,
    "desconto longe": 53,
@@ -5674,21 +5699,28 @@
    "amz-B0BPYTDYD6": "ja_postado_30d",
    "amz-B085M5R821": "ja_postado_30d",
    "amz-B0HGGNZY3Y": "ja_postado_30d",
-   "amz-B097HYQPJ1": "ja_postado_30d"
+   "amz-B097HYQPJ1": "ja_postado_30d",
+   "amz-B0G2SYDSQ7": "ja_postado_30d",
+   "amz-B0HC3TML14": "ja_postado_30d",
+   "amz-B0D79GX9QQ": "ja_postado_30d",
+   "amz-B0CXQ6DHDP": "ja_postado_30d",
+   "amz-B0BPMQKXQB": "ja_postado_30d",
+   "amz-B0DJFSTQHX": "ja_postado_30d",
+   "amz-B0CJYJH5TD": "ja_postado_30d"
   },
   "manuais_descartados": {
-   "ja_postado_30d": 265
+   "ja_postado_30d": 272
   },
   "instagram": {
    "seguidores": 503,
    "posts": 127,
-   "reach": 246,
-   "profile_views": 31,
+   "reach": 248,
+   "profile_views": 33,
    "website_clicks": 2,
-   "stories_ativos": 25
+   "stories_ativos": 24
   },
   "reels_alcance": {
-   "atualizado": "2026-11-16T15:13:31.203322-03:00",
+   "atualizado": "2026-11-16T16:01:53.917628-03:00",
    "itens": [
     {
      "id": "18230902090331796",
