@@ -1498,7 +1498,12 @@
   "2026-11-16 tech 08:59 amz-B0B8BZRTYY",
   "2026-11-16 tech 09:07 amz-B0FVB92J42",
   "2026-11-16 achadinhos 09:14 amz-B0CZMDXZ72",
-  "2026-11-16 marcas 09:22 amz-B084PTVQBN"
+  "2026-11-16 marcas 09:22 amz-B084PTVQBN",
+  "2026-11-16 marcas 09:36 amz-B0H6XWY5C1",
+  "2026-11-16 tech 09:44 amz-B0GGLJCJQM",
+  "2026-11-16 achadinhos 09:51 amz-B07F3CXQ5G",
+  "2026-11-16 marcas 09:58 amz-B0D32519RX",
+  "2026-11-16 tech 10:05 amz-B0DFQFZN5V"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -2934,7 +2939,12 @@
   "amz-B0B8BZRTYY": "2026-11-16T08:59:07.254441-03:00",
   "amz-B0FVB92J42": "2026-11-16T09:07:03.075195-03:00",
   "amz-B0CZMDXZ72": "2026-11-16T09:14:47.791517-03:00",
-  "amz-B084PTVQBN": "2026-11-16T09:22:28.724897-03:00"
+  "amz-B084PTVQBN": "2026-11-16T09:22:28.724897-03:00",
+  "amz-B0H6XWY5C1": "2026-11-16T09:36:17.587057-03:00",
+  "amz-B0GGLJCJQM": "2026-11-16T09:44:12.357842-03:00",
+  "amz-B07F3CXQ5G": "2026-11-16T09:51:54.795308-03:00",
+  "amz-B0D32519RX": "2026-11-16T09:58:59.100641-03:00",
+  "amz-B0DFQFZN5V": "2026-11-16T10:05:53.814479-03:00"
  },
  "ofertas_dia": [
   {
@@ -18574,6 +18584,92 @@
    "preco_em": "2026-11-16T08:18:36-03:00",
    "entrou": "2026-11-16T08:43:27.446331-03:00",
    "dia": "2026-11-16"
+  },
+  {
+   "id": "amz-B0H6XWY5C1",
+   "canal": "marcas",
+   "nome": "Kit 2 Cuecas Boxer Lupo Poliamida Sem Costura",
+   "preco_antigo": 65.25,
+   "preco": 47.49,
+   "desconto": 27,
+   "link": "https://www.amazon.com.br/dp/B0H6XWY5C1?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71f0NSlyq1L.jpg",
+   "loja": "Vendido por parceiro · entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-17T22:00:00-03:00",
+   "coletado_em": "2026-11-16T08:18:36-03:00",
+   "preco_em": "2026-11-16T08:18:36-03:00",
+   "entrou": "2026-11-16T08:43:27.446331-03:00",
+   "dia": "2026-11-16"
+  },
+  {
+   "id": "amz-B0GGLJCJQM",
+   "canal": "tech",
+   "nome": "Resident Evil Requiem - PlayStation 5",
+   "preco_antigo": 349.9,
+   "preco": 249.9,
+   "desconto": 29,
+   "link": "https://www.amazon.com.br/dp/B0GGLJCJQM?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71xKlhR+NtL.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-16T22:00:00-03:00",
+   "coletado_em": "2026-11-15T18:15:00-03:00",
+   "preco_em": "2026-11-15T18:15:00-03:00",
+   "entrou": "2026-11-16T08:43:27.446331-03:00",
+   "dia": "2026-11-16"
+  },
+  {
+   "id": "amz-B07F3CXQ5G",
+   "canal": "achadinhos",
+   "nome": "Protetor Labial Nivea Med Repair FPS15",
+   "preco_antigo": 27.9,
+   "preco": 16.1,
+   "desconto": 42,
+   "link": "https://www.amazon.com.br/dp/B07F3CXQ5G?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71iQew8qYqL.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-16T22:00:00-03:00",
+   "coletado_em": "2026-11-15T18:15:00-03:00",
+   "preco_em": "2026-11-15T18:15:00-03:00",
+   "entrou": "2026-11-16T08:43:27.446331-03:00",
+   "dia": "2026-11-16"
+  },
+  {
+   "id": "amz-B0D32519RX",
+   "canal": "marcas",
+   "nome": "Tênis Olympikus Rua Masculino",
+   "preco_antigo": 249.99,
+   "preco": 186.71,
+   "desconto": 25,
+   "link": "https://www.amazon.com.br/dp/B0D32519RX?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51-6AcHiS4L.jpg",
+   "loja": "Vendido por parceiro · entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-17T22:00:00-03:00",
+   "coletado_em": "2026-11-16T08:18:36-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "preco_em": "2026-11-16T08:18:36-03:00",
+   "entrou": "2026-11-16T08:43:27.446331-03:00",
+   "dia": "2026-11-16"
+  },
+  {
+   "id": "amz-B0DFQFZN5V",
+   "canal": "tech",
+   "nome": "Soundbar LG S90TY Dolby Atmos 5.1.3 570W",
+   "preco_antigo": 3199.2,
+   "preco": 2259.0,
+   "desconto": 29,
+   "link": "https://www.amazon.com.br/dp/B0DFQFZN5V?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/31AkcRm364L.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-16T22:00:00-03:00",
+   "coletado_em": "2026-11-15T18:15:00-03:00",
+   "preco_em": "2026-11-15T18:15:00-03:00",
+   "entrou": "2026-11-16T08:43:27.446331-03:00",
+   "dia": "2026-11-16"
   }
  ],
  "ig_feitos": [
@@ -18678,7 +18774,9 @@
   "parceria me-20261115",
   "2026-11-15 21:24 story_oferta",
   "2026-11-16 08:07 story_oferta",
-  "2026-11-16 08:45 story_oferta"
+  "2026-11-16 08:45 story_oferta",
+  "2026-11-16 09:38 story_oferta",
+  "2026-11-16 09:40 story_convite"
  ],
  "ig_ofertas_usadas": [
   "amz-B0CJ3WFW9H",
@@ -18975,45 +19073,14 @@
   "ac-bf-antecipada": "2026-11-15",
   "dc-voltagem": "2026-11-15",
   "bf-2026-11-16": "2026-11-16",
-  "ac-conta-hackeada": "2026-11-16"
+  "ac-conta-hackeada": "2026-11-16",
+  "dc-parcelar": "2026-11-16"
  },
  "pecas_dia": {
-  "2026-11-16": 2
+  "2026-11-16": 3
  },
- "ultimo_pilar": "anticilada",
+ "ultimo_pilar": "dica",
  "fila": [
-  {
-   "id": "amz-B076QCBC3G",
-   "canal": "achadinhos",
-   "nome": "Lavadora de Alta Pressão WAP Atacama Smart 2200 220V",
-   "preco_antigo": 629.9,
-   "preco": 379.9,
-   "desconto": 40,
-   "link": "https://www.amazon.com.br/dp/B076QCBC3G?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/711OpDhWASS.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-16T22:00:00-03:00",
-   "coletado_em": "2026-11-15T18:15:00-03:00",
-   "preco_em": "2026-11-15T18:15:00-03:00",
-   "entrou": "2026-11-16T08:43:27.446331-03:00"
-  },
-  {
-   "id": "amz-B07F3CXQ5G",
-   "canal": "achadinhos",
-   "nome": "Protetor Labial Nivea Med Repair FPS15",
-   "preco_antigo": 27.9,
-   "preco": 16.1,
-   "desconto": 42,
-   "link": "https://www.amazon.com.br/dp/B07F3CXQ5G?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/71iQew8qYqL.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-16T22:00:00-03:00",
-   "coletado_em": "2026-11-15T18:15:00-03:00",
-   "preco_em": "2026-11-15T18:15:00-03:00",
-   "entrou": "2026-11-16T08:43:27.446331-03:00"
-  },
   {
    "id": "amz-B08X66RQ48",
    "canal": "achadinhos",
@@ -19175,39 +19242,6 @@
    "entrou": "2026-11-16T08:43:27.446331-03:00"
   },
   {
-   "id": "amz-B0H6XWY5C1",
-   "canal": "marcas",
-   "nome": "Kit 2 Cuecas Boxer Lupo Poliamida Sem Costura",
-   "preco_antigo": 65.25,
-   "preco": 47.49,
-   "desconto": 27,
-   "link": "https://www.amazon.com.br/dp/B0H6XWY5C1?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/71f0NSlyq1L.jpg",
-   "loja": "Vendido por parceiro · entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-17T22:00:00-03:00",
-   "coletado_em": "2026-11-16T08:18:36-03:00",
-   "preco_em": "2026-11-16T08:18:36-03:00",
-   "entrou": "2026-11-16T08:43:27.446331-03:00"
-  },
-  {
-   "id": "amz-B0D32519RX",
-   "canal": "marcas",
-   "nome": "Tênis Olympikus Rua Masculino",
-   "preco_antigo": 249.99,
-   "preco": 186.71,
-   "desconto": 25,
-   "link": "https://www.amazon.com.br/dp/B0D32519RX?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51-6AcHiS4L.jpg",
-   "loja": "Vendido por parceiro · entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-17T22:00:00-03:00",
-   "coletado_em": "2026-11-16T08:18:36-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "preco_em": "2026-11-16T08:18:36-03:00",
-   "entrou": "2026-11-16T08:43:27.446331-03:00"
-  },
-  {
    "id": "amz-B07QTC49LL",
    "canal": "marcas",
    "nome": "Whey Max Titanium Top Whey 3W 900g Chocolate",
@@ -19287,38 +19321,6 @@
    "valida_ate": "2026-11-17T22:00:00-03:00",
    "coletado_em": "2026-11-16T08:18:36-03:00",
    "preco_em": "2026-11-16T08:18:36-03:00",
-   "entrou": "2026-11-16T08:43:27.446331-03:00"
-  },
-  {
-   "id": "amz-B0GGLJCJQM",
-   "canal": "tech",
-   "nome": "Resident Evil Requiem - PlayStation 5",
-   "preco_antigo": 349.9,
-   "preco": 249.9,
-   "desconto": 29,
-   "link": "https://www.amazon.com.br/dp/B0GGLJCJQM?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/71xKlhR+NtL.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-16T22:00:00-03:00",
-   "coletado_em": "2026-11-15T18:15:00-03:00",
-   "preco_em": "2026-11-15T18:15:00-03:00",
-   "entrou": "2026-11-16T08:43:27.446331-03:00"
-  },
-  {
-   "id": "amz-B0DFQFZN5V",
-   "canal": "tech",
-   "nome": "Soundbar LG S90TY Dolby Atmos 5.1.3 570W",
-   "preco_antigo": 3199.2,
-   "preco": 2259.0,
-   "desconto": 29,
-   "link": "https://www.amazon.com.br/dp/B0DFQFZN5V?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/31AkcRm364L.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-16T22:00:00-03:00",
-   "coletado_em": "2026-11-15T18:15:00-03:00",
-   "preco_em": "2026-11-15T18:15:00-03:00",
    "entrou": "2026-11-16T08:43:27.446331-03:00"
   },
   {
@@ -19529,6 +19531,39 @@
    "link": "https://s.shopee.com.br/gReucohGh",
    "canal": "marcas",
    "entrou": "2026-11-16T08:43:27.446331-03:00"
+  },
+  {
+   "id": "shopee-22194331598",
+   "plataforma": "Shopee",
+   "nome": "Whey Pro Max Titanium Protein Pro Com Bcaa E Aminoácidos 1kg",
+   "loja": "Max Titanium",
+   "loja_oficial": true,
+   "preco": 99.9,
+   "preco_antigo": 178.39,
+   "desconto": 44,
+   "vendas": 1612,
+   "nota": 4.9,
+   "comissao_pct": 6.0,
+   "imagem": "https://cf.shopee.com.br/file/br-11134207-820mf-mtfc9yq6ld6p5f",
+   "link": "https://s.shopee.com.br/8pnOapkY8p",
+   "canal": "marcas",
+   "entrou": "2026-11-16T09:22:57.538660-03:00"
+  },
+  {
+   "id": "amz-B076QCBC3G",
+   "canal": "achadinhos",
+   "nome": "Lavadora de Alta Pressão WAP Atacama Smart 2200 220V",
+   "preco_antigo": 629.9,
+   "preco": 379.9,
+   "desconto": 40,
+   "link": "https://www.amazon.com.br/dp/B076QCBC3G?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/711OpDhWASS.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-16T22:00:00-03:00",
+   "coletado_em": "2026-11-15T18:15:00-03:00",
+   "preco_em": "2026-11-15T18:15:00-03:00",
+   "entrou": "2026-11-16T09:36:12.906140-03:00"
   }
  ],
  "menus_fixados": [
@@ -20816,7 +20851,12 @@
   "headsetsemfiologitechzonevibe100": "2026-11-16T08:59:07.254441-03:00",
   "caixadesomjblgripaprovadagua": "2026-11-16T09:07:03.075195-03:00",
   "mixerdemaoelectrolux400wtruflow": "2026-11-16T09:14:47.791517-03:00",
-  "camisetabasicaheringcomfortsupercottonmasculina": "2026-11-16T09:22:28.724897-03:00"
+  "camisetabasicaheringcomfortsupercottonmasculina": "2026-11-16T09:22:28.724897-03:00",
+  "kit2cuecasboxerlupopoliamidasemcostura": "2026-11-16T09:36:17.587057-03:00",
+  "residentevilrequiemplaystation5": "2026-11-16T09:44:12.357842-03:00",
+  "protetorlabialniveamedrepairfps15": "2026-11-16T09:51:54.795308-03:00",
+  "tenisolympikusruamasculino": "2026-11-16T09:58:59.100641-03:00",
+  "soundbarlgs90tydolbyatmos513570w": "2026-11-16T10:05:53.814479-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
@@ -21215,7 +21255,7 @@
   "marcas": "2026-11-12T17:56:29.409807-03:00"
  },
  "top10_dia": "2026-11-14",
- "manuais_lidos": "2026-11-16T09:22:23.818293-03:00",
+ "manuais_lidos": "2026-11-16T10:05:53.488680-03:00",
  "reserva_resultado": {
   "2026-11-07": {
    "achadinhos": {
@@ -21427,7 +21467,7 @@
    "hora": "2026-11-11T20:32:35.453128-03:00"
   }
  },
- "ig_respondido_em": "2026-11-16T09:22:23.818293-03:00",
+ "ig_respondido_em": "2026-11-16T09:58:55.891620-03:00",
  "dm_auto": {
   "2026-11-09": {
    "com_palavra": 0,
@@ -21661,7 +21701,7 @@
    "feed": 2
   },
   "2026-11-16": {
-   "story": 2,
+   "story": 4,
    "feed": 0
   }
  },
