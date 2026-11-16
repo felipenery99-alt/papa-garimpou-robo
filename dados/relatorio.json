@@ -3142,8 +3142,8 @@
    "⚠️ Fila vazia (tech), último garimpo 14/11 18:18 — abrir o app Claude e conferir as rotinas",
    "⚠️ Fila vazia (marcas), último garimpo 15:24 — abrir o app Claude e conferir as rotinas"
   ],
-  "ultima_execucao": "21:45",
-  "execucoes": 20,
+  "ultima_execucao": "21:58",
+  "execucoes": 21,
   "telegram_posts": {
    "achadinhos": 46,
    "marcas": 36,
@@ -4888,7 +4888,7 @@
    "shopee-13311893672": "vendas longe",
    "shopee-58212948917": "vendas longe",
    "shopee-58220452271": "vendas longe",
-   "shopee-58270062643": "nota",
+   "shopee-58270062643": "vendas longe",
    "shopee-23999639240": "vendas longe",
    "shopee-58271646754": "nota",
    "shopee-58212712893": "vendas longe",
@@ -5803,17 +5803,24 @@
    "shopee-23798805945": "vendas longe",
    "shopee-58219288665": "vendas longe",
    "shopee-19997868756": "vendas longe",
-   "shopee-18898882545": "vendas longe"
+   "shopee-18898882545": "vendas longe",
+   "shopee-21416815560": "vendas longe",
+   "shopee-58205964166": "vendas longe",
+   "shopee-23198008760": "vendas longe",
+   "shopee-22899386029": "vendas longe",
+   "shopee-22497180202": "vendas longe",
+   "shopee-23397480774": "vendas longe",
+   "shopee-54267390945": "outro: palavra proibida: compatível"
   },
   "shopee_oficial": {
-   "vendas longe": 1374,
-   "nota": 842,
+   "vendas longe": 1381,
+   "nota": 841,
    "vendas perto (125+)": 105,
    "desconto longe": 67,
    "aprovada": 63,
    "outro: marca fora da lista boa": 60,
    "desconto perto (até 10 pts)": 26,
-   "outro: palavra proibida: compatível": 11
+   "outro: palavra proibida: compatível": 12
   },
   "manuais_descartados_ids": {
    "amz-B0FF676FXT": "ja_postado_30d",
@@ -6133,10 +6140,12 @@
    "amz-B0851FYF7X": "ja_postado_30d",
    "amz-B07GTTRBLV": "ja_postado_30d",
    "amz-B0DS2K6MM5": "ja_postado_30d",
-   "amz-B0FFTTH5ZG": "ja_postado_30d"
+   "amz-B0FFTTH5ZG": "ja_postado_30d",
+   "amz-B07YGFNDX9": "ja_postado_30d",
+   "amz-B0H9BRFL89": "ja_postado_30d"
   },
   "manuais_descartados": {
-   "ja_postado_30d": 318
+   "ja_postado_30d": 320
   },
   "instagram": {
    "seguidores": 501,
@@ -6147,7 +6156,7 @@
    "stories_ativos": 22
   },
   "reels_alcance": {
-   "atualizado": "2026-11-15T21:45:08.781091-03:00",
+   "atualizado": "2026-11-15T21:58:52.363123-03:00",
    "itens": [
     {
      "id": "18230902090331796",
