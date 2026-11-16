@@ -2429,5 +2429,63 @@
   "valida_ate": "2026-11-17T22:00:00-03:00",
   "coletado_em": "2026-11-16T12:17:10-03:00",
   "extra": "Preço a partir de: varia por tamanho e cor"
+ },
+ {
+  "id": "amz-B0BPMQKXQB",
+  "canal": "achadinhos",
+  "nome": "Garrafa Térmica Wolff Aço Inox Parede Dupla Branca",
+  "preco_antigo": 59.0,
+  "preco": 34.9,
+  "desconto": 41,
+  "link": "https://www.amazon.com.br/dp/B0BPMQKXQB?tag=papagarimpou-20",
+  "imagem": "https://m.media-amazon.com/images/I/41fZp4ScmBL._AC_SL1500_.jpg",
+  "loja": "Vendido e entregue pela Amazon",
+  "plataforma": "Amazon",
+  "valida_ate": "2026-11-17T22:00:00-03:00",
+  "coletado_em": "2026-11-16T15:14:06-03:00"
+ },
+ {
+  "id": "amz-B0CMXQ8H1W",
+  "canal": "marcas",
+  "nome": "Whey Protein Concentrado Dux 450g Chocolate",
+  "preco_antigo": 228.8,
+  "preco": 132.7,
+  "desconto": 42,
+  "link": "https://www.amazon.com.br/dp/B0CMXQ8H1W?tag=papagarimpou-20",
+  "imagem": "https://m.media-amazon.com/images/I/61zyilS0qzL._AC_SL1500_.jpg",
+  "loja": "Vendido e entregue pela Amazon",
+  "plataforma": "Amazon",
+  "valida_ate": "2026-11-17T22:00:00-03:00",
+  "coletado_em": "2026-11-16T15:14:06-03:00"
+ },
+ {
+  "id": "amz-B07Y3YDY94",
+  "canal": "marcas",
+  "nome": "Creatina Darkness 300g",
+  "preco_antigo": 79.9,
+  "preco": 40.28,
+  "desconto": 50,
+  "link": "https://www.amazon.com.br/dp/B07Y3YDY94?tag=papagarimpou-20",
+  "imagem": "https://m.media-amazon.com/images/I/81gTX8U-eqL._AC_SL1500_.jpg",
+  "loja": "Vendido e entregue pela Amazon",
+  "plataforma": "Amazon",
+  "valida_ate": "2026-11-17T22:00:00-03:00",
+  "coletado_em": "2026-11-16T15:14:06-03:00"
+ },
+ {
+  "id": "amz-B09KYHJCNM",
+  "canal": "marcas",
+  "nome": "Kit 2 Camisetas Hering Básicas Masculinas",
+  "preco_antigo": 99.99,
+  "preco": 49.9,
+  "desconto": 50,
+  "link": "https://www.amazon.com.br/dp/B09KYHJCNM?tag=papagarimpou-20",
+  "imagem": "https://m.media-amazon.com/images/I/41QthrtcSHL._AC_SL1500_.jpg",
+  "loja": "Vendido e entregue pela Amazon",
+  "plataforma": "Amazon",
+  "valida_ate": "2026-11-17T22:00:00-03:00",
+  "coletado_em": "2026-11-16T15:14:06-03:00",
+  "extra": "Preço a partir de: varia por tamanho e cor",
+  "gancho": "DUAS HERING PELO PREÇO DE UMA"
  }
 ]
