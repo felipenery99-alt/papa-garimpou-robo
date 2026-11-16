@@ -5,12 +5,6 @@
   "ultimo": "2026-11-14T01:03+00:00",
   "texto": "canal marcas sem oferta na fila há 52 min (busca extra também não achou). Abastecer ofertas_manuais.json."
  },
- "⚠️ Fila vazia (achadinhos), último garimpo #:# — abrir o app Claude e conferir a": {
-  "primeiro": "2026-11-13T15:12+00:00",
-  "vezes": 1,
-  "ultimo": "2026-11-13T15:12+00:00",
-  "texto": "⚠️ Fila vazia (achadinhos), último garimpo 08:17 — abrir o app Claude e conferir as rotinas"
- },
  "erro em #-#-# marcas #:# amz-B#F#CLCF#T: ('Connection aborted.', ConnectionReset": {
   "primeiro": "2026-11-13T17:39+00:00",
   "vezes": 1,
@@ -82,5 +76,17 @@
   "vezes": 1,
   "ultimo": "2026-11-16T15:06+00:00",
   "texto": "canal geral não recebeu shopee-44106064553: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
+ },
+ "Instagram: parceria grupodiv-# falhou: ('Connection aborted.', ConnectionResetEr": {
+  "primeiro": "2026-11-16T15:13+00:00",
+  "vezes": 1,
+  "ultimo": "2026-11-16T15:13+00:00",
+  "texto": "Instagram: parceria grupodiv-20261116 falhou: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
+ },
+ "erro em #-#-# achadinhos #:# amz-B#DD#KQWZF (envio ao Telegram): ('Connection ab": {
+  "primeiro": "2026-11-16T15:42+00:00",
+  "vezes": 1,
+  "ultimo": "2026-11-16T15:42+00:00",
+  "texto": "erro em 2026-11-16 achadinhos 12:42 amz-B0DD5KQWZF (envio ao Telegram): ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer')). Não postei."
  }
 }
