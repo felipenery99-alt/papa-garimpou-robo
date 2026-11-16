@@ -3142,8 +3142,8 @@
    "⚠️ Fila vazia (tech), último garimpo 14/11 18:18 — abrir o app Claude e conferir as rotinas",
    "⚠️ Fila vazia (marcas), último garimpo 15:24 — abrir o app Claude e conferir as rotinas"
   ],
-  "ultima_execucao": "22:21",
-  "execucoes": 22,
+  "ultima_execucao": "23:07",
+  "execucoes": 23,
   "telegram_posts": {
    "achadinhos": 46,
    "marcas": 36,
@@ -5838,13 +5838,21 @@
    "shopee-49664800361": "vendas longe",
    "shopee-19699208321": "vendas longe",
    "shopee-43929175575": "vendas longe",
-   "shopee-23393680005": "vendas longe"
+   "shopee-23393680005": "vendas longe",
+   "shopee-49667389593": "vendas longe",
+   "shopee-58213442266": "vendas longe",
+   "shopee-58272194828": "nota",
+   "shopee-58222185516": "nota",
+   "shopee-23094897891": "vendas longe",
+   "shopee-23498712120": "vendas perto (125+)",
+   "shopee-58256296048": "desconto longe",
+   "shopee-58258890166": "vendas perto (125+)"
   },
   "shopee_oficial": {
-   "vendas longe": 1392,
-   "nota": 858,
-   "vendas perto (125+)": 105,
-   "desconto longe": 67,
+   "vendas longe": 1395,
+   "nota": 860,
+   "vendas perto (125+)": 107,
+   "desconto longe": 68,
    "aprovada": 63,
    "outro: marca fora da lista boa": 60,
    "desconto perto (até 10 pts)": 26,
@@ -6179,12 +6187,12 @@
    "seguidores": 501,
    "posts": 126,
    "reach": 2316,
-   "profile_views": 71,
+   "profile_views": 74,
    "website_clicks": 0,
    "stories_ativos": 22
   },
   "reels_alcance": {
-   "atualizado": "2026-11-15T22:21:34.789653-03:00",
+   "atualizado": "2026-11-15T23:07:03.918588-03:00",
    "itens": [
     {
      "id": "18230902090331796",
