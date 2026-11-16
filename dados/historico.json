@@ -1477,7 +1477,13 @@
   "2026-11-15 tech 19:56 amz-B0HJRY43GG",
   "2026-11-15 achadinhos 20:03 amz-B01HOJIK5Q",
   "2026-11-15 marcas 20:11 amz-B0FHJCCP4D",
-  "2026-11-15 tech 20:18 amz-B0DHL76W5V"
+  "2026-11-15 tech 20:18 amz-B0DHL76W5V",
+  "2026-11-15 achadinhos 20:25 amz-B09GSRB2CM",
+  "2026-11-15 marcas 20:32 amz-B0FB32WZSB",
+  "2026-11-15 tech 20:40 amz-B08B459R11",
+  "2026-11-15 achadinhos 20:48 amz-B093RXHCLR",
+  "2026-11-15 marcas 20:55 amz-B0F1CLFQRY",
+  "2026-11-15 tech 21:01 amz-B01MTTMPKT"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -2892,7 +2898,13 @@
   "amz-B0HJRY43GG": "2026-11-15T19:56:36.761202-03:00",
   "amz-B01HOJIK5Q": "2026-11-15T20:03:55.483334-03:00",
   "amz-B0FHJCCP4D": "2026-11-15T20:11:01.918158-03:00",
-  "amz-B0DHL76W5V": "2026-11-15T20:18:38.096616-03:00"
+  "amz-B0DHL76W5V": "2026-11-15T20:18:38.096616-03:00",
+  "amz-B09GSRB2CM": "2026-11-15T20:25:36.162811-03:00",
+  "amz-B0FB32WZSB": "2026-11-15T20:32:34.077405-03:00",
+  "amz-B08B459R11": "2026-11-15T20:40:35.843429-03:00",
+  "amz-B093RXHCLR": "2026-11-15T20:48:06.313577-03:00",
+  "amz-B0F1CLFQRY": "2026-11-15T20:55:04.944994-03:00",
+  "amz-B01MTTMPKT": "2026-11-15T21:01:43.823321-03:00"
  },
  "ofertas_dia": [
   {
@@ -19269,6 +19281,108 @@
    "preco_em": "2026-11-15T18:15:00-03:00",
    "entrou": "2026-11-15T18:33:54.933937-03:00",
    "dia": "2026-11-15"
+  },
+  {
+   "id": "amz-B09GSRB2CM",
+   "canal": "achadinhos",
+   "nome": "Máscara L'Oréal Professionnel Serie Expert Inforcer",
+   "preco_antigo": 214.9,
+   "preco": 144.3,
+   "desconto": 33,
+   "link": "https://www.amazon.com.br/dp/B09GSRB2CM?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51PyOKI9-iL.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-16T22:00:00-03:00",
+   "coletado_em": "2026-11-15T18:15:00-03:00",
+   "preco_em": "2026-11-15T18:15:00-03:00",
+   "entrou": "2026-11-15T18:33:54.933937-03:00",
+   "dia": "2026-11-15"
+  },
+  {
+   "id": "amz-B0FB32WZSB",
+   "canal": "marcas",
+   "nome": "Mochila Puma Phase Preto/Azul",
+   "preco_antigo": 229.99,
+   "preco": 159.9,
+   "desconto": 30,
+   "link": "https://www.amazon.com.br/dp/B0FB32WZSB?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61E9MCMfxGL.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-16T22:00:00-03:00",
+   "coletado_em": "2026-11-15T18:15:00-03:00",
+   "preco_em": "2026-11-15T18:15:00-03:00",
+   "entrou": "2026-11-15T18:33:54.933937-03:00",
+   "dia": "2026-11-15"
+  },
+  {
+   "id": "amz-B08B459R11",
+   "canal": "tech",
+   "nome": "Mouse Gamer Logitech G203 Lightsync RGB",
+   "preco_antigo": 169.9,
+   "preco": 80.91,
+   "desconto": 52,
+   "link": "https://www.amazon.com.br/dp/B08B459R11?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/512M0CAOftL.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-16T22:00:00-03:00",
+   "coletado_em": "2026-11-15T18:15:00-03:00",
+   "preco_em": "2026-11-15T18:15:00-03:00",
+   "entrou": "2026-11-15T18:33:54.933937-03:00",
+   "dia": "2026-11-15"
+  },
+  {
+   "id": "amz-B093RXHCLR",
+   "canal": "achadinhos",
+   "nome": "Cafeteira Oster Inox 1,2L 110V",
+   "preco_antigo": 214.9,
+   "preco": 129.61,
+   "desconto": 40,
+   "link": "https://www.amazon.com.br/dp/B093RXHCLR?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/41Yf63txCWL.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-16T22:00:00-03:00",
+   "coletado_em": "2026-11-15T18:15:00-03:00",
+   "preco_em": "2026-11-15T18:15:00-03:00",
+   "entrou": "2026-11-15T18:33:54.933937-03:00",
+   "dia": "2026-11-15"
+  },
+  {
+   "id": "amz-B0F1CLFQRY",
+   "canal": "marcas",
+   "nome": "Kit 2 Camisetas Reserva Brasa Pica-Pau Bordado",
+   "preco_antigo": 219.8,
+   "preco": 143.1,
+   "desconto": 35,
+   "link": "https://www.amazon.com.br/dp/B0F1CLFQRY?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/31b151nzlVL.jpg",
+   "loja": "Loja oficial Reserva · entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-16T22:00:00-03:00",
+   "coletado_em": "2026-11-15T18:15:00-03:00",
+   "preco_em": "2026-11-15T18:15:00-03:00",
+   "entrou": "2026-11-15T18:33:54.933937-03:00",
+   "dia": "2026-11-15"
+  },
+  {
+   "id": "amz-B01MTTMPKT",
+   "canal": "tech",
+   "nome": "Webcam Logitech C922 Pro Stream Full HD",
+   "preco_antigo": 699.9,
+   "preco": 494.91,
+   "desconto": 29,
+   "link": "https://www.amazon.com.br/dp/B01MTTMPKT?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/513xBpxK0IL.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-16T22:00:00-03:00",
+   "coletado_em": "2026-11-15T18:15:00-03:00",
+   "preco_em": "2026-11-15T18:15:00-03:00",
+   "entrou": "2026-11-15T18:33:54.933937-03:00",
+   "dia": "2026-11-15"
   }
  ],
  "ig_feitos": [
@@ -19386,9 +19500,11 @@
   "2026-11-15 18:09 story_oferta",
   "2026-11-15 18:30 reels",
   "2026-11-15 18:42 story_oferta",
-  "2026-11-15 feed",
   "2026-11-15 19:15 post_achado",
-  "2026-11-15 19:17 story_oferta"
+  "2026-11-15 19:17 story_oferta",
+  "2026-11-15 20:30 reels",
+  "2026-11-15 20:35 story_top4",
+  "2026-11-15 20:38 story_oferta"
  ],
  "ig_ofertas_usadas": [
   "amz-B0CJ3WFW9H",
@@ -19594,7 +19710,7 @@
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
- "ig_ultimo_reel": "2026-11-15T18:33:54.933937-03:00",
+ "ig_ultimo_reel": "2026-11-15T20:32:11.675179-03:00",
  "pecas_usadas": {
   "ac-preco-inflado": "2026-10-27",
   "dc-7-dias": "2026-10-27",
@@ -19681,45 +19797,14 @@
   "ac-foto-perfeita": "2026-11-15",
   "bs-gratis": "2026-11-15",
   "cv-salario": "2026-11-15",
-  "bs-silenciar": "2026-11-15"
+  "bs-silenciar": "2026-11-15",
+  "ac-bf-antecipada": "2026-11-15"
  },
  "pecas_dia": {
-  "2026-11-15": 13
+  "2026-11-15": 14
  },
- "ultimo_pilar": "bastidor",
+ "ultimo_pilar": "anticilada",
  "fila": [
-  {
-   "id": "amz-B09GSRB2CM",
-   "canal": "achadinhos",
-   "nome": "Máscara L'Oréal Professionnel Serie Expert Inforcer",
-   "preco_antigo": 214.9,
-   "preco": 144.3,
-   "desconto": 33,
-   "link": "https://www.amazon.com.br/dp/B09GSRB2CM?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51PyOKI9-iL.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-16T22:00:00-03:00",
-   "coletado_em": "2026-11-15T18:15:00-03:00",
-   "preco_em": "2026-11-15T18:15:00-03:00",
-   "entrou": "2026-11-15T18:33:54.933937-03:00"
-  },
-  {
-   "id": "amz-B093RXHCLR",
-   "canal": "achadinhos",
-   "nome": "Cafeteira Oster Inox 1,2L 110V",
-   "preco_antigo": 214.9,
-   "preco": 129.61,
-   "desconto": 40,
-   "link": "https://www.amazon.com.br/dp/B093RXHCLR?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/41Yf63txCWL.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-16T22:00:00-03:00",
-   "coletado_em": "2026-11-15T18:15:00-03:00",
-   "preco_em": "2026-11-15T18:15:00-03:00",
-   "entrou": "2026-11-15T18:33:54.933937-03:00"
-  },
   {
    "id": "amz-B09GSPW5BH",
    "canal": "achadinhos",
@@ -19849,38 +19934,6 @@
    "entrou": "2026-11-15T18:33:54.933937-03:00"
   },
   {
-   "id": "amz-B0FB32WZSB",
-   "canal": "marcas",
-   "nome": "Mochila Puma Phase Preto/Azul",
-   "preco_antigo": 229.99,
-   "preco": 159.9,
-   "desconto": 30,
-   "link": "https://www.amazon.com.br/dp/B0FB32WZSB?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61E9MCMfxGL.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-16T22:00:00-03:00",
-   "coletado_em": "2026-11-15T18:15:00-03:00",
-   "preco_em": "2026-11-15T18:15:00-03:00",
-   "entrou": "2026-11-15T18:33:54.933937-03:00"
-  },
-  {
-   "id": "amz-B0F1CLFQRY",
-   "canal": "marcas",
-   "nome": "Kit 2 Camisetas Reserva Brasa Pica-Pau Bordado",
-   "preco_antigo": 219.8,
-   "preco": 143.1,
-   "desconto": 35,
-   "link": "https://www.amazon.com.br/dp/B0F1CLFQRY?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/31b151nzlVL.jpg",
-   "loja": "Loja oficial Reserva · entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-16T22:00:00-03:00",
-   "coletado_em": "2026-11-15T18:15:00-03:00",
-   "preco_em": "2026-11-15T18:15:00-03:00",
-   "entrou": "2026-11-15T18:33:54.933937-03:00"
-  },
-  {
    "id": "amz-B0CGMNF4VC",
    "canal": "marcas",
    "nome": "Camiseta Hering Masculina Algodão Peruano",
@@ -19938,38 +19991,6 @@
    "link": "https://www.amazon.com.br/dp/B0CKS4Q5MV?tag=papagarimpou-20",
    "imagem": "https://m.media-amazon.com/images/I/519Qu-LgJ9L.jpg",
    "loja": "Loja oficial Reserva · entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-16T22:00:00-03:00",
-   "coletado_em": "2026-11-15T18:15:00-03:00",
-   "preco_em": "2026-11-15T18:15:00-03:00",
-   "entrou": "2026-11-15T18:33:54.933937-03:00"
-  },
-  {
-   "id": "amz-B08B459R11",
-   "canal": "tech",
-   "nome": "Mouse Gamer Logitech G203 Lightsync RGB",
-   "preco_antigo": 169.9,
-   "preco": 80.91,
-   "desconto": 52,
-   "link": "https://www.amazon.com.br/dp/B08B459R11?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/512M0CAOftL.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-16T22:00:00-03:00",
-   "coletado_em": "2026-11-15T18:15:00-03:00",
-   "preco_em": "2026-11-15T18:15:00-03:00",
-   "entrou": "2026-11-15T18:33:54.933937-03:00"
-  },
-  {
-   "id": "amz-B01MTTMPKT",
-   "canal": "tech",
-   "nome": "Webcam Logitech C922 Pro Stream Full HD",
-   "preco_antigo": 699.9,
-   "preco": 494.91,
-   "desconto": 29,
-   "link": "https://www.amazon.com.br/dp/B01MTTMPKT?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/513xBpxK0IL.jpg",
-   "loja": "Vendido e entregue pela Amazon",
    "plataforma": "Amazon",
    "valida_ate": "2026-11-16T22:00:00-03:00",
    "coletado_em": "2026-11-15T18:15:00-03:00",
@@ -21386,7 +21407,13 @@
   "caixadesomjblboombox4aprovadagua": "2026-11-15T19:56:36.761202-03:00",
   "jogodefacastramontinapremium3pecas": "2026-11-15T20:03:55.483334-03:00",
   "garrafatermicastanleyaerolighticeflowflipstraw": "2026-11-15T20:11:01.918158-03:00",
-  "fonejblwavebeam2bluetooth": "2026-11-15T20:18:38.096616-03:00"
+  "fonejblwavebeam2bluetooth": "2026-11-15T20:18:38.096616-03:00",
+  "mascaralorealprofessionnelserieexpertinforcer": "2026-11-15T20:25:36.162811-03:00",
+  "mochilapumaphasepretoazul": "2026-11-15T20:32:34.077405-03:00",
+  "mousegamerlogitechg203lightsyncrgb": "2026-11-15T20:40:35.843429-03:00",
+  "cafeteiraosterinox12l110v": "2026-11-15T20:48:06.313577-03:00",
+  "kit2camisetasreservabrasapicapaubordado": "2026-11-15T20:55:04.944994-03:00",
+  "webcamlogitechc922prostreamfullhd": "2026-11-15T21:01:43.823321-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
@@ -21642,6 +21669,11 @@
    "shopee-50559775356"
   ],
   "2026-11-15": [
+   "shopee-21916807534",
+   "shopee-20999203046",
+   "shopee-19646145273",
+   "shopee-19399263103",
+   "shopee-41478796304",
    "shopee-18797677549"
   ]
  },
@@ -21780,7 +21812,7 @@
   "marcas": "2026-11-12T17:56:29.409807-03:00"
  },
  "top10_dia": "2026-11-14",
- "manuais_lidos": "2026-11-15T20:11:01.523044-03:00",
+ "manuais_lidos": "2026-11-15T20:55:00.715662-03:00",
  "reserva_resultado": {
   "2026-11-07": {
    "achadinhos": {
@@ -21985,7 +22017,7 @@
    "hora": "2026-11-11T20:32:35.453128-03:00"
   }
  },
- "ig_respondido_em": "2026-11-15T20:18:33.792225-03:00",
+ "ig_respondido_em": "2026-11-15T20:55:00.715662-03:00",
  "dm_auto": {
   "2026-11-08": {
    "com_palavra": 0,
@@ -22195,6 +22227,12 @@
     "capa": "uma_oferta",
     "legenda": "Manda pra quem tá precisando disso 👇\n😎💎 Secador De Cabelo Taiff Style Profissional Original 2000W\n\nOfertas todo dia no Telegram: papagarimpouofertas 💎\n\nPubli · link de afiliado",
     "url": "https://raw.githubusercontent.com/felipenery99-alt/papa-garimpou-robo/tiktok-midia/20261115-1833-tiktok.mp4"
+   },
+   {
+    "hora": "20:32",
+    "capa": "ate_off",
+    "legenda": "Manda pra quem tá precisando disso 👇\n😎💎 Até 47% OFF em marca boa: os 5 achados do Papa hoje\n\nOfertas todo dia no Telegram: papagarimpouofertas 💎\n\nPubli · link de afiliado",
+    "url": "https://raw.githubusercontent.com/felipenery99-alt/papa-garimpou-robo/tiktok-midia/20261115-2032-tiktok.mp4"
    }
   ]
  },
@@ -22213,7 +22251,7 @@
    "feed": 2
   },
   "2026-11-15": {
-   "story": 19,
+   "story": 21,
    "feed": 2
   }
  },
