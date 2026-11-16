@@ -1509,7 +1509,13 @@
   "2026-11-16 tech 10:27 amz-B0DVCHL7PG",
   "2026-11-16 achadinhos 10:35 amz-B0CLYTHJGC",
   "2026-11-16 marcas 10:42 amz-B0FPGCXSZ1",
-  "2026-11-16 tech 10:49 amz-B0GKD2XXVJ"
+  "2026-11-16 tech 10:49 amz-B0GKD2XXVJ",
+  "2026-11-16 achadinhos 10:55 amz-B0847K369Q",
+  "2026-11-16 marcas 11:03 amz-B0FXMKW8SL",
+  "2026-11-16 tech 11:11 amz-B0FPYLPCLK",
+  "2026-11-16 achadinhos 11:18 amz-B09ZGXWXJL",
+  "2026-11-16 marcas 11:25 amz-B0FBSB719F",
+  "2026-11-16 tech 11:32 amz-B0FFTPGRS9"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -2956,7 +2962,13 @@
   "amz-B0DVCHL7PG": "2026-11-16T10:27:47.696682-03:00",
   "amz-B0CLYTHJGC": "2026-11-16T10:35:46.300667-03:00",
   "amz-B0FPGCXSZ1": "2026-11-16T10:42:08.161063-03:00",
-  "amz-B0GKD2XXVJ": "2026-11-16T10:49:14.263682-03:00"
+  "amz-B0GKD2XXVJ": "2026-11-16T10:49:14.263682-03:00",
+  "amz-B0847K369Q": "2026-11-16T10:55:29.258548-03:00",
+  "amz-B0FXMKW8SL": "2026-11-16T11:03:36.157974-03:00",
+  "amz-B0FPYLPCLK": "2026-11-16T11:11:16.945843-03:00",
+  "amz-B09ZGXWXJL": "2026-11-16T11:18:56.040024-03:00",
+  "amz-B0FBSB719F": "2026-11-16T11:25:43.185044-03:00",
+  "amz-B0FFTPGRS9": "2026-11-16T11:32:22.238991-03:00"
  },
  "ofertas_dia": [
   {
@@ -18785,6 +18797,109 @@
    "preco_em": "2026-11-16T08:24:06-03:00",
    "entrou": "2026-11-16T08:43:27.446331-03:00",
    "dia": "2026-11-16"
+  },
+  {
+   "id": "amz-B0847K369Q",
+   "canal": "achadinhos",
+   "nome": "Escova de Dente Oral-B Purification 2 Unidades",
+   "preco_antigo": 33.67,
+   "preco": 20.64,
+   "desconto": 39,
+   "link": "https://www.amazon.com.br/dp/B0847K369Q?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61xOK-z9aTL.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-17T22:00:00-03:00",
+   "coletado_em": "2026-11-16T08:18:36-03:00",
+   "preco_em": "2026-11-16T08:18:36-03:00",
+   "entrou": "2026-11-16T08:43:27.446331-03:00",
+   "dia": "2026-11-16"
+  },
+  {
+   "id": "amz-B0FXMKW8SL",
+   "canal": "marcas",
+   "nome": "Perfume Calvin Klein Euphoria Solar Elixir Parfum Intense 100ml",
+   "preco_antigo": 849.0,
+   "preco": 500.91,
+   "desconto": 41,
+   "link": "https://www.amazon.com.br/dp/B0FXMKW8SL?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61zUq3ngnKL.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-17T22:00:00-03:00",
+   "coletado_em": "2026-11-16T08:18:36-03:00",
+   "preco_em": "2026-11-16T08:18:36-03:00",
+   "entrou": "2026-11-16T08:43:27.446331-03:00",
+   "dia": "2026-11-16"
+  },
+  {
+   "id": "amz-B0FPYLPCLK",
+   "canal": "tech",
+   "nome": "Celular Samsung Galaxy A17 256GB 8GB RAM",
+   "preco_antigo": 1899.0,
+   "preco": 1258.2,
+   "desconto": 34,
+   "link": "https://www.amazon.com.br/dp/B0FPYLPCLK?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61ZSc3b4s6L.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-17T22:00:00-03:00",
+   "coletado_em": "2026-11-16T08:24:06-03:00",
+   "preco_em": "2026-11-16T08:24:06-03:00",
+   "entrou": "2026-11-16T08:43:27.446331-03:00",
+   "dia": "2026-11-16"
+  },
+  {
+   "id": "amz-B09ZGXWXJL",
+   "canal": "achadinhos",
+   "nome": "Vaporizador Portátil Philips Walita STH3020 110V",
+   "preco_antigo": 399.9,
+   "preco": 189.89,
+   "desconto": 53,
+   "link": "https://www.amazon.com.br/dp/B09ZGXWXJL?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/41Aheh6q8KL.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-17T22:00:00-03:00",
+   "coletado_em": "2026-11-16T08:18:36-03:00",
+   "preco_em": "2026-11-16T08:18:36-03:00",
+   "entrou": "2026-11-16T08:43:27.446331-03:00",
+   "dia": "2026-11-16"
+  },
+  {
+   "id": "amz-B0FBSB719F",
+   "canal": "marcas",
+   "nome": "Tênis Reebok Nanoflex TR 3 Feminino",
+   "preco_antigo": 649.99,
+   "preco": 420.46,
+   "desconto": 35,
+   "link": "https://www.amazon.com.br/dp/B0FBSB719F?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51Ags62TBwL.jpg",
+   "loja": "Vendido por parceiro · entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-17T22:00:00-03:00",
+   "coletado_em": "2026-11-16T08:21:39-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "preco_em": "2026-11-16T08:21:39-03:00",
+   "entrou": "2026-11-16T08:43:27.446331-03:00",
+   "dia": "2026-11-16"
+  },
+  {
+   "id": "amz-B0FFTPGRS9",
+   "canal": "tech",
+   "nome": "Caixa de Som Bluetooth JBL Flip 7 Rosa",
+   "preco_antigo": 899.0,
+   "preco": 616.55,
+   "desconto": 31,
+   "link": "https://www.amazon.com.br/dp/B0FFTPGRS9?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61uX8vck4VL.jpg",
+   "loja": "Vendido por parceiro · entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-17T22:00:00-03:00",
+   "coletado_em": "2026-11-16T08:24:06-03:00",
+   "preco_em": "2026-11-16T08:24:06-03:00",
+   "entrou": "2026-11-16T08:43:27.446331-03:00",
+   "dia": "2026-11-16"
   }
  ],
  "ig_feitos": [
@@ -19201,38 +19316,6 @@
  "ultimo_pilar": "dica",
  "fila": [
   {
-   "id": "amz-B0847K369Q",
-   "canal": "achadinhos",
-   "nome": "Escova de Dente Oral-B Purification 2 Unidades",
-   "preco_antigo": 33.67,
-   "preco": 20.64,
-   "desconto": 39,
-   "link": "https://www.amazon.com.br/dp/B0847K369Q?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61xOK-z9aTL.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-17T22:00:00-03:00",
-   "coletado_em": "2026-11-16T08:18:36-03:00",
-   "preco_em": "2026-11-16T08:18:36-03:00",
-   "entrou": "2026-11-16T08:43:27.446331-03:00"
-  },
-  {
-   "id": "amz-B09ZGXWXJL",
-   "canal": "achadinhos",
-   "nome": "Vaporizador Portátil Philips Walita STH3020 110V",
-   "preco_antigo": 399.9,
-   "preco": 189.89,
-   "desconto": 53,
-   "link": "https://www.amazon.com.br/dp/B09ZGXWXJL?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/41Aheh6q8KL.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-17T22:00:00-03:00",
-   "coletado_em": "2026-11-16T08:18:36-03:00",
-   "preco_em": "2026-11-16T08:18:36-03:00",
-   "entrou": "2026-11-16T08:43:27.446331-03:00"
-  },
-  {
    "id": "amz-B0H51N3X47",
    "canal": "achadinhos",
    "nome": "Liquidificador Britânia 2,3L Vidro 12 Velocidades BLQ14A",
@@ -19329,39 +19412,6 @@
    "entrou": "2026-11-16T08:43:27.446331-03:00"
   },
   {
-   "id": "amz-B0FXMKW8SL",
-   "canal": "marcas",
-   "nome": "Perfume Calvin Klein Euphoria Solar Elixir Parfum Intense 100ml",
-   "preco_antigo": 849.0,
-   "preco": 500.91,
-   "desconto": 41,
-   "link": "https://www.amazon.com.br/dp/B0FXMKW8SL?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61zUq3ngnKL.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-17T22:00:00-03:00",
-   "coletado_em": "2026-11-16T08:18:36-03:00",
-   "preco_em": "2026-11-16T08:18:36-03:00",
-   "entrou": "2026-11-16T08:43:27.446331-03:00"
-  },
-  {
-   "id": "amz-B0FBSB719F",
-   "canal": "marcas",
-   "nome": "Tênis Reebok Nanoflex TR 3 Feminino",
-   "preco_antigo": 649.99,
-   "preco": 420.46,
-   "desconto": 35,
-   "link": "https://www.amazon.com.br/dp/B0FBSB719F?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51Ags62TBwL.jpg",
-   "loja": "Vendido por parceiro · entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-17T22:00:00-03:00",
-   "coletado_em": "2026-11-16T08:21:39-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "preco_em": "2026-11-16T08:21:39-03:00",
-   "entrou": "2026-11-16T08:43:27.446331-03:00"
-  },
-  {
    "id": "amz-B0FR5VXP3G",
    "canal": "marcas",
    "nome": "Growler Térmico Stanley Classic 1,9L Frost Gloss",
@@ -19375,38 +19425,6 @@
    "valida_ate": "2026-11-17T22:00:00-03:00",
    "coletado_em": "2026-11-16T08:18:36-03:00",
    "preco_em": "2026-11-16T08:18:36-03:00",
-   "entrou": "2026-11-16T08:43:27.446331-03:00"
-  },
-  {
-   "id": "amz-B0FPYLPCLK",
-   "canal": "tech",
-   "nome": "Celular Samsung Galaxy A17 256GB 8GB RAM",
-   "preco_antigo": 1899.0,
-   "preco": 1258.2,
-   "desconto": 34,
-   "link": "https://www.amazon.com.br/dp/B0FPYLPCLK?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61ZSc3b4s6L.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-17T22:00:00-03:00",
-   "coletado_em": "2026-11-16T08:24:06-03:00",
-   "preco_em": "2026-11-16T08:24:06-03:00",
-   "entrou": "2026-11-16T08:43:27.446331-03:00"
-  },
-  {
-   "id": "amz-B0FFTPGRS9",
-   "canal": "tech",
-   "nome": "Caixa de Som Bluetooth JBL Flip 7 Rosa",
-   "preco_antigo": 899.0,
-   "preco": 616.55,
-   "desconto": 31,
-   "link": "https://www.amazon.com.br/dp/B0FFTPGRS9?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61uX8vck4VL.jpg",
-   "loja": "Vendido por parceiro · entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-17T22:00:00-03:00",
-   "coletado_em": "2026-11-16T08:24:06-03:00",
-   "preco_em": "2026-11-16T08:24:06-03:00",
    "entrou": "2026-11-16T08:43:27.446331-03:00"
   },
   {
@@ -19620,6 +19638,40 @@
    "link": "https://s.shopee.com.br/3VlqvM0WCJ",
    "canal": "marcas",
    "entrou": "2026-11-16T10:06:22.608196-03:00"
+  },
+  {
+   "id": "shopee-18597753531",
+   "plataforma": "Shopee",
+   "nome": "Aspirador de Pó e Água Wap GTW 10 1400W 10 Litros Amarelo/Preto 127V FW005705",
+   "loja": "Webcontinental ES",
+   "loja_oficial": true,
+   "preco": 262.0,
+   "preco_antigo": 403.08,
+   "desconto": 35,
+   "vendas": 881,
+   "nota": 4.9,
+   "comissao_pct": 7.0,
+   "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdwc-m0z2bbz1q0sn91",
+   "link": "https://s.shopee.com.br/2VtJ5VGeQ9",
+   "canal": "achadinhos",
+   "entrou": "2026-11-16T10:49:43.366728-03:00"
+  },
+  {
+   "id": "shopee-58206236149",
+   "plataforma": "Shopee",
+   "nome": "Caixa de Som Jbl Boombox 4 a Prova de Água - Marrom",
+   "loja": "Rep Store",
+   "loja_oficial": true,
+   "preco": 2599.0,
+   "preco_antigo": 4559.65,
+   "desconto": 43,
+   "vendas": 280,
+   "nota": 4.9,
+   "comissao_pct": 3.0,
+   "imagem": "https://cf.shopee.com.br/file/sg-11134201-8261k-mlf849w40mx1ea",
+   "link": "https://s.shopee.com.br/1qdcIpEFpX",
+   "canal": "tech",
+   "entrou": "2026-11-16T10:49:43.366728-03:00"
   }
  ],
  "menus_fixados": [
@@ -20918,7 +20970,13 @@
   "kittecladoemousesemfiologitechpebble2grafite": "2026-11-16T10:27:47.696682-03:00",
   "parafusadeirafuradeiraboschgsr1000smart12v": "2026-11-16T10:35:46.300667-03:00",
   "chineloaramisthermosmasculino": "2026-11-16T10:42:08.161063-03:00",
-  "smartphonemotorolamotog17128gb4gbram": "2026-11-16T10:49:14.263682-03:00"
+  "smartphonemotorolamotog17128gb4gbram": "2026-11-16T10:49:14.263682-03:00",
+  "escovadedenteoralbpurification2unidades": "2026-11-16T10:55:29.258548-03:00",
+  "perfumecalvinkleineuphoriasolarelixirparfumintense100ml": "2026-11-16T11:03:36.157974-03:00",
+  "celularsamsunggalaxya17256gb8gbram": "2026-11-16T11:11:16.945843-03:00",
+  "vaporizadorportatilphilipswalitasth3020110v": "2026-11-16T11:18:56.040024-03:00",
+  "tenisreeboknanoflextr3feminino": "2026-11-16T11:25:43.185044-03:00",
+  "caixadesombluetoothjblflip7rosa": "2026-11-16T11:32:22.238991-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
@@ -21317,7 +21375,7 @@
   "marcas": "2026-11-12T17:56:29.409807-03:00"
  },
  "top10_dia": "2026-11-14",
- "manuais_lidos": "2026-11-16T10:49:13.815900-03:00",
+ "manuais_lidos": "2026-11-16T11:32:17.270986-03:00",
  "reserva_resultado": {
   "2026-11-07": {
    "achadinhos": {
@@ -21529,7 +21587,7 @@
    "hora": "2026-11-11T20:32:35.453128-03:00"
   }
  },
- "ig_respondido_em": "2026-11-16T10:42:03.607767-03:00",
+ "ig_respondido_em": "2026-11-16T11:32:17.270986-03:00",
  "dm_auto": {
   "2026-11-09": {
    "com_palavra": 0,
