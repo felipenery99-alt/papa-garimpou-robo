@@ -1,33 +1,18 @@
 {
- "dia": "2026-11-14",
+ "dia": "2026-11-16",
  "itens": [
   {
    "tipo": "adivinha",
-   "hora": "15:02",
+   "hora": "15:06",
    "produtos": [
     {
-     "nome": "Aspirador de Pó e Agua Wap Gtw 15 Inox 1700W 14,8L 220V FW008810",
-     "preco_antigo": 824.56,
-     "preco": 470.0,
-     "desconto": 43,
-     "link": "https://s.shopee.com.br/40i1skamws",
-     "loja": "Webcontinental",
-     "canal": "achadinhos"
-    }
-   ]
-  },
-  {
-   "tipo": "adivinha_resposta",
-   "hora": "16:10",
-   "produtos": [
-    {
-     "nome": "Aspirador de Pó e Agua Wap Gtw 15 Inox 1700W 14,8L 220V FW008810",
-     "preco_antigo": 824.56,
-     "preco": 470.0,
-     "desconto": 43,
-     "link": "https://s.shopee.com.br/40i1skamws",
-     "loja": "Webcontinental",
-     "canal": "achadinhos"
+     "nome": "Baseus BP1 Pro ANC Fone De Ouvido Sem Fio-50dB Redução De Ruído De Alta Resolução Bluetooth 6.0 IPX55 À Prova D'água",
+     "preco_antigo": 229.7,
+     "preco": 84.99,
+     "desconto": 63,
+     "link": "https://s.shopee.com.br/AKcCZSL82j",
+     "loja": "Baseus Oficial Store",
+     "canal": "tech"
     }
    ]
   }

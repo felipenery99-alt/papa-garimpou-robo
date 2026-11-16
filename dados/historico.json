@@ -1537,7 +1537,13 @@
   "2026-11-16 tech 14:00 amz-B0FPNSXKKJ",
   "2026-11-16 achadinhos 14:07 shopee-22693266079",
   "2026-11-16 marcas 14:15 amz-B0HDG841K8",
-  "2026-11-16 tech 14:22 amz-B0C3BSZ56D"
+  "2026-11-16 tech 14:22 amz-B0C3BSZ56D",
+  "2026-11-16 achadinhos 14:30 shopee-23094056729",
+  "2026-11-16 marcas 14:38 amz-B0DPJ9W9MM",
+  "2026-11-16 tech 14:45 amz-B0DKLQT9XR",
+  "2026-11-16 achadinhos 14:52 amz-B09GL7S226",
+  "2026-11-16 marcas 14:59 amz-B0D2KHPGDJ",
+  "2026-11-16 tech 15:06 amz-B0HB6MPF6C"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -1751,7 +1757,7 @@
   "nike-004386ID": "2026-10-31T08:27:49.576516-03:00",
   "shopee-21997684262": "2026-11-15T13:17:51.052731-03:00",
   "nike-079609MT": "2026-10-31T08:39:18.146993-03:00",
-  "shopee-23094056729": "2026-11-08T10:25:31.657692-03:00",
+  "shopee-23094056729": "2026-11-16T14:30:54.771087-03:00",
   "shopee-22396095321": "2026-10-31T09:05:11.173180-03:00",
   "nike-014592IE": "2026-10-31T09:09:36.026022-03:00",
   "amz-B0FKV9146V": "2026-10-31T09:14:25.908003-03:00",
@@ -3004,7 +3010,12 @@
   "amz-B0GXLP4H2R": "2026-11-16T13:53:58.890944-03:00",
   "amz-B0FPNSXKKJ": "2026-11-16T14:00:23.486196-03:00",
   "amz-B0HDG841K8": "2026-11-16T14:15:06.155519-03:00",
-  "amz-B0C3BSZ56D": "2026-11-16T14:22:36.802096-03:00"
+  "amz-B0C3BSZ56D": "2026-11-16T14:22:36.802096-03:00",
+  "amz-B0DPJ9W9MM": "2026-11-16T14:38:17.926357-03:00",
+  "amz-B0DKLQT9XR": "2026-11-16T14:45:06.587159-03:00",
+  "amz-B09GL7S226": "2026-11-16T14:52:06.203839-03:00",
+  "amz-B0D2KHPGDJ": "2026-11-16T14:59:15.380883-03:00",
+  "amz-B0HB6MPF6C": "2026-11-16T15:06:57.001966-03:00"
  },
  "ofertas_dia": [
   {
@@ -19265,6 +19276,112 @@
    "preco_em": "2026-11-16T12:14:08-03:00",
    "entrou": "2026-11-16T12:27:28.330926-03:00",
    "dia": "2026-11-16"
+  },
+  {
+   "id": "shopee-23094056729",
+   "plataforma": "Shopee",
+   "nome": "Jogo de Faqueiro Tramontina Búzios 24 Peças Talheres em Aço Inox",
+   "loja": "MONTLAR",
+   "loja_oficial": true,
+   "preco": 79.2,
+   "preco_antigo": 120.0,
+   "desconto": 34,
+   "vendas": 1809,
+   "nota": 4.9,
+   "comissao_pct": 6.0,
+   "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdq0lnzoxgb5c7",
+   "link": "https://s.shopee.com.br/80EG8WvlT8",
+   "canal": "achadinhos",
+   "entrou": "2026-11-16T12:13:45.643361-03:00",
+   "dia": "2026-11-16"
+  },
+  {
+   "id": "amz-B0DPJ9W9MM",
+   "canal": "marcas",
+   "nome": "Kit 2 Camisetas Básicas Hering Masculinas",
+   "preco_antigo": 99.99,
+   "preco": 49.9,
+   "desconto": 50,
+   "link": "https://www.amazon.com.br/dp/B0DPJ9W9MM?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51Gm4gZZYGL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-17T22:00:00-03:00",
+   "coletado_em": "2026-11-16T12:14:08-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "gancho": "DUAS HERING PELO PREÇO DE UMA",
+   "preco_em": "2026-11-16T12:14:08-03:00",
+   "entrou": "2026-11-16T12:27:28.330926-03:00",
+   "dia": "2026-11-16"
+  },
+  {
+   "id": "amz-B0DKLQT9XR",
+   "canal": "tech",
+   "nome": "Amazon Echo Dot Max com Alexa",
+   "preco_antigo": 999.0,
+   "preco": 759.01,
+   "desconto": 24,
+   "link": "https://www.amazon.com.br/dp/B0DKLQT9XR?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71J0hF-lw+L._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-17T22:00:00-03:00",
+   "coletado_em": "2026-11-16T12:14:08-03:00",
+   "preco_em": "2026-11-16T12:14:08-03:00",
+   "entrou": "2026-11-16T12:27:28.330926-03:00",
+   "dia": "2026-11-16"
+  },
+  {
+   "id": "amz-B09GL7S226",
+   "canal": "achadinhos",
+   "nome": "Escova Elétrica Philips Colgate SonicPro 70 + 3 Refis",
+   "preco_antigo": 1846.97,
+   "preco": 881.25,
+   "desconto": 52,
+   "link": "https://www.amazon.com.br/dp/B09GL7S226?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71jjYNory3L._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-17T22:00:00-03:00",
+   "coletado_em": "2026-11-16T12:14:08-03:00",
+   "preco_em": "2026-11-16T12:14:08-03:00",
+   "entrou": "2026-11-16T12:27:28.330926-03:00",
+   "dia": "2026-11-16"
+  },
+  {
+   "id": "amz-B0D2KHPGDJ",
+   "canal": "marcas",
+   "nome": "Tênis Puma R78 Lightwind",
+   "preco_antigo": 270.6,
+   "preco": 189.46,
+   "desconto": 30,
+   "link": "https://www.amazon.com.br/dp/B0D2KHPGDJ?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71yx28pBttL._AC_SL1500_.jpg",
+   "loja": "Vendido pela Netshoes · entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-17T22:00:00-03:00",
+   "coletado_em": "2026-11-16T12:14:08-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "preco_em": "2026-11-16T12:14:08-03:00",
+   "entrou": "2026-11-16T12:27:28.330926-03:00",
+   "dia": "2026-11-16"
+  },
+  {
+   "id": "amz-B0HB6MPF6C",
+   "canal": "tech",
+   "nome": "Monitor Gamer LG UltraGear 27\" IPS 200Hz 1ms",
+   "preco_antigo": 1049.0,
+   "preco": 799.0,
+   "desconto": 24,
+   "link": "https://www.amazon.com.br/dp/B0HB6MPF6C?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61CB-udVQLL._AC_SL1200_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-17T22:00:00-03:00",
+   "coletado_em": "2026-11-16T12:14:08-03:00",
+   "preco_em": "2026-11-16T12:14:08-03:00",
+   "entrou": "2026-11-16T12:27:28.330926-03:00",
+   "dia": "2026-11-16"
   }
  ],
  "ig_feitos": [
@@ -19383,11 +19500,11 @@
   "2026-11-16 12:19 story_oferta",
   "2026-11-16 12:47 story_oferta",
   "2026-11-16 13:22 story_oferta",
-  "2026-11-16 14:08 story_oferta"
+  "2026-11-16 14:08 story_oferta",
+  "2026-11-16 15:00 adivinha",
+  "2026-11-16 15:03 story_oferta"
  ],
  "ig_ofertas_usadas": [
-  "amz-B0CGCHWKH1",
-  "amz-B07MRMHML9",
   "amz-B09KYB18ZY",
   "amz-B0C2JFGFK9",
   "amz-B0CT5X3YM1",
@@ -19585,7 +19702,9 @@
   "shopee-44106064553",
   "shopee-22194331598",
   "shopee-58206236149",
-  "shopee-21616812729"
+  "shopee-21616812729",
+  "shopee-41253171051",
+  "shopee-23204913091"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
@@ -19697,39 +19816,6 @@
  "ultimo_pilar": "dica",
  "fila": [
   {
-   "id": "shopee-23094056729",
-   "plataforma": "Shopee",
-   "nome": "Jogo de Faqueiro Tramontina Búzios 24 Peças Talheres em Aço Inox",
-   "loja": "MONTLAR",
-   "loja_oficial": true,
-   "preco": 79.2,
-   "preco_antigo": 120.0,
-   "desconto": 34,
-   "vendas": 1809,
-   "nota": 4.9,
-   "comissao_pct": 6.0,
-   "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdq0lnzoxgb5c7",
-   "link": "https://s.shopee.com.br/80EG8WvlT8",
-   "canal": "achadinhos",
-   "entrou": "2026-11-16T12:13:45.643361-03:00"
-  },
-  {
-   "id": "amz-B09GL7S226",
-   "canal": "achadinhos",
-   "nome": "Escova Elétrica Philips Colgate SonicPro 70 + 3 Refis",
-   "preco_antigo": 1846.97,
-   "preco": 881.25,
-   "desconto": 52,
-   "link": "https://www.amazon.com.br/dp/B09GL7S226?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/71jjYNory3L._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-17T22:00:00-03:00",
-   "coletado_em": "2026-11-16T12:14:08-03:00",
-   "preco_em": "2026-11-16T12:14:08-03:00",
-   "entrou": "2026-11-16T12:27:28.330926-03:00"
-  },
-  {
    "id": "amz-B00LGRMA2W",
    "canal": "achadinhos",
    "nome": "Perfume Gabriela Sabatini Miss Gabriela Night EDT 30ml",
@@ -19825,41 +19911,6 @@
    "plataforma": "Amazon",
    "valida_ate": "2026-11-17T22:00:00-03:00",
    "coletado_em": "2026-11-16T12:14:08-03:00",
-   "preco_em": "2026-11-16T12:14:08-03:00",
-   "entrou": "2026-11-16T12:27:28.330926-03:00"
-  },
-  {
-   "id": "amz-B0DPJ9W9MM",
-   "canal": "marcas",
-   "nome": "Kit 2 Camisetas Básicas Hering Masculinas",
-   "preco_antigo": 99.99,
-   "preco": 49.9,
-   "desconto": 50,
-   "link": "https://www.amazon.com.br/dp/B0DPJ9W9MM?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51Gm4gZZYGL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-17T22:00:00-03:00",
-   "coletado_em": "2026-11-16T12:14:08-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "gancho": "DUAS HERING PELO PREÇO DE UMA",
-   "preco_em": "2026-11-16T12:14:08-03:00",
-   "entrou": "2026-11-16T12:27:28.330926-03:00"
-  },
-  {
-   "id": "amz-B0D2KHPGDJ",
-   "canal": "marcas",
-   "nome": "Tênis Puma R78 Lightwind",
-   "preco_antigo": 270.6,
-   "preco": 189.46,
-   "desconto": 30,
-   "link": "https://www.amazon.com.br/dp/B0D2KHPGDJ?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/71yx28pBttL._AC_SL1500_.jpg",
-   "loja": "Vendido pela Netshoes · entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-17T22:00:00-03:00",
-   "coletado_em": "2026-11-16T12:14:08-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
    "preco_em": "2026-11-16T12:14:08-03:00",
    "entrou": "2026-11-16T12:27:28.330926-03:00"
   },
@@ -19997,38 +20048,6 @@
    "coletado_em": "2026-11-16T12:17:10-03:00",
    "extra": "Preço a partir de: varia por tamanho e cor",
    "preco_em": "2026-11-16T12:17:10-03:00",
-   "entrou": "2026-11-16T12:27:28.330926-03:00"
-  },
-  {
-   "id": "amz-B0DKLQT9XR",
-   "canal": "tech",
-   "nome": "Amazon Echo Dot Max com Alexa",
-   "preco_antigo": 999.0,
-   "preco": 759.01,
-   "desconto": 24,
-   "link": "https://www.amazon.com.br/dp/B0DKLQT9XR?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/71J0hF-lw+L._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-17T22:00:00-03:00",
-   "coletado_em": "2026-11-16T12:14:08-03:00",
-   "preco_em": "2026-11-16T12:14:08-03:00",
-   "entrou": "2026-11-16T12:27:28.330926-03:00"
-  },
-  {
-   "id": "amz-B0HB6MPF6C",
-   "canal": "tech",
-   "nome": "Monitor Gamer LG UltraGear 27\" IPS 200Hz 1ms",
-   "preco_antigo": 1049.0,
-   "preco": 799.0,
-   "desconto": 24,
-   "link": "https://www.amazon.com.br/dp/B0HB6MPF6C?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61CB-udVQLL._AC_SL1200_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-17T22:00:00-03:00",
-   "coletado_em": "2026-11-16T12:14:08-03:00",
-   "preco_em": "2026-11-16T12:14:08-03:00",
    "entrou": "2026-11-16T12:27:28.330926-03:00"
   },
   {
@@ -20340,7 +20359,7 @@
   "camisetajordansportswearjumpmanairmasculina": "2026-10-31T08:27:49.576516-03:00",
   "sanduicheiraegrillbritania2em1750wbgre01": "2026-11-15T13:17:51.052731-03:00",
   "camisetacorinthiansnike2026treinomasculina": "2026-10-31T08:39:18.146993-03:00",
-  "jogodefaqueirotramontinabuzios24pecastalheresemacoinox": "2026-11-08T10:25:31.657692-03:00",
+  "jogodefaqueirotramontinabuzios24pecastalheresemacoinox": "2026-11-16T14:30:54.771087-03:00",
   "sanduicheiraegrillbritaniabgr27ipress2em1850w": "2026-10-31T09:05:11.173180-03:00",
   "tenisnikesbchron2canvasunissex": "2026-10-31T09:09:36.026022-03:00",
   "headsetgamerjblquantum250comcancelamentoderuido": "2026-10-31T09:14:25.908003-03:00",
@@ -21590,7 +21609,12 @@
   "kit6paresdemeiaslupoinvisiveismasculinas": "2026-11-16T13:53:58.890944-03:00",
   "caixadesomjblgoessential2vermelha": "2026-11-16T14:00:23.486196-03:00",
   "dailywheyproteingrowth800gmorango": "2026-11-16T14:15:06.155519-03:00",
-  "headsetgamerhyperxcloudiiipcps5xbox": "2026-11-16T14:22:36.802096-03:00"
+  "headsetgamerhyperxcloudiiipcps5xbox": "2026-11-16T14:22:36.802096-03:00",
+  "kit2camisetasbasicasheringmasculinas": "2026-11-16T14:38:17.926357-03:00",
+  "amazonechodotmaxcomalexa": "2026-11-16T14:45:06.587159-03:00",
+  "escovaeletricaphilipscolgatesonicpro703refis": "2026-11-16T14:52:06.203839-03:00",
+  "tenispumar78lightwind": "2026-11-16T14:59:15.380883-03:00",
+  "monitorgamerlgultragear27ips200hz1ms": "2026-11-16T15:06:57.001966-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
@@ -21920,24 +21944,24 @@
  },
  "tg_offset": 354369952,
  "adivinha": {
-  "dia": "2026-11-14",
+  "dia": "2026-11-16",
   "oferta": {
-   "id": "shopee-23494293697",
+   "id": "shopee-41253171051",
    "plataforma": "Shopee",
-   "nome": "Aspirador de Pó e Agua Wap Gtw 15 Inox 1700W 14,8L 220V FW008810",
-   "loja": "Webcontinental",
+   "nome": "Baseus BP1 Pro ANC Fone De Ouvido Sem Fio-50dB Redução De Ruído De Alta Resolução Bluetooth 6.0 IPX55 À Prova D'água",
+   "loja": "Baseus Oficial Store",
    "loja_oficial": true,
-   "preco": 470.0,
-   "preco_antigo": 824.56,
-   "desconto": 43,
-   "vendas": 262,
+   "preco": 84.99,
+   "preco_antigo": 229.7,
+   "desconto": 63,
+   "vendas": 890,
    "nota": 4.9,
    "comissao_pct": 7.0,
-   "imagem": "https://cf.shopee.com.br/file/sg-11134201-8259z-mr1v6lcmq9dz2f",
-   "link": "https://s.shopee.com.br/40i1skamws",
-   "canal": "achadinhos",
-   "entrou": "2026-11-14T09:48:32.785907-03:00",
-   "dia": "2026-11-14"
+   "imagem": "https://cf.shopee.com.br/file/cn-11134207-820l4-msv0wwv7avb661",
+   "link": "https://s.shopee.com.br/AKcCZSL82j",
+   "canal": "tech",
+   "entrou": "2026-11-16T12:13:45.643361-03:00",
+   "dia": "2026-11-16"
   }
  },
  "ig_dm_links": {
@@ -21989,7 +22013,7 @@
   "marcas": "2026-11-12T17:56:29.409807-03:00"
  },
  "top10_dia": "2026-11-14",
- "manuais_lidos": "2026-11-16T14:22:36.411739-03:00",
+ "manuais_lidos": "2026-11-16T15:06:19.507429-03:00",
  "reserva_resultado": {
   "2026-11-07": {
    "achadinhos": {
@@ -22201,7 +22225,7 @@
    "hora": "2026-11-11T20:32:35.453128-03:00"
   }
  },
- "ig_respondido_em": "2026-11-16T14:14:50.526121-03:00",
+ "ig_respondido_em": "2026-11-16T15:06:19.507429-03:00",
  "dm_auto": {
   "2026-11-09": {
    "com_palavra": 0,
@@ -22443,7 +22467,7 @@
    "feed": 2
   },
   "2026-11-16": {
-   "story": 13,
+   "story": 15,
    "feed": 1
   }
  },
