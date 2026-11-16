@@ -1577,7 +1577,13 @@
   "2026-11-16 tech 18:51 amz-B0FS94XK4K",
   "2026-11-16 achadinhos 18:59 amz-B08HZHH47D",
   "2026-11-16 marcas 19:06 amz-B08T9X7B8J",
-  "2026-11-16 tech 19:14 amz-B0D4NRBBMR"
+  "2026-11-16 tech 19:14 amz-B0D4NRBBMR",
+  "2026-11-16 achadinhos 19:20 amz-B09JCQLC7D",
+  "2026-11-16 marcas 19:28 amz-B0D7MZJ6V3",
+  "2026-11-16 tech 19:35 amz-B0BX52PCJ5",
+  "2026-11-16 achadinhos 19:42 amz-B0C9FJQ1WQ",
+  "2026-11-16 marcas 19:49 amz-B0FH3YDT4L",
+  "2026-11-16 tech 19:56 amz-B0844MSVD3"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -3083,7 +3089,13 @@
   "amz-B0FS94XK4K": "2026-11-16T18:51:23.515644-03:00",
   "amz-B08HZHH47D": "2026-11-16T18:59:00.350580-03:00",
   "amz-B08T9X7B8J": "2026-11-16T19:06:25.137985-03:00",
-  "amz-B0D4NRBBMR": "2026-11-16T19:14:04.605404-03:00"
+  "amz-B0D4NRBBMR": "2026-11-16T19:14:04.605404-03:00",
+  "amz-B09JCQLC7D": "2026-11-16T19:20:39.798848-03:00",
+  "amz-B0D7MZJ6V3": "2026-11-16T19:28:19.795810-03:00",
+  "amz-B0BX52PCJ5": "2026-11-16T19:35:10.082594-03:00",
+  "amz-B0C9FJQ1WQ": "2026-11-16T19:42:04.318148-03:00",
+  "amz-B0FH3YDT4L": "2026-11-16T19:49:24.716637-03:00",
+  "amz-B0844MSVD3": "2026-11-16T19:56:44.703853-03:00"
  },
  "ofertas_dia": [
   {
@@ -19933,6 +19945,111 @@
    "preco_em": "2026-11-16T08:24:06-03:00",
    "entrou": "2026-11-16T17:02:09.425884-03:00",
    "dia": "2026-11-16"
+  },
+  {
+   "id": "amz-B09JCQLC7D",
+   "canal": "achadinhos",
+   "nome": "Kit 10 Potes de Vidro Herméticos Oikos",
+   "preco_antigo": 202.97,
+   "preco": 79.9,
+   "desconto": 61,
+   "link": "https://www.amazon.com.br/dp/B09JCQLC7D?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/616-Dra0CyL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-17T22:00:00-03:00",
+   "coletado_em": "2026-11-16T18:16:59-03:00",
+   "gancho": "POTE DE VIDRO PRA ORGANIZAR A COZINHA TODA",
+   "preco_em": "2026-11-16T18:16:59-03:00",
+   "entrou": "2026-11-16T18:21:48.058175-03:00",
+   "dia": "2026-11-16"
+  },
+  {
+   "id": "amz-B0D7MZJ6V3",
+   "canal": "marcas",
+   "nome": "Tênis Skechers Go Run Consistent 2 Masculino",
+   "preco_antigo": 449.99,
+   "preco": 329.9,
+   "desconto": 27,
+   "link": "https://www.amazon.com.br/dp/B0D7MZJ6V3?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/81-Ub3D8KNL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-17T22:00:00-03:00",
+   "coletado_em": "2026-11-16T12:17:10-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "preco_em": "2026-11-16T12:17:10-03:00",
+   "entrou": "2026-11-16T16:39:10.064259-03:00",
+   "dia": "2026-11-16"
+  },
+  {
+   "id": "amz-B0BX52PCJ5",
+   "canal": "tech",
+   "nome": "Mouse Gamer HyperX Pulsefire Haste 2",
+   "preco_antigo": 246.9,
+   "preco": 149.99,
+   "desconto": 39,
+   "link": "https://www.amazon.com.br/dp/B0BX52PCJ5?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/613O4O2dNQL.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-17T22:00:00-03:00",
+   "coletado_em": "2026-11-16T08:24:06-03:00",
+   "preco_em": "2026-11-16T08:24:06-03:00",
+   "entrou": "2026-11-16T17:02:09.425884-03:00",
+   "dia": "2026-11-16"
+  },
+  {
+   "id": "amz-B0C9FJQ1WQ",
+   "canal": "achadinhos",
+   "nome": "Secador de Cabelo GA.MA Italy Lichia",
+   "preco_antigo": 249.9,
+   "preco": 140.0,
+   "desconto": 44,
+   "link": "https://www.amazon.com.br/dp/B0C9FJQ1WQ?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/41SKap2yyhL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-17T22:00:00-03:00",
+   "coletado_em": "2026-11-16T18:16:59-03:00",
+   "preco_em": "2026-11-16T18:16:59-03:00",
+   "entrou": "2026-11-16T18:21:48.058175-03:00",
+   "dia": "2026-11-16"
+  },
+  {
+   "id": "amz-B0FH3YDT4L",
+   "canal": "marcas",
+   "nome": "Tênis FILA Comet 2 Feminino",
+   "preco_antigo": 399.99,
+   "preco": 199.49,
+   "desconto": 50,
+   "link": "https://www.amazon.com.br/dp/B0FH3YDT4L?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51O9kNkEOXL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-17T22:00:00-03:00",
+   "coletado_em": "2026-11-16T12:17:10-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "preco_em": "2026-11-16T12:17:10-03:00",
+   "entrou": "2026-11-16T16:39:10.064259-03:00",
+   "dia": "2026-11-16"
+  },
+  {
+   "id": "amz-B0844MSVD3",
+   "canal": "tech",
+   "nome": "HD Externo Portátil WD 1TB",
+   "preco_antigo": 1283.73,
+   "preco": 865.46,
+   "desconto": 33,
+   "link": "https://www.amazon.com.br/dp/B0844MSVD3?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51h4xi-KQRL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-17T22:00:00-03:00",
+   "coletado_em": "2026-11-16T18:16:59-03:00",
+   "preco_em": "2026-11-16T18:16:59-03:00",
+   "entrou": "2026-11-16T18:21:48.058175-03:00",
+   "dia": "2026-11-16"
   }
  ],
  "ig_feitos": [
@@ -20379,40 +20496,6 @@
  "ultimo_pilar": "mito",
  "fila": [
   {
-   "id": "amz-B0D7MZJ6V3",
-   "canal": "marcas",
-   "nome": "Tênis Skechers Go Run Consistent 2 Masculino",
-   "preco_antigo": 449.99,
-   "preco": 329.9,
-   "desconto": 27,
-   "link": "https://www.amazon.com.br/dp/B0D7MZJ6V3?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/81-Ub3D8KNL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-17T22:00:00-03:00",
-   "coletado_em": "2026-11-16T12:17:10-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "preco_em": "2026-11-16T12:17:10-03:00",
-   "entrou": "2026-11-16T16:39:10.064259-03:00"
-  },
-  {
-   "id": "amz-B0FH3YDT4L",
-   "canal": "marcas",
-   "nome": "Tênis FILA Comet 2 Feminino",
-   "preco_antigo": 399.99,
-   "preco": 199.49,
-   "desconto": 50,
-   "link": "https://www.amazon.com.br/dp/B0FH3YDT4L?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51O9kNkEOXL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-17T22:00:00-03:00",
-   "coletado_em": "2026-11-16T12:17:10-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "preco_em": "2026-11-16T12:17:10-03:00",
-   "entrou": "2026-11-16T16:39:10.064259-03:00"
-  },
-  {
    "id": "amz-B0DVJJLSFV",
    "canal": "marcas",
    "nome": "Tênis New Balance 413v3 Feminino",
@@ -20428,55 +20511,6 @@
    "extra": "Preço a partir de: varia por tamanho e cor",
    "preco_em": "2026-11-16T12:17:10-03:00",
    "entrou": "2026-11-16T16:39:10.064259-03:00"
-  },
-  {
-   "id": "amz-B0BX52PCJ5",
-   "canal": "tech",
-   "nome": "Mouse Gamer HyperX Pulsefire Haste 2",
-   "preco_antigo": 246.9,
-   "preco": 149.99,
-   "desconto": 39,
-   "link": "https://www.amazon.com.br/dp/B0BX52PCJ5?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/613O4O2dNQL.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-17T22:00:00-03:00",
-   "coletado_em": "2026-11-16T08:24:06-03:00",
-   "preco_em": "2026-11-16T08:24:06-03:00",
-   "entrou": "2026-11-16T17:02:09.425884-03:00"
-  },
-  {
-   "id": "amz-B09JCQLC7D",
-   "canal": "achadinhos",
-   "nome": "Kit 10 Potes de Vidro Herméticos Oikos",
-   "preco_antigo": 202.97,
-   "preco": 79.9,
-   "desconto": 61,
-   "link": "https://www.amazon.com.br/dp/B09JCQLC7D?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/616-Dra0CyL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-17T22:00:00-03:00",
-   "coletado_em": "2026-11-16T18:16:59-03:00",
-   "gancho": "POTE DE VIDRO PRA ORGANIZAR A COZINHA TODA",
-   "preco_em": "2026-11-16T18:16:59-03:00",
-   "entrou": "2026-11-16T18:21:48.058175-03:00"
-  },
-  {
-   "id": "amz-B0C9FJQ1WQ",
-   "canal": "achadinhos",
-   "nome": "Secador de Cabelo GA.MA Italy Lichia",
-   "preco_antigo": 249.9,
-   "preco": 140.0,
-   "desconto": 44,
-   "link": "https://www.amazon.com.br/dp/B0C9FJQ1WQ?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/41SKap2yyhL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-17T22:00:00-03:00",
-   "coletado_em": "2026-11-16T18:16:59-03:00",
-   "preco_em": "2026-11-16T18:16:59-03:00",
-   "entrou": "2026-11-16T18:21:48.058175-03:00"
   },
   {
    "id": "amz-B0F9X7J46C",
@@ -20650,22 +20684,6 @@
    "desconto": 31,
    "link": "https://www.amazon.com.br/dp/B0FD53PYKV?tag=papagarimpou-20",
    "imagem": "https://m.media-amazon.com/images/I/61K-nypiQhL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-17T22:00:00-03:00",
-   "coletado_em": "2026-11-16T18:16:59-03:00",
-   "preco_em": "2026-11-16T18:16:59-03:00",
-   "entrou": "2026-11-16T18:21:48.058175-03:00"
-  },
-  {
-   "id": "amz-B0844MSVD3",
-   "canal": "tech",
-   "nome": "HD Externo Portátil WD 1TB",
-   "preco_antigo": 1283.73,
-   "preco": 865.46,
-   "desconto": 33,
-   "link": "https://www.amazon.com.br/dp/B0844MSVD3?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51h4xi-KQRL._AC_SL1500_.jpg",
    "loja": "Vendido e entregue pela Amazon",
    "plataforma": "Amazon",
    "valida_ate": "2026-11-17T22:00:00-03:00",
@@ -22079,7 +22097,13 @@
   "celularsamsunggalaxys25fe5g256gb8gbram": "2026-11-16T18:51:23.515644-03:00",
   "cafeteiraeletricamondialsmart": "2026-11-16T18:59:00.350580-03:00",
   "camisetacalvinkleinlogobasicomasculina": "2026-11-16T19:06:25.137985-03:00",
-  "notebooksamsunggalaxybook4intelcorei5windows11": "2026-11-16T19:14:04.605404-03:00"
+  "notebooksamsunggalaxybook4intelcorei5windows11": "2026-11-16T19:14:04.605404-03:00",
+  "kit10potesdevidrohermeticosoikos": "2026-11-16T19:20:39.798848-03:00",
+  "tenisskechersgorunconsistent2masculino": "2026-11-16T19:28:19.795810-03:00",
+  "mousegamerhyperxpulsefirehaste2": "2026-11-16T19:35:10.082594-03:00",
+  "secadordecabelogamaitalylichia": "2026-11-16T19:42:04.318148-03:00",
+  "tenisfilacomet2feminino": "2026-11-16T19:49:24.716637-03:00",
+  "hdexternoportatilwd1tb": "2026-11-16T19:56:44.703853-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
@@ -22481,7 +22505,7 @@
   "marcas": "2026-11-12T17:56:29.409807-03:00"
  },
  "top10_dia": "2026-11-14",
- "manuais_lidos": "2026-11-16T19:06:24.561275-03:00",
+ "manuais_lidos": "2026-11-16T19:49:24.288431-03:00",
  "reserva_resultado": {
   "2026-11-07": {
    "achadinhos": {
@@ -22697,7 +22721,7 @@
    "hora": "2026-11-16T18:37:24.615329-03:00"
   }
  },
- "ig_respondido_em": "2026-11-16T19:13:58.979587-03:00",
+ "ig_respondido_em": "2026-11-16T19:56:39.131558-03:00",
  "dm_auto": {
   "2026-11-09": {
    "com_palavra": 0,
