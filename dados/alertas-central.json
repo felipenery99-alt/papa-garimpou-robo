@@ -5,12 +5,6 @@
   "ultimo": "2026-11-14T01:03+00:00",
   "texto": "canal marcas sem oferta na fila há 52 min (busca extra também não achou). Abastecer ofertas_manuais.json."
  },
- "erro em #-#-# tech #:# amz-B#FLKL#DHZ: ('Connection aborted.', ConnectionResetEr": {
-  "primeiro": "2026-11-13T13:10+00:00",
-  "vezes": 2,
-  "ultimo": "2026-11-13T15:06+00:00",
-  "texto": "erro em 2026-11-13 tech 12:06 amz-B0FLKL7DHZ: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer')). Não postei."
- },
  "⚠️ Fila vazia (achadinhos), último garimpo #:# — abrir o app Claude e conferir a": {
   "primeiro": "2026-11-13T15:12+00:00",
   "vezes": 1,
@@ -82,5 +76,11 @@
   "vezes": 1,
   "ultimo": "2026-11-16T14:25+00:00",
   "texto": "canal geral não recebeu amz-B0FBSB719F: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
+ },
+ "canal geral não recebeu shopee-#: ('Connection aborted.', ConnectionResetError(#": {
+  "primeiro": "2026-11-16T15:06+00:00",
+  "vezes": 1,
+  "ultimo": "2026-11-16T15:06+00:00",
+  "texto": "canal geral não recebeu shopee-44106064553: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
  }
 }

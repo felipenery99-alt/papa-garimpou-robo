@@ -1515,7 +1515,13 @@
   "2026-11-16 tech 11:11 amz-B0FPYLPCLK",
   "2026-11-16 achadinhos 11:18 amz-B09ZGXWXJL",
   "2026-11-16 marcas 11:25 amz-B0FBSB719F",
-  "2026-11-16 tech 11:32 amz-B0FFTPGRS9"
+  "2026-11-16 tech 11:32 amz-B0FFTPGRS9",
+  "2026-11-16 achadinhos 11:37 amz-B0H51N3X47",
+  "2026-11-16 marcas 11:44 amz-B0FR5VXP3G",
+  "2026-11-16 tech 11:51 amz-B0FQFWD5YF",
+  "2026-11-16 achadinhos 12:00 amz-B01KLNZSUM",
+  "2026-11-16 marcas 12:06 shopee-44106064553",
+  "2026-11-16 tech 12:13 amz-B0GKQJVLNX"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -2195,7 +2201,7 @@
   "shopee-58262394728": "2026-11-08T15:53:28.883076-03:00",
   "shopee-46611963995": "2026-11-08T16:01:22.649531-03:00",
   "shopee-21049729949": "2026-11-12T17:11:40.372485-03:00",
-  "shopee-44106064553": "2026-11-08T16:14:25.164707-03:00",
+  "shopee-44106064553": "2026-11-16T12:06:47.567675-03:00",
   "shopee-58260087298": "2026-11-08T16:22:02.216589-03:00",
   "shopee-23398535010": "2026-11-08T16:28:20.218160-03:00",
   "shopee-49507610530": "2026-11-08T16:34:35.146641-03:00",
@@ -2968,7 +2974,12 @@
   "amz-B0FPYLPCLK": "2026-11-16T11:11:16.945843-03:00",
   "amz-B09ZGXWXJL": "2026-11-16T11:18:56.040024-03:00",
   "amz-B0FBSB719F": "2026-11-16T11:25:43.185044-03:00",
-  "amz-B0FFTPGRS9": "2026-11-16T11:32:22.238991-03:00"
+  "amz-B0FFTPGRS9": "2026-11-16T11:32:22.238991-03:00",
+  "amz-B0H51N3X47": "2026-11-16T11:37:50.882887-03:00",
+  "amz-B0FR5VXP3G": "2026-11-16T11:44:25.412870-03:00",
+  "amz-B0FQFWD5YF": "2026-11-16T11:51:47.595117-03:00",
+  "amz-B01KLNZSUM": "2026-11-16T12:00:01.800562-03:00",
+  "amz-B0GKQJVLNX": "2026-11-16T12:13:12.941288-03:00"
  },
  "ofertas_dia": [
   {
@@ -5866,15 +5877,14 @@
    "preco": 99.99,
    "preco_antigo": 169.47,
    "desconto": 41,
-   "vendas": 208,
+   "vendas": 355,
    "nota": 5.0,
    "comissao_pct": 11.0,
    "imagem": "https://cf.shopee.com.br/file/br-11134211-7r98o-mbychrgq6b1524",
-   "link": "https://s.shopee.com.br/9fMIQi3zml",
-   "quase": true,
+   "link": "https://s.shopee.com.br/gReucohGh",
    "canal": "marcas",
-   "entrou": "2026-11-08T15:43:20.079794-03:00",
-   "dia": "2026-11-08"
+   "entrou": "2026-11-16T08:43:27.446331-03:00",
+   "dia": "2026-11-16"
   },
   {
    "id": "shopee-58260087298",
@@ -18900,6 +18910,91 @@
    "preco_em": "2026-11-16T08:24:06-03:00",
    "entrou": "2026-11-16T08:43:27.446331-03:00",
    "dia": "2026-11-16"
+  },
+  {
+   "id": "amz-B0H51N3X47",
+   "canal": "achadinhos",
+   "nome": "Liquidificador Britânia 2,3L Vidro 12 Velocidades BLQ14A",
+   "preco_antigo": 334.0,
+   "preco": 189.0,
+   "desconto": 43,
+   "link": "https://www.amazon.com.br/dp/B0H51N3X47?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51kDE0Ny2VL.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-17T22:00:00-03:00",
+   "coletado_em": "2026-11-16T08:18:36-03:00",
+   "preco_em": "2026-11-16T08:18:36-03:00",
+   "entrou": "2026-11-16T08:43:27.446331-03:00",
+   "dia": "2026-11-16"
+  },
+  {
+   "id": "amz-B0FR5VXP3G",
+   "canal": "marcas",
+   "nome": "Growler Térmico Stanley Classic 1,9L Frost Gloss",
+   "preco_antigo": 439.0,
+   "preco": 318.01,
+   "desconto": 28,
+   "link": "https://www.amazon.com.br/dp/B0FR5VXP3G?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/419U7rV6lNL.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-17T22:00:00-03:00",
+   "coletado_em": "2026-11-16T08:18:36-03:00",
+   "preco_em": "2026-11-16T08:18:36-03:00",
+   "entrou": "2026-11-16T08:43:27.446331-03:00",
+   "dia": "2026-11-16"
+  },
+  {
+   "id": "amz-B0FQFWD5YF",
+   "canal": "tech",
+   "nome": "Apple Watch Series 11 GPS Alumínio Cinzento Sideral",
+   "preco_antigo": 5899.0,
+   "preco": 3719.99,
+   "desconto": 37,
+   "link": "https://www.amazon.com.br/dp/B0FQFWD5YF?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51mH8vWS7hL.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-17T22:00:00-03:00",
+   "coletado_em": "2026-11-16T08:24:06-03:00",
+   "preco_em": "2026-11-16T08:24:06-03:00",
+   "entrou": "2026-11-16T08:43:27.446331-03:00",
+   "dia": "2026-11-16"
+  },
+  {
+   "id": "amz-B01KLNZSUM",
+   "canal": "achadinhos",
+   "nome": "Escova de Dente Oral-B Advanced 5 Ações 2 Unidades",
+   "preco_antigo": 23.43,
+   "preco": 14.69,
+   "desconto": 37,
+   "link": "https://www.amazon.com.br/dp/B01KLNZSUM?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71VGSKq1+rL.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-17T22:00:00-03:00",
+   "coletado_em": "2026-11-16T08:18:36-03:00",
+   "preco_em": "2026-11-16T08:18:36-03:00",
+   "entrou": "2026-11-16T08:43:27.446331-03:00",
+   "dia": "2026-11-16"
+  },
+  {
+   "id": "amz-B0GKQJVLNX",
+   "canal": "tech",
+   "nome": "Celular Samsung Galaxy S26 Ultra 5G 256GB 12GB RAM",
+   "preco_antigo": 11499.0,
+   "preco": 6615.29,
+   "desconto": 42,
+   "link": "https://www.amazon.com.br/dp/B0GKQJVLNX?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61xxMilaAvL.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-17T22:00:00-03:00",
+   "coletado_em": "2026-11-16T08:24:06-03:00",
+   "preco_em": "2026-11-16T08:24:06-03:00",
+   "entrou": "2026-11-16T08:43:27.446331-03:00",
+   "dia": "2026-11-16"
   }
  ],
  "ig_feitos": [
@@ -19008,7 +19103,11 @@
   "2026-11-16 09:38 story_oferta",
   "2026-11-16 09:40 story_convite",
   "2026-11-16 10:20 story_oferta",
-  "2026-11-16 10:24 story_oferta"
+  "2026-11-16 10:24 story_oferta",
+  "2026-11-16 feed",
+  "2026-11-16 11:50 carrossel_top5",
+  "2026-11-16 11:56 story_oferta",
+  "2026-11-16 12:00 reels"
  ],
  "ig_ofertas_usadas": [
   "amz-B0CJ3WFW9H",
@@ -19214,7 +19313,7 @@
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
- "ig_ultimo_reel": "2026-11-15T20:32:11.675179-03:00",
+ "ig_ultimo_reel": "2026-11-16T12:06:33.733638-03:00",
  "pecas_usadas": {
   "ac-preco-inflado": "2026-10-27",
   "dc-7-dias": "2026-10-27",
@@ -19308,45 +19407,18 @@
   "ac-conta-hackeada": "2026-11-16",
   "dc-parcelar": "2026-11-16",
   "hu-frete-maior": "2026-11-16",
-  "dc-numero-tenis": "2026-11-16"
+  "dc-numero-tenis": "2026-11-16",
+  "cv-marca-fiel": "2026-11-16",
+  "dc-presente": "2026-11-16",
+  "hu-carteira": "2026-11-16",
+  "mv-cartao-virtual": "2026-11-16",
+  "bs-canal-tech": "2026-11-16"
  },
  "pecas_dia": {
-  "2026-11-16": 5
+  "2026-11-16": 6
  },
- "ultimo_pilar": "dica",
+ "ultimo_pilar": "bastidor",
  "fila": [
-  {
-   "id": "amz-B0H51N3X47",
-   "canal": "achadinhos",
-   "nome": "Liquidificador Britânia 2,3L Vidro 12 Velocidades BLQ14A",
-   "preco_antigo": 334.0,
-   "preco": 189.0,
-   "desconto": 43,
-   "link": "https://www.amazon.com.br/dp/B0H51N3X47?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51kDE0Ny2VL.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-17T22:00:00-03:00",
-   "coletado_em": "2026-11-16T08:18:36-03:00",
-   "preco_em": "2026-11-16T08:18:36-03:00",
-   "entrou": "2026-11-16T08:43:27.446331-03:00"
-  },
-  {
-   "id": "amz-B01KLNZSUM",
-   "canal": "achadinhos",
-   "nome": "Escova de Dente Oral-B Advanced 5 Ações 2 Unidades",
-   "preco_antigo": 23.43,
-   "preco": 14.69,
-   "desconto": 37,
-   "link": "https://www.amazon.com.br/dp/B01KLNZSUM?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/71VGSKq1+rL.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-17T22:00:00-03:00",
-   "coletado_em": "2026-11-16T08:18:36-03:00",
-   "preco_em": "2026-11-16T08:18:36-03:00",
-   "entrou": "2026-11-16T08:43:27.446331-03:00"
-  },
   {
    "id": "amz-B09GHLKBBZ",
    "canal": "achadinhos",
@@ -19409,54 +19481,6 @@
    "valida_ate": "2026-11-17T22:00:00-03:00",
    "coletado_em": "2026-11-16T08:18:36-03:00",
    "preco_em": "2026-11-16T08:18:36-03:00",
-   "entrou": "2026-11-16T08:43:27.446331-03:00"
-  },
-  {
-   "id": "amz-B0FR5VXP3G",
-   "canal": "marcas",
-   "nome": "Growler Térmico Stanley Classic 1,9L Frost Gloss",
-   "preco_antigo": 439.0,
-   "preco": 318.01,
-   "desconto": 28,
-   "link": "https://www.amazon.com.br/dp/B0FR5VXP3G?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/419U7rV6lNL.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-17T22:00:00-03:00",
-   "coletado_em": "2026-11-16T08:18:36-03:00",
-   "preco_em": "2026-11-16T08:18:36-03:00",
-   "entrou": "2026-11-16T08:43:27.446331-03:00"
-  },
-  {
-   "id": "amz-B0FQFWD5YF",
-   "canal": "tech",
-   "nome": "Apple Watch Series 11 GPS Alumínio Cinzento Sideral",
-   "preco_antigo": 5899.0,
-   "preco": 3719.99,
-   "desconto": 37,
-   "link": "https://www.amazon.com.br/dp/B0FQFWD5YF?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51mH8vWS7hL.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-17T22:00:00-03:00",
-   "coletado_em": "2026-11-16T08:24:06-03:00",
-   "preco_em": "2026-11-16T08:24:06-03:00",
-   "entrou": "2026-11-16T08:43:27.446331-03:00"
-  },
-  {
-   "id": "amz-B0GKQJVLNX",
-   "canal": "tech",
-   "nome": "Celular Samsung Galaxy S26 Ultra 5G 256GB 12GB RAM",
-   "preco_antigo": 11499.0,
-   "preco": 6615.29,
-   "desconto": 42,
-   "link": "https://www.amazon.com.br/dp/B0GKQJVLNX?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61xxMilaAvL.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-17T22:00:00-03:00",
-   "coletado_em": "2026-11-16T08:24:06-03:00",
-   "preco_em": "2026-11-16T08:24:06-03:00",
    "entrou": "2026-11-16T08:43:27.446331-03:00"
   },
   {
@@ -19553,23 +19577,6 @@
    "valida_ate": "2026-11-17T22:00:00-03:00",
    "coletado_em": "2026-11-16T08:24:06-03:00",
    "preco_em": "2026-11-16T08:24:06-03:00",
-   "entrou": "2026-11-16T08:43:27.446331-03:00"
-  },
-  {
-   "id": "shopee-44106064553",
-   "plataforma": "Shopee",
-   "nome": "Barra De Proteína Ovomaltine Protein Crisp Bar 45g Display 12 unidades Integralmedica",
-   "loja": "DaFabricaSuplementos",
-   "loja_oficial": true,
-   "preco": 99.99,
-   "preco_antigo": 169.47,
-   "desconto": 41,
-   "vendas": 355,
-   "nota": 5.0,
-   "comissao_pct": 11.0,
-   "imagem": "https://cf.shopee.com.br/file/br-11134211-7r98o-mbychrgq6b1524",
-   "link": "https://s.shopee.com.br/gReucohGh",
-   "canal": "marcas",
    "entrou": "2026-11-16T08:43:27.446331-03:00"
   },
   {
@@ -19672,6 +19679,23 @@
    "link": "https://s.shopee.com.br/1qdcIpEFpX",
    "canal": "tech",
    "entrou": "2026-11-16T10:49:43.366728-03:00"
+  },
+  {
+   "id": "shopee-56159571991",
+   "plataforma": "Shopee",
+   "nome": "Tênis Feminino de Caminhada Casual Elevado - Olympikus",
+   "loja": "Tubarão Max",
+   "loja_oficial": true,
+   "preco": 239.99,
+   "preco_antigo": 328.75,
+   "desconto": 27,
+   "vendas": 272,
+   "nota": 4.9,
+   "comissao_pct": 3.0,
+   "imagem": "https://cf.shopee.com.br/file/sg-11134201-820lk-mnk5a79obkea88",
+   "link": "https://s.shopee.com.br/8AXgEUQcou",
+   "canal": "marcas",
+   "entrou": "2026-11-16T11:33:06.570325-03:00"
   }
  ],
  "menus_fixados": [
@@ -19682,7 +19706,8 @@
   "bv1 @papagarimpouofertas"
  ],
  "feed_dia": {
-  "2026-11-15": 2
+  "2026-11-15": 2,
+  "2026-11-16": 1
  },
  "postados_nome": {
   "escovasecadormodeladorataiffovaleasypinkoriginal": "2026-11-13T14:24:40.607702-03:00",
@@ -20206,7 +20231,7 @@
   "fonedeouvidobluetoothjbltune530btoverearsemfioate76horasdebateriapreto": "2026-11-08T15:53:28.883076-03:00",
   "presentenaturaessencialmasculinominiaturas3un": "2026-11-08T16:01:22.649531-03:00",
   "creatinapura300gmaxtitanium": "2026-11-12T17:11:40.372485-03:00",
-  "barradeproteinaovomaltineproteincrispbar45gdisplay12unidadesintegralmedica": "2026-11-08T16:14:25.164707-03:00",
+  "barradeproteinaovomaltineproteincrispbar45gdisplay12unidadesintegralmedica": "2026-11-16T12:06:47.567675-03:00",
   "tplinkex1500roteadorwifi6ax1500dualband4portasgigabit": "2026-11-08T16:22:02.216589-03:00",
   "sanduicheiraegrill2em1redstone750wbgr16corpretocompratabritania": "2026-11-08T16:28:20.218160-03:00",
   "teniscasualeros2confortavelunissexolympikus": "2026-11-08T16:34:35.146641-03:00",
@@ -20976,7 +21001,12 @@
   "celularsamsunggalaxya17256gb8gbram": "2026-11-16T11:11:16.945843-03:00",
   "vaporizadorportatilphilipswalitasth3020110v": "2026-11-16T11:18:56.040024-03:00",
   "tenisreeboknanoflextr3feminino": "2026-11-16T11:25:43.185044-03:00",
-  "caixadesombluetoothjblflip7rosa": "2026-11-16T11:32:22.238991-03:00"
+  "caixadesombluetoothjblflip7rosa": "2026-11-16T11:32:22.238991-03:00",
+  "liquidificadorbritania23lvidro12velocidadesblq14a": "2026-11-16T11:37:50.882887-03:00",
+  "growlertermicostanleyclassic19lfrostgloss": "2026-11-16T11:44:25.412870-03:00",
+  "applewatchseries11gpsaluminiocinzentosideral": "2026-11-16T11:51:47.595117-03:00",
+  "escovadedenteoralbadvanced5acoes2unidades": "2026-11-16T12:00:01.800562-03:00",
+  "celularsamsunggalaxys26ultra5g256gb12gbram": "2026-11-16T12:13:12.941288-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
@@ -21375,7 +21405,7 @@
   "marcas": "2026-11-12T17:56:29.409807-03:00"
  },
  "top10_dia": "2026-11-14",
- "manuais_lidos": "2026-11-16T11:32:17.270986-03:00",
+ "manuais_lidos": "2026-11-16T12:13:12.588792-03:00",
  "reserva_resultado": {
   "2026-11-07": {
    "achadinhos": {
@@ -21587,7 +21617,7 @@
    "hora": "2026-11-11T20:32:35.453128-03:00"
   }
  },
- "ig_respondido_em": "2026-11-16T11:32:17.270986-03:00",
+ "ig_respondido_em": "2026-11-16T12:06:33.733638-03:00",
  "dm_auto": {
   "2026-11-09": {
    "com_palavra": 0,
@@ -21804,6 +21834,14 @@
     "legenda": "Manda pra quem tá precisando disso 👇\n😎💎 Até 47% OFF em marca boa: os 5 achados do Papa hoje\n\nOfertas todo dia no Telegram: papagarimpouofertas 💎\n\nPubli · link de afiliado",
     "url": "https://raw.githubusercontent.com/felipenery99-alt/papa-garimpou-robo/tiktok-midia/20261115-2032-tiktok.mp4"
    }
+  ],
+  "2026-11-16": [
+   {
+    "hora": "12:06",
+    "capa": "banco",
+    "legenda": "Manda pra quem tá precisando disso 👇\n😎💎 Sua Carteira / Cartão Virtual / Fone, Celular,\n\nOfertas todo dia no Telegram: papagarimpouofertas 💎\n\nPubli · link de afiliado",
+    "url": "https://raw.githubusercontent.com/felipenery99-alt/papa-garimpou-robo/tiktok-midia/20261116-1206-tiktok.mp4"
+   }
   ]
  },
  "amz_visto": {},
@@ -21821,8 +21859,8 @@
    "feed": 2
   },
   "2026-11-16": {
-   "story": 6,
-   "feed": 0
+   "story": 7,
+   "feed": 1
   }
  },
  "ig_conta_ok": "2026-11-16",
