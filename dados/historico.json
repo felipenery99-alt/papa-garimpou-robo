@@ -1490,7 +1490,9 @@
   "2026-11-15 tech 21:24 amz-B07GTTRBLV",
   "2026-11-15 achadinhos 21:30 amz-B0851FYF7X",
   "2026-11-15 marcas 21:37 amz-B0FFTTH5ZG",
-  "2026-11-15 tech 21:44 amz-B0DS2K6MM5"
+  "2026-11-15 tech 21:44 amz-B0DS2K6MM5",
+  "2026-11-15 achadinhos 21:50 amz-B07YGFNDX9",
+  "2026-11-15 marcas 21:57 amz-B0H9BRFL89"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -2918,7 +2920,9 @@
   "amz-B07GTTRBLV": "2026-11-15T21:24:20.390045-03:00",
   "amz-B0851FYF7X": "2026-11-15T21:30:35.084021-03:00",
   "amz-B0FFTTH5ZG": "2026-11-15T21:37:09.250116-03:00",
-  "amz-B0DS2K6MM5": "2026-11-15T21:44:37.346465-03:00"
+  "amz-B0DS2K6MM5": "2026-11-15T21:44:37.346465-03:00",
+  "amz-B07YGFNDX9": "2026-11-15T21:50:44.815226-03:00",
+  "amz-B0H9BRFL89": "2026-11-15T21:57:47.811530-03:00"
  },
  "ofertas_dia": [
   {
@@ -19516,6 +19520,40 @@
    "preco_em": "2026-11-15T18:15:00-03:00",
    "entrou": "2026-11-15T18:33:54.933937-03:00",
    "dia": "2026-11-15"
+  },
+  {
+   "id": "amz-B07YGFNDX9",
+   "canal": "achadinhos",
+   "nome": "Lavadora de Alta Pressão WAP Combate Turbo 2600 220V",
+   "preco_antigo": 989.5,
+   "preco": 709.0,
+   "desconto": 28,
+   "link": "https://www.amazon.com.br/dp/B07YGFNDX9?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51acAfYL9sL.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-16T22:00:00-03:00",
+   "coletado_em": "2026-11-15T18:15:00-03:00",
+   "preco_em": "2026-11-15T18:15:00-03:00",
+   "entrou": "2026-11-15T18:33:54.933937-03:00",
+   "dia": "2026-11-15"
+  },
+  {
+   "id": "amz-B0H9BRFL89",
+   "canal": "marcas",
+   "nome": "Tênis Asics Gel-Pulse 17 SE Masculino",
+   "preco_antigo": 599.99,
+   "preco": 329.9,
+   "desconto": 45,
+   "link": "https://www.amazon.com.br/dp/B0H9BRFL89?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51362OOnFbL.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-16T22:00:00-03:00",
+   "coletado_em": "2026-11-15T18:15:00-03:00",
+   "preco_em": "2026-11-15T18:15:00-03:00",
+   "entrou": "2026-11-15T18:33:54.933937-03:00",
+   "dia": "2026-11-15"
   }
  ],
  "ig_feitos": [
@@ -19942,22 +19980,6 @@
  "ultimo_pilar": "dica",
  "fila": [
   {
-   "id": "amz-B07YGFNDX9",
-   "canal": "achadinhos",
-   "nome": "Lavadora de Alta Pressão WAP Combate Turbo 2600 220V",
-   "preco_antigo": 989.5,
-   "preco": 709.0,
-   "desconto": 28,
-   "link": "https://www.amazon.com.br/dp/B07YGFNDX9?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51acAfYL9sL.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-16T22:00:00-03:00",
-   "coletado_em": "2026-11-15T18:15:00-03:00",
-   "preco_em": "2026-11-15T18:15:00-03:00",
-   "entrou": "2026-11-15T18:33:54.933937-03:00"
-  },
-  {
    "id": "amz-B076QCBC3G",
    "canal": "achadinhos",
    "nome": "Lavadora de Alta Pressão WAP Atacama Smart 2200 220V",
@@ -20014,22 +20036,6 @@
    "desconto": 28,
    "link": "https://www.amazon.com.br/dp/B0CLYTHJGC?tag=papagarimpou-20",
    "imagem": "https://m.media-amazon.com/images/I/61RUxV3D3SL.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-16T22:00:00-03:00",
-   "coletado_em": "2026-11-15T18:15:00-03:00",
-   "preco_em": "2026-11-15T18:15:00-03:00",
-   "entrou": "2026-11-15T18:33:54.933937-03:00"
-  },
-  {
-   "id": "amz-B0H9BRFL89",
-   "canal": "marcas",
-   "nome": "Tênis Asics Gel-Pulse 17 SE Masculino",
-   "preco_antigo": 599.99,
-   "preco": 329.9,
-   "desconto": 45,
-   "link": "https://www.amazon.com.br/dp/B0H9BRFL89?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51362OOnFbL.jpg",
    "loja": "Vendido e entregue pela Amazon",
    "plataforma": "Amazon",
    "valida_ate": "2026-11-16T22:00:00-03:00",
@@ -21444,7 +21450,9 @@
   "mousegamerredragongriffinm6077200dpi": "2026-11-15T21:24:20.390045-03:00",
   "cafeteiraeletricablackdeckercomjarrainoxcm15": "2026-11-15T21:30:35.084021-03:00",
   "tenismizunovirtue2preto": "2026-11-15T21:37:09.250116-03:00",
-  "fonesemfiojblendurancerace2esportivo": "2026-11-15T21:44:37.346465-03:00"
+  "fonesemfiojblendurancerace2esportivo": "2026-11-15T21:44:37.346465-03:00",
+  "lavadoradealtapressaowapcombateturbo2600220v": "2026-11-15T21:50:44.815226-03:00",
+  "tenisasicsgelpulse17semasculino": "2026-11-15T21:57:47.811530-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
@@ -21843,7 +21851,7 @@
   "marcas": "2026-11-12T17:56:29.409807-03:00"
  },
  "top10_dia": "2026-11-14",
- "manuais_lidos": "2026-11-15T21:37:04.222669-03:00",
+ "manuais_lidos": "2026-11-15T21:50:44.430906-03:00",
  "reserva_resultado": {
   "2026-11-07": {
    "achadinhos": {
@@ -22048,7 +22056,7 @@
    "hora": "2026-11-11T20:32:35.453128-03:00"
   }
  },
- "ig_respondido_em": "2026-11-15T21:37:04.222669-03:00",
+ "ig_respondido_em": "2026-11-15T21:57:44.219611-03:00",
  "dm_auto": {
   "2026-11-08": {
    "com_palavra": 0,

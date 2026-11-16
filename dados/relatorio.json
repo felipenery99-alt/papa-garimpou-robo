@@ -3142,16 +3142,16 @@
    "⚠️ Fila vazia (tech), último garimpo 14/11 18:18 — abrir o app Claude e conferir as rotinas",
    "⚠️ Fila vazia (marcas), último garimpo 15:24 — abrir o app Claude e conferir as rotinas"
   ],
-  "ultima_execucao": "21:02",
-  "execucoes": 19,
+  "ultima_execucao": "21:45",
+  "execucoes": 20,
   "telegram_posts": {
-   "achadinhos": 45,
-   "marcas": 35,
+   "achadinhos": 46,
+   "marcas": 36,
    "tech": 37
   },
   "ultimo_post": {
-   "achadinhos": "21:30",
-   "marcas": "21:37",
+   "achadinhos": "21:50",
+   "marcas": "21:57",
    "tech": "21:44"
   },
   "meta_token": {
@@ -6131,21 +6131,23 @@
    "amz-B07LFMZBKW": "ja_postado_30d",
    "amz-B0CGMNF4VC": "ja_postado_30d",
    "amz-B0851FYF7X": "ja_postado_30d",
-   "amz-B07GTTRBLV": "ja_postado_30d"
+   "amz-B07GTTRBLV": "ja_postado_30d",
+   "amz-B0DS2K6MM5": "ja_postado_30d",
+   "amz-B0FFTTH5ZG": "ja_postado_30d"
   },
   "manuais_descartados": {
-   "ja_postado_30d": 316
+   "ja_postado_30d": 318
   },
   "instagram": {
    "seguidores": 501,
    "posts": 126,
    "reach": 2316,
-   "profile_views": 68,
+   "profile_views": 71,
    "website_clicks": 0,
    "stories_ativos": 22
   },
   "reels_alcance": {
-   "atualizado": "2026-11-15T21:02:16.082009-03:00",
+   "atualizado": "2026-11-15T21:45:08.781091-03:00",
    "itens": [
     {
      "id": "18230902090331796",
