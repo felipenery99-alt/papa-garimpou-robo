@@ -2487,5 +2487,50 @@
   "coletado_em": "2026-11-16T15:14:06-03:00",
   "extra": "Preço a partir de: varia por tamanho e cor",
   "gancho": "DUAS HERING PELO PREÇO DE UMA"
+ },
+ {
+  "id": "amz-B0C9VKC28J",
+  "canal": "marcas",
+  "nome": "Camiseta Reserva Gota Pica-Pau Bordado",
+  "preco_antigo": 169.0,
+  "preco": 103.55,
+  "desconto": 39,
+  "link": "https://www.amazon.com.br/dp/B0C9VKC28J?tag=papagarimpou-20",
+  "imagem": "https://m.media-amazon.com/images/I/41cVSc6lHJL._AC_SL1000_.jpg",
+  "loja": "Loja oficial Reserva · Amazon",
+  "plataforma": "Amazon",
+  "valida_ate": "2026-11-17T22:00:00-03:00",
+  "coletado_em": "2026-11-16T15:15:43-03:00",
+  "extra": "Preço a partir de: varia por tamanho e cor"
+ },
+ {
+  "id": "amz-B0CJJVQZZS",
+  "canal": "marcas",
+  "nome": "Kit 5 Camisetas Hering Básicas Masculinas",
+  "preco_antigo": 249.99,
+  "preco": 132.98,
+  "desconto": 47,
+  "link": "https://www.amazon.com.br/dp/B0CJJVQZZS?tag=papagarimpou-20",
+  "imagem": "https://m.media-amazon.com/images/I/41rZclSGzuL._AC_SL1000_.jpg",
+  "loja": "Loja oficial Hering · Amazon",
+  "plataforma": "Amazon",
+  "valida_ate": "2026-11-17T22:00:00-03:00",
+  "coletado_em": "2026-11-16T15:15:43-03:00",
+  "extra": "Preço a partir de: varia por tamanho e cor",
+  "gancho": "5 HERING POR MENOS DE R$ 27 CADA"
+ },
+ {
+  "id": "amz-B0F3R7718T",
+  "canal": "marcas",
+  "nome": "Mochila Everlast Urban Preta Nylon",
+  "preco_antigo": 201.0,
+  "preco": 135.89,
+  "desconto": 32,
+  "link": "https://www.amazon.com.br/dp/B0F3R7718T?tag=papagarimpou-20",
+  "imagem": "https://m.media-amazon.com/images/I/71BdIhmHbUL._AC_SL1500_.jpg",
+  "loja": "Vendido e entregue pela Amazon",
+  "plataforma": "Amazon",
+  "valida_ate": "2026-11-17T22:00:00-03:00",
+  "coletado_em": "2026-11-16T15:15:43-03:00"
  }
 ]
