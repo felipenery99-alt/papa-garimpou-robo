@@ -1503,7 +1503,13 @@
   "2026-11-16 tech 09:44 amz-B0GGLJCJQM",
   "2026-11-16 achadinhos 09:51 amz-B07F3CXQ5G",
   "2026-11-16 marcas 09:58 amz-B0D32519RX",
-  "2026-11-16 tech 10:05 amz-B0DFQFZN5V"
+  "2026-11-16 tech 10:05 amz-B0DFQFZN5V",
+  "2026-11-16 achadinhos 10:12 amz-B08X66RQ48",
+  "2026-11-16 marcas 10:19 amz-B07QTC49LL",
+  "2026-11-16 tech 10:27 amz-B0DVCHL7PG",
+  "2026-11-16 achadinhos 10:35 amz-B0CLYTHJGC",
+  "2026-11-16 marcas 10:42 amz-B0FPGCXSZ1",
+  "2026-11-16 tech 10:49 amz-B0GKD2XXVJ"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -2944,7 +2950,13 @@
   "amz-B0GGLJCJQM": "2026-11-16T09:44:12.357842-03:00",
   "amz-B07F3CXQ5G": "2026-11-16T09:51:54.795308-03:00",
   "amz-B0D32519RX": "2026-11-16T09:58:59.100641-03:00",
-  "amz-B0DFQFZN5V": "2026-11-16T10:05:53.814479-03:00"
+  "amz-B0DFQFZN5V": "2026-11-16T10:05:53.814479-03:00",
+  "amz-B08X66RQ48": "2026-11-16T10:12:37.415389-03:00",
+  "amz-B07QTC49LL": "2026-11-16T10:19:53.528234-03:00",
+  "amz-B0DVCHL7PG": "2026-11-16T10:27:47.696682-03:00",
+  "amz-B0CLYTHJGC": "2026-11-16T10:35:46.300667-03:00",
+  "amz-B0FPGCXSZ1": "2026-11-16T10:42:08.161063-03:00",
+  "amz-B0GKD2XXVJ": "2026-11-16T10:49:14.263682-03:00"
  },
  "ofertas_dia": [
   {
@@ -18670,6 +18682,109 @@
    "preco_em": "2026-11-15T18:15:00-03:00",
    "entrou": "2026-11-16T08:43:27.446331-03:00",
    "dia": "2026-11-16"
+  },
+  {
+   "id": "amz-B08X66RQ48",
+   "canal": "achadinhos",
+   "nome": "Purificador de Água Electrolux Gelada, Fria e Natural",
+   "preco_antigo": 809.0,
+   "preco": 557.0,
+   "desconto": 31,
+   "link": "https://www.amazon.com.br/dp/B08X66RQ48?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51KkkUJg0YL.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-16T22:00:00-03:00",
+   "coletado_em": "2026-11-15T18:15:00-03:00",
+   "preco_em": "2026-11-15T18:15:00-03:00",
+   "entrou": "2026-11-16T08:43:27.446331-03:00",
+   "dia": "2026-11-16"
+  },
+  {
+   "id": "amz-B07QTC49LL",
+   "canal": "marcas",
+   "nome": "Whey Max Titanium Top Whey 3W 900g Chocolate",
+   "preco_antigo": 279.9,
+   "preco": 199.9,
+   "desconto": 29,
+   "link": "https://www.amazon.com.br/dp/B07QTC49LL?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51RAfRo3rDL.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-17T22:00:00-03:00",
+   "coletado_em": "2026-11-16T08:18:36-03:00",
+   "preco_em": "2026-11-16T08:18:36-03:00",
+   "entrou": "2026-11-16T08:43:27.446331-03:00",
+   "dia": "2026-11-16"
+  },
+  {
+   "id": "amz-B0DVCHL7PG",
+   "canal": "tech",
+   "nome": "Kit Teclado e Mouse sem Fio Logitech Pebble 2 Grafite",
+   "preco_antigo": 371.8,
+   "preco": 229.8,
+   "desconto": 38,
+   "link": "https://www.amazon.com.br/dp/B0DVCHL7PG?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/41qft2aDpLL.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-17T22:00:00-03:00",
+   "coletado_em": "2026-11-16T08:24:06-03:00",
+   "preco_em": "2026-11-16T08:24:06-03:00",
+   "entrou": "2026-11-16T08:43:27.446331-03:00",
+   "dia": "2026-11-16"
+  },
+  {
+   "id": "amz-B0CLYTHJGC",
+   "canal": "achadinhos",
+   "nome": "Parafusadeira/Furadeira Bosch GSR 1000 Smart 12V",
+   "preco_antigo": 399.0,
+   "preco": 289.08,
+   "desconto": 28,
+   "link": "https://www.amazon.com.br/dp/B0CLYTHJGC?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61RUxV3D3SL.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-16T22:00:00-03:00",
+   "coletado_em": "2026-11-15T18:15:00-03:00",
+   "preco_em": "2026-11-15T18:15:00-03:00",
+   "entrou": "2026-11-16T08:43:27.446331-03:00",
+   "dia": "2026-11-16"
+  },
+  {
+   "id": "amz-B0FPGCXSZ1",
+   "canal": "marcas",
+   "nome": "Chinelo Aramis Thermos Masculino",
+   "preco_antigo": 109.0,
+   "preco": 76.85,
+   "desconto": 29,
+   "link": "https://www.amazon.com.br/dp/B0FPGCXSZ1?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51BgBbraVaL.jpg",
+   "loja": "Vendido por parceiro · entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-17T22:00:00-03:00",
+   "coletado_em": "2026-11-16T08:18:36-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "preco_em": "2026-11-16T08:18:36-03:00",
+   "entrou": "2026-11-16T08:43:27.446331-03:00",
+   "dia": "2026-11-16"
+  },
+  {
+   "id": "amz-B0GKD2XXVJ",
+   "canal": "tech",
+   "nome": "Smartphone Motorola Moto G17 128GB 4GB RAM",
+   "preco_antigo": 1299.0,
+   "preco": 798.3,
+   "desconto": 39,
+   "link": "https://www.amazon.com.br/dp/B0GKD2XXVJ?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61Dbw+ElR1L.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-17T22:00:00-03:00",
+   "coletado_em": "2026-11-16T08:24:06-03:00",
+   "preco_em": "2026-11-16T08:24:06-03:00",
+   "entrou": "2026-11-16T08:43:27.446331-03:00",
+   "dia": "2026-11-16"
   }
  ],
  "ig_feitos": [
@@ -18776,7 +18891,9 @@
   "2026-11-16 08:07 story_oferta",
   "2026-11-16 08:45 story_oferta",
   "2026-11-16 09:38 story_oferta",
-  "2026-11-16 09:40 story_convite"
+  "2026-11-16 09:40 story_convite",
+  "2026-11-16 10:20 story_oferta",
+  "2026-11-16 10:24 story_oferta"
  ],
  "ig_ofertas_usadas": [
   "amz-B0CJ3WFW9H",
@@ -19074,45 +19191,15 @@
   "dc-voltagem": "2026-11-15",
   "bf-2026-11-16": "2026-11-16",
   "ac-conta-hackeada": "2026-11-16",
-  "dc-parcelar": "2026-11-16"
+  "dc-parcelar": "2026-11-16",
+  "hu-frete-maior": "2026-11-16",
+  "dc-numero-tenis": "2026-11-16"
  },
  "pecas_dia": {
-  "2026-11-16": 3
+  "2026-11-16": 5
  },
  "ultimo_pilar": "dica",
  "fila": [
-  {
-   "id": "amz-B08X66RQ48",
-   "canal": "achadinhos",
-   "nome": "Purificador de Água Electrolux Gelada, Fria e Natural",
-   "preco_antigo": 809.0,
-   "preco": 557.0,
-   "desconto": 31,
-   "link": "https://www.amazon.com.br/dp/B08X66RQ48?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51KkkUJg0YL.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-16T22:00:00-03:00",
-   "coletado_em": "2026-11-15T18:15:00-03:00",
-   "preco_em": "2026-11-15T18:15:00-03:00",
-   "entrou": "2026-11-16T08:43:27.446331-03:00"
-  },
-  {
-   "id": "amz-B0CLYTHJGC",
-   "canal": "achadinhos",
-   "nome": "Parafusadeira/Furadeira Bosch GSR 1000 Smart 12V",
-   "preco_antigo": 399.0,
-   "preco": 289.08,
-   "desconto": 28,
-   "link": "https://www.amazon.com.br/dp/B0CLYTHJGC?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61RUxV3D3SL.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-16T22:00:00-03:00",
-   "coletado_em": "2026-11-15T18:15:00-03:00",
-   "preco_em": "2026-11-15T18:15:00-03:00",
-   "entrou": "2026-11-16T08:43:27.446331-03:00"
-  },
   {
    "id": "amz-B0847K369Q",
    "canal": "achadinhos",
@@ -19242,39 +19329,6 @@
    "entrou": "2026-11-16T08:43:27.446331-03:00"
   },
   {
-   "id": "amz-B07QTC49LL",
-   "canal": "marcas",
-   "nome": "Whey Max Titanium Top Whey 3W 900g Chocolate",
-   "preco_antigo": 279.9,
-   "preco": 199.9,
-   "desconto": 29,
-   "link": "https://www.amazon.com.br/dp/B07QTC49LL?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51RAfRo3rDL.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-17T22:00:00-03:00",
-   "coletado_em": "2026-11-16T08:18:36-03:00",
-   "preco_em": "2026-11-16T08:18:36-03:00",
-   "entrou": "2026-11-16T08:43:27.446331-03:00"
-  },
-  {
-   "id": "amz-B0FPGCXSZ1",
-   "canal": "marcas",
-   "nome": "Chinelo Aramis Thermos Masculino",
-   "preco_antigo": 109.0,
-   "preco": 76.85,
-   "desconto": 29,
-   "link": "https://www.amazon.com.br/dp/B0FPGCXSZ1?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51BgBbraVaL.jpg",
-   "loja": "Vendido por parceiro · entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-17T22:00:00-03:00",
-   "coletado_em": "2026-11-16T08:18:36-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "preco_em": "2026-11-16T08:18:36-03:00",
-   "entrou": "2026-11-16T08:43:27.446331-03:00"
-  },
-  {
    "id": "amz-B0FXMKW8SL",
    "canal": "marcas",
    "nome": "Perfume Calvin Klein Euphoria Solar Elixir Parfum Intense 100ml",
@@ -19321,38 +19375,6 @@
    "valida_ate": "2026-11-17T22:00:00-03:00",
    "coletado_em": "2026-11-16T08:18:36-03:00",
    "preco_em": "2026-11-16T08:18:36-03:00",
-   "entrou": "2026-11-16T08:43:27.446331-03:00"
-  },
-  {
-   "id": "amz-B0DVCHL7PG",
-   "canal": "tech",
-   "nome": "Kit Teclado e Mouse sem Fio Logitech Pebble 2 Grafite",
-   "preco_antigo": 371.8,
-   "preco": 229.8,
-   "desconto": 38,
-   "link": "https://www.amazon.com.br/dp/B0DVCHL7PG?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/41qft2aDpLL.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-17T22:00:00-03:00",
-   "coletado_em": "2026-11-16T08:24:06-03:00",
-   "preco_em": "2026-11-16T08:24:06-03:00",
-   "entrou": "2026-11-16T08:43:27.446331-03:00"
-  },
-  {
-   "id": "amz-B0GKD2XXVJ",
-   "canal": "tech",
-   "nome": "Smartphone Motorola Moto G17 128GB 4GB RAM",
-   "preco_antigo": 1299.0,
-   "preco": 798.3,
-   "desconto": 39,
-   "link": "https://www.amazon.com.br/dp/B0GKD2XXVJ?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61Dbw+ElR1L.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-17T22:00:00-03:00",
-   "coletado_em": "2026-11-16T08:24:06-03:00",
-   "preco_em": "2026-11-16T08:24:06-03:00",
    "entrou": "2026-11-16T08:43:27.446331-03:00"
   },
   {
@@ -19564,6 +19586,40 @@
    "coletado_em": "2026-11-15T18:15:00-03:00",
    "preco_em": "2026-11-15T18:15:00-03:00",
    "entrou": "2026-11-16T09:36:12.906140-03:00"
+  },
+  {
+   "id": "shopee-23204913091",
+   "plataforma": "Shopee",
+   "nome": "Câmera Inteligente Wi-Fi iM5 SC Full HD Branca Intelbras",
+   "loja": "Intelbras Oficial",
+   "loja_oficial": true,
+   "preco": 249.9,
+   "preco_antigo": 403.06,
+   "desconto": 38,
+   "vendas": 342,
+   "nota": 5.0,
+   "comissao_pct": 5.0,
+   "imagem": "https://cf.shopee.com.br/file/sg-11134201-81zut-miq4iyy1cmwy46",
+   "link": "https://s.shopee.com.br/9AQDWfI7qo",
+   "canal": "achadinhos",
+   "entrou": "2026-11-16T10:06:22.608196-03:00"
+  },
+  {
+   "id": "shopee-21616812729",
+   "plataforma": "Shopee",
+   "nome": "Kit Com 6 Cuecas Lupo Boxer de Microfibra Sem Costura Box Masculina Adulto Original",
+   "loja": "Deccó",
+   "loja_oficial": true,
+   "preco": 155.65,
+   "preco_antigo": 259.42,
+   "desconto": 40,
+   "vendas": 281,
+   "nota": 4.9,
+   "comissao_pct": 7.0,
+   "imagem": "https://cf.shopee.com.br/file/br-11134207-820la-mvevktrv3dvk7b",
+   "link": "https://s.shopee.com.br/3VlqvM0WCJ",
+   "canal": "marcas",
+   "entrou": "2026-11-16T10:06:22.608196-03:00"
   }
  ],
  "menus_fixados": [
@@ -20856,7 +20912,13 @@
   "residentevilrequiemplaystation5": "2026-11-16T09:44:12.357842-03:00",
   "protetorlabialniveamedrepairfps15": "2026-11-16T09:51:54.795308-03:00",
   "tenisolympikusruamasculino": "2026-11-16T09:58:59.100641-03:00",
-  "soundbarlgs90tydolbyatmos513570w": "2026-11-16T10:05:53.814479-03:00"
+  "soundbarlgs90tydolbyatmos513570w": "2026-11-16T10:05:53.814479-03:00",
+  "purificadordeaguaelectroluxgeladafriaenatural": "2026-11-16T10:12:37.415389-03:00",
+  "wheymaxtitaniumtopwhey3w900gchocolate": "2026-11-16T10:19:53.528234-03:00",
+  "kittecladoemousesemfiologitechpebble2grafite": "2026-11-16T10:27:47.696682-03:00",
+  "parafusadeirafuradeiraboschgsr1000smart12v": "2026-11-16T10:35:46.300667-03:00",
+  "chineloaramisthermosmasculino": "2026-11-16T10:42:08.161063-03:00",
+  "smartphonemotorolamotog17128gb4gbram": "2026-11-16T10:49:14.263682-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
@@ -21255,7 +21317,7 @@
   "marcas": "2026-11-12T17:56:29.409807-03:00"
  },
  "top10_dia": "2026-11-14",
- "manuais_lidos": "2026-11-16T10:05:53.488680-03:00",
+ "manuais_lidos": "2026-11-16T10:49:13.815900-03:00",
  "reserva_resultado": {
   "2026-11-07": {
    "achadinhos": {
@@ -21467,7 +21529,7 @@
    "hora": "2026-11-11T20:32:35.453128-03:00"
   }
  },
- "ig_respondido_em": "2026-11-16T09:58:55.891620-03:00",
+ "ig_respondido_em": "2026-11-16T10:42:03.607767-03:00",
  "dm_auto": {
   "2026-11-09": {
    "com_palavra": 0,
@@ -21701,7 +21763,7 @@
    "feed": 2
   },
   "2026-11-16": {
-   "story": 4,
+   "story": 6,
    "feed": 0
   }
  },
