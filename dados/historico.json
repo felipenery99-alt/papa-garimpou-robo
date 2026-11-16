@@ -1483,7 +1483,14 @@
   "2026-11-15 tech 20:40 amz-B08B459R11",
   "2026-11-15 achadinhos 20:48 amz-B093RXHCLR",
   "2026-11-15 marcas 20:55 amz-B0F1CLFQRY",
-  "2026-11-15 tech 21:01 amz-B01MTTMPKT"
+  "2026-11-15 tech 21:01 amz-B01MTTMPKT",
+  "2026-11-15 achadinhos 21:07 amz-B09GSPW5BH",
+  "2026-11-15 achadinhos 21:09 amz-B07LFMZBKW",
+  "2026-11-15 marcas 21:17 amz-B0CGMNF4VC",
+  "2026-11-15 tech 21:24 amz-B07GTTRBLV",
+  "2026-11-15 achadinhos 21:30 amz-B0851FYF7X",
+  "2026-11-15 marcas 21:37 amz-B0FFTTH5ZG",
+  "2026-11-15 tech 21:44 amz-B0DS2K6MM5"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -2904,7 +2911,14 @@
   "amz-B08B459R11": "2026-11-15T20:40:35.843429-03:00",
   "amz-B093RXHCLR": "2026-11-15T20:48:06.313577-03:00",
   "amz-B0F1CLFQRY": "2026-11-15T20:55:04.944994-03:00",
-  "amz-B01MTTMPKT": "2026-11-15T21:01:43.823321-03:00"
+  "amz-B01MTTMPKT": "2026-11-15T21:01:43.823321-03:00",
+  "amz-B09GSPW5BH": "2026-11-15T21:07:17.439698-03:00",
+  "amz-B07LFMZBKW": "2026-11-15T21:09:54.244612-03:00",
+  "amz-B0CGMNF4VC": "2026-11-15T21:17:42.800391-03:00",
+  "amz-B07GTTRBLV": "2026-11-15T21:24:20.390045-03:00",
+  "amz-B0851FYF7X": "2026-11-15T21:30:35.084021-03:00",
+  "amz-B0FFTTH5ZG": "2026-11-15T21:37:09.250116-03:00",
+  "amz-B0DS2K6MM5": "2026-11-15T21:44:37.346465-03:00"
  },
  "ofertas_dia": [
   {
@@ -19383,6 +19397,125 @@
    "preco_em": "2026-11-15T18:15:00-03:00",
    "entrou": "2026-11-15T18:33:54.933937-03:00",
    "dia": "2026-11-15"
+  },
+  {
+   "id": "amz-B09GSPW5BH",
+   "canal": "achadinhos",
+   "nome": "Shampoo L'Oréal Professionnel Pro Longer",
+   "preco_antigo": 116.9,
+   "preco": 74.9,
+   "desconto": 36,
+   "link": "https://www.amazon.com.br/dp/B09GSPW5BH?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/412onDYbL-L.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-16T22:00:00-03:00",
+   "coletado_em": "2026-11-15T18:15:00-03:00",
+   "preco_em": "2026-11-15T18:15:00-03:00",
+   "entrou": "2026-11-15T18:33:54.933937-03:00",
+   "dia": "2026-11-15"
+  },
+  {
+   "id": "amz-B07LFMZBKW",
+   "canal": "achadinhos",
+   "nome": "Loção Hidratante Nivea Firmador Q10 + Vitamina C 400ml",
+   "preco_antigo": 36.9,
+   "preco": 23.2,
+   "desconto": 37,
+   "link": "https://www.amazon.com.br/dp/B07LFMZBKW?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61vNqDeG5pL.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-16T22:00:00-03:00",
+   "coletado_em": "2026-11-15T18:15:00-03:00",
+   "preco_em": "2026-11-15T18:15:00-03:00",
+   "entrou": "2026-11-15T18:33:54.933937-03:00",
+   "dia": "2026-11-15"
+  },
+  {
+   "id": "amz-B0CGMNF4VC",
+   "canal": "marcas",
+   "nome": "Camiseta Hering Masculina Algodão Peruano",
+   "preco_antigo": 119.99,
+   "preco": 69.99,
+   "desconto": 42,
+   "link": "https://www.amazon.com.br/dp/B0CGMNF4VC?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71PfnmRORGL.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-16T22:00:00-03:00",
+   "coletado_em": "2026-11-15T18:15:00-03:00",
+   "preco_em": "2026-11-15T18:15:00-03:00",
+   "entrou": "2026-11-15T18:33:54.933937-03:00",
+   "dia": "2026-11-15"
+  },
+  {
+   "id": "amz-B07GTTRBLV",
+   "canal": "tech",
+   "nome": "Mouse Gamer Redragon Griffin M607 7200 DPI",
+   "preco_antigo": 180.0,
+   "preco": 63.92,
+   "desconto": 64,
+   "link": "https://www.amazon.com.br/dp/B07GTTRBLV?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/519GEp93g3L.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-16T22:00:00-03:00",
+   "coletado_em": "2026-11-15T18:15:00-03:00",
+   "preco_em": "2026-11-15T18:15:00-03:00",
+   "entrou": "2026-11-15T18:33:54.933937-03:00",
+   "dia": "2026-11-15"
+  },
+  {
+   "id": "amz-B0851FYF7X",
+   "canal": "achadinhos",
+   "nome": "Cafeteira Elétrica Black+Decker com Jarra Inox CM15",
+   "preco_antigo": 219.0,
+   "preco": 118.11,
+   "desconto": 46,
+   "link": "https://www.amazon.com.br/dp/B0851FYF7X?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51KTB6fQQ8L.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-16T22:00:00-03:00",
+   "coletado_em": "2026-11-15T18:15:00-03:00",
+   "preco_em": "2026-11-15T18:15:00-03:00",
+   "entrou": "2026-11-15T18:33:54.933937-03:00",
+   "dia": "2026-11-15"
+  },
+  {
+   "id": "amz-B0FFTTH5ZG",
+   "canal": "marcas",
+   "nome": "Tênis Mizuno Virtue 2 Preto",
+   "preco_antigo": 349.99,
+   "preco": 227.99,
+   "desconto": 35,
+   "link": "https://www.amazon.com.br/dp/B0FFTTH5ZG?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61UGmcfg8EL.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-16T22:00:00-03:00",
+   "coletado_em": "2026-11-15T18:15:00-03:00",
+   "preco_em": "2026-11-15T18:15:00-03:00",
+   "entrou": "2026-11-15T18:33:54.933937-03:00",
+   "dia": "2026-11-15"
+  },
+  {
+   "id": "amz-B0DS2K6MM5",
+   "canal": "tech",
+   "nome": "Fone sem Fio JBL Endurance Race 2 Esportivo",
+   "preco_antigo": 499.0,
+   "preco": 360.99,
+   "desconto": 28,
+   "link": "https://www.amazon.com.br/dp/B0DS2K6MM5?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51LecadzHsL.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-16T22:00:00-03:00",
+   "coletado_em": "2026-11-15T18:15:00-03:00",
+   "preco_em": "2026-11-15T18:15:00-03:00",
+   "entrou": "2026-11-15T18:33:54.933937-03:00",
+   "dia": "2026-11-15"
   }
  ],
  "ig_feitos": [
@@ -19504,7 +19637,9 @@
   "2026-11-15 19:17 story_oferta",
   "2026-11-15 20:30 reels",
   "2026-11-15 20:35 story_top4",
-  "2026-11-15 20:38 story_oferta"
+  "2026-11-15 20:38 story_oferta",
+  "parceria me-20261115",
+  "2026-11-15 21:24 story_oferta"
  ],
  "ig_ofertas_usadas": [
   "amz-B0CJ3WFW9H",
@@ -19798,61 +19933,14 @@
   "bs-gratis": "2026-11-15",
   "cv-salario": "2026-11-15",
   "bs-silenciar": "2026-11-15",
-  "ac-bf-antecipada": "2026-11-15"
+  "ac-bf-antecipada": "2026-11-15",
+  "dc-voltagem": "2026-11-15"
  },
  "pecas_dia": {
-  "2026-11-15": 14
+  "2026-11-15": 15
  },
- "ultimo_pilar": "anticilada",
+ "ultimo_pilar": "dica",
  "fila": [
-  {
-   "id": "amz-B09GSPW5BH",
-   "canal": "achadinhos",
-   "nome": "Shampoo L'Oréal Professionnel Pro Longer",
-   "preco_antigo": 116.9,
-   "preco": 74.9,
-   "desconto": 36,
-   "link": "https://www.amazon.com.br/dp/B09GSPW5BH?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/412onDYbL-L.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-16T22:00:00-03:00",
-   "coletado_em": "2026-11-15T18:15:00-03:00",
-   "preco_em": "2026-11-15T18:15:00-03:00",
-   "entrou": "2026-11-15T18:33:54.933937-03:00"
-  },
-  {
-   "id": "amz-B07LFMZBKW",
-   "canal": "achadinhos",
-   "nome": "Loção Hidratante Nivea Firmador Q10 + Vitamina C 400ml",
-   "preco_antigo": 36.9,
-   "preco": 23.2,
-   "desconto": 37,
-   "link": "https://www.amazon.com.br/dp/B07LFMZBKW?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61vNqDeG5pL.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-16T22:00:00-03:00",
-   "coletado_em": "2026-11-15T18:15:00-03:00",
-   "preco_em": "2026-11-15T18:15:00-03:00",
-   "entrou": "2026-11-15T18:33:54.933937-03:00"
-  },
-  {
-   "id": "amz-B0851FYF7X",
-   "canal": "achadinhos",
-   "nome": "Cafeteira Elétrica Black+Decker com Jarra Inox CM15",
-   "preco_antigo": 219.0,
-   "preco": 118.11,
-   "desconto": 46,
-   "link": "https://www.amazon.com.br/dp/B0851FYF7X?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51KTB6fQQ8L.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-16T22:00:00-03:00",
-   "coletado_em": "2026-11-15T18:15:00-03:00",
-   "preco_em": "2026-11-15T18:15:00-03:00",
-   "entrou": "2026-11-15T18:33:54.933937-03:00"
-  },
   {
    "id": "amz-B07YGFNDX9",
    "canal": "achadinhos",
@@ -19934,38 +20022,6 @@
    "entrou": "2026-11-15T18:33:54.933937-03:00"
   },
   {
-   "id": "amz-B0CGMNF4VC",
-   "canal": "marcas",
-   "nome": "Camiseta Hering Masculina Algodão Peruano",
-   "preco_antigo": 119.99,
-   "preco": 69.99,
-   "desconto": 42,
-   "link": "https://www.amazon.com.br/dp/B0CGMNF4VC?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/71PfnmRORGL.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-16T22:00:00-03:00",
-   "coletado_em": "2026-11-15T18:15:00-03:00",
-   "preco_em": "2026-11-15T18:15:00-03:00",
-   "entrou": "2026-11-15T18:33:54.933937-03:00"
-  },
-  {
-   "id": "amz-B0FFTTH5ZG",
-   "canal": "marcas",
-   "nome": "Tênis Mizuno Virtue 2 Preto",
-   "preco_antigo": 349.99,
-   "preco": 227.99,
-   "desconto": 35,
-   "link": "https://www.amazon.com.br/dp/B0FFTTH5ZG?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61UGmcfg8EL.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-16T22:00:00-03:00",
-   "coletado_em": "2026-11-15T18:15:00-03:00",
-   "preco_em": "2026-11-15T18:15:00-03:00",
-   "entrou": "2026-11-15T18:33:54.933937-03:00"
-  },
-  {
    "id": "amz-B0H9BRFL89",
    "canal": "marcas",
    "nome": "Tênis Asics Gel-Pulse 17 SE Masculino",
@@ -19991,38 +20047,6 @@
    "link": "https://www.amazon.com.br/dp/B0CKS4Q5MV?tag=papagarimpou-20",
    "imagem": "https://m.media-amazon.com/images/I/519Qu-LgJ9L.jpg",
    "loja": "Loja oficial Reserva · entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-16T22:00:00-03:00",
-   "coletado_em": "2026-11-15T18:15:00-03:00",
-   "preco_em": "2026-11-15T18:15:00-03:00",
-   "entrou": "2026-11-15T18:33:54.933937-03:00"
-  },
-  {
-   "id": "amz-B07GTTRBLV",
-   "canal": "tech",
-   "nome": "Mouse Gamer Redragon Griffin M607 7200 DPI",
-   "preco_antigo": 180.0,
-   "preco": 63.92,
-   "desconto": 64,
-   "link": "https://www.amazon.com.br/dp/B07GTTRBLV?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/519GEp93g3L.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-16T22:00:00-03:00",
-   "coletado_em": "2026-11-15T18:15:00-03:00",
-   "preco_em": "2026-11-15T18:15:00-03:00",
-   "entrou": "2026-11-15T18:33:54.933937-03:00"
-  },
-  {
-   "id": "amz-B0DS2K6MM5",
-   "canal": "tech",
-   "nome": "Fone sem Fio JBL Endurance Race 2 Esportivo",
-   "preco_antigo": 499.0,
-   "preco": 360.99,
-   "desconto": 28,
-   "link": "https://www.amazon.com.br/dp/B0DS2K6MM5?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51LecadzHsL.jpg",
-   "loja": "Vendido e entregue pela Amazon",
    "plataforma": "Amazon",
    "valida_ate": "2026-11-16T22:00:00-03:00",
    "coletado_em": "2026-11-15T18:15:00-03:00",
@@ -21413,7 +21437,14 @@
   "mousegamerlogitechg203lightsyncrgb": "2026-11-15T20:40:35.843429-03:00",
   "cafeteiraosterinox12l110v": "2026-11-15T20:48:06.313577-03:00",
   "kit2camisetasreservabrasapicapaubordado": "2026-11-15T20:55:04.944994-03:00",
-  "webcamlogitechc922prostreamfullhd": "2026-11-15T21:01:43.823321-03:00"
+  "webcamlogitechc922prostreamfullhd": "2026-11-15T21:01:43.823321-03:00",
+  "shampoolorealprofessionnelprolonger": "2026-11-15T21:07:17.439698-03:00",
+  "locaohidratanteniveafirmadorq10vitaminac400ml": "2026-11-15T21:09:54.244612-03:00",
+  "camisetaheringmasculinaalgodaoperuano": "2026-11-15T21:17:42.800391-03:00",
+  "mousegamerredragongriffinm6077200dpi": "2026-11-15T21:24:20.390045-03:00",
+  "cafeteiraeletricablackdeckercomjarrainoxcm15": "2026-11-15T21:30:35.084021-03:00",
+  "tenismizunovirtue2preto": "2026-11-15T21:37:09.250116-03:00",
+  "fonesemfiojblendurancerace2esportivo": "2026-11-15T21:44:37.346465-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
@@ -21812,7 +21843,7 @@
   "marcas": "2026-11-12T17:56:29.409807-03:00"
  },
  "top10_dia": "2026-11-14",
- "manuais_lidos": "2026-11-15T20:55:00.715662-03:00",
+ "manuais_lidos": "2026-11-15T21:37:04.222669-03:00",
  "reserva_resultado": {
   "2026-11-07": {
    "achadinhos": {
@@ -22017,7 +22048,7 @@
    "hora": "2026-11-11T20:32:35.453128-03:00"
   }
  },
- "ig_respondido_em": "2026-11-15T20:55:00.715662-03:00",
+ "ig_respondido_em": "2026-11-15T21:37:04.222669-03:00",
  "dm_auto": {
   "2026-11-08": {
    "com_palavra": 0,
@@ -22251,7 +22282,7 @@
    "feed": 2
   },
   "2026-11-15": {
-   "story": 21,
+   "story": 22,
    "feed": 2
   }
  },
