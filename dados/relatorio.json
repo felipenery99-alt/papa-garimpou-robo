@@ -3142,8 +3142,8 @@
    "⚠️ Fila vazia (tech), último garimpo 14/11 18:18 — abrir o app Claude e conferir as rotinas",
    "⚠️ Fila vazia (marcas), último garimpo 15:24 — abrir o app Claude e conferir as rotinas"
   ],
-  "ultima_execucao": "21:58",
-  "execucoes": 21,
+  "ultima_execucao": "22:21",
+  "execucoes": 22,
   "telegram_posts": {
    "achadinhos": 46,
    "marcas": 36,
@@ -3252,7 +3252,7 @@
    "marcas": {
     "busca": 0,
     "quase": 0,
-    "reprise": 0
+    "reprise": 1
    }
   },
   "shopee_oficial_ids": {
@@ -5810,11 +5810,39 @@
    "shopee-22899386029": "vendas longe",
    "shopee-22497180202": "vendas longe",
    "shopee-23397480774": "vendas longe",
-   "shopee-54267390945": "outro: palavra proibida: compatível"
+   "shopee-54267390945": "outro: palavra proibida: compatível",
+   "shopee-22498393524": "nota",
+   "shopee-21298105307": "nota",
+   "shopee-20998105456": "nota",
+   "shopee-19799674156": "nota",
+   "shopee-23998364263": "nota",
+   "shopee-41304690176": "nota",
+   "shopee-19455099925": "vendas longe",
+   "shopee-23593939335": "nota",
+   "shopee-23498441046": "nota",
+   "shopee-23493949345": "nota",
+   "shopee-22198500157": "nota",
+   "shopee-22294030261": "nota",
+   "shopee-41156532052": "vendas longe",
+   "shopee-22499683933": "nota",
+   "shopee-22294164881": "nota",
+   "shopee-21599832277": "vendas longe",
+   "shopee-21099832289": "vendas longe",
+   "shopee-55256175931": "nota",
+   "shopee-27835436813": "nota",
+   "shopee-22098500218": "nota",
+   "shopee-23493512124": "vendas longe",
+   "shopee-19098021307": "vendas longe",
+   "shopee-50201119030": "vendas longe",
+   "shopee-23793725946": "nota",
+   "shopee-49664800361": "vendas longe",
+   "shopee-19699208321": "vendas longe",
+   "shopee-43929175575": "vendas longe",
+   "shopee-23393680005": "vendas longe"
   },
   "shopee_oficial": {
-   "vendas longe": 1381,
-   "nota": 841,
+   "vendas longe": 1392,
+   "nota": 858,
    "vendas perto (125+)": 105,
    "desconto longe": 67,
    "aprovada": 63,
@@ -6156,7 +6184,7 @@
    "stories_ativos": 22
   },
   "reels_alcance": {
-   "atualizado": "2026-11-15T21:58:52.363123-03:00",
+   "atualizado": "2026-11-15T22:21:34.789653-03:00",
    "itens": [
     {
      "id": "18230902090331796",

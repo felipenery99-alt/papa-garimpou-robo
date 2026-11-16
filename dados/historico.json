@@ -20171,6 +20171,24 @@
    "link": "https://s.shopee.com.br/906kLS31zO",
    "canal": "tech",
    "entrou": "2026-11-15T19:36:33.193234-03:00"
+  },
+  {
+   "id": "shopee-18216465769",
+   "plataforma": "Shopee",
+   "nome": "Kit 10 Pares Meias Lupo Sport Cano Invisível Algodão Soquete Sapatilha Unissex Original Confortável",
+   "loja": "Deccó",
+   "loja_oficial": true,
+   "preco": 76.29,
+   "preco_antigo": 136.23,
+   "desconto": 44,
+   "vendas": 575,
+   "nota": 4.9,
+   "comissao_pct": 7.0,
+   "imagem": "https://cf.shopee.com.br/file/br-11134207-820l4-mq6aqvo690cje6",
+   "link": "https://s.shopee.com.br/7VHymw568D",
+   "canal": "marcas",
+   "entrou": "2026-11-15T22:21:34.789653-03:00",
+   "reprise_dias": 7
   }
  ],
  "menus_fixados": [
@@ -21810,7 +21828,7 @@
  "ultimo_garimpo": "2026-11-15T18:18:18-03:00",
  "vigia_aviso_post": "2026-11-09T18:27:03.734589-03:00",
  "vigia_aviso_garimpo": "2026-11-15T18:10:51.499165-03:00",
- "resumo_enviado": "2026-11-14",
+ "resumo_enviado": "2026-11-15",
  "token_conferido": "2026-11-15",
  "meta_token": {
   "tipo": "SYSTEM_USER",
@@ -21851,7 +21869,7 @@
   "marcas": "2026-11-12T17:56:29.409807-03:00"
  },
  "top10_dia": "2026-11-14",
- "manuais_lidos": "2026-11-15T22:04:06.099293-03:00",
+ "manuais_lidos": "2026-11-15T22:31:27.592807-03:00",
  "reserva_resultado": {
   "2026-11-07": {
    "achadinhos": {
@@ -21998,7 +22016,7 @@
    "marcas": {
     "busca": 0,
     "quase": 0,
-    "reprise": 0
+    "reprise": 1
    }
   }
  },
@@ -22056,7 +22074,7 @@
    "hora": "2026-11-11T20:32:35.453128-03:00"
   }
  },
- "ig_respondido_em": "2026-11-15T21:58:52.363123-03:00",
+ "ig_respondido_em": "2026-11-15T22:21:34.789653-03:00",
  "dm_auto": {
   "2026-11-08": {
    "com_palavra": 0,
@@ -22298,5 +22316,16 @@
  "share_erro": {},
  "ig_tentativas": {
   "2026-11-15 14:08 story_oferta": 1
- }
+ },
+ "resumo_log": [
+  {
+   "dia": "2026-11-15",
+   "quando": "15/11 22:21",
+   "ok": true,
+   "chat_tipo": "private",
+   "message_ids": [
+    82
+   ]
+  }
+ ]
 }
