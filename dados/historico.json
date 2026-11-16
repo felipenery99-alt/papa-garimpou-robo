@@ -1571,7 +1571,13 @@
   "2026-11-16 marcas 18:08 amz-B0CJJVQZZS",
   "2026-11-16 tech 18:14 amz-B0GTS998HJ",
   "2026-11-16 marcas 18:21 amz-B0F3R7718T",
-  "2026-11-16 tech 18:28 amz-B0FJQJTYKG"
+  "2026-11-16 tech 18:28 amz-B0FJQJTYKG",
+  "2026-11-16 achadinhos 18:38 amz-B0BMW8HN94",
+  "2026-11-16 marcas 18:44 amz-B00H94O76I",
+  "2026-11-16 tech 18:51 amz-B0FS94XK4K",
+  "2026-11-16 achadinhos 18:59 amz-B08HZHH47D",
+  "2026-11-16 marcas 19:06 amz-B08T9X7B8J",
+  "2026-11-16 tech 19:14 amz-B0D4NRBBMR"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -3071,7 +3077,13 @@
   "amz-B0CJJVQZZS": "2026-11-16T18:08:02.483861-03:00",
   "amz-B0GTS998HJ": "2026-11-16T18:14:57.684520-03:00",
   "amz-B0F3R7718T": "2026-11-16T18:21:48.510058-03:00",
-  "amz-B0FJQJTYKG": "2026-11-16T18:28:56.602012-03:00"
+  "amz-B0FJQJTYKG": "2026-11-16T18:28:56.602012-03:00",
+  "amz-B0BMW8HN94": "2026-11-16T18:38:06.550821-03:00",
+  "amz-B00H94O76I": "2026-11-16T18:44:59.147088-03:00",
+  "amz-B0FS94XK4K": "2026-11-16T18:51:23.515644-03:00",
+  "amz-B08HZHH47D": "2026-11-16T18:59:00.350580-03:00",
+  "amz-B08T9X7B8J": "2026-11-16T19:06:25.137985-03:00",
+  "amz-B0D4NRBBMR": "2026-11-16T19:14:04.605404-03:00"
  },
  "ofertas_dia": [
   {
@@ -19817,6 +19829,110 @@
    "preco_em": "2026-11-16T08:24:06-03:00",
    "entrou": "2026-11-16T17:02:09.425884-03:00",
    "dia": "2026-11-16"
+  },
+  {
+   "id": "amz-B0BMW8HN94",
+   "canal": "achadinhos",
+   "nome": "Cafeteira Nescafé Dolce Gusto",
+   "preco_antigo": 929.99,
+   "preco": 479.0,
+   "desconto": 48,
+   "link": "https://www.amazon.com.br/dp/B0BMW8HN94?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51Zvl1ICcyL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-17T22:00:00-03:00",
+   "coletado_em": "2026-11-16T18:16:59-03:00",
+   "preco_em": "2026-11-16T18:16:59-03:00",
+   "entrou": "2026-11-16T18:21:48.058175-03:00",
+   "dia": "2026-11-16"
+  },
+  {
+   "id": "amz-B00H94O76I",
+   "canal": "marcas",
+   "nome": "Mochila Samsonite Ikonn III Preta 15\"",
+   "preco_antigo": 600.0,
+   "preco": 349.9,
+   "desconto": 42,
+   "link": "https://www.amazon.com.br/dp/B00H94O76I?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/41nb4u+WvXL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-17T22:00:00-03:00",
+   "coletado_em": "2026-11-16T12:17:10-03:00",
+   "preco_em": "2026-11-16T12:17:10-03:00",
+   "entrou": "2026-11-16T16:39:10.064259-03:00",
+   "dia": "2026-11-16"
+  },
+  {
+   "id": "amz-B0FS94XK4K",
+   "canal": "tech",
+   "nome": "Celular Samsung Galaxy S25 FE 5G 256GB 8GB RAM",
+   "preco_antigo": 5499.0,
+   "preco": 3599.1,
+   "desconto": 35,
+   "link": "https://www.amazon.com.br/dp/B0FS94XK4K?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/610jDH7uwNL.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-17T22:00:00-03:00",
+   "coletado_em": "2026-11-16T08:24:06-03:00",
+   "preco_em": "2026-11-16T08:24:06-03:00",
+   "entrou": "2026-11-16T17:02:09.425884-03:00",
+   "dia": "2026-11-16"
+  },
+  {
+   "id": "amz-B08HZHH47D",
+   "canal": "achadinhos",
+   "nome": "Cafeteira Elétrica Mondial Smart",
+   "preco_antigo": 189.9,
+   "preco": 94.49,
+   "desconto": 50,
+   "link": "https://www.amazon.com.br/dp/B08HZHH47D?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71hJtcy2-DL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-17T22:00:00-03:00",
+   "coletado_em": "2026-11-16T18:16:59-03:00",
+   "gancho": "CAFEZINHO PELA METADE DO PREÇO",
+   "preco_em": "2026-11-16T18:16:59-03:00",
+   "entrou": "2026-11-16T18:21:48.058175-03:00",
+   "dia": "2026-11-16"
+  },
+  {
+   "id": "amz-B08T9X7B8J",
+   "canal": "marcas",
+   "nome": "Camiseta Calvin Klein Logo Básico Masculina",
+   "preco_antigo": 179.0,
+   "preco": 107.99,
+   "desconto": 40,
+   "link": "https://www.amazon.com.br/dp/B08T9X7B8J?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/810BgC1tyQL._AC_SL1500_.jpg",
+   "loja": "Vendido pela Netshoes · entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-17T22:00:00-03:00",
+   "coletado_em": "2026-11-16T12:17:10-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "preco_em": "2026-11-16T12:17:10-03:00",
+   "entrou": "2026-11-16T16:39:10.064259-03:00",
+   "dia": "2026-11-16"
+  },
+  {
+   "id": "amz-B0D4NRBBMR",
+   "canal": "tech",
+   "nome": "Notebook Samsung Galaxy Book4 Intel Core i5 Windows 11",
+   "preco_antigo": 5799.0,
+   "preco": 3778.2,
+   "desconto": 35,
+   "link": "https://www.amazon.com.br/dp/B0D4NRBBMR?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71qOQOgOZUL.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-17T22:00:00-03:00",
+   "coletado_em": "2026-11-16T08:24:06-03:00",
+   "preco_em": "2026-11-16T08:24:06-03:00",
+   "entrou": "2026-11-16T17:02:09.425884-03:00",
+   "dia": "2026-11-16"
   }
  ],
  "ig_feitos": [
@@ -19942,7 +20058,10 @@
   "story especial pede-pro-papa 2026-11-16",
   "2026-11-16 17:36 story_oferta",
   "2026-11-16 18:05 a_ou_b",
-  "2026-11-16 18:09 story_oferta"
+  "2026-11-16 18:09 story_oferta",
+  "2026-11-16 feed",
+  "2026-11-16 18:30 reels",
+  "2026-11-16 18:42 story_oferta"
  ],
  "ig_ofertas_usadas": [
   "amz-B0C2JFGFK9",
@@ -20148,7 +20267,7 @@
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
- "ig_ultimo_reel": "2026-11-16T12:06:33.733638-03:00",
+ "ig_ultimo_reel": "2026-11-16T18:37:24.615329-03:00",
  "pecas_usadas": {
   "ac-preco-inflado": "2026-10-27",
   "dc-7-dias": "2026-10-27",
@@ -20251,46 +20370,14 @@
   "dc-suplemento": "2026-11-16",
   "hu-entregador": "2026-11-16",
   "mv-desconto-alto": "2026-11-16",
-  "hu-so-olhando": "2026-11-16"
+  "hu-so-olhando": "2026-11-16",
+  "mv-sem-juros": "2026-11-16"
  },
  "pecas_dia": {
-  "2026-11-16": 10
+  "2026-11-16": 11
  },
- "ultimo_pilar": "humor",
+ "ultimo_pilar": "mito",
  "fila": [
-  {
-   "id": "amz-B00H94O76I",
-   "canal": "marcas",
-   "nome": "Mochila Samsonite Ikonn III Preta 15\"",
-   "preco_antigo": 600.0,
-   "preco": 349.9,
-   "desconto": 42,
-   "link": "https://www.amazon.com.br/dp/B00H94O76I?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/41nb4u+WvXL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-17T22:00:00-03:00",
-   "coletado_em": "2026-11-16T12:17:10-03:00",
-   "preco_em": "2026-11-16T12:17:10-03:00",
-   "entrou": "2026-11-16T16:39:10.064259-03:00"
-  },
-  {
-   "id": "amz-B08T9X7B8J",
-   "canal": "marcas",
-   "nome": "Camiseta Calvin Klein Logo Básico Masculina",
-   "preco_antigo": 179.0,
-   "preco": 107.99,
-   "desconto": 40,
-   "link": "https://www.amazon.com.br/dp/B08T9X7B8J?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/810BgC1tyQL._AC_SL1500_.jpg",
-   "loja": "Vendido pela Netshoes · entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-17T22:00:00-03:00",
-   "coletado_em": "2026-11-16T12:17:10-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "preco_em": "2026-11-16T12:17:10-03:00",
-   "entrou": "2026-11-16T16:39:10.064259-03:00"
-  },
   {
    "id": "amz-B0D7MZJ6V3",
    "canal": "marcas",
@@ -20343,38 +20430,6 @@
    "entrou": "2026-11-16T16:39:10.064259-03:00"
   },
   {
-   "id": "amz-B0FS94XK4K",
-   "canal": "tech",
-   "nome": "Celular Samsung Galaxy S25 FE 5G 256GB 8GB RAM",
-   "preco_antigo": 5499.0,
-   "preco": 3599.1,
-   "desconto": 35,
-   "link": "https://www.amazon.com.br/dp/B0FS94XK4K?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/610jDH7uwNL.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-17T22:00:00-03:00",
-   "coletado_em": "2026-11-16T08:24:06-03:00",
-   "preco_em": "2026-11-16T08:24:06-03:00",
-   "entrou": "2026-11-16T17:02:09.425884-03:00"
-  },
-  {
-   "id": "amz-B0D4NRBBMR",
-   "canal": "tech",
-   "nome": "Notebook Samsung Galaxy Book4 Intel Core i5 Windows 11",
-   "preco_antigo": 5799.0,
-   "preco": 3778.2,
-   "desconto": 35,
-   "link": "https://www.amazon.com.br/dp/B0D4NRBBMR?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/71qOQOgOZUL.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-17T22:00:00-03:00",
-   "coletado_em": "2026-11-16T08:24:06-03:00",
-   "preco_em": "2026-11-16T08:24:06-03:00",
-   "entrou": "2026-11-16T17:02:09.425884-03:00"
-  },
-  {
    "id": "amz-B0BX52PCJ5",
    "canal": "tech",
    "nome": "Mouse Gamer HyperX Pulsefire Haste 2",
@@ -20389,39 +20444,6 @@
    "coletado_em": "2026-11-16T08:24:06-03:00",
    "preco_em": "2026-11-16T08:24:06-03:00",
    "entrou": "2026-11-16T17:02:09.425884-03:00"
-  },
-  {
-   "id": "amz-B0BMW8HN94",
-   "canal": "achadinhos",
-   "nome": "Cafeteira Nescafé Dolce Gusto",
-   "preco_antigo": 929.99,
-   "preco": 479.0,
-   "desconto": 48,
-   "link": "https://www.amazon.com.br/dp/B0BMW8HN94?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51Zvl1ICcyL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-17T22:00:00-03:00",
-   "coletado_em": "2026-11-16T18:16:59-03:00",
-   "preco_em": "2026-11-16T18:16:59-03:00",
-   "entrou": "2026-11-16T18:21:48.058175-03:00"
-  },
-  {
-   "id": "amz-B08HZHH47D",
-   "canal": "achadinhos",
-   "nome": "Cafeteira Elétrica Mondial Smart",
-   "preco_antigo": 189.9,
-   "preco": 94.49,
-   "desconto": 50,
-   "link": "https://www.amazon.com.br/dp/B08HZHH47D?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/71hJtcy2-DL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-17T22:00:00-03:00",
-   "coletado_em": "2026-11-16T18:16:59-03:00",
-   "gancho": "CAFEZINHO PELA METADE DO PREÇO",
-   "preco_em": "2026-11-16T18:16:59-03:00",
-   "entrou": "2026-11-16T18:21:48.058175-03:00"
   },
   {
    "id": "amz-B09JCQLC7D",
@@ -22051,7 +22073,13 @@
   "kit5camisetasheringbasicasmasculinas": "2026-11-16T18:08:02.483861-03:00",
   "appleiphone17e256gbbranco": "2026-11-16T18:14:57.684520-03:00",
   "mochilaeverlasturbanpretanylon": "2026-11-16T18:21:48.510058-03:00",
-  "jogoborderlands4playstation5": "2026-11-16T18:28:56.602012-03:00"
+  "jogoborderlands4playstation5": "2026-11-16T18:28:56.602012-03:00",
+  "cafeteiranescafedolcegusto": "2026-11-16T18:38:06.550821-03:00",
+  "mochilasamsoniteikonniiipreta15": "2026-11-16T18:44:59.147088-03:00",
+  "celularsamsunggalaxys25fe5g256gb8gbram": "2026-11-16T18:51:23.515644-03:00",
+  "cafeteiraeletricamondialsmart": "2026-11-16T18:59:00.350580-03:00",
+  "camisetacalvinkleinlogobasicomasculina": "2026-11-16T19:06:25.137985-03:00",
+  "notebooksamsunggalaxybook4intelcorei5windows11": "2026-11-16T19:14:04.605404-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
@@ -22313,6 +22341,9 @@
    "shopee-19399263103",
    "shopee-41478796304",
    "shopee-18797677549"
+  ],
+  "2026-11-16": [
+   "shopee-41253171051"
   ]
  },
  "vendas_shopee": {},
@@ -22406,7 +22437,7 @@
  },
  "story_link_dia": "2026-11-16",
  "pede_semana": "2026-46",
- "ultimo_garimpo": "2026-11-16T15:15:44-03:00",
+ "ultimo_garimpo": "2026-11-16T18:17:04-03:00",
  "vigia_aviso_post": "2026-11-09T18:27:03.734589-03:00",
  "vigia_aviso_garimpo": "2026-11-16T17:47:00.570679-03:00",
  "resumo_enviado": "2026-11-15",
@@ -22450,7 +22481,7 @@
   "marcas": "2026-11-12T17:56:29.409807-03:00"
  },
  "top10_dia": "2026-11-14",
- "manuais_lidos": "2026-11-16T18:21:48.058175-03:00",
+ "manuais_lidos": "2026-11-16T19:06:24.561275-03:00",
  "reserva_resultado": {
   "2026-11-07": {
    "achadinhos": {
@@ -22660,9 +22691,13 @@
   "18230902090331796": {
    "capa": "ate_off",
    "hora": "2026-11-11T20:32:35.453128-03:00"
+  },
+  "17965736697237404": {
+   "capa": "uma_oferta",
+   "hora": "2026-11-16T18:37:24.615329-03:00"
   }
  },
- "ig_respondido_em": "2026-11-16T18:28:51.857848-03:00",
+ "ig_respondido_em": "2026-11-16T19:13:58.979587-03:00",
  "dm_auto": {
   "2026-11-09": {
    "com_palavra": 0,
@@ -22886,6 +22921,12 @@
     "capa": "banco",
     "legenda": "Manda pra quem tá precisando disso 👇\n😎💎 Sua Carteira / Cartão Virtual / Fone, Celular,\n\nOfertas todo dia no Telegram: papagarimpouofertas 💎\n\nPubli · link de afiliado",
     "url": "https://raw.githubusercontent.com/felipenery99-alt/papa-garimpou-robo/tiktok-midia/20261116-1206-tiktok.mp4"
+   },
+   {
+    "hora": "18:37",
+    "capa": "uma_oferta",
+    "legenda": "Manda pra quem tá precisando disso 👇\n😎💎 Baseus BP1 Pro ANC Fone De Ouvido Sem Fio-50dB Redução De Ruído De Alta Resolução Bluetoot\n\nOfertas todo dia no Telegram: papagarimpouofertas 💎\n\nPubli · link de afiliado",
+    "url": "https://raw.githubusercontent.com/felipenery99-alt/papa-garimpou-robo/tiktok-midia/20261116-1837-tiktok.mp4"
    }
   ]
  },
@@ -22904,8 +22945,8 @@
    "feed": 2
   },
   "2026-11-16": {
-   "story": 20,
-   "feed": 1
+   "story": 21,
+   "feed": 2
   }
  },
  "ig_conta_ok": "2026-11-16",
