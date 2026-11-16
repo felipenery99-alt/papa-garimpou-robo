@@ -112,5 +112,11 @@
   "vezes": 1,
   "ultimo": "2026-11-16T19:09+00:00",
   "texto": "erro em 2026-11-16 achadinhos 16:08 amz-B0D98VXWXB (envio ao Telegram): HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=60). Não postei."
+ },
+ "⚠️ Fila vazia (achadinhos), último garimpo #:# — abrir o app Claude e conferir a": {
+  "primeiro": "2026-11-16T20:51+00:00",
+  "vezes": 1,
+  "ultimo": "2026-11-16T20:51+00:00",
+  "texto": "⚠️ Fila vazia (achadinhos), último garimpo 15:15 — abrir o app Claude e conferir as rotinas"
  }
 }
