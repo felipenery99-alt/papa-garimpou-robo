@@ -1645,7 +1645,13 @@
   "2026-11-17 marcas 13:50 amz-B0GSBFJ33V",
   "2026-11-17 tech 13:57 amz-B0GJ18S12T",
   "2026-11-17 achadinhos 14:05 amz-B0FRNCB6XX",
-  "2026-11-17 marcas 14:13 amz-B0HDFVVX1K"
+  "2026-11-17 marcas 14:13 amz-B0HDFVVX1K",
+  "2026-11-17 achadinhos 14:23 amz-B0CCT3KQ3H",
+  "2026-11-17 achadinhos 14:29 amz-B0CH43CT7Q",
+  "2026-11-17 marcas 14:36 amz-B084PTSM4D",
+  "2026-11-17 tech 14:43 amz-B0FK7YV5RB",
+  "2026-11-17 achadinhos 14:51 amz-B0BTTWT4F6",
+  "2026-11-17 marcas 14:58 amz-B0H3BXFGHB"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -3209,7 +3215,13 @@
   "amz-B0GSBFJ33V": "2026-11-17T13:50:04.595956-03:00",
   "amz-B0GJ18S12T": "2026-11-17T13:57:50.549790-03:00",
   "amz-B0FRNCB6XX": "2026-11-17T14:05:52.053751-03:00",
-  "amz-B0HDFVVX1K": "2026-11-17T14:13:56.922248-03:00"
+  "amz-B0HDFVVX1K": "2026-11-17T14:13:56.922248-03:00",
+  "amz-B0CCT3KQ3H": "2026-11-17T14:23:39.172416-03:00",
+  "amz-B0CH43CT7Q": "2026-11-17T14:29:11.959126-03:00",
+  "amz-B084PTSM4D": "2026-11-17T14:36:10.564643-03:00",
+  "amz-B0FK7YV5RB": "2026-11-17T14:43:17.197044-03:00",
+  "amz-B0BTTWT4F6": "2026-11-17T14:51:15.972250-03:00",
+  "amz-B0H3BXFGHB": "2026-11-17T14:58:49.930676-03:00"
  },
  "ofertas_dia": [
   {
@@ -20066,6 +20078,110 @@
    "preco_em": "2026-11-17T12:22:04-03:00",
    "entrou": "2026-11-17T12:27:25.476920-03:00",
    "dia": "2026-11-17"
+  },
+  {
+   "id": "amz-B0CCT3KQ3H",
+   "canal": "achadinhos",
+   "nome": "Protetor solar facial La Roche-Posay Anthelios Airlicium com cor",
+   "preco_antigo": 99.9,
+   "preco": 65.44,
+   "desconto": 34,
+   "link": "https://www.amazon.com.br/dp/B0CCT3KQ3H?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71XIHu8QjEL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-18T22:00:00-03:00",
+   "coletado_em": "2026-11-17T12:21:54-03:00",
+   "preco_em": "2026-11-17T12:21:54-03:00",
+   "entrou": "2026-11-17T12:27:25.476920-03:00",
+   "dia": "2026-11-17"
+  },
+  {
+   "id": "amz-B0CH43CT7Q",
+   "canal": "achadinhos",
+   "nome": "Lavadora de alta pressão WAP WL 1820 1500 PSI 220V",
+   "preco_antigo": 669.9,
+   "preco": 374.0,
+   "desconto": 44,
+   "link": "https://www.amazon.com.br/dp/B0CH43CT7Q?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51PjODHnqQL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-18T22:00:00-03:00",
+   "coletado_em": "2026-11-17T12:21:45-03:00",
+   "preco_em": "2026-11-17T12:21:45-03:00",
+   "entrou": "2026-11-17T12:27:25.476920-03:00",
+   "dia": "2026-11-17"
+  },
+  {
+   "id": "amz-B084PTSM4D",
+   "canal": "marcas",
+   "nome": "Camiseta Hering masculina básica algodão Pima",
+   "preco_antigo": 179.99,
+   "preco": 112.9,
+   "desconto": 37,
+   "link": "https://www.amazon.com.br/dp/B084PTSM4D?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61X-P0iAD3L._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-18T22:00:00-03:00",
+   "coletado_em": "2026-11-17T12:22:02-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "preco_em": "2026-11-17T12:22:02-03:00",
+   "entrou": "2026-11-17T12:27:25.476920-03:00",
+   "dia": "2026-11-17"
+  },
+  {
+   "id": "amz-B0FK7YV5RB",
+   "canal": "tech",
+   "nome": "Jogo Pac-Man World 2 Re-Pac para Nintendo Switch 2",
+   "preco_antigo": 259.9,
+   "preco": 159.89,
+   "desconto": 38,
+   "link": "https://www.amazon.com.br/dp/B0FK7YV5RB?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/81EXaPgAGbL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-18T22:00:00-03:00",
+   "coletado_em": "2026-11-17T12:21:44-03:00",
+   "preco_em": "2026-11-17T12:21:44-03:00",
+   "entrou": "2026-11-17T12:27:25.476920-03:00",
+   "dia": "2026-11-17"
+  },
+  {
+   "id": "amz-B0BTTWT4F6",
+   "canal": "achadinhos",
+   "nome": "Escova secadora Revlon Root Booster 127V",
+   "preco_antigo": 549.0,
+   "preco": 314.91,
+   "desconto": 43,
+   "link": "https://www.amazon.com.br/dp/B0BTTWT4F6?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51QzVgWFwlL._AC_SL1200_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-18T22:00:00-03:00",
+   "coletado_em": "2026-11-17T12:21:54-03:00",
+   "preco_em": "2026-11-17T12:21:54-03:00",
+   "entrou": "2026-11-17T12:27:25.476920-03:00",
+   "dia": "2026-11-17"
+  },
+  {
+   "id": "amz-B0H3BXFGHB",
+   "canal": "marcas",
+   "nome": "Tênis Olympikus Elevado",
+   "preco_antigo": 279.99,
+   "preco": 161.99,
+   "desconto": 42,
+   "link": "https://www.amazon.com.br/dp/B0H3BXFGHB?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71fakIhI-2L._AC_SL1500_.jpg",
+   "loja": "Vendido pela Netshoes · Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-18T22:00:00-03:00",
+   "coletado_em": "2026-11-17T08:17:20-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "preco_em": "2026-11-17T08:17:20-03:00",
+   "entrou": "2026-11-17T12:43:04.013425-03:00",
+   "dia": "2026-11-17"
   }
  ],
  "ig_feitos": [
@@ -20517,54 +20633,6 @@
  "ultimo_pilar": "bastidor",
  "fila": [
   {
-   "id": "amz-B0CCT3KQ3H",
-   "canal": "achadinhos",
-   "nome": "Protetor solar facial La Roche-Posay Anthelios Airlicium com cor",
-   "preco_antigo": 99.9,
-   "preco": 65.44,
-   "desconto": 34,
-   "link": "https://www.amazon.com.br/dp/B0CCT3KQ3H?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/71XIHu8QjEL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-18T22:00:00-03:00",
-   "coletado_em": "2026-11-17T12:21:54-03:00",
-   "preco_em": "2026-11-17T12:21:54-03:00",
-   "entrou": "2026-11-17T12:27:25.476920-03:00"
-  },
-  {
-   "id": "amz-B0CH43CT7Q",
-   "canal": "achadinhos",
-   "nome": "Lavadora de alta pressão WAP WL 1820 1500 PSI 220V",
-   "preco_antigo": 669.9,
-   "preco": 374.0,
-   "desconto": 44,
-   "link": "https://www.amazon.com.br/dp/B0CH43CT7Q?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51PjODHnqQL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-18T22:00:00-03:00",
-   "coletado_em": "2026-11-17T12:21:45-03:00",
-   "preco_em": "2026-11-17T12:21:45-03:00",
-   "entrou": "2026-11-17T12:27:25.476920-03:00"
-  },
-  {
-   "id": "amz-B0BTTWT4F6",
-   "canal": "achadinhos",
-   "nome": "Escova secadora Revlon Root Booster 127V",
-   "preco_antigo": 549.0,
-   "preco": 314.91,
-   "desconto": 43,
-   "link": "https://www.amazon.com.br/dp/B0BTTWT4F6?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51QzVgWFwlL._AC_SL1200_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-18T22:00:00-03:00",
-   "coletado_em": "2026-11-17T12:21:54-03:00",
-   "preco_em": "2026-11-17T12:21:54-03:00",
-   "entrou": "2026-11-17T12:27:25.476920-03:00"
-  },
-  {
    "id": "amz-B09ZKP7HBB",
    "canal": "achadinhos",
    "nome": "Aspirador portátil à bateria Black+Decker 12V APB12000",
@@ -20642,39 +20710,6 @@
    "valida_ate": "2026-11-18T22:00:00-03:00",
    "coletado_em": "2026-11-17T12:21:54-03:00",
    "preco_em": "2026-11-17T12:21:54-03:00",
-   "entrou": "2026-11-17T12:27:25.476920-03:00"
-  },
-  {
-   "id": "amz-B084PTSM4D",
-   "canal": "marcas",
-   "nome": "Camiseta Hering masculina básica algodão Pima",
-   "preco_antigo": 179.99,
-   "preco": 112.9,
-   "desconto": 37,
-   "link": "https://www.amazon.com.br/dp/B084PTSM4D?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61X-P0iAD3L._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-18T22:00:00-03:00",
-   "coletado_em": "2026-11-17T12:22:02-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "preco_em": "2026-11-17T12:22:02-03:00",
-   "entrou": "2026-11-17T12:27:25.476920-03:00"
-  },
-  {
-   "id": "amz-B0FK7YV5RB",
-   "canal": "tech",
-   "nome": "Jogo Pac-Man World 2 Re-Pac para Nintendo Switch 2",
-   "preco_antigo": 259.9,
-   "preco": 159.89,
-   "desconto": 38,
-   "link": "https://www.amazon.com.br/dp/B0FK7YV5RB?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/81EXaPgAGbL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-18T22:00:00-03:00",
-   "coletado_em": "2026-11-17T12:21:44-03:00",
-   "preco_em": "2026-11-17T12:21:44-03:00",
    "entrou": "2026-11-17T12:27:25.476920-03:00"
   },
   {
@@ -20804,23 +20839,6 @@
    "coletado_em": "2026-11-17T12:21:44-03:00",
    "preco_em": "2026-11-17T12:21:44-03:00",
    "entrou": "2026-11-17T12:27:25.476920-03:00"
-  },
-  {
-   "id": "amz-B0H3BXFGHB",
-   "canal": "marcas",
-   "nome": "Tênis Olympikus Elevado",
-   "preco_antigo": 279.99,
-   "preco": 161.99,
-   "desconto": 42,
-   "link": "https://www.amazon.com.br/dp/B0H3BXFGHB?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/71fakIhI-2L._AC_SL1500_.jpg",
-   "loja": "Vendido pela Netshoes · Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-18T22:00:00-03:00",
-   "coletado_em": "2026-11-17T08:17:20-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "preco_em": "2026-11-17T08:17:20-03:00",
-   "entrou": "2026-11-17T12:43:04.013425-03:00"
   },
   {
    "id": "amz-B0BPJS37ZN",
@@ -21022,7 +21040,7 @@
   "mousesemfiologitechmxanywhere3s": "2026-11-01T18:22:47.572021-03:00",
   "aspiradordepoeaguawapgtw10litros": "2026-11-01T18:29:05.130496-03:00",
   "camisapolobasicaheringmasculinaempiquet": "2026-11-01T18:56:42.757140-03:00",
-  "tenisolympikuselevado": "2026-11-01T19:09:59.834119-03:00",
+  "tenisolympikuselevado": "2026-11-17T14:58:49.930676-03:00",
   "fonebluetoothjbltune530btoverear": "2026-11-01T19:14:42.265825-03:00",
   "airfryerbritaniabfr3742l1500w": "2026-11-01T19:33:54.778697-03:00",
   "tecladomecanicosemfiologitechmxmechanical": "2026-11-01T19:43:52.773814-03:00",
@@ -22266,7 +22284,12 @@
   "tenisasicsgelshinobi3masculino": "2026-11-17T13:50:04.595956-03:00",
   "foneesportivojblendurancepeak4comanceip68": "2026-11-17T13:57:50.549790-03:00",
   "aparadorebarbeadorphilipsserie900016em1": "2026-11-17T14:05:52.053751-03:00",
-  "creatinagummygrowthsupplements90unidades": "2026-11-17T14:13:56.922248-03:00"
+  "creatinagummygrowthsupplements90unidades": "2026-11-17T14:13:56.922248-03:00",
+  "protetorsolarfaciallarocheposayantheliosairliciumcomcor": "2026-11-17T14:23:39.172416-03:00",
+  "lavadoradealtapressaowapwl18201500psi220v": "2026-11-17T14:29:11.959126-03:00",
+  "camisetaheringmasculinabasicaalgodaopima": "2026-11-17T14:36:10.564643-03:00",
+  "jogopacmanworld2repacparanintendoswitch2": "2026-11-17T14:43:17.197044-03:00",
+  "escovasecadorarevlonrootbooster127v": "2026-11-17T14:51:15.972250-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
@@ -22673,7 +22696,7 @@
   "marcas": "2026-11-12T17:56:29.409807-03:00"
  },
  "top10_dia": "2026-11-14",
- "manuais_lidos": "2026-11-17T14:13:34.439579-03:00",
+ "manuais_lidos": "2026-11-17T14:58:45.968929-03:00",
  "reserva_resultado": {
   "2026-11-07": {
    "achadinhos": {
@@ -22916,7 +22939,7 @@
    "hora": "2026-11-16T18:37:24.615329-03:00"
   }
  },
- "ig_respondido_em": "2026-11-17T14:13:34.439579-03:00",
+ "ig_respondido_em": "2026-11-17T14:58:45.968929-03:00",
  "dm_auto": {
   "2026-11-10": {
    "com_palavra": 0,
@@ -23211,7 +23234,7 @@
   }
  },
  "awin_teste": {
-  "quando": "17/11 13:29",
+  "quando": "17/11 14:14",
   "limpo": true,
   "http": 302,
   "host": "www.nike.com.br",

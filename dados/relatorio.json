@@ -3483,17 +3483,17 @@
    "erro em 2026-11-17 marcas 13:06 shopee-18216465769 (foto): 503 Server Error: Service Unavailable for url: https://cf.shopee.com.br/file/br-11134207-820l4-mq6aqvo690cje6. Não postei.",
    "Awin liberada: o redirecionamento já traz o nome novo; soltei o cupom BLACK30 e os links Awin."
   ],
-  "ultima_execucao": "13:29",
-  "execucoes": 15,
+  "ultima_execucao": "14:14",
+  "execucoes": 16,
   "telegram_posts": {
-   "achadinhos": 23,
-   "marcas": 14,
-   "tech": 9
+   "achadinhos": 26,
+   "marcas": 16,
+   "tech": 10
   },
   "ultimo_post": {
-   "achadinhos": "14:05",
-   "marcas": "14:13",
-   "tech": "13:57"
+   "achadinhos": "14:51",
+   "marcas": "14:58",
+   "tech": "14:43"
   },
   "meta_token": {
    "tipo": "SYSTEM_USER",
@@ -4175,7 +4175,7 @@
    "shopee-56418997893": "nota",
    "shopee-47117791122": "vendas longe",
    "shopee-58271740065": "vendas longe",
-   "shopee-58269749331": "nota",
+   "shopee-58269749331": "vendas longe",
    "shopee-22315814531": "vendas longe",
    "shopee-42230843679": "nota",
    "shopee-15156140134": "vendas longe",
@@ -4725,7 +4725,7 @@
    "shopee-22594500473": "vendas longe",
    "shopee-43830855940": "vendas longe",
    "shopee-45517756218": "nota",
-   "shopee-48769943177": "nota",
+   "shopee-48769943177": "vendas longe",
    "shopee-48967761207": "vendas longe",
    "shopee-49667761129": "nota",
    "shopee-52760507509": "vendas longe",
@@ -4891,7 +4891,7 @@
    "shopee-22094901503": "vendas longe",
    "shopee-58256756873": "nota",
    "shopee-58214386221": "vendas longe",
-   "shopee-57770909662": "nota",
+   "shopee-57770909662": "vendas longe",
    "shopee-23594850749": "vendas longe",
    "shopee-22298188832": "vendas longe",
    "shopee-49152312487": "vendas longe",
@@ -7123,11 +7123,13 @@
    "shopee-58213416694": "nota",
    "shopee-58272446926": "nota",
    "shopee-58269980396": "outro: marca fora da lista boa",
-   "shopee-58269748740": "nota"
+   "shopee-58269748740": "nota",
+   "shopee-22099336426": "vendas longe",
+   "shopee-58268400578": "vendas longe"
   },
   "shopee_oficial": {
-   "vendas longe": 1767,
-   "nota": 1375,
+   "vendas longe": 1772,
+   "nota": 1372,
    "vendas perto (125+)": 109,
    "outro: marca fora da lista boa": 89,
    "aprovada": 77,
@@ -7364,10 +7366,16 @@
    "amz-B0GTBZVJCY": "ja_postado_30d",
    "amz-B0GSBFJ33V": "ja_postado_30d",
    "amz-B0GJ18S12T": "ja_postado_30d",
-   "amz-B0FRNCB6XX": "ja_postado_30d"
+   "amz-B0FRNCB6XX": "ja_postado_30d",
+   "amz-B0HDFVVX1K": "ja_postado_30d",
+   "amz-B0CCT3KQ3H": "ja_postado_30d",
+   "amz-B0CH43CT7Q": "ja_postado_30d",
+   "amz-B084PTSM4D": "ja_postado_30d",
+   "amz-B0FK7YV5RB": "ja_postado_30d",
+   "amz-B0BTTWT4F6": "ja_postado_30d"
   },
   "manuais_descartados": {
-   "ja_postado_30d": 229
+   "ja_postado_30d": 235
   },
   "instagram": {
    "seguidores": 502,
@@ -7378,7 +7386,7 @@
    "stories_ativos": 25
   },
   "reels_alcance": {
-   "atualizado": "2026-11-17T13:29:19.025947-03:00",
+   "atualizado": "2026-11-17T14:14:36.059967-03:00",
    "itens": [
     {
      "id": "17965736697237404",
