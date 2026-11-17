@@ -1639,7 +1639,13 @@
   "2026-11-17 achadinhos 12:59 amz-B002NLADVU",
   "2026-11-17 tech 13:13 amz-B0BQBSW9SG",
   "2026-11-17 achadinhos 13:21 amz-B09WYZP4L5",
-  "2026-11-17 marcas 13:28 amz-B0GMTFZHRD"
+  "2026-11-17 marcas 13:28 amz-B0GMTFZHRD",
+  "2026-11-17 achadinhos 13:36 amz-B0DVBCTYJC",
+  "2026-11-17 achadinhos 13:42 amz-B0GTBZVJCY",
+  "2026-11-17 marcas 13:50 amz-B0GSBFJ33V",
+  "2026-11-17 tech 13:57 amz-B0GJ18S12T",
+  "2026-11-17 achadinhos 14:05 amz-B0FRNCB6XX",
+  "2026-11-17 marcas 14:13 amz-B0HDFVVX1K"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -3197,7 +3203,13 @@
   "amz-B002NLADVU": "2026-11-17T12:59:19.583821-03:00",
   "amz-B0BQBSW9SG": "2026-11-17T13:13:32.046543-03:00",
   "amz-B09WYZP4L5": "2026-11-17T13:21:32.672654-03:00",
-  "amz-B0GMTFZHRD": "2026-11-17T13:28:20.193236-03:00"
+  "amz-B0GMTFZHRD": "2026-11-17T13:28:20.193236-03:00",
+  "amz-B0DVBCTYJC": "2026-11-17T13:36:35.282423-03:00",
+  "amz-B0GTBZVJCY": "2026-11-17T13:42:09.786253-03:00",
+  "amz-B0GSBFJ33V": "2026-11-17T13:50:04.595956-03:00",
+  "amz-B0GJ18S12T": "2026-11-17T13:57:50.549790-03:00",
+  "amz-B0FRNCB6XX": "2026-11-17T14:05:52.053751-03:00",
+  "amz-B0HDFVVX1K": "2026-11-17T14:13:56.922248-03:00"
  },
  "ofertas_dia": [
   {
@@ -19951,6 +19963,109 @@
    "preco_em": "2026-11-17T12:22:04-03:00",
    "entrou": "2026-11-17T12:27:25.476920-03:00",
    "dia": "2026-11-17"
+  },
+  {
+   "id": "amz-B0DVBCTYJC",
+   "canal": "achadinhos",
+   "nome": "Cafeteira superautomática Philips Walita Série 4400 LatteGo 110V",
+   "preco_antigo": 5999.9,
+   "preco": 3601.9,
+   "desconto": 40,
+   "link": "https://www.amazon.com.br/dp/B0DVBCTYJC?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71URt6c1ZaL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-18T22:00:00-03:00",
+   "coletado_em": "2026-11-17T12:21:45-03:00",
+   "preco_em": "2026-11-17T12:21:45-03:00",
+   "entrou": "2026-11-17T12:27:25.476920-03:00",
+   "dia": "2026-11-17"
+  },
+  {
+   "id": "amz-B0GTBZVJCY",
+   "canal": "achadinhos",
+   "nome": "Jogo de soquetes Bosch 1/4 pol. com 35 peças",
+   "preco_antigo": 358.99,
+   "preco": 240.81,
+   "desconto": 33,
+   "link": "https://www.amazon.com.br/dp/B0GTBZVJCY?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/714-PtVGBfL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-18T22:00:00-03:00",
+   "coletado_em": "2026-11-17T12:21:51-03:00",
+   "preco_em": "2026-11-17T12:21:51-03:00",
+   "entrou": "2026-11-17T12:27:25.476920-03:00",
+   "dia": "2026-11-17"
+  },
+  {
+   "id": "amz-B0GSBFJ33V",
+   "canal": "marcas",
+   "nome": "Tênis Asics Gel-Shinobi 3 masculino",
+   "preco_antigo": 459.99,
+   "preco": 269.9,
+   "desconto": 41,
+   "link": "https://www.amazon.com.br/dp/B0GSBFJ33V?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61PjC6A6NeL._AC_SL1280_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-18T22:00:00-03:00",
+   "coletado_em": "2026-11-17T12:22:01-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "preco_em": "2026-11-17T12:22:01-03:00",
+   "entrou": "2026-11-17T12:27:25.476920-03:00",
+   "dia": "2026-11-17"
+  },
+  {
+   "id": "amz-B0GJ18S12T",
+   "canal": "tech",
+   "nome": "Fone esportivo JBL Endurance Peak 4 com ANC e IP68",
+   "preco_antigo": 799.0,
+   "preco": 558.01,
+   "desconto": 30,
+   "link": "https://www.amazon.com.br/dp/B0GJ18S12T?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/511j7VOAuGL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-18T22:00:00-03:00",
+   "coletado_em": "2026-11-17T12:21:40-03:00",
+   "preco_em": "2026-11-17T12:21:40-03:00",
+   "entrou": "2026-11-17T12:27:25.476920-03:00",
+   "dia": "2026-11-17"
+  },
+  {
+   "id": "amz-B0FRNCB6XX",
+   "canal": "achadinhos",
+   "nome": "Aparador e barbeador Philips Série 9000 16 em 1",
+   "preco_antigo": 799.9,
+   "preco": 548.94,
+   "desconto": 31,
+   "link": "https://www.amazon.com.br/dp/B0FRNCB6XX?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/715q20zKeHL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-18T22:00:00-03:00",
+   "coletado_em": "2026-11-17T12:21:50-03:00",
+   "preco_em": "2026-11-17T12:21:50-03:00",
+   "entrou": "2026-11-17T12:27:25.476920-03:00",
+   "dia": "2026-11-17"
+  },
+  {
+   "id": "amz-B0HDFVVX1K",
+   "canal": "marcas",
+   "nome": "Creatina Gummy Growth Supplements 90 unidades",
+   "preco_antigo": 149.9,
+   "preco": 98.91,
+   "desconto": 34,
+   "link": "https://www.amazon.com.br/dp/B0HDFVVX1K?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71HfV19qiBL._AC_SL1500_.jpg",
+   "loja": "Loja oficial Growth · entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-18T22:00:00-03:00",
+   "coletado_em": "2026-11-17T12:22:04-03:00",
+   "preco_em": "2026-11-17T12:22:04-03:00",
+   "entrou": "2026-11-17T12:27:25.476920-03:00",
+   "dia": "2026-11-17"
   }
  ],
  "ig_feitos": [
@@ -20076,11 +20191,10 @@
   "2026-11-17 12:00 reels",
   "2026-11-17 12:19 story_oferta",
   "2026-11-17 12:47 story_oferta",
-  "2026-11-17 13:20 story_convite"
+  "2026-11-17 13:20 story_convite",
+  "2026-11-17 14:08 story_oferta"
  ],
  "ig_ofertas_usadas": [
-  "amz-B0BS1QB15L",
-  "shopee-22599383562",
   "amz-B07T4M1MQW",
   "amz-B0G4SQ6CFG",
   "shopee-22594959465",
@@ -20394,62 +20508,14 @@
   "bf-2026-11-17": "2026-11-17",
   "mv-bf-um-dia": "2026-11-17",
   "bs-canal-todas": "2026-11-17",
-  "cv-responde": "2026-11-17"
+  "cv-responde": "2026-11-17",
+  "bs-como-entrar": "2026-11-17"
  },
  "pecas_dia": {
-  "2026-11-16": 13,
-  "2026-11-17": 4
+  "2026-11-17": 5
  },
- "ultimo_pilar": "conversa",
+ "ultimo_pilar": "bastidor",
  "fila": [
-  {
-   "id": "amz-B0DVBCTYJC",
-   "canal": "achadinhos",
-   "nome": "Cafeteira superautomática Philips Walita Série 4400 LatteGo 110V",
-   "preco_antigo": 5999.9,
-   "preco": 3601.9,
-   "desconto": 40,
-   "link": "https://www.amazon.com.br/dp/B0DVBCTYJC?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/71URt6c1ZaL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-18T22:00:00-03:00",
-   "coletado_em": "2026-11-17T12:21:45-03:00",
-   "preco_em": "2026-11-17T12:21:45-03:00",
-   "entrou": "2026-11-17T12:27:25.476920-03:00"
-  },
-  {
-   "id": "amz-B0GTBZVJCY",
-   "canal": "achadinhos",
-   "nome": "Jogo de soquetes Bosch 1/4 pol. com 35 peças",
-   "preco_antigo": 358.99,
-   "preco": 240.81,
-   "desconto": 33,
-   "link": "https://www.amazon.com.br/dp/B0GTBZVJCY?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/714-PtVGBfL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-18T22:00:00-03:00",
-   "coletado_em": "2026-11-17T12:21:51-03:00",
-   "preco_em": "2026-11-17T12:21:51-03:00",
-   "entrou": "2026-11-17T12:27:25.476920-03:00"
-  },
-  {
-   "id": "amz-B0FRNCB6XX",
-   "canal": "achadinhos",
-   "nome": "Aparador e barbeador Philips Série 9000 16 em 1",
-   "preco_antigo": 799.9,
-   "preco": 548.94,
-   "desconto": 31,
-   "link": "https://www.amazon.com.br/dp/B0FRNCB6XX?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/715q20zKeHL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-18T22:00:00-03:00",
-   "coletado_em": "2026-11-17T12:21:50-03:00",
-   "preco_em": "2026-11-17T12:21:50-03:00",
-   "entrou": "2026-11-17T12:27:25.476920-03:00"
-  },
   {
    "id": "amz-B0CCT3KQ3H",
    "canal": "achadinhos",
@@ -20579,39 +20645,6 @@
    "entrou": "2026-11-17T12:27:25.476920-03:00"
   },
   {
-   "id": "amz-B0GSBFJ33V",
-   "canal": "marcas",
-   "nome": "Tênis Asics Gel-Shinobi 3 masculino",
-   "preco_antigo": 459.99,
-   "preco": 269.9,
-   "desconto": 41,
-   "link": "https://www.amazon.com.br/dp/B0GSBFJ33V?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61PjC6A6NeL._AC_SL1280_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-18T22:00:00-03:00",
-   "coletado_em": "2026-11-17T12:22:01-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "preco_em": "2026-11-17T12:22:01-03:00",
-   "entrou": "2026-11-17T12:27:25.476920-03:00"
-  },
-  {
-   "id": "amz-B0HDFVVX1K",
-   "canal": "marcas",
-   "nome": "Creatina Gummy Growth Supplements 90 unidades",
-   "preco_antigo": 149.9,
-   "preco": 98.91,
-   "desconto": 34,
-   "link": "https://www.amazon.com.br/dp/B0HDFVVX1K?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/71HfV19qiBL._AC_SL1500_.jpg",
-   "loja": "Loja oficial Growth · entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-18T22:00:00-03:00",
-   "coletado_em": "2026-11-17T12:22:04-03:00",
-   "preco_em": "2026-11-17T12:22:04-03:00",
-   "entrou": "2026-11-17T12:27:25.476920-03:00"
-  },
-  {
    "id": "amz-B084PTSM4D",
    "canal": "marcas",
    "nome": "Camiseta Hering masculina básica algodão Pima",
@@ -20626,22 +20659,6 @@
    "coletado_em": "2026-11-17T12:22:02-03:00",
    "extra": "Preço a partir de: varia por tamanho e cor",
    "preco_em": "2026-11-17T12:22:02-03:00",
-   "entrou": "2026-11-17T12:27:25.476920-03:00"
-  },
-  {
-   "id": "amz-B0GJ18S12T",
-   "canal": "tech",
-   "nome": "Fone esportivo JBL Endurance Peak 4 com ANC e IP68",
-   "preco_antigo": 799.0,
-   "preco": 558.01,
-   "desconto": 30,
-   "link": "https://www.amazon.com.br/dp/B0GJ18S12T?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/511j7VOAuGL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-18T22:00:00-03:00",
-   "coletado_em": "2026-11-17T12:21:40-03:00",
-   "preco_em": "2026-11-17T12:21:40-03:00",
    "entrou": "2026-11-17T12:27:25.476920-03:00"
   },
   {
@@ -22243,7 +22260,13 @@
   "cafeteiraostercomjarrainox12locaf650127v": "2026-11-17T12:59:19.583821-03:00",
   "tecladogamersemfiologitechgproxtkllightspeed": "2026-11-17T13:13:32.046543-03:00",
   "maquinadecafenespressolattissimaonef121220v": "2026-11-17T13:21:32.672654-03:00",
-  "tenisnewbalancefreshfoam680v9masculino": "2026-11-17T13:28:20.193236-03:00"
+  "tenisnewbalancefreshfoam680v9masculino": "2026-11-17T13:28:20.193236-03:00",
+  "cafeteirasuperautomaticaphilipswalitaserie4400lattego110v": "2026-11-17T13:36:35.282423-03:00",
+  "jogodesoquetesbosch14polcom35pecas": "2026-11-17T13:42:09.786253-03:00",
+  "tenisasicsgelshinobi3masculino": "2026-11-17T13:50:04.595956-03:00",
+  "foneesportivojblendurancepeak4comanceip68": "2026-11-17T13:57:50.549790-03:00",
+  "aparadorebarbeadorphilipsserie900016em1": "2026-11-17T14:05:52.053751-03:00",
+  "creatinagummygrowthsupplements90unidades": "2026-11-17T14:13:56.922248-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
@@ -22650,7 +22673,7 @@
   "marcas": "2026-11-12T17:56:29.409807-03:00"
  },
  "top10_dia": "2026-11-14",
- "manuais_lidos": "2026-11-17T13:28:19.648261-03:00",
+ "manuais_lidos": "2026-11-17T14:13:34.439579-03:00",
  "reserva_resultado": {
   "2026-11-07": {
    "achadinhos": {
@@ -22893,7 +22916,7 @@
    "hora": "2026-11-16T18:37:24.615329-03:00"
   }
  },
- "ig_respondido_em": "2026-11-17T13:21:11.529934-03:00",
+ "ig_respondido_em": "2026-11-17T14:13:34.439579-03:00",
  "dm_auto": {
   "2026-11-10": {
    "com_palavra": 0,
@@ -23147,7 +23170,7 @@
    "feed": 2
   },
   "2026-11-17": {
-   "story": 13,
+   "story": 14,
    "feed": 1
   }
  },
@@ -23188,12 +23211,16 @@
   }
  },
  "awin_teste": {
-  "quando": "17/11 11:57",
-  "limpo": true
+  "quando": "17/11 13:29",
+  "limpo": true,
+  "http": 302,
+  "host": "www.nike.com.br",
+  "tem_utm_campaign": true
  },
  "awin_liberado": "2026-11-17T11:57:40.216089-03:00",
  "avisos_feitos": {
   "nike-black30 2026-11-17T12:40 marcas": "2026-11-17T12:43:36.283799-03:00",
   "nike-black30 2026-11-17T12:40 geral": "2026-11-17T12:43:36.283799-03:00"
- }
+ },
+ "awin_avisado": "2026-11-17T13:29:19.025947-03:00"
 }
