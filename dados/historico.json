@@ -1682,7 +1682,13 @@
   "2026-11-17 marcas 18:40 amz-B0G4NC9W36",
   "2026-11-17 tech 18:47 amz-B0BX1H5MM9",
   "2026-11-17 achadinhos 18:55 shopee-44568244729",
-  "2026-11-17 marcas 19:03 amz-B0D2LJQJ4K"
+  "2026-11-17 marcas 19:03 amz-B0D2LJQJ4K",
+  "2026-11-17 achadinhos 19:10 shopee-48518043569",
+  "2026-11-17 achadinhos 19:15 shopee-22599383562",
+  "2026-11-17 marcas 19:22 amz-B07RG6V27F",
+  "2026-11-17 tech 19:28 amz-B0F3MKTVGY",
+  "2026-11-17 achadinhos 19:35 amz-B0CH5KMZPJ",
+  "2026-11-17 marcas 19:43 amz-B0785VXRX2"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -2189,7 +2195,7 @@
   "shopee-54114684881": "2026-11-13T08:17:33.734545-03:00",
   "amz-B0F1C3MRMF": "2026-11-05T16:18:45.643547-03:00",
   "shopee-19646145273": "2026-11-15T09:39:16.351164-03:00",
-  "shopee-22599383562": "2026-11-12T10:18:14.425225-03:00",
+  "shopee-22599383562": "2026-11-17T19:15:24.822453-03:00",
   "shopee-15714692913": "2026-11-05T16:53:48.183189-03:00",
   "shopee-22594959465": "2026-11-13T11:25:04.011271-03:00",
   "shopee-40275577235": "2026-11-08T18:43:42.905672-03:00",
@@ -3282,7 +3288,12 @@
   "amz-B0G4NC9W36": "2026-11-17T18:40:32.966188-03:00",
   "amz-B0BX1H5MM9": "2026-11-17T18:47:50.444979-03:00",
   "shopee-44568244729": "2026-11-17T18:55:37.608942-03:00",
-  "amz-B0D2LJQJ4K": "2026-11-17T19:03:41.512163-03:00"
+  "amz-B0D2LJQJ4K": "2026-11-17T19:03:41.512163-03:00",
+  "shopee-48518043569": "2026-11-17T19:10:32.470310-03:00",
+  "amz-B07RG6V27F": "2026-11-17T19:22:13.659585-03:00",
+  "amz-B0F3MKTVGY": "2026-11-17T19:28:56.053682-03:00",
+  "amz-B0CH5KMZPJ": "2026-11-17T19:35:32.397053-03:00",
+  "amz-B0785VXRX2": "2026-11-17T19:43:13.897232-03:00"
  },
  "ofertas_dia": [
   {
@@ -20768,6 +20779,114 @@
    "preco_em": "2026-11-17T15:20:05-03:00",
    "entrou": "2026-11-17T15:24:13.555929-03:00",
    "dia": "2026-11-17"
+  },
+  {
+   "id": "shopee-48518043569",
+   "plataforma": "Shopee",
+   "nome": "Aspirador de Pó e Água WAP GTW10 Maré 1400W Soprador Filtro Espuma Compacto",
+   "loja": "Bwinx",
+   "loja_oficial": true,
+   "preco": 359.9,
+   "preco_antigo": 521.59,
+   "desconto": 31,
+   "vendas": 128,
+   "nota": 4.9,
+   "comissao_pct": 3.0,
+   "imagem": "https://cf.shopee.com.br/file/br-11134207-820mc-mvemfim2qe4i32",
+   "link": "https://s.shopee.com.br/2LZwoo5Gxn",
+   "quase": true,
+   "canal": "achadinhos",
+   "entrou": "2026-11-17T17:47:59.689804-03:00",
+   "dia": "2026-11-17"
+  },
+  {
+   "id": "shopee-22599383562",
+   "plataforma": "Shopee",
+   "nome": "Furadeira De Impacto GSB 450 RE STD Bosch 450w + Kit Maleta Com 300 Pçs E Acessórios",
+   "loja": "Ismafer",
+   "loja_oficial": true,
+   "preco": 349.9,
+   "preco_antigo": 744.47,
+   "desconto": 53,
+   "vendas": 337,
+   "nota": 5.0,
+   "comissao_pct": 11.0,
+   "imagem": "https://cf.shopee.com.br/file/br-11134207-81zti-ml5egumek07909",
+   "link": "https://s.shopee.com.br/AKcAoOknME",
+   "canal": "achadinhos",
+   "entrou": "2026-11-17T17:47:59.689804-03:00",
+   "reprise_dias": 3,
+   "dia": "2026-11-17"
+  },
+  {
+   "id": "amz-B07RG6V27F",
+   "canal": "marcas",
+   "nome": "Kit 10 Pares de Meias Lupo",
+   "preco_antigo": 118.65,
+   "preco": 77.34,
+   "desconto": 35,
+   "link": "https://www.amazon.com.br/dp/B07RG6V27F?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51HoMFI-e-L.jpg",
+   "loja": "Vendido por parceiro · entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-18T22:00:00-03:00",
+   "coletado_em": "2026-11-17T18:19:41-03:00",
+   "extra": "Sai a R$ 7,73 o par",
+   "preco_em": "2026-11-17T18:19:41-03:00",
+   "entrou": "2026-11-17T18:31:49.698687-03:00",
+   "dia": "2026-11-17"
+  },
+  {
+   "id": "amz-B0F3MKTVGY",
+   "canal": "tech",
+   "nome": "Tablet Samsung Galaxy Tab S10 FE 5G 128GB 8GB RAM",
+   "preco_antigo": 4699.0,
+   "preco": 2969.1,
+   "desconto": 37,
+   "link": "https://www.amazon.com.br/dp/B0F3MKTVGY?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51pGD8CzFiL._AC_SL1080_.jpg",
+   "loja": "Loja oficial Samsung · entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-18T22:00:00-03:00",
+   "coletado_em": "2026-11-17T12:21:44-03:00",
+   "preco_em": "2026-11-17T12:21:44-03:00",
+   "entrou": "2026-11-17T16:37:53.262648-03:00",
+   "dia": "2026-11-17"
+  },
+  {
+   "id": "amz-B0CH5KMZPJ",
+   "canal": "achadinhos",
+   "nome": "Air Fryer WAP Barbecue Digital 12 em 1 10L 127V",
+   "preco_antigo": 1909.9,
+   "preco": 989.91,
+   "desconto": 48,
+   "link": "https://www.amazon.com.br/dp/B0CH5KMZPJ?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61pS0GnqhCL.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-18T22:00:00-03:00",
+   "coletado_em": "2026-11-17T18:19:41-03:00",
+   "preco_em": "2026-11-17T18:19:41-03:00",
+   "entrou": "2026-11-17T18:31:49.698687-03:00",
+   "dia": "2026-11-17"
+  },
+  {
+   "id": "amz-B0785VXRX2",
+   "canal": "marcas",
+   "nome": "Camiseta Under Armour Sportstyle",
+   "preco_antigo": 149.9,
+   "preco": 89.99,
+   "desconto": 40,
+   "link": "https://www.amazon.com.br/dp/B0785VXRX2?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61Eq6uGx22L.jpg",
+   "loja": "Vendido por parceiro · entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-18T22:00:00-03:00",
+   "coletado_em": "2026-11-17T18:19:41-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "preco_em": "2026-11-17T18:19:41-03:00",
+   "entrou": "2026-11-17T18:31:49.698687-03:00",
+   "dia": "2026-11-17"
   }
  ],
  "ig_feitos": [
@@ -20903,13 +21022,13 @@
   "2026-11-17 17:36 story_oferta",
   "2026-11-17 18:05 a_ou_b",
   "2026-11-17 18:30 reels",
-  "2026-11-17 18:42 story_oferta"
+  "2026-11-17 18:42 story_oferta",
+  "especial nike-black30",
+  "story especial nike-alphafly-1711",
+  "2026-11-17 19:15 post_achado",
+  "2026-11-17 19:17 story_oferta"
  ],
  "ig_ofertas_usadas": [
-  "amz-B07T4M1MQW",
-  "amz-B0G4SQ6CFG",
-  "shopee-22594959465",
-  "shopee-19497608994",
   "amz-B07CKCWNRC",
   "amz-B0FQXCBFCF",
   "amz-B086XNNSDN",
@@ -21108,7 +21227,8 @@
   "shopee-22397710724",
   "shopee-51551740372",
   "shopee-20697627058",
-  "shopee-23702004611"
+  "shopee-23702004611",
+  "shopee-44568244729"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
@@ -21236,22 +21356,6 @@
  "ultimo_pilar": "anticilada",
  "fila": [
   {
-   "id": "amz-B0F3MKTVGY",
-   "canal": "tech",
-   "nome": "Tablet Samsung Galaxy Tab S10 FE 5G 128GB 8GB RAM",
-   "preco_antigo": 4699.0,
-   "preco": 2969.1,
-   "desconto": 37,
-   "link": "https://www.amazon.com.br/dp/B0F3MKTVGY?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51pGD8CzFiL._AC_SL1080_.jpg",
-   "loja": "Loja oficial Samsung · entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-18T22:00:00-03:00",
-   "coletado_em": "2026-11-17T12:21:44-03:00",
-   "preco_em": "2026-11-17T12:21:44-03:00",
-   "entrou": "2026-11-17T16:37:53.262648-03:00"
-  },
-  {
    "id": "amz-B0CHBBNGWX",
    "canal": "tech",
    "nome": "Teclado sem fio Logitech Wave Keys ergonômico",
@@ -21298,58 +21402,6 @@
    "coletado_em": "2026-11-17T12:21:44-03:00",
    "preco_em": "2026-11-17T12:21:44-03:00",
    "entrou": "2026-11-17T16:37:53.262648-03:00"
-  },
-  {
-   "id": "shopee-48518043569",
-   "plataforma": "Shopee",
-   "nome": "Aspirador de Pó e Água WAP GTW10 Maré 1400W Soprador Filtro Espuma Compacto",
-   "loja": "Bwinx",
-   "loja_oficial": true,
-   "preco": 359.9,
-   "preco_antigo": 521.59,
-   "desconto": 31,
-   "vendas": 128,
-   "nota": 4.9,
-   "comissao_pct": 3.0,
-   "imagem": "https://cf.shopee.com.br/file/br-11134207-820mc-mvemfim2qe4i32",
-   "link": "https://s.shopee.com.br/2LZwoo5Gxn",
-   "quase": true,
-   "canal": "achadinhos",
-   "entrou": "2026-11-17T17:47:59.689804-03:00"
-  },
-  {
-   "id": "shopee-22599383562",
-   "plataforma": "Shopee",
-   "nome": "Furadeira De Impacto GSB 450 RE STD Bosch 450w + Kit Maleta Com 300 Pçs E Acessórios",
-   "loja": "Ismafer",
-   "loja_oficial": true,
-   "preco": 349.9,
-   "preco_antigo": 744.47,
-   "desconto": 53,
-   "vendas": 337,
-   "nota": 5.0,
-   "comissao_pct": 11.0,
-   "imagem": "https://cf.shopee.com.br/file/br-11134207-81zti-ml5egumek07909",
-   "link": "https://s.shopee.com.br/AKcAoOknME",
-   "canal": "achadinhos",
-   "entrou": "2026-11-17T17:47:59.689804-03:00",
-   "reprise_dias": 3
-  },
-  {
-   "id": "amz-B0CH5KMZPJ",
-   "canal": "achadinhos",
-   "nome": "Air Fryer WAP Barbecue Digital 12 em 1 10L 127V",
-   "preco_antigo": 1909.9,
-   "preco": 989.91,
-   "desconto": 48,
-   "link": "https://www.amazon.com.br/dp/B0CH5KMZPJ?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61pS0GnqhCL.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-18T22:00:00-03:00",
-   "coletado_em": "2026-11-17T18:19:41-03:00",
-   "preco_em": "2026-11-17T18:19:41-03:00",
-   "entrou": "2026-11-17T18:31:49.698687-03:00"
   },
   {
    "id": "amz-B0GS3DQH2Q",
@@ -21540,40 +21592,6 @@
    "plataforma": "Amazon",
    "valida_ate": "2026-11-18T22:00:00-03:00",
    "coletado_em": "2026-11-17T18:19:41-03:00",
-   "preco_em": "2026-11-17T18:19:41-03:00",
-   "entrou": "2026-11-17T18:31:49.698687-03:00"
-  },
-  {
-   "id": "amz-B07RG6V27F",
-   "canal": "marcas",
-   "nome": "Kit 10 Pares de Meias Lupo",
-   "preco_antigo": 118.65,
-   "preco": 77.34,
-   "desconto": 35,
-   "link": "https://www.amazon.com.br/dp/B07RG6V27F?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51HoMFI-e-L.jpg",
-   "loja": "Vendido por parceiro · entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-18T22:00:00-03:00",
-   "coletado_em": "2026-11-17T18:19:41-03:00",
-   "extra": "Sai a R$ 7,73 o par",
-   "preco_em": "2026-11-17T18:19:41-03:00",
-   "entrou": "2026-11-17T18:31:49.698687-03:00"
-  },
-  {
-   "id": "amz-B0785VXRX2",
-   "canal": "marcas",
-   "nome": "Camiseta Under Armour Sportstyle",
-   "preco_antigo": 149.9,
-   "preco": 89.99,
-   "desconto": 40,
-   "link": "https://www.amazon.com.br/dp/B0785VXRX2?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61Eq6uGx22L.jpg",
-   "loja": "Vendido por parceiro · entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-18T22:00:00-03:00",
-   "coletado_em": "2026-11-17T18:19:41-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
    "preco_em": "2026-11-17T18:19:41-03:00",
    "entrou": "2026-11-17T18:31:49.698687-03:00"
   },
@@ -22162,7 +22180,7 @@
   "deoparfumnaturaessencialmasculinominiatura25ml": "2026-11-13T08:17:33.734545-03:00",
   "headsetgamerredragonzeuslite": "2026-11-05T16:18:45.643547-03:00",
   "calcalegleggingmaxluposporttecnologiasemcosturaseamlessdryparatreinodealtorendimento": "2026-11-15T09:39:16.351164-03:00",
-  "furadeiradeimpactogsb450restdbosch450wkitmaletacom300pcseacessorios": "2026-11-12T10:18:14.425225-03:00",
+  "furadeiradeimpactogsb450restdbosch450wkitmaletacom300pcseacessorios": "2026-11-17T19:15:24.822453-03:00",
   "kit2cuecasboxerlupomicrofibrapoliamidasemcosturaconfortavelcuecamasculinaoriginal": "2026-11-05T16:53:48.183189-03:00",
   "refildesodorantecorporalnaturaessencialatraimasculino": "2026-11-13T11:25:04.011271-03:00",
   "smarttvsamsung32hdtizenhdrwifihdmibivoltpreta": "2026-11-08T18:43:42.905672-03:00",
@@ -23244,7 +23262,12 @@
   "camisaoficialpalmeiraspumahome2026torcedor": "2026-11-17T18:40:32.966188-03:00",
   "webcamlogitechbrio300fullhdusbc": "2026-11-17T18:47:50.444979-03:00",
   "aspiradordepoeaguawapgtwinox12icompotenciade1600walcaergonomicabocaldesopro": "2026-11-17T18:55:37.608942-03:00",
-  "bonepumametalcatunissex": "2026-11-17T19:03:41.512163-03:00"
+  "bonepumametalcatunissex": "2026-11-17T19:03:41.512163-03:00",
+  "aspiradordepoeaguawapgtw10mare1400wsopradorfiltroespumacompacto": "2026-11-17T19:10:32.470310-03:00",
+  "kit10paresdemeiaslupo": "2026-11-17T19:22:13.659585-03:00",
+  "tabletsamsunggalaxytabs10fe5g128gb8gbram": "2026-11-17T19:28:56.053682-03:00",
+  "airfryerwapbarbecuedigital12em110l127v": "2026-11-17T19:35:32.397053-03:00",
+  "camisetaunderarmoursportstyle": "2026-11-17T19:43:13.897232-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
@@ -23606,7 +23629,8 @@
   }
  },
  "ig_dm_links": {
-  "18113272949143552": "Oi! Aqui é o Papa 😎💎\n\nOs 5 melhores tênis de corrida até R$ 500:\n\n1. Tênis Casual Eros 2 Confortável Unissex - Olympikus — R$ 169,90\nhttps://s.shopee.com.br/1gK0ttEnZk\n\n2. Tênis de Caminhada Casual Index 4 Unissex Confortável - Olym — R$ 157,41\nhttps://s.shopee.com.br/30pOUL9is8\n\n3. Tênis Mizuno CSD Sport — R$ 269,90\nhttps://www.amazon.com.br/dp/B0GV1MKHDB?tag=papagarimpou-20\n\n4. Tênis de Caminhada Unissex Confortável Proof 3 - Olympikus — R$ 162,82\nhttps://s.shopee.com.br/1qdR6CEAEn\n\n5. Tênis de Caminhada Casual Unissex Confortável Beats - Olympi — R$ 199,90\nhttps://s.shopee.com.br/3g5Ah9OC6m\n\nPreço pode mudar a qualquer momento. Publi · link de afiliado"
+  "18113272949143552": "Oi! Aqui é o Papa 😎💎\n\nOs 5 melhores tênis de corrida até R$ 500:\n\n1. Tênis Casual Eros 2 Confortável Unissex - Olympikus — R$ 169,90\nhttps://s.shopee.com.br/1gK0ttEnZk\n\n2. Tênis de Caminhada Casual Index 4 Unissex Confortável - Olym — R$ 157,41\nhttps://s.shopee.com.br/30pOUL9is8\n\n3. Tênis Mizuno CSD Sport — R$ 269,90\nhttps://www.amazon.com.br/dp/B0GV1MKHDB?tag=papagarimpou-20\n\n4. Tênis de Caminhada Unissex Confortável Proof 3 - Olympikus — R$ 162,82\nhttps://s.shopee.com.br/1qdR6CEAEn\n\n5. Tênis de Caminhada Casual Unissex Confortável Beats - Olympi — R$ 199,90\nhttps://s.shopee.com.br/3g5Ah9OC6m\n\nPreço pode mudar a qualquer momento. Publi · link de afiliado",
+  "18247884766315682": "Oi! Aqui é o Papa 😎💎\n\nCupom BLACK30 na Nike (30% em selecionados, até 19/11):\n\n1. Tênis Nike Air Zoom Alphafly 3 Masculino — R$ 1.503,74\nhttps://www.awin1.com/cread.php?awinmid=17652&awinaffid=3137490&ued=https%3A%2F%2Fwww.nike.com.br%2Ftenis-nike-air-zoom-alphafly-3-masculino-028312.html%3Fcor%3D54\n\n2. Tênis Nike Zoom Fly 6 Feminino — R$ 902,24\nhttps://www.awin1.com/cread.php?awinmid=17652&awinaffid=3137490&ued=https%3A%2F%2Fwww.nike.com.br%2Ftenis-nike-zoom-fly-6-feminino-058279.html%3Fcor%3D55\n\n3. Tênis Nike Pegasus Plus Feminino — R$ 827,05\nhttps://www.awin1.com/cread.php?awinmid=17652&awinaffid=3137490&ued=https%3A%2F%2Fwww.nike.com.br%2Ftenis-nike-pegasus-plus-feminino-029398.html%3Fcor%3D54\n\n4. Camisa Nike Corinthians II 2025/26 Torcedor Pro Masculina — R$ 150,36\nhttps://www.awin1.com/cread.php?awinmid=17652&awinaffid=3137490&ued=https%3A%2F%2Fwww.nike.com.br%2Fcamisa-nike-corinthians-ii-2025-26-torcedor-pro-masculina-058825.html%3Fcor%3DID\n\n5. Shorts Nike Form Dri-FIT Masculino — R$ 185,70\nhttps://www.awin1.com/cread.php?awinmid=17652&awinaffid=3137490&ued=https%3A%2F%2Fwww.nike.com.br%2Fshorts-nike-dri-fit-masculino-024961.html%3Fcor%3D1G\n\nPreço pode mudar a qualquer momento. Publi · link de afiliado"
  },
  "story_link_dia": "2026-11-17",
  "pede_semana": "2026-47",
@@ -23654,7 +23678,7 @@
   "marcas": "2026-11-12T17:56:29.409807-03:00"
  },
  "top10_dia": "2026-11-14",
- "manuais_lidos": "2026-11-17T19:03:36.747224-03:00",
+ "manuais_lidos": "2026-11-17T19:43:13.629700-03:00",
  "reserva_resultado": {
   "2026-11-07": {
    "achadinhos": {
@@ -23901,7 +23925,7 @@
    "hora": "2026-11-17T18:31:49.698687-03:00"
   }
  },
- "ig_respondido_em": "2026-11-17T19:03:36.747224-03:00",
+ "ig_respondido_em": "2026-11-17T19:35:27.437082-03:00",
  "dm_auto": {
   "2026-11-10": {
    "com_palavra": 0,
@@ -24163,8 +24187,8 @@
    "feed": 2
   },
   "2026-11-17": {
-   "story": 22,
-   "feed": 2
+   "story": 24,
+   "feed": 3
   }
  },
  "ig_conta_ok": "2026-11-17",
@@ -24219,5 +24243,10 @@
  "awin_botao_tirado": [
   "marcas 558",
   "geral 1693"
- ]
+ ],
+ "ig_especial_publicado": {
+  "id": "nike-black30",
+  "media_id": "18247884766315682",
+  "quando": "2026-11-17T19:04:12.003155-03:00"
+ }
 }
