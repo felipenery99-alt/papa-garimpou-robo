@@ -1,39 +1,9 @@
 {
- "canal marcas sem oferta na fila há # min (busca extra também não achou). Abastec": {
-  "primeiro": "2026-11-12T21:23+00:00",
-  "vezes": 2,
-  "ultimo": "2026-11-14T01:03+00:00",
-  "texto": "canal marcas sem oferta na fila há 52 min (busca extra também não achou). Abastecer ofertas_manuais.json."
- },
- "⚠️ Fila vazia (tech), último garimpo #:# — abrir o app Claude e conferir as roti": {
-  "primeiro": "2026-11-13T20:46+00:00",
-  "vezes": 2,
-  "ultimo": "2026-11-14T14:26+00:00",
-  "texto": "⚠️ Fila vazia (tech), último garimpo 08:23 — abrir o app Claude e conferir as rotinas"
- },
- "canal achadinhos sem oferta na fila há # min (busca extra também não achou). Aba": {
-  "primeiro": "2026-11-14T01:03+00:00",
-  "vezes": 1,
-  "ultimo": "2026-11-14T01:03+00:00",
-  "texto": "canal achadinhos sem oferta na fila há 90 min (busca extra também não achou). Abastecer ofertas_manuais.json."
- },
  "⚠️ Fila vazia (tech), último garimpo #/# #:# — abrir o app Claude e conferir as ": {
   "primeiro": "2026-11-14T11:10+00:00",
   "vezes": 2,
   "ultimo": "2026-11-15T11:21+00:00",
   "texto": "⚠️ Fila vazia (tech), último garimpo 14/11 18:18 — abrir o app Claude e conferir as rotinas"
- },
- "erro em #-#-# marcas #:# amz-B#XS#Q#: ('Connection aborted.', ConnectionResetErr": {
-  "primeiro": "2026-11-14T14:05+00:00",
-  "vezes": 1,
-  "ultimo": "2026-11-14T14:05+00:00",
-  "texto": "erro em 2026-11-14 marcas 11:05 amz-B07XS4Q829: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer')). Não postei."
- },
- "erro em #-#-# achadinhos #:# amz-B#M#G#VT: ('Connection aborted.', ConnectionRes": {
-  "primeiro": "2026-11-14T14:20+00:00",
-  "vezes": 1,
-  "ultimo": "2026-11-14T14:20+00:00",
-  "texto": "erro em 2026-11-14 achadinhos 11:20 amz-B076M8G7VT: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer')). Não postei."
  },
  "canal geral não recebeu amz-B#CZ#CDRSV: ('Connection aborted.', ConnectionResetE": {
   "primeiro": "2026-11-14T18:16+00:00",
@@ -118,5 +88,11 @@
   "vezes": 1,
   "ultimo": "2026-11-16T20:51+00:00",
   "texto": "⚠️ Fila vazia (achadinhos), último garimpo 15:15 — abrir o app Claude e conferir as rotinas"
+ },
+ "erro em #-#-# achadinhos #:# shopee-# (foto): # Server Error: Service Unavailabl": {
+  "primeiro": "2026-11-17T14:27+00:00",
+  "vezes": 1,
+  "ultimo": "2026-11-17T14:27+00:00",
+  "texto": "erro em 2026-11-17 achadinhos 11:27 shopee-23593120156 (foto): 503 Server Error: Service Unavailable for url: https://cf.shopee.com.br/file/br-11134207-820li-mv4kjoqz8kche3. Não postei."
  }
 }

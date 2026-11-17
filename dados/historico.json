@@ -1625,7 +1625,12 @@
   "2026-11-17 marcas 10:49 amz-B0G7371M6T",
   "2026-11-17 tech 10:56 amz-B09NCDR7TQ",
   "2026-11-17 achadinhos 11:03 amz-B07TKC1MGB",
-  "2026-11-17 marcas 11:10 amz-B0F1C6PVCZ"
+  "2026-11-17 marcas 11:10 amz-B0F1C6PVCZ",
+  "2026-11-17 achadinhos 11:18 amz-B09GSQMVJS",
+  "2026-11-17 marcas 11:33 amz-B0DDQH4JZ2",
+  "2026-11-17 tech 11:40 amz-B07Y33FYZS",
+  "2026-11-17 achadinhos 11:48 shopee-19161663337",
+  "2026-11-17 marcas 11:57 amz-B0CQB51NYR"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -1823,7 +1828,7 @@
   "shopee-20298661104": "2026-11-14T08:04:55.122413-03:00",
   "nike-015654ID": "2026-10-30T19:25:26.522904-03:00",
   "amz-B07TV9B7Z3": "2026-10-30T19:39:26.311919-03:00",
-  "shopee-19161663337": "2026-11-09T13:39:56.435076-03:00",
+  "shopee-19161663337": "2026-11-17T11:48:37.936709-03:00",
   "nike-061909ID": "2026-10-30T19:57:03.447478-03:00",
   "amz-B0H4M5X1Y2": "2026-10-30T20:00:13.818584-03:00",
   "amz-B0DJQ11WXY": "2026-10-30T20:16:39.499700-03:00",
@@ -3171,7 +3176,11 @@
   "amz-B0G7371M6T": "2026-11-17T10:49:15.026772-03:00",
   "amz-B09NCDR7TQ": "2026-11-17T10:56:58.018251-03:00",
   "amz-B07TKC1MGB": "2026-11-17T11:03:37.398585-03:00",
-  "amz-B0F1C6PVCZ": "2026-11-17T11:10:26.277104-03:00"
+  "amz-B0F1C6PVCZ": "2026-11-17T11:10:26.277104-03:00",
+  "amz-B09GSQMVJS": "2026-11-17T11:18:39.540210-03:00",
+  "amz-B0DDQH4JZ2": "2026-11-17T11:33:34.142808-03:00",
+  "amz-B07Y33FYZS": "2026-11-17T11:40:20.731985-03:00",
+  "amz-B0CQB51NYR": "2026-11-17T11:57:09.696400-03:00"
  },
  "ofertas_dia": [
   {
@@ -3733,18 +3742,17 @@
    "nome": "Câmera Inteligente Full HD Im3 C Branca Intelbras",
    "loja": "Intelbras Oficial",
    "loja_oficial": true,
-   "preco": 160.0,
-   "preco_antigo": 258.06,
-   "desconto": 38,
-   "vendas": 589,
+   "preco": 179.9,
+   "preco_antigo": 260.72,
+   "desconto": 31,
+   "vendas": 590,
    "nota": 5.0,
    "comissao_pct": 5.0,
    "imagem": "https://cf.shopee.com.br/file/sg-11134201-82590-mszml69k740917",
-   "link": "https://s.shopee.com.br/6AmQG1aV5H",
+   "link": "https://s.shopee.com.br/906nKMIlBn",
    "canal": "achadinhos",
-   "entrou": "2026-11-09T12:52:07.030982-03:00",
-   "reprise_dias": 2,
-   "dia": "2026-11-09"
+   "entrou": "2026-11-17T09:48:12.960290-03:00",
+   "dia": "2026-11-17"
   },
   {
    "id": "shopee-18797677549",
@@ -19717,6 +19725,77 @@
    "preco_em": "2026-11-17T08:17:05-03:00",
    "entrou": "2026-11-17T08:32:16.601912-03:00",
    "dia": "2026-11-17"
+  },
+  {
+   "id": "amz-B09GSQMVJS",
+   "canal": "achadinhos",
+   "nome": "Shampoo L'Oréal Professionnel Inforcer",
+   "preco_antigo": 116.9,
+   "preco": 78.0,
+   "desconto": 33,
+   "link": "https://www.amazon.com.br/dp/B09GSQMVJS?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51TvgvfNA9L._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-18T22:00:00-03:00",
+   "coletado_em": "2026-11-17T08:17:54-03:00",
+   "preco_em": "2026-11-17T08:17:54-03:00",
+   "entrou": "2026-11-17T08:32:16.601912-03:00",
+   "dia": "2026-11-17"
+  },
+  {
+   "id": "amz-B0DDQH4JZ2",
+   "canal": "marcas",
+   "nome": "Tênis ASICS Japan S Feminino",
+   "preco_antigo": 399.99,
+   "preco": 199.99,
+   "desconto": 50,
+   "link": "https://www.amazon.com.br/dp/B0DDQH4JZ2?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/415ZoJdowUL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-18T22:00:00-03:00",
+   "coletado_em": "2026-11-17T08:17:05-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "preco_em": "2026-11-17T08:17:05-03:00",
+   "entrou": "2026-11-17T08:32:16.601912-03:00",
+   "dia": "2026-11-17"
+  },
+  {
+   "id": "amz-B07Y33FYZS",
+   "canal": "tech",
+   "nome": "Soundbar para PC Redragon Orpheus",
+   "preco_antigo": 146.0,
+   "preco": 100.0,
+   "desconto": 32,
+   "link": "https://www.amazon.com.br/dp/B07Y33FYZS?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71mWUtcfPwL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-18T22:00:00-03:00",
+   "coletado_em": "2026-11-17T08:17:55-03:00",
+   "preco_em": "2026-11-17T08:17:55-03:00",
+   "entrou": "2026-11-17T08:32:16.601912-03:00",
+   "dia": "2026-11-17"
+  },
+  {
+   "id": "amz-B0CQB51NYR",
+   "canal": "marcas",
+   "nome": "Tênis New Balance 574V2 Masculino",
+   "preco_antigo": 599.99,
+   "preco": 309.9,
+   "desconto": 48,
+   "link": "https://www.amazon.com.br/dp/B0CQB51NYR?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51kB1orleQL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-18T22:00:00-03:00",
+   "coletado_em": "2026-11-17T08:17:07-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "gancho": "NEW BALANCE 574 QUASE PELA METADE",
+   "preco_em": "2026-11-17T08:17:07-03:00",
+   "entrou": "2026-11-17T08:32:16.601912-03:00",
+   "dia": "2026-11-17"
   }
  ],
  "ig_feitos": [
@@ -19832,7 +19911,10 @@
   "2026-11-17 08:52 story_oferta",
   "2026-11-17 09:38 story_oferta",
   "2026-11-17 10:20 story_oferta",
-  "2026-11-17 10:24 story_oferta"
+  "2026-11-17 10:24 story_oferta",
+  "2026-11-17 11:11 story_oferta",
+  "2026-11-17 feed",
+  "2026-11-17 11:50 carrossel_top5"
  ],
  "ig_ofertas_usadas": [
   "amz-B0BS1QB15L",
@@ -20146,65 +20228,15 @@
   "hu-novembro": "2026-11-16",
   "mv-afiliado-confia": "2026-11-16",
   "bf-2026-11-17": "2026-11-17",
-  "mv-bf-um-dia": "2026-11-17"
+  "mv-bf-um-dia": "2026-11-17",
+  "bs-canal-todas": "2026-11-17"
  },
  "pecas_dia": {
   "2026-11-16": 13,
-  "2026-11-17": 2
+  "2026-11-17": 3
  },
- "ultimo_pilar": "mito",
+ "ultimo_pilar": "bastidor",
  "fila": [
-  {
-   "id": "amz-B09GSQMVJS",
-   "canal": "achadinhos",
-   "nome": "Shampoo L'Oréal Professionnel Inforcer",
-   "preco_antigo": 116.9,
-   "preco": 78.0,
-   "desconto": 33,
-   "link": "https://www.amazon.com.br/dp/B09GSQMVJS?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51TvgvfNA9L._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-18T22:00:00-03:00",
-   "coletado_em": "2026-11-17T08:17:54-03:00",
-   "preco_em": "2026-11-17T08:17:54-03:00",
-   "entrou": "2026-11-17T08:32:16.601912-03:00"
-  },
-  {
-   "id": "amz-B0DDQH4JZ2",
-   "canal": "marcas",
-   "nome": "Tênis ASICS Japan S Feminino",
-   "preco_antigo": 399.99,
-   "preco": 199.99,
-   "desconto": 50,
-   "link": "https://www.amazon.com.br/dp/B0DDQH4JZ2?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/415ZoJdowUL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-18T22:00:00-03:00",
-   "coletado_em": "2026-11-17T08:17:05-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "preco_em": "2026-11-17T08:17:05-03:00",
-   "entrou": "2026-11-17T08:32:16.601912-03:00"
-  },
-  {
-   "id": "amz-B0CQB51NYR",
-   "canal": "marcas",
-   "nome": "Tênis New Balance 574V2 Masculino",
-   "preco_antigo": 599.99,
-   "preco": 309.9,
-   "desconto": 48,
-   "link": "https://www.amazon.com.br/dp/B0CQB51NYR?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51kB1orleQL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-18T22:00:00-03:00",
-   "coletado_em": "2026-11-17T08:17:07-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "gancho": "NEW BALANCE 574 QUASE PELA METADE",
-   "preco_em": "2026-11-17T08:17:07-03:00",
-   "entrou": "2026-11-17T08:32:16.601912-03:00"
-  },
   {
    "id": "amz-B0H3BXFGHB",
    "canal": "marcas",
@@ -20257,22 +20289,6 @@
    "entrou": "2026-11-17T08:32:16.601912-03:00"
   },
   {
-   "id": "amz-B07Y33FYZS",
-   "canal": "tech",
-   "nome": "Soundbar para PC Redragon Orpheus",
-   "preco_antigo": 146.0,
-   "preco": 100.0,
-   "desconto": 32,
-   "link": "https://www.amazon.com.br/dp/B07Y33FYZS?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/71mWUtcfPwL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-18T22:00:00-03:00",
-   "coletado_em": "2026-11-17T08:17:55-03:00",
-   "preco_em": "2026-11-17T08:17:55-03:00",
-   "entrou": "2026-11-17T08:32:16.601912-03:00"
-  },
-  {
    "id": "shopee-42130479011",
    "plataforma": "Shopee",
    "nome": "Creatina Sabor 7Belo Max Titanium 300g Creatina 7 Belo",
@@ -20290,40 +20306,6 @@
    "entrou": "2026-11-17T09:01:51.067935-03:00"
   },
   {
-   "id": "shopee-23593120156",
-   "plataforma": "Shopee",
-   "nome": "Panela Elétrica Mondial NPE-08-5X Fast Rice 5 Xícaras 400W",
-   "loja": "LOI BRASIL",
-   "loja_oficial": true,
-   "preco": 177.99,
-   "preco_antigo": 257.96,
-   "desconto": 31,
-   "vendas": 263,
-   "nota": 4.9,
-   "comissao_pct": 6.0,
-   "imagem": "https://cf.shopee.com.br/file/br-11134207-820li-mv4kjoqz8kche3",
-   "link": "https://s.shopee.com.br/8Kr6NelZ23",
-   "canal": "achadinhos",
-   "entrou": "2026-11-17T09:48:12.960290-03:00"
-  },
-  {
-   "id": "shopee-19161663337",
-   "plataforma": "Shopee",
-   "nome": "Câmera Inteligente Full HD Im3 C Branca Intelbras",
-   "loja": "Intelbras Oficial",
-   "loja_oficial": true,
-   "preco": 179.9,
-   "preco_antigo": 260.72,
-   "desconto": 31,
-   "vendas": 590,
-   "nota": 5.0,
-   "comissao_pct": 5.0,
-   "imagem": "https://cf.shopee.com.br/file/sg-11134201-82590-mszml69k740917",
-   "link": "https://s.shopee.com.br/906nKMIlBn",
-   "canal": "achadinhos",
-   "entrou": "2026-11-17T09:48:12.960290-03:00"
-  },
-  {
    "id": "shopee-58263073170",
    "plataforma": "Shopee",
    "nome": "Câmera Inteligente Full Color iM7 S IP66 Branca Intelbras",
@@ -20339,6 +20321,40 @@
    "link": "https://s.shopee.com.br/2VtMfof11H",
    "canal": "achadinhos",
    "entrou": "2026-11-17T09:48:12.960290-03:00"
+  },
+  {
+   "id": "shopee-41117508450",
+   "plataforma": "Shopee",
+   "nome": "Headphone Baseus BH1 NC Sem Fio Bluetooth 6.0 ANC -45 dB Graves Fortes 80h Bateria Som Hi-Res",
+   "loja": "Baseus Oficial",
+   "loja_oficial": true,
+   "preco": 170.41,
+   "preco_antigo": 355.02,
+   "desconto": 52,
+   "vendas": 385,
+   "nota": 4.9,
+   "comissao_pct": 8.0,
+   "imagem": "https://cf.shopee.com.br/file/br-11134207-820mb-moeztwaqtibpb4",
+   "link": "https://s.shopee.com.br/2qWDCaszWo",
+   "canal": "tech",
+   "entrou": "2026-11-17T11:46:59.182547-03:00"
+  },
+  {
+   "id": "shopee-22397710724",
+   "plataforma": "Shopee",
+   "nome": "Baseus Carregador De Parede Turbo 20w Tipo-c + Cabo iPhone 7 8 9 X XR 11 12 13 14 Pro Max Plus",
+   "loja": "Baseus Oficial",
+   "loja_oficial": true,
+   "preco": 106.52,
+   "preco_antigo": 158.99,
+   "desconto": 33,
+   "vendas": 363,
+   "nota": 4.9,
+   "comissao_pct": 8.0,
+   "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdxc-lynulm1z58l335",
+   "link": "https://s.shopee.com.br/6VPVZKf25h",
+   "canal": "tech",
+   "entrou": "2026-11-17T11:46:59.182547-03:00"
   }
  ],
  "menus_fixados": [
@@ -20392,7 +20408,7 @@
   "sanduicheirabritaniachapasantiaderentes750wbgr02pi": "2026-11-14T08:04:55.122413-03:00",
   "meianikeperformancelightweight3pares": "2026-10-30T19:25:26.522904-03:00",
   "tecladogamerhyperxalloycorergbabnt2": "2026-10-30T19:39:26.311919-03:00",
-  "camerainteligentefullhdim3cbrancaintelbras": "2026-11-09T13:39:56.435076-03:00",
+  "camerainteligentefullhdim3cbrancaintelbras": "2026-11-17T11:48:37.936709-03:00",
   "shortsnikedrifitacademymasculino": "2026-10-30T19:57:03.447478-03:00",
   "kit2paresmeiapumafemininaantiderrapante": "2026-10-30T20:00:13.818584-03:00",
   "monitorgamerlgultragear32qhd165hz": "2026-10-30T20:16:39.499700-03:00",
@@ -20571,7 +20587,7 @@
   "tenisolympikusadrena2feminino": "2026-11-10T18:15:52.583209-03:00",
   "liquidificadorphilipswalitaserie5000jarradevidro127v": "2026-11-02T17:55:27.727127-03:00",
   "garrafatermicastanleyaerolighttransitrosequartz591ml": "2026-11-02T18:02:37.304949-03:00",
-  "tenisasicsjapansfeminino": "2026-11-02T18:10:34.434854-03:00",
+  "tenisasicsjapansfeminino": "2026-11-17T11:33:34.142808-03:00",
   "perfumeacquadigioprofondogiorgioarmaniedp": "2026-11-02T18:30:12.953857-03:00",
   "kit3camisetasbasicasmasculinashering": "2026-11-02T19:03:06.651468-03:00",
   "tenismasculinopumaclubii": "2026-11-02T19:13:12.661528-03:00",
@@ -20648,7 +20664,7 @@
   "headsetgamerjblquantum100m2commicrofone": "2026-11-04T18:30:22.767187-03:00",
   "airfryerphilcopfr15pg44l1500w": "2026-11-04T18:42:09.733592-03:00",
   "jogodepanelastramontinaacoinoxfundotriplo3pecas": "2026-11-04T18:53:13.244967-03:00",
-  "tenisnewbalance574v2masculino": "2026-11-04T19:06:33.886721-03:00",
+  "tenisnewbalance574v2masculino": "2026-11-17T11:57:09.696400-03:00",
   "desodorantecorporalnaturakaiako2masculino100ml": "2026-11-12T17:48:33.948160-03:00",
   "fonebluetoothankersoundcorep30icomanc": "2026-11-04T19:22:33.915284-03:00",
   "mousesemfiologitechm330silentplus": "2026-11-04T19:36:41.616437-03:00",
@@ -21734,7 +21750,9 @@
   "aspiradordepoeaguawapgtwbagless": "2026-11-17T10:35:30.782872-03:00",
   "mascaralorealprofessionnelkeratinalphasleek": "2026-11-17T10:42:58.574959-03:00",
   "headsetgamerjblquantum610wireless": "2026-11-17T10:56:58.018251-03:00",
-  "kit2limpamaquinadelavarelectrolux": "2026-11-17T11:03:37.398585-03:00"
+  "kit2limpamaquinadelavarelectrolux": "2026-11-17T11:03:37.398585-03:00",
+  "shampoolorealprofessionnelinforcer": "2026-11-17T11:18:39.540210-03:00",
+  "soundbarparapcredragonorpheus": "2026-11-17T11:40:20.731985-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
@@ -22134,14 +22152,14 @@
   "2026-11-13 noite achadinhos",
   "2026-11-13 noite marcas"
  ],
- "reserva_meio": "2026-11-17T00:18:20.585099-03:00",
+ "reserva_meio": "2026-11-17T11:46:59.182547-03:00",
  "reserva_cheia": {
   "achadinhos": "2026-11-13T20:21:49.534614-03:00",
   "tech": "2026-11-14T11:56:11.521150-03:00",
   "marcas": "2026-11-12T17:56:29.409807-03:00"
  },
  "top10_dia": "2026-11-14",
- "manuais_lidos": "2026-11-17T11:10:22.082207-03:00",
+ "manuais_lidos": "2026-11-17T11:55:58.648049-03:00",
  "reserva_resultado": {
   "2026-11-07": {
    "achadinhos": {
@@ -22320,7 +22338,7 @@
     "reprise": 1
    },
    "tech": {
-    "busca": 0,
+    "busca": 2,
     "quase": 0,
     "reprise": 0
    }
@@ -22384,7 +22402,7 @@
    "hora": "2026-11-16T18:37:24.615329-03:00"
   }
  },
- "ig_respondido_em": "2026-11-17T11:10:22.082207-03:00",
+ "ig_respondido_em": "2026-11-17T11:55:58.648049-03:00",
  "dm_auto": {
   "2026-11-10": {
    "com_palavra": 0,
@@ -22638,8 +22656,8 @@
    "feed": 2
   },
   "2026-11-17": {
-   "story": 6,
-   "feed": 0
+   "story": 7,
+   "feed": 1
   }
  },
  "ig_conta_ok": "2026-11-17",
