@@ -1476,6 +1476,8 @@ def rodar_instagram(h: dict, agora: datetime) -> None:
                 chave_e = f"story especial {e['id']}" + (f" {hoje}" if e.get("diario") else "")
                 if chave_e in feitos or agora.isoformat() < e.get("desde", ""):
                     continue
+                if e.get("ate") and f"{agora:%Y-%m-%dT%H:%M}" > e["ate"]:   # 17/11: cupom com prazo sai do ar
+                    continue
                 if e.get("diario") and not (e.get("hora_ini", "00:00") <= f"{agora:%H:%M}" <= e.get("hora_fim", "23:59")):
                     continue
                 if "dias_semana" in e and agora.weekday() not in e["dias_semana"]:   # 0 = segunda … 6 = domingo
@@ -1848,6 +1850,47 @@ def conferir_token_meta(h: dict, telegram, agora: datetime) -> None:
                              "que não vence e atualizar o segredo META_TOKEN no GitHub.", urgente=True)
 
 
+AVISOS_PROGRAMADOS = Path(__file__).parent / "avisos_programados.json"
+
+
+def postar_avisos_programados(h: dict, telegram, agora: datetime) -> None:
+    """17/11 (Central: cupom BLACK30 da Nike pela Awin): posts de texto com botão (cupom, campanha) em horários
+    marcados. avisos_programados.json = [{id, canais: ["marcas", "geral"…], posts: [{quando, texto}], ate,
+    botao: [texto, url]}]. Cada post sai uma vez, na 1ª execução depois de "quando" (no máx. 6 h de atraso),
+    só na janela de posts e nunca depois de "ate"."""
+    if not AVISOS_PROGRAMADOS.exists():
+        return
+    try:
+        avisos = json.loads(AVISOS_PROGRAMADOS.read_text(encoding="utf-8"))
+    except Exception as e:
+        print(f"[avisos] avisos_programados.json inválido: {e}")
+        return
+    if not (config.JANELA_INICIO <= (agora.hour, agora.minute) and agora.hour < 22):
+        return
+    feitos = h.setdefault("avisos_feitos", {})
+    agora_s = f"{agora:%Y-%m-%dT%H:%M}"
+    for a in avisos:
+        if a.get("ate") and agora_s > a["ate"]:
+            continue
+        for p in a.get("posts", []):
+            if not (p["quando"] <= agora_s and agora - datetime.fromisoformat(p["quando"]).replace(tzinfo=agora.tzinfo)
+                    < timedelta(hours=6)):
+                continue
+            for canal in a.get("canais", []):
+                chave = f"{a['id']} {p['quando']} {canal}"
+                if chave in feitos:
+                    continue
+                destino = config.GERAL if canal == "geral" else config.CANAIS.get(canal)
+                try:
+                    mid = telegram.postar_texto(destino, p["texto"], [tuple(a["botao"])] if a.get("botao") else None)
+                    feitos[chave] = agora.isoformat()
+                    print(f"[avisos] {chave} → {destino} (message_id {mid})")
+                except Exception as e:
+                    telegram.avisar_dono(f"aviso programado {chave} falhou: {e}")
+    corte = (agora - timedelta(days=10)).isoformat()
+    h["avisos_feitos"] = {k: v for k, v in feitos.items() if v >= corte}
+
+
 RESUMO_DONO = Path(__file__).parent / "dados" / "resumo_dono.json"
 
 
@@ -2078,6 +2121,10 @@ def main() -> int:
     # despejar tudo de uma vez, solta uma oferta a cada poucos minutos até perto da próxima execução.
     erros = 0
     publicar_menus(h, telegram)
+    try:
+        postar_avisos_programados(h, telegram, agora)
+    except Exception as e:
+        print(f"[avisos] erro geral: {e}")
     try:
         atualizar_canais_info(h, telegram)
     except Exception as e:

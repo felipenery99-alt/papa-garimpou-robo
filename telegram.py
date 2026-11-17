@@ -61,6 +61,19 @@ def postar_menu_fixado(destino: str, texto: str, botoes: list[tuple[str, str]]) 
     return msg
 
 
+def postar_texto(destino: str, texto: str, botoes: list[tuple[str, str]] | None = None) -> int:
+    """17/11 (cupons): texto com botões de link, sem fixar. Devolve o message_id."""
+    if destino not in config.DESTINOS_PERMITIDOS:
+        raise DestinoProibido(f"destino recusado: {destino}")
+    corpo = {"chat_id": destino, "text": texto[:4096], "disable_web_page_preview": True}
+    if botoes:
+        corpo["reply_markup"] = {"inline_keyboard": [[{"text": t, "url": u}] for t, u in botoes]}
+    r = requests.post(API.format(token=_token(), metodo="sendMessage"), json=corpo, timeout=30).json()
+    if not r.get("ok"):
+        raise RuntimeError(f"Telegram recusou o texto: {r}")
+    return r["result"]["message_id"]
+
+
 def postar_texto_fixado(destino: str, texto: str) -> int:
     """Texto simples (sem oferta), fixado no topo sem notificar. Devolve o message_id."""
     if destino not in config.DESTINOS_PERMITIDOS:

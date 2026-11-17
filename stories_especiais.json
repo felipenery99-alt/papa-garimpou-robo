@@ -53,5 +53,53 @@
   "paletas": [
    2
   ]
+ },
+ {
+  "id": "nike-black30-1711",
+  "desde": "2026-11-17T12:00",
+  "ate": "2026-11-17T21:59",
+  "titulo": [
+   "CUPOM NIKE",
+   "BLACK30"
+  ],
+  "linhas": [
+   "30% OFF em produtos",
+   "selecionados da Nike",
+   "Link no Telegram"
+  ],
+  "botao": "LINK NA BIO",
+  "paleta": 1
+ },
+ {
+  "id": "nike-black30-1811",
+  "desde": "2026-11-18T09:00",
+  "ate": "2026-11-18T21:59",
+  "titulo": [
+   "CUPOM NIKE",
+   "BLACK30"
+  ],
+  "linhas": [
+   "30% OFF em produtos",
+   "selecionados até 19/11",
+   "Link no Telegram"
+  ],
+  "botao": "LINK NA BIO",
+  "paleta": 1
+ },
+ {
+  "id": "nike-black30-1911",
+  "desde": "2026-11-19T09:00",
+  "ate": "2026-11-19T21:59",
+  "titulo": [
+   "ÚLTIMO DIA",
+   "CUPOM BLACK30"
+  ],
+  "linhas": [
+   "30% OFF em produtos",
+   "selecionados da Nike",
+   "Link no Telegram"
+  ],
+  "botao": "LINK NA BIO",
+  "paleta": 1
  }
 ]
