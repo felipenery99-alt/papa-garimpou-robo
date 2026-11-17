@@ -1669,7 +1669,13 @@
   "2026-11-17 marcas 16:45 amz-B0F844Q7BV",
   "2026-11-17 tech 16:51 shopee-51551740372",
   "2026-11-17 achadinhos 16:58 amz-B0BXLPXN18",
-  "2026-11-17 marcas 17:06 amz-B08LPMZGRJ"
+  "2026-11-17 marcas 17:06 amz-B08LPMZGRJ",
+  "2026-11-17 marcas 17:15 amz-B08P91NKC5",
+  "2026-11-17 marcas 17:20 amz-B0C4WGB7QQ",
+  "2026-11-17 tech 17:26 amz-B0DG32SNZ4",
+  "2026-11-17 marcas 17:34 amz-B071R57DZH",
+  "2026-11-17 tech 17:41 amz-B0BHMN52LY",
+  "2026-11-17 achadinhos 17:50 shopee-20697627058"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -3257,7 +3263,13 @@
   "amz-B0F844Q7BV": "2026-11-17T16:45:06.448216-03:00",
   "shopee-51551740372": "2026-11-17T16:51:51.067580-03:00",
   "amz-B0BXLPXN18": "2026-11-17T16:58:40.214299-03:00",
-  "amz-B08LPMZGRJ": "2026-11-17T17:06:17.532853-03:00"
+  "amz-B08LPMZGRJ": "2026-11-17T17:06:17.532853-03:00",
+  "amz-B08P91NKC5": "2026-11-17T17:15:07.620992-03:00",
+  "amz-B0C4WGB7QQ": "2026-11-17T17:20:27.282345-03:00",
+  "amz-B0DG32SNZ4": "2026-11-17T17:26:30.967171-03:00",
+  "amz-B071R57DZH": "2026-11-17T17:34:24.545950-03:00",
+  "amz-B0BHMN52LY": "2026-11-17T17:41:18.785344-03:00",
+  "shopee-20697627058": "2026-11-17T17:50:53.715182-03:00"
  },
  "ofertas_dia": [
   {
@@ -20530,6 +20542,111 @@
    "preco_em": "2026-11-17T15:18:26-03:00",
    "entrou": "2026-11-17T15:24:13.555929-03:00",
    "dia": "2026-11-17"
+  },
+  {
+   "id": "amz-B08P91NKC5",
+   "canal": "marcas",
+   "nome": "Camiseta Hering Slim Básica Manga Longa Masculina",
+   "preco_antigo": 79.99,
+   "preco": 42.9,
+   "desconto": 46,
+   "link": "https://www.amazon.com.br/dp/B08P91NKC5?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/41AzLGNAd8L._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-18T22:00:00-03:00",
+   "coletado_em": "2026-11-17T15:18:26-03:00",
+   "extra": "Preço pode variar por tamanho e cor",
+   "preco_em": "2026-11-17T15:18:26-03:00",
+   "entrou": "2026-11-17T15:24:13.555929-03:00",
+   "dia": "2026-11-17"
+  },
+  {
+   "id": "amz-B0C4WGB7QQ",
+   "canal": "marcas",
+   "nome": "Relógio Casio POP Digital com Pulseira Bio-Based",
+   "preco_antigo": 284.37,
+   "preco": 196.8,
+   "desconto": 31,
+   "link": "https://www.amazon.com.br/dp/B0C4WGB7QQ?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61lNmmej1aL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-18T22:00:00-03:00",
+   "coletado_em": "2026-11-17T15:18:26-03:00",
+   "preco_em": "2026-11-17T15:18:26-03:00",
+   "entrou": "2026-11-17T15:24:13.555929-03:00",
+   "dia": "2026-11-17"
+  },
+  {
+   "id": "amz-B0DG32SNZ4",
+   "canal": "tech",
+   "nome": "Caixa de Som Mondial Party Box 350W RMS Bluetooth",
+   "preco_antigo": 829.9,
+   "preco": 536.77,
+   "desconto": 35,
+   "link": "https://www.amazon.com.br/dp/B0DG32SNZ4?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/9107aJ29QTL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-18T22:00:00-03:00",
+   "coletado_em": "2026-11-17T15:18:26-03:00",
+   "preco_em": "2026-11-17T15:18:26-03:00",
+   "entrou": "2026-11-17T15:24:13.555929-03:00",
+   "dia": "2026-11-17"
+  },
+  {
+   "id": "amz-B071R57DZH",
+   "canal": "marcas",
+   "nome": "Óculos de Sol Ray-Ban Wayfarer Ease RB4340",
+   "preco_antigo": 940.0,
+   "preco": 549.9,
+   "desconto": 42,
+   "link": "https://www.amazon.com.br/dp/B071R57DZH?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/41UpvT53wAL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-18T22:00:00-03:00",
+   "coletado_em": "2026-11-17T15:18:26-03:00",
+   "preco_em": "2026-11-17T15:18:26-03:00",
+   "entrou": "2026-11-17T15:24:13.555929-03:00",
+   "dia": "2026-11-17"
+  },
+  {
+   "id": "amz-B0BHMN52LY",
+   "canal": "tech",
+   "nome": "Mouse Pad Gamer Logitech G840 Extra Grande",
+   "preco_antigo": 279.9,
+   "preco": 199.9,
+   "desconto": 29,
+   "link": "https://www.amazon.com.br/dp/B0BHMN52LY?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51jlC3sL0BL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-18T22:00:00-03:00",
+   "coletado_em": "2026-11-17T15:20:05-03:00",
+   "preco_em": "2026-11-17T15:20:05-03:00",
+   "entrou": "2026-11-17T15:24:13.555929-03:00",
+   "dia": "2026-11-17"
+  },
+  {
+   "id": "shopee-20697627058",
+   "plataforma": "Shopee",
+   "nome": "Secador De Cabelo Taiff Style Azul Tifanny Original 2000 W",
+   "loja": "Beleza Renovada Oficial",
+   "loja_oficial": true,
+   "preco": 258.08,
+   "preco_antigo": 416.26,
+   "desconto": 38,
+   "vendas": 227,
+   "nota": 4.9,
+   "comissao_pct": 12.0,
+   "imagem": "https://cf.shopee.com.br/file/sg-11134201-823pg-moid2e5wmw3w59",
+   "link": "https://s.shopee.com.br/1qdcIIIqze",
+   "quase": true,
+   "canal": "achadinhos",
+   "entrou": "2026-11-17T17:47:59.689804-03:00",
+   "dia": "2026-11-17"
   }
  ],
  "ig_feitos": [
@@ -20660,7 +20777,9 @@
   "2026-11-17 15:00 adivinha",
   "2026-11-17 15:03 story_oferta",
   "2026-11-17 16:05 adivinha_resposta",
-  "2026-11-17 16:44 story_oferta"
+  "2026-11-17 16:44 story_oferta",
+  "story especial pede-pro-papa 2026-11-17",
+  "2026-11-17 17:36 story_oferta"
  ],
  "ig_ofertas_usadas": [
   "amz-B07T4M1MQW",
@@ -20862,7 +20981,8 @@
   "shopee-20516472434",
   "shopee-23098316432",
   "shopee-58263073170",
-  "shopee-22397710724"
+  "shopee-22397710724",
+  "shopee-51551740372"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
@@ -20989,55 +21109,6 @@
  "ultimo_pilar": "bastidor",
  "fila": [
   {
-   "id": "amz-B08P91NKC5",
-   "canal": "marcas",
-   "nome": "Camiseta Hering Slim Básica Manga Longa Masculina",
-   "preco_antigo": 79.99,
-   "preco": 42.9,
-   "desconto": 46,
-   "link": "https://www.amazon.com.br/dp/B08P91NKC5?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/41AzLGNAd8L._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-18T22:00:00-03:00",
-   "coletado_em": "2026-11-17T15:18:26-03:00",
-   "extra": "Preço pode variar por tamanho e cor",
-   "preco_em": "2026-11-17T15:18:26-03:00",
-   "entrou": "2026-11-17T15:24:13.555929-03:00"
-  },
-  {
-   "id": "amz-B0C4WGB7QQ",
-   "canal": "marcas",
-   "nome": "Relógio Casio POP Digital com Pulseira Bio-Based",
-   "preco_antigo": 284.37,
-   "preco": 196.8,
-   "desconto": 31,
-   "link": "https://www.amazon.com.br/dp/B0C4WGB7QQ?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61lNmmej1aL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-18T22:00:00-03:00",
-   "coletado_em": "2026-11-17T15:18:26-03:00",
-   "preco_em": "2026-11-17T15:18:26-03:00",
-   "entrou": "2026-11-17T15:24:13.555929-03:00"
-  },
-  {
-   "id": "amz-B071R57DZH",
-   "canal": "marcas",
-   "nome": "Óculos de Sol Ray-Ban Wayfarer Ease RB4340",
-   "preco_antigo": 940.0,
-   "preco": 549.9,
-   "desconto": 42,
-   "link": "https://www.amazon.com.br/dp/B071R57DZH?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/41UpvT53wAL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-18T22:00:00-03:00",
-   "coletado_em": "2026-11-17T15:18:26-03:00",
-   "preco_em": "2026-11-17T15:18:26-03:00",
-   "entrou": "2026-11-17T15:24:13.555929-03:00"
-  },
-  {
    "id": "amz-B0DJDRB68T",
    "canal": "marcas",
    "nome": "Camiseta Puma Essential Poly Texture Masculina",
@@ -21086,38 +21157,6 @@
    "valida_ate": "2026-11-18T22:00:00-03:00",
    "coletado_em": "2026-11-17T15:20:05-03:00",
    "extra": "Preço pode variar por tamanho e cor",
-   "preco_em": "2026-11-17T15:20:05-03:00",
-   "entrou": "2026-11-17T15:24:13.555929-03:00"
-  },
-  {
-   "id": "amz-B0DG32SNZ4",
-   "canal": "tech",
-   "nome": "Caixa de Som Mondial Party Box 350W RMS Bluetooth",
-   "preco_antigo": 829.9,
-   "preco": 536.77,
-   "desconto": 35,
-   "link": "https://www.amazon.com.br/dp/B0DG32SNZ4?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/9107aJ29QTL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-18T22:00:00-03:00",
-   "coletado_em": "2026-11-17T15:18:26-03:00",
-   "preco_em": "2026-11-17T15:18:26-03:00",
-   "entrou": "2026-11-17T15:24:13.555929-03:00"
-  },
-  {
-   "id": "amz-B0BHMN52LY",
-   "canal": "tech",
-   "nome": "Mouse Pad Gamer Logitech G840 Extra Grande",
-   "preco_antigo": 279.9,
-   "preco": 199.9,
-   "desconto": 29,
-   "link": "https://www.amazon.com.br/dp/B0BHMN52LY?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51jlC3sL0BL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-18T22:00:00-03:00",
-   "coletado_em": "2026-11-17T15:20:05-03:00",
    "preco_em": "2026-11-17T15:20:05-03:00",
    "entrou": "2026-11-17T15:24:13.555929-03:00"
   },
@@ -21216,6 +21255,78 @@
    "coletado_em": "2026-11-17T12:21:44-03:00",
    "preco_em": "2026-11-17T12:21:44-03:00",
    "entrou": "2026-11-17T16:37:53.262648-03:00"
+  },
+  {
+   "id": "shopee-23702004611",
+   "plataforma": "Shopee",
+   "nome": "Secador Taiff Style Preto 2000W 220V",
+   "loja": "Lojas REDE",
+   "loja_oficial": true,
+   "preco": 199.9,
+   "preco_antigo": 407.96,
+   "desconto": 51,
+   "vendas": 145,
+   "nota": 4.9,
+   "comissao_pct": 3.0,
+   "imagem": "https://cf.shopee.com.br/file/sg-11134201-8258u-mutaoxew2l8hd8",
+   "link": "https://s.shopee.com.br/2gCjHpFgIv",
+   "quase": true,
+   "canal": "achadinhos",
+   "entrou": "2026-11-17T17:47:59.689804-03:00"
+  },
+  {
+   "id": "shopee-44568244729",
+   "plataforma": "Shopee",
+   "nome": "Aspirador de Pó e Água Wap Gtw Inox 12i com Potência de 1600w Alça Ergonômica Bocal de Sopro",
+   "loja": "Engage Eletro ",
+   "loja_oficial": true,
+   "preco": 356.84,
+   "preco_antigo": 540.67,
+   "desconto": 34,
+   "vendas": 180,
+   "nota": 4.9,
+   "comissao_pct": 5.0,
+   "imagem": "https://cf.shopee.com.br/file/sg-11134201-8258x-mte4bbtdqgox43",
+   "link": "https://s.shopee.com.br/BVOJDPX9n",
+   "quase": true,
+   "canal": "achadinhos",
+   "entrou": "2026-11-17T17:47:59.689804-03:00"
+  },
+  {
+   "id": "shopee-48518043569",
+   "plataforma": "Shopee",
+   "nome": "Aspirador de Pó e Água WAP GTW10 Maré 1400W Soprador Filtro Espuma Compacto",
+   "loja": "Bwinx",
+   "loja_oficial": true,
+   "preco": 359.9,
+   "preco_antigo": 521.59,
+   "desconto": 31,
+   "vendas": 128,
+   "nota": 4.9,
+   "comissao_pct": 3.0,
+   "imagem": "https://cf.shopee.com.br/file/br-11134207-820mc-mvemfim2qe4i32",
+   "link": "https://s.shopee.com.br/2LZwoo5Gxn",
+   "quase": true,
+   "canal": "achadinhos",
+   "entrou": "2026-11-17T17:47:59.689804-03:00"
+  },
+  {
+   "id": "shopee-22599383562",
+   "plataforma": "Shopee",
+   "nome": "Furadeira De Impacto GSB 450 RE STD Bosch 450w + Kit Maleta Com 300 Pçs E Acessórios",
+   "loja": "Ismafer",
+   "loja_oficial": true,
+   "preco": 349.9,
+   "preco_antigo": 744.47,
+   "desconto": 53,
+   "vendas": 337,
+   "nota": 5.0,
+   "comissao_pct": 11.0,
+   "imagem": "https://cf.shopee.com.br/file/br-11134207-81zti-ml5egumek07909",
+   "link": "https://s.shopee.com.br/AKcAoOknME",
+   "canal": "achadinhos",
+   "entrou": "2026-11-17T17:47:59.689804-03:00",
+   "reprise_dias": 3
   }
  ],
  "menus_fixados": [
@@ -22648,7 +22759,13 @@
   "shortspumaessentials5masculino": "2026-11-17T16:45:06.448216-03:00",
   "caixadesombluetoothjblboombox4comauracastip68bivoltpreta": "2026-11-17T16:51:51.067580-03:00",
   "jogodefacastramontinafeliceinox3pecas": "2026-11-17T16:58:40.214299-03:00",
-  "camisetaheringgolavregularmasculina": "2026-11-17T17:06:17.532853-03:00"
+  "camisetaheringgolavregularmasculina": "2026-11-17T17:06:17.532853-03:00",
+  "camisetaheringslimbasicamangalongamasculina": "2026-11-17T17:15:07.620992-03:00",
+  "relogiocasiopopdigitalcompulseirabiobased": "2026-11-17T17:20:27.282345-03:00",
+  "caixadesommondialpartybox350wrmsbluetooth": "2026-11-17T17:26:30.967171-03:00",
+  "oculosdesolraybanwayfarereaserb4340": "2026-11-17T17:34:24.545950-03:00",
+  "mousepadgamerlogitechg840extragrande": "2026-11-17T17:41:18.785344-03:00",
+  "secadordecabelotaiffstyleazultifannyoriginal2000w": "2026-11-17T17:50:53.715182-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
@@ -23009,11 +23126,11 @@
  "ig_dm_links": {
   "18113272949143552": "Oi! Aqui é o Papa 😎💎\n\nOs 5 melhores tênis de corrida até R$ 500:\n\n1. Tênis Casual Eros 2 Confortável Unissex - Olympikus — R$ 169,90\nhttps://s.shopee.com.br/1gK0ttEnZk\n\n2. Tênis de Caminhada Casual Index 4 Unissex Confortável - Olym — R$ 157,41\nhttps://s.shopee.com.br/30pOUL9is8\n\n3. Tênis Mizuno CSD Sport — R$ 269,90\nhttps://www.amazon.com.br/dp/B0GV1MKHDB?tag=papagarimpou-20\n\n4. Tênis de Caminhada Unissex Confortável Proof 3 - Olympikus — R$ 162,82\nhttps://s.shopee.com.br/1qdR6CEAEn\n\n5. Tênis de Caminhada Casual Unissex Confortável Beats - Olympi — R$ 199,90\nhttps://s.shopee.com.br/3g5Ah9OC6m\n\nPreço pode mudar a qualquer momento. Publi · link de afiliado"
  },
- "story_link_dia": "2026-11-16",
+ "story_link_dia": "2026-11-17",
  "pede_semana": "2026-47",
  "ultimo_garimpo": "2026-11-17T15:20:06-03:00",
  "vigia_aviso_post": "2026-11-09T18:27:03.734589-03:00",
- "vigia_aviso_garimpo": "2026-11-16T17:47:00.570679-03:00",
+ "vigia_aviso_garimpo": "2026-11-17T17:06:41.040750-03:00",
  "resumo_enviado": "2026-11-16",
  "token_conferido": "2026-11-17",
  "meta_token": {
@@ -23048,14 +23165,14 @@
   "2026-11-13 noite achadinhos",
   "2026-11-13 noite marcas"
  ],
- "reserva_meio": "2026-11-17T17:06:17.194002-03:00",
+ "reserva_meio": "2026-11-17T17:47:59.689804-03:00",
  "reserva_cheia": {
-  "achadinhos": "2026-11-13T20:21:49.534614-03:00",
+  "achadinhos": "2026-11-17T17:47:59.689804-03:00",
   "tech": "2026-11-14T11:56:11.521150-03:00",
   "marcas": "2026-11-12T17:56:29.409807-03:00"
  },
  "top10_dia": "2026-11-14",
- "manuais_lidos": "2026-11-17T17:06:17.194002-03:00",
+ "manuais_lidos": "2026-11-17T17:47:59.689804-03:00",
  "reserva_resultado": {
   "2026-11-07": {
    "achadinhos": {
@@ -23225,8 +23342,8 @@
   "2026-11-17": {
    "achadinhos": {
     "busca": 0,
-    "quase": 0,
-    "reprise": 1
+    "quase": 4,
+    "reprise": 2
    },
    "marcas": {
     "busca": 0,
@@ -23298,7 +23415,7 @@
    "hora": "2026-11-16T18:37:24.615329-03:00"
   }
  },
- "ig_respondido_em": "2026-11-17T16:58:36.790484-03:00",
+ "ig_respondido_em": "2026-11-17T17:40:58.202940-03:00",
  "dm_auto": {
   "2026-11-10": {
    "com_palavra": 0,
@@ -23552,7 +23669,7 @@
    "feed": 2
   },
   "2026-11-17": {
-   "story": 18,
+   "story": 20,
    "feed": 1
   }
  },
@@ -23593,7 +23710,7 @@
   }
  },
  "awin_teste": {
-  "quando": "17/11 16:24",
+  "quando": "17/11 17:06",
   "limpo": true,
   "http": 302,
   "host": "www.nike.com.br",
