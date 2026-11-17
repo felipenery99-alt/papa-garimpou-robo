@@ -1657,7 +1657,13 @@
   "2026-11-17 marcas 15:17 amz-B0BPJS37ZN",
   "2026-11-17 tech 15:24 amz-B09NQPBMSY",
   "2026-11-17 achadinhos 15:31 amz-B076B9MT5W",
-  "2026-11-17 marcas 15:38 amz-B0F79XN2P8"
+  "2026-11-17 marcas 15:38 amz-B0F79XN2P8",
+  "2026-11-17 achadinhos 15:47 amz-B0B728TFQM",
+  "2026-11-17 achadinhos 15:56 amz-B07RK4HST7",
+  "2026-11-17 marcas 16:02 amz-B01FCZXHY8",
+  "2026-11-17 tech 16:09 amz-B0D8RJ99Z1",
+  "2026-11-17 achadinhos 16:16 amz-B07LFLRQXP",
+  "2026-11-17 marcas 16:23 amz-B0BNP1HB22"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -3233,7 +3239,13 @@
   "amz-B0BPJS37ZN": "2026-11-17T15:17:42.077632-03:00",
   "amz-B09NQPBMSY": "2026-11-17T15:24:18.519507-03:00",
   "amz-B076B9MT5W": "2026-11-17T15:31:27.108725-03:00",
-  "amz-B0F79XN2P8": "2026-11-17T15:38:59.417186-03:00"
+  "amz-B0F79XN2P8": "2026-11-17T15:38:59.417186-03:00",
+  "amz-B0B728TFQM": "2026-11-17T15:47:50.554063-03:00",
+  "amz-B07RK4HST7": "2026-11-17T15:56:01.083468-03:00",
+  "amz-B01FCZXHY8": "2026-11-17T16:02:41.419631-03:00",
+  "amz-B0D8RJ99Z1": "2026-11-17T16:09:48.069139-03:00",
+  "amz-B07LFLRQXP": "2026-11-17T16:16:53.241003-03:00",
+  "amz-B0BNP1HB22": "2026-11-17T16:23:52.149109-03:00"
  },
  "ofertas_dia": [
   {
@@ -20298,6 +20310,109 @@
    "preco_em": "2026-11-17T08:16:52-03:00",
    "entrou": "2026-11-17T12:43:04.013425-03:00",
    "dia": "2026-11-17"
+  },
+  {
+   "id": "amz-B0B728TFQM",
+   "canal": "achadinhos",
+   "nome": "Ventilador de mesa Arno Xtreme Force Breeze 50cm",
+   "preco_antigo": 489.99,
+   "preco": 269.0,
+   "desconto": 45,
+   "link": "https://www.amazon.com.br/dp/B0B728TFQM?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71i9POZrr8L._AC_SL1200_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-18T22:00:00-03:00",
+   "coletado_em": "2026-11-17T12:21:50-03:00",
+   "preco_em": "2026-11-17T12:21:50-03:00",
+   "entrou": "2026-11-17T12:27:25.476920-03:00",
+   "dia": "2026-11-17"
+  },
+  {
+   "id": "amz-B07RK4HST7",
+   "canal": "achadinhos",
+   "nome": "Loção hidratante corporal CeraVe com ácido hialurônico",
+   "preco_antigo": 110.9,
+   "preco": 68.19,
+   "desconto": 39,
+   "link": "https://www.amazon.com.br/dp/B07RK4HST7?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61vyW3Dl-7L._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-18T22:00:00-03:00",
+   "coletado_em": "2026-11-17T12:21:54-03:00",
+   "preco_em": "2026-11-17T12:21:54-03:00",
+   "entrou": "2026-11-17T12:27:25.476920-03:00",
+   "dia": "2026-11-17"
+  },
+  {
+   "id": "amz-B01FCZXHY8",
+   "canal": "marcas",
+   "nome": "Óculos de Sol Ray-Ban Justin Masculino",
+   "preco_antigo": 790.0,
+   "preco": 328.3,
+   "desconto": 58,
+   "link": "https://www.amazon.com.br/dp/B01FCZXHY8?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51BFB+CU3sL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-18T22:00:00-03:00",
+   "coletado_em": "2026-11-17T15:18:26-03:00",
+   "preco_em": "2026-11-17T15:18:26-03:00",
+   "entrou": "2026-11-17T15:24:13.555929-03:00",
+   "dia": "2026-11-17"
+  },
+  {
+   "id": "amz-B0D8RJ99Z1",
+   "canal": "tech",
+   "nome": "Bateria portátil Samsung 20.000 mAh 45W 3x USB-C",
+   "preco_antigo": 449.0,
+   "preco": 217.55,
+   "desconto": 52,
+   "link": "https://www.amazon.com.br/dp/B0D8RJ99Z1?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/41sv463IV4L._AC_SL1080_.jpg",
+   "loja": "Loja oficial Samsung · entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-18T22:00:00-03:00",
+   "coletado_em": "2026-11-17T12:21:39-03:00",
+   "preco_em": "2026-11-17T12:21:39-03:00",
+   "entrou": "2026-11-17T12:27:25.476920-03:00",
+   "dia": "2026-11-17"
+  },
+  {
+   "id": "amz-B07LFLRQXP",
+   "canal": "achadinhos",
+   "nome": "Nivea Hidratante Labial Amora Shine 4,8g",
+   "preco_antigo": 24.1,
+   "preco": 11.58,
+   "desconto": 52,
+   "link": "https://www.amazon.com.br/dp/B07LFLRQXP?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71g4snU4xkL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-18T22:00:00-03:00",
+   "coletado_em": "2026-11-17T15:18:26-03:00",
+   "preco_em": "2026-11-17T15:18:26-03:00",
+   "entrou": "2026-11-17T15:24:13.555929-03:00",
+   "dia": "2026-11-17"
+  },
+  {
+   "id": "amz-B0BNP1HB22",
+   "canal": "marcas",
+   "nome": "Camiseta Hering Henley Básica Texturizada Masculina",
+   "preco_antigo": 86.75,
+   "preco": 62.9,
+   "desconto": 27,
+   "link": "https://www.amazon.com.br/dp/B0BNP1HB22?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/6193pTFeOvL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-18T22:00:00-03:00",
+   "coletado_em": "2026-11-17T15:18:26-03:00",
+   "extra": "Preço pode variar por tamanho e cor",
+   "preco_em": "2026-11-17T15:18:26-03:00",
+   "entrou": "2026-11-17T15:24:13.555929-03:00",
+   "dia": "2026-11-17"
   }
  ],
  "ig_feitos": [
@@ -20426,7 +20541,8 @@
   "2026-11-17 13:20 story_convite",
   "2026-11-17 14:08 story_oferta",
   "2026-11-17 15:00 adivinha",
-  "2026-11-17 15:03 story_oferta"
+  "2026-11-17 15:03 story_oferta",
+  "2026-11-17 16:05 adivinha_resposta"
  ],
  "ig_ofertas_usadas": [
   "amz-B07T4M1MQW",
@@ -20745,61 +20861,14 @@
   "cv-responde": "2026-11-17",
   "bs-como-entrar": "2026-11-17",
   "ac-anuncio-rede": "2026-11-17",
-  "bs-encaminha": "2026-11-17"
+  "bs-encaminha": "2026-11-17",
+  "ac-kit-uma-peca": "2026-11-17"
  },
  "pecas_dia": {
-  "2026-11-17": 7
+  "2026-11-17": 8
  },
- "ultimo_pilar": "bastidor",
+ "ultimo_pilar": "anticilada",
  "fila": [
-  {
-   "id": "amz-B0B728TFQM",
-   "canal": "achadinhos",
-   "nome": "Ventilador de mesa Arno Xtreme Force Breeze 50cm",
-   "preco_antigo": 489.99,
-   "preco": 269.0,
-   "desconto": 45,
-   "link": "https://www.amazon.com.br/dp/B0B728TFQM?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/71i9POZrr8L._AC_SL1200_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-18T22:00:00-03:00",
-   "coletado_em": "2026-11-17T12:21:50-03:00",
-   "preco_em": "2026-11-17T12:21:50-03:00",
-   "entrou": "2026-11-17T12:27:25.476920-03:00"
-  },
-  {
-   "id": "amz-B07RK4HST7",
-   "canal": "achadinhos",
-   "nome": "Loção hidratante corporal CeraVe com ácido hialurônico",
-   "preco_antigo": 110.9,
-   "preco": 68.19,
-   "desconto": 39,
-   "link": "https://www.amazon.com.br/dp/B07RK4HST7?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61vyW3Dl-7L._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-18T22:00:00-03:00",
-   "coletado_em": "2026-11-17T12:21:54-03:00",
-   "preco_em": "2026-11-17T12:21:54-03:00",
-   "entrou": "2026-11-17T12:27:25.476920-03:00"
-  },
-  {
-   "id": "amz-B0D8RJ99Z1",
-   "canal": "tech",
-   "nome": "Bateria portátil Samsung 20.000 mAh 45W 3x USB-C",
-   "preco_antigo": 449.0,
-   "preco": 217.55,
-   "desconto": 52,
-   "link": "https://www.amazon.com.br/dp/B0D8RJ99Z1?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/41sv463IV4L._AC_SL1080_.jpg",
-   "loja": "Loja oficial Samsung · entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-18T22:00:00-03:00",
-   "coletado_em": "2026-11-17T12:21:39-03:00",
-   "preco_em": "2026-11-17T12:21:39-03:00",
-   "entrou": "2026-11-17T12:27:25.476920-03:00"
-  },
   {
    "id": "amz-B0F3D25PD3",
    "canal": "tech",
@@ -20914,22 +20983,6 @@
    "entrou": "2026-11-17T14:59:21.745661-03:00"
   },
   {
-   "id": "amz-B07LFLRQXP",
-   "canal": "achadinhos",
-   "nome": "Nivea Hidratante Labial Amora Shine 4,8g",
-   "preco_antigo": 24.1,
-   "preco": 11.58,
-   "desconto": 52,
-   "link": "https://www.amazon.com.br/dp/B07LFLRQXP?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/71g4snU4xkL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-18T22:00:00-03:00",
-   "coletado_em": "2026-11-17T15:18:26-03:00",
-   "preco_em": "2026-11-17T15:18:26-03:00",
-   "entrou": "2026-11-17T15:24:13.555929-03:00"
-  },
-  {
    "id": "amz-B00D76IEJS",
    "canal": "achadinhos",
    "nome": "Nivea Tônico Facial Controle do Brilho 200ml",
@@ -20974,39 +21027,6 @@
    "plataforma": "Amazon",
    "valida_ate": "2026-11-18T22:00:00-03:00",
    "coletado_em": "2026-11-17T15:18:26-03:00",
-   "preco_em": "2026-11-17T15:18:26-03:00",
-   "entrou": "2026-11-17T15:24:13.555929-03:00"
-  },
-  {
-   "id": "amz-B01FCZXHY8",
-   "canal": "marcas",
-   "nome": "Óculos de Sol Ray-Ban Justin Masculino",
-   "preco_antigo": 790.0,
-   "preco": 328.3,
-   "desconto": 58,
-   "link": "https://www.amazon.com.br/dp/B01FCZXHY8?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51BFB+CU3sL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-18T22:00:00-03:00",
-   "coletado_em": "2026-11-17T15:18:26-03:00",
-   "preco_em": "2026-11-17T15:18:26-03:00",
-   "entrou": "2026-11-17T15:24:13.555929-03:00"
-  },
-  {
-   "id": "amz-B0BNP1HB22",
-   "canal": "marcas",
-   "nome": "Camiseta Hering Henley Básica Texturizada Masculina",
-   "preco_antigo": 86.75,
-   "preco": 62.9,
-   "desconto": 27,
-   "link": "https://www.amazon.com.br/dp/B0BNP1HB22?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/6193pTFeOvL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-18T22:00:00-03:00",
-   "coletado_em": "2026-11-17T15:18:26-03:00",
-   "extra": "Preço pode variar por tamanho e cor",
    "preco_em": "2026-11-17T15:18:26-03:00",
    "entrou": "2026-11-17T15:24:13.555929-03:00"
   },
@@ -22596,7 +22616,13 @@
   "aspiradorportatilabateriablackdecker12vapb12000": "2026-11-17T15:06:51.078715-03:00",
   "ventiladordecolunamondialturbo8pas40cm110v": "2026-11-17T15:10:31.925147-03:00",
   "mousesemfiologitechsignaturem650lcliquesilencioso": "2026-11-17T15:24:18.519507-03:00",
-  "faqueirotramontinalaguna91pecascomfacadechurrasco": "2026-11-17T15:31:27.108725-03:00"
+  "faqueirotramontinalaguna91pecascomfacadechurrasco": "2026-11-17T15:31:27.108725-03:00",
+  "ventiladordemesaarnoxtremeforcebreeze50cm": "2026-11-17T15:47:50.554063-03:00",
+  "locaohidratantecorporalceravecomacidohialuronico": "2026-11-17T15:56:01.083468-03:00",
+  "oculosdesolraybanjustinmasculino": "2026-11-17T16:02:41.419631-03:00",
+  "bateriaportatilsamsung20000mah45w3xusbc": "2026-11-17T16:09:48.069139-03:00",
+  "niveahidratantelabialamorashine48g": "2026-11-17T16:16:53.241003-03:00",
+  "camisetaheringhenleybasicatexturizadamasculina": "2026-11-17T16:23:52.149109-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
@@ -22959,7 +22985,7 @@
  },
  "story_link_dia": "2026-11-16",
  "pede_semana": "2026-47",
- "ultimo_garimpo": "2026-11-17T12:24:05-03:00",
+ "ultimo_garimpo": "2026-11-17T15:20:06-03:00",
  "vigia_aviso_post": "2026-11-09T18:27:03.734589-03:00",
  "vigia_aviso_garimpo": "2026-11-16T17:47:00.570679-03:00",
  "resumo_enviado": "2026-11-16",
@@ -23003,7 +23029,7 @@
   "marcas": "2026-11-12T17:56:29.409807-03:00"
  },
  "top10_dia": "2026-11-14",
- "manuais_lidos": "2026-11-17T15:38:55.064029-03:00",
+ "manuais_lidos": "2026-11-17T16:23:48.573836-03:00",
  "reserva_resultado": {
   "2026-11-07": {
    "achadinhos": {
@@ -23246,7 +23272,7 @@
    "hora": "2026-11-16T18:37:24.615329-03:00"
   }
  },
- "ig_respondido_em": "2026-11-17T15:38:55.064029-03:00",
+ "ig_respondido_em": "2026-11-17T16:23:48.573836-03:00",
  "dm_auto": {
   "2026-11-10": {
    "com_palavra": 0,
@@ -23500,7 +23526,7 @@
    "feed": 2
   },
   "2026-11-17": {
-   "story": 16,
+   "story": 17,
    "feed": 1
   }
  },
@@ -23541,7 +23567,7 @@
   }
  },
  "awin_teste": {
-  "quando": "17/11 14:59",
+  "quando": "17/11 15:39",
   "limpo": true,
   "http": 302,
   "host": "www.nike.com.br",
