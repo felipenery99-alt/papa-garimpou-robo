@@ -1589,7 +1589,13 @@
   "2026-11-16 tech 20:17 amz-B0FPRNGRCL",
   "2026-11-16 achadinhos 20:25 amz-B0F4LT38LJ",
   "2026-11-16 marcas 20:32 amz-B001FWXI88",
-  "2026-11-16 tech 20:39 amz-B0DVCGPNC7"
+  "2026-11-16 tech 20:39 amz-B0DVCGPNC7",
+  "2026-11-16 achadinhos 20:44 amz-B08NVNFV82",
+  "2026-11-16 marcas 20:52 amz-B08BZSRZGS",
+  "2026-11-16 tech 20:58 amz-B015CH1PJU",
+  "2026-11-16 achadinhos 21:04 amz-B0FB41MGJH",
+  "2026-11-16 marcas 21:11 amz-B0D83MSPFN",
+  "2026-11-16 tech 21:19 shopee-3258773144"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -2203,7 +2209,7 @@
   "amz-B0FGDLNWWT": "2026-11-06T16:34:07.907257-03:00",
   "amz-B0G452FS75": "2026-11-06T16:44:03.522093-03:00",
   "amz-B0CSK79LMB": "2026-11-06T16:49:48.237388-03:00",
-  "shopee-3258773144": "2026-11-06T19:04:02.088681-03:00",
+  "shopee-3258773144": "2026-11-16T21:19:16.694387-03:00",
   "shopee-41117508450": "2026-11-06T19:18:15.321266-03:00",
   "shopee-23592990089": "2026-11-06T19:35:50.027373-03:00",
   "shopee-41478796304": "2026-11-15T12:35:27.439078-03:00",
@@ -3107,7 +3113,12 @@
   "amz-B0FPRNGRCL": "2026-11-16T20:17:46.861821-03:00",
   "amz-B0F4LT38LJ": "2026-11-16T20:25:09.991127-03:00",
   "amz-B001FWXI88": "2026-11-16T20:32:19.593178-03:00",
-  "amz-B0DVCGPNC7": "2026-11-16T20:39:13.882185-03:00"
+  "amz-B0DVCGPNC7": "2026-11-16T20:39:13.882185-03:00",
+  "amz-B08NVNFV82": "2026-11-16T20:44:53.791798-03:00",
+  "amz-B08BZSRZGS": "2026-11-16T20:52:21.650329-03:00",
+  "amz-B015CH1PJU": "2026-11-16T20:58:28.644188-03:00",
+  "amz-B0FB41MGJH": "2026-11-16T21:04:55.617180-03:00",
+  "amz-B0D83MSPFN": "2026-11-16T21:11:22.467512-03:00"
  },
  "ofertas_dia": [
   {
@@ -4594,17 +4605,17 @@
    "nome": "Baseus EnerFill FN22 Fast Charger 1C PD 20W/30W/45W Safety Protections Mini Gan Tech Adapter for IPhone 17",
    "loja": "Baseus Oficial Store",
    "loja_oficial": true,
-   "preco": 48.99,
-   "preco_antigo": 139.97,
-   "desconto": 65,
-   "vendas": 496,
+   "preco": 45.79,
+   "preco_antigo": 138.76,
+   "desconto": 67,
+   "vendas": 557,
    "nota": 4.9,
    "comissao_pct": 7.0,
    "imagem": "https://cf.shopee.com.br/file/cn-11134207-820l4-mmzna00skykoe1",
-   "link": "https://s.shopee.com.br/BVAxTgBAm",
+   "link": "https://s.shopee.com.br/6VPU0PZipM",
    "canal": "tech",
-   "entrou": "2026-11-06T18:38:22.297894-03:00",
-   "dia": "2026-11-06"
+   "entrou": "2026-11-16T20:39:37.223352-03:00",
+   "dia": "2026-11-16"
   },
   {
    "id": "shopee-41117508450",
@@ -20167,6 +20178,92 @@
    "preco_em": "2026-11-16T18:16:59-03:00",
    "entrou": "2026-11-16T18:21:48.058175-03:00",
    "dia": "2026-11-16"
+  },
+  {
+   "id": "amz-B08NVNFV82",
+   "canal": "achadinhos",
+   "nome": "Protetor Solar Facial Minesol Oil Control",
+   "preco_antigo": 124.99,
+   "preco": 55.59,
+   "desconto": 56,
+   "link": "https://www.amazon.com.br/dp/B08NVNFV82?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51aa2E6YdbL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-17T22:00:00-03:00",
+   "coletado_em": "2026-11-16T18:16:59-03:00",
+   "preco_em": "2026-11-16T18:16:59-03:00",
+   "entrou": "2026-11-16T18:21:48.058175-03:00",
+   "dia": "2026-11-16"
+  },
+  {
+   "id": "amz-B08BZSRZGS",
+   "canal": "marcas",
+   "nome": "Whey Protein DUX Fresh 900g",
+   "preco_antigo": 466.78,
+   "preco": 285.48,
+   "desconto": 39,
+   "link": "https://www.amazon.com.br/dp/B08BZSRZGS?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71nIIOdJK9L._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-17T22:00:00-03:00",
+   "coletado_em": "2026-11-16T18:16:59-03:00",
+   "preco_em": "2026-11-16T18:16:59-03:00",
+   "entrou": "2026-11-16T18:21:48.058175-03:00",
+   "dia": "2026-11-16"
+  },
+  {
+   "id": "amz-B015CH1PJU",
+   "canal": "tech",
+   "nome": "Pendrive SanDisk Ultra Fit 128GB",
+   "preco_antigo": 299.9,
+   "preco": 207.99,
+   "desconto": 31,
+   "link": "https://www.amazon.com.br/dp/B015CH1PJU?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61DaP3ryRKL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-17T22:00:00-03:00",
+   "coletado_em": "2026-11-16T18:16:59-03:00",
+   "preco_em": "2026-11-16T18:16:59-03:00",
+   "entrou": "2026-11-16T18:21:48.058175-03:00",
+   "dia": "2026-11-16"
+  },
+  {
+   "id": "amz-B0FB41MGJH",
+   "canal": "achadinhos",
+   "nome": "Barbeador Elétrico Philips Shaver",
+   "preco_antigo": 599.9,
+   "preco": 298.99,
+   "desconto": 50,
+   "link": "https://www.amazon.com.br/dp/B0FB41MGJH?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/516QiJ6WGtL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-17T22:00:00-03:00",
+   "coletado_em": "2026-11-16T18:16:59-03:00",
+   "gancho": "BARBEADOR PHILIPS PELA METADE",
+   "preco_em": "2026-11-16T18:16:59-03:00",
+   "entrou": "2026-11-16T18:21:48.058175-03:00",
+   "dia": "2026-11-16"
+  },
+  {
+   "id": "amz-B0D83MSPFN",
+   "canal": "marcas",
+   "nome": "Perfume Adidas Vibes Get Comfy 30ml",
+   "preco_antigo": 103.35,
+   "preco": 51.05,
+   "desconto": 51,
+   "link": "https://www.amazon.com.br/dp/B0D83MSPFN?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/41Q1m3LJ4eL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-17T22:00:00-03:00",
+   "coletado_em": "2026-11-16T18:16:59-03:00",
+   "preco_em": "2026-11-16T18:16:59-03:00",
+   "entrou": "2026-11-16T18:21:48.058175-03:00",
+   "dia": "2026-11-16"
   }
  ],
  "ig_feitos": [
@@ -20293,7 +20390,6 @@
   "2026-11-16 17:36 story_oferta",
   "2026-11-16 18:05 a_ou_b",
   "2026-11-16 18:09 story_oferta",
-  "2026-11-16 feed",
   "2026-11-16 18:30 reels",
   "2026-11-16 18:42 story_oferta",
   "2026-11-16 20:03 story_oferta",
@@ -20619,39 +20715,6 @@
  "ultimo_pilar": "mito",
  "fila": [
   {
-   "id": "amz-B08NVNFV82",
-   "canal": "achadinhos",
-   "nome": "Protetor Solar Facial Minesol Oil Control",
-   "preco_antigo": 124.99,
-   "preco": 55.59,
-   "desconto": 56,
-   "link": "https://www.amazon.com.br/dp/B08NVNFV82?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51aa2E6YdbL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-17T22:00:00-03:00",
-   "coletado_em": "2026-11-16T18:16:59-03:00",
-   "preco_em": "2026-11-16T18:16:59-03:00",
-   "entrou": "2026-11-16T18:21:48.058175-03:00"
-  },
-  {
-   "id": "amz-B0FB41MGJH",
-   "canal": "achadinhos",
-   "nome": "Barbeador Elétrico Philips Shaver",
-   "preco_antigo": 599.9,
-   "preco": 298.99,
-   "desconto": 50,
-   "link": "https://www.amazon.com.br/dp/B0FB41MGJH?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/516QiJ6WGtL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-17T22:00:00-03:00",
-   "coletado_em": "2026-11-16T18:16:59-03:00",
-   "gancho": "BARBEADOR PHILIPS PELA METADE",
-   "preco_em": "2026-11-16T18:16:59-03:00",
-   "entrou": "2026-11-16T18:21:48.058175-03:00"
-  },
-  {
    "id": "amz-B0BRL92XCB",
    "canal": "achadinhos",
    "nome": "Ferro a Vapor Pressurizado Philips Walita PerfectCare Compact",
@@ -20676,38 +20739,6 @@
    "desconto": 50,
    "link": "https://www.amazon.com.br/dp/B0C81TQT1S?tag=papagarimpou-20",
    "imagem": "https://m.media-amazon.com/images/I/61JAgtqvcEL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-17T22:00:00-03:00",
-   "coletado_em": "2026-11-16T18:16:59-03:00",
-   "preco_em": "2026-11-16T18:16:59-03:00",
-   "entrou": "2026-11-16T18:21:48.058175-03:00"
-  },
-  {
-   "id": "amz-B08BZSRZGS",
-   "canal": "marcas",
-   "nome": "Whey Protein DUX Fresh 900g",
-   "preco_antigo": 466.78,
-   "preco": 285.48,
-   "desconto": 39,
-   "link": "https://www.amazon.com.br/dp/B08BZSRZGS?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/71nIIOdJK9L._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-17T22:00:00-03:00",
-   "coletado_em": "2026-11-16T18:16:59-03:00",
-   "preco_em": "2026-11-16T18:16:59-03:00",
-   "entrou": "2026-11-16T18:21:48.058175-03:00"
-  },
-  {
-   "id": "amz-B0D83MSPFN",
-   "canal": "marcas",
-   "nome": "Perfume Adidas Vibes Get Comfy 30ml",
-   "preco_antigo": 103.35,
-   "preco": 51.05,
-   "desconto": 51,
-   "link": "https://www.amazon.com.br/dp/B0D83MSPFN?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/41Q1m3LJ4eL._AC_SL1500_.jpg",
    "loja": "Vendido e entregue pela Amazon",
    "plataforma": "Amazon",
    "valida_ate": "2026-11-17T22:00:00-03:00",
@@ -20741,22 +20772,6 @@
    "desconto": 31,
    "link": "https://www.amazon.com.br/dp/B0FD53PYKV?tag=papagarimpou-20",
    "imagem": "https://m.media-amazon.com/images/I/61K-nypiQhL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-17T22:00:00-03:00",
-   "coletado_em": "2026-11-16T18:16:59-03:00",
-   "preco_em": "2026-11-16T18:16:59-03:00",
-   "entrou": "2026-11-16T18:21:48.058175-03:00"
-  },
-  {
-   "id": "amz-B015CH1PJU",
-   "canal": "tech",
-   "nome": "Pendrive SanDisk Ultra Fit 128GB",
-   "preco_antigo": 299.9,
-   "preco": 207.99,
-   "desconto": 31,
-   "link": "https://www.amazon.com.br/dp/B015CH1PJU?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61DaP3ryRKL._AC_SL1500_.jpg",
    "loja": "Vendido e entregue pela Amazon",
    "plataforma": "Amazon",
    "valida_ate": "2026-11-17T22:00:00-03:00",
@@ -21249,7 +21264,7 @@
   "monitorgameraocagon25310hzips25g4s": "2026-11-06T16:34:07.907257-03:00",
   "pendrivesandiskusbc64gbedicaocopadomundo2026": "2026-11-06T16:44:03.522093-03:00",
   "tablettcla1plus128gbtela122": "2026-11-06T16:49:48.237388-03:00",
-  "baseusenerfillfn22fastcharger1cpd20w30w45wsafetyprotectionsminigantechadapterforiphone17": "2026-11-06T19:04:02.088681-03:00",
+  "baseusenerfillfn22fastcharger1cpd20w30w45wsafetyprotectionsminigantechadapterforiphone17": "2026-11-16T21:19:16.694387-03:00",
   "headphonebaseusbh1ncsemfiobluetooth60anc45dbgravesfortes80hbateriasomhires": "2026-11-06T19:18:15.321266-03:00",
   "baseuscarregadordeparederapidotipocsupersiqc20wparacelularesiphonesamsungeoutros": "2026-11-06T19:35:50.027373-03:00",
   "cuscuzeirapequenatramontinaemaluminiocomrevestimentointernoeexternoemantiaderente10cm08l": "2026-11-15T12:35:27.439078-03:00",
@@ -22150,7 +22165,12 @@
   "soundbarjblbar500mk251dolbyatmos": "2026-11-16T20:17:46.861821-03:00",
   "shampoolorealpariselsevebondrepair": "2026-11-16T20:25:09.991127-03:00",
   "perfumenauticablueedt50ml": "2026-11-16T20:32:19.593178-03:00",
-  "kitvolantelogitechg923paraxboxepc": "2026-11-16T20:39:13.882185-03:00"
+  "kitvolantelogitechg923paraxboxepc": "2026-11-16T20:39:13.882185-03:00",
+  "protetorsolarfacialminesoloilcontrol": "2026-11-16T20:44:53.791798-03:00",
+  "wheyproteinduxfresh900g": "2026-11-16T20:52:21.650329-03:00",
+  "pendrivesandiskultrafit128gb": "2026-11-16T20:58:28.644188-03:00",
+  "barbeadoreletricophilipsshaver": "2026-11-16T21:04:55.617180-03:00",
+  "perfumeadidasvibesgetcomfy30ml": "2026-11-16T21:11:22.467512-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
@@ -22512,7 +22532,7 @@
   "18113272949143552": "Oi! Aqui é o Papa 😎💎\n\nOs 5 melhores tênis de corrida até R$ 500:\n\n1. Tênis Casual Eros 2 Confortável Unissex - Olympikus — R$ 169,90\nhttps://s.shopee.com.br/1gK0ttEnZk\n\n2. Tênis de Caminhada Casual Index 4 Unissex Confortável - Olym — R$ 157,41\nhttps://s.shopee.com.br/30pOUL9is8\n\n3. Tênis Mizuno CSD Sport — R$ 269,90\nhttps://www.amazon.com.br/dp/B0GV1MKHDB?tag=papagarimpou-20\n\n4. Tênis de Caminhada Unissex Confortável Proof 3 - Olympikus — R$ 162,82\nhttps://s.shopee.com.br/1qdR6CEAEn\n\n5. Tênis de Caminhada Casual Unissex Confortável Beats - Olympi — R$ 199,90\nhttps://s.shopee.com.br/3g5Ah9OC6m\n\nPreço pode mudar a qualquer momento. Publi · link de afiliado"
  },
  "story_link_dia": "2026-11-16",
- "pede_semana": "2026-46",
+ "pede_semana": "2026-47",
  "ultimo_garimpo": "2026-11-16T18:17:04-03:00",
  "vigia_aviso_post": "2026-11-09T18:27:03.734589-03:00",
  "vigia_aviso_garimpo": "2026-11-16T17:47:00.570679-03:00",
@@ -22557,7 +22577,7 @@
   "marcas": "2026-11-12T17:56:29.409807-03:00"
  },
  "top10_dia": "2026-11-14",
- "manuais_lidos": "2026-11-16T20:32:01.582692-03:00",
+ "manuais_lidos": "2026-11-16T21:11:22.232371-03:00",
  "reserva_resultado": {
   "2026-11-07": {
    "achadinhos": {
@@ -22773,7 +22793,7 @@
    "hora": "2026-11-16T18:37:24.615329-03:00"
   }
  },
- "ig_respondido_em": "2026-11-16T20:38:59.802203-03:00",
+ "ig_respondido_em": "2026-11-16T21:19:13.616423-03:00",
  "dm_auto": {
   "2026-11-09": {
    "com_palavra": 0,
@@ -23046,5 +23066,14 @@
     82
    ]
   }
- ]
+ ],
+ "pede_fixados": {
+  "ate": "2026-11-18T08:39:37.223352-03:00",
+  "msgs": {
+   "@papagarimpou": 656,
+   "@papagarimpoumarcas": 541,
+   "@papagarimpoutech": 478,
+   "@papagarimpouofertas": 1646
+  }
+ }
 }
