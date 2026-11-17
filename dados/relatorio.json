@@ -3475,8 +3475,8 @@
  },
  "2026-11-17": {
   "erros": [],
-  "ultima_execucao": "02:01",
-  "execucoes": 5,
+  "ultima_execucao": "02:13",
+  "execucoes": 6,
   "telegram_posts": {
    "achadinhos": 0,
    "marcas": 0,
@@ -6650,11 +6650,32 @@
    "shopee-23897127225": "nota",
    "shopee-22199348208": "nota",
    "shopee-22194851581": "nota",
-   "shopee-21598315299": "nota"
+   "shopee-21598315299": "nota",
+   "shopee-58211027665": "vendas longe",
+   "shopee-23593917557": "nota",
+   "shopee-23493505950": "nota",
+   "shopee-23493505892": "nota",
+   "shopee-23393403136": "vendas longe",
+   "shopee-22893509585": "nota",
+   "shopee-22393835069": "nota",
+   "shopee-22297919518": "nota",
+   "shopee-22293525612": "nota",
+   "shopee-58270464661": "vendas longe",
+   "shopee-58219468952": "nota",
+   "shopee-47355612858": "vendas longe",
+   "shopee-58200134653": "nota",
+   "shopee-58256326917": "vendas longe",
+   "shopee-23594638188": "nota",
+   "shopee-23195407147": "nota",
+   "shopee-23299439754": "nota",
+   "shopee-58263574170": "nota",
+   "shopee-58212851738": "nota",
+   "shopee-58212848215": "nota",
+   "shopee-58212823717": "nota"
   },
   "shopee_oficial": {
-   "vendas longe": 1562,
-   "nota": 1155,
+   "vendas longe": 1567,
+   "nota": 1171,
    "vendas perto (125+)": 104,
    "outro: marca fora da lista boa": 82,
    "aprovada": 69,
@@ -6872,7 +6893,7 @@
    "stories_ativos": 24
   },
   "reels_alcance": {
-   "atualizado": "2026-11-17T02:01:21.862906-03:00",
+   "atualizado": "2026-11-17T02:13:24.026789-03:00",
    "itens": [
     {
      "id": "17965736697237404",
