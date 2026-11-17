@@ -3483,17 +3483,17 @@
    "erro em 2026-11-17 marcas 13:06 shopee-18216465769 (foto): 503 Server Error: Service Unavailable for url: https://cf.shopee.com.br/file/br-11134207-820l4-mq6aqvo690cje6. Não postei.",
    "Awin liberada: o redirecionamento já traz o nome novo; soltei o cupom BLACK30 e os links Awin."
   ],
-  "ultima_execucao": "15:39",
-  "execucoes": 18,
+  "ultima_execucao": "16:24",
+  "execucoes": 19,
   "telegram_posts": {
-   "achadinhos": 32,
-   "marcas": 20,
-   "tech": 12
+   "achadinhos": 35,
+   "marcas": 22,
+   "tech": 13
   },
   "ultimo_post": {
-   "achadinhos": "16:16",
-   "marcas": "16:23",
-   "tech": "16:09"
+   "achadinhos": "16:58",
+   "marcas": "17:06",
+   "tech": "16:51"
   },
   "meta_token": {
    "tipo": "SYSTEM_USER",
@@ -3544,7 +3544,8 @@
    "14:08 story_oferta",
    "15:00 adivinha",
    "15:03 story_oferta",
-   "16:05 adivinha_resposta"
+   "16:05 adivinha_resposta",
+   "16:44 story_oferta"
   ],
   "shopee_ligada": true,
   "dm_auto": {
@@ -3681,7 +3682,7 @@
    "shopee-20299205359": "aprovada",
    "shopee-22997647570": "aprovada",
    "shopee-21897631761": "aprovada",
-   "shopee-47117706146": "vendas perto (125+)",
+   "shopee-47117706146": "desconto longe",
    "shopee-20697627058": "vendas perto (125+)",
    "shopee-53767669975": "desconto longe",
    "shopee-58221428383": "vendas longe",
@@ -3819,7 +3820,7 @@
    "shopee-58209720113": "vendas longe",
    "shopee-58209674615": "vendas longe",
    "shopee-46611963995": "vendas perto (125+)",
-   "shopee-55014684903": "vendas longe",
+   "shopee-55014684903": "vendas perto (125+)",
    "shopee-22294974557": "vendas longe",
    "shopee-13597683310": "vendas longe",
    "shopee-22707626694": "vendas longe",
@@ -4125,7 +4126,7 @@
    "shopee-50801661798": "aprovada",
    "shopee-58206236149": "aprovada",
    "shopee-20198314386": "vendas perto (125+)",
-   "shopee-55468658052": "vendas longe",
+   "shopee-55468658052": "vendas perto (125+)",
    "shopee-20499871061": "vendas longe",
    "shopee-23599230410": "vendas perto (125+)",
    "shopee-55214478888": "vendas perto (125+)",
@@ -4475,7 +4476,7 @@
    "shopee-27231768018": "aprovada",
    "shopee-22693991331": "desconto longe",
    "shopee-22693991338": "vendas longe",
-   "shopee-23298537624": "vendas perto (125+)",
+   "shopee-23298537624": "aprovada",
    "shopee-23298537617": "vendas perto (125+)",
    "shopee-23098514637": "vendas perto (125+)",
    "shopee-23298537618": "vendas longe",
@@ -5442,7 +5443,7 @@
    "shopee-23892413591": "aprovada",
    "shopee-20398803751": "desconto perto (até 10 pts)",
    "shopee-22091991704": "vendas perto (125+)",
-   "shopee-16168525614": "vendas perto (125+)",
+   "shopee-16168525614": "vendas longe",
    "shopee-57268859286": "vendas longe",
    "shopee-23297560550": "vendas longe",
    "shopee-18797677561": "vendas longe",
@@ -7130,15 +7131,18 @@
    "shopee-22099336426": "vendas longe",
    "shopee-58268400578": "vendas longe",
    "shopee-58211305677": "nota",
-   "shopee-58272389894": "nota"
+   "shopee-58272389894": "nota",
+   "shopee-23693199492": "vendas longe",
+   "shopee-23399370332": "nota",
+   "shopee-21075431924": "vendas longe"
   },
   "shopee_oficial": {
-   "vendas longe": 1773,
-   "nota": 1373,
-   "vendas perto (125+)": 109,
+   "vendas longe": 1774,
+   "nota": 1374,
+   "vendas perto (125+)": 108,
    "outro: marca fora da lista boa": 89,
-   "aprovada": 77,
-   "desconto longe": 69,
+   "aprovada": 78,
+   "desconto longe": 70,
    "outro: palavra proibida: compatível": 29,
    "desconto perto (até 10 pts)": 23
   },
@@ -7389,13 +7393,18 @@
    "amz-B07RK4HST7": "ja_postado_30d",
    "amz-B01FCZXHY8": "ja_postado_30d",
    "amz-B0D8RJ99Z1": "ja_postado_30d",
-   "amz-B07LFLRQXP": "ja_postado_30d"
+   "amz-B07LFLRQXP": "ja_postado_30d",
+   "amz-B0BNP1HB22": "ja_postado_30d",
+   "amz-B00D76IEJS": "ja_postado_30d",
+   "amz-B0F844Q7BV": "ja_postado_30d",
+   "amz-B0DRPPG1HZ": "ja_postado_30d",
+   "amz-B0BXLPXN18": "ja_postado_30d"
   },
   "manuais_descartados": {
-   "ja_postado_30d": 247
+   "ja_postado_30d": 252
   },
   "instagram": {
-   "seguidores": 503,
+   "seguidores": 504,
    "posts": 129,
    "reach": 30,
    "profile_views": 30,
@@ -7403,7 +7412,7 @@
    "stories_ativos": 25
   },
   "reels_alcance": {
-   "atualizado": "2026-11-17T15:39:35.474252-03:00",
+   "atualizado": "2026-11-17T16:24:16.057485-03:00",
    "itens": [
     {
      "id": "17965736697237404",
