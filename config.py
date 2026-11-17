@@ -259,4 +259,4 @@ FB_CONVITE_HORA = "20:10"
 # 17/11 (Central): o redirecionamento da Awin põe o nome do dono no utm_campaign. True = nada com link Awin
 # (awin1.com, tidd.ly) entra na fila, nem cupom/aviso nem story marcado com "awin". Só volta a False depois
 # que o dono renomear o espaço na Awin e o redirecionamento sair sem o nome (conferir com curl -I).
-AWIN_SEGURAR = True
+AWIN_SEGURAR = False   # 17/11 17h45: 20 de 20 testes do Brasil já com o nome novo → Awin liberada (PG · Robô)
