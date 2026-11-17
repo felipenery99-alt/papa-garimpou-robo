@@ -19897,6 +19897,108 @@
    "canal": "achadinhos",
    "entrou": "2026-11-17T00:07:36.262448-03:00",
    "reprise_dias": 7
+  },
+  {
+   "id": "shopee-23593120156",
+   "plataforma": "Shopee",
+   "nome": "Panela Elétrica Mondial NPE-08-5X Fast Rice 5 Xícaras 400W",
+   "loja": "LOI BRASIL",
+   "loja_oficial": true,
+   "preco": 177.99,
+   "preco_antigo": 257.96,
+   "desconto": 31,
+   "vendas": 263,
+   "nota": 4.9,
+   "comissao_pct": 6.0,
+   "imagem": "https://cf.shopee.com.br/file/br-11134207-820li-mv4kjoqz8kche3",
+   "link": "https://s.shopee.com.br/8Kr6NelZ23",
+   "canal": "achadinhos",
+   "entrou": "2026-11-17T00:46:06.163484-03:00"
+  },
+  {
+   "id": "shopee-19161663337",
+   "plataforma": "Shopee",
+   "nome": "Câmera Inteligente Full HD Im3 C Branca Intelbras",
+   "loja": "Intelbras Oficial",
+   "loja_oficial": true,
+   "preco": 179.9,
+   "preco_antigo": 260.72,
+   "desconto": 31,
+   "vendas": 590,
+   "nota": 5.0,
+   "comissao_pct": 5.0,
+   "imagem": "https://cf.shopee.com.br/file/sg-11134201-82590-mszml69k740917",
+   "link": "https://s.shopee.com.br/906nKMIlBn",
+   "canal": "achadinhos",
+   "entrou": "2026-11-17T00:46:06.163484-03:00"
+  },
+  {
+   "id": "shopee-9511754133",
+   "plataforma": "Shopee",
+   "nome": "Creatina Max Titanium 300g Pura",
+   "loja": "Hard Extreme",
+   "loja_oficial": true,
+   "preco": 35.7,
+   "preco_antigo": 178.5,
+   "desconto": 80,
+   "vendas": 7672,
+   "nota": 4.9,
+   "comissao_pct": 10.0,
+   "imagem": "https://cf.shopee.com.br/file/sg-11134201-22100-7b7tjvynfbivb7",
+   "link": "https://s.shopee.com.br/6AmbSj3hjm",
+   "canal": "marcas",
+   "entrou": "2026-11-17T00:46:06.163484-03:00"
+  },
+  {
+   "id": "shopee-22897053962",
+   "plataforma": "Shopee",
+   "nome": "Kit Com 3 Camisetas Masculinas Básicas Slim Hering",
+   "loja": "Hering_Oficial",
+   "loja_oficial": true,
+   "preco": 96.99,
+   "preco_antigo": 159.0,
+   "desconto": 39,
+   "vendas": 343,
+   "nota": 4.9,
+   "comissao_pct": 3.0,
+   "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdyb-mcjadz3n5vm6fc",
+   "link": "https://s.shopee.com.br/4VeNrijisH",
+   "canal": "marcas",
+   "entrou": "2026-11-17T00:46:06.163484-03:00"
+  },
+  {
+   "id": "shopee-23999162333",
+   "plataforma": "Shopee",
+   "nome": "Smart Tv Monitor Hd 32\" Samsung Ls32h5000fgxzd Preta",
+   "loja": "Rep Store",
+   "loja_oficial": true,
+   "preco": 1099.0,
+   "preco_antigo": 1894.83,
+   "desconto": 42,
+   "vendas": 265,
+   "nota": 5.0,
+   "comissao_pct": 3.0,
+   "imagem": "https://cf.shopee.com.br/file/br-11134207-820l8-mv3hwxo5k9vk0b",
+   "link": "https://s.shopee.com.br/9zzJlgvwRU",
+   "canal": "tech",
+   "entrou": "2026-11-17T00:46:06.163484-03:00"
+  },
+  {
+   "id": "shopee-40275577235",
+   "plataforma": "Shopee",
+   "nome": "Smart TV Samsung 32\" HD Tizen HDR Wi-Fi HDMI Bivolt Preta",
+   "loja": "123 Comprou!",
+   "loja_oficial": true,
+   "preco": 1119.0,
+   "preco_antigo": 1621.74,
+   "desconto": 31,
+   "vendas": 260,
+   "nota": 5.0,
+   "comissao_pct": 3.0,
+   "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mg5gx2k4a9s06d",
+   "link": "https://s.shopee.com.br/7KyYan65rE",
+   "canal": "tech",
+   "entrou": "2026-11-17T00:46:06.163484-03:00"
   }
  ],
  "menus_fixados": [
@@ -21683,7 +21785,7 @@
   "marcas": "2026-11-12T17:56:29.409807-03:00"
  },
  "top10_dia": "2026-11-14",
- "manuais_lidos": "2026-11-17T00:18:20.585099-03:00",
+ "manuais_lidos": "2026-11-17T00:58:29.836328-03:00",
  "reserva_resultado": {
   "2026-11-07": {
    "achadinhos": {
@@ -21926,7 +22028,7 @@
    "hora": "2026-11-16T18:37:24.615329-03:00"
   }
  },
- "ig_respondido_em": "2026-11-17T00:18:20.585099-03:00",
+ "ig_respondido_em": "2026-11-17T00:58:29.836328-03:00",
  "dm_auto": {
   "2026-11-10": {
    "com_palavra": 0,
