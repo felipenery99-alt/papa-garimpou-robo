@@ -1619,7 +1619,13 @@
   "2026-11-17 marcas 10:06 amz-B09KYH42HV",
   "2026-11-17 tech 10:13 amz-B0F7SP8XC3",
   "2026-11-17 achadinhos 10:19 amz-B09B2LVRCY",
-  "2026-11-17 marcas 10:27 amz-B0H61S4G16"
+  "2026-11-17 marcas 10:27 amz-B0H61S4G16",
+  "2026-11-17 achadinhos 10:35 amz-B0888TL7NG",
+  "2026-11-17 achadinhos 10:42 amz-B0GCT8MTYB",
+  "2026-11-17 marcas 10:49 amz-B0G7371M6T",
+  "2026-11-17 tech 10:56 amz-B09NCDR7TQ",
+  "2026-11-17 achadinhos 11:03 amz-B07TKC1MGB",
+  "2026-11-17 marcas 11:10 amz-B0F1C6PVCZ"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -3159,7 +3165,13 @@
   "amz-B09KYH42HV": "2026-11-17T10:06:59.178845-03:00",
   "amz-B0F7SP8XC3": "2026-11-17T10:13:05.001003-03:00",
   "amz-B09B2LVRCY": "2026-11-17T10:19:22.072551-03:00",
-  "amz-B0H61S4G16": "2026-11-17T10:27:18.246112-03:00"
+  "amz-B0H61S4G16": "2026-11-17T10:27:18.246112-03:00",
+  "amz-B0888TL7NG": "2026-11-17T10:35:30.782872-03:00",
+  "amz-B0GCT8MTYB": "2026-11-17T10:42:58.574959-03:00",
+  "amz-B0G7371M6T": "2026-11-17T10:49:15.026772-03:00",
+  "amz-B09NCDR7TQ": "2026-11-17T10:56:58.018251-03:00",
+  "amz-B07TKC1MGB": "2026-11-17T11:03:37.398585-03:00",
+  "amz-B0F1C6PVCZ": "2026-11-17T11:10:26.277104-03:00"
  },
  "ofertas_dia": [
   {
@@ -19601,6 +19613,110 @@
    "preco_em": "2026-11-17T08:16:57-03:00",
    "entrou": "2026-11-17T08:32:16.601912-03:00",
    "dia": "2026-11-17"
+  },
+  {
+   "id": "amz-B0888TL7NG",
+   "canal": "achadinhos",
+   "nome": "Aspirador de Pó e Água WAP GTW Bagless",
+   "preco_antigo": 429.9,
+   "preco": 295.1,
+   "desconto": 31,
+   "link": "https://www.amazon.com.br/dp/B0888TL7NG?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/514QZcYhtZL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-18T22:00:00-03:00",
+   "coletado_em": "2026-11-17T08:18:00-03:00",
+   "preco_em": "2026-11-17T08:18:00-03:00",
+   "entrou": "2026-11-17T08:32:16.601912-03:00",
+   "dia": "2026-11-17"
+  },
+  {
+   "id": "amz-B0GCT8MTYB",
+   "canal": "achadinhos",
+   "nome": "Máscara L'Oréal Professionnel Keratin Alpha Sleek",
+   "preco_antigo": 304.9,
+   "preco": 194.43,
+   "desconto": 36,
+   "link": "https://www.amazon.com.br/dp/B0GCT8MTYB?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71BQYwBs1gL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-18T22:00:00-03:00",
+   "coletado_em": "2026-11-17T08:17:43-03:00",
+   "preco_em": "2026-11-17T08:17:43-03:00",
+   "entrou": "2026-11-17T08:32:16.601912-03:00",
+   "dia": "2026-11-17"
+  },
+  {
+   "id": "amz-B0G7371M6T",
+   "canal": "marcas",
+   "nome": "Tênis New Balance BB80 Unissex",
+   "preco_antigo": 399.99,
+   "preco": 209.9,
+   "desconto": 48,
+   "link": "https://www.amazon.com.br/dp/B0G7371M6T?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51kaxibPbEL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-18T22:00:00-03:00",
+   "coletado_em": "2026-11-17T08:17:09-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "preco_em": "2026-11-17T08:17:09-03:00",
+   "entrou": "2026-11-17T08:32:16.601912-03:00",
+   "dia": "2026-11-17"
+  },
+  {
+   "id": "amz-B09NCDR7TQ",
+   "canal": "tech",
+   "nome": "Headset Gamer JBL Quantum 610 Wireless",
+   "preco_antigo": 732.9,
+   "preco": 449.1,
+   "desconto": 39,
+   "link": "https://www.amazon.com.br/dp/B09NCDR7TQ?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/81OhA4xHbwL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-18T22:00:00-03:00",
+   "coletado_em": "2026-11-17T08:17:24-03:00",
+   "preco_em": "2026-11-17T08:17:24-03:00",
+   "entrou": "2026-11-17T08:32:16.601912-03:00",
+   "dia": "2026-11-17"
+  },
+  {
+   "id": "amz-B07TKC1MGB",
+   "canal": "achadinhos",
+   "nome": "Kit 2 Limpa Máquina de Lavar Electrolux",
+   "preco_antigo": 34.9,
+   "preco": 19.66,
+   "desconto": 44,
+   "link": "https://www.amazon.com.br/dp/B07TKC1MGB?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51Xr-pAwGwL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-18T22:00:00-03:00",
+   "coletado_em": "2026-11-17T08:17:18-03:00",
+   "preco_em": "2026-11-17T08:17:18-03:00",
+   "entrou": "2026-11-17T08:32:16.601912-03:00",
+   "dia": "2026-11-17"
+  },
+  {
+   "id": "amz-B0F1C6PVCZ",
+   "canal": "marcas",
+   "nome": "Tênis Olympikus Vértice Feminino",
+   "preco_antigo": 199.9,
+   "preco": 98.99,
+   "desconto": 50,
+   "link": "https://www.amazon.com.br/dp/B0F1C6PVCZ?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71mb90Nsw+L._AC_SL1500_.jpg",
+   "loja": "Vendido pela Netshoes · Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-18T22:00:00-03:00",
+   "coletado_em": "2026-11-17T08:17:05-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "preco_em": "2026-11-17T08:17:05-03:00",
+   "entrou": "2026-11-17T08:32:16.601912-03:00",
+   "dia": "2026-11-17"
   }
  ],
  "ig_feitos": [
@@ -20039,54 +20155,6 @@
  "ultimo_pilar": "mito",
  "fila": [
   {
-   "id": "amz-B0888TL7NG",
-   "canal": "achadinhos",
-   "nome": "Aspirador de Pó e Água WAP GTW Bagless",
-   "preco_antigo": 429.9,
-   "preco": 295.1,
-   "desconto": 31,
-   "link": "https://www.amazon.com.br/dp/B0888TL7NG?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/514QZcYhtZL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-18T22:00:00-03:00",
-   "coletado_em": "2026-11-17T08:18:00-03:00",
-   "preco_em": "2026-11-17T08:18:00-03:00",
-   "entrou": "2026-11-17T08:32:16.601912-03:00"
-  },
-  {
-   "id": "amz-B0GCT8MTYB",
-   "canal": "achadinhos",
-   "nome": "Máscara L'Oréal Professionnel Keratin Alpha Sleek",
-   "preco_antigo": 304.9,
-   "preco": 194.43,
-   "desconto": 36,
-   "link": "https://www.amazon.com.br/dp/B0GCT8MTYB?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/71BQYwBs1gL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-18T22:00:00-03:00",
-   "coletado_em": "2026-11-17T08:17:43-03:00",
-   "preco_em": "2026-11-17T08:17:43-03:00",
-   "entrou": "2026-11-17T08:32:16.601912-03:00"
-  },
-  {
-   "id": "amz-B07TKC1MGB",
-   "canal": "achadinhos",
-   "nome": "Kit 2 Limpa Máquina de Lavar Electrolux",
-   "preco_antigo": 34.9,
-   "preco": 19.66,
-   "desconto": 44,
-   "link": "https://www.amazon.com.br/dp/B07TKC1MGB?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51Xr-pAwGwL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-18T22:00:00-03:00",
-   "coletado_em": "2026-11-17T08:17:18-03:00",
-   "preco_em": "2026-11-17T08:17:18-03:00",
-   "entrou": "2026-11-17T08:32:16.601912-03:00"
-  },
-  {
    "id": "amz-B09GSQMVJS",
    "canal": "achadinhos",
    "nome": "Shampoo L'Oréal Professionnel Inforcer",
@@ -20100,40 +20168,6 @@
    "valida_ate": "2026-11-18T22:00:00-03:00",
    "coletado_em": "2026-11-17T08:17:54-03:00",
    "preco_em": "2026-11-17T08:17:54-03:00",
-   "entrou": "2026-11-17T08:32:16.601912-03:00"
-  },
-  {
-   "id": "amz-B0G7371M6T",
-   "canal": "marcas",
-   "nome": "Tênis New Balance BB80 Unissex",
-   "preco_antigo": 399.99,
-   "preco": 209.9,
-   "desconto": 48,
-   "link": "https://www.amazon.com.br/dp/B0G7371M6T?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51kaxibPbEL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-18T22:00:00-03:00",
-   "coletado_em": "2026-11-17T08:17:09-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "preco_em": "2026-11-17T08:17:09-03:00",
-   "entrou": "2026-11-17T08:32:16.601912-03:00"
-  },
-  {
-   "id": "amz-B0F1C6PVCZ",
-   "canal": "marcas",
-   "nome": "Tênis Olympikus Vértice Feminino",
-   "preco_antigo": 199.9,
-   "preco": 98.99,
-   "desconto": 50,
-   "link": "https://www.amazon.com.br/dp/B0F1C6PVCZ?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/71mb90Nsw+L._AC_SL1500_.jpg",
-   "loja": "Vendido pela Netshoes · Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-18T22:00:00-03:00",
-   "coletado_em": "2026-11-17T08:17:05-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "preco_em": "2026-11-17T08:17:05-03:00",
    "entrou": "2026-11-17T08:32:16.601912-03:00"
   },
   {
@@ -20220,22 +20254,6 @@
    "coletado_em": "2026-11-17T08:16:52-03:00",
    "gancho": "LUPO A 61% OFF, É PRA ESTOCAR",
    "preco_em": "2026-11-17T08:16:52-03:00",
-   "entrou": "2026-11-17T08:32:16.601912-03:00"
-  },
-  {
-   "id": "amz-B09NCDR7TQ",
-   "canal": "tech",
-   "nome": "Headset Gamer JBL Quantum 610 Wireless",
-   "preco_antigo": 732.9,
-   "preco": 449.1,
-   "desconto": 39,
-   "link": "https://www.amazon.com.br/dp/B09NCDR7TQ?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/81OhA4xHbwL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-18T22:00:00-03:00",
-   "coletado_em": "2026-11-17T08:17:24-03:00",
-   "preco_em": "2026-11-17T08:17:24-03:00",
    "entrou": "2026-11-17T08:32:16.601912-03:00"
   },
   {
@@ -20348,7 +20366,7 @@
   "mousegamerhyperxpulsefirecorergb6200dpi": "2026-10-30T14:43:25.743445-03:00",
   "difusorcachosuniversalparasecadortaiffvariosmodelos": "2026-10-30T14:58:31.163522-03:00",
   "kit5potesdevidrogatopanda640ml": "2026-10-30T15:13:36.910303-03:00",
-  "tenisnewbalancebb80unissex": "2026-10-30T15:20:53.616784-03:00",
+  "tenisnewbalancebb80unissex": "2026-11-17T10:49:15.026772-03:00",
   "lostsoulasideps5": "2026-10-30T15:31:59.428627-03:00",
   "airfryerbritaniabfr5055l1500w220v": "2026-10-30T15:47:33.307794-03:00",
   "liquidificadoroster1400full32l220v": "2026-10-30T15:50:02.343230-03:00",
@@ -20480,7 +20498,7 @@
   "headsetgamerhyperxcloudstinger": "2026-11-01T17:06:42.082670-03:00",
   "smartwatchsamsunggalaxywatch844mmlte": "2026-11-01T17:15:13.390968-03:00",
   "poteshermeticoselectroluxcomtampadebambu": "2026-11-01T17:25:54.623454-03:00",
-  "tenisolympikusverticefeminino": "2026-11-01T17:31:58.727860-03:00",
+  "tenisolympikusverticefeminino": "2026-11-17T11:10:26.277104-03:00",
   "parafusadeiraefuradeiradeimpactowapwf12k4212v": "2026-11-01T17:44:39.272566-03:00",
   "tenisdecorridapumapouncelite": "2026-11-01T17:51:43.192545-03:00",
   "fonedeouvidosemfiojblwavebuds": "2026-11-01T18:04:51.357295-03:00",
@@ -21712,7 +21730,11 @@
   "mascaralorealprofessionnelmetaldetox": "2026-11-17T10:00:45.335201-03:00",
   "kit2camisetasbasicasfemininashering": "2026-11-17T10:06:59.178845-03:00",
   "caixadesomjblflip7bluetooth": "2026-11-17T10:13:05.001003-03:00",
-  "mixermultiusoelectroluxcomhasteinox": "2026-11-17T10:19:22.072551-03:00"
+  "mixermultiusoelectroluxcomhasteinox": "2026-11-17T10:19:22.072551-03:00",
+  "aspiradordepoeaguawapgtwbagless": "2026-11-17T10:35:30.782872-03:00",
+  "mascaralorealprofessionnelkeratinalphasleek": "2026-11-17T10:42:58.574959-03:00",
+  "headsetgamerjblquantum610wireless": "2026-11-17T10:56:58.018251-03:00",
+  "kit2limpamaquinadelavarelectrolux": "2026-11-17T11:03:37.398585-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
@@ -22119,7 +22141,7 @@
   "marcas": "2026-11-12T17:56:29.409807-03:00"
  },
  "top10_dia": "2026-11-14",
- "manuais_lidos": "2026-11-17T10:26:41.650975-03:00",
+ "manuais_lidos": "2026-11-17T11:10:22.082207-03:00",
  "reserva_resultado": {
   "2026-11-07": {
    "achadinhos": {
@@ -22362,7 +22384,7 @@
    "hora": "2026-11-16T18:37:24.615329-03:00"
   }
  },
- "ig_respondido_em": "2026-11-17T10:26:41.650975-03:00",
+ "ig_respondido_em": "2026-11-17T11:10:22.082207-03:00",
  "dm_auto": {
   "2026-11-10": {
    "com_palavra": 0,

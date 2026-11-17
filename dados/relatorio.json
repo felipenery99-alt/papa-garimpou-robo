@@ -3475,17 +3475,17 @@
  },
  "2026-11-17": {
   "erros": [],
-  "ultima_execucao": "09:48",
-  "execucoes": 10,
+  "ultima_execucao": "10:27",
+  "execucoes": 11,
   "telegram_posts": {
-   "achadinhos": 10,
-   "marcas": 6,
-   "tech": 4
+   "achadinhos": 13,
+   "marcas": 8,
+   "tech": 5
   },
   "ultimo_post": {
-   "achadinhos": "10:19",
-   "marcas": "10:27",
-   "tech": "10:13"
+   "achadinhos": "11:03",
+   "marcas": "11:10",
+   "tech": "10:56"
   },
   "meta_token": {
    "tipo": "SYSTEM_USER",
@@ -6802,17 +6802,21 @@
    "shopee-58264454472": "nota",
    "shopee-23399666925": "vendas longe",
    "shopee-54818992734": "vendas longe",
-   "shopee-58216348705": "vendas longe"
+   "shopee-58216348705": "vendas longe",
+   "shopee-22898643671": "vendas longe",
+   "shopee-58204159335": "desconto perto (até 10 pts)",
+   "shopee-46856199828": "vendas longe",
+   "shopee-54156133662": "nota"
   },
   "shopee_oficial": {
-   "vendas longe": 1608,
-   "nota": 1241,
+   "vendas longe": 1610,
+   "nota": 1242,
    "vendas perto (125+)": 109,
    "outro: marca fora da lista boa": 85,
    "aprovada": 72,
    "desconto longe": 69,
    "outro: palavra proibida: compatível": 29,
-   "desconto perto (até 10 pts)": 22
+   "desconto perto (até 10 pts)": 23
   },
   "manuais_descartados_ids": {
    "amz-B08YF6JTNB": "ja_postado_30d",
@@ -7021,10 +7025,16 @@
    "amz-B09716YCGX": "ja_postado_30d",
    "amz-B09KYH42HV": "ja_postado_30d",
    "amz-B0F7SP8XC3": "ja_postado_30d",
-   "amz-B09B2LVRCY": "ja_postado_30d"
+   "amz-B09B2LVRCY": "ja_postado_30d",
+   "amz-B0H61S4G16": "ja_postado_30d",
+   "amz-B0888TL7NG": "ja_postado_30d",
+   "amz-B0GCT8MTYB": "ja_postado_30d",
+   "amz-B0G7371M6T": "ja_postado_30d",
+   "amz-B09NCDR7TQ": "ja_postado_30d",
+   "amz-B07TKC1MGB": "ja_postado_30d"
   },
   "manuais_descartados": {
-   "ja_postado_30d": 207
+   "ja_postado_30d": 213
   },
   "instagram": {
    "seguidores": 502,
@@ -7032,17 +7042,17 @@
    "reach": 24,
    "profile_views": 24,
    "website_clicks": 0,
-   "stories_ativos": 25
+   "stories_ativos": 24
   },
   "reels_alcance": {
-   "atualizado": "2026-11-17T09:48:12.960290-03:00",
+   "atualizado": "2026-11-17T10:27:42.401143-03:00",
    "itens": [
     {
      "id": "17965736697237404",
      "hora": "16/11 18:37",
      "capa": "uma_oferta",
-     "reach": 2,
-     "views": 7,
+     "reach": 3,
+     "views": 8,
      "shares": 0,
      "saved": 0
     },
