@@ -3475,8 +3475,8 @@
  },
  "2026-11-17": {
   "erros": [],
-  "ultima_execucao": "01:28",
-  "execucoes": 4,
+  "ultima_execucao": "02:01",
+  "execucoes": 5,
   "telegram_posts": {
    "achadinhos": 0,
    "marcas": 0,
@@ -3552,7 +3552,7 @@
    "marcas": {
     "busca": 0,
     "quase": 0,
-    "reprise": 0
+    "reprise": 1
    },
    "tech": {
     "busca": 0,
@@ -6616,11 +6616,45 @@
    "shopee-22594170826": "vendas longe",
    "shopee-22697621698": "vendas longe",
    "shopee-58270475750": "nota",
-   "shopee-58220452267": "nota"
+   "shopee-58220452267": "nota",
+   "shopee-22698686017": "nota",
+   "shopee-22593583028": "nota",
+   "shopee-22299029413": "nota",
+   "shopee-22194512883": "vendas longe",
+   "shopee-20443940702": "vendas longe",
+   "shopee-20349999361": "nota",
+   "shopee-19199595484": "nota",
+   "shopee-21133514829": "vendas longe",
+   "shopee-58257416421": "nota",
+   "shopee-22994874367": "vendas longe",
+   "shopee-58269395150": "vendas longe",
+   "shopee-58212712600": "vendas longe",
+   "shopee-58269767257": "vendas longe",
+   "shopee-40885226147": "nota",
+   "shopee-58270475731": "nota",
+   "shopee-58204359882": "vendas longe",
+   "shopee-22299162938": "vendas longe",
+   "shopee-58270475712": "vendas longe",
+   "shopee-58270468341": "nota",
+   "shopee-58264317325": "nota",
+   "shopee-58267356283": "vendas longe",
+   "shopee-58257119222": "vendas longe",
+   "shopee-58217474754": "vendas longe",
+   "shopee-23298710922": "vendas longe",
+   "shopee-58268158621": "nota",
+   "shopee-58217898612": "nota",
+   "shopee-22499394557": "nota",
+   "shopee-17573368716": "nota",
+   "shopee-44967402402": "nota",
+   "shopee-20999888699": "nota",
+   "shopee-23897127225": "nota",
+   "shopee-22199348208": "nota",
+   "shopee-22194851581": "nota",
+   "shopee-21598315299": "nota"
   },
   "shopee_oficial": {
-   "vendas longe": 1548,
-   "nota": 1135,
+   "vendas longe": 1562,
+   "nota": 1155,
    "vendas perto (125+)": 104,
    "outro: marca fora da lista boa": 82,
    "aprovada": 69,
@@ -6833,18 +6867,18 @@
    "seguidores": 502,
    "posts": 128,
    "reach": 258,
-   "profile_views": 41,
+   "profile_views": 43,
    "website_clicks": 2,
    "stories_ativos": 24
   },
   "reels_alcance": {
-   "atualizado": "2026-11-17T01:28:40.527064-03:00",
+   "atualizado": "2026-11-17T02:01:21.862906-03:00",
    "itens": [
     {
      "id": "17965736697237404",
      "hora": "16/11 18:37",
      "capa": "uma_oferta",
-     "reach": 1,
+     "reach": 2,
      "views": 3,
      "shares": 0,
      "saved": 0
@@ -6907,7 +6941,7 @@
    "por_capa": {
     "uma_oferta": {
      "n": 3,
-     "alcance_medio": 4
+     "alcance_medio": 5
     },
     "ate_off": {
      "n": 4,
