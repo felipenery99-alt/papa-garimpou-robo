@@ -171,8 +171,11 @@ def story_top4(ofertas: list[dict]) -> bytes:
         d.rounded_rectangle((x + (lado - w) / 2, y + lado + 62, x + (lado + w) / 2, y + lado + 142), radius=40,
                             fill=tema["destaque"])
         d.text((x + (lado - w) / 2 + 25, y + lado + 66), por, font=f, fill=tema["destaque_txt"])
-    _centro(d, 1610, "Links no Telegram, grátis:", _fonte(44, "SemiBold"), tema["texto"])
-    _centro(d, 1660, "@papagarimpou", _fonte(58), tema["texto"])
+    # 17/11 (CEO): os 4 achados vêm de todos os canais, mas a arte mandava para @papagarimpou (Achadinhos, 3 membros),
+    # onde boa parte deles não está. Agora aponta para o canal que tem todos (Todas as Ofertas, título Black Friday),
+    # a mesma busca das legendas desde 12/11.
+    _centro(d, 1610, "Os 4 links no Telegram, grátis:", _fonte(44, "SemiBold"), tema["texto"])
+    _centro(d, 1660, config.GERAL, _fonte(58), tema["texto"])
     return _jpeg(img)
 
 

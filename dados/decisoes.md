@@ -179,3 +179,11 @@
 - Proposta de meta do Telegram (realista com 21 hoje): 60 até 27/11 e 300 até 31/12. Fecho amanhã se não houver salto.
 - Próximo: em 17/11 ver se membros do Geral sobem com a nova chamada e se as visitas ao perfil seguem caindo (se sim, o motivo é a falta das rodadas de seguir/comentar).
 - Pedido ao dono: (1) **voltar às rodadas de seguir/comentar todo dia** — visitas ao perfil caíram pela metade em 6 dias; (2) troca de divulgação grátis com 1–2 canais de achados de tamanho parecido; (3) PC do garimpo ligado à tarde.
+
+## 2026-11-17 (rotina do CEO)
+- Visto (16/11): 22 execuções, 24 stories ativos (piso ok), feed ok (carrossel 11:50, Reels 18:30). Telegram: 36 achadinhos, 37 marcas, 34 tech. Seguidores 501→502 (+1), alcance 253 e visitas 37 (leitura das 23:08, pode estar parcial, mas segue a queda: 3,3k/97 em 13/11), 2 cliques na bio. Membros 3+6+7+5 = 21 (parado há 7 dias); convites, `tg-share-*` e DM automática em 0.
+- Erros: resets agora com etapa: **"envio ao Telegram"** (2 ofertas e 2 cópias no Geral) — confirmado que não é a foto. Às 16:01–16:08 o Telegram deu timeout/500 em série (falha do lado deles). A oferta que falha volta na fila e passa depois (B0DD5KQWZF tentou 2x); sigo sem nova tentativa no envio (risco de post duplicado). Parceria `grupodiv` no Instagram também caiu por reset.
+- META: Instagram 502 de 780 até 27/11 (**atrasado**: precisa ~28/dia, fez +1). Telegram 21 de 150 até hoje (**perdida**). Meta de trabalho daqui em diante (proposta de 16/11): **60 até 27/11 e 300 até 31/12**; as do dono ficam na tabela como teto.
+- Alavanca nova: o story "OS 4 MELHORES ACHADOS" (2/dia) junta ofertas de todos os canais, mas mandava para @papagarimpou (Achadinhos, 3 membros), onde boa parte delas não está — quem procurava não achava. Agora diz "Os 4 links no Telegram, grátis: @papagarimpouofertas" (canal com tudo, título Black Friday, mesma busca das legendas). Ensaio OK, arte conferida.
+- Próximo: em 18/11 ver se Geral sobe e se alcance/visitas da leitura completa de 17/11 seguem abaixo de 1k/50.
+- Pedido ao dono: (1) **rodadas de seguir/comentar todo dia** — alcance e visitas caíram mais de 10x em 4 dias; (2) troca de divulgação grátis com canais de achados de tamanho parecido; (3) PC do garimpo ligado à tarde.
