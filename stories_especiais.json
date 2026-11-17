@@ -104,5 +104,37 @@
   "botao": "LINK NA BIO",
   "paleta": 1,
   "awin": true
+ },
+ {
+  "id": "nike-alphafly-1711",
+  "oferta": "nike-028312-54",
+  "selo": "CUPOM BLACK30",
+  "desde": "2026-11-17T18:30",
+  "ate": "2026-11-17T21:59",
+  "awin": true
+ },
+ {
+  "id": "nike-zoomfly-1811",
+  "oferta": "nike-058279-55",
+  "selo": "CUPOM BLACK30",
+  "desde": "2026-11-18T09:30",
+  "ate": "2026-11-18T21:59",
+  "awin": true
+ },
+ {
+  "id": "nike-pegasus-1811",
+  "oferta": "nike-029398-54",
+  "selo": "CUPOM BLACK30",
+  "desde": "2026-11-18T12:30",
+  "ate": "2026-11-18T21:59",
+  "awin": true
+ },
+ {
+  "id": "nike-corinthians-1911",
+  "oferta": "nike-058825-ID",
+  "selo": "CUPOM BLACK30",
+  "desde": "2026-11-19T12:00",
+  "ate": "2026-11-19T21:59",
+  "awin": true
  }
 ]

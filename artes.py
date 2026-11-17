@@ -139,9 +139,16 @@ def story_oferta(oferta: dict, canal: str, selo: str = "") -> bytes:
     w = d.textlength(por, font=f) + 80
     d.rounded_rectangle(((1080 - w) / 2, y, (1080 + w) / 2, y + 110), radius=55, fill=tema["destaque"])
     _centro(d, y + 8, por, f, tema["destaque_txt"])
+    y += 120
+    if oferta.get("pix"):   # 17/11: cupom com preço no Pix
+        _centro(d, y, f"no Pix {_brl(oferta['pix'])}", _fonte(50, "Bold"), tema["texto"])
+        y += 70
     arroba = config.CANAIS.get(canal, "@papagarimpou")
-    _centro(d, 1610, "Link no Telegram, grátis:", _fonte(44, "SemiBold"), tema["texto"])
-    _centro(d, 1660, arroba, _fonte(58), tema["texto"])
+    if y + 10 > 1610:   # nome em 2 linhas + Pix: uma linha só, acima da barra de resposta do story
+        _centro(d, y + 5, f"Link grátis no Telegram: {arroba}", _fonte(44, "Bold"), tema["texto"])
+    else:
+        _centro(d, 1610, "Link no Telegram, grátis:", _fonte(44, "SemiBold"), tema["texto"])
+        _centro(d, 1660, arroba, _fonte(58), tema["texto"])
     return _jpeg(img)
 
 
@@ -501,6 +508,8 @@ def post_oferta(oferta: dict, canal: str) -> bytes:
     img = _gradiente(1080, 1350, *tema["fundo"]).convert("RGBA")
     d = ImageDraw.Draw(img)
     _cabecalho(img, tema, y=90)
+    if oferta.get("cupom"):   # 17/11: carrossel de cupom (ex.: Nike BLACK30): de riscado, com cupom e no Pix
+        return _post_cupom(img, d, oferta, tema)
     img.alpha_composite(_foto_produto(oferta["imagem"], 700), (190, 290))
     y = 1020
     for linha in _quebrar(d, oferta["nome"], _fonte(46, "Bold"), 940):
@@ -511,6 +520,39 @@ def post_oferta(oferta: dict, canal: str) -> bytes:
     w = d.textlength(por, font=f) + 80
     d.rounded_rectangle(((1080 - w) / 2, y + 10, (1080 + w) / 2, y + 115), radius=52, fill=tema["destaque"])
     _centro(d, y + 18, por, f, tema["destaque_txt"])
+    return _jpeg(img)
+
+
+def _post_cupom(img, d, oferta: dict, tema: dict) -> bytes:
+    img.alpha_composite(_foto_produto(oferta["imagem"], 600), (240, 270))
+    if oferta.get("desconto"):
+        selo_txt = f"-{oferta['desconto']}%"
+        f = _fonte(64)
+        w = d.textlength(selo_txt, font=f) + 64
+        d.rounded_rectangle((860 - w, 245, 870, 355), radius=55, fill=(225, 29, 72))
+        d.text((860 - w + 32, 255), selo_txt, font=f, fill=(255, 255, 255))
+    y = 900
+    for linha in _quebrar(d, oferta["nome"], _fonte(44, "Bold"), 940):
+        _centro(d, y, linha, _fonte(44, "Bold"), tema["texto"])
+        y += 54
+    y += 6
+    if oferta.get("preco_antigo") and oferta["preco_antigo"] > oferta["preco"]:
+        txt = f"de {_brl(oferta['preco_antigo'])}"
+        f = _fonte(42, "SemiBold")
+        x = (1080 - d.textlength(txt, font=f)) / 2
+        d.text((x, y), txt, font=f, fill=tema["texto"])
+        d.line((x, y + 30, x + d.textlength(txt, font=f), y + 30), fill=tema["texto"], width=4)
+        y += 58
+    por = f"{_brl(oferta['preco'])} com {oferta['cupom']}"
+    f = _fonte(64)
+    while d.textlength(por, font=f) > 900:
+        f = _fonte(f.size - 4)
+    w = d.textlength(por, font=f) + 80
+    d.rounded_rectangle(((1080 - w) / 2, y, (1080 + w) / 2, y + 100), radius=50, fill=tema["destaque"])
+    _centro(d, y + 10, por, f, tema["destaque_txt"])
+    y += 115
+    if oferta.get("pix"):
+        _centro(d, y, f"no Pix {_brl(oferta['pix'])}", _fonte(48, "Bold"), tema["texto"])
     return _jpeg(img)
 
 

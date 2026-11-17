@@ -1501,10 +1501,22 @@ def rodar_instagram(h: dict, agora: datetime) -> None:
                     por_id = {o["id"]: o for o in h.get("ofertas_dia", [])}
                     por_id.update({o["id"]: o for o in json.loads(MANUAIS.read_text(encoding="utf-8"))})
                     top = [por_id[i] for i in esp["ids"] if i in por_id]
-                    slides = [artes.capa_top5(agora.timetuple().tm_yday)] + [artes.post_oferta(o, o["canal"]) for o in top]
+                    if esp.get("awin") and any(awin_segurado(o.get("link")) for o in top):   # 17/11
+                        raise RuntimeError("link Awin segurado")
+                    # 17/11: "capa"/"final" opcionais = cartões de texto (titulo, linhas, paleta, rodape)
+                    capa = (artes.card_porta(**esp["capa"]) if esp.get("capa")
+                            else artes.capa_top5(agora.timetuple().tm_yday))
+                    slides = [capa] + [artes.post_oferta(o, o["canal"]) for o in top]
+                    if esp.get("final"):
+                        slides.append(artes.card_porta(**esp["final"]))
                     # "colaboradores" (opcional): post Collab, ex. ["achadinhosdos.universo"]
-                    instagram.carrossel(slides, f"{tag}-{esp['id']}", esp["legenda"], esp.get("colaboradores"))
-                    print(f"[ig] carrossel especial {esp['id']} publicado")
+                    mid = instagram.carrossel(slides, f"{tag}-{esp['id']}", esp["legenda"], esp.get("colaboradores"))
+                    h["ig_especial_publicado"] = {"id": esp["id"], "media_id": mid, "quando": agora.isoformat()}
+                    if esp.get("dm"):   # quem comenta QUERO recebe os links (como no carrossel salvável)
+                        links = [f"{i+1}. {o['nome'][:60]} — {post._brl(o['preco'])}\n{o['link']}"
+                                 for i, o in enumerate(top)]
+                        h.setdefault("ig_dm_links", {})[mid] = esp["dm"].replace("{links}", "\n\n".join(links))
+                    print(f"[ig] carrossel especial {esp['id']} publicado ({mid})")
                 except Exception as e:
                     telegram.avisar_dono(f"Instagram: carrossel especial {esp['id']} falhou: {e}")
                 feitos.append(f"especial {esp['id']}")
@@ -1540,10 +1552,16 @@ def rodar_instagram(h: dict, agora: datetime) -> None:
                     continue
                 paletas = e.get("paletas") or [e.get("paleta", 0)]
                 try:
+                  if e.get("oferta"):   # 17/11: story com a foto de uma oferta manual (ex.: produto do cupom Nike)
+                    o = next((x for x in json.loads(MANUAIS.read_text(encoding="utf-8")) if x["id"] == e["oferta"]), None)
+                    if not o:
+                        raise RuntimeError(f"oferta {e['oferta']} não está em ofertas_manuais.json")
+                    arte = artes.story_oferta(o, o["canal"], selo=e.get("selo", ""))
+                  else:
                     arte = artes.story_especial(e["titulo"], e["linhas"], paletas[agora.toordinal() % len(paletas)],
                                                 e.get("botao", "LINK NA BIO"))
-                    instagram.story(arte, f"{tag}-especial-{e['id']}.jpg")
-                    print(f"[ig] story especial {e['id']} publicado")
+                  instagram.story(arte, f"{tag}-especial-{e['id']}.jpg")
+                  print(f"[ig] story especial {e['id']} publicado")
                 except Exception as ex:
                     telegram.avisar_dono(f"Instagram: story especial {e['id']} falhou: {ex}")
                 feitos.append(chave_e)
