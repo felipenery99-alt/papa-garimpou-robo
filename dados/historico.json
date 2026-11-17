@@ -1595,7 +1595,11 @@
   "2026-11-16 tech 20:58 amz-B015CH1PJU",
   "2026-11-16 achadinhos 21:04 amz-B0FB41MGJH",
   "2026-11-16 marcas 21:11 amz-B0D83MSPFN",
-  "2026-11-16 tech 21:19 shopee-3258773144"
+  "2026-11-16 tech 21:19 shopee-3258773144",
+  "2026-11-16 achadinhos 21:28 amz-B0BRL92XCB",
+  "2026-11-16 marcas 21:36 amz-B07774XR8W",
+  "2026-11-16 achadinhos 21:44 amz-B0C81TQT1S",
+  "2026-11-16 marcas 21:52 amz-B0FD53PYKV"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -3118,7 +3122,11 @@
   "amz-B08BZSRZGS": "2026-11-16T20:52:21.650329-03:00",
   "amz-B015CH1PJU": "2026-11-16T20:58:28.644188-03:00",
   "amz-B0FB41MGJH": "2026-11-16T21:04:55.617180-03:00",
-  "amz-B0D83MSPFN": "2026-11-16T21:11:22.467512-03:00"
+  "amz-B0D83MSPFN": "2026-11-16T21:11:22.467512-03:00",
+  "amz-B0BRL92XCB": "2026-11-16T21:28:30.309167-03:00",
+  "amz-B07774XR8W": "2026-11-16T21:36:06.915554-03:00",
+  "amz-B0C81TQT1S": "2026-11-16T21:44:36.213210-03:00",
+  "amz-B0FD53PYKV": "2026-11-16T21:52:13.631091-03:00"
  },
  "ofertas_dia": [
   {
@@ -20264,6 +20272,75 @@
    "preco_em": "2026-11-16T18:16:59-03:00",
    "entrou": "2026-11-16T18:21:48.058175-03:00",
    "dia": "2026-11-16"
+  },
+  {
+   "id": "amz-B0BRL92XCB",
+   "canal": "achadinhos",
+   "nome": "Ferro a Vapor Pressurizado Philips Walita PerfectCare Compact",
+   "preco_antigo": 1679.9,
+   "preco": 818.31,
+   "desconto": 51,
+   "link": "https://www.amazon.com.br/dp/B0BRL92XCB?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61pfgrabbiL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-17T22:00:00-03:00",
+   "coletado_em": "2026-11-16T18:16:59-03:00",
+   "preco_em": "2026-11-16T18:16:59-03:00",
+   "entrou": "2026-11-16T18:21:48.058175-03:00",
+   "dia": "2026-11-16"
+  },
+  {
+   "id": "amz-B07774XR8W",
+   "canal": "marcas",
+   "nome": "Creatina Optimum Nutrition Micronizada",
+   "preco_antigo": 155.25,
+   "preco": 77.98,
+   "desconto": 50,
+   "link": "https://www.amazon.com.br/dp/B07774XR8W?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51lVz1Z2JRL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-17T22:00:00-03:00",
+   "coletado_em": "2026-11-16T18:16:59-03:00",
+   "gancho": "CREATINA ON PELA METADE",
+   "preco_em": "2026-11-16T18:16:59-03:00",
+   "entrou": "2026-11-16T18:21:48.058175-03:00",
+   "dia": "2026-11-16"
+  },
+  {
+   "id": "amz-B0C81TQT1S",
+   "canal": "achadinhos",
+   "nome": "Ferro a Vapor Arno Ultragliss",
+   "preco_antigo": 449.99,
+   "preco": 226.42,
+   "desconto": 50,
+   "link": "https://www.amazon.com.br/dp/B0C81TQT1S?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61JAgtqvcEL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-17T22:00:00-03:00",
+   "coletado_em": "2026-11-16T18:16:59-03:00",
+   "preco_em": "2026-11-16T18:16:59-03:00",
+   "entrou": "2026-11-16T18:21:48.058175-03:00",
+   "dia": "2026-11-16"
+  },
+  {
+   "id": "amz-B0FD53PYKV",
+   "canal": "marcas",
+   "nome": "Whey Protein Isolado Puravida",
+   "preco_antigo": 242.47,
+   "preco": 166.16,
+   "desconto": 31,
+   "link": "https://www.amazon.com.br/dp/B0FD53PYKV?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61K-nypiQhL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-17T22:00:00-03:00",
+   "coletado_em": "2026-11-16T18:16:59-03:00",
+   "preco_em": "2026-11-16T18:16:59-03:00",
+   "entrou": "2026-11-16T18:21:48.058175-03:00",
+   "dia": "2026-11-16"
   }
  ],
  "ig_feitos": [
@@ -20395,7 +20472,9 @@
   "2026-11-16 20:03 story_oferta",
   "2026-11-16 20:30 reels",
   "2026-11-16 20:35 story_top4",
-  "2026-11-16 20:38 story_oferta"
+  "2026-11-16 20:38 story_oferta",
+  "parceria ana-20261116",
+  "2026-11-16 21:20 story_convite"
  ],
  "ig_ofertas_usadas": [
   "amz-B0C2JFGFK9",
@@ -20715,71 +20794,6 @@
  "ultimo_pilar": "mito",
  "fila": [
   {
-   "id": "amz-B0BRL92XCB",
-   "canal": "achadinhos",
-   "nome": "Ferro a Vapor Pressurizado Philips Walita PerfectCare Compact",
-   "preco_antigo": 1679.9,
-   "preco": 818.31,
-   "desconto": 51,
-   "link": "https://www.amazon.com.br/dp/B0BRL92XCB?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61pfgrabbiL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-17T22:00:00-03:00",
-   "coletado_em": "2026-11-16T18:16:59-03:00",
-   "preco_em": "2026-11-16T18:16:59-03:00",
-   "entrou": "2026-11-16T18:21:48.058175-03:00"
-  },
-  {
-   "id": "amz-B0C81TQT1S",
-   "canal": "achadinhos",
-   "nome": "Ferro a Vapor Arno Ultragliss",
-   "preco_antigo": 449.99,
-   "preco": 226.42,
-   "desconto": 50,
-   "link": "https://www.amazon.com.br/dp/B0C81TQT1S?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61JAgtqvcEL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-17T22:00:00-03:00",
-   "coletado_em": "2026-11-16T18:16:59-03:00",
-   "preco_em": "2026-11-16T18:16:59-03:00",
-   "entrou": "2026-11-16T18:21:48.058175-03:00"
-  },
-  {
-   "id": "amz-B07774XR8W",
-   "canal": "marcas",
-   "nome": "Creatina Optimum Nutrition Micronizada",
-   "preco_antigo": 155.25,
-   "preco": 77.98,
-   "desconto": 50,
-   "link": "https://www.amazon.com.br/dp/B07774XR8W?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51lVz1Z2JRL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-17T22:00:00-03:00",
-   "coletado_em": "2026-11-16T18:16:59-03:00",
-   "gancho": "CREATINA ON PELA METADE",
-   "preco_em": "2026-11-16T18:16:59-03:00",
-   "entrou": "2026-11-16T18:21:48.058175-03:00"
-  },
-  {
-   "id": "amz-B0FD53PYKV",
-   "canal": "marcas",
-   "nome": "Whey Protein Isolado Puravida",
-   "preco_antigo": 242.47,
-   "preco": 166.16,
-   "desconto": 31,
-   "link": "https://www.amazon.com.br/dp/B0FD53PYKV?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61K-nypiQhL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-17T22:00:00-03:00",
-   "coletado_em": "2026-11-16T18:16:59-03:00",
-   "preco_em": "2026-11-16T18:16:59-03:00",
-   "entrou": "2026-11-16T18:21:48.058175-03:00"
-  },
-  {
    "id": "shopee-49606086815",
    "plataforma": "Shopee",
    "nome": "Ventilador Mesa Mondial Nvsp-30-b2 30cm Super Power II 60W",
@@ -20795,6 +20809,59 @@
    "link": "https://s.shopee.com.br/2BGSgybUDM",
    "canal": "achadinhos",
    "entrou": "2026-11-16T19:57:18.160697-03:00"
+  },
+  {
+   "id": "shopee-58263073170",
+   "plataforma": "Shopee",
+   "nome": "Câmera Inteligente Full Color iM7 S IP66 Branca Intelbras",
+   "loja": "Intelbras Oficial",
+   "loja_oficial": true,
+   "preco": 270.0,
+   "preco_antigo": 391.3,
+   "desconto": 31,
+   "vendas": 318,
+   "nota": 5.0,
+   "comissao_pct": 5.0,
+   "imagem": "https://cf.shopee.com.br/file/sg-11134201-825al-mqw1r1d7rbwm4a",
+   "link": "https://s.shopee.com.br/gRh3VnF4b",
+   "canal": "achadinhos",
+   "entrou": "2026-11-16T21:19:52.051097-03:00"
+  },
+  {
+   "id": "shopee-27231768018",
+   "plataforma": "Shopee",
+   "nome": "Cafeteira Elétrica Electrolux Ecm10 15 Xícaras 600w Grafite 110V",
+   "loja": "123 Comprou!",
+   "loja_oficial": true,
+   "preco": 122.9,
+   "preco_antigo": 223.45,
+   "desconto": 45,
+   "vendas": 552,
+   "nota": 4.9,
+   "comissao_pct": 3.0,
+   "imagem": "https://cf.shopee.com.br/file/sg-11134201-7repc-m83ssyedawlt1e",
+   "link": "https://s.shopee.com.br/4fxo79AmxA",
+   "canal": "achadinhos",
+   "entrou": "2026-11-16T21:27:11.088825-03:00",
+   "reprise_dias": 7
+  },
+  {
+   "id": "shopee-18216465769",
+   "plataforma": "Shopee",
+   "nome": "Kit 10 Pares Meias Lupo Sport Cano Invisível Algodão Soquete Sapatilha Unissex Original Confortável",
+   "loja": "Deccó",
+   "loja_oficial": true,
+   "preco": 76.29,
+   "preco_antigo": 136.23,
+   "desconto": 44,
+   "vendas": 538,
+   "nota": 4.9,
+   "comissao_pct": 7.0,
+   "imagem": "https://cf.shopee.com.br/file/br-11134207-820l4-mq6aqvo690cje6",
+   "link": "https://s.shopee.com.br/7VHymw568D",
+   "canal": "marcas",
+   "entrou": "2026-11-16T21:43:24.140489-03:00",
+   "reprise_dias": 7
   }
  ],
  "menus_fixados": [
@@ -22170,7 +22237,11 @@
   "wheyproteinduxfresh900g": "2026-11-16T20:52:21.650329-03:00",
   "pendrivesandiskultrafit128gb": "2026-11-16T20:58:28.644188-03:00",
   "barbeadoreletricophilipsshaver": "2026-11-16T21:04:55.617180-03:00",
-  "perfumeadidasvibesgetcomfy30ml": "2026-11-16T21:11:22.467512-03:00"
+  "perfumeadidasvibesgetcomfy30ml": "2026-11-16T21:11:22.467512-03:00",
+  "ferroavaporpressurizadophilipswalitaperfectcarecompact": "2026-11-16T21:28:30.309167-03:00",
+  "creatinaoptimumnutritionmicronizada": "2026-11-16T21:36:06.915554-03:00",
+  "ferroavaporarnoultragliss": "2026-11-16T21:44:36.213210-03:00",
+  "wheyproteinisoladopuravida": "2026-11-16T21:52:13.631091-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
@@ -22570,14 +22641,14 @@
   "2026-11-13 noite achadinhos",
   "2026-11-13 noite marcas"
  ],
- "reserva_meio": "2026-11-16T18:14:40.999741-03:00",
+ "reserva_meio": "2026-11-16T21:43:24.140489-03:00",
  "reserva_cheia": {
   "achadinhos": "2026-11-13T20:21:49.534614-03:00",
   "tech": "2026-11-14T11:56:11.521150-03:00",
   "marcas": "2026-11-12T17:56:29.409807-03:00"
  },
  "top10_dia": "2026-11-14",
- "manuais_lidos": "2026-11-16T21:11:22.232371-03:00",
+ "manuais_lidos": "2026-11-16T21:43:24.140489-03:00",
  "reserva_resultado": {
   "2026-11-07": {
    "achadinhos": {
@@ -22731,6 +22802,16 @@
    "marcas": {
     "busca": 0,
     "quase": 0,
+    "reprise": 1
+   },
+   "achadinhos": {
+    "busca": 0,
+    "quase": 0,
+    "reprise": 1
+   },
+   "tech": {
+    "busca": 0,
+    "quase": 0,
     "reprise": 0
    }
   }
@@ -22793,7 +22874,7 @@
    "hora": "2026-11-16T18:37:24.615329-03:00"
   }
  },
- "ig_respondido_em": "2026-11-16T21:19:13.616423-03:00",
+ "ig_respondido_em": "2026-11-16T21:43:24.140489-03:00",
  "dm_auto": {
   "2026-11-09": {
    "com_palavra": 0,
@@ -23047,7 +23128,7 @@
    "feed": 2
   },
   "2026-11-16": {
-   "story": 23,
+   "story": 24,
    "feed": 2
   }
  },
