@@ -22607,7 +22607,7 @@
  "ultimo_garimpo": "2026-11-16T18:17:04-03:00",
  "vigia_aviso_post": "2026-11-09T18:27:03.734589-03:00",
  "vigia_aviso_garimpo": "2026-11-16T17:47:00.570679-03:00",
- "resumo_enviado": "2026-11-15",
+ "resumo_enviado": "2026-11-16",
  "token_conferido": "2026-11-16",
  "meta_token": {
   "tipo": "SYSTEM_USER",
@@ -22641,14 +22641,14 @@
   "2026-11-13 noite achadinhos",
   "2026-11-13 noite marcas"
  ],
- "reserva_meio": "2026-11-16T21:43:24.140489-03:00",
+ "reserva_meio": "2026-11-16T22:01:11.249561-03:00",
  "reserva_cheia": {
   "achadinhos": "2026-11-13T20:21:49.534614-03:00",
   "tech": "2026-11-14T11:56:11.521150-03:00",
   "marcas": "2026-11-12T17:56:29.409807-03:00"
  },
  "top10_dia": "2026-11-14",
- "manuais_lidos": "2026-11-16T21:43:24.140489-03:00",
+ "manuais_lidos": "2026-11-16T22:01:11.249561-03:00",
  "reserva_resultado": {
   "2026-11-07": {
    "achadinhos": {
@@ -22874,7 +22874,7 @@
    "hora": "2026-11-16T18:37:24.615329-03:00"
   }
  },
- "ig_respondido_em": "2026-11-16T21:43:24.140489-03:00",
+ "ig_respondido_em": "2026-11-16T21:52:53.234862-03:00",
  "dm_auto": {
   "2026-11-09": {
    "com_palavra": 0,
@@ -23145,6 +23145,15 @@
    "chat_tipo": "private",
    "message_ids": [
     82
+   ]
+  },
+  {
+   "dia": "2026-11-16",
+   "quando": "16/11 21:52",
+   "ok": true,
+   "chat_tipo": "private",
+   "message_ids": [
+    83
    ]
   }
  ],
