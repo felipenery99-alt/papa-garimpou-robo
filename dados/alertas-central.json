@@ -49,9 +49,9 @@
  },
  "erro em #-#-# tech #:# shopee-# (foto): # Server Error: Service Unavailable for ": {
   "primeiro": "2026-11-16T16:18+00:00",
-  "vezes": 1,
-  "ultimo": "2026-11-16T16:18+00:00",
-  "texto": "erro em 2026-11-16 tech 13:18 shopee-3258773144 (foto): 503 Server Error: Service Unavailable for url: https://cf.shopee.com.br/file/cn-11134207-820l4-mmzna00skykoe1. Não postei."
+  "vezes": 2,
+  "ultimo": "2026-11-17T15:19+00:00",
+  "texto": "erro em 2026-11-17 tech 12:19 shopee-41117508450 (foto): 503 Server Error: Service Unavailable for url: https://cf.shopee.com.br/file/br-11134207-820mb-moeztwaqtibpb4. Não postei."
  },
  "erro em #-#-# achadinhos #:# amz-B#CJYJH#TD (envio ao Telegram): HTTPSConnection": {
   "primeiro": "2026-11-16T19:02+00:00",
@@ -91,8 +91,20 @@
  },
  "erro em #-#-# achadinhos #:# shopee-# (foto): # Server Error: Service Unavailabl": {
   "primeiro": "2026-11-17T14:27+00:00",
+  "vezes": 2,
+  "ultimo": "2026-11-17T15:11+00:00",
+  "texto": "erro em 2026-11-17 achadinhos 12:11 shopee-23593120156 (foto): 503 Server Error: Service Unavailable for url: https://cf.shopee.com.br/file/br-11134207-820li-mv4kjoqz8kche3. Não postei."
+ },
+ "Awin liberada: o redirecionamento saiu sem o nome antigo; soltei o cupom BLACK# ": {
+  "primeiro": "2026-11-17T14:57+00:00",
   "vezes": 1,
-  "ultimo": "2026-11-17T14:27+00:00",
-  "texto": "erro em 2026-11-17 achadinhos 11:27 shopee-23593120156 (foto): 503 Server Error: Service Unavailable for url: https://cf.shopee.com.br/file/br-11134207-820li-mv4kjoqz8kche3. Não postei."
+  "ultimo": "2026-11-17T14:57+00:00",
+  "texto": "Awin liberada: o redirecionamento saiu sem o nome antigo; soltei o cupom BLACK30 e os links Awin."
+ },
+ "Instagram #-#-# #:# reels falhou # vezes: # Server Error: Service Unavailable fo": {
+  "primeiro": "2026-11-17T15:27+00:00",
+  "vezes": 1,
+  "ultimo": "2026-11-17T15:27+00:00",
+  "texto": "Instagram 2026-11-17 12:00 reels falhou 3 vezes: 503 Server Error: Service Unavailable for url: https://cf.shopee.com.br/file/br-11134207-820lo-mv3i1326hlaa96. Não publiquei."
  }
 }
