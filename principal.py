@@ -484,6 +484,7 @@ def carregar_manuais(h: dict, agora: datetime, texto: str | None = None) -> list
 
 
 AWIN_LIVRE = [False]   # vira True quando o teste do redirecionamento sai limpo (ou já saiu antes: h["awin_liberado"])
+AWIN_POSTS_SAIRAM = [("marcas", 558), ("geral", 1693)]   # cupom BLACK30 de 17/11 12:40, soltos por engano
 AWIN_TESTE = "https://www.awin1.com/cread.php?awinmid=17652&awinaffid=3137490&ued=https%3A%2F%2Fwww.nike.com.br%2F"
 
 
@@ -498,27 +499,42 @@ def conferir_awin(h: dict, telegram, agora: datetime) -> None:
     """17/11: a cada execução, enquanto segurado, lê o Location do deeplink (sem seguir). utm_campaign com
     "papa" (nome novo do espaço) ou sem utm_campaign → solta sozinho (h["awin_liberado"]) e avisa a Central.
     O nome antigo nunca vai para o código (repositório público): só se procura o nome NOVO."""
+    # 17/11 13h22: a execução das 11h57 viu um Location SEM utm_campaign (o GitHub recebe outra resposta) e
+    # soltou; quem clica ainda via o nome antigo. Agora: só solta com utm_campaign PRESENTE e com "papa",
+    # testado de novo a cada execução (sem guardar a liberação), e o botão dos posts já feitos sai.
     if not config.AWIN_SEGURAR:
-        return
-    if h.get("awin_liberado"):
-        AWIN_LIVRE[0] = True
         return
     import requests
     from urllib.parse import urlparse, parse_qs
+    AWIN_LIVRE[0] = False
     try:
-        r = requests.get(AWIN_TESTE, allow_redirects=False, timeout=20, headers={"User-Agent": "Mozilla/5.0"})
+        r = requests.get(AWIN_TESTE, allow_redirects=False, timeout=20, headers={
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Safari/537.36",
+            "Accept-Language": "pt-BR,pt;q=0.9"})
         loc = r.headers.get("Location", "")
         camp = (parse_qs(urlparse(loc).query).get("utm_campaign") or [""])[0]
-        limpo = bool(loc) and "aw_affid=3137490" in loc and (not camp or "papa" in camp.lower())
-        h["awin_teste"] = {"quando": agora.strftime("%d/%m %H:%M"), "limpo": limpo}
-        print(f"[awin] teste do redirecionamento: {'LIMPO' if limpo else 'ainda com o nome antigo'}")
-        if limpo:
-            h["awin_liberado"] = agora.isoformat()
-            AWIN_LIVRE[0] = True
-            telegram.avisar_dono("Awin liberada: o redirecionamento saiu sem o nome antigo; soltei o cupom BLACK30 "
+        limpo = "aw_affid=3137490" in loc and "papa" in camp.lower()
+        h["awin_teste"] = {"quando": agora.strftime("%d/%m %H:%M"), "limpo": limpo, "http": r.status_code,
+                           "host": urlparse(loc).netloc, "tem_utm_campaign": bool(camp)}
+        print(f"[awin] teste: {'LIMPO' if limpo else 'segurado'} ({h['awin_teste']})")
+        AWIN_LIVRE[0] = limpo
+        if limpo and not h.get("awin_avisado"):
+            h["awin_avisado"] = agora.isoformat()
+            telegram.avisar_dono("Awin liberada: o redirecionamento já traz o nome novo; soltei o cupom BLACK30 "
                                  "e os links Awin.", dono=False)
     except Exception as e:
         print(f"[awin] teste falhou: {e}")
+    if not AWIN_LIVRE[0]:
+        feitos = h.setdefault("awin_botao_tirado", [])
+        for canal, mid in AWIN_POSTS_SAIRAM:
+            if f"{canal} {mid}" in feitos:
+                continue
+            try:
+                telegram.tirar_botoes(config.GERAL if canal == "geral" else config.CANAIS[canal], mid)
+                feitos.append(f"{canal} {mid}")
+                print(f"[awin] botão tirado de {canal} {mid}")
+            except Exception as e:
+                print(f"[awin] não tirei o botão de {canal} {mid}: {e}")
 
 
 def entrar_na_fila(h: dict, canal: str, ofertas: list[dict], agora: datetime) -> None:

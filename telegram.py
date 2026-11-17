@@ -74,6 +74,17 @@ def postar_texto(destino: str, texto: str, botoes: list[tuple[str, str]] | None 
     return r["result"]["message_id"]
 
 
+def tirar_botoes(destino: str, message_id: int) -> None:
+    """17/11: tira os botões de uma mensagem já postada (o post continua; nada é apagado)."""
+    if destino not in config.DESTINOS_PERMITIDOS:
+        raise DestinoProibido(f"destino recusado: {destino}")
+    r = requests.post(API.format(token=_token(), metodo="editMessageReplyMarkup"),
+                      json={"chat_id": destino, "message_id": message_id, "reply_markup": {"inline_keyboard": []}},
+                      timeout=30).json()
+    if not r.get("ok") and "not modified" not in str(r.get("description", "")):
+        raise RuntimeError(f"Telegram recusou tirar o botão: {r}")
+
+
 def postar_texto_fixado(destino: str, texto: str) -> int:
     """Texto simples (sem oferta), fixado no topo sem notificar. Devolve o message_id."""
     if destino not in config.DESTINOS_PERMITIDOS:
