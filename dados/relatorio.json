@@ -3479,19 +3479,20 @@
    "Awin liberada: o redirecionamento saiu sem o nome antigo; soltei o cupom BLACK30 e os links Awin.",
    "erro em 2026-11-17 achadinhos 12:11 shopee-23593120156 (foto): 503 Server Error: Service Unavailable for url: https://cf.shopee.com.br/file/br-11134207-820li-mv4kjoqz8kche3. Não postei.",
    "erro em 2026-11-17 tech 12:19 shopee-41117508450 (foto): 503 Server Error: Service Unavailable for url: https://cf.shopee.com.br/file/br-11134207-820mb-moeztwaqtibpb4. Não postei.",
-   "Instagram 2026-11-17 12:00 reels falhou 3 vezes: 503 Server Error: Service Unavailable for url: https://cf.shopee.com.br/file/br-11134207-820lo-mv3i1326hlaa96. Não publiquei."
+   "Instagram 2026-11-17 12:00 reels falhou 3 vezes: 503 Server Error: Service Unavailable for url: https://cf.shopee.com.br/file/br-11134207-820lo-mv3i1326hlaa96. Não publiquei.",
+   "erro em 2026-11-17 marcas 13:06 shopee-18216465769 (foto): 503 Server Error: Service Unavailable for url: https://cf.shopee.com.br/file/br-11134207-820l4-mq6aqvo690cje6. Não postei."
   ],
-  "ultima_execucao": "11:57",
-  "execucoes": 13,
+  "ultima_execucao": "12:43",
+  "execucoes": 14,
   "telegram_posts": {
-   "achadinhos": 17,
-   "marcas": 11,
-   "tech": 7
+   "achadinhos": 20,
+   "marcas": 12,
+   "tech": 8
   },
   "ultimo_post": {
-   "achadinhos": "12:35",
-   "marcas": "12:43",
-   "tech": "12:27"
+   "achadinhos": "13:21",
+   "marcas": "13:28",
+   "tech": "13:13"
   },
   "meta_token": {
    "tipo": "SYSTEM_USER",
@@ -3499,7 +3500,7 @@
    "vence": "não vence",
    "acesso_vence": "-"
   },
-  "ultimo_garimpo": "17/11 08:21",
+  "ultimo_garimpo": "17/11 12:24",
   "convites_story": {
    "story-20261101": 0,
    "story-20261102": 0,
@@ -3536,7 +3537,9 @@
    "11:56 story_oferta",
    "12:15 story_top4",
    "12:00 reels",
-   "12:19 story_oferta"
+   "12:19 story_oferta",
+   "12:47 story_oferta",
+   "13:20 story_convite"
   ],
   "shopee_ligada": true,
   "dm_auto": {
@@ -5073,7 +5076,7 @@
    "shopee-58259330720": "vendas longe",
    "shopee-43232791072": "outro: marca fora da lista boa",
    "shopee-58271782459": "nota",
-   "shopee-58221757567": "nota",
+   "shopee-58221757567": "vendas longe",
    "shopee-58221766708": "nota",
    "shopee-22299871624": "nota",
    "shopee-58221759438": "nota",
@@ -7106,11 +7109,19 @@
    "shopee-58217858228": "nota",
    "shopee-58209050665": "vendas longe",
    "shopee-58217726399": "vendas longe",
-   "shopee-58271254569": "nota"
+   "shopee-58271254569": "nota",
+   "shopee-58272436523": "nota",
+   "shopee-58266347726": "vendas longe",
+   "shopee-58221794473": "nota",
+   "shopee-55917736155": "nota",
+   "shopee-58265584149": "vendas longe",
+   "shopee-58214310906": "nota",
+   "shopee-58171132663": "nota",
+   "shopee-58220516090": "nota"
   },
   "shopee_oficial": {
-   "vendas longe": 1764,
-   "nota": 1367,
+   "vendas longe": 1767,
+   "nota": 1372,
    "vendas perto (125+)": 109,
    "outro: marca fora da lista boa": 88,
    "aprovada": 77,
@@ -7337,21 +7348,25 @@
    "amz-B0DDQH4JZ2": "ja_postado_30d",
    "amz-B07Y33FYZS": "ja_postado_30d",
    "amz-B0CQB51NYR": "ja_postado_30d",
-   "amz-B0DF3LRNWZ": "ja_postado_30d"
+   "amz-B0DF3LRNWZ": "ja_postado_30d",
+   "amz-B09GHW9ZZ2": "ja_postado_30d",
+   "amz-B002NLADVU": "ja_postado_30d",
+   "amz-B0BQBSW9SG": "ja_postado_30d",
+   "amz-B09WYZP4L5": "ja_postado_30d"
   },
   "manuais_descartados": {
-   "ja_postado_30d": 219
+   "ja_postado_30d": 223
   },
   "instagram": {
-   "seguidores": 501,
+   "seguidores": 502,
    "posts": 129,
-   "reach": 25,
+   "reach": 26,
    "profile_views": 26,
    "website_clicks": 0,
    "stories_ativos": 25
   },
   "reels_alcance": {
-   "atualizado": "2026-11-17T11:57:40.216089-03:00",
+   "atualizado": "2026-11-17T12:43:36.283799-03:00",
    "itens": [
     {
      "id": "17965736697237404",

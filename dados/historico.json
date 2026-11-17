@@ -1634,7 +1634,12 @@
   "2026-11-17 achadinhos 12:04 shopee-58263073170",
   "2026-11-17 tech 12:27 shopee-22397710724",
   "2026-11-17 achadinhos 12:35 amz-B0DF3LRNWZ",
-  "2026-11-17 marcas 12:43 shopee-42130479011"
+  "2026-11-17 marcas 12:43 shopee-42130479011",
+  "2026-11-17 achadinhos 12:51 amz-B09GHW9ZZ2",
+  "2026-11-17 achadinhos 12:59 amz-B002NLADVU",
+  "2026-11-17 tech 13:13 amz-B0BQBSW9SG",
+  "2026-11-17 achadinhos 13:21 amz-B09WYZP4L5",
+  "2026-11-17 marcas 13:28 amz-B0GMTFZHRD"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -3187,7 +3192,12 @@
   "amz-B0CQB51NYR": "2026-11-17T11:57:09.696400-03:00",
   "shopee-58263073170": "2026-11-17T12:04:21.089478-03:00",
   "shopee-22397710724": "2026-11-17T12:27:40.171512-03:00",
-  "amz-B0DF3LRNWZ": "2026-11-17T12:35:31.718924-03:00"
+  "amz-B0DF3LRNWZ": "2026-11-17T12:35:31.718924-03:00",
+  "amz-B09GHW9ZZ2": "2026-11-17T12:51:46.704599-03:00",
+  "amz-B002NLADVU": "2026-11-17T12:59:19.583821-03:00",
+  "amz-B0BQBSW9SG": "2026-11-17T13:13:32.046543-03:00",
+  "amz-B09WYZP4L5": "2026-11-17T13:21:32.672654-03:00",
+  "amz-B0GMTFZHRD": "2026-11-17T13:28:20.193236-03:00"
  },
  "ofertas_dia": [
   {
@@ -19855,6 +19865,92 @@
    "preco_em": "2026-11-17T12:21:51-03:00",
    "entrou": "2026-11-17T12:27:25.476920-03:00",
    "dia": "2026-11-17"
+  },
+  {
+   "id": "amz-B09GHW9ZZ2",
+   "canal": "achadinhos",
+   "nome": "Ferro a vapor Philips Walita Série 3000 2000W 220V",
+   "preco_antigo": 269.9,
+   "preco": 169.9,
+   "desconto": 37,
+   "link": "https://www.amazon.com.br/dp/B09GHW9ZZ2?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71Gdn+mllnL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-18T22:00:00-03:00",
+   "coletado_em": "2026-11-17T12:21:54-03:00",
+   "preco_em": "2026-11-17T12:21:54-03:00",
+   "entrou": "2026-11-17T12:27:25.476920-03:00",
+   "dia": "2026-11-17"
+  },
+  {
+   "id": "amz-B002NLADVU",
+   "canal": "achadinhos",
+   "nome": "Cafeteira Oster com jarra inox 1,2L OCAF650 127V",
+   "preco_antigo": 249.9,
+   "preco": 144.5,
+   "desconto": 42,
+   "link": "https://www.amazon.com.br/dp/B002NLADVU?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51vVvDVetDL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-18T22:00:00-03:00",
+   "coletado_em": "2026-11-17T12:21:51-03:00",
+   "preco_em": "2026-11-17T12:21:51-03:00",
+   "entrou": "2026-11-17T12:27:25.476920-03:00",
+   "dia": "2026-11-17"
+  },
+  {
+   "id": "amz-B0BQBSW9SG",
+   "canal": "tech",
+   "nome": "Teclado gamer sem fio Logitech G PRO X TKL Lightspeed",
+   "preco_antigo": 1599.9,
+   "preco": 1099.99,
+   "desconto": 31,
+   "link": "https://www.amazon.com.br/dp/B0BQBSW9SG?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71adzD2vJGL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-18T22:00:00-03:00",
+   "coletado_em": "2026-11-17T12:21:39-03:00",
+   "preco_em": "2026-11-17T12:21:39-03:00",
+   "entrou": "2026-11-17T12:27:25.476920-03:00",
+   "dia": "2026-11-17"
+  },
+  {
+   "id": "amz-B09WYZP4L5",
+   "canal": "achadinhos",
+   "nome": "Máquina de café Nespresso Lattissima One F121 220V",
+   "preco_antigo": 2339.0,
+   "preco": 1380.87,
+   "desconto": 41,
+   "link": "https://www.amazon.com.br/dp/B09WYZP4L5?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/519dIKDHD5L._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-18T22:00:00-03:00",
+   "coletado_em": "2026-11-17T12:21:44-03:00",
+   "preco_em": "2026-11-17T12:21:44-03:00",
+   "entrou": "2026-11-17T12:27:25.476920-03:00",
+   "dia": "2026-11-17"
+  },
+  {
+   "id": "amz-B0GMTFZHRD",
+   "canal": "marcas",
+   "nome": "Tênis New Balance Fresh Foam 680v9 masculino",
+   "preco_antigo": 499.99,
+   "preco": 338.99,
+   "desconto": 32,
+   "link": "https://www.amazon.com.br/dp/B0GMTFZHRD?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51YOJ93jF4L._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-18T22:00:00-03:00",
+   "coletado_em": "2026-11-17T12:22:04-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "preco_em": "2026-11-17T12:22:04-03:00",
+   "entrou": "2026-11-17T12:27:25.476920-03:00",
+   "dia": "2026-11-17"
   }
  ],
  "ig_feitos": [
@@ -19978,7 +20074,9 @@
   "story especial nike-black30-1711",
   "2026-11-17 12:15 story_top4",
   "2026-11-17 12:00 reels",
-  "2026-11-17 12:19 story_oferta"
+  "2026-11-17 12:19 story_oferta",
+  "2026-11-17 12:47 story_oferta",
+  "2026-11-17 13:20 story_convite"
  ],
  "ig_ofertas_usadas": [
   "amz-B0BS1QB15L",
@@ -20181,7 +20279,8 @@
   "shopee-49606086815",
   "shopee-20516472434",
   "shopee-23098316432",
-  "shopee-58263073170"
+  "shopee-58263073170",
+  "shopee-22397710724"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
@@ -20303,72 +20402,6 @@
  },
  "ultimo_pilar": "conversa",
  "fila": [
-  {
-   "id": "shopee-18216465769",
-   "plataforma": "Shopee",
-   "nome": "Kit 10 Pares Meias Lupo Sport Cano Invisível Algodão Soquete Sapatilha Unissex Original Confortável",
-   "loja": "Deccó",
-   "loja_oficial": true,
-   "preco": 76.29,
-   "preco_antigo": 136.23,
-   "desconto": 44,
-   "vendas": 538,
-   "nota": 4.9,
-   "comissao_pct": 7.0,
-   "imagem": "https://cf.shopee.com.br/file/br-11134207-820l4-mq6aqvo690cje6",
-   "link": "https://s.shopee.com.br/7VHymw568D",
-   "canal": "marcas",
-   "entrou": "2026-11-17T11:57:40.216089-03:00",
-   "reprise_dias": 7
-  },
-  {
-   "id": "amz-B09GHW9ZZ2",
-   "canal": "achadinhos",
-   "nome": "Ferro a vapor Philips Walita Série 3000 2000W 220V",
-   "preco_antigo": 269.9,
-   "preco": 169.9,
-   "desconto": 37,
-   "link": "https://www.amazon.com.br/dp/B09GHW9ZZ2?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/71Gdn+mllnL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-18T22:00:00-03:00",
-   "coletado_em": "2026-11-17T12:21:54-03:00",
-   "preco_em": "2026-11-17T12:21:54-03:00",
-   "entrou": "2026-11-17T12:27:25.476920-03:00"
-  },
-  {
-   "id": "amz-B002NLADVU",
-   "canal": "achadinhos",
-   "nome": "Cafeteira Oster com jarra inox 1,2L OCAF650 127V",
-   "preco_antigo": 249.9,
-   "preco": 144.5,
-   "desconto": 42,
-   "link": "https://www.amazon.com.br/dp/B002NLADVU?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51vVvDVetDL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-18T22:00:00-03:00",
-   "coletado_em": "2026-11-17T12:21:51-03:00",
-   "preco_em": "2026-11-17T12:21:51-03:00",
-   "entrou": "2026-11-17T12:27:25.476920-03:00"
-  },
-  {
-   "id": "amz-B09WYZP4L5",
-   "canal": "achadinhos",
-   "nome": "Máquina de café Nespresso Lattissima One F121 220V",
-   "preco_antigo": 2339.0,
-   "preco": 1380.87,
-   "desconto": 41,
-   "link": "https://www.amazon.com.br/dp/B09WYZP4L5?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/519dIKDHD5L._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-18T22:00:00-03:00",
-   "coletado_em": "2026-11-17T12:21:44-03:00",
-   "preco_em": "2026-11-17T12:21:44-03:00",
-   "entrou": "2026-11-17T12:27:25.476920-03:00"
-  },
   {
    "id": "amz-B0DVBCTYJC",
    "canal": "achadinhos",
@@ -20546,23 +20579,6 @@
    "entrou": "2026-11-17T12:27:25.476920-03:00"
   },
   {
-   "id": "amz-B0GMTFZHRD",
-   "canal": "marcas",
-   "nome": "Tênis New Balance Fresh Foam 680v9 masculino",
-   "preco_antigo": 499.99,
-   "preco": 338.99,
-   "desconto": 32,
-   "link": "https://www.amazon.com.br/dp/B0GMTFZHRD?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51YOJ93jF4L._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-18T22:00:00-03:00",
-   "coletado_em": "2026-11-17T12:22:04-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "preco_em": "2026-11-17T12:22:04-03:00",
-   "entrou": "2026-11-17T12:27:25.476920-03:00"
-  },
-  {
    "id": "amz-B0GSBFJ33V",
    "canal": "marcas",
    "nome": "Tênis Asics Gel-Shinobi 3 masculino",
@@ -20610,22 +20626,6 @@
    "coletado_em": "2026-11-17T12:22:02-03:00",
    "extra": "Preço a partir de: varia por tamanho e cor",
    "preco_em": "2026-11-17T12:22:02-03:00",
-   "entrou": "2026-11-17T12:27:25.476920-03:00"
-  },
-  {
-   "id": "amz-B0BQBSW9SG",
-   "canal": "tech",
-   "nome": "Teclado gamer sem fio Logitech G PRO X TKL Lightspeed",
-   "preco_antigo": 1599.9,
-   "preco": 1099.99,
-   "desconto": 31,
-   "link": "https://www.amazon.com.br/dp/B0BQBSW9SG?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/71adzD2vJGL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-18T22:00:00-03:00",
-   "coletado_em": "2026-11-17T12:21:39-03:00",
-   "preco_em": "2026-11-17T12:21:39-03:00",
    "entrou": "2026-11-17T12:27:25.476920-03:00"
   },
   {
@@ -22238,7 +22238,12 @@
   "soundbarparapcredragonorpheus": "2026-11-17T11:40:20.731985-03:00",
   "camerainteligentefullcolorim7sip66brancaintelbras": "2026-11-17T12:04:21.089478-03:00",
   "baseuscarregadordeparedeturbo20wtipoccaboiphone789xxr11121314promaxplus": "2026-11-17T12:27:40.171512-03:00",
-  "jogodepanelastramontinalinzantiaderentestarflon": "2026-11-17T12:35:31.718924-03:00"
+  "jogodepanelastramontinalinzantiaderentestarflon": "2026-11-17T12:35:31.718924-03:00",
+  "ferroavaporphilipswalitaserie30002000w220v": "2026-11-17T12:51:46.704599-03:00",
+  "cafeteiraostercomjarrainox12locaf650127v": "2026-11-17T12:59:19.583821-03:00",
+  "tecladogamersemfiologitechgproxtkllightspeed": "2026-11-17T13:13:32.046543-03:00",
+  "maquinadecafenespressolattissimaonef121220v": "2026-11-17T13:21:32.672654-03:00",
+  "tenisnewbalancefreshfoam680v9masculino": "2026-11-17T13:28:20.193236-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
@@ -22601,7 +22606,7 @@
  },
  "story_link_dia": "2026-11-16",
  "pede_semana": "2026-47",
- "ultimo_garimpo": "2026-11-17T08:21:59-03:00",
+ "ultimo_garimpo": "2026-11-17T12:24:05-03:00",
  "vigia_aviso_post": "2026-11-09T18:27:03.734589-03:00",
  "vigia_aviso_garimpo": "2026-11-16T17:47:00.570679-03:00",
  "resumo_enviado": "2026-11-16",
@@ -22645,7 +22650,7 @@
   "marcas": "2026-11-12T17:56:29.409807-03:00"
  },
  "top10_dia": "2026-11-14",
- "manuais_lidos": "2026-11-17T12:43:04.013425-03:00",
+ "manuais_lidos": "2026-11-17T13:28:19.648261-03:00",
  "reserva_resultado": {
   "2026-11-07": {
    "achadinhos": {
@@ -22888,7 +22893,7 @@
    "hora": "2026-11-16T18:37:24.615329-03:00"
   }
  },
- "ig_respondido_em": "2026-11-17T12:35:16.574579-03:00",
+ "ig_respondido_em": "2026-11-17T13:21:11.529934-03:00",
  "dm_auto": {
   "2026-11-10": {
    "com_palavra": 0,
@@ -23142,7 +23147,7 @@
    "feed": 2
   },
   "2026-11-17": {
-   "story": 11,
+   "story": 13,
    "feed": 1
   }
  },
@@ -23150,7 +23155,8 @@
  "share_erro": {},
  "ig_tentativas": {
   "2026-11-17 12:00 reels": 3,
-  "2026-11-17 12:19 story_oferta": 1
+  "2026-11-17 12:19 story_oferta": 1,
+  "2026-11-17 12:47 story_oferta": 1
  },
  "resumo_log": [
   {
@@ -23186,5 +23192,8 @@
   "limpo": true
  },
  "awin_liberado": "2026-11-17T11:57:40.216089-03:00",
- "avisos_feitos": {}
+ "avisos_feitos": {
+  "nike-black30 2026-11-17T12:40 marcas": "2026-11-17T12:43:36.283799-03:00",
+  "nike-black30 2026-11-17T12:40 geral": "2026-11-17T12:43:36.283799-03:00"
+ }
 }
