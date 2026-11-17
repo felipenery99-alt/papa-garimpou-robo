@@ -496,8 +496,8 @@ def awin_segurado(link: str) -> bool:
 
 
 def conferir_awin(h: dict, telegram, agora: datetime) -> None:
-    """17/11: a cada execução, enquanto segurado, lê o Location do deeplink (sem seguir). utm_campaign com
-    "papa" (nome novo do espaço) ou sem utm_campaign → solta sozinho (h["awin_liberado"]) e avisa a Central.
+    """17/11: a cada execução, enquanto segurado, lê o Location do deeplink (sem seguir) e só REGISTRA o teste
+    (em "awin_teste"). Não solta mais sozinho: a liberação é config.AWIN_SEGURAR = False, feita testando do Brasil.
     O nome antigo nunca vai para o código (repositório público): só se procura o nome NOVO."""
     # 17/11 13h22: a execução das 11h57 viu um Location SEM utm_campaign (o GitHub recebe outra resposta) e
     # soltou; quem clica ainda via o nome antigo. Agora: só solta com utm_campaign PRESENTE e com "papa",
@@ -517,11 +517,9 @@ def conferir_awin(h: dict, telegram, agora: datetime) -> None:
         h["awin_teste"] = {"quando": agora.strftime("%d/%m %H:%M"), "limpo": limpo, "http": r.status_code,
                            "host": urlparse(loc).netloc, "tem_utm_campaign": bool(camp)}
         print(f"[awin] teste: {'LIMPO' if limpo else 'segurado'} ({h['awin_teste']})")
-        AWIN_LIVRE[0] = limpo
-        if limpo and not h.get("awin_avisado"):
-            h["awin_avisado"] = agora.isoformat()
-            telegram.avisar_dono("Awin liberada: o redirecionamento já traz o nome novo; soltei o cupom BLACK30 "
-                                 "e os links Awin.", dono=False)
+        # 17/11 14h35: às 13h29 o GitHub viu "papa" e do Brasil (PC) o link seguia com o nome antigo: o Awin
+        # responde diferente por região. O teste daqui só fica registrado; quem solta é a PG · Robô, testando do
+        # Brasil e trocando config.AWIN_SEGURAR para False.
     except Exception as e:
         print(f"[awin] teste falhou: {e}")
     if not AWIN_LIVRE[0]:
