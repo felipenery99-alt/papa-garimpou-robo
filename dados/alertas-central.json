@@ -112,5 +112,11 @@
   "vezes": 1,
   "ultimo": "2026-11-17T16:29+00:00",
   "texto": "Awin liberada: o redirecionamento já traz o nome novo; soltei o cupom BLACK30 e os links Awin."
+ },
+ "erro em #-#-# marcas #:# nike-#-# (foto): cannot identify image file <_io.BytesI": {
+  "primeiro": "2026-11-17T23:24+00:00",
+  "vezes": 1,
+  "ultimo": "2026-11-17T23:24+00:00",
+  "texto": "erro em 2026-11-17 marcas 20:24 nike-028312-54 (foto): cannot identify image file <_io.BytesIO object at 0x7c5f0fc88e50>. Não postei."
  }
 }

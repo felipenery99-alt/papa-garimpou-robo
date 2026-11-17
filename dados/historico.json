@@ -1688,7 +1688,12 @@
   "2026-11-17 marcas 19:22 amz-B07RG6V27F",
   "2026-11-17 tech 19:28 amz-B0F3MKTVGY",
   "2026-11-17 achadinhos 19:35 amz-B0CH5KMZPJ",
-  "2026-11-17 marcas 19:43 amz-B0785VXRX2"
+  "2026-11-17 marcas 19:43 amz-B0785VXRX2",
+  "2026-11-17 achadinhos 19:50 amz-B0GS3DQH2Q",
+  "2026-11-17 achadinhos 19:55 amz-B0DXP6956C",
+  "2026-11-17 marcas 20:02 amz-B0H1FS1ZLK",
+  "2026-11-17 tech 20:10 amz-B0CHBBNGWX",
+  "2026-11-17 achadinhos 20:17 amz-B0012Q9CQY"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -3293,7 +3298,12 @@
   "amz-B07RG6V27F": "2026-11-17T19:22:13.659585-03:00",
   "amz-B0F3MKTVGY": "2026-11-17T19:28:56.053682-03:00",
   "amz-B0CH5KMZPJ": "2026-11-17T19:35:32.397053-03:00",
-  "amz-B0785VXRX2": "2026-11-17T19:43:13.897232-03:00"
+  "amz-B0785VXRX2": "2026-11-17T19:43:13.897232-03:00",
+  "amz-B0GS3DQH2Q": "2026-11-17T19:50:20.394464-03:00",
+  "amz-B0DXP6956C": "2026-11-17T19:55:45.682954-03:00",
+  "amz-B0H1FS1ZLK": "2026-11-17T20:02:53.788588-03:00",
+  "amz-B0CHBBNGWX": "2026-11-17T20:10:04.227450-03:00",
+  "amz-B0012Q9CQY": "2026-11-17T20:17:23.787629-03:00"
  },
  "ofertas_dia": [
   {
@@ -20887,6 +20897,92 @@
    "preco_em": "2026-11-17T18:19:41-03:00",
    "entrou": "2026-11-17T18:31:49.698687-03:00",
    "dia": "2026-11-17"
+  },
+  {
+   "id": "amz-B0GS3DQH2Q",
+   "canal": "achadinhos",
+   "nome": "Multiprocessador Philips Walita",
+   "preco_antigo": 499.9,
+   "preco": 297.35,
+   "desconto": 41,
+   "link": "https://www.amazon.com.br/dp/B0GS3DQH2Q?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51BfWhkArnL.jpg",
+   "loja": "Vendido por parceiro · entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-18T22:00:00-03:00",
+   "coletado_em": "2026-11-17T18:19:41-03:00",
+   "preco_em": "2026-11-17T18:19:41-03:00",
+   "entrou": "2026-11-17T18:31:49.698687-03:00",
+   "dia": "2026-11-17"
+  },
+  {
+   "id": "amz-B0DXP6956C",
+   "canal": "achadinhos",
+   "nome": "Garrafa Térmica Stanley Aerolight",
+   "preco_antigo": 269.0,
+   "preco": 173.4,
+   "desconto": 36,
+   "link": "https://www.amazon.com.br/dp/B0DXP6956C?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/4176PPIq7ML.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-18T22:00:00-03:00",
+   "coletado_em": "2026-11-17T18:19:41-03:00",
+   "preco_em": "2026-11-17T18:19:41-03:00",
+   "entrou": "2026-11-17T18:31:49.698687-03:00",
+   "dia": "2026-11-17"
+  },
+  {
+   "id": "amz-B0H1FS1ZLK",
+   "canal": "marcas",
+   "nome": "Kit 6 Cuecas Boxer Lupo Microfibra",
+   "preco_antigo": 257.99,
+   "preco": 117.15,
+   "desconto": 55,
+   "link": "https://www.amazon.com.br/dp/B0H1FS1ZLK?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71rB2-l1JRL.jpg",
+   "loja": "Vendido por parceiro · entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-18T22:00:00-03:00",
+   "coletado_em": "2026-11-17T18:19:41-03:00",
+   "extra": "Sai a R$ 19,53 cada",
+   "preco_em": "2026-11-17T18:19:41-03:00",
+   "entrou": "2026-11-17T18:31:49.698687-03:00",
+   "dia": "2026-11-17"
+  },
+  {
+   "id": "amz-B0CHBBNGWX",
+   "canal": "tech",
+   "nome": "Teclado sem fio Logitech Wave Keys ergonômico",
+   "preco_antigo": 479.9,
+   "preco": 269.91,
+   "desconto": 44,
+   "link": "https://www.amazon.com.br/dp/B0CHBBNGWX?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71LYo3a5JEL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-18T22:00:00-03:00",
+   "coletado_em": "2026-11-17T12:21:39-03:00",
+   "preco_em": "2026-11-17T12:21:39-03:00",
+   "entrou": "2026-11-17T16:37:53.262648-03:00",
+   "dia": "2026-11-17"
+  },
+  {
+   "id": "amz-B0012Q9CQY",
+   "canal": "achadinhos",
+   "nome": "Esfoliante Corporal NIVEA",
+   "preco_antigo": 34.55,
+   "preco": 22.68,
+   "desconto": 34,
+   "link": "https://www.amazon.com.br/dp/B0012Q9CQY?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61XsKcCr+fL.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-18T22:00:00-03:00",
+   "coletado_em": "2026-11-17T18:19:41-03:00",
+   "preco_em": "2026-11-17T18:19:41-03:00",
+   "entrou": "2026-11-17T18:31:49.698687-03:00",
+   "dia": "2026-11-17"
   }
  ],
  "ig_feitos": [
@@ -21026,10 +21122,10 @@
   "especial nike-black30",
   "story especial nike-alphafly-1711",
   "2026-11-17 19:15 post_achado",
-  "2026-11-17 19:17 story_oferta"
+  "2026-11-17 19:17 story_oferta",
+  "2026-11-17 20:03 story_oferta"
  ],
  "ig_ofertas_usadas": [
-  "amz-B07CKCWNRC",
   "amz-B0FQXCBFCF",
   "amz-B086XNNSDN",
   "shopee-22493521596",
@@ -21228,7 +21324,8 @@
   "shopee-51551740372",
   "shopee-20697627058",
   "shopee-23702004611",
-  "shopee-44568244729"
+  "shopee-44568244729",
+  "shopee-48518043569"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
@@ -21356,22 +21453,6 @@
  "ultimo_pilar": "anticilada",
  "fila": [
   {
-   "id": "amz-B0CHBBNGWX",
-   "canal": "tech",
-   "nome": "Teclado sem fio Logitech Wave Keys ergonômico",
-   "preco_antigo": 479.9,
-   "preco": 269.91,
-   "desconto": 44,
-   "link": "https://www.amazon.com.br/dp/B0CHBBNGWX?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/71LYo3a5JEL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-18T22:00:00-03:00",
-   "coletado_em": "2026-11-17T12:21:39-03:00",
-   "preco_em": "2026-11-17T12:21:39-03:00",
-   "entrou": "2026-11-17T16:37:53.262648-03:00"
-  },
-  {
    "id": "amz-B0FHJ8QQB8",
    "canal": "tech",
    "nome": "Combo teclado e mouse sem fio Logitech MK250 Bluetooth",
@@ -21402,54 +21483,6 @@
    "coletado_em": "2026-11-17T12:21:44-03:00",
    "preco_em": "2026-11-17T12:21:44-03:00",
    "entrou": "2026-11-17T16:37:53.262648-03:00"
-  },
-  {
-   "id": "amz-B0GS3DQH2Q",
-   "canal": "achadinhos",
-   "nome": "Multiprocessador Philips Walita",
-   "preco_antigo": 499.9,
-   "preco": 297.35,
-   "desconto": 41,
-   "link": "https://www.amazon.com.br/dp/B0GS3DQH2Q?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51BfWhkArnL.jpg",
-   "loja": "Vendido por parceiro · entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-18T22:00:00-03:00",
-   "coletado_em": "2026-11-17T18:19:41-03:00",
-   "preco_em": "2026-11-17T18:19:41-03:00",
-   "entrou": "2026-11-17T18:31:49.698687-03:00"
-  },
-  {
-   "id": "amz-B0DXP6956C",
-   "canal": "achadinhos",
-   "nome": "Garrafa Térmica Stanley Aerolight",
-   "preco_antigo": 269.0,
-   "preco": 173.4,
-   "desconto": 36,
-   "link": "https://www.amazon.com.br/dp/B0DXP6956C?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/4176PPIq7ML.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-18T22:00:00-03:00",
-   "coletado_em": "2026-11-17T18:19:41-03:00",
-   "preco_em": "2026-11-17T18:19:41-03:00",
-   "entrou": "2026-11-17T18:31:49.698687-03:00"
-  },
-  {
-   "id": "amz-B0012Q9CQY",
-   "canal": "achadinhos",
-   "nome": "Esfoliante Corporal NIVEA",
-   "preco_antigo": 34.55,
-   "preco": 22.68,
-   "desconto": 34,
-   "link": "https://www.amazon.com.br/dp/B0012Q9CQY?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61XsKcCr+fL.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-18T22:00:00-03:00",
-   "coletado_em": "2026-11-17T18:19:41-03:00",
-   "preco_em": "2026-11-17T18:19:41-03:00",
-   "entrou": "2026-11-17T18:31:49.698687-03:00"
   },
   {
    "id": "amz-B07VFC3F8J",
@@ -21593,42 +21626,6 @@
    "valida_ate": "2026-11-18T22:00:00-03:00",
    "coletado_em": "2026-11-17T18:19:41-03:00",
    "preco_em": "2026-11-17T18:19:41-03:00",
-   "entrou": "2026-11-17T18:31:49.698687-03:00"
-  },
-  {
-   "id": "amz-B0H1FS1ZLK",
-   "canal": "marcas",
-   "nome": "Kit 6 Cuecas Boxer Lupo Microfibra",
-   "preco_antigo": 257.99,
-   "preco": 117.15,
-   "desconto": 55,
-   "link": "https://www.amazon.com.br/dp/B0H1FS1ZLK?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/71rB2-l1JRL.jpg",
-   "loja": "Vendido por parceiro · entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-18T22:00:00-03:00",
-   "coletado_em": "2026-11-17T18:19:41-03:00",
-   "extra": "Sai a R$ 19,53 cada",
-   "preco_em": "2026-11-17T18:19:41-03:00",
-   "entrou": "2026-11-17T18:31:49.698687-03:00"
-  },
-  {
-   "id": "nike-028312-54",
-   "canal": "marcas",
-   "nome": "Tênis Nike Air Zoom Alphafly 3 Masculino",
-   "preco_antigo": 2499.99,
-   "preco": 1503.74,
-   "desconto": 40,
-   "cupom": "BLACK30",
-   "pix": 1428.55,
-   "extra": "Cupom BLACK30 (30% em selecionados, até 19/11) · no Pix R$ 1.428,55",
-   "link": "https://www.awin1.com/cread.php?awinmid=17652&awinaffid=3137490&ued=https%3A%2F%2Fwww.nike.com.br%2Ftenis-nike-air-zoom-alphafly-3-masculino-028312.html%3Fcor%3D54",
-   "imagem": "https://imgnike-a.akamaihd.net/1300x1300/02831254.jpg",
-   "loja": "Loja oficial Nike",
-   "plataforma": "Nike",
-   "valida_ate": "2026-11-19T23:59:00-03:00",
-   "preco_em": "2026-11-17T18:20:00-03:00",
-   "coletado_em": "2026-11-17T18:20:00-03:00",
    "entrou": "2026-11-17T18:31:49.698687-03:00"
   },
   {
@@ -23267,7 +23264,12 @@
   "kit10paresdemeiaslupo": "2026-11-17T19:22:13.659585-03:00",
   "tabletsamsunggalaxytabs10fe5g128gb8gbram": "2026-11-17T19:28:56.053682-03:00",
   "airfryerwapbarbecuedigital12em110l127v": "2026-11-17T19:35:32.397053-03:00",
-  "camisetaunderarmoursportstyle": "2026-11-17T19:43:13.897232-03:00"
+  "camisetaunderarmoursportstyle": "2026-11-17T19:43:13.897232-03:00",
+  "multiprocessadorphilipswalita": "2026-11-17T19:50:20.394464-03:00",
+  "garrafatermicastanleyaerolight": "2026-11-17T19:55:45.682954-03:00",
+  "kit6cuecasboxerlupomicrofibra": "2026-11-17T20:02:53.788588-03:00",
+  "tecladosemfiologitechwavekeysergonomico": "2026-11-17T20:10:04.227450-03:00",
+  "esfoliantecorporalnivea": "2026-11-17T20:17:23.787629-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
@@ -23678,7 +23680,7 @@
   "marcas": "2026-11-12T17:56:29.409807-03:00"
  },
  "top10_dia": "2026-11-14",
- "manuais_lidos": "2026-11-17T19:43:13.629700-03:00",
+ "manuais_lidos": "2026-11-17T20:24:24.128688-03:00",
  "reserva_resultado": {
   "2026-11-07": {
    "achadinhos": {
@@ -23925,7 +23927,7 @@
    "hora": "2026-11-17T18:31:49.698687-03:00"
   }
  },
- "ig_respondido_em": "2026-11-17T19:35:27.437082-03:00",
+ "ig_respondido_em": "2026-11-17T20:24:24.128688-03:00",
  "dm_auto": {
   "2026-11-10": {
    "com_palavra": 0,
@@ -24187,7 +24189,7 @@
    "feed": 2
   },
   "2026-11-17": {
-   "story": 24,
+   "story": 25,
    "feed": 3
   }
  },
