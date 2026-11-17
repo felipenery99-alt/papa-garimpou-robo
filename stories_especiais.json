@@ -68,7 +68,8 @@
    "Link no Telegram"
   ],
   "botao": "LINK NA BIO",
-  "paleta": 1
+  "paleta": 1,
+  "awin": true
  },
  {
   "id": "nike-black30-1811",
@@ -84,7 +85,8 @@
    "Link no Telegram"
   ],
   "botao": "LINK NA BIO",
-  "paleta": 1
+  "paleta": 1,
+  "awin": true
  },
  {
   "id": "nike-black30-1911",
@@ -100,6 +102,7 @@
    "Link no Telegram"
   ],
   "botao": "LINK NA BIO",
-  "paleta": 1
+  "paleta": 1,
+  "awin": true
  }
 ]

@@ -483,12 +483,20 @@ def carregar_manuais(h: dict, agora: datetime, texto: str | None = None) -> list
     return boas
 
 
+def awin_segurado(link: str) -> bool:
+    """17/11 (Central): o redirecionamento da Awin mostra o nome do dono no utm_campaign. Com
+    config.AWIN_SEGURAR, nada com link Awin (awin1.com, tidd.ly) entra na fila nem sai em aviso/story."""
+    return config.AWIN_SEGURAR and any(d in (link or "") for d in ("awin1.com", "tidd.ly"))
+
+
 def entrar_na_fila(h: dict, canal: str, ofertas: list[dict], agora: datetime) -> None:
     """Põe as ofertas novas na fila (sem duplicar) e tira as que ficaram velhas."""
     corte = (agora - timedelta(hours=config.FILA_VALIDADE_H)).isoformat()
-    fila = [f for f in h.get("fila", []) if f["entrou"] >= corte and amazon_ok(f, agora)]   # 12/11: Amazon > 24 h sai
+    fila = [f for f in h.get("fila", []) if f["entrou"] >= corte and amazon_ok(f, agora)   # 12/11: Amazon > 24 h sai
+            and not awin_segurado(f.get("link", ""))]
     na_fila = {f["id"] for f in fila}
-    fila += [{**o, "canal": canal, "entrou": agora.isoformat()} for o in ofertas if o["id"] not in na_fila]
+    fila += [{**o, "canal": canal, "entrou": agora.isoformat()} for o in ofertas
+             if o["id"] not in na_fila and not awin_segurado(o.get("link", ""))]
     h["fila"] = fila
 
 
@@ -1478,6 +1486,8 @@ def rodar_instagram(h: dict, agora: datetime) -> None:
                     continue
                 if e.get("ate") and f"{agora:%Y-%m-%dT%H:%M}" > e["ate"]:   # 17/11: cupom com prazo sai do ar
                     continue
+                if e.get("awin") and config.AWIN_SEGURAR:   # 17/11: story que leva a link Awin espera
+                    continue
                 if e.get("diario") and not (e.get("hora_ini", "00:00") <= f"{agora:%H:%M}" <= e.get("hora_fim", "23:59")):
                     continue
                 if "dias_semana" in e and agora.weekday() not in e["dias_semana"]:   # 0 = segunda … 6 = domingo
@@ -1871,6 +1881,9 @@ def postar_avisos_programados(h: dict, telegram, agora: datetime) -> None:
     agora_s = f"{agora:%Y-%m-%dT%H:%M}"
     for a in avisos:
         if a.get("ate") and agora_s > a["ate"]:
+            continue
+        if awin_segurado((a.get("botao") or ["", ""])[1]):
+            print(f"[avisos] {a['id']} segurado (AWIN_SEGURAR)")
             continue
         for p in a.get("posts", []):
             if not (p["quando"] <= agora_s and agora - datetime.fromisoformat(p["quando"]).replace(tzinfo=agora.tzinfo)

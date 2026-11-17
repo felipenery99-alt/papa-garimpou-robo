@@ -255,3 +255,8 @@ AMAZON_PRECO_MAX_H = 24
 FB_PAGINA_ATIVA = False   # 09/11: dono decidiu "não vamos fazer nada no Facebook" (Página parada; não pedir token)
 FB_OFERTAS_HORAS = ["10:10", "13:10", "17:10", "19:40"]
 FB_CONVITE_HORA = "20:10"
+
+# 17/11 (Central): o redirecionamento da Awin põe o nome do dono no utm_campaign. True = nada com link Awin
+# (awin1.com, tidd.ly) entra na fila, nem cupom/aviso nem story marcado com "awin". Só volta a False depois
+# que o dono renomear o espaço na Awin e o redirecionamento sair sem o nome (conferir com curl -I).
+AWIN_SEGURAR = True
