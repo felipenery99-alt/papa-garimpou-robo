@@ -483,10 +483,42 @@ def carregar_manuais(h: dict, agora: datetime, texto: str | None = None) -> list
     return boas
 
 
+AWIN_LIVRE = [False]   # vira True quando o teste do redirecionamento sai limpo (ou já saiu antes: h["awin_liberado"])
+AWIN_TESTE = "https://www.awin1.com/cread.php?awinmid=17652&awinaffid=3137490&ued=https%3A%2F%2Fwww.nike.com.br%2F"
+
+
 def awin_segurado(link: str) -> bool:
     """17/11 (Central): o redirecionamento da Awin mostra o nome do dono no utm_campaign. Com
-    config.AWIN_SEGURAR, nada com link Awin (awin1.com, tidd.ly) entra na fila nem sai em aviso/story."""
-    return config.AWIN_SEGURAR and any(d in (link or "") for d in ("awin1.com", "tidd.ly"))
+    config.AWIN_SEGURAR, nada com link Awin (awin1.com, tidd.ly) entra na fila nem sai em aviso/story
+    — até conferir_awin ver o utm_campaign com o nome novo ("Papa Garimpou")."""
+    return config.AWIN_SEGURAR and not AWIN_LIVRE[0] and any(d in (link or "") for d in ("awin1.com", "tidd.ly"))
+
+
+def conferir_awin(h: dict, telegram, agora: datetime) -> None:
+    """17/11: a cada execução, enquanto segurado, lê o Location do deeplink (sem seguir). utm_campaign com
+    "papa" (nome novo do espaço) ou sem utm_campaign → solta sozinho (h["awin_liberado"]) e avisa a Central.
+    O nome antigo nunca vai para o código (repositório público): só se procura o nome NOVO."""
+    if not config.AWIN_SEGURAR:
+        return
+    if h.get("awin_liberado"):
+        AWIN_LIVRE[0] = True
+        return
+    import requests
+    from urllib.parse import urlparse, parse_qs
+    try:
+        r = requests.get(AWIN_TESTE, allow_redirects=False, timeout=20, headers={"User-Agent": "Mozilla/5.0"})
+        loc = r.headers.get("Location", "")
+        camp = (parse_qs(urlparse(loc).query).get("utm_campaign") or [""])[0]
+        limpo = bool(loc) and "aw_affid=3137490" in loc and (not camp or "papa" in camp.lower())
+        h["awin_teste"] = {"quando": agora.strftime("%d/%m %H:%M"), "limpo": limpo}
+        print(f"[awin] teste do redirecionamento: {'LIMPO' if limpo else 'ainda com o nome antigo'}")
+        if limpo:
+            h["awin_liberado"] = agora.isoformat()
+            AWIN_LIVRE[0] = True
+            telegram.avisar_dono("Awin liberada: o redirecionamento saiu sem o nome antigo; soltei o cupom BLACK30 "
+                                 "e os links Awin.", dono=False)
+    except Exception as e:
+        print(f"[awin] teste falhou: {e}")
 
 
 def entrar_na_fila(h: dict, canal: str, ofertas: list[dict], agora: datetime) -> None:
@@ -1486,7 +1518,7 @@ def rodar_instagram(h: dict, agora: datetime) -> None:
                     continue
                 if e.get("ate") and f"{agora:%Y-%m-%dT%H:%M}" > e["ate"]:   # 17/11: cupom com prazo sai do ar
                     continue
-                if e.get("awin") and config.AWIN_SEGURAR:   # 17/11: story que leva a link Awin espera
+                if e.get("awin") and config.AWIN_SEGURAR and not AWIN_LIVRE[0]:   # 17/11: story que leva a link Awin espera
                     continue
                 if e.get("diario") and not (e.get("hora_ini", "00:00") <= f"{agora:%H:%M}" <= e.get("hora_fim", "23:59")):
                     continue
@@ -2105,6 +2137,7 @@ def main() -> int:
     import shopee
     h = carregar_hist()
     hoje = agora.date().isoformat()
+    conferir_awin(h, telegram, agora)
     # 05/11: Instagram + garimpo levam ~10–15 min antes da fila. Com a fila do run anterior ainda cheia,
     # solta 1 oferta antes e 1 depois do Instagram para não abrir buraco entre uma execução e a seguinte.
     def um_post():
