@@ -3484,17 +3484,17 @@
    "Awin liberada: o redirecionamento já traz o nome novo; soltei o cupom BLACK30 e os links Awin.",
    "⚠️ Fila vazia (achadinhos), último garimpo 15:20 — abrir o app Claude e conferir as rotinas"
   ],
-  "ultima_execucao": "17:06",
-  "execucoes": 20,
+  "ultima_execucao": "18:17",
+  "execucoes": 21,
   "telegram_posts": {
-   "achadinhos": 36,
-   "marcas": 25,
-   "tech": 15
+   "achadinhos": 38,
+   "marcas": 28,
+   "tech": 17
   },
   "ultimo_post": {
-   "achadinhos": "17:50",
-   "marcas": "17:34",
-   "tech": "17:41"
+   "achadinhos": "18:55",
+   "marcas": "19:03",
+   "tech": "18:47"
   },
   "meta_token": {
    "tipo": "SYSTEM_USER",
@@ -3502,7 +3502,7 @@
    "vence": "não vence",
    "acesso_vence": "-"
   },
-  "ultimo_garimpo": "17/11 15:20",
+  "ultimo_garimpo": "17/11 18:19",
   "convites_story": {
    "story-20261101": 0,
    "story-20261102": 0,
@@ -3547,7 +3547,11 @@
    "15:03 story_oferta",
    "16:05 adivinha_resposta",
    "16:44 story_oferta",
-   "17:36 story_oferta"
+   "17:36 story_oferta",
+   "18:05 a_ou_b",
+   "feed",
+   "18:30 reels",
+   "18:42 story_oferta"
   ],
   "shopee_ligada": true,
   "dm_auto": {
@@ -5413,7 +5417,7 @@
    "shopee-20999203046": "aprovada",
    "shopee-15848213372": "desconto perto (até 10 pts)",
    "shopee-22197499150": "desconto longe",
-   "shopee-23599291516": "aprovada",
+   "shopee-23599291516": "desconto perto (até 10 pts)",
    "shopee-21899381419": "desconto longe",
    "shopee-20899190066": "desconto longe",
    "shopee-49606086815": "aprovada",
@@ -6225,7 +6229,7 @@
    "shopee-58218219313": "nota",
    "shopee-21198261099": "vendas longe",
    "shopee-51764479795": "vendas longe",
-   "shopee-58262394728": "vendas longe",
+   "shopee-58262394728": "vendas perto (125+)",
    "shopee-56718831396": "vendas longe",
    "shopee-47406482981": "vendas longe",
    "shopee-58270067057": "vendas longe",
@@ -6590,7 +6594,7 @@
    "shopee-58217325958": "vendas longe",
    "shopee-22299449999": "vendas longe",
    "shopee-53169735485": "nota",
-   "shopee-47005739672": "nota",
+   "shopee-47005739672": "vendas longe",
    "shopee-46705750728": "vendas longe",
    "shopee-23894365169": "nota",
    "shopee-58267830211": "vendas longe",
@@ -7186,13 +7190,13 @@
   },
   "shopee_oficial": {
    "vendas longe": 1798,
-   "nota": 1389,
-   "vendas perto (125+)": 109,
+   "nota": 1388,
+   "vendas perto (125+)": 110,
    "outro: marca fora da lista boa": 94,
-   "aprovada": 78,
+   "aprovada": 77,
    "desconto longe": 71,
    "outro: palavra proibida: compatível": 29,
-   "desconto perto (até 10 pts)": 23
+   "desconto perto (até 10 pts)": 24
   },
   "manuais_descartados_ids": {
    "amz-B08YF6JTNB": "ja_postado_30d",
@@ -7452,22 +7456,35 @@
    "amz-B0DG32SNZ4": "ja_postado_30d",
    "amz-B0C4WGB7QQ": "ja_postado_30d",
    "amz-B071R57DZH": "ja_postado_30d",
-   "amz-B0BHMN52LY": "ja_postado_30d"
+   "amz-B0BHMN52LY": "ja_postado_30d",
+   "amz-B0DJDRB68T": "ja_postado_30d",
+   "amz-B0F3D25PD3": "ja_postado_30d",
+   "amz-B0G4NC9W36": "ja_postado_30d",
+   "amz-B0BX1H5MM9": "ja_postado_30d"
   },
   "manuais_descartados": {
-   "ja_postado_30d": 258
+   "ja_postado_30d": 262
   },
   "instagram": {
    "seguidores": 504,
-   "posts": 129,
+   "posts": 130,
    "reach": 31,
    "profile_views": 30,
    "website_clicks": 0,
    "stories_ativos": 25
   },
   "reels_alcance": {
-   "atualizado": "2026-11-17T17:06:41.040750-03:00",
+   "atualizado": "2026-11-17T18:17:55.688889-03:00",
    "itens": [
+    {
+     "id": "17986188335901519",
+     "hora": "17/11 18:32",
+     "capa": "uma_oferta",
+     "reach": 0,
+     "views": 0,
+     "shares": 0,
+     "saved": 0
+    },
     {
      "id": "17965736697237404",
      "hora": "16/11 18:37",
@@ -7512,21 +7529,12 @@
      "views": 17,
      "shares": 0,
      "saved": 0
-    },
-    {
-     "id": "18179592646445557",
-     "hora": "10/11 18:37",
-     "capa": "uma_oferta",
-     "reach": 9,
-     "views": 12,
-     "shares": 0,
-     "saved": 0
     }
    ],
    "por_capa": {
     "uma_oferta": {
      "n": 3,
-     "alcance_medio": 5
+     "alcance_medio": 2
     },
     "ate_off": {
      "n": 3,
@@ -7534,6 +7542,13 @@
     }
    },
    "campeao": "ate_off"
-  }
+  },
+  "tiktok": [
+   {
+    "hora": "18:31",
+    "capa": "uma_oferta",
+    "url": "https://raw.githubusercontent.com/felipenery99-alt/papa-garimpou-robo/tiktok-midia/20261117-1831-tiktok.mp4"
+   }
+  ]
  }
 }

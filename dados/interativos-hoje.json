@@ -1,18 +1,27 @@
 {
- "dia": "2026-11-16",
+ "dia": "2026-11-17",
  "itens": [
   {
-   "tipo": "adivinha",
-   "hora": "15:06",
+   "tipo": "a_ou_b",
+   "hora": "18:17",
    "produtos": [
     {
-     "nome": "Baseus BP1 Pro ANC Fone De Ouvido Sem Fio-50dB Redução De Ruído De Alta Resolução Bluetooth 6.0 IPX55 À Prova D'água",
-     "preco_antigo": 229.7,
-     "preco": 84.99,
-     "desconto": 63,
-     "link": "https://s.shopee.com.br/AKcCZSL82j",
-     "loja": "Baseus Oficial Store",
-     "canal": "tech"
+     "nome": "Secador De Cabelo Taiff Style Azul Tifanny Original 2000 W",
+     "preco_antigo": 416.26,
+     "preco": 258.08,
+     "desconto": 38,
+     "link": "https://s.shopee.com.br/1qdcIIIqze",
+     "loja": "Beleza Renovada Oficial",
+     "canal": "achadinhos"
+    },
+    {
+     "nome": "Secador Taiff Style Preto 2000W 220V",
+     "preco_antigo": 407.96,
+     "preco": 199.9,
+     "desconto": 51,
+     "link": "https://s.shopee.com.br/2gCjHpFgIv",
+     "loja": "Lojas REDE",
+     "canal": "achadinhos"
     }
    ]
   }
