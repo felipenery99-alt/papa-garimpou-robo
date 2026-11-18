@@ -3502,8 +3502,8 @@
    "erro em 2026-11-17 achadinhos 21:52 amz-B076JK9GVS (envio ao Telegram): HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=60). Não postei.",
    "erro em 2026-11-17 achadinhos 21:54 amz-B0CMW94FDQ (envio ao Telegram): HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=60). Não postei."
   ],
-  "ultima_execucao": "22:21",
-  "execucoes": 28,
+  "ultima_execucao": "22:52",
+  "execucoes": 29,
   "telegram_posts": {
    "achadinhos": 48,
    "marcas": 32,
@@ -3621,7 +3621,7 @@
    }
   },
   "shopee_oficial_ids": {
-   "shopee-19497608994": "desconto longe",
+   "shopee-19497608994": "aprovada",
    "shopee-18597753531": "aprovada",
    "shopee-18271829175": "desconto longe",
    "shopee-21299179885": "desconto perto (até 10 pts)",
@@ -7268,8 +7268,8 @@
    "nota": 1420,
    "vendas perto (125+)": 109,
    "outro: marca fora da lista boa": 94,
-   "aprovada": 76,
-   "desconto longe": 73,
+   "aprovada": 77,
+   "desconto longe": 72,
    "outro: palavra proibida: compatível": 29,
    "desconto perto (até 10 pts)": 23
   },
@@ -7560,12 +7560,12 @@
    "seguidores": 508,
    "posts": 131,
    "reach": 35,
-   "profile_views": 44,
+   "profile_views": 45,
    "website_clicks": 0,
    "stories_ativos": 25
   },
   "reels_alcance": {
-   "atualizado": "2026-11-17T22:21:51.182395-03:00",
+   "atualizado": "2026-11-17T22:52:19.596191-03:00",
    "itens": [
     {
      "id": "17986188335901519",
