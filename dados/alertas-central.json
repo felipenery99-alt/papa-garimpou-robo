@@ -79,9 +79,9 @@
  },
  "erro em #-#-# achadinhos #:# shopee-# (foto): # Server Error: Service Unavailabl": {
   "primeiro": "2026-11-17T14:27+00:00",
-  "vezes": 2,
-  "ultimo": "2026-11-17T15:11+00:00",
-  "texto": "erro em 2026-11-17 achadinhos 12:11 shopee-23593120156 (foto): 503 Server Error: Service Unavailable for url: https://cf.shopee.com.br/file/br-11134207-820li-mv4kjoqz8kche3. Não postei."
+  "vezes": 3,
+  "ultimo": "2026-11-18T16:02+00:00",
+  "texto": "erro em 2026-11-18 achadinhos 13:02 shopee-19161663389 (foto): 503 Server Error: Service Unavailable for url: https://cf.shopee.com.br/file/sg-11134201-825au-mvc5yqi9ko3q4c. Não postei."
  },
  "Awin liberada: o redirecionamento saiu sem o nome antigo; soltei o cupom BLACK# ": {
   "primeiro": "2026-11-17T14:57+00:00",
@@ -166,5 +166,11 @@
   "vezes": 1,
   "ultimo": "2026-11-18T15:12+00:00",
   "texto": "erro em 2026-11-18 marcas 12:12 shopee-58210668407 (foto): 504 Server Error: Gateway Time-out for url: https://cf.shopee.com.br/file/sg-11134201-823r6-mp3nf8xtog0e2a. Não postei."
+ },
+ "erro em #-#-# achadinhos #:# shopee-# (foto): # Client Error: Forbidden for url:": {
+  "primeiro": "2026-11-18T16:00+00:00",
+  "vezes": 1,
+  "ultimo": "2026-11-18T16:00+00:00",
+  "texto": "erro em 2026-11-18 achadinhos 12:59 shopee-55014684903 (foto): 403 Client Error: Forbidden for url: https://cf.shopee.com.br/file/sg-11134201-825ad-mr0o35kmaa6989. Não postei."
  }
 }
