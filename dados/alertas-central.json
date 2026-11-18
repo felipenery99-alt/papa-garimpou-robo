@@ -184,5 +184,11 @@
   "vezes": 1,
   "ultimo": "2026-11-18T18:21+00:00",
   "texto": "⚠️ Fila vazia (tech), último garimpo 13:19 — abrir o app Claude e conferir as rotinas"
+ },
+ "canal geral não recebeu amz-B#LQGKF#J: ('Connection aborted.', ConnectionResetEr": {
+  "primeiro": "2026-11-18T20:03+00:00",
+  "vezes": 1,
+  "ultimo": "2026-11-18T20:03+00:00",
+  "texto": "canal geral não recebeu amz-B09LQGKF2J: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
  }
 }

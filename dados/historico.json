@@ -1765,7 +1765,13 @@
   "2026-11-18 marcas 16:19 amz-B0FFV49J9T",
   "2026-11-18 tech 16:27 shopee-23599230410",
   "2026-11-18 achadinhos 16:33 amz-B08CL3JQ26",
-  "2026-11-18 marcas 16:41 amz-B0DXP69QCQ"
+  "2026-11-18 marcas 16:41 amz-B0DXP69QCQ",
+  "2026-11-18 achadinhos 16:48 amz-B097KPBW7Q",
+  "2026-11-18 achadinhos 16:57 amz-B0DNQX9YFW",
+  "2026-11-18 marcas 17:03 amz-B09LQGKF2J",
+  "2026-11-18 tech 17:11 shopee-23899333842",
+  "2026-11-18 achadinhos 17:17 amz-B076BB1XPG",
+  "2026-11-18 marcas 17:25 amz-B0GMJWK9VX"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -2452,7 +2458,7 @@
   "shopee-58203329255": "2026-11-08T16:44:48.311865-03:00",
   "shopee-23204913091": "2026-11-16T13:25:34.425839-03:00",
   "shopee-58253650623": "2026-11-08T16:58:59.376380-03:00",
-  "shopee-23899333842": "2026-11-08T17:05:54.399381-03:00",
+  "shopee-23899333842": "2026-11-18T17:11:02.693260-03:00",
   "shopee-23702004611": "2026-11-17T18:17:55.702033-03:00",
   "shopee-58217263099": "2026-11-08T17:19:31.620012-03:00",
   "shopee-23298537624": "2026-11-08T17:29:48.929494-03:00",
@@ -3435,7 +3441,12 @@
   "amz-B0FFV49J9T": "2026-11-18T16:19:31.333633-03:00",
   "shopee-23599230410": "2026-11-18T16:27:10.124678-03:00",
   "amz-B08CL3JQ26": "2026-11-18T16:33:52.416277-03:00",
-  "amz-B0DXP69QCQ": "2026-11-18T16:41:30.461740-03:00"
+  "amz-B0DXP69QCQ": "2026-11-18T16:41:30.461740-03:00",
+  "amz-B097KPBW7Q": "2026-11-18T16:48:24.698280-03:00",
+  "amz-B0DNQX9YFW": "2026-11-18T16:57:32.896110-03:00",
+  "amz-B09LQGKF2J": "2026-11-18T17:03:41.979066-03:00",
+  "amz-B076BB1XPG": "2026-11-18T17:17:59.879196-03:00",
+  "amz-B0GMJWK9VX": "2026-11-18T17:25:25.038889-03:00"
  },
  "ofertas_dia": [
   {
@@ -21990,6 +22001,111 @@
    "preco_em": "2026-11-18T13:19:56-03:00",
    "entrou": "2026-11-18T13:32:10.785350-03:00",
    "dia": "2026-11-18"
+  },
+  {
+   "id": "amz-B097KPBW7Q",
+   "canal": "achadinhos",
+   "nome": "Mixer Britânia Inox Maxx BMX355P 350W 220V",
+   "preco_antigo": 183.42,
+   "preco": 99.9,
+   "desconto": 46,
+   "link": "https://www.amazon.com.br/dp/B097KPBW7Q?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/41uf+J6ffML._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-19T22:00:00-03:00",
+   "coletado_em": "2026-11-18T13:18:51-03:00",
+   "preco_em": "2026-11-18T13:18:51-03:00",
+   "entrou": "2026-11-18T13:32:10.785350-03:00",
+   "dia": "2026-11-18"
+  },
+  {
+   "id": "amz-B0DNQX9YFW",
+   "canal": "achadinhos",
+   "nome": "Air Fryer Britânia Bella Cuccina 4,5L 1500W 127V",
+   "preco_antigo": 359.9,
+   "preco": 219.9,
+   "desconto": 39,
+   "link": "https://www.amazon.com.br/dp/B0DNQX9YFW?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51BFlG-4YuL._AC_SL1500_.jpg",
+   "loja": "Vendido por parceiro · entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-19T22:00:00-03:00",
+   "coletado_em": "2026-11-18T13:18:51-03:00",
+   "preco_em": "2026-11-18T13:18:51-03:00",
+   "entrou": "2026-11-18T13:32:10.785350-03:00",
+   "dia": "2026-11-18"
+  },
+  {
+   "id": "amz-B09LQGKF2J",
+   "canal": "marcas",
+   "nome": "Whey Dux Fresh Whey 450g Chocolate e Pasta de Amendoim",
+   "preco_antigo": 271.36,
+   "preco": 199.29,
+   "desconto": 27,
+   "link": "https://www.amazon.com.br/dp/B09LQGKF2J?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/617NFOoJq+L._AC_SL1500_.jpg",
+   "loja": "Vendido por parceiro · entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-19T22:00:00-03:00",
+   "coletado_em": "2026-11-18T13:19:56-03:00",
+   "preco_em": "2026-11-18T13:19:56-03:00",
+   "entrou": "2026-11-18T13:32:10.785350-03:00",
+   "dia": "2026-11-18"
+  },
+  {
+   "id": "shopee-23899333842",
+   "plataforma": "Shopee",
+   "nome": "Smartphone Motorola Moto G06 4G 256GB 4GB RAM Câmera Traseira 50MP + Câmera Frontal 8MP Tela de 6,9\" 5200 mAh -  Bege",
+   "loja": "MOBCOM STORE",
+   "loja_oficial": true,
+   "preco": 1079.0,
+   "preco_antigo": 1498.61,
+   "desconto": 28,
+   "vendas": 377,
+   "nota": 5.0,
+   "comissao_pct": 3.0,
+   "imagem": "https://cf.shopee.com.br/file/sg-11134201-8260n-mkjj2alrvkec32",
+   "link": "https://s.shopee.com.br/4qHIieMqrc",
+   "quase": true,
+   "canal": "tech",
+   "entrou": "2026-11-18T15:25:15.950940-03:00",
+   "dia": "2026-11-18"
+  },
+  {
+   "id": "amz-B076BB1XPG",
+   "canal": "achadinhos",
+   "nome": "Aspirador Água e Pó Electrolux AWD01 1400W 127V",
+   "preco_antigo": 339.9,
+   "preco": 193.9,
+   "desconto": 43,
+   "link": "https://www.amazon.com.br/dp/B076BB1XPG?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61X0GXT93RL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-19T22:00:00-03:00",
+   "coletado_em": "2026-11-18T13:18:51-03:00",
+   "preco_em": "2026-11-18T13:18:51-03:00",
+   "entrou": "2026-11-18T13:32:10.785350-03:00",
+   "dia": "2026-11-18"
+  },
+  {
+   "id": "amz-B0GMJWK9VX",
+   "canal": "marcas",
+   "nome": "Tênis New Balance Fresh Foam Arishi v4 Feminino",
+   "preco_antigo": 549.99,
+   "preco": 295.9,
+   "desconto": 46,
+   "link": "https://www.amazon.com.br/dp/B0GMJWK9VX?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61F6SqII8YL._AC_SL1500_.jpg",
+   "loja": "Vendido por parceiro · entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-19T22:00:00-03:00",
+   "coletado_em": "2026-11-18T13:19:56-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "preco_em": "2026-11-18T13:19:56-03:00",
+   "entrou": "2026-11-18T13:32:10.785350-03:00",
+   "dia": "2026-11-18"
   }
  ],
  "ig_feitos": [
@@ -22134,10 +22250,10 @@
   "2026-11-18 14:08 story_oferta",
   "2026-11-18 15:00 adivinha",
   "2026-11-18 15:03 story_oferta",
-  "2026-11-18 16:05 adivinha_resposta"
+  "2026-11-18 16:05 adivinha_resposta",
+  "2026-11-18 16:44 story_oferta"
  ],
  "ig_ofertas_usadas": [
-  "amz-B07Y2C1PWG",
   "amz-B0H7FM41M4",
   "amz-B0FQFPXPDS",
   "amz-B01GFYMUPM",
@@ -22336,7 +22452,8 @@
   "shopee-20975432880",
   "shopee-22092869191",
   "shopee-22493521596",
-  "shopee-18199337362"
+  "shopee-18199337362",
+  "shopee-55468658052"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
@@ -22467,54 +22584,6 @@
  "ultimo_pilar": "dica",
  "fila": [
   {
-   "id": "amz-B097KPBW7Q",
-   "canal": "achadinhos",
-   "nome": "Mixer Britânia Inox Maxx BMX355P 350W 220V",
-   "preco_antigo": 183.42,
-   "preco": 99.9,
-   "desconto": 46,
-   "link": "https://www.amazon.com.br/dp/B097KPBW7Q?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/41uf+J6ffML._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-19T22:00:00-03:00",
-   "coletado_em": "2026-11-18T13:18:51-03:00",
-   "preco_em": "2026-11-18T13:18:51-03:00",
-   "entrou": "2026-11-18T13:32:10.785350-03:00"
-  },
-  {
-   "id": "amz-B0DNQX9YFW",
-   "canal": "achadinhos",
-   "nome": "Air Fryer Britânia Bella Cuccina 4,5L 1500W 127V",
-   "preco_antigo": 359.9,
-   "preco": 219.9,
-   "desconto": 39,
-   "link": "https://www.amazon.com.br/dp/B0DNQX9YFW?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51BFlG-4YuL._AC_SL1500_.jpg",
-   "loja": "Vendido por parceiro · entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-19T22:00:00-03:00",
-   "coletado_em": "2026-11-18T13:18:51-03:00",
-   "preco_em": "2026-11-18T13:18:51-03:00",
-   "entrou": "2026-11-18T13:32:10.785350-03:00"
-  },
-  {
-   "id": "amz-B076BB1XPG",
-   "canal": "achadinhos",
-   "nome": "Aspirador Água e Pó Electrolux AWD01 1400W 127V",
-   "preco_antigo": 339.9,
-   "preco": 193.9,
-   "desconto": 43,
-   "link": "https://www.amazon.com.br/dp/B076BB1XPG?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61X0GXT93RL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-19T22:00:00-03:00",
-   "coletado_em": "2026-11-18T13:18:51-03:00",
-   "preco_em": "2026-11-18T13:18:51-03:00",
-   "entrou": "2026-11-18T13:32:10.785350-03:00"
-  },
-  {
    "id": "amz-B07K2CFGKL",
    "canal": "achadinhos",
    "nome": "Chaleira Elétrica Britânia BCH02PI 1,8L 127V",
@@ -22611,39 +22680,6 @@
    "entrou": "2026-11-18T13:32:10.785350-03:00"
   },
   {
-   "id": "amz-B09LQGKF2J",
-   "canal": "marcas",
-   "nome": "Whey Dux Fresh Whey 450g Chocolate e Pasta de Amendoim",
-   "preco_antigo": 271.36,
-   "preco": 199.29,
-   "desconto": 27,
-   "link": "https://www.amazon.com.br/dp/B09LQGKF2J?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/617NFOoJq+L._AC_SL1500_.jpg",
-   "loja": "Vendido por parceiro · entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-19T22:00:00-03:00",
-   "coletado_em": "2026-11-18T13:19:56-03:00",
-   "preco_em": "2026-11-18T13:19:56-03:00",
-   "entrou": "2026-11-18T13:32:10.785350-03:00"
-  },
-  {
-   "id": "amz-B0GMJWK9VX",
-   "canal": "marcas",
-   "nome": "Tênis New Balance Fresh Foam Arishi v4 Feminino",
-   "preco_antigo": 549.99,
-   "preco": 295.9,
-   "desconto": 46,
-   "link": "https://www.amazon.com.br/dp/B0GMJWK9VX?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61F6SqII8YL._AC_SL1500_.jpg",
-   "loja": "Vendido por parceiro · entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-19T22:00:00-03:00",
-   "coletado_em": "2026-11-18T13:19:56-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "preco_em": "2026-11-18T13:19:56-03:00",
-   "entrou": "2026-11-18T13:32:10.785350-03:00"
-  },
-  {
    "id": "amz-B0C157D2FP",
    "canal": "marcas",
    "nome": "Kit 2 Cuecas Slip Calvin Klein Algodão",
@@ -22675,24 +22711,6 @@
    "coletado_em": "2026-11-18T13:18:51-03:00",
    "preco_em": "2026-11-18T13:18:51-03:00",
    "entrou": "2026-11-18T14:50:17.217721-03:00"
-  },
-  {
-   "id": "shopee-23899333842",
-   "plataforma": "Shopee",
-   "nome": "Smartphone Motorola Moto G06 4G 256GB 4GB RAM Câmera Traseira 50MP + Câmera Frontal 8MP Tela de 6,9\" 5200 mAh -  Bege",
-   "loja": "MOBCOM STORE",
-   "loja_oficial": true,
-   "preco": 1079.0,
-   "preco_antigo": 1498.61,
-   "desconto": 28,
-   "vendas": 377,
-   "nota": 5.0,
-   "comissao_pct": 3.0,
-   "imagem": "https://cf.shopee.com.br/file/sg-11134201-8260n-mkjj2alrvkec32",
-   "link": "https://s.shopee.com.br/4qHIieMqrc",
-   "quase": true,
-   "canal": "tech",
-   "entrou": "2026-11-18T15:25:15.950940-03:00"
   },
   {
    "id": "shopee-11444965462",
@@ -22729,6 +22747,25 @@
    "link": "https://s.shopee.com.br/AKcG1JNybJ",
    "canal": "tech",
    "entrou": "2026-11-18T16:01:46.901378-03:00"
+  },
+  {
+   "id": "shopee-58262394728",
+   "plataforma": "Shopee",
+   "nome": "Fone de Ouvido Bluetooth JBL Tune 530BT,  Over-Ear, Sem Fio, Até 76 Horas de Bateria - Preto",
+   "loja": "Cadê Meu Eletro®",
+   "loja_oficial": true,
+   "preco": 218.9,
+   "preco_antigo": 398.0,
+   "desconto": 45,
+   "vendas": 129,
+   "nota": 5.0,
+   "comissao_pct": 3.0,
+   "imagem": "https://cf.shopee.com.br/file/br-11134207-820lr-mpdr84qevbwl9c",
+   "link": "https://s.shopee.com.br/2VtNwCvMOm",
+   "quase": true,
+   "canal": "tech",
+   "entrou": "2026-11-18T16:41:56.685417-03:00",
+   "reprise_dias": 7
   }
  ],
  "menus_fixados": [
@@ -23275,7 +23312,7 @@
   "eudorainstancemorangoirresistivelspray200ml": "2026-11-08T16:44:48.311865-03:00",
   "camerainteligentewifiim5scfullhdbrancaintelbras": "2026-11-16T13:25:34.425839-03:00",
   "barraproteinavo2wheybar12unidadesintegralmedica": "2026-11-08T16:58:59.376380-03:00",
-  "smartphonemotorolamotog064g256gb4gbramcameratraseira50mpcamerafrontal8mptelade695200mahbege": "2026-11-08T17:05:54.399381-03:00",
+  "smartphonemotorolamotog064g256gb4gbramcameratraseira50mpcamerafrontal8mptelade695200mahbege": "2026-11-18T17:11:02.693260-03:00",
   "secadortaiffstylepreto2000w220v": "2026-11-17T18:17:55.702033-03:00",
   "tenispumacourtclassiccleanmasculinooriginalcomnotafiscalegarantia": "2026-11-08T17:19:31.620012-03:00",
   "tampaparamicroondaselectroluxpretabpafreetampaparamicroondaselectroluxpretabpafree": "2026-11-08T17:29:48.929494-03:00",
@@ -24247,7 +24284,12 @@
   "tenismizunoneovortexmasculino": "2026-11-18T16:19:31.333633-03:00",
   "caixadesomportatilbluetoothjblboombox434hrs210wip68azul": "2026-11-18T16:27:10.124678-03:00",
   "faqueirotramontinalemeinoxpreto20pecas": "2026-11-18T16:33:52.416277-03:00",
-  "garrafastanleyaerolightflipstrawsplash710ml": "2026-11-18T16:41:30.461740-03:00"
+  "garrafastanleyaerolightflipstrawsplash710ml": "2026-11-18T16:41:30.461740-03:00",
+  "mixerbritaniainoxmaxxbmx355p350w220v": "2026-11-18T16:48:24.698280-03:00",
+  "airfryerbritaniabellacuccina45l1500w127v": "2026-11-18T16:57:32.896110-03:00",
+  "wheyduxfreshwhey450gchocolateepastadeamendoim": "2026-11-18T17:03:41.979066-03:00",
+  "aspiradoraguaepoelectroluxawd011400w127v": "2026-11-18T17:17:59.879196-03:00",
+  "tenisnewbalancefreshfoamarishiv4feminino": "2026-11-18T17:25:25.038889-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
@@ -24671,7 +24713,7 @@
   "marcas": "2026-11-12T17:56:29.409807-03:00"
  },
  "top10_dia": "2026-11-14",
- "manuais_lidos": "2026-11-18T16:41:26.628805-03:00",
+ "manuais_lidos": "2026-11-18T17:25:19.799485-03:00",
  "reserva_resultado": {
   "2026-11-07": {
    "achadinhos": {
@@ -24869,7 +24911,7 @@
    "tech": {
     "busca": 0,
     "quase": 3,
-    "reprise": 1
+    "reprise": 2
    }
   }
  },
@@ -24935,7 +24977,7 @@
    "hora": "2026-11-17T18:31:49.698687-03:00"
   }
  },
- "ig_respondido_em": "2026-11-18T16:41:26.628805-03:00",
+ "ig_respondido_em": "2026-11-18T17:25:19.799485-03:00",
  "dm_auto": {
   "2026-11-11": {
    "com_palavra": 0,
@@ -25171,7 +25213,7 @@
    "feed": 3
   },
   "2026-11-18": {
-   "story": 21,
+   "story": 22,
    "feed": 1
   }
  },
