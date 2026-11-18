@@ -3486,10 +3486,19 @@
    "erro em 2026-11-17 marcas 20:24 nike-028312-54 (foto): cannot identify image file <_io.BytesIO object at 0x7c5f0fc88e50>. Não postei.",
    "erro em 2026-11-17 marcas 20:42 nike-058279-55 (foto): cannot identify image file <_io.BytesIO object at 0x744ceac70590>. Não postei.",
    "erro em 2026-11-17 marcas 20:56 nike-029398-54 (foto): cannot identify image file <_io.BytesIO object at 0x744ceacca5c0>. Não postei.",
-   "erro em 2026-11-17 marcas 21:02 nike-058825-ID (foto): cannot identify image file <_io.BytesIO object at 0x744ceac71030>. Não postei."
+   "erro em 2026-11-17 marcas 21:02 nike-058825-ID (foto): cannot identify image file <_io.BytesIO object at 0x744ceac71030>. Não postei.",
+   "erro em 2026-11-17 marcas 21:02 nike-024961-1G (foto): cannot identify image file <_io.BytesIO object at 0x7e5de0c22200>. Não postei.",
+   "erro em 2026-11-17 marcas 21:03 nike-028312-54 (foto): cannot identify image file <_io.BytesIO object at 0x7e5de0dd18a0>. Não postei.",
+   "erro em 2026-11-17 marcas 21:05 nike-058279-55 (foto): cannot identify image file <_io.BytesIO object at 0x7e5de0be6930>. Não postei.",
+   "erro em 2026-11-17 marcas 21:09 nike-029398-54 (foto): cannot identify image file <_io.BytesIO object at 0x7e5de0dd2520>. Não postei.",
+   "erro em 2026-11-17 marcas 21:12 nike-028312-54 (foto): cannot identify image file <_io.BytesIO object at 0x7e5de0be7100>. Não postei.",
+   "erro em 2026-11-17 marcas 21:12 nike-058825-ID (foto): cannot identify image file <_io.BytesIO object at 0x7e5de0dd24d0>. Não postei.",
+   "erro em 2026-11-17 marcas 21:15 nike-024961-1G (foto): cannot identify image file <_io.BytesIO object at 0x7e5de0be6c50>. Não postei.",
+   "erro em 2026-11-17 marcas 21:22 nike-028312-54 (foto): cannot identify image file <_io.BytesIO object at 0x7e5de09a6ac0>. Não postei.",
+   "erro em 2026-11-17 marcas 21:30 nike-058279-55 (foto): cannot identify image file <_io.BytesIO object at 0x7e5de0dd23e0>. Não postei."
   ],
-  "ultima_execucao": "20:24",
-  "execucoes": 24,
+  "ultima_execucao": "21:02",
+  "execucoes": 25,
   "telegram_posts": {
    "achadinhos": 47,
    "marcas": 31,
@@ -3560,7 +3569,9 @@
    "20:03 story_oferta",
    "20:30 reels",
    "20:35 story_top4",
-   "20:38 story_oferta"
+   "20:38 story_oferta",
+   "21:20 story_convite",
+   "21:24 story_oferta"
   ],
   "shopee_ligada": true,
   "dm_auto": {
@@ -3605,7 +3616,7 @@
    }
   },
   "shopee_oficial_ids": {
-   "shopee-19497608994": "aprovada",
+   "shopee-19497608994": "desconto longe",
    "shopee-18597753531": "aprovada",
    "shopee-18271829175": "desconto longe",
    "shopee-21299179885": "desconto perto (até 10 pts)",
@@ -7203,8 +7214,8 @@
    "nota": 1387,
    "vendas perto (125+)": 109,
    "outro: marca fora da lista boa": 94,
-   "aprovada": 76,
-   "desconto longe": 72,
+   "aprovada": 75,
+   "desconto longe": 73,
    "outro: palavra proibida: compatível": 29,
    "desconto perto (até 10 pts)": 24
   },
@@ -7493,12 +7504,12 @@
    "seguidores": 506,
    "posts": 131,
    "reach": 34,
-   "profile_views": 34,
+   "profile_views": 40,
    "website_clicks": 0,
    "stories_ativos": 25
   },
   "reels_alcance": {
-   "atualizado": "2026-11-17T20:24:55.413632-03:00",
+   "atualizado": "2026-11-17T21:02:57.178963-03:00",
    "itens": [
     {
      "id": "17986188335901519",
@@ -7522,7 +7533,7 @@
      "id": "18230902090331796",
      "hora": "11/11 20:33",
      "capa": "ate_off",
-     "reach": 8,
+     "reach": 9,
      "views": 5,
      "shares": 0,
      "saved": 0
