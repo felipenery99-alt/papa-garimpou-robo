@@ -1882,7 +1882,9 @@ def convites_story(h: dict, telegram, agora: datetime) -> None:
     if all(n in conv for n in CONVITES_ORIGEM):
         CONVITES.write_text(json.dumps({n: conv[n]["link"] for n in CONVITES_ORIGEM}, ensure_ascii=False, indent=1),
                             encoding="utf-8")
-        CONVITE_STORY.write_text(f"{nome} {conv[nome]['link']}\n", encoding="utf-8")
+        # 17/11: com a pasta "Papa Ofertas" ligada, o adesivo de link do story (sessão Instagram) usa a pasta
+        CONVITE_STORY.write_text(f"pasta {config.PASTA_TELEGRAM}\n" if config.USAR_PASTA
+                                 else f"{nome} {conv[nome]['link']}\n", encoding="utf-8")
     try:
         novas, h["tg_offset"] = telegram.entradas_por_convite(h.get("tg_offset"))
     except Exception as e:
