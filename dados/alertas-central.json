@@ -172,5 +172,11 @@
   "vezes": 1,
   "ultimo": "2026-11-18T16:00+00:00",
   "texto": "erro em 2026-11-18 achadinhos 12:59 shopee-55014684903 (foto): 403 Client Error: Forbidden for url: https://cf.shopee.com.br/file/sg-11134201-825ad-mr0o35kmaa6989. Não postei."
+ },
+ "erro em #-#-# marcas #:# amz-B#GTR#N#L (envio ao Telegram): HTTPSConnectionPool(": {
+  "primeiro": "2026-11-18T17:43+00:00",
+  "vezes": 1,
+  "ultimo": "2026-11-18T17:43+00:00",
+  "texto": "erro em 2026-11-18 marcas 14:43 amz-B0GTR9N84L (envio ao Telegram): HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot8405810184:AAGXrdPpTxxaVAUClbMix_JMGwqgq8vhwwA/sendPhoto (Caused by NewConnectionError(\"HTTPSConnection(host='api.telegram.org', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable\")). Não postei."
  }
 }

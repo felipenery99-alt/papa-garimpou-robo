@@ -1,26 +1,17 @@
 {
- "dia": "2026-11-17",
+ "dia": "2026-11-18",
  "itens": [
   {
-   "tipo": "a_ou_b",
-   "hora": "18:17",
+   "tipo": "adivinha",
+   "hora": "15:04",
    "produtos": [
     {
-     "nome": "Secador De Cabelo Taiff Style Azul Tifanny Original 2000 W",
-     "preco_antigo": 416.26,
-     "preco": 258.08,
-     "desconto": 38,
-     "link": "https://s.shopee.com.br/1qdcIIIqze",
-     "loja": "Beleza Renovada Oficial",
-     "canal": "achadinhos"
-    },
-    {
-     "nome": "Secador Taiff Style Preto 2000W 220V",
-     "preco_antigo": 407.96,
-     "preco": 199.9,
-     "desconto": 51,
-     "link": "https://s.shopee.com.br/2gCjHpFgIv",
-     "loja": "Lojas REDE",
+     "nome": "Parafusadeira e Furadeira à Bateria 12V GSR 120-LI com 1 Bateria e Maleta BOSCH Bivolt",
+     "preco_antigo": 562.36,
+     "preco": 404.9,
+     "desconto": 28,
+     "link": "https://s.shopee.com.br/8KrBGbESu2",
+     "loja": "Palácio das Ferramentas 01",
      "canal": "achadinhos"
     }
    ]
