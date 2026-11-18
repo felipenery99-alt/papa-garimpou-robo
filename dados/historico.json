@@ -1706,7 +1706,13 @@
   "2026-11-18 marcas 08:39 shopee-29083433141",
   "2026-11-18 tech 08:46 amz-B0FHJ8QQB8",
   "2026-11-18 achadinhos 08:53 amz-B0DMTYSX8Y",
-  "2026-11-18 marcas 09:01 nike-028312-54"
+  "2026-11-18 marcas 09:01 nike-028312-54",
+  "2026-11-18 achadinhos 09:10 amz-B0F3QN6FKK",
+  "2026-11-18 achadinhos 09:15 amz-B08C7XYTHP",
+  "2026-11-18 marcas 09:22 nike-058279-55",
+  "2026-11-18 tech 09:29 amz-B0GVTB7BGQ",
+  "2026-11-18 achadinhos 09:36 amz-B0FPMR8N99",
+  "2026-11-18 marcas 09:45 nike-058825-ID"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -3328,7 +3334,13 @@
   "amz-B0CMW94FDQ": "2026-11-18T08:31:49.041589-03:00",
   "amz-B0FHJ8QQB8": "2026-11-18T08:46:10.603159-03:00",
   "amz-B0DMTYSX8Y": "2026-11-18T08:53:55.109262-03:00",
-  "nike-028312-54": "2026-11-18T09:01:03.783229-03:00"
+  "nike-028312-54": "2026-11-18T09:01:03.783229-03:00",
+  "amz-B0F3QN6FKK": "2026-11-18T09:10:05.571331-03:00",
+  "amz-B08C7XYTHP": "2026-11-18T09:15:37.845724-03:00",
+  "nike-058279-55": "2026-11-18T09:22:08.717863-03:00",
+  "amz-B0GVTB7BGQ": "2026-11-18T09:29:35.330888-03:00",
+  "amz-B0FPMR8N99": "2026-11-18T09:36:42.415342-03:00",
+  "nike-058825-ID": "2026-11-18T09:45:27.706321-03:00"
  },
  "ofertas_dia": [
   {
@@ -21000,6 +21012,114 @@
    "coletado_em": "2026-11-17T18:20:00-03:00",
    "entrou": "2026-11-18T08:17:23.392412-03:00",
    "dia": "2026-11-18"
+  },
+  {
+   "id": "amz-B0F3QN6FKK",
+   "canal": "achadinhos",
+   "nome": "Ferro a Vapor Philips Walita (modelo compacto)",
+   "preco_antigo": 219.9,
+   "preco": 139.9,
+   "desconto": 36,
+   "link": "https://www.amazon.com.br/dp/B0F3QN6FKK?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51PfmZlabDL.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-18T22:00:00-03:00",
+   "coletado_em": "2026-11-17T18:19:41-03:00",
+   "preco_em": "2026-11-17T18:19:41-03:00",
+   "entrou": "2026-11-18T08:17:23.392412-03:00",
+   "dia": "2026-11-18"
+  },
+  {
+   "id": "amz-B08C7XYTHP",
+   "canal": "achadinhos",
+   "nome": "Protetor Solar Spray Nivea Sun Protect & Toque Seco",
+   "preco_antigo": 92.9,
+   "preco": 49.9,
+   "desconto": 46,
+   "link": "https://www.amazon.com.br/dp/B08C7XYTHP?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/618QmOe3GcL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-19T22:00:00-03:00",
+   "coletado_em": "2026-11-18T08:15:10-03:00",
+   "preco_em": "2026-11-18T08:15:10-03:00",
+   "entrou": "2026-11-18T08:17:23.392412-03:00",
+   "dia": "2026-11-18"
+  },
+  {
+   "id": "nike-058279-55",
+   "canal": "marcas",
+   "nome": "Tênis Nike Zoom Fly 6 Feminino",
+   "preco_antigo": 1499.99,
+   "preco": 902.24,
+   "desconto": 40,
+   "cupom": "BLACK30",
+   "pix": 857.13,
+   "extra": "Cupom BLACK30 (30% em selecionados, até 19/11) · no Pix R$ 857,13",
+   "link": "https://www.awin1.com/cread.php?awinmid=17652&awinaffid=3137490&ued=https%3A%2F%2Fwww.nike.com.br%2Ftenis-nike-zoom-fly-6-feminino-058279.html%3Fcor%3D55",
+   "imagem": "https://imgnike-a.akamaihd.net/1300x1300/05827955.jpg",
+   "loja": "Loja oficial Nike",
+   "plataforma": "Nike",
+   "valida_ate": "2026-11-19T23:59:00-03:00",
+   "preco_em": "2026-11-17T18:20:00-03:00",
+   "coletado_em": "2026-11-17T18:20:00-03:00",
+   "entrou": "2026-11-18T08:17:23.392412-03:00",
+   "dia": "2026-11-18"
+  },
+  {
+   "id": "amz-B0GVTB7BGQ",
+   "canal": "tech",
+   "nome": "Celular Samsung Galaxy A57 5G 256GB 8GB RAM",
+   "preco_antigo": 3999.0,
+   "preco": 2399.39,
+   "desconto": 40,
+   "link": "https://www.amazon.com.br/dp/B0GVTB7BGQ?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51VZg1VWMlL._AC_SL1080_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-19T22:00:00-03:00",
+   "coletado_em": "2026-11-18T08:15:10-03:00",
+   "preco_em": "2026-11-18T08:15:10-03:00",
+   "entrou": "2026-11-18T08:17:23.392412-03:00",
+   "dia": "2026-11-18"
+  },
+  {
+   "id": "amz-B0FPMR8N99",
+   "canal": "achadinhos",
+   "nome": "Nivea Sun Primer Daily UV Sérum FPS 70 30ml",
+   "preco_antigo": 76.9,
+   "preco": 45.9,
+   "desconto": 40,
+   "link": "https://www.amazon.com.br/dp/B0FPMR8N99?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/6113zevWZwL._AC_SL1200_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-19T22:00:00-03:00",
+   "coletado_em": "2026-11-18T08:15:10-03:00",
+   "preco_em": "2026-11-18T08:15:10-03:00",
+   "entrou": "2026-11-18T08:17:23.392412-03:00",
+   "dia": "2026-11-18"
+  },
+  {
+   "id": "nike-058825-ID",
+   "canal": "marcas",
+   "nome": "Camisa Nike Corinthians II 2025/26 Torcedor Pro Masculina",
+   "preco_antigo": 349.99,
+   "preco": 150.36,
+   "desconto": 57,
+   "cupom": "BLACK30",
+   "pix": 142.84,
+   "extra": "Cupom BLACK30 (30% em selecionados, até 19/11) · no Pix R$ 142,84",
+   "link": "https://www.awin1.com/cread.php?awinmid=17652&awinaffid=3137490&ued=https%3A%2F%2Fwww.nike.com.br%2Fcamisa-nike-corinthians-ii-2025-26-torcedor-pro-masculina-058825.html%3Fcor%3DID",
+   "imagem": "https://imgnike-a.akamaihd.net/1300x1300/058825ID.jpg",
+   "loja": "Loja oficial Nike",
+   "plataforma": "Nike",
+   "valida_ate": "2026-11-19T23:59:00-03:00",
+   "preco_em": "2026-11-17T18:20:00-03:00",
+   "coletado_em": "2026-11-17T18:20:00-03:00",
+   "entrou": "2026-11-18T08:17:23.392412-03:00",
+   "dia": "2026-11-18"
   }
  ],
  "ig_feitos": [
@@ -21123,10 +21243,13 @@
   "2026-11-17 21:24 story_oferta",
   "2026-11-18 08:07 story_oferta",
   "2026-11-18 08:45 story_oferta",
-  "2026-11-18 08:52 story_oferta"
+  "2026-11-18 08:52 story_oferta",
+  "story especial nike-black30-1811",
+  "story especial nike-zoomfly-1811",
+  "2026-11-18 09:38 story_oferta",
+  "2026-11-18 09:40 story_convite"
  ],
  "ig_ofertas_usadas": [
-  "amz-B086XNNSDN",
   "shopee-22493521596",
   "shopee-56159571991",
   "shopee-54114684881",
@@ -21325,7 +21448,8 @@
   "shopee-23702004611",
   "shopee-44568244729",
   "shopee-48518043569",
-  "shopee-29083433141"
+  "shopee-29083433141",
+  "nike-028312-54"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
@@ -21455,54 +21579,6 @@
  "ultimo_pilar": "anticilada",
  "fila": [
   {
-   "id": "amz-B0F3QN6FKK",
-   "canal": "achadinhos",
-   "nome": "Ferro a Vapor Philips Walita (modelo compacto)",
-   "preco_antigo": 219.9,
-   "preco": 139.9,
-   "desconto": 36,
-   "link": "https://www.amazon.com.br/dp/B0F3QN6FKK?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51PfmZlabDL.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-18T22:00:00-03:00",
-   "coletado_em": "2026-11-17T18:19:41-03:00",
-   "preco_em": "2026-11-17T18:19:41-03:00",
-   "entrou": "2026-11-18T08:17:23.392412-03:00"
-  },
-  {
-   "id": "amz-B08C7XYTHP",
-   "canal": "achadinhos",
-   "nome": "Protetor Solar Spray Nivea Sun Protect & Toque Seco",
-   "preco_antigo": 92.9,
-   "preco": 49.9,
-   "desconto": 46,
-   "link": "https://www.amazon.com.br/dp/B08C7XYTHP?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/618QmOe3GcL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-19T22:00:00-03:00",
-   "coletado_em": "2026-11-18T08:15:10-03:00",
-   "preco_em": "2026-11-18T08:15:10-03:00",
-   "entrou": "2026-11-18T08:17:23.392412-03:00"
-  },
-  {
-   "id": "amz-B0FPMR8N99",
-   "canal": "achadinhos",
-   "nome": "Nivea Sun Primer Daily UV Sérum FPS 70 30ml",
-   "preco_antigo": 76.9,
-   "preco": 45.9,
-   "desconto": 40,
-   "link": "https://www.amazon.com.br/dp/B0FPMR8N99?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/6113zevWZwL._AC_SL1200_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-19T22:00:00-03:00",
-   "coletado_em": "2026-11-18T08:15:10-03:00",
-   "preco_em": "2026-11-18T08:15:10-03:00",
-   "entrou": "2026-11-18T08:17:23.392412-03:00"
-  },
-  {
    "id": "amz-B09GL79Z8S",
    "canal": "achadinhos",
    "nome": "Escova Elétrica Philips Colgate SonicPro Kids",
@@ -21566,44 +21642,6 @@
    "coletado_em": "2026-11-18T08:15:10-03:00",
    "extra": "220V",
    "preco_em": "2026-11-18T08:15:10-03:00",
-   "entrou": "2026-11-18T08:17:23.392412-03:00"
-  },
-  {
-   "id": "nike-058279-55",
-   "canal": "marcas",
-   "nome": "Tênis Nike Zoom Fly 6 Feminino",
-   "preco_antigo": 1499.99,
-   "preco": 902.24,
-   "desconto": 40,
-   "cupom": "BLACK30",
-   "pix": 857.13,
-   "extra": "Cupom BLACK30 (30% em selecionados, até 19/11) · no Pix R$ 857,13",
-   "link": "https://www.awin1.com/cread.php?awinmid=17652&awinaffid=3137490&ued=https%3A%2F%2Fwww.nike.com.br%2Ftenis-nike-zoom-fly-6-feminino-058279.html%3Fcor%3D55",
-   "imagem": "https://imgnike-a.akamaihd.net/1300x1300/05827955.jpg",
-   "loja": "Loja oficial Nike",
-   "plataforma": "Nike",
-   "valida_ate": "2026-11-19T23:59:00-03:00",
-   "preco_em": "2026-11-17T18:20:00-03:00",
-   "coletado_em": "2026-11-17T18:20:00-03:00",
-   "entrou": "2026-11-18T08:17:23.392412-03:00"
-  },
-  {
-   "id": "nike-058825-ID",
-   "canal": "marcas",
-   "nome": "Camisa Nike Corinthians II 2025/26 Torcedor Pro Masculina",
-   "preco_antigo": 349.99,
-   "preco": 150.36,
-   "desconto": 57,
-   "cupom": "BLACK30",
-   "pix": 142.84,
-   "extra": "Cupom BLACK30 (30% em selecionados, até 19/11) · no Pix R$ 142,84",
-   "link": "https://www.awin1.com/cread.php?awinmid=17652&awinaffid=3137490&ued=https%3A%2F%2Fwww.nike.com.br%2Fcamisa-nike-corinthians-ii-2025-26-torcedor-pro-masculina-058825.html%3Fcor%3DID",
-   "imagem": "https://imgnike-a.akamaihd.net/1300x1300/058825ID.jpg",
-   "loja": "Loja oficial Nike",
-   "plataforma": "Nike",
-   "valida_ate": "2026-11-19T23:59:00-03:00",
-   "preco_em": "2026-11-17T18:20:00-03:00",
-   "coletado_em": "2026-11-17T18:20:00-03:00",
    "entrou": "2026-11-18T08:17:23.392412-03:00"
   },
   {
@@ -21707,22 +21745,6 @@
    "coletado_em": "2026-11-18T08:16:24-03:00",
    "extra": "Preço a partir de: varia por tamanho e cor",
    "preco_em": "2026-11-18T08:16:24-03:00",
-   "entrou": "2026-11-18T08:17:23.392412-03:00"
-  },
-  {
-   "id": "amz-B0GVTB7BGQ",
-   "canal": "tech",
-   "nome": "Celular Samsung Galaxy A57 5G 256GB 8GB RAM",
-   "preco_antigo": 3999.0,
-   "preco": 2399.39,
-   "desconto": 40,
-   "link": "https://www.amazon.com.br/dp/B0GVTB7BGQ?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51VZg1VWMlL._AC_SL1080_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-19T22:00:00-03:00",
-   "coletado_em": "2026-11-18T08:15:10-03:00",
-   "preco_em": "2026-11-18T08:15:10-03:00",
    "entrou": "2026-11-18T08:17:23.392412-03:00"
   },
   {
@@ -21900,6 +21922,91 @@
    "coletado_em": "2026-11-17T12:21:44-03:00",
    "preco_em": "2026-11-17T12:21:44-03:00",
    "entrou": "2026-11-18T09:01:03.341670-03:00"
+  },
+  {
+   "id": "shopee-11098381324",
+   "plataforma": "Shopee",
+   "nome": "Secador Taiff Tourmaline Ion Cerâmica 127V 2100W",
+   "loja": "Lojas REDE",
+   "loja_oficial": true,
+   "preco": 289.9,
+   "preco_antigo": 536.85,
+   "desconto": 46,
+   "vendas": 273,
+   "nota": 4.9,
+   "comissao_pct": 3.0,
+   "imagem": "https://cf.shopee.com.br/file/sg-11134201-825bd-muxisdeuisqv69",
+   "link": "https://s.shopee.com.br/20x7Ktc9zv",
+   "canal": "achadinhos",
+   "entrou": "2026-11-18T09:02:39.963437-03:00"
+  },
+  {
+   "id": "shopee-23593120156",
+   "plataforma": "Shopee",
+   "nome": "Panela Elétrica Mondial NPE-08-5X Fast Rice 5 Xícaras 400W",
+   "loja": "LOI BRASIL",
+   "loja_oficial": true,
+   "preco": 177.99,
+   "preco_antigo": 257.96,
+   "desconto": 31,
+   "vendas": 261,
+   "nota": 4.9,
+   "comissao_pct": 6.0,
+   "imagem": "https://cf.shopee.com.br/file/br-11134207-820li-mv4kjoqz8kche3",
+   "link": "https://s.shopee.com.br/7KydyasBy3",
+   "canal": "achadinhos",
+   "entrou": "2026-11-18T09:02:39.963437-03:00"
+  },
+  {
+   "id": "shopee-23298467238",
+   "plataforma": "Shopee",
+   "nome": "Faqueiro Inox Tramontina Ipanema 30 Peças Jogo De Talheres Cor Preto",
+   "loja": "MONTLAR",
+   "loja_oficial": true,
+   "preco": 86.49,
+   "preco_antigo": 129.09,
+   "desconto": 33,
+   "vendas": 307,
+   "nota": 5.0,
+   "comissao_pct": 3.0,
+   "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mbs24ze44pqx41",
+   "link": "https://s.shopee.com.br/1C1hFs7ou",
+   "canal": "achadinhos",
+   "entrou": "2026-11-18T09:02:39.963437-03:00"
+  },
+  {
+   "id": "shopee-14788823787",
+   "plataforma": "Shopee",
+   "nome": "Kit De 10 Pares De Meias Lupo Cano Médio Unissex Em Algodão Tamanho 37 ao 44",
+   "loja": "Deccó",
+   "loja_oficial": true,
+   "preco": 87.99,
+   "preco_antigo": 159.98,
+   "desconto": 45,
+   "vendas": 978,
+   "nota": 4.9,
+   "comissao_pct": 7.0,
+   "imagem": "https://cf.shopee.com.br/file/br-11134207-820lc-mv5zhrhmr6kj7d",
+   "link": "https://s.shopee.com.br/6fiwaqgzki",
+   "canal": "marcas",
+   "entrou": "2026-11-18T09:02:39.963437-03:00"
+  },
+  {
+   "id": "shopee-22897053962",
+   "plataforma": "Shopee",
+   "nome": "Kit Com 3 Camisetas Masculinas Básicas Slim Hering",
+   "loja": "Hering_Oficial",
+   "loja_oficial": true,
+   "preco": 96.99,
+   "preco_antigo": 159.0,
+   "desconto": 39,
+   "vendas": 349,
+   "nota": 4.9,
+   "comissao_pct": 3.0,
+   "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdyb-mcjadz3n5vm6fc",
+   "link": "https://s.shopee.com.br/4VeNrijisH",
+   "canal": "marcas",
+   "entrou": "2026-11-18T09:02:39.963437-03:00"
   }
  ],
  "menus_fixados": [
@@ -23370,7 +23477,13 @@
   "secadortaiffunique3100w": "2026-11-18T08:31:49.041589-03:00",
   "combotecladoemousesemfiologitechmk250bluetooth": "2026-11-18T08:46:10.603159-03:00",
   "copotermicostanleyflipstrawtumbler": "2026-11-18T08:53:55.109262-03:00",
-  "tenisnikeairzoomalphafly3masculino": "2026-11-18T09:01:03.783229-03:00"
+  "tenisnikeairzoomalphafly3masculino": "2026-11-18T09:01:03.783229-03:00",
+  "ferroavaporphilipswalitamodelocompacto": "2026-11-18T09:10:05.571331-03:00",
+  "protetorsolarsprayniveasunprotecttoqueseco": "2026-11-18T09:15:37.845724-03:00",
+  "tenisnikezoomfly6feminino": "2026-11-18T09:22:08.717863-03:00",
+  "celularsamsunggalaxya575g256gb8gbram": "2026-11-18T09:29:35.330888-03:00",
+  "niveasunprimerdailyuvserumfps7030ml": "2026-11-18T09:36:42.415342-03:00",
+  "camisanikecorinthiansii202526torcedorpromasculina": "2026-11-18T09:45:27.706321-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
@@ -23786,7 +23899,7 @@
   "marcas": "2026-11-12T17:56:29.409807-03:00"
  },
  "top10_dia": "2026-11-14",
- "manuais_lidos": "2026-11-18T09:01:03.341670-03:00",
+ "manuais_lidos": "2026-11-18T09:44:42.163035-03:00",
  "reserva_resultado": {
   "2026-11-07": {
    "achadinhos": {
@@ -24033,7 +24146,7 @@
    "hora": "2026-11-17T18:31:49.698687-03:00"
   }
  },
- "ig_respondido_em": "2026-11-18T08:53:32.165356-03:00",
+ "ig_respondido_em": "2026-11-18T09:44:42.163035-03:00",
  "dm_auto": {
   "2026-11-11": {
    "com_palavra": 0,
@@ -24281,7 +24394,7 @@
    "feed": 3
   },
   "2026-11-18": {
-   "story": 3,
+   "story": 7,
    "feed": 0
   }
  },
@@ -24321,15 +24434,6 @@
    ]
   }
  ],
- "pede_fixados": {
-  "ate": "2026-11-18T08:39:37.223352-03:00",
-  "msgs": {
-   "@papagarimpou": 656,
-   "@papagarimpoumarcas": 541,
-   "@papagarimpoutech": 478,
-   "@papagarimpouofertas": 1646
-  }
- },
  "awin_teste": {
   "quando": "17/11 17:06",
   "limpo": true,
