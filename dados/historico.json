@@ -1787,7 +1787,10 @@
   "2026-11-18 marcas 19:10 shopee-58217263099",
   "2026-11-18 tech 19:18 shopee-41117508450",
   "2026-11-18 marcas 19:27 shopee-21049729949",
-  "2026-11-18 marcas 19:35 shopee-58260024078"
+  "2026-11-18 marcas 19:35 shopee-58260024078",
+  "2026-11-18 achadinhos 20:00 shopee-55014684903",
+  "2026-11-18 tech 20:08 shopee-58002598728",
+  "2026-11-18 achadinhos 20:21 shopee-58209674589"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -2242,7 +2245,7 @@
   "amz-B0CD14V4RQ": "2026-11-04T18:42:09.733592-03:00",
   "amz-B077L9HSQL": "2026-11-04T18:53:13.244967-03:00",
   "amz-B0CQ7N63YB": "2026-11-04T19:06:33.886721-03:00",
-  "shopee-58209674589": "2026-11-12T17:48:33.948160-03:00",
+  "shopee-58209674589": "2026-11-18T20:21:02.727951-03:00",
   "amz-B0CRTYZG5C": "2026-11-04T19:22:33.915284-03:00",
   "amz-B01JPOLKDW": "2026-11-04T19:36:41.616437-03:00",
   "amz-B0B872NVW4": "2026-11-04T19:47:08.844079-03:00",
@@ -2458,7 +2461,7 @@
   "amz-B0BNPBPS3K": "2026-11-08T13:14:27.193620-03:00",
   "shopee-49606086815": "2026-11-17T08:53:20.390633-03:00",
   "amz-B0BCV3YJZ9": "2026-11-08T14:05:06.127737-03:00",
-  "shopee-58002598728": "2026-11-08T14:12:55.488332-03:00",
+  "shopee-58002598728": "2026-11-18T20:08:45.000593-03:00",
   "shopee-49064981274": "2026-11-08T14:30:20.393231-03:00",
   "shopee-22195023298": "2026-11-08T14:47:15.342899-03:00",
   "shopee-11444965462": "2026-11-18T17:55:55.314319-03:00",
@@ -3470,7 +3473,8 @@
   "amz-B0C157D2FP": "2026-11-18T18:09:54.277161-03:00",
   "amz-B07BB3MT83": "2026-11-18T18:17:02.460139-03:00",
   "amz-B0H6QGYFNT": "2026-11-18T18:25:28.466174-03:00",
-  "amz-B08HZHHQK9": "2026-11-18T19:01:57.807566-03:00"
+  "amz-B08HZHHQK9": "2026-11-18T19:01:57.807566-03:00",
+  "shopee-55014684903": "2026-11-18T20:00:26.090563-03:00"
  },
  "ofertas_dia": [
   {
@@ -22420,6 +22424,63 @@
    "entrou": "2026-11-18T18:41:11.875397-03:00",
    "reprise_dias": 3,
    "dia": "2026-11-18"
+  },
+  {
+   "id": "shopee-55014684903",
+   "plataforma": "Shopee",
+   "nome": "Desodorante Corporal Natura Kriska Drama 100ml",
+   "loja": "NATURA",
+   "loja_oficial": true,
+   "preco": 39.83,
+   "preco_antigo": 56.9,
+   "desconto": 30,
+   "vendas": 129,
+   "nota": 4.8,
+   "comissao_pct": 13.0,
+   "imagem": "https://cf.shopee.com.br/file/sg-11134201-825ad-mr0o35kmaa6989",
+   "link": "https://s.shopee.com.br/7AfDj8NfmG",
+   "quase": true,
+   "canal": "achadinhos",
+   "entrou": "2026-11-18T19:35:54.772091-03:00",
+   "dia": "2026-11-18"
+  },
+  {
+   "id": "shopee-58002598728",
+   "plataforma": "Shopee",
+   "nome": "Carregador Portátil Baseus PicoGo AM41 5000mAh / 10000mAh 20W Magnético MagSafe USB-C 60W PowerBank",
+   "loja": "Baseus Oficial",
+   "loja_oficial": true,
+   "preco": 199.0,
+   "preco_antigo": 349.12,
+   "desconto": 43,
+   "vendas": 207,
+   "nota": 4.9,
+   "comissao_pct": 8.0,
+   "imagem": "https://cf.shopee.com.br/file/br-11134207-820lp-moxzputhj4sm58",
+   "link": "https://s.shopee.com.br/BVTkeLavd",
+   "quase": true,
+   "canal": "tech",
+   "entrou": "2026-11-18T19:54:48.541798-03:00",
+   "dia": "2026-11-18"
+  },
+  {
+   "id": "shopee-58209674589",
+   "plataforma": "Shopee",
+   "nome": "Desodorante Corporal Natura Kaiak O2 Masculino 100 ml",
+   "loja": "NATURA",
+   "loja_oficial": true,
+   "preco": 36.42,
+   "preco_antigo": 56.91,
+   "desconto": 36,
+   "vendas": 555,
+   "nota": 4.9,
+   "comissao_pct": 16.0,
+   "imagem": "https://cf.shopee.com.br/file/sg-11134201-820m1-mnk66jbfb01vdf",
+   "link": "https://s.shopee.com.br/BVRaXfRbQ",
+   "canal": "achadinhos",
+   "entrou": "2026-11-18T19:35:54.772091-03:00",
+   "reprise_dias": 3,
+   "dia": "2026-11-18"
   }
  ],
  "ig_feitos": [
@@ -22574,10 +22635,10 @@
   "2026-11-18 18:42 story_oferta",
   "2026-11-18 feed",
   "2026-11-18 19:15 post_achado",
-  "2026-11-18 19:17 story_oferta"
+  "2026-11-18 19:17 story_oferta",
+  "2026-11-18 20:03 story_oferta"
  ],
  "ig_ofertas_usadas": [
-  "amz-B0DVCJGRDG",
   "shopee-52364763614",
   "amz-B07K8XJF9D",
   "amz-B09SNCWJYL",
@@ -22776,7 +22837,8 @@
   "shopee-23899333842",
   "shopee-58257621281",
   "shopee-58262394728",
-  "shopee-22697099204"
+  "shopee-22697099204",
+  "shopee-58217263099"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
@@ -22906,7 +22968,44 @@
   "2026-11-18": 4
  },
  "ultimo_pilar": "anticilada",
- "fila": [],
+ "fila": [
+  {
+   "id": "shopee-22195023298",
+   "plataforma": "Shopee",
+   "nome": "TP-Link EX3000 Roteador Wi-Fi 6 AX3000 Dual Band, 4 portas Gigabit",
+   "loja": "TP-Link Brasil",
+   "loja_oficial": true,
+   "preco": 241.05,
+   "preco_antigo": 376.64,
+   "desconto": 36,
+   "vendas": 182,
+   "nota": 4.9,
+   "comissao_pct": 11.0,
+   "imagem": "https://cf.shopee.com.br/file/br-11134207-820la-moifp6zqrk003c",
+   "link": "https://s.shopee.com.br/9Kjhm0UmRM",
+   "quase": true,
+   "canal": "tech",
+   "entrou": "2026-11-18T19:54:48.541798-03:00"
+  },
+  {
+   "id": "shopee-58260087298",
+   "plataforma": "Shopee",
+   "nome": "TP-Link EX1500 Roteador Wi-Fi 6 AX1500 Dual Band, 4 portas Gigabit",
+   "loja": "TP-Link Brasil",
+   "loja_oficial": true,
+   "preco": 179.0,
+   "preco_antigo": 248.61,
+   "desconto": 28,
+   "vendas": 292,
+   "nota": 4.9,
+   "comissao_pct": 8.0,
+   "imagem": "https://cf.shopee.com.br/file/br-11134207-820lq-mq5aj15b1hxd47",
+   "link": "https://s.shopee.com.br/6L66CUgCWk",
+   "quase": true,
+   "canal": "tech",
+   "entrou": "2026-11-18T19:54:48.541798-03:00"
+  }
+ ],
  "menus_fixados": [
   "v1 @papagarimpou",
   "v1 @papagarimpoumarcas",
@@ -23219,7 +23318,7 @@
   "airfryerphilcopfr15pg44l1500w": "2026-11-04T18:42:09.733592-03:00",
   "jogodepanelastramontinaacoinoxfundotriplo3pecas": "2026-11-04T18:53:13.244967-03:00",
   "tenisnewbalance574v2masculino": "2026-11-17T11:57:09.696400-03:00",
-  "desodorantecorporalnaturakaiako2masculino100ml": "2026-11-12T17:48:33.948160-03:00",
+  "desodorantecorporalnaturakaiako2masculino100ml": "2026-11-18T20:21:02.727951-03:00",
   "fonebluetoothankersoundcorep30icomanc": "2026-11-04T19:22:33.915284-03:00",
   "mousesemfiologitechm330silentplus": "2026-11-04T19:36:41.616437-03:00",
   "protetorsolarfaciallarocheposayanthelioscomcor": "2026-11-04T19:47:08.844079-03:00",
@@ -23435,7 +23534,7 @@
   "camisetabasicamasculinaheringsupercottoncombolso": "2026-11-08T13:14:27.193620-03:00",
   "ventiladormesamondialnvsp30b230cmsuperpowerii60w": "2026-11-17T08:53:20.390633-03:00",
   "tenisolympikusultraleve130gfeminino": "2026-11-08T14:05:06.127737-03:00",
-  "carregadorportatilbaseuspicogoam415000mah10000mah20wmagneticomagsafeusbc60wpowerbank": "2026-11-08T14:12:55.488332-03:00",
+  "carregadorportatilbaseuspicogoam415000mah10000mah20wmagneticomagsafeusbc60wpowerbank": "2026-11-18T20:08:45.000593-03:00",
   "desodorantecorporalnaturahomemcoragio100ml": "2026-11-08T14:30:20.393231-03:00",
   "tplinkex3000roteadorwifi6ax3000dualband4portasgigabit": "2026-11-08T14:47:15.342899-03:00",
   "cabousbdedadosmotorolaoriginalusbc1metro": "2026-11-18T17:55:55.314319-03:00",
@@ -24436,7 +24535,8 @@
   "kit2cuecasslipcalvinkleinalgodao": "2026-11-18T18:09:54.277161-03:00",
   "paneladepressaoeletricaelectrolux5l": "2026-11-18T18:17:02.460139-03:00",
   "kitcozinhatramontinaturim12pecaspanelasutensilios": "2026-11-18T18:25:28.466174-03:00",
-  "cafeteiraeletricamondialsmartcoffeec42110v": "2026-11-18T19:01:57.807566-03:00"
+  "cafeteiraeletricamondialsmartcoffeec42110v": "2026-11-18T19:01:57.807566-03:00",
+  "desodorantecorporalnaturakriskadrama100ml": "2026-11-18T20:00:26.090563-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
@@ -24854,14 +24954,14 @@
   "2026-11-13 noite achadinhos",
   "2026-11-13 noite marcas"
  ],
- "reserva_meio": "2026-11-18T19:25:17.800105-03:00",
+ "reserva_meio": "2026-11-18T20:15:26.845860-03:00",
  "reserva_cheia": {
-  "achadinhos": "2026-11-18T12:06:12.457259-03:00",
-  "tech": "2026-11-18T15:25:15.950940-03:00",
-  "marcas": "2026-11-18T18:41:11.875397-03:00"
+  "achadinhos": "2026-11-18T19:35:54.772091-03:00",
+  "tech": "2026-11-18T19:54:48.541798-03:00",
+  "marcas": "2026-11-18T20:15:26.845860-03:00"
  },
  "top10_dia": "2026-11-14",
- "manuais_lidos": "2026-11-18T19:25:17.800105-03:00",
+ "manuais_lidos": "2026-11-18T20:08:16.855885-03:00",
  "reserva_resultado": {
   "2026-11-07": {
    "achadinhos": {
@@ -25048,8 +25148,8 @@
   "2026-11-18": {
    "achadinhos": {
     "busca": 0,
-    "quase": 7,
-    "reprise": 2
+    "quase": 8,
+    "reprise": 3
    },
    "marcas": {
     "busca": 0,
@@ -25058,7 +25158,7 @@
    },
    "tech": {
     "busca": 1,
-    "quase": 3,
+    "quase": 6,
     "reprise": 2
    }
   }
@@ -25129,7 +25229,7 @@
    "hora": "2026-11-18T18:33:26.755377-03:00"
   }
  },
- "ig_respondido_em": "2026-11-18T19:35:17.262207-03:00",
+ "ig_respondido_em": "2026-11-18T20:08:16.855885-03:00",
  "dm_auto": {
   "2026-11-11": {
    "com_palavra": 0,
@@ -25371,7 +25471,7 @@
    "feed": 3
   },
   "2026-11-18": {
-   "story": 27,
+   "story": 28,
    "feed": 3
   }
  },
