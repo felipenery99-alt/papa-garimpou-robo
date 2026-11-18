@@ -3502,8 +3502,8 @@
    "erro em 2026-11-17 achadinhos 21:52 amz-B076JK9GVS (envio ao Telegram): HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=60). Não postei.",
    "erro em 2026-11-17 achadinhos 21:54 amz-B0CMW94FDQ (envio ao Telegram): HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=60). Não postei."
   ],
-  "ultima_execucao": "22:52",
-  "execucoes": 29,
+  "ultima_execucao": "23:34",
+  "execucoes": 30,
   "telegram_posts": {
    "achadinhos": 48,
    "marcas": 32,
@@ -4759,7 +4759,7 @@
    "shopee-53217736131": "vendas longe",
    "shopee-22594500473": "vendas longe",
    "shopee-43830855940": "vendas longe",
-   "shopee-45517756218": "nota",
+   "shopee-45517756218": "vendas longe",
    "shopee-48769943177": "vendas longe",
    "shopee-48967761207": "vendas longe",
    "shopee-49667761129": "nota",
@@ -5129,7 +5129,7 @@
    "shopee-44712485682": "vendas longe",
    "shopee-23195372973": "vendas longe",
    "shopee-28134934148": "outro: marca fora da lista boa",
-   "shopee-44816369718": "desconto longe",
+   "shopee-44816369718": "vendas perto (125+)",
    "shopee-58219769743": "vendas longe",
    "shopee-58269502261": "vendas perto (125+)",
    "shopee-53755785391": "vendas longe",
@@ -7261,15 +7261,16 @@
    "shopee-23399869255": "nota",
    "shopee-22699879067": "nota",
    "shopee-22599874068": "nota",
-   "shopee-58271844991": "nota"
+   "shopee-58271844991": "nota",
+   "shopee-22398331609": "vendas longe"
   },
   "shopee_oficial": {
-   "vendas longe": 1817,
-   "nota": 1420,
-   "vendas perto (125+)": 109,
+   "vendas longe": 1819,
+   "nota": 1419,
+   "vendas perto (125+)": 110,
    "outro: marca fora da lista boa": 94,
    "aprovada": 77,
-   "desconto longe": 72,
+   "desconto longe": 71,
    "outro: palavra proibida: compatível": 29,
    "desconto perto (até 10 pts)": 23
   },
@@ -7560,12 +7561,12 @@
    "seguidores": 508,
    "posts": 131,
    "reach": 35,
-   "profile_views": 45,
+   "profile_views": 46,
    "website_clicks": 0,
    "stories_ativos": 25
   },
   "reels_alcance": {
-   "atualizado": "2026-11-17T22:52:19.596191-03:00",
+   "atualizado": "2026-11-17T23:34:23.593771-03:00",
    "itens": [
     {
      "id": "17986188335901519",

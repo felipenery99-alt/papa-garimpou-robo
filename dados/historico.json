@@ -21863,7 +21863,11 @@
   "v1 @papagarimpoumarcas",
   "v1 @papagarimpoutech",
   "v1 @papagarimpouofertas",
-  "bv1 @papagarimpouofertas"
+  "bv1 @papagarimpouofertas",
+  "bv2 @papagarimpouofertas",
+  "v2 @papagarimpou",
+  "v2 @papagarimpoumarcas",
+  "v2 @papagarimpoutech"
  ],
  "feed_dia": {
   "2026-11-15": 2,
@@ -23732,7 +23736,7 @@
   "marcas": "2026-11-12T17:56:29.409807-03:00"
  },
  "top10_dia": "2026-11-14",
- "manuais_lidos": "2026-11-17T23:08:31.879180-03:00",
+ "manuais_lidos": "2026-11-17T23:47:16.705160-03:00",
  "reserva_resultado": {
   "2026-11-07": {
    "achadinhos": {
@@ -23979,7 +23983,7 @@
    "hora": "2026-11-17T18:31:49.698687-03:00"
   }
  },
- "ig_respondido_em": "2026-11-17T23:08:31.879180-03:00",
+ "ig_respondido_em": "2026-11-17T23:47:16.705160-03:00",
  "dm_auto": {
   "2026-11-10": {
    "com_palavra": 0,
