@@ -1,10 +1,4 @@
 {
- "⚠️ Fila vazia (tech), último garimpo #/# #:# — abrir o app Claude e conferir as ": {
-  "primeiro": "2026-11-14T11:10+00:00",
-  "vezes": 2,
-  "ultimo": "2026-11-15T11:21+00:00",
-  "texto": "⚠️ Fila vazia (tech), último garimpo 14/11 18:18 — abrir o app Claude e conferir as rotinas"
- },
  "⚠️ Fila vazia (marcas), último garimpo #:# — abrir o app Claude e conferir as ro": {
   "primeiro": "2026-11-15T21:14+00:00",
   "vezes": 1,
@@ -79,9 +73,9 @@
  },
  "⚠️ Fila vazia (achadinhos), último garimpo #:# — abrir o app Claude e conferir a": {
   "primeiro": "2026-11-16T20:51+00:00",
-  "vezes": 2,
-  "ultimo": "2026-11-17T20:17+00:00",
-  "texto": "⚠️ Fila vazia (achadinhos), último garimpo 15:20 — abrir o app Claude e conferir as rotinas"
+  "vezes": 3,
+  "ultimo": "2026-11-18T14:34+00:00",
+  "texto": "⚠️ Fila vazia (achadinhos), último garimpo 08:16 — abrir o app Claude e conferir as rotinas"
  },
  "erro em #-#-# achadinhos #:# shopee-# (foto): # Server Error: Service Unavailabl": {
   "primeiro": "2026-11-17T14:27+00:00",
@@ -160,5 +154,11 @@
   "vezes": 1,
   "ultimo": "2026-11-18T00:55+00:00",
   "texto": "erro em 2026-11-17 achadinhos 21:54 amz-B0CMW94FDQ (envio ao Telegram): HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=60). Não postei."
+ },
+ "erro em #-#-# marcas #:# amz-B#GZJV#MB (envio ao Telegram): ('Connection aborted": {
+  "primeiro": "2026-11-18T14:36+00:00",
+  "vezes": 1,
+  "ultimo": "2026-11-18T14:36+00:00",
+  "texto": "erro em 2026-11-18 marcas 11:36 amz-B0GZJV56MB (envio ao Telegram): ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer')). Não postei."
  }
 }

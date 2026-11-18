@@ -1724,7 +1724,12 @@
   "2026-11-18 marcas 10:54 amz-B07MC18Q4P",
   "2026-11-18 tech 11:02 amz-B075KD78F8",
   "2026-11-18 achadinhos 11:09 shopee-23593120156",
-  "2026-11-18 marcas 11:17 amz-B0FXJ94HDR"
+  "2026-11-18 marcas 11:17 amz-B0FXJ94HDR",
+  "2026-11-18 achadinhos 11:26 shopee-23298467238",
+  "2026-11-18 marcas 11:33 amz-B07D13B3N1",
+  "2026-11-18 tech 11:43 amz-B0H8QHDDR7",
+  "2026-11-18 marcas 11:53 shopee-14788823787",
+  "2026-11-18 tech 12:01 amz-B0CFG58F67"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -2375,7 +2380,7 @@
   "amz-B07K1FVM4S": "2026-11-08T10:09:30.192281-03:00",
   "amz-B09NQNWT76": "2026-11-08T10:17:27.287354-03:00",
   "amz-B0DP6HXJNH": "2026-11-08T10:33:24.433851-03:00",
-  "shopee-23298467238": "2026-11-08T10:44:17.441370-03:00",
+  "shopee-23298467238": "2026-11-18T11:26:12.882548-03:00",
   "amz-B0DJ1QD7SL": "2026-11-08T10:59:23.961343-03:00",
   "amz-B0D5C1F58W": "2026-11-08T11:05:50.075043-03:00",
   "amz-B0D8DBW4NW": "2026-11-08T11:13:27.665287-03:00",
@@ -3362,7 +3367,11 @@
   "amz-B0921BLCG4": "2026-11-18T10:41:23.286187-03:00",
   "amz-B07MC18Q4P": "2026-11-18T10:54:58.523217-03:00",
   "amz-B075KD78F8": "2026-11-18T11:02:36.873406-03:00",
-  "amz-B0FXJ94HDR": "2026-11-18T11:17:26.569815-03:00"
+  "amz-B0FXJ94HDR": "2026-11-18T11:17:26.569815-03:00",
+  "amz-B07D13B3N1": "2026-11-18T11:33:01.858064-03:00",
+  "amz-B0H8QHDDR7": "2026-11-18T11:43:45.701183-03:00",
+  "shopee-14788823787": "2026-11-18T11:53:12.958216-03:00",
+  "amz-B0CFG58F67": "2026-11-18T12:01:44.422967-03:00"
  },
  "ofertas_dia": [
   {
@@ -21355,6 +21364,94 @@
    "preco_em": "2026-11-18T08:16:24-03:00",
    "entrou": "2026-11-18T08:17:23.392412-03:00",
    "dia": "2026-11-18"
+  },
+  {
+   "id": "shopee-23298467238",
+   "plataforma": "Shopee",
+   "nome": "Faqueiro Inox Tramontina Ipanema 30 Peças Jogo De Talheres Cor Preto",
+   "loja": "MONTLAR",
+   "loja_oficial": true,
+   "preco": 86.49,
+   "preco_antigo": 129.09,
+   "desconto": 33,
+   "vendas": 307,
+   "nota": 5.0,
+   "comissao_pct": 3.0,
+   "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mbs24ze44pqx41",
+   "link": "https://s.shopee.com.br/1C1hFs7ou",
+   "canal": "achadinhos",
+   "entrou": "2026-11-18T09:02:39.963437-03:00",
+   "dia": "2026-11-18"
+  },
+  {
+   "id": "amz-B07D13B3N1",
+   "canal": "marcas",
+   "nome": "Camiseta Under Armour UA Tech 2.0",
+   "preco_antigo": 149.9,
+   "preco": 89.99,
+   "desconto": 40,
+   "link": "https://www.amazon.com.br/dp/B07D13B3N1?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/81cX5SrwD8L._AC_SL1500_.jpg",
+   "loja": "Vendido pela Netshoes · entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-19T22:00:00-03:00",
+   "coletado_em": "2026-11-18T08:16:24-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "preco_em": "2026-11-18T08:16:24-03:00",
+   "entrou": "2026-11-18T08:17:23.392412-03:00",
+   "dia": "2026-11-18"
+  },
+  {
+   "id": "amz-B0H8QHDDR7",
+   "canal": "tech",
+   "nome": "Caixa de Som JBL PartyBox Club 130 Bluetooth",
+   "preco_antigo": 2499.0,
+   "preco": 1748.92,
+   "desconto": 30,
+   "link": "https://www.amazon.com.br/dp/B0H8QHDDR7?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61SfawW2XfL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-19T22:00:00-03:00",
+   "coletado_em": "2026-11-18T08:15:10-03:00",
+   "preco_em": "2026-11-18T08:15:10-03:00",
+   "entrou": "2026-11-18T08:17:23.392412-03:00",
+   "dia": "2026-11-18"
+  },
+  {
+   "id": "shopee-14788823787",
+   "plataforma": "Shopee",
+   "nome": "Kit De 10 Pares De Meias Lupo Cano Médio Unissex Em Algodão Tamanho 37 ao 44",
+   "loja": "Deccó",
+   "loja_oficial": true,
+   "preco": 87.99,
+   "preco_antigo": 159.98,
+   "desconto": 45,
+   "vendas": 978,
+   "nota": 4.9,
+   "comissao_pct": 7.0,
+   "imagem": "https://cf.shopee.com.br/file/br-11134207-820lc-mv5zhrhmr6kj7d",
+   "link": "https://s.shopee.com.br/6fiwaqgzki",
+   "canal": "marcas",
+   "entrou": "2026-11-18T09:02:39.963437-03:00",
+   "dia": "2026-11-18"
+  },
+  {
+   "id": "amz-B0CFG58F67",
+   "canal": "tech",
+   "nome": "Caixa de Som LG Xboom RNC9 Bluetooth 410W Função DJ",
+   "preco_antigo": 2173.0,
+   "preco": 1529.1,
+   "desconto": 30,
+   "link": "https://www.amazon.com.br/dp/B0CFG58F67?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61Ckf9g8HcL._AC_SL1500_.jpg",
+   "loja": "Vendido pela Magalu · entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-19T22:00:00-03:00",
+   "coletado_em": "2026-11-18T08:15:10-03:00",
+   "preco_em": "2026-11-18T08:15:10-03:00",
+   "entrou": "2026-11-18T08:17:23.392412-03:00",
+   "dia": "2026-11-18"
   }
  ],
  "ig_feitos": [
@@ -21485,10 +21582,13 @@
   "2026-11-18 09:40 story_convite",
   "2026-11-18 10:20 story_oferta",
   "2026-11-18 10:24 story_oferta",
-  "2026-11-18 11:11 story_oferta"
+  "2026-11-18 11:11 story_oferta",
+  "2026-11-18 feed",
+  "2026-11-18 11:50 carrossel_top5",
+  "2026-11-18 12:00 reels",
+  "2026-11-18 11:56 story_oferta"
  ],
  "ig_ofertas_usadas": [
-  "shopee-16168525614",
   "shopee-20111903242",
   "amz-B0BYK5T45C",
   "amz-B076X6TXTC",
@@ -21687,11 +21787,12 @@
   "nike-028312-54",
   "nike-058279-55",
   "nike-058825-ID",
-  "nike-024961-1G"
+  "nike-024961-1G",
+  "shopee-23298467238"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
- "ig_ultimo_reel": "2026-11-17T20:35:18.120638-03:00",
+ "ig_ultimo_reel": "2026-11-18T12:01:09.682364-03:00",
  "pecas_usadas": {
   "ac-preco-inflado": "2026-10-27",
   "dc-7-dias": "2026-10-27",
@@ -21817,72 +21918,6 @@
  "ultimo_pilar": "anticilada",
  "fila": [
   {
-   "id": "amz-B07D13B3N1",
-   "canal": "marcas",
-   "nome": "Camiseta Under Armour UA Tech 2.0",
-   "preco_antigo": 149.9,
-   "preco": 89.99,
-   "desconto": 40,
-   "link": "https://www.amazon.com.br/dp/B07D13B3N1?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/81cX5SrwD8L._AC_SL1500_.jpg",
-   "loja": "Vendido pela Netshoes · entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-19T22:00:00-03:00",
-   "coletado_em": "2026-11-18T08:16:24-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "preco_em": "2026-11-18T08:16:24-03:00",
-   "entrou": "2026-11-18T08:17:23.392412-03:00"
-  },
-  {
-   "id": "amz-B0GZJV56MB",
-   "canal": "marcas",
-   "nome": "Tênis Olympikus Challenger 6 Running Unissex",
-   "preco_antigo": 329.99,
-   "preco": 206.99,
-   "desconto": 37,
-   "link": "https://www.amazon.com.br/dp/B0GZJV56MB?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/71QGcBK1UfL._AC_SL1500_.jpg",
-   "loja": "Vendido pela Netshoes · entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-19T22:00:00-03:00",
-   "coletado_em": "2026-11-18T08:16:24-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "preco_em": "2026-11-18T08:16:24-03:00",
-   "entrou": "2026-11-18T08:17:23.392412-03:00"
-  },
-  {
-   "id": "amz-B0H8QHDDR7",
-   "canal": "tech",
-   "nome": "Caixa de Som JBL PartyBox Club 130 Bluetooth",
-   "preco_antigo": 2499.0,
-   "preco": 1748.92,
-   "desconto": 30,
-   "link": "https://www.amazon.com.br/dp/B0H8QHDDR7?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61SfawW2XfL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-19T22:00:00-03:00",
-   "coletado_em": "2026-11-18T08:15:10-03:00",
-   "preco_em": "2026-11-18T08:15:10-03:00",
-   "entrou": "2026-11-18T08:17:23.392412-03:00"
-  },
-  {
-   "id": "amz-B0CFG58F67",
-   "canal": "tech",
-   "nome": "Caixa de Som LG Xboom RNC9 Bluetooth 410W Função DJ",
-   "preco_antigo": 2173.0,
-   "preco": 1529.1,
-   "desconto": 30,
-   "link": "https://www.amazon.com.br/dp/B0CFG58F67?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61Ckf9g8HcL._AC_SL1500_.jpg",
-   "loja": "Vendido pela Magalu · entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-19T22:00:00-03:00",
-   "coletado_em": "2026-11-18T08:15:10-03:00",
-   "preco_em": "2026-11-18T08:15:10-03:00",
-   "entrou": "2026-11-18T08:17:23.392412-03:00"
-  },
-  {
    "id": "amz-B0BXNR9DB6",
    "canal": "tech",
    "nome": "Mouse sem Fio Logitech M240 Silent",
@@ -21995,40 +22030,6 @@
    "entrou": "2026-11-18T09:01:03.341670-03:00"
   },
   {
-   "id": "shopee-23298467238",
-   "plataforma": "Shopee",
-   "nome": "Faqueiro Inox Tramontina Ipanema 30 Peças Jogo De Talheres Cor Preto",
-   "loja": "MONTLAR",
-   "loja_oficial": true,
-   "preco": 86.49,
-   "preco_antigo": 129.09,
-   "desconto": 33,
-   "vendas": 307,
-   "nota": 5.0,
-   "comissao_pct": 3.0,
-   "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mbs24ze44pqx41",
-   "link": "https://s.shopee.com.br/1C1hFs7ou",
-   "canal": "achadinhos",
-   "entrou": "2026-11-18T09:02:39.963437-03:00"
-  },
-  {
-   "id": "shopee-14788823787",
-   "plataforma": "Shopee",
-   "nome": "Kit De 10 Pares De Meias Lupo Cano Médio Unissex Em Algodão Tamanho 37 ao 44",
-   "loja": "Deccó",
-   "loja_oficial": true,
-   "preco": 87.99,
-   "preco_antigo": 159.98,
-   "desconto": 45,
-   "vendas": 978,
-   "nota": 4.9,
-   "comissao_pct": 7.0,
-   "imagem": "https://cf.shopee.com.br/file/br-11134207-820lc-mv5zhrhmr6kj7d",
-   "link": "https://s.shopee.com.br/6fiwaqgzki",
-   "canal": "marcas",
-   "entrou": "2026-11-18T09:02:39.963437-03:00"
-  },
-  {
    "id": "shopee-22897053962",
    "plataforma": "Shopee",
    "nome": "Kit Com 3 Camisetas Masculinas Básicas Slim Hering",
@@ -22061,6 +22062,41 @@
    "link": "https://s.shopee.com.br/5LDZe5Uh4k",
    "canal": "marcas",
    "entrou": "2026-11-18T09:48:21.779484-03:00"
+  },
+  {
+   "id": "amz-B0GZJV56MB",
+   "canal": "marcas",
+   "nome": "Tênis Olympikus Challenger 6 Running Unissex",
+   "preco_antigo": 329.99,
+   "preco": 206.99,
+   "desconto": 37,
+   "link": "https://www.amazon.com.br/dp/B0GZJV56MB?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71QGcBK1UfL._AC_SL1500_.jpg",
+   "loja": "Vendido pela Netshoes · entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-19T22:00:00-03:00",
+   "coletado_em": "2026-11-18T08:16:24-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "preco_em": "2026-11-18T08:16:24-03:00",
+   "entrou": "2026-11-18T11:50:58.287390-03:00"
+  },
+  {
+   "id": "shopee-22493521596",
+   "plataforma": "Shopee",
+   "nome": "Tênis Olympikus Atmos Feminino Original",
+   "loja": "Cabana Magazine®",
+   "loja_oficial": true,
+   "preco": 153.56,
+   "preco_antigo": 210.36,
+   "desconto": 27,
+   "vendas": 282,
+   "nota": 4.9,
+   "comissao_pct": 13.0,
+   "imagem": "https://cf.shopee.com.br/file/br-11134207-820lw-mspog5ou4v0ncf",
+   "link": "https://s.shopee.com.br/6AmgdcRWNz",
+   "canal": "marcas",
+   "entrou": "2026-11-18T11:50:58.287390-03:00",
+   "reprise_dias": 7
   }
  ],
  "menus_fixados": [
@@ -22571,7 +22607,7 @@
   "perfumeversaceerosflameedp100mlmasculino": "2026-11-08T10:09:30.192281-03:00",
   "mousesemfiologitechsignaturem650": "2026-11-08T10:17:27.287354-03:00",
   "perfumearmafislandblissedp100mlmasculino": "2026-11-08T10:33:24.433851-03:00",
-  "faqueiroinoxtramontinaipanema30pecasjogodetalherescorpreto": "2026-11-08T10:44:17.441370-03:00",
+  "faqueiroinoxtramontinaipanema30pecasjogodetalherescorpreto": "2026-11-18T11:26:12.882548-03:00",
   "mousetrackballsemfiologitechergom575scliquesilencioso": "2026-11-08T10:59:23.961343-03:00",
   "perfumearmaniacquadigioparfummasculino": "2026-11-08T11:05:50.075043-03:00",
   "monitorgamerlg27ips100hzfullhd27ms500": "2026-11-08T11:13:27.665287-03:00",
@@ -23547,7 +23583,11 @@
   "aspiradorvertical2em1electroluxstk151450whepa": "2026-11-18T10:41:23.286187-03:00",
   "whey100pureintegralmedicabaunilha900g": "2026-11-18T10:54:58.523217-03:00",
   "combotecladoemousesemfiologitechmk345": "2026-11-18T11:02:36.873406-03:00",
-  "kit4cuecascalvinkleinlowrise": "2026-11-18T11:17:26.569815-03:00"
+  "kit4cuecascalvinkleinlowrise": "2026-11-18T11:17:26.569815-03:00",
+  "camisetaunderarmouruatech20": "2026-11-18T11:33:01.858064-03:00",
+  "caixadesomjblpartyboxclub130bluetooth": "2026-11-18T11:43:45.701183-03:00",
+  "kitde10paresdemeiaslupocanomediounissexemalgodaotamanho37ao44": "2026-11-18T11:53:12.958216-03:00",
+  "caixadesomlgxboomrnc9bluetooth410wfuncaodj": "2026-11-18T12:01:44.422967-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
@@ -23825,6 +23865,13 @@
    "shopee-9511754133",
    "shopee-52364763614",
    "shopee-20111903242"
+  ],
+  "2026-11-18": [
+   "shopee-29083433141",
+   "shopee-14788823787",
+   "shopee-23298467238",
+   "shopee-23593120156",
+   "shopee-11098381324"
   ]
  },
  "vendas_shopee": {},
@@ -23921,7 +23968,7 @@
  "pede_semana": "2026-47",
  "ultimo_garimpo": "2026-11-18T08:16:26-03:00",
  "vigia_aviso_post": "2026-11-09T18:27:03.734589-03:00",
- "vigia_aviso_garimpo": "2026-11-17T17:06:41.040750-03:00",
+ "vigia_aviso_garimpo": "2026-11-18T11:21:58.707839-03:00",
  "resumo_enviado": "2026-11-17",
  "token_conferido": "2026-11-18",
  "meta_token": {
@@ -23956,14 +24003,14 @@
   "2026-11-13 noite achadinhos",
   "2026-11-13 noite marcas"
  ],
- "reserva_meio": "2026-11-17T17:47:59.689804-03:00",
+ "reserva_meio": "2026-11-18T11:50:58.287390-03:00",
  "reserva_cheia": {
   "achadinhos": "2026-11-17T17:47:59.689804-03:00",
   "tech": "2026-11-14T11:56:11.521150-03:00",
   "marcas": "2026-11-12T17:56:29.409807-03:00"
  },
  "top10_dia": "2026-11-14",
- "manuais_lidos": "2026-11-18T11:17:06.565380-03:00",
+ "manuais_lidos": "2026-11-18T12:01:09.682364-03:00",
  "reserva_resultado": {
   "2026-11-07": {
    "achadinhos": {
@@ -24146,6 +24193,18 @@
     "quase": 0,
     "reprise": 0
    }
+  },
+  "2026-11-18": {
+   "achadinhos": {
+    "busca": 0,
+    "quase": 0,
+    "reprise": 0
+   },
+   "marcas": {
+    "busca": 0,
+    "quase": 0,
+    "reprise": 1
+   }
   }
  },
  "ig_reels_log": {
@@ -24210,7 +24269,7 @@
    "hora": "2026-11-17T18:31:49.698687-03:00"
   }
  },
- "ig_respondido_em": "2026-11-18T11:17:06.565380-03:00",
+ "ig_respondido_em": "2026-11-18T12:01:09.682364-03:00",
  "dm_auto": {
   "2026-11-11": {
    "com_palavra": 0,
@@ -24288,26 +24347,6 @@
   }
  },
  "tiktok": {
-  "2026-11-10": [
-   {
-    "hora": "12:06",
-    "capa": "ate_off",
-    "legenda": "Manda pra quem tá precisando disso 👇\n😎💎 Até 43% OFF em marca boa: os 5 achados do Papa hoje\n\nLink no perfil: ofertas todo dia no Telegram do Papa 💎\n\nPubli · link de afiliado",
-    "url": "https://raw.githubusercontent.com/felipenery99-alt/papa-garimpou-robo/midia-temp/20261110-1206-tiktok.mp4"
-   },
-   {
-    "hora": "18:37",
-    "capa": "uma_oferta",
-    "legenda": "Manda pra quem tá precisando disso 👇\n😎💎 Kit 6 Pares Meias Lupo Cano Médio Alto Longo Algodão Original Casual Confortável Atoalhada\n\nLink no perfil: ofertas todo dia no Telegram do Papa 💎\n\nPubli · link de afiliado",
-    "url": "https://raw.githubusercontent.com/felipenery99-alt/papa-garimpou-robo/midia-temp/20261110-1837-tiktok.mp4"
-   },
-   {
-    "hora": "20:31",
-    "capa": "ate_off",
-    "legenda": "Manda pra quem tá precisando disso 👇\n😎💎 Até 59% OFF em marca boa: os 5 achados do Papa hoje\n\nLink no perfil: ofertas todo dia no Telegram do Papa 💎\n\nPubli · link de afiliado",
-    "url": "https://raw.githubusercontent.com/felipenery99-alt/papa-garimpou-robo/midia-temp/20261110-2031-tiktok.mp4"
-   }
-  ],
   "2026-11-11": [
    {
     "hora": "12:05",
@@ -24441,6 +24480,14 @@
     "legenda": "Manda pra quem tá precisando disso 👇\n😎💎 Até 73% OFF em marca boa: os 5 achados do Papa hoje\n\nOfertas todo dia no Telegram: papagarimpouofertas 💎\n\nPubli · link de afiliado",
     "url": "https://raw.githubusercontent.com/felipenery99-alt/papa-garimpou-robo/tiktok-midia/20261117-2035-tiktok.mp4"
    }
+  ],
+  "2026-11-18": [
+   {
+    "hora": "12:01",
+    "capa": "ate_off",
+    "legenda": "Manda pra quem tá precisando disso 👇\n😎💎 Até 52% OFF em marca boa: os 5 achados do Papa hoje\n\nOfertas todo dia no Telegram: papagarimpouofertas 💎\n\nPubli · link de afiliado",
+    "url": "https://raw.githubusercontent.com/felipenery99-alt/papa-garimpou-robo/tiktok-midia/20261118-1201-tiktok.mp4"
+   }
   ]
  },
  "amz_visto": {},
@@ -24458,8 +24505,8 @@
    "feed": 3
   },
   "2026-11-18": {
-   "story": 10,
-   "feed": 0
+   "story": 11,
+   "feed": 1
   }
  },
  "ig_conta_ok": "2026-11-18",
