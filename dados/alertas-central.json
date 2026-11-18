@@ -130,5 +130,29 @@
   "vezes": 2,
   "ultimo": "2026-11-18T00:15+00:00",
   "texto": "erro em 2026-11-17 marcas 21:15 nike-024961-1G (foto): cannot identify image file <_io.BytesIO object at 0x7e5de0be6c50>. Não postei."
+ },
+ "erro em #-#-# achadinhos #:# amz-B#GHL#B# (envio ao Telegram): Telegram recusou:": {
+  "primeiro": "2026-11-18T00:43+00:00",
+  "vezes": 1,
+  "ultimo": "2026-11-18T00:43+00:00",
+  "texto": "erro em 2026-11-17 achadinhos 21:43 amz-B09GHL35B3 (envio ao Telegram): Telegram recusou: {'ok': False, 'error_code': 502, 'description': 'Bad Gateway'}. Não postei."
+ },
+ "erro em #-#-# achadinhos #:# amz-B#DMTYSX#Y (envio ao Telegram): Telegram recuso": {
+  "primeiro": "2026-11-18T00:47+00:00",
+  "vezes": 1,
+  "ultimo": "2026-11-18T00:47+00:00",
+  "texto": "erro em 2026-11-17 achadinhos 21:47 amz-B0DMTYSX8Y (envio ao Telegram): Telegram recusou: {'ok': False, 'error_code': 502, 'description': 'Bad Gateway'}. Não postei."
+ },
+ "erro em #-#-# achadinhos #:# amz-B#F#QN#FKK (envio ao Telegram): Telegram recuso": {
+  "primeiro": "2026-11-18T00:47+00:00",
+  "vezes": 1,
+  "ultimo": "2026-11-18T00:47+00:00",
+  "texto": "erro em 2026-11-17 achadinhos 21:47 amz-B0F3QN6FKK (envio ao Telegram): Telegram recusou: {'ok': False, 'error_code': 502, 'description': 'Bad Gateway'}. Não postei."
+ },
+ "erro em #-#-# achadinhos #:# amz-B#JK#GVS (envio ao Telegram): HTTPSConnectionPo": {
+  "primeiro": "2026-11-18T00:53+00:00",
+  "vezes": 1,
+  "ultimo": "2026-11-18T00:53+00:00",
+  "texto": "erro em 2026-11-17 achadinhos 21:52 amz-B076JK9GVS (envio ao Telegram): HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=60). Não postei."
  }
 }

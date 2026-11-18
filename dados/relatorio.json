@@ -3495,18 +3495,22 @@
    "erro em 2026-11-17 marcas 21:12 nike-058825-ID (foto): cannot identify image file <_io.BytesIO object at 0x7e5de0dd24d0>. Não postei.",
    "erro em 2026-11-17 marcas 21:15 nike-024961-1G (foto): cannot identify image file <_io.BytesIO object at 0x7e5de0be6c50>. Não postei.",
    "erro em 2026-11-17 marcas 21:22 nike-028312-54 (foto): cannot identify image file <_io.BytesIO object at 0x7e5de09a6ac0>. Não postei.",
-   "erro em 2026-11-17 marcas 21:30 nike-058279-55 (foto): cannot identify image file <_io.BytesIO object at 0x7e5de0dd23e0>. Não postei."
+   "erro em 2026-11-17 marcas 21:30 nike-058279-55 (foto): cannot identify image file <_io.BytesIO object at 0x7e5de0dd23e0>. Não postei.",
+   "erro em 2026-11-17 achadinhos 21:43 amz-B09GHL35B3 (envio ao Telegram): Telegram recusou: {'ok': False, 'error_code': 502, 'description': 'Bad Gateway'}. Não postei.",
+   "erro em 2026-11-17 achadinhos 21:47 amz-B0DMTYSX8Y (envio ao Telegram): Telegram recusou: {'ok': False, 'error_code': 502, 'description': 'Bad Gateway'}. Não postei.",
+   "erro em 2026-11-17 achadinhos 21:47 amz-B0F3QN6FKK (envio ao Telegram): Telegram recusou: {'ok': False, 'error_code': 502, 'description': 'Bad Gateway'}. Não postei.",
+   "erro em 2026-11-17 achadinhos 21:52 amz-B076JK9GVS (envio ao Telegram): HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=60). Não postei."
   ],
-  "ultima_execucao": "21:02",
-  "execucoes": 25,
+  "ultima_execucao": "21:34",
+  "execucoes": 26,
   "telegram_posts": {
    "achadinhos": 47,
-   "marcas": 31,
+   "marcas": 32,
    "tech": 20
   },
   "ultimo_post": {
    "achadinhos": "20:35",
-   "marcas": "20:02",
+   "marcas": "21:34",
    "tech": "20:48"
   },
   "meta_token": {
@@ -5641,7 +5645,7 @@
    "shopee-43430912812": "aprovada",
    "shopee-50559775356": "aprovada",
    "shopee-45758904446": "vendas perto (125+)",
-   "shopee-22493521596": "desconto perto (até 10 pts)",
+   "shopee-22493521596": "desconto longe",
    "shopee-56159571991": "aprovada",
    "shopee-58265921131": "vendas longe",
    "shopee-58265908859": "vendas longe",
@@ -6874,7 +6878,7 @@
    "shopee-21899843801": "vendas longe",
    "shopee-58261819813": "vendas longe",
    "shopee-22594316963": "vendas longe",
-   "shopee-58219288609": "nota",
+   "shopee-58219288609": "vendas longe",
    "shopee-22598803582": "vendas longe",
    "shopee-22994028402": "vendas longe",
    "shopee-49256310032": "nota",
@@ -7207,17 +7211,36 @@
    "shopee-19199611579": "vendas longe",
    "shopee-22994451783": "nota",
    "shopee-22394299565": "vendas longe",
-   "shopee-57061308811": "nota"
+   "shopee-57061308811": "nota",
+   "shopee-58203288128": "vendas longe",
+   "shopee-22495288102": "vendas longe",
+   "shopee-43919258928": "vendas longe",
+   "shopee-23892521843": "vendas longe",
+   "shopee-20245224076": "vendas longe",
+   "shopee-46952855898": "vendas longe",
+   "shopee-23894135841": "vendas longe",
+   "shopee-58269351887": "vendas longe",
+   "shopee-23299018764": "vendas longe",
+   "shopee-22394933479": "vendas longe",
+   "shopee-22194179282": "vendas longe",
+   "shopee-23793046294": "nota",
+   "shopee-22393512159": "vendas longe",
+   "shopee-58273217414": "nota",
+   "shopee-58223194547": "nota",
+   "shopee-23997607946": "vendas longe",
+   "shopee-19897748585": "vendas longe",
+   "shopee-19497729331": "nota",
+   "shopee-22593122007": "nota"
   },
   "shopee_oficial": {
-   "vendas longe": 1801,
-   "nota": 1387,
+   "vendas longe": 1816,
+   "nota": 1391,
    "vendas perto (125+)": 109,
    "outro: marca fora da lista boa": 94,
    "aprovada": 75,
-   "desconto longe": 73,
+   "desconto longe": 74,
    "outro: palavra proibida: compatível": 29,
-   "desconto perto (até 10 pts)": 24
+   "desconto perto (até 10 pts)": 23
   },
   "manuais_descartados_ids": {
    "amz-B08YF6JTNB": "ja_postado_30d",
@@ -7495,21 +7518,22 @@
    "amz-B07VFC3F8J": "ja_postado_30d",
    "amz-B09CB7MJMX": "ja_postado_30d",
    "amz-B079VRBQ23": "ja_postado_30d",
-   "amz-B0FPPCBRML": "ja_postado_30d"
+   "amz-B0FPPCBRML": "ja_postado_30d",
+   "nike-029398-54": "ja_postado_30d"
   },
   "manuais_descartados": {
-   "ja_postado_30d": 276
+   "ja_postado_30d": 277
   },
   "instagram": {
-   "seguidores": 506,
+   "seguidores": 507,
    "posts": 131,
-   "reach": 34,
-   "profile_views": 40,
+   "reach": 35,
+   "profile_views": 41,
    "website_clicks": 0,
    "stories_ativos": 25
   },
   "reels_alcance": {
-   "atualizado": "2026-11-17T21:02:57.178963-03:00",
+   "atualizado": "2026-11-17T21:34:35.272174-03:00",
    "itens": [
     {
      "id": "17986188335901519",

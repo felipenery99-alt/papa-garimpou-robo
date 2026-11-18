@@ -1697,7 +1697,8 @@
   "2026-11-17 achadinhos 20:24 amz-B07VFC3F8J",
   "2026-11-17 achadinhos 20:31 amz-B09CB7MJMX",
   "2026-11-17 achadinhos 20:35 amz-B079VRBQ23",
-  "2026-11-17 tech 20:48 amz-B0FPPCBRML"
+  "2026-11-17 tech 20:48 amz-B0FPPCBRML",
+  "2026-11-17 marcas 21:34 nike-029398-54"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -3311,7 +3312,8 @@
   "amz-B07VFC3F8J": "2026-11-17T20:24:55.426536-03:00",
   "amz-B09CB7MJMX": "2026-11-17T20:31:04.816793-03:00",
   "amz-B079VRBQ23": "2026-11-17T20:35:57.678923-03:00",
-  "amz-B0FPPCBRML": "2026-11-17T20:48:57.201762-03:00"
+  "amz-B0FPPCBRML": "2026-11-17T20:48:57.201762-03:00",
+  "nike-029398-54": "2026-11-17T21:34:35.283712-03:00"
  },
  "ofertas_dia": [
   {
@@ -21040,6 +21042,26 @@
    "preco_em": "2026-11-17T18:19:41-03:00",
    "entrou": "2026-11-17T18:31:49.698687-03:00",
    "dia": "2026-11-17"
+  },
+  {
+   "id": "nike-029398-54",
+   "canal": "marcas",
+   "nome": "Tênis Nike Pegasus Plus Feminino",
+   "preco_antigo": 1299.99,
+   "preco": 827.05,
+   "desconto": 36,
+   "cupom": "BLACK30",
+   "pix": 785.7,
+   "extra": "Cupom BLACK30 (30% em selecionados, até 19/11) · no Pix R$ 785,70",
+   "link": "https://www.awin1.com/cread.php?awinmid=17652&awinaffid=3137490&ued=https%3A%2F%2Fwww.nike.com.br%2Ftenis-nike-pegasus-plus-feminino-029398.html%3Fcor%3D54",
+   "imagem": "https://imgnike-a.akamaihd.net/1300x1300/02939854.jpg",
+   "loja": "Loja oficial Nike",
+   "plataforma": "Nike",
+   "valida_ate": "2026-11-19T23:59:00-03:00",
+   "preco_em": "2026-11-17T18:20:00-03:00",
+   "coletado_em": "2026-11-17T18:20:00-03:00",
+   "entrou": "2026-11-17T21:15:42.818264-03:00",
+   "dia": "2026-11-17"
   }
  ],
  "ig_feitos": [
@@ -21515,70 +21537,6 @@
  "ultimo_pilar": "anticilada",
  "fila": [
   {
-   "id": "amz-B09GHL35B3",
-   "canal": "achadinhos",
-   "nome": "Ferro a Vapor Philips Walita",
-   "preco_antigo": 439.9,
-   "preco": 243.04,
-   "desconto": 45,
-   "link": "https://www.amazon.com.br/dp/B09GHL35B3?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/71QVoX7bVRL.jpg",
-   "loja": "Vendido por parceiro · entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-18T22:00:00-03:00",
-   "coletado_em": "2026-11-17T18:19:41-03:00",
-   "preco_em": "2026-11-17T18:19:41-03:00",
-   "entrou": "2026-11-17T18:31:49.698687-03:00"
-  },
-  {
-   "id": "amz-B0DMTYSX8Y",
-   "canal": "achadinhos",
-   "nome": "Copo Térmico Stanley Flip Straw Tumbler",
-   "preco_antigo": 319.0,
-   "preco": 173.88,
-   "desconto": 45,
-   "link": "https://www.amazon.com.br/dp/B0DMTYSX8Y?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/41in1W8a3QL.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-18T22:00:00-03:00",
-   "coletado_em": "2026-11-17T18:19:41-03:00",
-   "preco_em": "2026-11-17T18:19:41-03:00",
-   "entrou": "2026-11-17T18:31:49.698687-03:00"
-  },
-  {
-   "id": "amz-B0F3QN6FKK",
-   "canal": "achadinhos",
-   "nome": "Ferro a Vapor Philips Walita (modelo compacto)",
-   "preco_antigo": 219.9,
-   "preco": 139.9,
-   "desconto": 36,
-   "link": "https://www.amazon.com.br/dp/B0F3QN6FKK?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51PfmZlabDL.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-18T22:00:00-03:00",
-   "coletado_em": "2026-11-17T18:19:41-03:00",
-   "preco_em": "2026-11-17T18:19:41-03:00",
-   "entrou": "2026-11-17T18:31:49.698687-03:00"
-  },
-  {
-   "id": "amz-B076JK9GVS",
-   "canal": "achadinhos",
-   "nome": "Faca para Carne 8\" Tramontina",
-   "preco_antigo": 69.99,
-   "preco": 42.74,
-   "desconto": 39,
-   "link": "https://www.amazon.com.br/dp/B076JK9GVS?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/41LwTBa4GwL.jpg",
-   "loja": "Vendido por parceiro · entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-18T22:00:00-03:00",
-   "coletado_em": "2026-11-17T18:19:41-03:00",
-   "preco_em": "2026-11-17T18:19:41-03:00",
-   "entrou": "2026-11-17T18:31:49.698687-03:00"
-  },
-  {
    "id": "amz-B0CMW94FDQ",
    "canal": "achadinhos",
    "nome": "Secador Taiff Unique 3100W",
@@ -21739,25 +21697,6 @@
    "entrou": "2026-11-17T20:48:56.806698-03:00"
   },
   {
-   "id": "nike-029398-54",
-   "canal": "marcas",
-   "nome": "Tênis Nike Pegasus Plus Feminino",
-   "preco_antigo": 1299.99,
-   "preco": 827.05,
-   "desconto": 36,
-   "cupom": "BLACK30",
-   "pix": 785.7,
-   "extra": "Cupom BLACK30 (30% em selecionados, até 19/11) · no Pix R$ 785,70",
-   "link": "https://www.awin1.com/cread.php?awinmid=17652&awinaffid=3137490&ued=https%3A%2F%2Fwww.nike.com.br%2Ftenis-nike-pegasus-plus-feminino-029398.html%3Fcor%3D54",
-   "imagem": "https://imgnike-a.akamaihd.net/1300x1300/02939854.jpg",
-   "loja": "Loja oficial Nike",
-   "plataforma": "Nike",
-   "valida_ate": "2026-11-19T23:59:00-03:00",
-   "preco_em": "2026-11-17T18:20:00-03:00",
-   "coletado_em": "2026-11-17T18:20:00-03:00",
-   "entrou": "2026-11-17T21:15:42.818264-03:00"
-  },
-  {
    "id": "nike-058825-ID",
    "canal": "marcas",
    "nome": "Camisa Nike Corinthians II 2025/26 Torcedor Pro Masculina",
@@ -21813,6 +21752,73 @@
    "preco_em": "2026-11-17T18:20:00-03:00",
    "coletado_em": "2026-11-17T18:20:00-03:00",
    "entrou": "2026-11-17T21:30:30.823921-03:00"
+  },
+  {
+   "id": "nike-058279-55",
+   "canal": "marcas",
+   "nome": "Tênis Nike Zoom Fly 6 Feminino",
+   "preco_antigo": 1499.99,
+   "preco": 902.24,
+   "desconto": 40,
+   "cupom": "BLACK30",
+   "pix": 857.13,
+   "extra": "Cupom BLACK30 (30% em selecionados, até 19/11) · no Pix R$ 857,13",
+   "link": "https://www.awin1.com/cread.php?awinmid=17652&awinaffid=3137490&ued=https%3A%2F%2Fwww.nike.com.br%2Ftenis-nike-zoom-fly-6-feminino-058279.html%3Fcor%3D55",
+   "imagem": "https://imgnike-a.akamaihd.net/1300x1300/05827955.jpg",
+   "loja": "Loja oficial Nike",
+   "plataforma": "Nike",
+   "valida_ate": "2026-11-19T23:59:00-03:00",
+   "preco_em": "2026-11-17T18:20:00-03:00",
+   "coletado_em": "2026-11-17T18:20:00-03:00",
+   "entrou": "2026-11-17T21:34:35.272174-03:00"
+  },
+  {
+   "id": "amz-B09GHL35B3",
+   "canal": "achadinhos",
+   "nome": "Ferro a Vapor Philips Walita",
+   "preco_antigo": 439.9,
+   "preco": 243.04,
+   "desconto": 45,
+   "link": "https://www.amazon.com.br/dp/B09GHL35B3?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71QVoX7bVRL.jpg",
+   "loja": "Vendido por parceiro · entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-18T22:00:00-03:00",
+   "coletado_em": "2026-11-17T18:19:41-03:00",
+   "preco_em": "2026-11-17T18:19:41-03:00",
+   "entrou": "2026-11-17T21:52:46.715800-03:00"
+  },
+  {
+   "id": "amz-B0DMTYSX8Y",
+   "canal": "achadinhos",
+   "nome": "Copo Térmico Stanley Flip Straw Tumbler",
+   "preco_antigo": 319.0,
+   "preco": 173.88,
+   "desconto": 45,
+   "link": "https://www.amazon.com.br/dp/B0DMTYSX8Y?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/41in1W8a3QL.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-18T22:00:00-03:00",
+   "coletado_em": "2026-11-17T18:19:41-03:00",
+   "preco_em": "2026-11-17T18:19:41-03:00",
+   "entrou": "2026-11-17T21:52:46.715800-03:00"
+  },
+  {
+   "id": "amz-B0F3QN6FKK",
+   "canal": "achadinhos",
+   "nome": "Ferro a Vapor Philips Walita (modelo compacto)",
+   "preco_antigo": 219.9,
+   "preco": 139.9,
+   "desconto": 36,
+   "link": "https://www.amazon.com.br/dp/B0F3QN6FKK?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51PfmZlabDL.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-18T22:00:00-03:00",
+   "coletado_em": "2026-11-17T18:19:41-03:00",
+   "preco_em": "2026-11-17T18:19:41-03:00",
+   "entrou": "2026-11-17T21:52:46.715800-03:00"
   }
  ],
  "menus_fixados": [
@@ -23271,7 +23277,8 @@
   "lorealparisrevitalifthialuronico": "2026-11-17T20:24:55.426536-03:00",
   "cafeteiraeletricaelectrolux": "2026-11-17T20:31:04.816793-03:00",
   "hidratantelabialniveamorangoshine48g": "2026-11-17T20:35:57.678923-03:00",
-  "samsunggalaxya175g": "2026-11-17T20:48:57.201762-03:00"
+  "samsunggalaxya175g": "2026-11-17T20:48:57.201762-03:00",
+  "tenisnikepegasusplusfeminino": "2026-11-17T21:34:35.283712-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
@@ -23687,7 +23694,7 @@
   "marcas": "2026-11-12T17:56:29.409807-03:00"
  },
  "top10_dia": "2026-11-14",
- "manuais_lidos": "2026-11-17T21:30:30.823921-03:00",
+ "manuais_lidos": "2026-11-17T21:52:46.715800-03:00",
  "reserva_resultado": {
   "2026-11-07": {
    "achadinhos": {
@@ -23934,7 +23941,7 @@
    "hora": "2026-11-17T18:31:49.698687-03:00"
   }
  },
- "ig_respondido_em": "2026-11-17T21:30:30.823921-03:00",
+ "ig_respondido_em": "2026-11-17T21:52:46.715800-03:00",
  "dm_auto": {
   "2026-11-10": {
    "com_palavra": 0,
