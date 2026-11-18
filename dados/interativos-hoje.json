@@ -30,6 +30,30 @@
      "canal": "achadinhos"
     }
    ]
+  },
+  {
+   "tipo": "a_ou_b",
+   "hora": "18:09",
+   "produtos": [
+    {
+     "nome": "Caixa de Som Portátil Bluetooth JBL Boombox 4 34HRS 210W IP68 Azul",
+     "preco_antigo": 5198.0,
+     "preco": 2599.0,
+     "desconto": 50,
+     "link": "https://s.shopee.com.br/1qdh911pkV",
+     "loja": "Rep Store",
+     "canal": "tech"
+    },
+    {
+     "nome": "Smartphone Motorola Moto G06 4G 256GB 4GB RAM Câmera Traseira 50MP + Câmera Frontal 8MP Tela de 6,9\" 5200 mAh -  Bege",
+     "preco_antigo": 1498.61,
+     "preco": 1079.0,
+     "desconto": 28,
+     "link": "https://s.shopee.com.br/4qHIieMqrc",
+     "loja": "MOBCOM STORE",
+     "canal": "tech"
+    }
+   ]
   }
  ]
 }

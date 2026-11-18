@@ -1771,7 +1771,13 @@
   "2026-11-18 marcas 17:03 amz-B09LQGKF2J",
   "2026-11-18 tech 17:11 shopee-23899333842",
   "2026-11-18 achadinhos 17:17 amz-B076BB1XPG",
-  "2026-11-18 marcas 17:25 amz-B0GMJWK9VX"
+  "2026-11-18 marcas 17:25 amz-B0GMJWK9VX",
+  "2026-11-18 achadinhos 17:32 amz-B07K2CFGKL",
+  "2026-11-18 achadinhos 17:40 amz-B0BJH7DBPK",
+  "2026-11-18 marcas 17:47 amz-B0GTR9N84L",
+  "2026-11-18 tech 17:55 shopee-11444965462",
+  "2026-11-18 achadinhos 18:03 amz-B07SD5K7LR",
+  "2026-11-18 marcas 18:09 amz-B0C157D2FP"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -2445,7 +2451,7 @@
   "shopee-58002598728": "2026-11-08T14:12:55.488332-03:00",
   "shopee-49064981274": "2026-11-08T14:30:20.393231-03:00",
   "shopee-22195023298": "2026-11-08T14:47:15.342899-03:00",
-  "shopee-11444965462": "2026-11-12T18:00:40.086640-03:00",
+  "shopee-11444965462": "2026-11-18T17:55:55.314319-03:00",
   "shopee-22192651105": "2026-11-08T15:28:25.308685-03:00",
   "shopee-58206236149": "2026-11-16T12:56:15.055550-03:00",
   "shopee-58262394728": "2026-11-08T15:53:28.883076-03:00",
@@ -3446,7 +3452,12 @@
   "amz-B0DNQX9YFW": "2026-11-18T16:57:32.896110-03:00",
   "amz-B09LQGKF2J": "2026-11-18T17:03:41.979066-03:00",
   "amz-B076BB1XPG": "2026-11-18T17:17:59.879196-03:00",
-  "amz-B0GMJWK9VX": "2026-11-18T17:25:25.038889-03:00"
+  "amz-B0GMJWK9VX": "2026-11-18T17:25:25.038889-03:00",
+  "amz-B07K2CFGKL": "2026-11-18T17:32:21.263856-03:00",
+  "amz-B0BJH7DBPK": "2026-11-18T17:40:16.013156-03:00",
+  "amz-B0GTR9N84L": "2026-11-18T17:47:52.691789-03:00",
+  "amz-B07SD5K7LR": "2026-11-18T18:03:11.364370-03:00",
+  "amz-B0C157D2FP": "2026-11-18T18:09:54.277161-03:00"
  },
  "ofertas_dia": [
   {
@@ -22106,6 +22117,112 @@
    "preco_em": "2026-11-18T13:19:56-03:00",
    "entrou": "2026-11-18T13:32:10.785350-03:00",
    "dia": "2026-11-18"
+  },
+  {
+   "id": "amz-B07K2CFGKL",
+   "canal": "achadinhos",
+   "nome": "Chaleira Elétrica Britânia BCH02PI 1,8L 127V",
+   "preco_antigo": 139.0,
+   "preco": 79.9,
+   "desconto": 43,
+   "link": "https://www.amazon.com.br/dp/B07K2CFGKL?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/512lCOGugyL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-19T22:00:00-03:00",
+   "coletado_em": "2026-11-18T13:18:51-03:00",
+   "preco_em": "2026-11-18T13:18:51-03:00",
+   "entrou": "2026-11-18T13:32:10.785350-03:00",
+   "dia": "2026-11-18"
+  },
+  {
+   "id": "amz-B0BJH7DBPK",
+   "canal": "achadinhos",
+   "nome": "Escova Secadora Mondial ES-JU-02 Bivolt",
+   "preco_antigo": 289.9,
+   "preco": 149.99,
+   "desconto": 48,
+   "link": "https://www.amazon.com.br/dp/B0BJH7DBPK?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71qXXdlTGSL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-19T22:00:00-03:00",
+   "coletado_em": "2026-11-18T13:18:51-03:00",
+   "preco_em": "2026-11-18T13:18:51-03:00",
+   "entrou": "2026-11-18T17:40:11.160280-03:00",
+   "dia": "2026-11-18"
+  },
+  {
+   "id": "amz-B0GTR9N84L",
+   "canal": "marcas",
+   "nome": "Copo Stanley Quencher Peach Rose 591ml",
+   "preco_antigo": 289.0,
+   "preco": 144.5,
+   "desconto": 50,
+   "link": "https://www.amazon.com.br/dp/B0GTR9N84L?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/41JhfhTsVYL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-19T22:00:00-03:00",
+   "coletado_em": "2026-11-18T13:18:51-03:00",
+   "preco_em": "2026-11-18T13:18:51-03:00",
+   "entrou": "2026-11-18T14:50:17.217721-03:00",
+   "dia": "2026-11-18"
+  },
+  {
+   "id": "shopee-11444965462",
+   "plataforma": "Shopee",
+   "nome": "Cabo USB De Dados Motorola Original Usb-C 1 Metro",
+   "loja": "Distribuidor de Acessórios Motorola",
+   "loja_oficial": true,
+   "preco": 35.0,
+   "preco_antigo": 50.0,
+   "desconto": 30,
+   "vendas": 218,
+   "nota": 4.9,
+   "comissao_pct": 16.0,
+   "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lsidpa3luxizbe",
+   "link": "https://s.shopee.com.br/3B94jabzoI",
+   "quase": true,
+   "canal": "tech",
+   "entrou": "2026-11-18T15:25:15.950940-03:00",
+   "reprise_dias": 3,
+   "dia": "2026-11-18"
+  },
+  {
+   "id": "amz-B07SD5K7LR",
+   "canal": "achadinhos",
+   "nome": "Mixer Arno TurboMix Pro 400W 3 em 1 com Processador",
+   "preco_antigo": 219.99,
+   "preco": 149.0,
+   "desconto": 32,
+   "link": "https://www.amazon.com.br/dp/B07SD5K7LR?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/41+S1bh7dyL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-19T22:00:00-03:00",
+   "coletado_em": "2026-11-18T13:18:51-03:00",
+   "preco_em": "2026-11-18T13:18:51-03:00",
+   "entrou": "2026-11-18T17:40:11.160280-03:00",
+   "dia": "2026-11-18"
+  },
+  {
+   "id": "amz-B0C157D2FP",
+   "canal": "marcas",
+   "nome": "Kit 2 Cuecas Slip Calvin Klein Algodão",
+   "preco_antigo": 188.99,
+   "preco": 129.99,
+   "desconto": 31,
+   "link": "https://www.amazon.com.br/dp/B0C157D2FP?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71tYHB8Bc3L._AC_SL1500_.jpg",
+   "loja": "Vendido por parceiro · entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-19T22:00:00-03:00",
+   "coletado_em": "2026-11-18T13:19:56-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "preco_em": "2026-11-18T13:19:56-03:00",
+   "entrou": "2026-11-18T17:40:11.160280-03:00",
+   "dia": "2026-11-18"
   }
  ],
  "ig_feitos": [
@@ -22251,11 +22368,12 @@
   "2026-11-18 15:00 adivinha",
   "2026-11-18 15:03 story_oferta",
   "2026-11-18 16:05 adivinha_resposta",
-  "2026-11-18 16:44 story_oferta"
+  "2026-11-18 16:44 story_oferta",
+  "story especial pede-pro-papa 2026-11-18",
+  "2026-11-18 18:05 a_ou_b",
+  "2026-11-18 18:09 story_oferta"
  ],
  "ig_ofertas_usadas": [
-  "amz-B0H7FM41M4",
-  "amz-B0FQFPXPDS",
   "amz-B01GFYMUPM",
   "amz-B0FH3YBBB6",
   "amz-B0FPDW9PLB",
@@ -22453,7 +22571,9 @@
   "shopee-22092869191",
   "shopee-22493521596",
   "shopee-18199337362",
-  "shopee-55468658052"
+  "shopee-55468658052",
+  "shopee-23599230410",
+  "shopee-23899333842"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
@@ -22576,161 +22696,14 @@
   "ac-usado-novo": "2026-11-17",
   "bf-2026-11-18": "2026-11-18",
   "ac-perfume-barato": "2026-11-18",
-  "dc-ficha-tecnica": "2026-11-18"
+  "dc-ficha-tecnica": "2026-11-18",
+  "ac-app-cupom": "2026-11-18"
  },
  "pecas_dia": {
-  "2026-11-18": 3
+  "2026-11-18": 4
  },
- "ultimo_pilar": "dica",
+ "ultimo_pilar": "anticilada",
  "fila": [
-  {
-   "id": "amz-B07K2CFGKL",
-   "canal": "achadinhos",
-   "nome": "Chaleira Elétrica Britânia BCH02PI 1,8L 127V",
-   "preco_antigo": 139.0,
-   "preco": 79.9,
-   "desconto": 43,
-   "link": "https://www.amazon.com.br/dp/B07K2CFGKL?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/512lCOGugyL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-19T22:00:00-03:00",
-   "coletado_em": "2026-11-18T13:18:51-03:00",
-   "preco_em": "2026-11-18T13:18:51-03:00",
-   "entrou": "2026-11-18T13:32:10.785350-03:00"
-  },
-  {
-   "id": "amz-B0BJH7DBPK",
-   "canal": "achadinhos",
-   "nome": "Escova Secadora Mondial ES-JU-02 Bivolt",
-   "preco_antigo": 289.9,
-   "preco": 149.99,
-   "desconto": 48,
-   "link": "https://www.amazon.com.br/dp/B0BJH7DBPK?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/71qXXdlTGSL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-19T22:00:00-03:00",
-   "coletado_em": "2026-11-18T13:18:51-03:00",
-   "preco_em": "2026-11-18T13:18:51-03:00",
-   "entrou": "2026-11-18T13:32:10.785350-03:00"
-  },
-  {
-   "id": "amz-B07SD5K7LR",
-   "canal": "achadinhos",
-   "nome": "Mixer Arno TurboMix Pro 400W 3 em 1 com Processador",
-   "preco_antigo": 219.99,
-   "preco": 149.0,
-   "desconto": 32,
-   "link": "https://www.amazon.com.br/dp/B07SD5K7LR?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/41+S1bh7dyL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-19T22:00:00-03:00",
-   "coletado_em": "2026-11-18T13:18:51-03:00",
-   "preco_em": "2026-11-18T13:18:51-03:00",
-   "entrou": "2026-11-18T13:32:10.785350-03:00"
-  },
-  {
-   "id": "amz-B07BB3MT83",
-   "canal": "achadinhos",
-   "nome": "Panela de Pressão Elétrica Electrolux 5L",
-   "preco_antigo": 519.9,
-   "preco": 319.0,
-   "desconto": 39,
-   "link": "https://www.amazon.com.br/dp/B07BB3MT83?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51429bjUOCL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-19T22:00:00-03:00",
-   "coletado_em": "2026-11-18T13:18:51-03:00",
-   "preco_em": "2026-11-18T13:18:51-03:00",
-   "entrou": "2026-11-18T13:32:10.785350-03:00"
-  },
-  {
-   "id": "amz-B0H6QGYFNT",
-   "canal": "achadinhos",
-   "nome": "Kit Cozinha Tramontina Turim 12 peças (panelas + utensílios)",
-   "preco_antigo": 599.9,
-   "preco": 329.9,
-   "desconto": 45,
-   "link": "https://www.amazon.com.br/dp/B0H6QGYFNT?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61NE-7YOX7L._AC_SL1500_.jpg",
-   "loja": "Vendido por parceiro · entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-19T22:00:00-03:00",
-   "coletado_em": "2026-11-18T13:18:51-03:00",
-   "preco_em": "2026-11-18T13:18:51-03:00",
-   "entrou": "2026-11-18T13:32:10.785350-03:00"
-  },
-  {
-   "id": "amz-B08HZHHQK9",
-   "canal": "achadinhos",
-   "nome": "Cafeteira Elétrica Mondial Smart Coffee C-42 110V",
-   "preco_antigo": 169.9,
-   "preco": 103.45,
-   "desconto": 39,
-   "link": "https://www.amazon.com.br/dp/B08HZHHQK9?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/717zmxGJP9L._AC_SL1500_.jpg",
-   "loja": "Vendido por parceiro · entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-19T22:00:00-03:00",
-   "coletado_em": "2026-11-18T13:18:51-03:00",
-   "preco_em": "2026-11-18T13:18:51-03:00",
-   "entrou": "2026-11-18T13:32:10.785350-03:00"
-  },
-  {
-   "id": "amz-B0C157D2FP",
-   "canal": "marcas",
-   "nome": "Kit 2 Cuecas Slip Calvin Klein Algodão",
-   "preco_antigo": 188.99,
-   "preco": 129.99,
-   "desconto": 31,
-   "link": "https://www.amazon.com.br/dp/B0C157D2FP?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/71tYHB8Bc3L._AC_SL1500_.jpg",
-   "loja": "Vendido por parceiro · entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-19T22:00:00-03:00",
-   "coletado_em": "2026-11-18T13:19:56-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "preco_em": "2026-11-18T13:19:56-03:00",
-   "entrou": "2026-11-18T13:32:10.785350-03:00"
-  },
-  {
-   "id": "amz-B0GTR9N84L",
-   "canal": "marcas",
-   "nome": "Copo Stanley Quencher Peach Rose 591ml",
-   "preco_antigo": 289.0,
-   "preco": 144.5,
-   "desconto": 50,
-   "link": "https://www.amazon.com.br/dp/B0GTR9N84L?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/41JhfhTsVYL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-19T22:00:00-03:00",
-   "coletado_em": "2026-11-18T13:18:51-03:00",
-   "preco_em": "2026-11-18T13:18:51-03:00",
-   "entrou": "2026-11-18T14:50:17.217721-03:00"
-  },
-  {
-   "id": "shopee-11444965462",
-   "plataforma": "Shopee",
-   "nome": "Cabo USB De Dados Motorola Original Usb-C 1 Metro",
-   "loja": "Distribuidor de Acessórios Motorola",
-   "loja_oficial": true,
-   "preco": 35.0,
-   "preco_antigo": 50.0,
-   "desconto": 30,
-   "vendas": 218,
-   "nota": 4.9,
-   "comissao_pct": 16.0,
-   "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lsidpa3luxizbe",
-   "link": "https://s.shopee.com.br/3B94jabzoI",
-   "quase": true,
-   "canal": "tech",
-   "entrou": "2026-11-18T15:25:15.950940-03:00",
-   "reprise_dias": 3
-  },
   {
    "id": "shopee-58257621281",
    "plataforma": "Shopee",
@@ -22766,6 +22739,54 @@
    "canal": "tech",
    "entrou": "2026-11-18T16:41:56.685417-03:00",
    "reprise_dias": 7
+  },
+  {
+   "id": "amz-B07BB3MT83",
+   "canal": "achadinhos",
+   "nome": "Panela de Pressão Elétrica Electrolux 5L",
+   "preco_antigo": 519.9,
+   "preco": 319.0,
+   "desconto": 39,
+   "link": "https://www.amazon.com.br/dp/B07BB3MT83?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51429bjUOCL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-19T22:00:00-03:00",
+   "coletado_em": "2026-11-18T13:18:51-03:00",
+   "preco_em": "2026-11-18T13:18:51-03:00",
+   "entrou": "2026-11-18T17:40:11.160280-03:00"
+  },
+  {
+   "id": "amz-B0H6QGYFNT",
+   "canal": "achadinhos",
+   "nome": "Kit Cozinha Tramontina Turim 12 peças (panelas + utensílios)",
+   "preco_antigo": 599.9,
+   "preco": 329.9,
+   "desconto": 45,
+   "link": "https://www.amazon.com.br/dp/B0H6QGYFNT?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61NE-7YOX7L._AC_SL1500_.jpg",
+   "loja": "Vendido por parceiro · entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-19T22:00:00-03:00",
+   "coletado_em": "2026-11-18T13:18:51-03:00",
+   "preco_em": "2026-11-18T13:18:51-03:00",
+   "entrou": "2026-11-18T17:40:11.160280-03:00"
+  },
+  {
+   "id": "amz-B08HZHHQK9",
+   "canal": "achadinhos",
+   "nome": "Cafeteira Elétrica Mondial Smart Coffee C-42 110V",
+   "preco_antigo": 169.9,
+   "preco": 103.45,
+   "desconto": 39,
+   "link": "https://www.amazon.com.br/dp/B08HZHHQK9?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/717zmxGJP9L._AC_SL1500_.jpg",
+   "loja": "Vendido por parceiro · entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-19T22:00:00-03:00",
+   "coletado_em": "2026-11-18T13:18:51-03:00",
+   "preco_em": "2026-11-18T13:18:51-03:00",
+   "entrou": "2026-11-18T17:40:11.160280-03:00"
   }
  ],
  "menus_fixados": [
@@ -23299,7 +23320,7 @@
   "carregadorportatilbaseuspicogoam415000mah10000mah20wmagneticomagsafeusbc60wpowerbank": "2026-11-08T14:12:55.488332-03:00",
   "desodorantecorporalnaturahomemcoragio100ml": "2026-11-08T14:30:20.393231-03:00",
   "tplinkex3000roteadorwifi6ax3000dualband4portasgigabit": "2026-11-08T14:47:15.342899-03:00",
-  "cabousbdedadosmotorolaoriginalusbc1metro": "2026-11-12T18:00:40.086640-03:00",
+  "cabousbdedadosmotorolaoriginalusbc1metro": "2026-11-18T17:55:55.314319-03:00",
   "eudoraclub6voyagedeocoloniamasculino95ml": "2026-11-08T15:28:25.308685-03:00",
   "caixadesomjblboombox4aprovadeaguamarrom": "2026-11-16T12:56:15.055550-03:00",
   "fonedeouvidobluetoothjbltune530btoverearsemfioate76horasdebateriapreto": "2026-11-08T15:53:28.883076-03:00",
@@ -24289,7 +24310,12 @@
   "airfryerbritaniabellacuccina45l1500w127v": "2026-11-18T16:57:32.896110-03:00",
   "wheyduxfreshwhey450gchocolateepastadeamendoim": "2026-11-18T17:03:41.979066-03:00",
   "aspiradoraguaepoelectroluxawd011400w127v": "2026-11-18T17:17:59.879196-03:00",
-  "tenisnewbalancefreshfoamarishiv4feminino": "2026-11-18T17:25:25.038889-03:00"
+  "tenisnewbalancefreshfoamarishiv4feminino": "2026-11-18T17:25:25.038889-03:00",
+  "chaleiraeletricabritaniabch02pi18l127v": "2026-11-18T17:32:21.263856-03:00",
+  "escovasecadoramondialesju02bivolt": "2026-11-18T17:40:16.013156-03:00",
+  "copostanleyquencherpeachrose591ml": "2026-11-18T17:47:52.691789-03:00",
+  "mixerarnoturbomixpro400w3em1comprocessador": "2026-11-18T18:03:11.364370-03:00",
+  "kit2cuecasslipcalvinkleinalgodao": "2026-11-18T18:09:54.277161-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
@@ -24667,7 +24693,7 @@
   "18113272949143552": "Oi! Aqui é o Papa 😎💎\n\nOs 5 melhores tênis de corrida até R$ 500:\n\n1. Tênis Casual Eros 2 Confortável Unissex - Olympikus — R$ 169,90\nhttps://s.shopee.com.br/1gK0ttEnZk\n\n2. Tênis de Caminhada Casual Index 4 Unissex Confortável - Olym — R$ 157,41\nhttps://s.shopee.com.br/30pOUL9is8\n\n3. Tênis Mizuno CSD Sport — R$ 269,90\nhttps://www.amazon.com.br/dp/B0GV1MKHDB?tag=papagarimpou-20\n\n4. Tênis de Caminhada Unissex Confortável Proof 3 - Olympikus — R$ 162,82\nhttps://s.shopee.com.br/1qdR6CEAEn\n\n5. Tênis de Caminhada Casual Unissex Confortável Beats - Olympi — R$ 199,90\nhttps://s.shopee.com.br/3g5Ah9OC6m\n\nPreço pode mudar a qualquer momento. Publi · link de afiliado",
   "18247884766315682": "Oi! Aqui é o Papa 😎💎\n\nCupom BLACK30 na Nike (30% em selecionados, até 19/11):\n\n1. Tênis Nike Air Zoom Alphafly 3 Masculino — R$ 1.503,74\nhttps://www.awin1.com/cread.php?awinmid=17652&awinaffid=3137490&ued=https%3A%2F%2Fwww.nike.com.br%2Ftenis-nike-air-zoom-alphafly-3-masculino-028312.html%3Fcor%3D54\n\n2. Tênis Nike Zoom Fly 6 Feminino — R$ 902,24\nhttps://www.awin1.com/cread.php?awinmid=17652&awinaffid=3137490&ued=https%3A%2F%2Fwww.nike.com.br%2Ftenis-nike-zoom-fly-6-feminino-058279.html%3Fcor%3D55\n\n3. Tênis Nike Pegasus Plus Feminino — R$ 827,05\nhttps://www.awin1.com/cread.php?awinmid=17652&awinaffid=3137490&ued=https%3A%2F%2Fwww.nike.com.br%2Ftenis-nike-pegasus-plus-feminino-029398.html%3Fcor%3D54\n\n4. Camisa Nike Corinthians II 2025/26 Torcedor Pro Masculina — R$ 150,36\nhttps://www.awin1.com/cread.php?awinmid=17652&awinaffid=3137490&ued=https%3A%2F%2Fwww.nike.com.br%2Fcamisa-nike-corinthians-ii-2025-26-torcedor-pro-masculina-058825.html%3Fcor%3DID\n\n5. Shorts Nike Form Dri-FIT Masculino — R$ 185,70\nhttps://www.awin1.com/cread.php?awinmid=17652&awinaffid=3137490&ued=https%3A%2F%2Fwww.nike.com.br%2Fshorts-nike-dri-fit-masculino-024961.html%3Fcor%3D1G\n\nPreço pode mudar a qualquer momento. Publi · link de afiliado"
  },
- "story_link_dia": "2026-11-17",
+ "story_link_dia": "2026-11-18",
  "pede_semana": "2026-47",
  "ultimo_garimpo": "2026-11-18T13:19:58-03:00",
  "vigia_aviso_post": "2026-11-09T18:27:03.734589-03:00",
@@ -24713,7 +24739,7 @@
   "marcas": "2026-11-12T17:56:29.409807-03:00"
  },
  "top10_dia": "2026-11-14",
- "manuais_lidos": "2026-11-18T17:25:19.799485-03:00",
+ "manuais_lidos": "2026-11-18T18:09:17.571864-03:00",
  "reserva_resultado": {
   "2026-11-07": {
    "achadinhos": {
@@ -24977,7 +25003,7 @@
    "hora": "2026-11-17T18:31:49.698687-03:00"
   }
  },
- "ig_respondido_em": "2026-11-18T17:25:19.799485-03:00",
+ "ig_respondido_em": "2026-11-18T18:09:17.571864-03:00",
  "dm_auto": {
   "2026-11-11": {
    "com_palavra": 0,
@@ -25213,7 +25239,7 @@
    "feed": 3
   },
   "2026-11-18": {
-   "story": 22,
+   "story": 25,
    "feed": 1
   }
  },
