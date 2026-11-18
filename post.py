@@ -116,7 +116,7 @@ def _baixar_imagem(url: str, tentativas: int = 3) -> bytes:
     (a mesma oferta passou 20 min depois). Baixar a foto não posta nada, então tentar de novo é seguro:
     até 3 tentativas com espera curta e cabeçalho de navegador (o CDN da Amazon corta pedidos "robô")."""
     cab = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) "
-                         "Chrome/124.0 Safari/537.36", "Accept": "image/avif,image/webp,image/*,*/*;q=0.8"}
+                         "Chrome/124.0 Safari/537.36", "Accept": "image/jpeg,image/png;q=0.9,*/*;q=0.5"}
     for n in range(tentativas):
         try:
             r = requests.get(url, timeout=30, headers=cab)
