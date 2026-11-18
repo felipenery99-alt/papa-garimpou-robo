@@ -1782,7 +1782,12 @@
   "2026-11-18 achadinhos 18:25 amz-B0H6QGYFNT",
   "2026-11-18 tech 18:34 shopee-58257621281",
   "2026-11-18 tech 18:47 shopee-58262394728",
-  "2026-11-18 marcas 18:54 shopee-22697099204"
+  "2026-11-18 marcas 18:54 shopee-22697099204",
+  "2026-11-18 achadinhos 19:01 amz-B08HZHHQK9",
+  "2026-11-18 marcas 19:10 shopee-58217263099",
+  "2026-11-18 tech 19:18 shopee-41117508450",
+  "2026-11-18 marcas 19:27 shopee-21049729949",
+  "2026-11-18 marcas 19:35 shopee-58260024078"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -2014,7 +2019,7 @@
   "shopee-20516472434": "2026-11-17T09:01:18.025091-03:00",
   "amz-B0D9KV9YWZ": "2026-10-31T10:45:50.166542-03:00",
   "amz-B09XJK1XS1": "2026-10-31T10:49:05.387675-03:00",
-  "shopee-58260024078": "2026-11-12T11:29:13.774403-03:00",
+  "shopee-58260024078": "2026-11-18T19:35:21.144892-03:00",
   "amz-B0CX1SDR83": "2026-10-31T11:02:22.623738-03:00",
   "shopee-22194331598": "2026-11-16T12:27:28.884606-03:00",
   "amz-B09GCJZ45Z": "2026-10-31T11:26:55.900377-03:00",
@@ -2397,7 +2402,7 @@
   "amz-B0G452FS75": "2026-11-06T16:44:03.522093-03:00",
   "amz-B0CSK79LMB": "2026-11-06T16:49:48.237388-03:00",
   "shopee-3258773144": "2026-11-16T21:19:16.694387-03:00",
-  "shopee-41117508450": "2026-11-06T19:18:15.321266-03:00",
+  "shopee-41117508450": "2026-11-18T19:18:17.820255-03:00",
   "shopee-23592990089": "2026-11-06T19:35:50.027373-03:00",
   "shopee-41478796304": "2026-11-15T12:35:27.439078-03:00",
   "shopee-22693266079": "2026-11-16T14:07:36.539639-03:00",
@@ -2461,7 +2466,7 @@
   "shopee-58206236149": "2026-11-16T12:56:15.055550-03:00",
   "shopee-58262394728": "2026-11-18T18:47:56.150068-03:00",
   "shopee-46611963995": "2026-11-18T12:22:07.386987-03:00",
-  "shopee-21049729949": "2026-11-12T17:11:40.372485-03:00",
+  "shopee-21049729949": "2026-11-18T19:27:20.189225-03:00",
   "shopee-44106064553": "2026-11-16T12:06:47.567675-03:00",
   "shopee-58260087298": "2026-11-08T16:22:02.216589-03:00",
   "shopee-23398535010": "2026-11-08T16:28:20.218160-03:00",
@@ -2471,7 +2476,7 @@
   "shopee-58253650623": "2026-11-08T16:58:59.376380-03:00",
   "shopee-23899333842": "2026-11-18T17:11:02.693260-03:00",
   "shopee-23702004611": "2026-11-17T18:17:55.702033-03:00",
-  "shopee-58217263099": "2026-11-08T17:19:31.620012-03:00",
+  "shopee-58217263099": "2026-11-18T19:10:20.708749-03:00",
   "shopee-23298537624": "2026-11-08T17:29:48.929494-03:00",
   "shopee-23098514649": "2026-11-08T17:47:33.139384-03:00",
   "shopee-58250795411": "2026-11-08T18:01:32.288471-03:00",
@@ -3464,7 +3469,8 @@
   "amz-B07SD5K7LR": "2026-11-18T18:03:11.364370-03:00",
   "amz-B0C157D2FP": "2026-11-18T18:09:54.277161-03:00",
   "amz-B07BB3MT83": "2026-11-18T18:17:02.460139-03:00",
-  "amz-B0H6QGYFNT": "2026-11-18T18:25:28.466174-03:00"
+  "amz-B0H6QGYFNT": "2026-11-18T18:25:28.466174-03:00",
+  "amz-B08HZHHQK9": "2026-11-18T19:01:57.807566-03:00"
  },
  "ofertas_dia": [
   {
@@ -22321,6 +22327,99 @@
    "canal": "marcas",
    "entrou": "2026-11-18T18:41:11.875397-03:00",
    "dia": "2026-11-18"
+  },
+  {
+   "id": "amz-B08HZHHQK9",
+   "canal": "achadinhos",
+   "nome": "Cafeteira Elétrica Mondial Smart Coffee C-42 110V",
+   "preco_antigo": 169.9,
+   "preco": 103.45,
+   "desconto": 39,
+   "link": "https://www.amazon.com.br/dp/B08HZHHQK9?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/717zmxGJP9L._AC_SL1500_.jpg",
+   "loja": "Vendido por parceiro · entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-19T22:00:00-03:00",
+   "coletado_em": "2026-11-18T13:18:51-03:00",
+   "preco_em": "2026-11-18T13:18:51-03:00",
+   "entrou": "2026-11-18T17:40:11.160280-03:00",
+   "dia": "2026-11-18"
+  },
+  {
+   "id": "shopee-58217263099",
+   "plataforma": "Shopee",
+   "nome": "Tênis Puma Court Classic Clean Masculino Original com Nota Fiscal e Garantia",
+   "loja": "B2 Online",
+   "loja_oficial": true,
+   "preco": 229.9,
+   "preco_antigo": 328.43,
+   "desconto": 30,
+   "vendas": 202,
+   "nota": 4.9,
+   "comissao_pct": 3.0,
+   "imagem": "https://cf.shopee.com.br/file/br-11134207-820m4-msjv99l4v7k5a8",
+   "link": "https://s.shopee.com.br/1qdh8okkdQ",
+   "quase": true,
+   "canal": "marcas",
+   "entrou": "2026-11-18T18:41:11.875397-03:00",
+   "dia": "2026-11-18"
+  },
+  {
+   "id": "shopee-41117508450",
+   "plataforma": "Shopee",
+   "nome": "Headphone Baseus BH1 NC Sem Fio Bluetooth 6.0 ANC -45 dB Graves Fortes 80h Bateria Som Hi-Res",
+   "loja": "Baseus Oficial",
+   "loja_oficial": true,
+   "preco": 170.41,
+   "preco_antigo": 355.02,
+   "desconto": 52,
+   "vendas": 413,
+   "nota": 4.9,
+   "comissao_pct": 8.0,
+   "imagem": "https://cf.shopee.com.br/file/br-11134207-820mb-moeztwaqtibpb4",
+   "link": "https://s.shopee.com.br/2qWDCaszWo",
+   "canal": "tech",
+   "entrou": "2026-11-18T19:08:15.747926-03:00",
+   "dia": "2026-11-18"
+  },
+  {
+   "id": "shopee-21049729949",
+   "plataforma": "Shopee",
+   "nome": "Creatina Pura 300g - Max Titanium",
+   "loja": "Empório Natugreen",
+   "loja_oficial": true,
+   "preco": 48.99,
+   "preco_antigo": 195.96,
+   "desconto": 75,
+   "vendas": 166,
+   "nota": 4.9,
+   "comissao_pct": 3.0,
+   "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lyurzqrok1atf2",
+   "link": "https://s.shopee.com.br/1C3CFYssV",
+   "quase": true,
+   "canal": "marcas",
+   "entrou": "2026-11-18T18:41:11.875397-03:00",
+   "reprise_dias": 3,
+   "dia": "2026-11-18"
+  },
+  {
+   "id": "shopee-58260024078",
+   "plataforma": "Shopee",
+   "nome": "Kit 2 Creatina Max Titanium 300g Pura",
+   "loja": "Hard Extreme",
+   "loja_oficial": true,
+   "preco": 68.99,
+   "preco_antigo": 149.98,
+   "desconto": 54,
+   "vendas": 745,
+   "nota": 5.0,
+   "comissao_pct": 8.0,
+   "imagem": "https://cf.shopee.com.br/file/br-11134207-820mc-mnsw2jxtutxe75",
+   "link": "https://s.shopee.com.br/9Kji4hOZiD",
+   "canal": "marcas",
+   "entrou": "2026-11-18T18:41:11.875397-03:00",
+   "reprise_dias": 3,
+   "dia": "2026-11-18"
   }
  ],
  "ig_feitos": [
@@ -22472,11 +22571,12 @@
   "2026-11-18 18:09 story_oferta",
   "2026-11-18 feed",
   "2026-11-18 18:30 reels",
-  "2026-11-18 18:42 story_oferta"
+  "2026-11-18 18:42 story_oferta",
+  "2026-11-18 feed",
+  "2026-11-18 19:15 post_achado",
+  "2026-11-18 19:17 story_oferta"
  ],
  "ig_ofertas_usadas": [
-  "amz-B0FH3YBBB6",
-  "amz-B0FPDW9PLB",
   "amz-B0DVCJGRDG",
   "shopee-52364763614",
   "amz-B07K8XJF9D",
@@ -22674,7 +22774,9 @@
   "shopee-55468658052",
   "shopee-23599230410",
   "shopee-23899333842",
-  "shopee-58257621281"
+  "shopee-58257621281",
+  "shopee-58262394728",
+  "shopee-22697099204"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
@@ -22804,79 +22906,7 @@
   "2026-11-18": 4
  },
  "ultimo_pilar": "anticilada",
- "fila": [
-  {
-   "id": "amz-B08HZHHQK9",
-   "canal": "achadinhos",
-   "nome": "Cafeteira Elétrica Mondial Smart Coffee C-42 110V",
-   "preco_antigo": 169.9,
-   "preco": 103.45,
-   "desconto": 39,
-   "link": "https://www.amazon.com.br/dp/B08HZHHQK9?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/717zmxGJP9L._AC_SL1500_.jpg",
-   "loja": "Vendido por parceiro · entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-19T22:00:00-03:00",
-   "coletado_em": "2026-11-18T13:18:51-03:00",
-   "preco_em": "2026-11-18T13:18:51-03:00",
-   "entrou": "2026-11-18T17:40:11.160280-03:00"
-  },
-  {
-   "id": "shopee-58217263099",
-   "plataforma": "Shopee",
-   "nome": "Tênis Puma Court Classic Clean Masculino Original com Nota Fiscal e Garantia",
-   "loja": "B2 Online",
-   "loja_oficial": true,
-   "preco": 229.9,
-   "preco_antigo": 328.43,
-   "desconto": 30,
-   "vendas": 202,
-   "nota": 4.9,
-   "comissao_pct": 3.0,
-   "imagem": "https://cf.shopee.com.br/file/br-11134207-820m4-msjv99l4v7k5a8",
-   "link": "https://s.shopee.com.br/1qdh8okkdQ",
-   "quase": true,
-   "canal": "marcas",
-   "entrou": "2026-11-18T18:41:11.875397-03:00"
-  },
-  {
-   "id": "shopee-21049729949",
-   "plataforma": "Shopee",
-   "nome": "Creatina Pura 300g - Max Titanium",
-   "loja": "Empório Natugreen",
-   "loja_oficial": true,
-   "preco": 48.99,
-   "preco_antigo": 195.96,
-   "desconto": 75,
-   "vendas": 166,
-   "nota": 4.9,
-   "comissao_pct": 3.0,
-   "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lyurzqrok1atf2",
-   "link": "https://s.shopee.com.br/1C3CFYssV",
-   "quase": true,
-   "canal": "marcas",
-   "entrou": "2026-11-18T18:41:11.875397-03:00",
-   "reprise_dias": 3
-  },
-  {
-   "id": "shopee-58260024078",
-   "plataforma": "Shopee",
-   "nome": "Kit 2 Creatina Max Titanium 300g Pura",
-   "loja": "Hard Extreme",
-   "loja_oficial": true,
-   "preco": 68.99,
-   "preco_antigo": 149.98,
-   "desconto": 54,
-   "vendas": 745,
-   "nota": 5.0,
-   "comissao_pct": 8.0,
-   "imagem": "https://cf.shopee.com.br/file/br-11134207-820mc-mnsw2jxtutxe75",
-   "link": "https://s.shopee.com.br/9Kji4hOZiD",
-   "canal": "marcas",
-   "entrou": "2026-11-18T18:41:11.875397-03:00",
-   "reprise_dias": 3
-  }
- ],
+ "fila": [],
  "menus_fixados": [
   "v1 @papagarimpou",
   "v1 @papagarimpoumarcas",
@@ -22966,7 +22996,7 @@
   "kitde6paresmeiaslupokidsinfantilcanocurtoalgodaotamanho24ao35": "2026-11-17T09:01:18.025091-03:00",
   "smarttvlg554kuhd55ut8050comalexaechromecast": "2026-10-31T10:45:50.166542-03:00",
   "kit8poteshermeticoselectroluxcomvedacaodesilicone": "2026-10-31T10:49:05.387675-03:00",
-  "kit2creatinamaxtitanium300gpura": "2026-11-12T11:29:13.774403-03:00",
+  "kit2creatinamaxtitanium300gpura": "2026-11-18T19:35:21.144892-03:00",
   "liquidificadorphilipswalitaserie3000turbo1200w110v": "2026-10-31T11:02:22.623738-03:00",
   "wheypromaxtitaniumproteinprocombcaaeaminoacidos1kg": "2026-11-16T12:27:28.884606-03:00",
   "multiprocessadorphilipswalitapowerchop750w110v": "2026-10-31T11:26:55.900377-03:00",
@@ -23349,7 +23379,7 @@
   "pendrivesandiskusbc64gbedicaocopadomundo2026": "2026-11-06T16:44:03.522093-03:00",
   "tablettcla1plus128gbtela122": "2026-11-06T16:49:48.237388-03:00",
   "baseusenerfillfn22fastcharger1cpd20w30w45wsafetyprotectionsminigantechadapterforiphone17": "2026-11-16T21:19:16.694387-03:00",
-  "headphonebaseusbh1ncsemfiobluetooth60anc45dbgravesfortes80hbateriasomhires": "2026-11-06T19:18:15.321266-03:00",
+  "headphonebaseusbh1ncsemfiobluetooth60anc45dbgravesfortes80hbateriasomhires": "2026-11-18T19:18:17.820255-03:00",
   "baseuscarregadordeparederapidotipocsupersiqc20wparacelularesiphonesamsungeoutros": "2026-11-06T19:35:50.027373-03:00",
   "cuscuzeirapequenatramontinaemaluminiocomrevestimentointernoeexternoemantiaderente10cm08l": "2026-11-15T12:35:27.439078-03:00",
   "faqueirotramontinaacoinoxbuzios36pecas": "2026-11-16T14:07:36.539639-03:00",
@@ -23413,7 +23443,7 @@
   "caixadesomjblboombox4aprovadeaguamarrom": "2026-11-16T12:56:15.055550-03:00",
   "fonedeouvidobluetoothjbltune530btoverearsemfioate76horasdebateriapreto": "2026-11-18T18:47:56.150068-03:00",
   "presentenaturaessencialmasculinominiaturas3un": "2026-11-18T12:22:07.386987-03:00",
-  "creatinapura300gmaxtitanium": "2026-11-12T17:11:40.372485-03:00",
+  "creatinapura300gmaxtitanium": "2026-11-18T19:27:20.189225-03:00",
   "barradeproteinaovomaltineproteincrispbar45gdisplay12unidadesintegralmedica": "2026-11-16T12:06:47.567675-03:00",
   "tplinkex1500roteadorwifi6ax1500dualband4portasgigabit": "2026-11-08T16:22:02.216589-03:00",
   "sanduicheiraegrill2em1redstone750wbgr16corpretocompratabritania": "2026-11-08T16:28:20.218160-03:00",
@@ -23423,7 +23453,7 @@
   "barraproteinavo2wheybar12unidadesintegralmedica": "2026-11-08T16:58:59.376380-03:00",
   "smartphonemotorolamotog064g256gb4gbramcameratraseira50mpcamerafrontal8mptelade695200mahbege": "2026-11-18T17:11:02.693260-03:00",
   "secadortaiffstylepreto2000w220v": "2026-11-17T18:17:55.702033-03:00",
-  "tenispumacourtclassiccleanmasculinooriginalcomnotafiscalegarantia": "2026-11-08T17:19:31.620012-03:00",
+  "tenispumacourtclassiccleanmasculinooriginalcomnotafiscalegarantia": "2026-11-18T19:10:20.708749-03:00",
   "tampaparamicroondaselectroluxpretabpafreetampaparamicroondaselectroluxpretabpafree": "2026-11-08T17:29:48.929494-03:00",
   "cafeteiraeletricaelectroluxdigital38xicarasexperienceprogramavelcomtimercorinoxecm30": "2026-11-08T17:47:33.139384-03:00",
   "controleparaxboxsemfiocarbonblack": "2026-11-08T18:01:32.288471-03:00",
@@ -24405,7 +24435,8 @@
   "mixerarnoturbomixpro400w3em1comprocessador": "2026-11-18T18:03:11.364370-03:00",
   "kit2cuecasslipcalvinkleinalgodao": "2026-11-18T18:09:54.277161-03:00",
   "paneladepressaoeletricaelectrolux5l": "2026-11-18T18:17:02.460139-03:00",
-  "kitcozinhatramontinaturim12pecaspanelasutensilios": "2026-11-18T18:25:28.466174-03:00"
+  "kitcozinhatramontinaturim12pecaspanelasutensilios": "2026-11-18T18:25:28.466174-03:00",
+  "cafeteiraeletricamondialsmartcoffeec42110v": "2026-11-18T19:01:57.807566-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
@@ -24788,7 +24819,7 @@
  "pede_semana": "2026-47",
  "ultimo_garimpo": "2026-11-18T13:19:58-03:00",
  "vigia_aviso_post": "2026-11-09T18:27:03.734589-03:00",
- "vigia_aviso_garimpo": "2026-11-18T15:13:14.557657-03:00",
+ "vigia_aviso_garimpo": "2026-11-18T18:55:20.381645-03:00",
  "resumo_enviado": "2026-11-17",
  "token_conferido": "2026-11-18",
  "meta_token": {
@@ -24823,14 +24854,14 @@
   "2026-11-13 noite achadinhos",
   "2026-11-13 noite marcas"
  ],
- "reserva_meio": "2026-11-18T18:41:11.875397-03:00",
+ "reserva_meio": "2026-11-18T19:25:17.800105-03:00",
  "reserva_cheia": {
   "achadinhos": "2026-11-18T12:06:12.457259-03:00",
   "tech": "2026-11-18T15:25:15.950940-03:00",
   "marcas": "2026-11-18T18:41:11.875397-03:00"
  },
  "top10_dia": "2026-11-14",
- "manuais_lidos": "2026-11-18T18:54:18.500990-03:00",
+ "manuais_lidos": "2026-11-18T19:25:17.800105-03:00",
  "reserva_resultado": {
   "2026-11-07": {
    "achadinhos": {
@@ -25026,7 +25057,7 @@
     "reprise": 5
    },
    "tech": {
-    "busca": 0,
+    "busca": 1,
     "quase": 3,
     "reprise": 2
    }
@@ -25098,7 +25129,7 @@
    "hora": "2026-11-18T18:33:26.755377-03:00"
   }
  },
- "ig_respondido_em": "2026-11-18T18:54:18.500990-03:00",
+ "ig_respondido_em": "2026-11-18T19:35:17.262207-03:00",
  "dm_auto": {
   "2026-11-11": {
    "com_palavra": 0,
@@ -25340,8 +25371,8 @@
    "feed": 3
   },
   "2026-11-18": {
-   "story": 26,
-   "feed": 2
+   "story": 27,
+   "feed": 3
   }
  },
  "ig_conta_ok": "2026-11-18",
