@@ -97,9 +97,9 @@
  },
  "erro em #-#-# marcas #:# shopee-# (foto): # Server Error: Service Unavailable fo": {
   "primeiro": "2026-11-17T16:06+00:00",
-  "vezes": 1,
-  "ultimo": "2026-11-17T16:06+00:00",
-  "texto": "erro em 2026-11-17 marcas 13:06 shopee-18216465769 (foto): 503 Server Error: Service Unavailable for url: https://cf.shopee.com.br/file/br-11134207-820l4-mq6aqvo690cje6. Não postei."
+  "vezes": 3,
+  "ultimo": "2026-11-18T15:29+00:00",
+  "texto": "erro em 2026-11-18 marcas 12:29 shopee-22493521596 (foto): 503 Server Error: Service Unavailable for url: https://cf.shopee.com.br/file/br-11134207-820lw-mspog5ou4v0ncf. Não postei."
  },
  "Awin liberada: o redirecionamento já traz o nome novo; soltei o cupom BLACK# e o": {
   "primeiro": "2026-11-17T16:29+00:00",
@@ -160,5 +160,11 @@
   "vezes": 1,
   "ultimo": "2026-11-18T14:36+00:00",
   "texto": "erro em 2026-11-18 marcas 11:36 amz-B0GZJV56MB (envio ao Telegram): ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer')). Não postei."
+ },
+ "erro em #-#-# marcas #:# shopee-# (foto): # Server Error: Gateway Time-out for u": {
+  "primeiro": "2026-11-18T15:12+00:00",
+  "vezes": 1,
+  "ultimo": "2026-11-18T15:12+00:00",
+  "texto": "erro em 2026-11-18 marcas 12:12 shopee-58210668407 (foto): 504 Server Error: Gateway Time-out for url: https://cf.shopee.com.br/file/sg-11134201-823r6-mp3nf8xtog0e2a. Não postei."
  }
 }
