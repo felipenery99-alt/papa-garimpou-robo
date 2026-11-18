@@ -1712,7 +1712,13 @@
   "2026-11-18 marcas 09:22 nike-058279-55",
   "2026-11-18 tech 09:29 amz-B0GVTB7BGQ",
   "2026-11-18 achadinhos 09:36 amz-B0FPMR8N99",
-  "2026-11-18 marcas 09:45 nike-058825-ID"
+  "2026-11-18 marcas 09:45 nike-058825-ID",
+  "2026-11-18 achadinhos 09:55 amz-B09GL79Z8S",
+  "2026-11-18 achadinhos 10:03 amz-B0DTM1KHZT",
+  "2026-11-18 marcas 10:10 nike-024961-1G",
+  "2026-11-18 tech 10:18 amz-B0GKQYKBQ9",
+  "2026-11-18 achadinhos 10:26 amz-B096ZVGWYB",
+  "2026-11-18 marcas 10:33 amz-B0FG5P51XT"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -3340,7 +3346,13 @@
   "nike-058279-55": "2026-11-18T09:22:08.717863-03:00",
   "amz-B0GVTB7BGQ": "2026-11-18T09:29:35.330888-03:00",
   "amz-B0FPMR8N99": "2026-11-18T09:36:42.415342-03:00",
-  "nike-058825-ID": "2026-11-18T09:45:27.706321-03:00"
+  "nike-058825-ID": "2026-11-18T09:45:27.706321-03:00",
+  "amz-B09GL79Z8S": "2026-11-18T09:55:11.758913-03:00",
+  "amz-B0DTM1KHZT": "2026-11-18T10:03:04.951140-03:00",
+  "nike-024961-1G": "2026-11-18T10:10:30.344211-03:00",
+  "amz-B0GKQYKBQ9": "2026-11-18T10:18:32.290415-03:00",
+  "amz-B096ZVGWYB": "2026-11-18T10:26:28.625947-03:00",
+  "amz-B0FG5P51XT": "2026-11-18T10:33:43.509024-03:00"
  },
  "ofertas_dia": [
   {
@@ -21120,6 +21132,113 @@
    "coletado_em": "2026-11-17T18:20:00-03:00",
    "entrou": "2026-11-18T08:17:23.392412-03:00",
    "dia": "2026-11-18"
+  },
+  {
+   "id": "amz-B09GL79Z8S",
+   "canal": "achadinhos",
+   "nome": "Escova Elétrica Philips Colgate SonicPro Kids",
+   "preco_antigo": 424.93,
+   "preco": 288.01,
+   "desconto": 32,
+   "link": "https://www.amazon.com.br/dp/B09GL79Z8S?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71TiHkxBvxL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-19T22:00:00-03:00",
+   "coletado_em": "2026-11-18T08:15:10-03:00",
+   "preco_em": "2026-11-18T08:15:10-03:00",
+   "entrou": "2026-11-18T08:17:23.392412-03:00",
+   "dia": "2026-11-18"
+  },
+  {
+   "id": "amz-B0DTM1KHZT",
+   "canal": "achadinhos",
+   "nome": "Aspirador de Pó Electrolux Experience 1800W",
+   "preco_antigo": 849.0,
+   "preco": 432.32,
+   "desconto": 49,
+   "link": "https://www.amazon.com.br/dp/B0DTM1KHZT?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/41kC2DOCYIL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-19T22:00:00-03:00",
+   "coletado_em": "2026-11-18T08:15:10-03:00",
+   "preco_em": "2026-11-18T08:15:10-03:00",
+   "entrou": "2026-11-18T08:17:23.392412-03:00",
+   "dia": "2026-11-18"
+  },
+  {
+   "id": "nike-024961-1G",
+   "canal": "marcas",
+   "nome": "Shorts Nike Form Dri-FIT Masculino",
+   "preco_antigo": 299.99,
+   "preco": 185.7,
+   "desconto": 38,
+   "cupom": "BLACK30",
+   "pix": 176.42,
+   "extra": "Cupom BLACK30 (30% em selecionados, até 19/11) · no Pix R$ 176,42",
+   "link": "https://www.awin1.com/cread.php?awinmid=17652&awinaffid=3137490&ued=https%3A%2F%2Fwww.nike.com.br%2Fshorts-nike-dri-fit-masculino-024961.html%3Fcor%3D1G",
+   "imagem": "https://imgnike-a.akamaihd.net/1300x1300/0249611G.jpg",
+   "loja": "Loja oficial Nike",
+   "plataforma": "Nike",
+   "valida_ate": "2026-11-19T23:59:00-03:00",
+   "preco_em": "2026-11-17T18:20:00-03:00",
+   "coletado_em": "2026-11-17T18:20:00-03:00",
+   "entrou": "2026-11-18T08:17:23.392412-03:00",
+   "dia": "2026-11-18"
+  },
+  {
+   "id": "amz-B0GKQYKBQ9",
+   "canal": "tech",
+   "nome": "Celular Samsung Galaxy S26+ 5G 512GB 12GB RAM",
+   "preco_antigo": 10799.0,
+   "preco": 4999.0,
+   "desconto": 54,
+   "link": "https://www.amazon.com.br/dp/B0GKQYKBQ9?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/6195004j8UL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-19T22:00:00-03:00",
+   "coletado_em": "2026-11-18T08:15:10-03:00",
+   "preco_em": "2026-11-18T08:15:10-03:00",
+   "entrou": "2026-11-18T08:17:23.392412-03:00",
+   "dia": "2026-11-18"
+  },
+  {
+   "id": "amz-B096ZVGWYB",
+   "canal": "achadinhos",
+   "nome": "Detergente Ypê Neutro 500ml · pack 6 unidades",
+   "preco_antigo": 24.39,
+   "preco": 13.49,
+   "desconto": 45,
+   "link": "https://www.amazon.com.br/dp/B096ZVGWYB?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71iz0g4yGZL._AC_SL1405_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-19T22:00:00-03:00",
+   "coletado_em": "2026-11-18T08:15:10-03:00",
+   "extra": "Sai a R$ 2,25 cada",
+   "preco_em": "2026-11-18T08:15:10-03:00",
+   "entrou": "2026-11-18T08:17:23.392412-03:00",
+   "dia": "2026-11-18"
+  },
+  {
+   "id": "amz-B0FG5P51XT",
+   "canal": "marcas",
+   "nome": "Tênis Mizuno Space 5 Infantil",
+   "preco_antigo": 299.99,
+   "preco": 152.99,
+   "desconto": 49,
+   "link": "https://www.amazon.com.br/dp/B0FG5P51XT?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51l3XILzrYL._AC_SL1200_.jpg",
+   "loja": "Vendido pela Netshoes · entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-19T22:00:00-03:00",
+   "coletado_em": "2026-11-18T08:15:10-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "preco_em": "2026-11-18T08:15:10-03:00",
+   "entrou": "2026-11-18T08:17:23.392412-03:00",
+   "dia": "2026-11-18"
   }
  ],
  "ig_feitos": [
@@ -21247,11 +21366,11 @@
   "story especial nike-black30-1811",
   "story especial nike-zoomfly-1811",
   "2026-11-18 09:38 story_oferta",
-  "2026-11-18 09:40 story_convite"
+  "2026-11-18 09:40 story_convite",
+  "2026-11-18 10:20 story_oferta",
+  "2026-11-18 10:24 story_oferta"
  ],
  "ig_ofertas_usadas": [
-  "shopee-22493521596",
-  "shopee-56159571991",
   "shopee-54114684881",
   "shopee-16168525614",
   "shopee-20111903242",
@@ -21449,7 +21568,9 @@
   "shopee-44568244729",
   "shopee-48518043569",
   "shopee-29083433141",
-  "nike-028312-54"
+  "nike-028312-54",
+  "nike-058279-55",
+  "nike-058825-ID"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
@@ -21579,55 +21700,6 @@
  "ultimo_pilar": "anticilada",
  "fila": [
   {
-   "id": "amz-B09GL79Z8S",
-   "canal": "achadinhos",
-   "nome": "Escova Elétrica Philips Colgate SonicPro Kids",
-   "preco_antigo": 424.93,
-   "preco": 288.01,
-   "desconto": 32,
-   "link": "https://www.amazon.com.br/dp/B09GL79Z8S?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/71TiHkxBvxL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-19T22:00:00-03:00",
-   "coletado_em": "2026-11-18T08:15:10-03:00",
-   "preco_em": "2026-11-18T08:15:10-03:00",
-   "entrou": "2026-11-18T08:17:23.392412-03:00"
-  },
-  {
-   "id": "amz-B0DTM1KHZT",
-   "canal": "achadinhos",
-   "nome": "Aspirador de Pó Electrolux Experience 1800W",
-   "preco_antigo": 849.0,
-   "preco": 432.32,
-   "desconto": 49,
-   "link": "https://www.amazon.com.br/dp/B0DTM1KHZT?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/41kC2DOCYIL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-19T22:00:00-03:00",
-   "coletado_em": "2026-11-18T08:15:10-03:00",
-   "preco_em": "2026-11-18T08:15:10-03:00",
-   "entrou": "2026-11-18T08:17:23.392412-03:00"
-  },
-  {
-   "id": "amz-B096ZVGWYB",
-   "canal": "achadinhos",
-   "nome": "Detergente Ypê Neutro 500ml · pack 6 unidades",
-   "preco_antigo": 24.39,
-   "preco": 13.49,
-   "desconto": 45,
-   "link": "https://www.amazon.com.br/dp/B096ZVGWYB?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/71iz0g4yGZL._AC_SL1405_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-19T22:00:00-03:00",
-   "coletado_em": "2026-11-18T08:15:10-03:00",
-   "extra": "Sai a R$ 2,25 cada",
-   "preco_em": "2026-11-18T08:15:10-03:00",
-   "entrou": "2026-11-18T08:17:23.392412-03:00"
-  },
-  {
    "id": "amz-B0921BLCG4",
    "canal": "achadinhos",
    "nome": "Aspirador Vertical 2 em 1 Electrolux STK15 1450W HEPA",
@@ -21641,42 +21713,6 @@
    "valida_ate": "2026-11-19T22:00:00-03:00",
    "coletado_em": "2026-11-18T08:15:10-03:00",
    "extra": "220V",
-   "preco_em": "2026-11-18T08:15:10-03:00",
-   "entrou": "2026-11-18T08:17:23.392412-03:00"
-  },
-  {
-   "id": "nike-024961-1G",
-   "canal": "marcas",
-   "nome": "Shorts Nike Form Dri-FIT Masculino",
-   "preco_antigo": 299.99,
-   "preco": 185.7,
-   "desconto": 38,
-   "cupom": "BLACK30",
-   "pix": 176.42,
-   "extra": "Cupom BLACK30 (30% em selecionados, até 19/11) · no Pix R$ 176,42",
-   "link": "https://www.awin1.com/cread.php?awinmid=17652&awinaffid=3137490&ued=https%3A%2F%2Fwww.nike.com.br%2Fshorts-nike-dri-fit-masculino-024961.html%3Fcor%3D1G",
-   "imagem": "https://imgnike-a.akamaihd.net/1300x1300/0249611G.jpg",
-   "loja": "Loja oficial Nike",
-   "plataforma": "Nike",
-   "valida_ate": "2026-11-19T23:59:00-03:00",
-   "preco_em": "2026-11-17T18:20:00-03:00",
-   "coletado_em": "2026-11-17T18:20:00-03:00",
-   "entrou": "2026-11-18T08:17:23.392412-03:00"
-  },
-  {
-   "id": "amz-B0FG5P51XT",
-   "canal": "marcas",
-   "nome": "Tênis Mizuno Space 5 Infantil",
-   "preco_antigo": 299.99,
-   "preco": 152.99,
-   "desconto": 49,
-   "link": "https://www.amazon.com.br/dp/B0FG5P51XT?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51l3XILzrYL._AC_SL1200_.jpg",
-   "loja": "Vendido pela Netshoes · entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-19T22:00:00-03:00",
-   "coletado_em": "2026-11-18T08:15:10-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
    "preco_em": "2026-11-18T08:15:10-03:00",
    "entrou": "2026-11-18T08:17:23.392412-03:00"
   },
@@ -21745,22 +21781,6 @@
    "coletado_em": "2026-11-18T08:16:24-03:00",
    "extra": "Preço a partir de: varia por tamanho e cor",
    "preco_em": "2026-11-18T08:16:24-03:00",
-   "entrou": "2026-11-18T08:17:23.392412-03:00"
-  },
-  {
-   "id": "amz-B0GKQYKBQ9",
-   "canal": "tech",
-   "nome": "Celular Samsung Galaxy S26+ 5G 512GB 12GB RAM",
-   "preco_antigo": 10799.0,
-   "preco": 4999.0,
-   "desconto": 54,
-   "link": "https://www.amazon.com.br/dp/B0GKQYKBQ9?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/6195004j8UL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-19T22:00:00-03:00",
-   "coletado_em": "2026-11-18T08:15:10-03:00",
-   "preco_em": "2026-11-18T08:15:10-03:00",
    "entrou": "2026-11-18T08:17:23.392412-03:00"
   },
   {
@@ -22007,6 +22027,23 @@
    "link": "https://s.shopee.com.br/4VeNrijisH",
    "canal": "marcas",
    "entrou": "2026-11-18T09:02:39.963437-03:00"
+  },
+  {
+   "id": "shopee-58210668407",
+   "plataforma": "Shopee",
+   "nome": "Tênis Olympikus Adrena 2 Feminino",
+   "loja": "Shoestime",
+   "loja_oficial": true,
+   "preco": 234.75,
+   "preco_antigo": 317.23,
+   "desconto": 26,
+   "vendas": 295,
+   "nota": 4.9,
+   "comissao_pct": 17.0,
+   "imagem": "https://cf.shopee.com.br/file/sg-11134201-823r6-mp3nf8xtog0e2a",
+   "link": "https://s.shopee.com.br/5LDZe5Uh4k",
+   "canal": "marcas",
+   "entrou": "2026-11-18T09:48:21.779484-03:00"
   }
  ],
  "menus_fixados": [
@@ -23483,7 +23520,13 @@
   "tenisnikezoomfly6feminino": "2026-11-18T09:22:08.717863-03:00",
   "celularsamsunggalaxya575g256gb8gbram": "2026-11-18T09:29:35.330888-03:00",
   "niveasunprimerdailyuvserumfps7030ml": "2026-11-18T09:36:42.415342-03:00",
-  "camisanikecorinthiansii202526torcedorpromasculina": "2026-11-18T09:45:27.706321-03:00"
+  "camisanikecorinthiansii202526torcedorpromasculina": "2026-11-18T09:45:27.706321-03:00",
+  "escovaeletricaphilipscolgatesonicprokids": "2026-11-18T09:55:11.758913-03:00",
+  "aspiradordepoelectroluxexperience1800w": "2026-11-18T10:03:04.951140-03:00",
+  "shortsnikeformdrifitmasculino": "2026-11-18T10:10:30.344211-03:00",
+  "celularsamsunggalaxys265g512gb12gbram": "2026-11-18T10:18:32.290415-03:00",
+  "detergenteypeneutro500mlpack6unidades": "2026-11-18T10:26:28.625947-03:00",
+  "tenismizunospace5infantil": "2026-11-18T10:33:43.509024-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
@@ -23899,7 +23942,7 @@
   "marcas": "2026-11-12T17:56:29.409807-03:00"
  },
  "top10_dia": "2026-11-14",
- "manuais_lidos": "2026-11-18T09:44:42.163035-03:00",
+ "manuais_lidos": "2026-11-18T10:33:43.137563-03:00",
  "reserva_resultado": {
   "2026-11-07": {
    "achadinhos": {
@@ -24146,7 +24189,7 @@
    "hora": "2026-11-17T18:31:49.698687-03:00"
   }
  },
- "ig_respondido_em": "2026-11-18T09:44:42.163035-03:00",
+ "ig_respondido_em": "2026-11-18T10:26:00.442201-03:00",
  "dm_auto": {
   "2026-11-11": {
    "com_palavra": 0,
@@ -24394,7 +24437,7 @@
    "feed": 3
   },
   "2026-11-18": {
-   "story": 7,
+   "story": 9,
    "feed": 0
   }
  },
@@ -24444,7 +24487,9 @@
  "awin_liberado": "2026-11-17T11:57:40.216089-03:00",
  "avisos_feitos": {
   "nike-black30 2026-11-17T12:40 marcas": "2026-11-17T12:43:36.283799-03:00",
-  "nike-black30 2026-11-17T12:40 geral": "2026-11-17T12:43:36.283799-03:00"
+  "nike-black30 2026-11-17T12:40 geral": "2026-11-17T12:43:36.283799-03:00",
+  "nike-black30 2026-11-18T09:10 marcas": "2026-11-18T09:48:21.779484-03:00",
+  "nike-black30 2026-11-18T09:10 geral": "2026-11-18T09:48:21.779484-03:00"
  },
  "awin_avisado": "2026-11-17T13:29:19.025947-03:00",
  "awin_botao_tirado": [
