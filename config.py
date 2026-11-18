@@ -259,4 +259,9 @@ FB_CONVITE_HORA = "20:10"
 # 17/11 (Central): o redirecionamento da Awin põe o nome do dono no utm_campaign. True = nada com link Awin
 # (awin1.com, tidd.ly) entra na fila, nem cupom/aviso nem story marcado com "awin". Só volta a False depois
 # que o dono renomear o espaço na Awin e o redirecionamento sair sem o nome (conferir com curl -I).
+# 17/11 23h (Central/PG · Telegram): pasta compartilhável "Papa Ofertas" — 1 toque entra nos 4 canais.
+# Teste até 21/11 22h: se o total de membros não sair de 21 para 30 ou mais, voltar USAR_PASTA = False (tudo volta
+# a ser como antes: menus v1, boas-vindas bv1, direct com os convites rastreados).
+PASTA_TELEGRAM = "https://t.me/addlist/ibNzKthuoBI3NzVh"
+USAR_PASTA = True
 AWIN_SEGURAR = False   # 17/11 17h45: 20 de 20 testes do Brasil já com o nome novo → Awin liberada (PG · Robô)

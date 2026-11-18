@@ -396,6 +396,10 @@ RESPOSTA_DM = ("Oi! Aqui é o Papa 😎💎\n\nAchou coisa boa de marca, em loja
 def _resposta_dm() -> str:
     """05/11 (CEO): quem comenta TELEGRAM recebe o convite "ig-dm" (conta quantos entram por ele) no lugar
     do link público do canal geral. Sem o arquivo de convites, vai o texto de sempre."""
+    if config.USAR_PASTA:   # 17/11: pasta "Papa Ofertas" no topo (1 toque entra nos 4); canais avulsos continuam
+        return RESPOSTA_DM.replace("eu posto na hora, grátis no Telegram:\n\n",
+                                   "eu posto na hora, grátis no Telegram.\n\n📂 Entra nos 4 canais de uma vez, "
+                                   f"num toque: {config.PASTA_TELEGRAM}\n\nOu escolhe um:\n")
     try:
         conv = json.loads((PASTA / "dados" / "convites.json").read_text(encoding="utf-8"))
         link = conv.get("ig-dm-auto") or conv["ig-dm"]   # 08/11 (Central): convite próprio da resposta automática
@@ -412,6 +416,8 @@ def _convite_extra() -> str:
         link = conv.get("ig-dm-auto") or conv["ig-dm"]
     except Exception:
         link = "https://t.me/papagarimpouofertas"
+    if config.USAR_PASTA:   # 17/11: 1 toque entra nos 4 canais
+        link = config.PASTA_TELEGRAM
     return (f"\n\n💎 Quer achados assim todo dia, grátis? Entra no Telegram do Papa: {link}"
             "\nSem Telegram? Abre no navegador: https://t.me/s/papagarimpouofertas")
 

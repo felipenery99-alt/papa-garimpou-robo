@@ -223,8 +223,8 @@ def garimpar(canal: str, fonte, h: dict, agora: datetime, rodada: int = 0) -> di
 MANUAIS = Path(__file__).parent / "ofertas_manuais.json"
 
 # Menu fixado com botões para os outros canais (dono, 28/10). Mudar a versão faz o robô postar de novo.
-MENU_VERSAO = "v1"
-MENU_CANAIS = [
+MENU_VERSAO = "v2" if config.USAR_PASTA else "v1"   # 17/11: v2 = com o botão da pasta (4 canais num toque)
+MENU_CANAIS = ([("📂 Entrar nos 4 canais de uma vez", config.PASTA_TELEGRAM)] if config.USAR_PASTA else []) + [
     ("🛒 Achadinhos: casa, cozinha, beleza", "https://t.me/papagarimpou"),
     ("👕 Marcas: roupa, tênis e esporte", "https://t.me/papagarimpoumarcas"),
     ("📱 Tech: eletrônicos e games", "https://t.me/papagarimpoutech"),
@@ -232,7 +232,7 @@ MENU_CANAIS = [
 ]
 
 
-BOAS_VINDAS_VERSAO = "bv1"   # mudar a versão faz o robô postar e fixar de novo
+BOAS_VINDAS_VERSAO = "bv2" if config.USAR_PASTA else "bv1"   # mudar a versão faz o robô postar e fixar de novo
 BOAS_VINDAS = ("💎 Bem-vindo ao Papa Garimpou!\n"
                "Aqui o Papa só posta coisa boa: marca conhecida, loja oficial e desconto de verdade, conferido na hora. "
                "Nada de réplica, nada de preço inventado.\n\n"
@@ -241,7 +241,8 @@ BOAS_VINDAS = ("💎 Bem-vindo ao Papa Garimpou!\n"
                "👟 Marcas (tênis, roupa, perfume, academia): t.me/papagarimpoumarcas\n"
                "🎮 Tech (games, TV, fone, celular): t.me/papagarimpoutech\n\n"
                "⚡ Todo dia tem oferta que sai primeiro aqui no Telegram, antes do Instagram.\n"
-               "🔔 Ative as notificações: oferta boa acaba rápido.")
+               "🔔 Ative as notificações: oferta boa acaba rápido.") + (
+               f"\n\n📂 Quer os 4 canais? Um toque e entra em todos: {config.PASTA_TELEGRAM}" if config.USAR_PASTA else "")
 
 
 # 08/11 (CEO via PG · Telegram, busca interna do Telegram): título e 1ª linha da descrição com as palavras que
