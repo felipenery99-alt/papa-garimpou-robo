@@ -1777,7 +1777,12 @@
   "2026-11-18 marcas 17:47 amz-B0GTR9N84L",
   "2026-11-18 tech 17:55 shopee-11444965462",
   "2026-11-18 achadinhos 18:03 amz-B07SD5K7LR",
-  "2026-11-18 marcas 18:09 amz-B0C157D2FP"
+  "2026-11-18 marcas 18:09 amz-B0C157D2FP",
+  "2026-11-18 achadinhos 18:17 amz-B07BB3MT83",
+  "2026-11-18 achadinhos 18:25 amz-B0H6QGYFNT",
+  "2026-11-18 tech 18:34 shopee-58257621281",
+  "2026-11-18 tech 18:47 shopee-58262394728",
+  "2026-11-18 marcas 18:54 shopee-22697099204"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -2158,7 +2163,7 @@
   "amz-B0DBRBDSR1": "2026-11-02T18:30:12.953857-03:00",
   "amz-B0CL51V978": "2026-11-02T19:03:06.651468-03:00",
   "amz-B0CKJW8BL6": "2026-11-02T19:13:12.661528-03:00",
-  "shopee-58257621281": "2026-11-03T08:26:53.992608-03:00",
+  "shopee-58257621281": "2026-11-18T18:34:23.922224-03:00",
   "shopee-18716453608": "2026-11-11T08:49:47.312753-03:00",
   "shopee-20716465989": "2026-11-11T08:31:39.127806-03:00",
   "amz-B07VVMFGTP": "2026-11-03T15:25:13.462728-03:00",
@@ -2454,7 +2459,7 @@
   "shopee-11444965462": "2026-11-18T17:55:55.314319-03:00",
   "shopee-22192651105": "2026-11-08T15:28:25.308685-03:00",
   "shopee-58206236149": "2026-11-16T12:56:15.055550-03:00",
-  "shopee-58262394728": "2026-11-08T15:53:28.883076-03:00",
+  "shopee-58262394728": "2026-11-18T18:47:56.150068-03:00",
   "shopee-46611963995": "2026-11-18T12:22:07.386987-03:00",
   "shopee-21049729949": "2026-11-12T17:11:40.372485-03:00",
   "shopee-44106064553": "2026-11-16T12:06:47.567675-03:00",
@@ -2536,7 +2541,7 @@
   "amz-B0GW9M4TXB": "2026-11-09T16:17:20.767941-03:00",
   "amz-B0F8Y8N2ST": "2026-11-09T16:25:14.206250-03:00",
   "shopee-23094785146": "2026-11-09T17:08:13.173005-03:00",
-  "shopee-22697099204": "2026-11-09T17:58:16.158926-03:00",
+  "shopee-22697099204": "2026-11-18T18:54:47.126438-03:00",
   "amz-B09VV5LJS1": "2026-11-09T18:54:58.558004-03:00",
   "amz-B0DBW2Y9VH": "2026-11-09T19:02:49.610132-03:00",
   "amz-B098HXFLMW": "2026-11-09T19:09:29.136453-03:00",
@@ -3457,7 +3462,9 @@
   "amz-B0BJH7DBPK": "2026-11-18T17:40:16.013156-03:00",
   "amz-B0GTR9N84L": "2026-11-18T17:47:52.691789-03:00",
   "amz-B07SD5K7LR": "2026-11-18T18:03:11.364370-03:00",
-  "amz-B0C157D2FP": "2026-11-18T18:09:54.277161-03:00"
+  "amz-B0C157D2FP": "2026-11-18T18:09:54.277161-03:00",
+  "amz-B07BB3MT83": "2026-11-18T18:17:02.460139-03:00",
+  "amz-B0H6QGYFNT": "2026-11-18T18:25:28.466174-03:00"
  },
  "ofertas_dia": [
   {
@@ -22223,6 +22230,97 @@
    "preco_em": "2026-11-18T13:19:56-03:00",
    "entrou": "2026-11-18T17:40:11.160280-03:00",
    "dia": "2026-11-18"
+  },
+  {
+   "id": "amz-B07BB3MT83",
+   "canal": "achadinhos",
+   "nome": "Panela de Pressão Elétrica Electrolux 5L",
+   "preco_antigo": 519.9,
+   "preco": 319.0,
+   "desconto": 39,
+   "link": "https://www.amazon.com.br/dp/B07BB3MT83?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51429bjUOCL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-19T22:00:00-03:00",
+   "coletado_em": "2026-11-18T13:18:51-03:00",
+   "preco_em": "2026-11-18T13:18:51-03:00",
+   "entrou": "2026-11-18T17:40:11.160280-03:00",
+   "dia": "2026-11-18"
+  },
+  {
+   "id": "amz-B0H6QGYFNT",
+   "canal": "achadinhos",
+   "nome": "Kit Cozinha Tramontina Turim 12 peças (panelas + utensílios)",
+   "preco_antigo": 599.9,
+   "preco": 329.9,
+   "desconto": 45,
+   "link": "https://www.amazon.com.br/dp/B0H6QGYFNT?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61NE-7YOX7L._AC_SL1500_.jpg",
+   "loja": "Vendido por parceiro · entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-19T22:00:00-03:00",
+   "coletado_em": "2026-11-18T13:18:51-03:00",
+   "preco_em": "2026-11-18T13:18:51-03:00",
+   "entrou": "2026-11-18T17:40:11.160280-03:00",
+   "dia": "2026-11-18"
+  },
+  {
+   "id": "shopee-58257621281",
+   "plataforma": "Shopee",
+   "nome": "Smart Tv Lg 43 Ld Wifi Bluetooth Full Hd 43LR6700PSA HDR10 Pro",
+   "loja": "Rep Store",
+   "loja_oficial": true,
+   "preco": 1719.0,
+   "preco_antigo": 3370.59,
+   "desconto": 49,
+   "vendas": 668,
+   "nota": 4.9,
+   "comissao_pct": 6.0,
+   "imagem": "https://cf.shopee.com.br/file/br-11134207-820m6-mv4jcycuzl6p0e",
+   "link": "https://s.shopee.com.br/AKcG1JNybJ",
+   "canal": "tech",
+   "entrou": "2026-11-18T16:01:46.901378-03:00",
+   "dia": "2026-11-18"
+  },
+  {
+   "id": "shopee-58262394728",
+   "plataforma": "Shopee",
+   "nome": "Fone de Ouvido Bluetooth JBL Tune 530BT,  Over-Ear, Sem Fio, Até 76 Horas de Bateria - Preto",
+   "loja": "Cadê Meu Eletro®",
+   "loja_oficial": true,
+   "preco": 218.9,
+   "preco_antigo": 398.0,
+   "desconto": 45,
+   "vendas": 129,
+   "nota": 5.0,
+   "comissao_pct": 3.0,
+   "imagem": "https://cf.shopee.com.br/file/br-11134207-820lr-mpdr84qevbwl9c",
+   "link": "https://s.shopee.com.br/2VtNwCvMOm",
+   "quase": true,
+   "canal": "tech",
+   "entrou": "2026-11-18T16:41:56.685417-03:00",
+   "reprise_dias": 7,
+   "dia": "2026-11-18"
+  },
+  {
+   "id": "shopee-22697099204",
+   "plataforma": "Shopee",
+   "nome": "Kit Com 5 Camisetas Masculinas Básicas Slim Hering",
+   "loja": "Hering_Oficial",
+   "loja_oficial": true,
+   "preco": 149.99,
+   "preco_antigo": 249.98,
+   "desconto": 40,
+   "vendas": 188,
+   "nota": 4.9,
+   "comissao_pct": 3.0,
+   "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-ma08oe6ticzd8a",
+   "link": "https://s.shopee.com.br/9pfz0L0hMh",
+   "quase": true,
+   "canal": "marcas",
+   "entrou": "2026-11-18T18:41:11.875397-03:00",
+   "dia": "2026-11-18"
   }
  ],
  "ig_feitos": [
@@ -22371,10 +22469,12 @@
   "2026-11-18 16:44 story_oferta",
   "story especial pede-pro-papa 2026-11-18",
   "2026-11-18 18:05 a_ou_b",
-  "2026-11-18 18:09 story_oferta"
+  "2026-11-18 18:09 story_oferta",
+  "2026-11-18 feed",
+  "2026-11-18 18:30 reels",
+  "2026-11-18 18:42 story_oferta"
  ],
  "ig_ofertas_usadas": [
-  "amz-B01GFYMUPM",
   "amz-B0FH3YBBB6",
   "amz-B0FPDW9PLB",
   "amz-B0DVCJGRDG",
@@ -22573,11 +22673,12 @@
   "shopee-18199337362",
   "shopee-55468658052",
   "shopee-23599230410",
-  "shopee-23899333842"
+  "shopee-23899333842",
+  "shopee-58257621281"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
- "ig_ultimo_reel": "2026-11-18T12:01:09.682364-03:00",
+ "ig_ultimo_reel": "2026-11-18T18:33:26.755377-03:00",
  "pecas_usadas": {
   "ac-preco-inflado": "2026-10-27",
   "dc-7-dias": "2026-10-27",
@@ -22705,74 +22806,6 @@
  "ultimo_pilar": "anticilada",
  "fila": [
   {
-   "id": "shopee-58257621281",
-   "plataforma": "Shopee",
-   "nome": "Smart Tv Lg 43 Ld Wifi Bluetooth Full Hd 43LR6700PSA HDR10 Pro",
-   "loja": "Rep Store",
-   "loja_oficial": true,
-   "preco": 1719.0,
-   "preco_antigo": 3370.59,
-   "desconto": 49,
-   "vendas": 668,
-   "nota": 4.9,
-   "comissao_pct": 6.0,
-   "imagem": "https://cf.shopee.com.br/file/br-11134207-820m6-mv4jcycuzl6p0e",
-   "link": "https://s.shopee.com.br/AKcG1JNybJ",
-   "canal": "tech",
-   "entrou": "2026-11-18T16:01:46.901378-03:00"
-  },
-  {
-   "id": "shopee-58262394728",
-   "plataforma": "Shopee",
-   "nome": "Fone de Ouvido Bluetooth JBL Tune 530BT,  Over-Ear, Sem Fio, Até 76 Horas de Bateria - Preto",
-   "loja": "Cadê Meu Eletro®",
-   "loja_oficial": true,
-   "preco": 218.9,
-   "preco_antigo": 398.0,
-   "desconto": 45,
-   "vendas": 129,
-   "nota": 5.0,
-   "comissao_pct": 3.0,
-   "imagem": "https://cf.shopee.com.br/file/br-11134207-820lr-mpdr84qevbwl9c",
-   "link": "https://s.shopee.com.br/2VtNwCvMOm",
-   "quase": true,
-   "canal": "tech",
-   "entrou": "2026-11-18T16:41:56.685417-03:00",
-   "reprise_dias": 7
-  },
-  {
-   "id": "amz-B07BB3MT83",
-   "canal": "achadinhos",
-   "nome": "Panela de Pressão Elétrica Electrolux 5L",
-   "preco_antigo": 519.9,
-   "preco": 319.0,
-   "desconto": 39,
-   "link": "https://www.amazon.com.br/dp/B07BB3MT83?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51429bjUOCL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-19T22:00:00-03:00",
-   "coletado_em": "2026-11-18T13:18:51-03:00",
-   "preco_em": "2026-11-18T13:18:51-03:00",
-   "entrou": "2026-11-18T17:40:11.160280-03:00"
-  },
-  {
-   "id": "amz-B0H6QGYFNT",
-   "canal": "achadinhos",
-   "nome": "Kit Cozinha Tramontina Turim 12 peças (panelas + utensílios)",
-   "preco_antigo": 599.9,
-   "preco": 329.9,
-   "desconto": 45,
-   "link": "https://www.amazon.com.br/dp/B0H6QGYFNT?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61NE-7YOX7L._AC_SL1500_.jpg",
-   "loja": "Vendido por parceiro · entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-19T22:00:00-03:00",
-   "coletado_em": "2026-11-18T13:18:51-03:00",
-   "preco_em": "2026-11-18T13:18:51-03:00",
-   "entrou": "2026-11-18T17:40:11.160280-03:00"
-  },
-  {
    "id": "amz-B08HZHHQK9",
    "canal": "achadinhos",
    "nome": "Cafeteira Elétrica Mondial Smart Coffee C-42 110V",
@@ -22787,6 +22820,61 @@
    "coletado_em": "2026-11-18T13:18:51-03:00",
    "preco_em": "2026-11-18T13:18:51-03:00",
    "entrou": "2026-11-18T17:40:11.160280-03:00"
+  },
+  {
+   "id": "shopee-58217263099",
+   "plataforma": "Shopee",
+   "nome": "Tênis Puma Court Classic Clean Masculino Original com Nota Fiscal e Garantia",
+   "loja": "B2 Online",
+   "loja_oficial": true,
+   "preco": 229.9,
+   "preco_antigo": 328.43,
+   "desconto": 30,
+   "vendas": 202,
+   "nota": 4.9,
+   "comissao_pct": 3.0,
+   "imagem": "https://cf.shopee.com.br/file/br-11134207-820m4-msjv99l4v7k5a8",
+   "link": "https://s.shopee.com.br/1qdh8okkdQ",
+   "quase": true,
+   "canal": "marcas",
+   "entrou": "2026-11-18T18:41:11.875397-03:00"
+  },
+  {
+   "id": "shopee-21049729949",
+   "plataforma": "Shopee",
+   "nome": "Creatina Pura 300g - Max Titanium",
+   "loja": "Empório Natugreen",
+   "loja_oficial": true,
+   "preco": 48.99,
+   "preco_antigo": 195.96,
+   "desconto": 75,
+   "vendas": 166,
+   "nota": 4.9,
+   "comissao_pct": 3.0,
+   "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lyurzqrok1atf2",
+   "link": "https://s.shopee.com.br/1C3CFYssV",
+   "quase": true,
+   "canal": "marcas",
+   "entrou": "2026-11-18T18:41:11.875397-03:00",
+   "reprise_dias": 3
+  },
+  {
+   "id": "shopee-58260024078",
+   "plataforma": "Shopee",
+   "nome": "Kit 2 Creatina Max Titanium 300g Pura",
+   "loja": "Hard Extreme",
+   "loja_oficial": true,
+   "preco": 68.99,
+   "preco_antigo": 149.98,
+   "desconto": 54,
+   "vendas": 745,
+   "nota": 5.0,
+   "comissao_pct": 8.0,
+   "imagem": "https://cf.shopee.com.br/file/br-11134207-820mc-mnsw2jxtutxe75",
+   "link": "https://s.shopee.com.br/9Kji4hOZiD",
+   "canal": "marcas",
+   "entrou": "2026-11-18T18:41:11.875397-03:00",
+   "reprise_dias": 3
   }
  ],
  "menus_fixados": [
@@ -23027,7 +23115,7 @@
   "perfumeacquadigioprofondogiorgioarmaniedp": "2026-11-02T18:30:12.953857-03:00",
   "kit3camisetasbasicasmasculinashering": "2026-11-02T19:03:06.651468-03:00",
   "tenismasculinopumaclubii": "2026-11-02T19:13:12.661528-03:00",
-  "smarttvlg43ldwifibluetoothfullhd43lr6700psahdr10pro": "2026-11-03T08:26:53.992608-03:00",
+  "smarttvlg43ldwifibluetoothfullhd43lr6700psahdr10pro": "2026-11-18T18:34:23.922224-03:00",
   "kitde6paresmeiaslupoinfantilcanomedioemalgodaotamanho24ao35": "2026-11-11T08:49:47.312753-03:00",
   "kitde6paresmeiascanoinvisivelluposportalgodaosoquetesapatilhaunissex": "2026-11-11T08:31:39.127806-03:00",
   "parafusadeiraefuradeiraboschgsb120li12vcommaleta": "2026-11-03T15:25:13.462728-03:00",
@@ -23323,7 +23411,7 @@
   "cabousbdedadosmotorolaoriginalusbc1metro": "2026-11-18T17:55:55.314319-03:00",
   "eudoraclub6voyagedeocoloniamasculino95ml": "2026-11-08T15:28:25.308685-03:00",
   "caixadesomjblboombox4aprovadeaguamarrom": "2026-11-16T12:56:15.055550-03:00",
-  "fonedeouvidobluetoothjbltune530btoverearsemfioate76horasdebateriapreto": "2026-11-08T15:53:28.883076-03:00",
+  "fonedeouvidobluetoothjbltune530btoverearsemfioate76horasdebateriapreto": "2026-11-18T18:47:56.150068-03:00",
   "presentenaturaessencialmasculinominiaturas3un": "2026-11-18T12:22:07.386987-03:00",
   "creatinapura300gmaxtitanium": "2026-11-12T17:11:40.372485-03:00",
   "barradeproteinaovomaltineproteincrispbar45gdisplay12unidadesintegralmedica": "2026-11-16T12:06:47.567675-03:00",
@@ -23405,7 +23493,7 @@
   "tenisfilarecoverymasculino": "2026-11-09T16:17:20.767941-03:00",
   "ventiladordemesaarnoxtreme740cm": "2026-11-09T16:25:14.206250-03:00",
   "barradeproteinawheycrispbar12unintegralmedicaproteinadequalidadebaixacaloriaemuitosabor": "2026-11-09T17:08:13.173005-03:00",
-  "kitcom5camisetasmasculinasbasicasslimhering": "2026-11-09T17:58:16.158926-03:00",
+  "kitcom5camisetasmasculinasbasicasslimhering": "2026-11-18T18:54:47.126438-03:00",
   "controlesemfioxboxdeeppink": "2026-11-09T18:54:58.558004-03:00",
   "perfumelancomelavieestbelleelixirfeminino": "2026-11-09T19:02:49.610132-03:00",
   "mousesemfiologitechliftverticalergonomico": "2026-11-09T19:09:29.136453-03:00",
@@ -24315,7 +24403,9 @@
   "escovasecadoramondialesju02bivolt": "2026-11-18T17:40:16.013156-03:00",
   "copostanleyquencherpeachrose591ml": "2026-11-18T17:47:52.691789-03:00",
   "mixerarnoturbomixpro400w3em1comprocessador": "2026-11-18T18:03:11.364370-03:00",
-  "kit2cuecasslipcalvinkleinalgodao": "2026-11-18T18:09:54.277161-03:00"
+  "kit2cuecasslipcalvinkleinalgodao": "2026-11-18T18:09:54.277161-03:00",
+  "paneladepressaoeletricaelectrolux5l": "2026-11-18T18:17:02.460139-03:00",
+  "kitcozinhatramontinaturim12pecaspanelasutensilios": "2026-11-18T18:25:28.466174-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
@@ -24596,10 +24686,11 @@
   ],
   "2026-11-18": [
    "shopee-29083433141",
+   "shopee-11098381324",
    "shopee-14788823787",
+   "shopee-22997647570",
    "shopee-23298467238",
-   "shopee-23593120156",
-   "shopee-11098381324"
+   "shopee-23593120156"
   ]
  },
  "vendas_shopee": {},
@@ -24732,14 +24823,14 @@
   "2026-11-13 noite achadinhos",
   "2026-11-13 noite marcas"
  ],
- "reserva_meio": "2026-11-18T15:25:15.950940-03:00",
+ "reserva_meio": "2026-11-18T18:41:11.875397-03:00",
  "reserva_cheia": {
   "achadinhos": "2026-11-18T12:06:12.457259-03:00",
   "tech": "2026-11-18T15:25:15.950940-03:00",
-  "marcas": "2026-11-12T17:56:29.409807-03:00"
+  "marcas": "2026-11-18T18:41:11.875397-03:00"
  },
  "top10_dia": "2026-11-14",
- "manuais_lidos": "2026-11-18T18:09:17.571864-03:00",
+ "manuais_lidos": "2026-11-18T18:54:18.500990-03:00",
  "reserva_resultado": {
   "2026-11-07": {
    "achadinhos": {
@@ -24931,8 +25022,8 @@
    },
    "marcas": {
     "busca": 0,
-    "quase": 0,
-    "reprise": 3
+    "quase": 2,
+    "reprise": 5
    },
    "tech": {
     "busca": 0,
@@ -25001,9 +25092,13 @@
   "17986188335901519": {
    "capa": "uma_oferta",
    "hora": "2026-11-17T18:31:49.698687-03:00"
+  },
+  "18020475830955680": {
+   "capa": "uma_oferta",
+   "hora": "2026-11-18T18:33:26.755377-03:00"
   }
  },
- "ig_respondido_em": "2026-11-18T18:09:17.571864-03:00",
+ "ig_respondido_em": "2026-11-18T18:54:18.500990-03:00",
  "dm_auto": {
   "2026-11-11": {
    "com_palavra": 0,
@@ -25221,6 +25316,12 @@
     "capa": "ate_off",
     "legenda": "Manda pra quem tá precisando disso 👇\n😎💎 Até 52% OFF em marca boa: os 5 achados do Papa hoje\n\nOfertas todo dia no Telegram: papagarimpouofertas 💎\n\nPubli · link de afiliado",
     "url": "https://raw.githubusercontent.com/felipenery99-alt/papa-garimpou-robo/tiktok-midia/20261118-1201-tiktok.mp4"
+   },
+   {
+    "hora": "18:33",
+    "capa": "uma_oferta",
+    "legenda": "Manda pra quem tá precisando disso 👇\n😎💎 Escova secador Modeladora Taiff Oval Easy Pink Original\n\nOfertas todo dia no Telegram: papagarimpouofertas 💎\n\nPubli · link de afiliado",
+    "url": "https://raw.githubusercontent.com/felipenery99-alt/papa-garimpou-robo/tiktok-midia/20261118-1833-tiktok.mp4"
    }
   ]
  },
@@ -25239,8 +25340,8 @@
    "feed": 3
   },
   "2026-11-18": {
-   "story": 25,
-   "feed": 1
+   "story": 26,
+   "feed": 2
   }
  },
  "ig_conta_ok": "2026-11-18",
