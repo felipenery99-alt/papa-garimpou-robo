@@ -115,8 +115,14 @@
  },
  "erro em #-#-# marcas #:# nike-#-# (foto): cannot identify image file <_io.BytesI": {
   "primeiro": "2026-11-17T23:24+00:00",
+  "vezes": 3,
+  "ultimo": "2026-11-17T23:56+00:00",
+  "texto": "erro em 2026-11-17 marcas 20:56 nike-029398-54 (foto): cannot identify image file <_io.BytesIO object at 0x744ceacca5c0>. Não postei."
+ },
+ "erro em #-#-# marcas #:# nike-#-ID (foto): cannot identify image file <_io.Bytes": {
+  "primeiro": "2026-11-18T00:02+00:00",
   "vezes": 1,
-  "ultimo": "2026-11-17T23:24+00:00",
-  "texto": "erro em 2026-11-17 marcas 20:24 nike-028312-54 (foto): cannot identify image file <_io.BytesIO object at 0x7c5f0fc88e50>. Não postei."
+  "ultimo": "2026-11-18T00:02+00:00",
+  "texto": "erro em 2026-11-17 marcas 21:02 nike-058825-ID (foto): cannot identify image file <_io.BytesIO object at 0x744ceac71030>. Não postei."
  }
 }
