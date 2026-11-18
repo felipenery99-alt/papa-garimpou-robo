@@ -154,5 +154,11 @@
   "vezes": 1,
   "ultimo": "2026-11-18T00:53+00:00",
   "texto": "erro em 2026-11-17 achadinhos 21:52 amz-B076JK9GVS (envio ao Telegram): HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=60). Não postei."
+ },
+ "erro em #-#-# achadinhos #:# amz-B#CMW#FDQ (envio ao Telegram): HTTPSConnectionP": {
+  "primeiro": "2026-11-18T00:55+00:00",
+  "vezes": 1,
+  "ultimo": "2026-11-18T00:55+00:00",
+  "texto": "erro em 2026-11-17 achadinhos 21:54 amz-B0CMW94FDQ (envio ao Telegram): HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=60). Não postei."
  }
 }

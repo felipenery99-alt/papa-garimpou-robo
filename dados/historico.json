@@ -1698,7 +1698,8 @@
   "2026-11-17 achadinhos 20:31 amz-B09CB7MJMX",
   "2026-11-17 achadinhos 20:35 amz-B079VRBQ23",
   "2026-11-17 tech 20:48 amz-B0FPPCBRML",
-  "2026-11-17 marcas 21:34 nike-029398-54"
+  "2026-11-17 marcas 21:34 nike-029398-54",
+  "2026-11-17 achadinhos 21:55 amz-B08749DNHY"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -3313,7 +3314,8 @@
   "amz-B09CB7MJMX": "2026-11-17T20:31:04.816793-03:00",
   "amz-B079VRBQ23": "2026-11-17T20:35:57.678923-03:00",
   "amz-B0FPPCBRML": "2026-11-17T20:48:57.201762-03:00",
-  "nike-029398-54": "2026-11-17T21:34:35.283712-03:00"
+  "nike-029398-54": "2026-11-17T21:34:35.283712-03:00",
+  "amz-B08749DNHY": "2026-11-17T21:55:30.880527-03:00"
  },
  "ofertas_dia": [
   {
@@ -21062,6 +21064,23 @@
    "coletado_em": "2026-11-17T18:20:00-03:00",
    "entrou": "2026-11-17T21:15:42.818264-03:00",
    "dia": "2026-11-17"
+  },
+  {
+   "id": "amz-B08749DNHY",
+   "canal": "achadinhos",
+   "nome": "Mixer Philips Walita Daily RI2532",
+   "preco_antigo": 192.0,
+   "preco": 132.0,
+   "desconto": 31,
+   "link": "https://www.amazon.com.br/dp/B08749DNHY?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51XaGdlpN9L.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-18T22:00:00-03:00",
+   "coletado_em": "2026-11-17T18:19:41-03:00",
+   "preco_em": "2026-11-17T18:19:41-03:00",
+   "entrou": "2026-11-17T18:31:49.698687-03:00",
+   "dia": "2026-11-17"
   }
  ],
  "ig_feitos": [
@@ -21537,38 +21556,6 @@
  "ultimo_pilar": "anticilada",
  "fila": [
   {
-   "id": "amz-B0CMW94FDQ",
-   "canal": "achadinhos",
-   "nome": "Secador Taiff Unique 3100W",
-   "preco_antigo": 1499.9,
-   "preco": 1043.42,
-   "desconto": 30,
-   "link": "https://www.amazon.com.br/dp/B0CMW94FDQ?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51y4O+8VgnL.jpg",
-   "loja": "Vendido por parceiro · entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-18T22:00:00-03:00",
-   "coletado_em": "2026-11-17T18:19:41-03:00",
-   "preco_em": "2026-11-17T18:19:41-03:00",
-   "entrou": "2026-11-17T18:31:49.698687-03:00"
-  },
-  {
-   "id": "amz-B08749DNHY",
-   "canal": "achadinhos",
-   "nome": "Mixer Philips Walita Daily RI2532",
-   "preco_antigo": 192.0,
-   "preco": 132.0,
-   "desconto": 31,
-   "link": "https://www.amazon.com.br/dp/B08749DNHY?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51XaGdlpN9L.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-18T22:00:00-03:00",
-   "coletado_em": "2026-11-17T18:19:41-03:00",
-   "preco_em": "2026-11-17T18:19:41-03:00",
-   "entrou": "2026-11-17T18:31:49.698687-03:00"
-  },
-  {
    "id": "amz-B0BXNR9DB6",
    "canal": "tech",
    "nome": "Mouse sem Fio Logitech M240 Silent",
@@ -21819,6 +21806,56 @@
    "coletado_em": "2026-11-17T18:19:41-03:00",
    "preco_em": "2026-11-17T18:19:41-03:00",
    "entrou": "2026-11-17T21:52:46.715800-03:00"
+  },
+  {
+   "id": "amz-B076JK9GVS",
+   "canal": "achadinhos",
+   "nome": "Faca para Carne 8\" Tramontina",
+   "preco_antigo": 69.99,
+   "preco": 42.74,
+   "desconto": 39,
+   "link": "https://www.amazon.com.br/dp/B076JK9GVS?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/41LwTBa4GwL.jpg",
+   "loja": "Vendido por parceiro · entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-18T22:00:00-03:00",
+   "coletado_em": "2026-11-17T18:19:41-03:00",
+   "preco_em": "2026-11-17T18:19:41-03:00",
+   "entrou": "2026-11-17T21:54:26.704434-03:00"
+  },
+  {
+   "id": "amz-B0CMW94FDQ",
+   "canal": "achadinhos",
+   "nome": "Secador Taiff Unique 3100W",
+   "preco_antigo": 1499.9,
+   "preco": 1043.42,
+   "desconto": 30,
+   "link": "https://www.amazon.com.br/dp/B0CMW94FDQ?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51y4O+8VgnL.jpg",
+   "loja": "Vendido por parceiro · entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-18T22:00:00-03:00",
+   "coletado_em": "2026-11-17T18:19:41-03:00",
+   "preco_em": "2026-11-17T18:19:41-03:00",
+   "entrou": "2026-11-17T21:54:26.704434-03:00"
+  },
+  {
+   "id": "shopee-18216465769",
+   "plataforma": "Shopee",
+   "nome": "Kit 10 Pares Meias Lupo Sport Cano Invisível Algodão Soquete Sapatilha Unissex Original Confortável",
+   "loja": "Deccó",
+   "loja_oficial": true,
+   "preco": 76.29,
+   "preco_antigo": 136.23,
+   "desconto": 44,
+   "vendas": 538,
+   "nota": 4.9,
+   "comissao_pct": 7.0,
+   "imagem": "https://cf.shopee.com.br/file/br-11134207-820l4-mq6aqvo690cje6",
+   "link": "https://s.shopee.com.br/7VHymw568D",
+   "canal": "marcas",
+   "entrou": "2026-11-17T21:54:26.704434-03:00",
+   "reprise_dias": 7
   }
  ],
  "menus_fixados": [
@@ -23278,7 +23315,8 @@
   "cafeteiraeletricaelectrolux": "2026-11-17T20:31:04.816793-03:00",
   "hidratantelabialniveamorangoshine48g": "2026-11-17T20:35:57.678923-03:00",
   "samsunggalaxya175g": "2026-11-17T20:48:57.201762-03:00",
-  "tenisnikepegasusplusfeminino": "2026-11-17T21:34:35.283712-03:00"
+  "tenisnikepegasusplusfeminino": "2026-11-17T21:34:35.283712-03:00",
+  "mixerphilipswalitadailyri2532": "2026-11-17T21:55:30.880527-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
@@ -23653,7 +23691,7 @@
  "ultimo_garimpo": "2026-11-17T18:19:47-03:00",
  "vigia_aviso_post": "2026-11-09T18:27:03.734589-03:00",
  "vigia_aviso_garimpo": "2026-11-17T17:06:41.040750-03:00",
- "resumo_enviado": "2026-11-16",
+ "resumo_enviado": "2026-11-17",
  "token_conferido": "2026-11-17",
  "meta_token": {
   "tipo": "SYSTEM_USER",
@@ -23694,7 +23732,7 @@
   "marcas": "2026-11-12T17:56:29.409807-03:00"
  },
  "top10_dia": "2026-11-14",
- "manuais_lidos": "2026-11-17T21:52:46.715800-03:00",
+ "manuais_lidos": "2026-11-17T22:10:05.111744-03:00",
  "reserva_resultado": {
   "2026-11-07": {
    "achadinhos": {
@@ -23870,7 +23908,7 @@
    "marcas": {
     "busca": 0,
     "quase": 0,
-    "reprise": 2
+    "reprise": 3
    },
    "tech": {
     "busca": 2,
@@ -23941,7 +23979,7 @@
    "hora": "2026-11-17T18:31:49.698687-03:00"
   }
  },
- "ig_respondido_em": "2026-11-17T21:52:46.715800-03:00",
+ "ig_respondido_em": "2026-11-17T22:10:05.111744-03:00",
  "dm_auto": {
   "2026-11-10": {
    "com_palavra": 0,
@@ -24217,6 +24255,15 @@
    "chat_tipo": "private",
    "message_ids": [
     83
+   ]
+  },
+  {
+   "dia": "2026-11-17",
+   "quando": "17/11 21:54",
+   "ok": true,
+   "chat_tipo": "private",
+   "message_ids": [
+    84
    ]
   }
  ],
