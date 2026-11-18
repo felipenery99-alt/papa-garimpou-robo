@@ -3502,8 +3502,8 @@
    "erro em 2026-11-17 achadinhos 21:52 amz-B076JK9GVS (envio ao Telegram): HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=60). Não postei.",
    "erro em 2026-11-17 achadinhos 21:54 amz-B0CMW94FDQ (envio ao Telegram): HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=60). Não postei."
   ],
-  "ultima_execucao": "23:34",
-  "execucoes": 30,
+  "ultima_execucao": "23:51",
+  "execucoes": 31,
   "telegram_posts": {
    "achadinhos": 48,
    "marcas": 32,
@@ -7566,7 +7566,7 @@
    "stories_ativos": 25
   },
   "reels_alcance": {
-   "atualizado": "2026-11-17T23:34:23.593771-03:00",
+   "atualizado": "2026-11-17T23:51:41.581336-03:00",
    "itens": [
     {
      "id": "17986188335901519",
