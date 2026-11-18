@@ -2028,5 +2028,63 @@
   "plataforma": "Amazon",
   "valida_ate": "2026-11-19T22:00:00-03:00",
   "coletado_em": "2026-11-18T13:18:51-03:00"
+ },
+ {
+  "id": "amz-B0DXP69QCQ",
+  "canal": "marcas",
+  "nome": "Garrafa Stanley Aerolight Flip Straw Splash 710ml",
+  "preco_antigo": 309.0,
+  "preco": 210.35,
+  "desconto": 32,
+  "link": "https://www.amazon.com.br/dp/B0DXP69QCQ?tag=papagarimpou-20",
+  "imagem": "https://m.media-amazon.com/images/I/41lr0WIBDGL._AC_SL1500_.jpg",
+  "loja": "Vendido e entregue pela Amazon",
+  "plataforma": "Amazon",
+  "valida_ate": "2026-11-19T22:00:00-03:00",
+  "coletado_em": "2026-11-18T13:19:56-03:00"
+ },
+ {
+  "id": "amz-B09LQGKF2J",
+  "canal": "marcas",
+  "nome": "Whey Dux Fresh Whey 450g Chocolate e Pasta de Amendoim",
+  "preco_antigo": 271.36,
+  "preco": 199.29,
+  "desconto": 27,
+  "link": "https://www.amazon.com.br/dp/B09LQGKF2J?tag=papagarimpou-20",
+  "imagem": "https://m.media-amazon.com/images/I/617NFOoJq+L._AC_SL1500_.jpg",
+  "loja": "Vendido por parceiro · entregue pela Amazon",
+  "plataforma": "Amazon",
+  "valida_ate": "2026-11-19T22:00:00-03:00",
+  "coletado_em": "2026-11-18T13:19:56-03:00"
+ },
+ {
+  "id": "amz-B0GMJWK9VX",
+  "canal": "marcas",
+  "nome": "Tênis New Balance Fresh Foam Arishi v4 Feminino",
+  "preco_antigo": 549.99,
+  "preco": 295.9,
+  "desconto": 46,
+  "link": "https://www.amazon.com.br/dp/B0GMJWK9VX?tag=papagarimpou-20",
+  "imagem": "https://m.media-amazon.com/images/I/61F6SqII8YL._AC_SL1500_.jpg",
+  "loja": "Vendido por parceiro · entregue pela Amazon",
+  "plataforma": "Amazon",
+  "valida_ate": "2026-11-19T22:00:00-03:00",
+  "coletado_em": "2026-11-18T13:19:56-03:00",
+  "extra": "Preço a partir de: varia por tamanho e cor"
+ },
+ {
+  "id": "amz-B0C157D2FP",
+  "canal": "marcas",
+  "nome": "Kit 2 Cuecas Slip Calvin Klein Algodão",
+  "preco_antigo": 188.99,
+  "preco": 129.99,
+  "desconto": 31,
+  "link": "https://www.amazon.com.br/dp/B0C157D2FP?tag=papagarimpou-20",
+  "imagem": "https://m.media-amazon.com/images/I/71tYHB8Bc3L._AC_SL1500_.jpg",
+  "loja": "Vendido por parceiro · entregue pela Amazon",
+  "plataforma": "Amazon",
+  "valida_ate": "2026-11-19T22:00:00-03:00",
+  "coletado_em": "2026-11-18T13:19:56-03:00",
+  "extra": "Preço a partir de: varia por tamanho e cor"
  }
 ]
