@@ -3639,17 +3639,17 @@
    "erro em 2026-11-18 marcas 14:43 amz-B0GTR9N84L (envio ao Telegram): HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot8405810184:AAGXrdPpTxxaVAUClbMix_JMGwqgq8vhwwA/sendPhoto (Caused by NewConnectionError(\"HTTPSConnection(host='api.telegram.org', port=443): F",
    "⚠️ Fila vazia (tech), último garimpo 13:19 — abrir o app Claude e conferir as rotinas"
   ],
-  "ultima_execucao": "15:13",
-  "execucoes": 15,
+  "ultima_execucao": "16:01",
+  "execucoes": 16,
   "telegram_posts": {
-   "achadinhos": 28,
-   "marcas": 19,
-   "tech": 13
+   "achadinhos": 31,
+   "marcas": 21,
+   "tech": 14
   },
   "ultimo_post": {
-   "achadinhos": "15:52",
-   "marcas": "15:59",
-   "tech": "15:44"
+   "achadinhos": "16:33",
+   "marcas": "16:41",
+   "tech": "16:27"
   },
   "meta_token": {
    "tipo": "SYSTEM_USER",
@@ -3701,7 +3701,8 @@
    "13:22 story_oferta",
    "14:08 story_oferta",
    "15:00 adivinha",
-   "15:03 story_oferta"
+   "15:03 story_oferta",
+   "16:05 adivinha_resposta"
   ],
   "shopee_ligada": true,
   "dm_auto": {
@@ -5636,7 +5637,7 @@
    "shopee-23194863799": "outro: marca fora da lista boa",
    "shopee-58250708001": "outro: marca fora da lista boa",
    "shopee-58214251447": "outro: marca fora da lista boa",
-   "shopee-58209674589": "aprovada",
+   "shopee-58209674589": "desconto longe",
    "shopee-58209674409": "vendas perto (125+)",
    "shopee-58209674415": "vendas longe",
    "shopee-58259715344": "vendas longe",
@@ -7024,14 +7025,16 @@
    "shopee-58215222631": "vendas longe",
    "shopee-58216573505": "vendas longe",
    "shopee-48969803614": "nota",
-   "shopee-23597981680": "vendas longe"
+   "shopee-23597981680": "vendas longe",
+   "shopee-18899568986": "vendas longe",
+   "shopee-58257621281": "aprovada"
   },
   "shopee_oficial": {
-   "vendas longe": 1728,
+   "vendas longe": 1729,
    "nota": 1184,
    "vendas perto (125+)": 109,
    "outro: marca fora da lista boa": 81,
-   "desconto longe": 71,
+   "desconto longe": 72,
    "aprovada": 69,
    "outro: palavra proibida: compatível": 30,
    "desconto perto (até 10 pts)": 24
@@ -7246,10 +7249,16 @@
    "amz-B076MCNZX6": "ja_postado_30d",
    "amz-B09KF6GLRM": "ja_postado_30d",
    "amz-B00T5AVD0C": "ja_postado_30d",
-   "amz-B0GTR56Y8K": "ja_postado_30d"
+   "amz-B0GTR56Y8K": "ja_postado_30d",
+   "amz-B0HJ9Y41M3": "ja_postado_30d",
+   "amz-B09B1B9QBP": "ja_postado_30d",
+   "amz-B07RHVJ9SL": "ja_postado_30d",
+   "amz-B0DCPBKT3Q": "ja_postado_30d",
+   "amz-B0FFV49J9T": "ja_postado_30d",
+   "amz-B08CL3JQ26": "ja_postado_30d"
   },
   "manuais_descartados": {
-   "ja_postado_30d": 209,
+   "ja_postado_30d": 215,
    "amazon_preco_24h": 1
   },
   "instagram": {
@@ -7261,7 +7270,7 @@
    "stories_ativos": 25
   },
   "reels_alcance": {
-   "atualizado": "2026-11-18T15:13:14.557657-03:00",
+   "atualizado": "2026-11-18T16:01:46.901378-03:00",
    "itens": [
     {
      "id": "17986188335901519",
