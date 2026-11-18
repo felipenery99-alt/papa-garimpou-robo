@@ -1046,6 +1046,11 @@ def guardar_tiktok(h: dict, agora: datetime, mp4: bytes, leg: str, capa: str) ->
 
 
 SIGA_REEL = "\n\n👉 Siga @papa.garimpou pra não perder"
+# 18/11 (CEO): alcance da conta caiu de 2,3 mil (15/11) para 254 (16/11) e 35 (17/11); seguidores +6/dia (meta pede ~30).
+# Só os Reels pediam "siga"; carrossel TOP 5 e posts do feed não pediam nem compartilhamento nem seguir.
+# Compartilhamento é o que leva o post a quem ainda não segue. Até a Black Friday, o feed abre com o gancho de mandar
+# pra alguém e fecha com o "siga". Voltar em 28/11 (tirar GANCHO_FEED e SIGA_REEL das linhas do feed).
+GANCHO_FEED = "Manda pra quem tá esperando a Black Friday 👇\n\n"
 # 05/11 (CEO): seguidor do Instagram não vira membro do Telegram. Fecho único: comentar TELEGRAM → convite no direct
 # (link "ig-dm"). Sem hashtag; o aviso de publicidade fica em texto.
 # 12/11 (CEO): 0 comentários TELEGRAM e 0 cliques na bio há dias; a busca do Telegram acha o canal pelo @ e pelo
@@ -1126,7 +1131,7 @@ def post_do_banco(h: dict, agora: datetime, chave: str) -> None:
     if cont.get(hoje, 0) >= 2:
         return
     for pc in conteudo.escolher(h, agora.date(), para_story=False):
-        instagram.foto(artes.peca(pc, story=False), f"{agora:%Y%m%d}-feed-{pc['id']}.jpg", pc["legenda"] + LEGENDA_CTA)
+        instagram.foto(artes.peca(pc, story=False), f"{agora:%Y%m%d}-feed-{pc['id']}.jpg", GANCHO_FEED + pc["legenda"] + SIGA_REEL + LEGENDA_CTA)
         h["feed_dia"] = {hoje: cont.get(hoje, 0) + 1}
         h.setdefault("ig_feitos", []).append(f"{hoje} feed")
         print(f"[ig] publicado {chave} (post do banco {pc['id']})")
@@ -1652,7 +1657,7 @@ def rodar_instagram(h: dict, agora: datetime) -> None:
                 leg = f"😎💎 Achado do dia: {o['nome']}\n\nDe {post._brl(o['preco_antigo'])} por {post._brl(o['preco'])} ({o['desconto']}% OFF)" if o.get("preco_antigo") else f"😎💎 Achado do dia: {o['nome']} por {post._brl(o['preco'])}"
                 if "so_telegram_ate" in o:
                     leg = "⚡ Saiu primeiro no Telegram.\n\n" + leg
-                instagram.foto(artes.post_oferta(o, o["canal"]), f"{tag}-post-{o['id']}.jpg", leg + LEGENDA_CTA)
+                instagram.foto(artes.post_oferta(o, o["canal"]), f"{tag}-post-{o['id']}.jpg", GANCHO_FEED + leg + SIGA_REEL + LEGENDA_CTA)
                 usadas.append(o["id"])
             elif tipo == "reels":
                 import video
@@ -1715,7 +1720,7 @@ def rodar_instagram(h: dict, agora: datetime) -> None:
                     continue
                 slides = [artes.capa_top5(agora.timetuple().tm_yday)] + [artes.post_oferta(o, o["canal"]) for o in top]
                 lista = "\n".join(f"{i+1}. {o['nome'][:60]} — {post._brl(o['preco'])}" for i, o in enumerate(top))
-                instagram.carrossel(slides, f"{tag}-top5", "😎💎 TOP 5 do Papa hoje\n\n" + lista + LEGENDA_CTA)
+                instagram.carrossel(slides, f"{tag}-top5", GANCHO_FEED + "😎💎 TOP 5 do Papa hoje\n\n" + lista + SIGA_REEL + LEGENDA_CTA)
             if tipo in ("post_achado", "carrossel_top5", "reels") and publica:
                 feitos.append(f"{hoje} feed")
             feitos.append(chave)
