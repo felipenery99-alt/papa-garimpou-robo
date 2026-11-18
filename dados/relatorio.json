@@ -3629,17 +3629,17 @@
  },
  "2026-11-18": {
   "erros": [],
-  "ultima_execucao": "04:44",
-  "execucoes": 5,
+  "ultima_execucao": "08:17",
+  "execucoes": 6,
   "telegram_posts": {
-   "achadinhos": 0,
-   "marcas": 0,
-   "tech": 0
+   "achadinhos": 4,
+   "marcas": 2,
+   "tech": 1
   },
   "ultimo_post": {
-   "achadinhos": null,
-   "marcas": null,
-   "tech": null
+   "achadinhos": "08:53",
+   "marcas": "09:01",
+   "tech": "08:46"
   },
   "meta_token": {
    "tipo": "SYSTEM_USER",
@@ -3647,7 +3647,7 @@
    "vence": "não vence",
    "acesso_vence": "-"
   },
-  "ultimo_garimpo": "17/11 18:19",
+  "ultimo_garimpo": "18/11 08:16",
   "convites_story": {
    "story-20261101": 0,
    "story-20261102": 0,
@@ -3671,7 +3671,11 @@
    "tech": 7,
    "geral": 5
   },
-  "instagram_feito": [],
+  "instagram_feito": [
+   "08:07 story_oferta",
+   "08:45 story_oferta",
+   "08:52 story_oferta"
+  ],
   "shopee_ligada": true,
   "dm_auto": {
    "com_palavra": 0,
@@ -6402,12 +6406,53 @@
    "shopee-58220452271": "vendas longe",
    "shopee-58220444448": "outro: marca fora da lista boa",
    "shopee-40717702468": "aprovada",
-   "shopee-23999162333": "aprovada"
+   "shopee-23999162333": "aprovada",
+   "shopee-23994857353": "vendas longe",
+   "shopee-58257897588": "vendas longe",
+   "shopee-44104298201": "vendas longe",
+   "shopee-22294467652": "vendas longe",
+   "shopee-18798272909": "vendas longe",
+   "shopee-58271562539": "nota",
+   "shopee-58271621138": "nota",
+   "shopee-58271621023": "nota",
+   "shopee-58271620999": "nota",
+   "shopee-58271612012": "nota",
+   "shopee-58271607680": "nota",
+   "shopee-58271593429": "nota",
+   "shopee-58271563794": "nota",
+   "shopee-58271563457": "nota",
+   "shopee-58271563286": "nota",
+   "shopee-58271563195": "nota",
+   "shopee-58206731772": "vendas longe",
+   "shopee-58204486181": "nota",
+   "shopee-22693412998": "vendas longe",
+   "shopee-22498563462": "nota",
+   "shopee-22297924431": "nota",
+   "shopee-22297919650": "nota",
+   "shopee-22297919518": "nota",
+   "shopee-58262314234": "nota",
+   "shopee-58254166380": "nota",
+   "shopee-22299029413": "nota",
+   "shopee-58204904664": "vendas perto (125+)",
+   "shopee-56755782843": "vendas longe",
+   "shopee-14768954911": "vendas longe",
+   "shopee-23093085005": "vendas longe",
+   "shopee-58269774242": "vendas longe",
+   "shopee-41080144010": "vendas longe",
+   "shopee-58251622088": "nota",
+   "shopee-58252993157": "nota",
+   "shopee-58213040580": "vendas longe",
+   "shopee-58270527382": "vendas longe",
+   "shopee-23592011906": "vendas longe",
+   "shopee-43334395009": "vendas longe",
+   "shopee-48504420752": "vendas longe",
+   "shopee-58207910267": "vendas longe",
+   "shopee-58220419348": "nota"
   },
   "shopee_oficial": {
-   "vendas longe": 1433,
-   "nota": 916,
-   "vendas perto (125+)": 105,
+   "vendas longe": 1451,
+   "nota": 938,
+   "vendas perto (125+)": 106,
    "outro: marca fora da lista boa": 78,
    "desconto longe": 70,
    "aprovada": 68,
@@ -6581,21 +6626,26 @@
    "amz-B0785VXRX2": "ja_postado_30d",
    "amz-B0H1FS1ZLK": "ja_postado_30d",
    "amz-B08749DNHY": "ja_postado_30d",
-   "nike-029398-54": "ja_postado_30d"
+   "nike-029398-54": "ja_postado_30d",
+   "amz-B09GHL35B3": "ja_postado_30d",
+   "amz-B076JK9GVS": "ja_postado_30d",
+   "amz-B0CMW94FDQ": "ja_postado_30d",
+   "amz-B0FHJ8QQB8": "ja_postado_30d",
+   "amz-B0DMTYSX8Y": "ja_postado_30d"
   },
   "manuais_descartados": {
-   "ja_postado_30d": 167
+   "ja_postado_30d": 172
   },
   "instagram": {
    "seguidores": 508,
    "posts": 131,
-   "reach": 35,
-   "profile_views": 46,
+   "reach": 24,
+   "profile_views": 28,
    "website_clicks": 0,
    "stories_ativos": 25
   },
   "reels_alcance": {
-   "atualizado": "2026-11-18T04:44:34.202571-03:00",
+   "atualizado": "2026-11-18T08:17:23.392412-03:00",
    "itens": [
     {
      "id": "17986188335901519",
