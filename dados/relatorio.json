@@ -3629,8 +3629,8 @@
  },
  "2026-11-18": {
   "erros": [],
-  "ultima_execucao": "00:42",
-  "execucoes": 2,
+  "ultima_execucao": "01:08",
+  "execucoes": 3,
   "telegram_posts": {
    "achadinhos": 0,
    "marcas": 0,
@@ -3698,7 +3698,7 @@
    "parado_sem_permissao": "08/11 13:21"
   },
   "shopee_oficial_ids": {
-   "shopee-19497608994": "aprovada",
+   "shopee-19497608994": "desconto longe",
    "shopee-18597753531": "aprovada",
    "shopee-18271829175": "desconto longe",
    "shopee-21299179885": "desconto perto (até 10 pts)",
@@ -6367,15 +6367,32 @@
    "shopee-18499921197": "desconto perto (até 10 pts)",
    "shopee-22893747649": "vendas perto (125+)",
    "shopee-22394989725": "vendas longe",
-   "shopee-10213383236": "outro: palavra proibida: compatível"
+   "shopee-10213383236": "outro: palavra proibida: compatível",
+   "shopee-58272194828": "nota",
+   "shopee-58213442266": "vendas longe",
+   "shopee-49667389593": "vendas longe",
+   "shopee-58222185516": "nota",
+   "shopee-23094897891": "vendas longe",
+   "shopee-58220250509": "nota",
+   "shopee-44271743300": "nota",
+   "shopee-57801564365": "nota",
+   "shopee-56252477792": "nota",
+   "shopee-53401569157": "nota",
+   "shopee-52352473441": "nota",
+   "shopee-47701574753": "nota",
+   "shopee-45757836869": "nota",
+   "shopee-45302483982": "nota",
+   "shopee-58204427408": "nota",
+   "shopee-58222368107": "nota",
+   "shopee-58222368037": "nota"
   },
   "shopee_oficial": {
-   "vendas longe": 1423,
-   "nota": 896,
+   "vendas longe": 1426,
+   "nota": 910,
    "vendas perto (125+)": 104,
    "outro: marca fora da lista boa": 76,
-   "desconto longe": 70,
-   "aprovada": 66,
+   "desconto longe": 71,
+   "aprovada": 65,
    "desconto perto (até 10 pts)": 24,
    "outro: palavra proibida: compatível": 11
   },
@@ -6560,7 +6577,7 @@
    "stories_ativos": 25
   },
   "reels_alcance": {
-   "atualizado": "2026-11-18T00:42:42.833251-03:00",
+   "atualizado": "2026-11-18T01:08:17.647793-03:00",
    "itens": [
     {
      "id": "17986188335901519",

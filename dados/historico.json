@@ -21314,25 +21314,6 @@
  "ultimo_pilar": "anticilada",
  "fila": [
   {
-   "id": "nike-058825-ID",
-   "canal": "marcas",
-   "nome": "Camisa Nike Corinthians II 2025/26 Torcedor Pro Masculina",
-   "preco_antigo": 349.99,
-   "preco": 150.36,
-   "desconto": 57,
-   "cupom": "BLACK30",
-   "pix": 142.84,
-   "extra": "Cupom BLACK30 (30% em selecionados, até 19/11) · no Pix R$ 142,84",
-   "link": "https://www.awin1.com/cread.php?awinmid=17652&awinaffid=3137490&ued=https%3A%2F%2Fwww.nike.com.br%2Fcamisa-nike-corinthians-ii-2025-26-torcedor-pro-masculina-058825.html%3Fcor%3DID",
-   "imagem": "https://imgnike-a.akamaihd.net/1300x1300/058825ID.jpg",
-   "loja": "Loja oficial Nike",
-   "plataforma": "Nike",
-   "valida_ate": "2026-11-19T23:59:00-03:00",
-   "preco_em": "2026-11-17T18:20:00-03:00",
-   "coletado_em": "2026-11-17T18:20:00-03:00",
-   "entrou": "2026-11-17T21:15:42.818264-03:00"
-  },
-  {
    "id": "nike-028312-54",
    "canal": "marcas",
    "nome": "Tênis Nike Air Zoom Alphafly 3 Masculino",
@@ -21750,6 +21731,25 @@
    "coletado_em": "2026-11-17T12:21:44-03:00",
    "preco_em": "2026-11-17T12:21:44-03:00",
    "entrou": "2026-11-18T00:55:27.491361-03:00"
+  },
+  {
+   "id": "nike-058825-ID",
+   "canal": "marcas",
+   "nome": "Camisa Nike Corinthians II 2025/26 Torcedor Pro Masculina",
+   "preco_antigo": 349.99,
+   "preco": 150.36,
+   "desconto": 57,
+   "cupom": "BLACK30",
+   "pix": 142.84,
+   "extra": "Cupom BLACK30 (30% em selecionados, até 19/11) · no Pix R$ 142,84",
+   "link": "https://www.awin1.com/cread.php?awinmid=17652&awinaffid=3137490&ued=https%3A%2F%2Fwww.nike.com.br%2Fcamisa-nike-corinthians-ii-2025-26-torcedor-pro-masculina-058825.html%3Fcor%3DID",
+   "imagem": "https://imgnike-a.akamaihd.net/1300x1300/058825ID.jpg",
+   "loja": "Loja oficial Nike",
+   "plataforma": "Nike",
+   "valida_ate": "2026-11-19T23:59:00-03:00",
+   "preco_em": "2026-11-17T18:20:00-03:00",
+   "coletado_em": "2026-11-17T18:20:00-03:00",
+   "entrou": "2026-11-18T01:22:38.646490-03:00"
   }
  ],
  "menus_fixados": [
@@ -23630,7 +23630,7 @@
   "marcas": "2026-11-12T17:56:29.409807-03:00"
  },
  "top10_dia": "2026-11-14",
- "manuais_lidos": "2026-11-18T00:55:27.491361-03:00",
+ "manuais_lidos": "2026-11-18T01:22:38.646490-03:00",
  "reserva_resultado": {
   "2026-11-07": {
    "achadinhos": {
@@ -23877,7 +23877,7 @@
    "hora": "2026-11-17T18:31:49.698687-03:00"
   }
  },
- "ig_respondido_em": "2026-11-18T00:55:27.491361-03:00",
+ "ig_respondido_em": "2026-11-18T01:22:38.646490-03:00",
  "dm_auto": {
   "2026-11-11": {
    "com_palavra": 0,
