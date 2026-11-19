@@ -67,7 +67,9 @@ SALVAVEL_DIA_SEMANA = 3   # quinta
 # 14/11 (CEO): seguidores +11 em 13/11 (meta 780 até 27/11 pede ~23/dia). Post salvável é o formato que gera
 # salvamento/compartilhamento e o QUERO dele leva à DM com convite do Telegram. Até a Black Friday sai também
 # na segunda (outra categoria da quinta). Voltar a só quinta em 28/11.
-SALVAVEL_DIAS = {0, SALVAVEL_DIA_SEMANA}
+# 19/11 (CEO): seguidores parados (508 em 17 e 18/11, meta 780 até 27/11) → domingo também até a Black Friday (sábado 19h15 já é o Top 5 da semana)
+# (categoria gira a cada salvável, sem repetir a do anterior). Voltar a só quinta em 28/11.
+SALVAVEL_DIAS = {0, SALVAVEL_DIA_SEMANA, 6}
 
 # ---------------------------------------------------------------------------
 # RITMO

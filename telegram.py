@@ -253,12 +253,31 @@ def _ja_avisou_24h(texto: str) -> bool:
     return False
 
 
+_SEGREDO_RE = [
+    (re.compile(r"bot\d+:[A-Za-z0-9_-]{20,}"), "bot***"),
+    (re.compile(r"(access_token|token|key|secret|sign)=[^&\s'\"]+", re.I), r"\1=***"),
+]
+
+
+def limpar_segredos(texto: str) -> str:
+    """19/11: o erro de conexão do requests traz a URL inteira, e a URL do Telegram tem o token do bot
+    (vazou no relatorio.json, que é público). Tira token/chave de qualquer texto que vai para arquivo."""
+    texto = str(texto)
+    for nome, valor in os.environ.items():
+        if len(valor) >= 12 and re.search(r"TOKEN|SECRET|KEY|SENHA|PASSWORD|APP_ID", nome.upper()):
+            texto = texto.replace(valor, "***")
+    for padrao, troca in _SEGREDO_RE:
+        texto = padrao.sub(troca, texto)
+    return texto
+
+
 def avisar_dono(texto: str, prefixo: bool = True, urgente: bool | None = None, dono: bool | None = None) -> None:
     """Aviso de problema. Vai para o relatório (erros) e:
     - só o dono resolve (token/login da Meta, conta bloqueada, destino errado; ou `dono=True`) → chat do dono
       (ALERTA_CHAT_ID), no máximo 1 aviso igual a cada 24 h;
     - todo o resto (garimpo, fila, canal sem post, conexão, Top 10, convite…) → dados/alertas-central.json.
     Nunca vai para os canais. `prefixo`/`urgente` ficam por compatibilidade (urgente não fura mais o limite de 24 h)."""
+    texto = limpar_segredos(texto)
     chat = os.environ.get("ALERTA_CHAT_ID", "").strip()
     print(f"[ALERTA] {texto}")
     ERROS.append(texto[:300])

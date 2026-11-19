@@ -115,7 +115,7 @@ def gravar_relatorio(h: dict, agora: datetime) -> None:
     dia["erros"] = (dia.get("erros", []) + telegram.ERROS)[-30:]
     for velho in sorted(rel)[:-14]:
         rel.pop(velho)
-    RELATORIO.write_text(json.dumps(rel, ensure_ascii=False, indent=1), encoding="utf-8")
+    RELATORIO.write_text(telegram.limpar_segredos(json.dumps(rel, ensure_ascii=False, indent=1)), encoding="utf-8")
 
 
 def chave_nome(nome: str) -> str:
@@ -1248,9 +1248,13 @@ def publicar_salvavel(h: dict, agora: datetime, tag: str) -> bool:
     pool = [o for o in h.get("ofertas_dia", []) if o.get("dia", "") >= semana and liberada_ig(o, agora)] \
         + [o for o in carregar_manuais(h, agora) if "so_telegram_ate" not in o]
     n = len(config.SALVAVEIS)
+    # 19/11 (CEO): a categoria gira a cada dia de salvável (contados desde 01/11), não pela semana: com domingo,
+    # segunda e quinta nenhum dia seguido repete a categoria do anterior.
+    inicio = datetime(2026, 11, 1).date()
+    vez = 1 + sum(1 for i in range((agora.date() - inicio).days)
+                  if (inicio + timedelta(days=i)).weekday() in config.SALVAVEL_DIAS)
     for k in range(n):
-        # 14/11: segunda e quinta da mesma semana começam por categorias diferentes
-        cat, palavras, teto = config.SALVAVEIS[(2 * agora.isocalendar()[1] + (agora.weekday() >= 3) + k) % n]
+        cat, palavras, teto = config.SALVAVEIS[(vez + k) % n]
         vistos, top = set(), []
         for o in sorted(pool, key=lambda o: o.get("desconto") or 0, reverse=True):
             nome = (o.get("nome") or "").lower()
