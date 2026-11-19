@@ -1832,7 +1832,8 @@
   "2026-11-19 achadinhos 13:33 shopee-22194978721",
   "2026-11-19 tech 13:43 shopee-40084160591",
   "2026-11-19 tech 16:01 shopee-19399263103",
-  "2026-11-19 marcas 16:22 shopee-45766835949"
+  "2026-11-19 marcas 16:22 shopee-45766835949",
+  "2026-11-19 achadinhos 16:47 shopee-23697606453"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -3527,7 +3528,8 @@
   "shopee-43630230308": "2026-11-19T13:06:41.617483-03:00",
   "shopee-22893747649": "2026-11-19T13:14:40.199395-03:00",
   "shopee-7380179382": "2026-11-19T13:26:50.044292-03:00",
-  "shopee-45766835949": "2026-11-19T16:22:38.514244-03:00"
+  "shopee-45766835949": "2026-11-19T16:22:38.514244-03:00",
+  "shopee-23697606453": "2026-11-19T16:47:49.471586-03:00"
  },
  "ofertas_dia": [
   {
@@ -21885,6 +21887,25 @@
    "canal": "marcas",
    "entrou": "2026-11-19T16:16:00.074019-03:00",
    "dia": "2026-11-19"
+  },
+  {
+   "id": "shopee-23697606453",
+   "plataforma": "Shopee",
+   "nome": "Sanduicheira e Grill Britânia Press 2 em 1 850W (BGR27I)",
+   "loja": "Lojas MM",
+   "loja_oficial": true,
+   "preco": 139.89,
+   "preco_antigo": 218.58,
+   "desconto": 36,
+   "vendas": 131,
+   "nota": 4.9,
+   "comissao_pct": 4.0,
+   "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-maoi32y37p8v28",
+   "link": "https://s.shopee.com.br/AAIqNC8enV",
+   "quase": true,
+   "canal": "achadinhos",
+   "entrou": "2026-11-19T16:30:25.160559-03:00",
+   "dia": "2026-11-19"
   }
  ],
  "ig_feitos": [
@@ -22039,10 +22060,10 @@
   "2026-11-19 14:08 story_oferta",
   "2026-11-19 15:00 adivinha",
   "2026-11-19 15:03 story_oferta",
-  "2026-11-19 16:05 adivinha_resposta"
+  "2026-11-19 16:05 adivinha_resposta",
+  "2026-11-19 16:44 story_oferta"
  ],
  "ig_ofertas_usadas": [
-  "shopee-41117508450",
   "amz-B0C9K6SKTG",
   "amz-B08L6YHZ75",
   "shopee-18797677549",
@@ -22241,7 +22262,8 @@
   "shopee-23592990089",
   "shopee-12317759781",
   "shopee-19497608994",
-  "shopee-23098514649"
+  "shopee-23098514649",
+  "shopee-19999048954"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
@@ -23913,7 +23935,8 @@
   "camisetafemininatechinsider": "2026-11-19T12:12:57.918633-03:00",
   "baseuspowerbankfc1110000mah20000mah225wrapidoportatilbateriacarregadorportatildisplaydigitalusbc": "2026-11-19T13:06:41.617483-03:00",
   "controlesemfiomicrosoftxboxwirelessseriesxscorcarbonblackpreto": "2026-11-19T13:14:40.199395-03:00",
-  "faqueirotramontinabuzios24pecastalheresemacoinoxcozinhagarfofacacolher": "2026-11-19T13:26:50.044292-03:00"
+  "faqueirotramontinabuzios24pecastalheresemacoinoxcozinhagarfofacacolher": "2026-11-19T13:26:50.044292-03:00",
+  "sanduicheiraegrillbritaniapress2em1850wbgr27i": "2026-11-19T16:47:49.471586-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
@@ -24348,14 +24371,14 @@
   "2026-11-19 tarde achadinhos",
   "2026-11-19 tarde tech"
  ],
- "reserva_meio": "2026-11-19T16:16:00.074019-03:00",
+ "reserva_meio": "2026-11-19T17:12:57.138770-03:00",
  "reserva_cheia": {
   "achadinhos": "2026-11-19T15:39:26.388492-03:00",
-  "tech": "2026-11-19T15:23:54.003132-03:00",
+  "tech": "2026-11-19T16:41:51.269030-03:00",
   "marcas": "2026-11-19T16:16:00.074019-03:00"
  },
  "top10_dia": "2026-11-14",
- "manuais_lidos": "2026-11-19T16:29:53.526057-03:00",
+ "manuais_lidos": "2026-11-19T17:15:31.477857-03:00",
  "reserva_resultado": {
   "2026-11-07": {
    "achadinhos": {
@@ -24559,7 +24582,7 @@
   "2026-11-19": {
    "achadinhos": {
     "busca": 0,
-    "quase": 7,
+    "quase": 8,
     "reprise": 7
    },
    "marcas": {
@@ -24640,7 +24663,7 @@
    "hora": "2026-11-18T18:33:26.755377-03:00"
   }
  },
- "ig_respondido_em": "2026-11-19T16:29:53.526057-03:00",
+ "ig_respondido_em": "2026-11-19T17:15:31.477857-03:00",
  "dm_auto": {
   "2026-11-12": {
    "com_palavra": 0,
@@ -24876,7 +24899,7 @@
    "feed": 3
   },
   "2026-11-19": {
-   "story": 20,
+   "story": 21,
    "feed": 1
   }
  },
