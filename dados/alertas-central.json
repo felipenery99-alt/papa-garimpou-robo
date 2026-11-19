@@ -202,5 +202,23 @@
   "vezes": 1,
   "ultimo": "2026-11-19T17:02+00:00",
   "texto": "erro em 2026-11-19 marcas 14:02 shopee-55816802474 (envio ao Telegram): ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer')). Não postei."
+ },
+ "⚠️ Canal sem post: marcas # h — abrir o app Claude e conferir as rotinas": {
+  "primeiro": "2026-11-19T17:28+00:00",
+  "vezes": 1,
+  "ultimo": "2026-11-19T17:28+00:00",
+  "texto": "⚠️ Canal sem post: marcas 2 h — abrir o app Claude e conferir as rotinas"
+ },
+ "erro em #-#-# tech #:# shopee-# (envio ao Telegram): Telegram recusou: {'ok': Fa": {
+  "primeiro": "2026-11-19T17:32+00:00",
+  "vezes": 2,
+  "ultimo": "2026-11-19T17:53+00:00",
+  "texto": "erro em 2026-11-19 tech 14:53 shopee-19399263103 (envio ao Telegram): Telegram recusou: {'ok': False, 'error_code': 500, 'description': 'Internal Server Error'}. Não postei."
+ },
+ "erro em #-#-# marcas #:# shopee-# (envio ao Telegram): Telegram recusou: {'ok': ": {
+  "primeiro": "2026-11-19T17:45+00:00",
+  "vezes": 1,
+  "ultimo": "2026-11-19T17:45+00:00",
+  "texto": "erro em 2026-11-19 marcas 14:45 shopee-55816802474 (envio ao Telegram): Telegram recusou: {'ok': False, 'error_code': 502, 'description': 'Bad Gateway'}. Não postei."
  }
 }

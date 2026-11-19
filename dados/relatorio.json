@@ -3749,10 +3749,14 @@
    "erro em 2026-11-19 marcas 11:46 shopee-45766835949 (envio ao Telegram): HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=60). Não postei.",
    "canal geral não recebeu shopee-23198376314: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))",
    "canal marcas sem oferta na fila há 75 min (busca extra também não achou). Abastecer ofertas_manuais.json.",
-   "erro em 2026-11-19 marcas 14:02 shopee-55816802474 (envio ao Telegram): ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer')). Não postei."
+   "erro em 2026-11-19 marcas 14:02 shopee-55816802474 (envio ao Telegram): ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer')). Não postei.",
+   "⚠️ Canal sem post: marcas 2 h — abrir o app Claude e conferir as rotinas",
+   "erro em 2026-11-19 tech 14:32 shopee-19399263103 (envio ao Telegram): Telegram recusou: {'ok': False, 'error_code': 500, 'description': 'Internal Server Error'}. Não postei.",
+   "erro em 2026-11-19 marcas 14:45 shopee-55816802474 (envio ao Telegram): Telegram recusou: {'ok': False, 'error_code': 502, 'description': 'Bad Gateway'}. Não postei.",
+   "erro em 2026-11-19 tech 14:53 shopee-19399263103 (envio ao Telegram): Telegram recusou: {'ok': False, 'error_code': 500, 'description': 'Internal Server Error'}. Não postei."
   ],
-  "ultima_execucao": "13:27",
-  "execucoes": 12,
+  "ultima_execucao": "14:14",
+  "execucoes": 13,
   "telegram_posts": {
    "achadinhos": 16,
    "marcas": 9,
@@ -3788,10 +3792,10 @@
    "tg-share-tech": 0
   },
   "telegram_membros": {
-   "achadinhos": 3,
-   "marcas": 6,
-   "tech": 7,
-   "geral": 5
+   "achadinhos": null,
+   "marcas": null,
+   "tech": null,
+   "geral": null
   },
   "instagram_feito": [
    "08:07 story_oferta",
@@ -3846,13 +3850,13 @@
    },
    "marcas": {
     "busca": 2,
-    "quase": 8,
+    "quase": 9,
     "reprise": 3
    },
    "tech": {
     "busca": 2,
     "quase": 8,
-    "reprise": 1
+    "reprise": 3
    }
   },
   "shopee_oficial_ids": {
@@ -5585,7 +5589,7 @@
    "shopee-58271554637": "vendas longe",
    "shopee-23699867510": "nota",
    "shopee-58265799630": "vendas longe",
-   "shopee-58271558206": "vendas longe",
+   "shopee-58271558206": "nota",
    "shopee-58269976505": "vendas longe",
    "shopee-58271608196": "nota",
    "shopee-58271554719": "nota",
@@ -5827,7 +5831,7 @@
    "shopee-22299029413": "nota",
    "shopee-22194512883": "vendas longe",
    "shopee-22694189314": "nota",
-   "shopee-55816802474": "desconto longe",
+   "shopee-55816802474": "desconto perto (até 10 pts)",
    "shopee-47066824855": "desconto longe",
    "shopee-56316805805": "desconto longe",
    "shopee-58216494459": "desconto longe",
@@ -8235,17 +8239,20 @@
    "shopee-23694217248": "nota",
    "shopee-23694217244": "nota",
    "shopee-23694217229": "nota",
-   "shopee-23694217217": "nota"
+   "shopee-23694217217": "nota",
+   "shopee-20796860490": "vendas longe",
+   "shopee-48167613044": "nota",
+   "shopee-58220452215": "nota"
   },
   "shopee_oficial": {
    "vendas longe": 2143,
-   "nota": 1821,
+   "nota": 1824,
    "vendas perto (125+)": 111,
    "outro: marca fora da lista boa": 102,
    "aprovada": 76,
-   "desconto longe": 70,
+   "desconto longe": 69,
    "outro: palavra proibida: compatível": 31,
-   "desconto perto (até 10 pts)": 25,
+   "desconto perto (até 10 pts)": 26,
    "outro: palavra proibida: universal": 1
   },
   "manuais_descartados_ids": {
@@ -8400,7 +8407,7 @@
    "vencida": 1
   },
   "instagram": {
-   "seguidores": 512,
+   "seguidores": 511,
    "posts": 135,
    "reach": 26,
    "profile_views": 15,
@@ -8408,7 +8415,7 @@
    "stories_ativos": 25
   },
   "reels_alcance": {
-   "atualizado": "2026-11-19T13:27:13.376421-03:00",
+   "atualizado": "2026-11-19T14:14:05.582304-03:00",
    "itens": [
     {
      "id": "18020475830955680",
