@@ -1852,7 +1852,13 @@
   "2026-11-19 marcas 19:49 amz-B0F2J9LHBD",
   "2026-11-19 tech 19:56 amz-B09B8XVSDP",
   "2026-11-19 achadinhos 20:04 amz-B00KD799EI",
-  "2026-11-19 marcas 20:12 amz-B0D1YL2QLB"
+  "2026-11-19 marcas 20:12 amz-B0D1YL2QLB",
+  "2026-11-19 achadinhos 20:23 amz-B008R7SQPY",
+  "2026-11-19 achadinhos 20:25 amz-B086QZ9T6C",
+  "2026-11-19 marcas 20:33 amz-B0CJJXQ1CF",
+  "2026-11-19 tech 20:41 amz-B0H7H2K9Q8",
+  "2026-11-19 achadinhos 20:48 amz-B0C95DYZ1P",
+  "2026-11-19 marcas 20:55 amz-B0HJRL7CCS"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -3567,7 +3573,13 @@
   "amz-B0F2J9LHBD": "2026-11-19T19:49:40.503284-03:00",
   "amz-B09B8XVSDP": "2026-11-19T19:56:26.621976-03:00",
   "amz-B00KD799EI": "2026-11-19T20:04:12.161250-03:00",
-  "amz-B0D1YL2QLB": "2026-11-19T20:12:01.234140-03:00"
+  "amz-B0D1YL2QLB": "2026-11-19T20:12:01.234140-03:00",
+  "amz-B008R7SQPY": "2026-11-19T20:23:50.274816-03:00",
+  "amz-B086QZ9T6C": "2026-11-19T20:25:43.910153-03:00",
+  "amz-B0CJJXQ1CF": "2026-11-19T20:33:37.436377-03:00",
+  "amz-B0H7H2K9Q8": "2026-11-19T20:41:24.936775-03:00",
+  "amz-B0C95DYZ1P": "2026-11-19T20:48:12.033867-03:00",
+  "amz-B0HJRL7CCS": "2026-11-19T20:55:08.809301-03:00"
  },
  "ofertas_dia": [
   {
@@ -21922,6 +21934,110 @@
    "preco_em": "2026-11-19T17:50:00-03:00",
    "entrou": "2026-11-19T18:02:59.575836-03:00",
    "dia": "2026-11-19"
+  },
+  {
+   "id": "amz-B008R7SQPY",
+   "canal": "achadinhos",
+   "nome": "Caçarola Rasa Tramontina Solar Inox Fundo Triplo 20 cm",
+   "preco_antigo": 299.63,
+   "preco": 210.93,
+   "desconto": 30,
+   "link": "https://www.amazon.com.br/dp/B008R7SQPY?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/41wf2pr7wQL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-20T22:00:00-03:00",
+   "coletado_em": "2026-11-19T17:50:00-03:00",
+   "preco_em": "2026-11-19T17:50:00-03:00",
+   "entrou": "2026-11-19T18:02:59.575836-03:00",
+   "dia": "2026-11-19"
+  },
+  {
+   "id": "amz-B086QZ9T6C",
+   "canal": "achadinhos",
+   "nome": "Secador Taiff Unique Duo Bivolt",
+   "preco_antigo": 719.9,
+   "preco": 500.6,
+   "desconto": 30,
+   "link": "https://www.amazon.com.br/dp/B086QZ9T6C?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/41Wcr7Fa2BL._AC_SL1000_.jpg",
+   "loja": "Vendido por parceiro · entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-20T22:00:00-03:00",
+   "coletado_em": "2026-11-19T17:50:00-03:00",
+   "preco_em": "2026-11-19T17:50:00-03:00",
+   "entrou": "2026-11-19T18:02:59.575836-03:00",
+   "dia": "2026-11-19"
+  },
+  {
+   "id": "amz-B0CJJXQ1CF",
+   "canal": "marcas",
+   "nome": "Kit 5 Camisetas Masculinas Básicas Hering",
+   "preco_antigo": 249.99,
+   "preco": 132.98,
+   "desconto": 47,
+   "link": "https://www.amazon.com.br/dp/B0CJJXQ1CF?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/41rZclSGzuL._AC_SL1000_.jpg",
+   "loja": "Loja oficial Hering · entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-20T22:00:00-03:00",
+   "coletado_em": "2026-11-19T17:50:00-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "preco_em": "2026-11-19T17:50:00-03:00",
+   "entrou": "2026-11-19T18:02:59.575836-03:00",
+   "dia": "2026-11-19"
+  },
+  {
+   "id": "amz-B0H7H2K9Q8",
+   "canal": "tech",
+   "nome": "Notebook Lenovo IdeaPad Slim 3 AMD Ryzen 5 7535HS",
+   "preco_antigo": 5225.6,
+   "preco": 3081.16,
+   "desconto": 41,
+   "link": "https://www.amazon.com.br/dp/B0H7H2K9Q8?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51tqud+UUUL._AC_SL1000_.jpg",
+   "loja": "Vendido por KaBuM! · Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-20T22:00:00-03:00",
+   "coletado_em": "2026-11-19T17:50:00-03:00",
+   "preco_em": "2026-11-19T17:50:00-03:00",
+   "entrou": "2026-11-19T18:02:59.575836-03:00",
+   "dia": "2026-11-19"
+  },
+  {
+   "id": "amz-B0C95DYZ1P",
+   "canal": "achadinhos",
+   "nome": "Jogo de Alicates Tramontina Master com Alicate de Bico 3 Peças",
+   "preco_antigo": 122.09,
+   "preco": 71.1,
+   "desconto": 42,
+   "link": "https://www.amazon.com.br/dp/B0C95DYZ1P?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51uv1KifqjL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-20T22:00:00-03:00",
+   "coletado_em": "2026-11-19T17:50:00-03:00",
+   "preco_em": "2026-11-19T17:50:00-03:00",
+   "entrou": "2026-11-19T18:02:59.575836-03:00",
+   "dia": "2026-11-19"
+  },
+  {
+   "id": "amz-B0HJRL7CCS",
+   "canal": "marcas",
+   "nome": "Tênis Mizuno Wave Skyway",
+   "preco_antigo": 549.99,
+   "preco": 329.9,
+   "desconto": 40,
+   "link": "https://www.amazon.com.br/dp/B0HJRL7CCS?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/81E+762lZBL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-20T22:00:00-03:00",
+   "coletado_em": "2026-11-19T17:50:00-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "preco_em": "2026-11-19T17:50:00-03:00",
+   "entrou": "2026-11-19T18:02:59.575836-03:00",
+   "dia": "2026-11-19"
   }
  ],
  "ig_feitos": [
@@ -22090,10 +22206,12 @@
   "2026-11-19 feed",
   "2026-11-19 19:15 post_achado",
   "2026-11-19 19:17 story_oferta",
-  "2026-11-19 20:03 story_oferta"
+  "2026-11-19 20:03 story_oferta",
+  "2026-11-19 20:30 reels",
+  "2026-11-19 20:35 story_top4",
+  "2026-11-19 20:38 story_oferta"
  ],
  "ig_ofertas_usadas": [
-  "shopee-20999203046",
   "shopee-58261216325",
   "shopee-18216465769",
   "shopee-58254966835",
@@ -22292,11 +22410,12 @@
   "shopee-23792931493",
   "shopee-18797677549",
   "shopee-23198376314",
-  "shopee-9739004991"
+  "shopee-9739004991",
+  "shopee-43630230308"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
- "ig_ultimo_reel": "2026-11-19T18:35:22.821634-03:00",
+ "ig_ultimo_reel": "2026-11-19T20:33:13.324464-03:00",
  "pecas_usadas": {
   "ac-preco-inflado": "2026-10-27",
   "dc-7-dias": "2026-10-27",
@@ -22424,54 +22543,6 @@
  },
  "ultimo_pilar": "blackfriday",
  "fila": [
-  {
-   "id": "amz-B008R7SQPY",
-   "canal": "achadinhos",
-   "nome": "Caçarola Rasa Tramontina Solar Inox Fundo Triplo 20 cm",
-   "preco_antigo": 299.63,
-   "preco": 210.93,
-   "desconto": 30,
-   "link": "https://www.amazon.com.br/dp/B008R7SQPY?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/41wf2pr7wQL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-20T22:00:00-03:00",
-   "coletado_em": "2026-11-19T17:50:00-03:00",
-   "preco_em": "2026-11-19T17:50:00-03:00",
-   "entrou": "2026-11-19T18:02:59.575836-03:00"
-  },
-  {
-   "id": "amz-B086QZ9T6C",
-   "canal": "achadinhos",
-   "nome": "Secador Taiff Unique Duo Bivolt",
-   "preco_antigo": 719.9,
-   "preco": 500.6,
-   "desconto": 30,
-   "link": "https://www.amazon.com.br/dp/B086QZ9T6C?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/41Wcr7Fa2BL._AC_SL1000_.jpg",
-   "loja": "Vendido por parceiro · entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-20T22:00:00-03:00",
-   "coletado_em": "2026-11-19T17:50:00-03:00",
-   "preco_em": "2026-11-19T17:50:00-03:00",
-   "entrou": "2026-11-19T18:02:59.575836-03:00"
-  },
-  {
-   "id": "amz-B0C95DYZ1P",
-   "canal": "achadinhos",
-   "nome": "Jogo de Alicates Tramontina Master com Alicate de Bico 3 Peças",
-   "preco_antigo": 122.09,
-   "preco": 71.1,
-   "desconto": 42,
-   "link": "https://www.amazon.com.br/dp/B0C95DYZ1P?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51uv1KifqjL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-20T22:00:00-03:00",
-   "coletado_em": "2026-11-19T17:50:00-03:00",
-   "preco_em": "2026-11-19T17:50:00-03:00",
-   "entrou": "2026-11-19T18:02:59.575836-03:00"
-  },
   {
    "id": "amz-B0FP6BRPKF",
    "canal": "achadinhos",
@@ -22633,40 +22704,6 @@
    "entrou": "2026-11-19T18:02:59.575836-03:00"
   },
   {
-   "id": "amz-B0CJJXQ1CF",
-   "canal": "marcas",
-   "nome": "Kit 5 Camisetas Masculinas Básicas Hering",
-   "preco_antigo": 249.99,
-   "preco": 132.98,
-   "desconto": 47,
-   "link": "https://www.amazon.com.br/dp/B0CJJXQ1CF?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/41rZclSGzuL._AC_SL1000_.jpg",
-   "loja": "Loja oficial Hering · entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-20T22:00:00-03:00",
-   "coletado_em": "2026-11-19T17:50:00-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "preco_em": "2026-11-19T17:50:00-03:00",
-   "entrou": "2026-11-19T18:02:59.575836-03:00"
-  },
-  {
-   "id": "amz-B0HJRL7CCS",
-   "canal": "marcas",
-   "nome": "Tênis Mizuno Wave Skyway",
-   "preco_antigo": 549.99,
-   "preco": 329.9,
-   "desconto": 40,
-   "link": "https://www.amazon.com.br/dp/B0HJRL7CCS?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/81E+762lZBL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-20T22:00:00-03:00",
-   "coletado_em": "2026-11-19T17:50:00-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "preco_em": "2026-11-19T17:50:00-03:00",
-   "entrou": "2026-11-19T18:02:59.575836-03:00"
-  },
-  {
    "id": "amz-B0BL13KLRW",
    "canal": "marcas",
    "nome": "Kit 2 Cuecas Calvin Klein Trunk C11.02",
@@ -22731,22 +22768,6 @@
    "valida_ate": "2026-11-20T22:00:00-03:00",
    "coletado_em": "2026-11-19T17:50:00-03:00",
    "extra": "Preço a partir de: varia por tamanho e cor",
-   "preco_em": "2026-11-19T17:50:00-03:00",
-   "entrou": "2026-11-19T18:02:59.575836-03:00"
-  },
-  {
-   "id": "amz-B0H7H2K9Q8",
-   "canal": "tech",
-   "nome": "Notebook Lenovo IdeaPad Slim 3 AMD Ryzen 5 7535HS",
-   "preco_antigo": 5225.6,
-   "preco": 3081.16,
-   "desconto": 41,
-   "link": "https://www.amazon.com.br/dp/B0H7H2K9Q8?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51tqud+UUUL._AC_SL1000_.jpg",
-   "loja": "Vendido por KaBuM! · Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-20T22:00:00-03:00",
-   "coletado_em": "2026-11-19T17:50:00-03:00",
    "preco_em": "2026-11-19T17:50:00-03:00",
    "entrou": "2026-11-19T18:02:59.575836-03:00"
   },
@@ -23170,7 +23191,7 @@
   "airfryerphilipswalitaessentialxldigital62l": "2026-11-02T11:01:01.280361-03:00",
   "tenispumaclubiiera": "2026-11-02T11:07:37.273306-03:00",
   "airfryerbritania55l1500w": "2026-11-02T11:30:41.074091-03:00",
-  "kit5camisetasmasculinasbasicashering": "2026-11-02T11:33:50.774300-03:00",
+  "kit5camisetasmasculinasbasicashering": "2026-11-19T20:33:37.436377-03:00",
   "tenispumaflyerflexmasculino": "2026-11-02T11:39:33.413427-03:00",
   "camisetaheringworldmangacurtamasculina": "2026-11-02T11:44:54.031749-03:00",
   "camisetaheringsupercottoncombolsomasculina": "2026-11-02T11:50:39.236510-03:00",
@@ -24515,7 +24536,12 @@
   "ferroavaporarnosteamglissbaseantiaderente": "2026-11-19T19:36:09.946497-03:00",
   "protetorsolarcomcorlorealparisexpertisefps70": "2026-11-19T19:43:36.099315-03:00",
   "echodotcomalexasomvibrantewifiebluetooth": "2026-11-19T19:56:26.621976-03:00",
-  "conjuntoparachurrascotramontina12pecasvermelho": "2026-11-19T20:04:12.161250-03:00"
+  "conjuntoparachurrascotramontina12pecasvermelho": "2026-11-19T20:04:12.161250-03:00",
+  "cacarolarasatramontinasolarinoxfundotriplo20cm": "2026-11-19T20:23:50.274816-03:00",
+  "secadortaiffuniqueduobivolt": "2026-11-19T20:25:43.910153-03:00",
+  "notebooklenovoideapadslim3amdryzen57535hs": "2026-11-19T20:41:24.936775-03:00",
+  "jogodealicatestramontinamastercomalicatedebico3pecas": "2026-11-19T20:48:12.033867-03:00",
+  "tenismizunowaveskyway": "2026-11-19T20:55:08.809301-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
@@ -24808,12 +24834,17 @@
    "shopee-23298467238"
   ],
   "2026-11-19": [
+   "shopee-21897631761",
+   "shopee-20716465989",
    "shopee-13439327530",
-   "shopee-18797677549",
+   "shopee-58204904664",
+   "shopee-23592990089",
+   "shopee-19497608994",
    "shopee-23892413591",
    "shopee-20999203046",
-   "shopee-58204904664",
-   "shopee-20716465989"
+   "shopee-21516474306",
+   "shopee-22597140327",
+   "shopee-18797677549"
   ]
  },
  "vendas_shopee": {},
@@ -24963,7 +24994,7 @@
   "marcas": "2026-11-19T17:28:44.035506-03:00"
  },
  "top10_dia": "2026-11-14",
- "manuais_lidos": "2026-11-19T20:12:00.856229-03:00",
+ "manuais_lidos": "2026-11-19T20:55:03.724633-03:00",
  "reserva_resultado": {
   "2026-11-07": {
    "achadinhos": {
@@ -25252,7 +25283,7 @@
    "hora": "2026-11-19T18:35:22.821634-03:00"
   }
  },
- "ig_respondido_em": "2026-11-19T20:03:49.415165-03:00",
+ "ig_respondido_em": "2026-11-19T20:55:03.724633-03:00",
  "dm_auto": {
   "2026-11-12": {
    "com_palavra": 0,
@@ -25482,6 +25513,12 @@
     "capa": "uma_oferta",
     "legenda": "Manda pra quem tá precisando disso 👇\n😎💎 Cabo de Dados e Carga Motorola Moto USB-C para USB-C 1 Metro Original Preto\n\nOfertas todo dia no Telegram: papagarimpouofertas 💎\n\nPubli · link de afiliado",
     "url": "https://raw.githubusercontent.com/felipenery99-alt/papa-garimpou-robo/tiktok-midia/20261119-1835-tiktok.mp4"
+   },
+   {
+    "hora": "20:33",
+    "capa": "ate_off",
+    "legenda": "Manda pra quem tá precisando disso 👇\n😎💎 Até 57% OFF em marca boa: os 5 achados do Papa hoje\n\nOfertas todo dia no Telegram: papagarimpouofertas 💎\n\nPubli · link de afiliado",
+    "url": "https://raw.githubusercontent.com/felipenery99-alt/papa-garimpou-robo/tiktok-midia/20261119-2033-tiktok.mp4"
    }
   ]
  },
@@ -25500,7 +25537,7 @@
    "feed": 3
   },
   "2026-11-19": {
-   "story": 29,
+   "story": 31,
    "feed": 3
   }
  },

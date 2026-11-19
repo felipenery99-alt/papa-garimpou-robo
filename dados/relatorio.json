@@ -3758,17 +3758,17 @@
    "canal tech sem oferta na fila há 72 min (busca extra também não achou). Abastecer ofertas_manuais.json.",
    "⚠️ Garimpo parado desde 18/11 13:19 — abrir o app Claude e conferir as rotinas\nPouca oferta na fila: achadinhos 0, marcas 0, tech 0."
   ],
-  "ultima_execucao": "19:30",
-  "execucoes": 20,
+  "ultima_execucao": "20:12",
+  "execucoes": 21,
   "telegram_posts": {
-   "achadinhos": 25,
-   "marcas": 17,
-   "tech": 15
+   "achadinhos": 28,
+   "marcas": 19,
+   "tech": 16
   },
   "ultimo_post": {
-   "achadinhos": "20:04",
-   "marcas": "20:12",
-   "tech": "19:56"
+   "achadinhos": "20:48",
+   "marcas": "20:55",
+   "tech": "20:41"
   },
   "meta_token": {
    "tipo": "SYSTEM_USER",
@@ -3835,7 +3835,10 @@
    "feed",
    "19:15 post_achado",
    "19:17 story_oferta",
-   "20:03 story_oferta"
+   "20:03 story_oferta",
+   "20:30 reels",
+   "20:35 story_top4",
+   "20:38 story_oferta"
   ],
   "shopee_ligada": true,
   "dm_auto": {
@@ -3902,7 +3905,7 @@
    "shopee-58260183778": "vendas longe",
    "shopee-23299371965": "vendas longe",
    "shopee-58269298563": "vendas longe",
-   "shopee-19497608994": "aprovada",
+   "shopee-19497608994": "desconto longe",
    "shopee-18597753531": "aprovada",
    "shopee-18271829175": "desconto longe",
    "shopee-21299179885": "desconto perto (até 10 pts)",
@@ -8494,16 +8497,59 @@
    "shopee-58220515423": "nota",
    "shopee-58270528926": "nota",
    "shopee-23098657801": "vendas longe",
-   "shopee-23094161396": "nota"
+   "shopee-23094161396": "nota",
+   "shopee-22893747794": "vendas longe",
+   "shopee-58221425722": "vendas longe",
+   "shopee-58270468114": "vendas longe",
+   "shopee-58269657396": "vendas longe",
+   "shopee-58271552511": "vendas longe",
+   "shopee-58270475839": "vendas longe",
+   "shopee-58221762540": "vendas longe",
+   "shopee-58206199833": "vendas longe",
+   "shopee-58256157077": "vendas longe",
+   "shopee-58270468117": "nota",
+   "shopee-58269751973": "nota",
+   "shopee-58269525212": "nota",
+   "shopee-58219641519": "nota",
+   "shopee-23598856460": "nota",
+   "shopee-58270468108": "outro: palavra proibida: compatível",
+   "shopee-58221456938": "nota",
+   "shopee-58271971428": "nota",
+   "shopee-58222827873": "outro: palavra proibida: compatível",
+   "shopee-58222095954": "nota",
+   "shopee-58213930836": "nota",
+   "shopee-23597776613": "nota",
+   "shopee-58270533758": "nota",
+   "shopee-58213909407": "nota",
+   "shopee-22098719516": "vendas longe",
+   "shopee-23398712317": "vendas perto (125+)",
+   "shopee-18399868089": "vendas longe",
+   "shopee-26445970782": "nota",
+   "shopee-23998789637": "vendas longe",
+   "shopee-58219980170": "nota",
+   "shopee-48368592821": "nota",
+   "shopee-23994320233": "vendas longe",
+   "shopee-22394911965": "vendas longe",
+   "shopee-55319232951": "nota",
+   "shopee-52318388484": "nota",
+   "shopee-23394329712": "vendas longe",
+   "shopee-58209441199": "vendas longe",
+   "shopee-58262348378": "nota",
+   "shopee-23394215728": "vendas longe",
+   "shopee-58211426079": "vendas longe",
+   "shopee-58221022782": "nota",
+   "shopee-58217366845": "nota",
+   "shopee-58272932085": "nota",
+   "shopee-51621588355": "nota"
   },
   "shopee_oficial": {
-   "vendas longe": 2226,
-   "nota": 1955,
-   "vendas perto (125+)": 117,
+   "vendas longe": 2244,
+   "nota": 1977,
+   "vendas perto (125+)": 118,
    "outro: marca fora da lista boa": 103,
-   "desconto longe": 75,
-   "aprovada": 74,
-   "outro: palavra proibida: compatível": 36,
+   "desconto longe": 76,
+   "aprovada": 73,
+   "outro: palavra proibida: compatível": 38,
    "desconto perto (até 10 pts)": 28,
    "outro: palavra proibida: universal": 1
   },
@@ -8669,10 +8715,16 @@
    "amz-B0FXM6MSHK": "ja_postado_30d",
    "amz-B0F2J9LHBD": "ja_postado_30d",
    "amz-B09B8XVSDP": "ja_postado_30d",
-   "amz-B00KD799EI": "ja_postado_30d"
+   "amz-B00KD799EI": "ja_postado_30d",
+   "amz-B0D1YL2QLB": "ja_postado_30d",
+   "amz-B008R7SQPY": "ja_postado_30d",
+   "amz-B086QZ9T6C": "ja_postado_30d",
+   "amz-B0CJJXQ1CF": "ja_postado_30d",
+   "amz-B0H7H2K9Q8": "ja_postado_30d",
+   "amz-B0C95DYZ1P": "ja_postado_30d"
   },
   "manuais_descartados": {
-   "ja_postado_30d": 161,
+   "ja_postado_30d": 167,
    "vencida": 1
   },
   "instagram": {
@@ -8684,7 +8736,7 @@
    "stories_ativos": 25
   },
   "reels_alcance": {
-   "atualizado": "2026-11-19T19:30:04.463072-03:00",
+   "atualizado": "2026-11-19T20:12:27.634755-03:00",
    "itens": [
     {
      "id": "18084047555366923",
@@ -8746,6 +8798,11 @@
     "hora": "18:35",
     "capa": "uma_oferta",
     "url": "https://raw.githubusercontent.com/felipenery99-alt/papa-garimpou-robo/tiktok-midia/20261119-1835-tiktok.mp4"
+   },
+   {
+    "hora": "20:33",
+    "capa": "ate_off",
+    "url": "https://raw.githubusercontent.com/felipenery99-alt/papa-garimpou-robo/tiktok-midia/20261119-2033-tiktok.mp4"
    }
   ],
   "games": {
