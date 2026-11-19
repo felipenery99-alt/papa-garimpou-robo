@@ -60,6 +60,10 @@ def gravar_relatorio(h: dict, agora: datetime) -> None:
     dia["execucoes"] = dia.get("execucoes", 0) + 1
     dia["telegram_posts"] = {c: sum(1 for s in h["slots_feitos"] if s.startswith(f"{hoje} {c}")) for c in config.CANAIS}
     dia["ultimo_post"] = ultimo_post(h, agora)
+    if config.especial_games(agora) or "games" in dia:   # 19/11: especial GTA VI (critério 26/11)
+        gm = [o for o in h.get("ofertas_dia", []) if o.get("dia") == hoje and qualidade.eh_game(o)]
+        dia["games"] = {"posts": len(gm), "amazon": sum(1 for o in gm if eh_amazon(o)),
+                        "tech": sum(1 for o in gm if o.get("canal") == "tech")}
     if h.get("meta_token"):
         dia["meta_token"] = h["meta_token"]
     if h.get("ultimo_garimpo"):
@@ -347,6 +351,29 @@ def publicar_menus(h: dict, telegram) -> None:
             salvar_hist(h)
         except Exception as e:
             telegram.avisar_dono(f"menu fixado em {destino} falhou: {e}")
+
+
+def fixar_especial_gta(h: dict, telegram, agora: datetime) -> None:
+    """19/11 (PG · Telegram): durante o especial GTA VI, mensagem fixada no Tech com a pasta dos 4 canais.
+    Fixar outra mensagem não tira o menu; ao desafixar (depois de 26/11) o menu volta ao topo sozinho."""
+    fix = h.get("gta_fixado")
+    if not config.especial_games(agora):
+        if fix:
+            try:
+                telegram.desafixar(config.CANAIS["tech"], fix)
+            except Exception as e:
+                print(f"[gta] desafixar: {e}")
+            h.pop("gta_fixado")
+        return
+    if fix:
+        return
+    texto = ("🎮 Especial GTA VI: tudo pra jogar, só loja oficial\n\n"
+             "Console, controle, headset, SSD e monitor de marca boa, com o preço real da loja, até 26/11.\n\n"
+             f"📂 Quer os 4 canais do Papa? Um toque e entra em todos: {config.PASTA_TELEGRAM}")
+    try:
+        h["gta_fixado"] = telegram.postar_texto_fixado(config.CANAIS["tech"], texto)
+    except Exception as e:
+        telegram.avisar_dono(f"mensagem fixada do especial GTA VI no Tech falhou: {e}")
 
 
 def pede_pro_papa_semanal(h: dict, telegram, agora: datetime) -> None:
@@ -1260,6 +1287,22 @@ def publicar_especial_games(h: dict, agora: datetime, tag: str, feitos: list) ->
         except Exception as e:
             telegram_aviso(f"Instagram: carrossel Setup GTA VI falhou: {e}")
         feitos.append("especial gta-setup")
+    # 19/11 (PG · Instagram): 1 cópia TikTok por dia com um item de game (de preferência console/controle/headset)
+    chave_tk = f"{hoje} gta tiktok"
+    if chave_tk not in feitos and 11 <= agora.hour < 21 and games:
+        forte = re.compile(r"\b(ps5|playstation|xbox|switch|nintendo|console|controle|dualsense|headset)\b", re.I)
+        o = next((x for x in games if forte.search(x["nome"])), games[0])
+        try:
+            import video
+            preco = (f"de {post._brl(o['preco_antigo'])} por {post._brl(o['preco'])}" if o.get("preco_antigo")
+                     else f"por {post._brl(o['preco'])}")
+            mp4 = video.reel([artes.story_oferta(o, o["canal"], selo="ESPECIAL GTA VI"), artes.story_convite(),
+                              artes.quadro_compartilhar()])
+            guardar_tiktok(h, agora, mp4, f"🎮 GTA VI: {o['nome'].strip()[:90]} {preco}", "gta")
+            print(f"[tiktok] cópia de game {o['id']}")
+        except Exception as e:
+            print(f"[tiktok] cópia de game falhou: {e}")
+        feitos.append(chave_tk)
     usados = set(h.get("ig_gta_stories", []))
     for n, (ini, fim) in enumerate(config.STORIES_GAMES_HORAS, 1):
         chave = f"{hoje} gta story {n}"
@@ -2312,6 +2355,7 @@ def main() -> int:
     except Exception as e:
         print(f"[canais] {e}")
     pede_pro_papa_semanal(h, telegram, agora)
+    fixar_especial_gta(h, telegram, agora)
     # Ofertas garimpadas fora da Shopee (Amazon etc.), conferidas à mão e gravadas em ofertas_manuais.json
     for canal in config.CANAIS:
         entrar_na_fila(h, canal, [o for o in carregar_manuais(h, agora) if o["canal"] == canal], agora)
