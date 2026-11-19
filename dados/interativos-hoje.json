@@ -1,57 +1,18 @@
 {
- "dia": "2026-11-18",
+ "dia": "2026-11-19",
  "itens": [
   {
    "tipo": "adivinha",
-   "hora": "15:04",
+   "hora": "15:08",
    "produtos": [
     {
-     "nome": "Parafusadeira e Furadeira à Bateria 12V GSR 120-LI com 1 Bateria e Maleta BOSCH Bivolt",
-     "preco_antigo": 562.36,
-     "preco": 404.9,
-     "desconto": 28,
-     "link": "https://s.shopee.com.br/8KrBGbESu2",
-     "loja": "Palácio das Ferramentas 01",
+     "nome": "Extratora e Higienizadora Portatil WAP SpotCleaner W3 1450W",
+     "preco_antigo": 1204.06,
+     "preco": 589.99,
+     "desconto": 51,
+     "link": "https://s.shopee.com.br/30pfpxF95a",
+     "loja": "LOI BRASIL",
      "canal": "achadinhos"
-    }
-   ]
-  },
-  {
-   "tipo": "adivinha_resposta",
-   "hora": "16:11",
-   "produtos": [
-    {
-     "nome": "Parafusadeira e Furadeira à Bateria 12V GSR 120-LI com 1 Bateria e Maleta BOSCH Bivolt",
-     "preco_antigo": 562.36,
-     "preco": 404.9,
-     "desconto": 28,
-     "link": "https://s.shopee.com.br/8KrBGbESu2",
-     "loja": "Palácio das Ferramentas 01",
-     "canal": "achadinhos"
-    }
-   ]
-  },
-  {
-   "tipo": "a_ou_b",
-   "hora": "18:09",
-   "produtos": [
-    {
-     "nome": "Caixa de Som Portátil Bluetooth JBL Boombox 4 34HRS 210W IP68 Azul",
-     "preco_antigo": 5198.0,
-     "preco": 2599.0,
-     "desconto": 50,
-     "link": "https://s.shopee.com.br/1qdh911pkV",
-     "loja": "Rep Store",
-     "canal": "tech"
-    },
-    {
-     "nome": "Smartphone Motorola Moto G06 4G 256GB 4GB RAM Câmera Traseira 50MP + Câmera Frontal 8MP Tela de 6,9\" 5200 mAh -  Bege",
-     "preco_antigo": 1498.61,
-     "preco": 1079.0,
-     "desconto": 28,
-     "link": "https://s.shopee.com.br/4qHIieMqrc",
-     "loja": "MOBCOM STORE",
-     "canal": "tech"
     }
    ]
   }

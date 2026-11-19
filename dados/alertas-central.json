@@ -169,15 +169,15 @@
  },
  "canal tech sem oferta na fila há # min (busca extra também não achou). Abastecer": {
   "primeiro": "2026-11-19T01:00+00:00",
-  "vezes": 1,
-  "ultimo": "2026-11-19T01:00+00:00",
-  "texto": "canal tech sem oferta na fila há 71 min (busca extra também não achou). Abastecer ofertas_manuais.json."
+  "vezes": 2,
+  "ultimo": "2026-11-19T18:06+00:00",
+  "texto": "canal tech sem oferta na fila há 72 min (busca extra também não achou). Abastecer ofertas_manuais.json."
  },
  "⚠️ Garimpo parado desde #/# #:# — abrir o app Claude e conferir as rotinas\nPouca": {
   "primeiro": "2026-11-19T11:29+00:00",
-  "vezes": 2,
-  "ultimo": "2026-11-19T14:43+00:00",
-  "texto": "⚠️ Garimpo parado desde 18/11 13:19 — abrir o app Claude e conferir as rotinas\nPouca oferta na fila: achadinhos 0, tech 1."
+  "vezes": 3,
+  "ultimo": "2026-11-19T18:08+00:00",
+  "texto": "⚠️ Garimpo parado desde 18/11 13:19 — abrir o app Claude e conferir as rotinas\nPouca oferta na fila: achadinhos 0, marcas 0, tech 0."
  },
  "erro em #-#-# achadinhos #:# shopee-# (envio ao Telegram): HTTPSConnectionPool(h": {
   "primeiro": "2026-11-19T13:03+00:00",
@@ -220,5 +220,11 @@
   "vezes": 1,
   "ultimo": "2026-11-19T17:45+00:00",
   "texto": "erro em 2026-11-19 marcas 14:45 shopee-55816802474 (envio ao Telegram): Telegram recusou: {'ok': False, 'error_code': 502, 'description': 'Bad Gateway'}. Não postei."
+ },
+ "canal achadinhos sem oferta na fila há # min (busca extra também não achou). Aba": {
+  "primeiro": "2026-11-19T18:05+00:00",
+  "vezes": 1,
+  "ultimo": "2026-11-19T18:05+00:00",
+  "texto": "canal achadinhos sem oferta na fila há 82 min (busca extra também não achou). Abastecer ofertas_manuais.json."
  }
 }

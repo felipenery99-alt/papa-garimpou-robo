@@ -21995,11 +21995,11 @@
   "2026-11-19 12:47 story_oferta",
   "2026-11-19 13:20 story_convite",
   "2026-11-19 13:22 story_oferta",
-  "2026-11-19 14:08 story_oferta"
+  "2026-11-19 14:08 story_oferta",
+  "2026-11-19 15:00 adivinha",
+  "2026-11-19 15:03 story_oferta"
  ],
  "ig_ofertas_usadas": [
-  "amz-B0D2RKQWB4",
-  "amz-B0941752F2",
   "shopee-41117508450",
   "amz-B0C9K6SKTG",
   "amz-B08L6YHZ75",
@@ -22197,7 +22197,9 @@
   "shopee-43430912812",
   "shopee-45758904446",
   "shopee-23592990089",
-  "shopee-12317759781"
+  "shopee-12317759781",
+  "shopee-19497608994",
+  "shopee-23098514649"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
@@ -24235,25 +24237,25 @@
  },
  "tg_offset": 354369952,
  "adivinha": {
-  "dia": "2026-11-18",
+  "dia": "2026-11-19",
   "oferta": {
-   "id": "shopee-18199337362",
+   "id": "shopee-19497608994",
    "plataforma": "Shopee",
-   "nome": "Parafusadeira e Furadeira à Bateria 12V GSR 120-LI com 1 Bateria e Maleta BOSCH Bivolt",
-   "loja": "Palácio das Ferramentas 01",
+   "nome": "Extratora e Higienizadora Portatil WAP SpotCleaner W3 1450W",
+   "loja": "LOI BRASIL",
    "loja_oficial": true,
-   "preco": 404.9,
-   "preco_antigo": 562.36,
-   "desconto": 28,
-   "vendas": 134,
+   "preco": 589.99,
+   "preco_antigo": 1204.06,
+   "desconto": 51,
+   "vendas": 1401,
    "nota": 5.0,
-   "comissao_pct": 3.0,
-   "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdxb-lxqvrx46qhjg31",
-   "link": "https://s.shopee.com.br/8KrBGbESu2",
-   "quase": true,
+   "comissao_pct": 6.0,
+   "imagem": "https://cf.shopee.com.br/file/sg-11134201-824g6-mpdlazjzzaq5f5",
+   "link": "https://s.shopee.com.br/30pfpxF95a",
    "canal": "achadinhos",
-   "entrou": "2026-11-18T12:06:12.457259-03:00",
-   "dia": "2026-11-18"
+   "entrou": "2026-11-19T12:06:22.172727-03:00",
+   "reprise_dias": 3,
+   "dia": "2026-11-19"
   }
  },
  "ig_dm_links": {
@@ -24264,7 +24266,7 @@
  "pede_semana": "2026-47",
  "ultimo_garimpo": "2026-11-18T13:19:58-03:00",
  "vigia_aviso_post": "2026-11-19T14:14:05.582304-03:00",
- "vigia_aviso_garimpo": "2026-11-19T11:21:16.963709-03:00",
+ "vigia_aviso_garimpo": "2026-11-19T14:55:27.917379-03:00",
  "resumo_enviado": "2026-11-17",
  "token_conferido": "2026-11-19",
  "meta_token": {
@@ -24300,16 +24302,18 @@
   "2026-11-13 noite marcas",
   "2026-11-18 noite marcas",
   "2026-11-18 noite tech",
-  "2026-11-19 tarde marcas"
+  "2026-11-19 tarde marcas",
+  "2026-11-19 tarde achadinhos",
+  "2026-11-19 tarde tech"
  ],
- "reserva_meio": "2026-11-19T14:43:12.561780-03:00",
+ "reserva_meio": "2026-11-19T15:39:26.388492-03:00",
  "reserva_cheia": {
-  "achadinhos": "2026-11-19T14:28:10.626991-03:00",
-  "tech": "2026-11-19T14:14:05.582304-03:00",
-  "marcas": "2026-11-19T13:56:48.164707-03:00"
+  "achadinhos": "2026-11-19T15:39:26.388492-03:00",
+  "tech": "2026-11-19T15:23:54.003132-03:00",
+  "marcas": "2026-11-19T15:08:23.642448-03:00"
  },
  "top10_dia": "2026-11-14",
- "manuais_lidos": "2026-11-19T14:53:00.686262-03:00",
+ "manuais_lidos": "2026-11-19T15:31:23.071870-03:00",
  "reserva_resultado": {
   "2026-11-07": {
    "achadinhos": {
@@ -24594,7 +24598,7 @@
    "hora": "2026-11-18T18:33:26.755377-03:00"
   }
  },
- "ig_respondido_em": "2026-11-19T14:53:00.686262-03:00",
+ "ig_respondido_em": "2026-11-19T15:31:23.071870-03:00",
  "dm_auto": {
   "2026-11-12": {
    "com_palavra": 0,
@@ -24830,7 +24834,7 @@
    "feed": 3
   },
   "2026-11-19": {
-   "story": 17,
+   "story": 19,
    "feed": 1
   }
  },
