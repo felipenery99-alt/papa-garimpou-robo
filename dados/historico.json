@@ -1840,7 +1840,13 @@
   "2026-11-19 marcas 18:21 amz-B0CQTSWJ43",
   "2026-11-19 tech 18:28 amz-B0CX8Y3CMG",
   "2026-11-19 achadinhos 18:36 amz-B08SBJVLZC",
-  "2026-11-19 marcas 18:43 amz-B0G2MFDX4W"
+  "2026-11-19 marcas 18:43 amz-B0G2MFDX4W",
+  "2026-11-19 achadinhos 18:50 amz-B076MPV2DN",
+  "2026-11-19 achadinhos 18:58 amz-B0H3C4FWG8",
+  "2026-11-19 marcas 19:06 amz-B0BHPNV15B",
+  "2026-11-19 tech 19:13 amz-B0CP31QS6R",
+  "2026-11-19 achadinhos 19:22 amz-B084J67FST",
+  "2026-11-19 marcas 19:29 amz-B0FFVG6TKX"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -3543,7 +3549,13 @@
   "amz-B0CQTSWJ43": "2026-11-19T18:21:59.273730-03:00",
   "amz-B0CX8Y3CMG": "2026-11-19T18:28:34.226179-03:00",
   "amz-B08SBJVLZC": "2026-11-19T18:36:07.151355-03:00",
-  "amz-B0G2MFDX4W": "2026-11-19T18:43:27.534527-03:00"
+  "amz-B0G2MFDX4W": "2026-11-19T18:43:27.534527-03:00",
+  "amz-B076MPV2DN": "2026-11-19T18:50:27.906276-03:00",
+  "amz-B0H3C4FWG8": "2026-11-19T18:58:57.408987-03:00",
+  "amz-B0BHPNV15B": "2026-11-19T19:06:58.728608-03:00",
+  "amz-B0CP31QS6R": "2026-11-19T19:13:29.423054-03:00",
+  "amz-B084J67FST": "2026-11-19T19:22:22.518667-03:00",
+  "amz-B0FFVG6TKX": "2026-11-19T19:29:36.253488-03:00"
  },
  "ofertas_dia": [
   {
@@ -21690,6 +21702,110 @@
    "preco_em": "2026-11-19T17:50:00-03:00",
    "entrou": "2026-11-19T18:02:59.575836-03:00",
    "dia": "2026-11-19"
+  },
+  {
+   "id": "amz-B076MPV2DN",
+   "canal": "achadinhos",
+   "nome": "Panela de Pressão Tramontina Solar Aço Inox 4,5 L 22 cm",
+   "preco_antigo": 988.0,
+   "preco": 559.58,
+   "desconto": 43,
+   "link": "https://www.amazon.com.br/dp/B076MPV2DN?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61hUw4VliLL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-20T22:00:00-03:00",
+   "coletado_em": "2026-11-19T17:50:00-03:00",
+   "preco_em": "2026-11-19T17:50:00-03:00",
+   "entrou": "2026-11-19T18:02:59.575836-03:00",
+   "dia": "2026-11-19"
+  },
+  {
+   "id": "amz-B0H3C4FWG8",
+   "canal": "achadinhos",
+   "nome": "Kit 2 Cremes Faciais NIVEA Nutritivo Ultraleve 7 em 1 100 g",
+   "preco_antigo": 75.98,
+   "preco": 44.0,
+   "desconto": 42,
+   "link": "https://www.amazon.com.br/dp/B0H3C4FWG8?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71ZYzEQixLL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-20T22:00:00-03:00",
+   "coletado_em": "2026-11-19T17:50:00-03:00",
+   "preco_em": "2026-11-19T17:50:00-03:00",
+   "entrou": "2026-11-19T18:02:59.575836-03:00",
+   "dia": "2026-11-19"
+  },
+  {
+   "id": "amz-B0BHPNV15B",
+   "canal": "marcas",
+   "nome": "Tênis Puma X-Ray 2 Square Unissex",
+   "preco_antigo": 599.99,
+   "preco": 331.57,
+   "desconto": 45,
+   "link": "https://www.amazon.com.br/dp/B0BHPNV15B?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71XtchenJ2L._AC_SL1500_.jpg",
+   "loja": "Vendido por Netshoes · Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-20T22:00:00-03:00",
+   "coletado_em": "2026-11-19T17:50:00-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "preco_em": "2026-11-19T17:50:00-03:00",
+   "entrou": "2026-11-19T18:02:59.575836-03:00",
+   "dia": "2026-11-19"
+  },
+  {
+   "id": "amz-B0CP31QS6R",
+   "canal": "tech",
+   "nome": "Kindle 16 GB (modelo 2024)",
+   "preco_antigo": 899.0,
+   "preco": 519.0,
+   "desconto": 42,
+   "link": "https://www.amazon.com.br/dp/B0CP31QS6R?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/714JQx5cAXL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-20T22:00:00-03:00",
+   "coletado_em": "2026-11-19T17:50:00-03:00",
+   "preco_em": "2026-11-19T17:50:00-03:00",
+   "entrou": "2026-11-19T18:02:59.575836-03:00",
+   "dia": "2026-11-19"
+  },
+  {
+   "id": "amz-B084J67FST",
+   "canal": "achadinhos",
+   "nome": "Smart Lâmpada Spot Wi-Fi Positivo Casa Inteligente",
+   "preco_antigo": 99.0,
+   "preco": 46.0,
+   "desconto": 54,
+   "link": "https://www.amazon.com.br/dp/B084J67FST?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51Njjvbg84L._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-20T22:00:00-03:00",
+   "coletado_em": "2026-11-19T17:50:00-03:00",
+   "preco_em": "2026-11-19T17:50:00-03:00",
+   "entrou": "2026-11-19T18:02:59.575836-03:00",
+   "dia": "2026-11-19"
+  },
+  {
+   "id": "amz-B0FFVG6TKX",
+   "canal": "marcas",
+   "nome": "Tênis Mizuno Neo Pryzma",
+   "preco_antigo": 599.99,
+   "preco": 294.49,
+   "desconto": 51,
+   "link": "https://www.amazon.com.br/dp/B0FFVG6TKX?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61yzQJ7DtlL._AC_SL1200_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-20T22:00:00-03:00",
+   "coletado_em": "2026-11-19T17:50:00-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "preco_em": "2026-11-19T17:50:00-03:00",
+   "entrou": "2026-11-19T18:02:59.575836-03:00",
+   "dia": "2026-11-19"
   }
  ],
  "ig_feitos": [
@@ -21853,10 +21969,13 @@
   "2026-11-19 18:09 story_oferta",
   "2026-11-19 feed",
   "2026-11-19 18:30 reels",
-  "2026-11-19 18:42 story_oferta"
+  "2026-11-19 18:42 story_oferta",
+  "2026-11-19 gta story 2",
+  "2026-11-19 feed",
+  "2026-11-19 19:15 post_achado",
+  "2026-11-19 19:17 story_oferta"
  ],
  "ig_ofertas_usadas": [
-  "shopee-22693266079",
   "shopee-21916807534",
   "shopee-20999203046",
   "shopee-58261216325",
@@ -22055,7 +22174,8 @@
   "shopee-21897631761",
   "shopee-22194978721",
   "shopee-23792931493",
-  "shopee-18797677549"
+  "shopee-18797677549",
+  "shopee-23198376314"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
@@ -22187,54 +22307,6 @@
  },
  "ultimo_pilar": "blackfriday",
  "fila": [
-  {
-   "id": "amz-B076MPV2DN",
-   "canal": "achadinhos",
-   "nome": "Panela de Pressão Tramontina Solar Aço Inox 4,5 L 22 cm",
-   "preco_antigo": 988.0,
-   "preco": 559.58,
-   "desconto": 43,
-   "link": "https://www.amazon.com.br/dp/B076MPV2DN?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61hUw4VliLL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-20T22:00:00-03:00",
-   "coletado_em": "2026-11-19T17:50:00-03:00",
-   "preco_em": "2026-11-19T17:50:00-03:00",
-   "entrou": "2026-11-19T18:02:59.575836-03:00"
-  },
-  {
-   "id": "amz-B0H3C4FWG8",
-   "canal": "achadinhos",
-   "nome": "Kit 2 Cremes Faciais NIVEA Nutritivo Ultraleve 7 em 1 100 g",
-   "preco_antigo": 75.98,
-   "preco": 44.0,
-   "desconto": 42,
-   "link": "https://www.amazon.com.br/dp/B0H3C4FWG8?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/71ZYzEQixLL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-20T22:00:00-03:00",
-   "coletado_em": "2026-11-19T17:50:00-03:00",
-   "preco_em": "2026-11-19T17:50:00-03:00",
-   "entrou": "2026-11-19T18:02:59.575836-03:00"
-  },
-  {
-   "id": "amz-B084J67FST",
-   "canal": "achadinhos",
-   "nome": "Smart Lâmpada Spot Wi-Fi Positivo Casa Inteligente",
-   "preco_antigo": 99.0,
-   "preco": 46.0,
-   "desconto": 54,
-   "link": "https://www.amazon.com.br/dp/B084J67FST?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51Njjvbg84L._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-20T22:00:00-03:00",
-   "coletado_em": "2026-11-19T17:50:00-03:00",
-   "preco_em": "2026-11-19T17:50:00-03:00",
-   "entrou": "2026-11-19T18:02:59.575836-03:00"
-  },
   {
    "id": "amz-B085M29TKS",
    "canal": "achadinhos",
@@ -22492,40 +22564,6 @@
    "entrou": "2026-11-19T18:02:59.575836-03:00"
   },
   {
-   "id": "amz-B0BHPNV15B",
-   "canal": "marcas",
-   "nome": "Tênis Puma X-Ray 2 Square Unissex",
-   "preco_antigo": 599.99,
-   "preco": 331.57,
-   "desconto": 45,
-   "link": "https://www.amazon.com.br/dp/B0BHPNV15B?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/71XtchenJ2L._AC_SL1500_.jpg",
-   "loja": "Vendido por Netshoes · Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-20T22:00:00-03:00",
-   "coletado_em": "2026-11-19T17:50:00-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "preco_em": "2026-11-19T17:50:00-03:00",
-   "entrou": "2026-11-19T18:02:59.575836-03:00"
-  },
-  {
-   "id": "amz-B0FFVG6TKX",
-   "canal": "marcas",
-   "nome": "Tênis Mizuno Neo Pryzma",
-   "preco_antigo": 599.99,
-   "preco": 294.49,
-   "desconto": 51,
-   "link": "https://www.amazon.com.br/dp/B0FFVG6TKX?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61yzQJ7DtlL._AC_SL1200_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-20T22:00:00-03:00",
-   "coletado_em": "2026-11-19T17:50:00-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "preco_em": "2026-11-19T17:50:00-03:00",
-   "entrou": "2026-11-19T18:02:59.575836-03:00"
-  },
-  {
    "id": "amz-B0F2J9LHBD",
    "canal": "marcas",
    "nome": "Tênis Puma Flyer Lite 3 Masculino",
@@ -22658,22 +22696,6 @@
    "valida_ate": "2026-11-20T22:00:00-03:00",
    "coletado_em": "2026-11-19T17:50:00-03:00",
    "extra": "Preço a partir de: varia por tamanho e cor",
-   "preco_em": "2026-11-19T17:50:00-03:00",
-   "entrou": "2026-11-19T18:02:59.575836-03:00"
-  },
-  {
-   "id": "amz-B0CP31QS6R",
-   "canal": "tech",
-   "nome": "Kindle 16 GB (modelo 2024)",
-   "preco_antigo": 899.0,
-   "preco": 519.0,
-   "desconto": 42,
-   "link": "https://www.amazon.com.br/dp/B0CP31QS6R?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/714JQx5cAXL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-20T22:00:00-03:00",
-   "coletado_em": "2026-11-19T17:50:00-03:00",
    "preco_em": "2026-11-19T17:50:00-03:00",
    "entrou": "2026-11-19T18:02:59.575836-03:00"
   },
@@ -23008,7 +23030,7 @@
   "controleplaystationdualsensesemfiobrancops5": "2026-10-31T13:31:24.133706-03:00",
   "tenisasicsgelshogunstmasculino": "2026-10-31T13:47:06.781024-03:00",
   "airfryerwapmegafamily9litros": "2026-10-31T14:53:19.592649-03:00",
-  "tenispumaxray2squareunissex": "2026-10-31T15:17:20.863911-03:00",
+  "tenispumaxray2squareunissex": "2026-11-19T19:06:58.728608-03:00",
   "tenisasicsgelshogunstlifestylemasculino": "2026-10-31T15:26:52.691651-03:00",
   "perfumenaturaessencialsentirdeoparfumfeminino100ml": "2026-10-31T15:56:00.938061-03:00",
   "perfumeazzarosportmasculinoeaudetoilette100ml": "2026-10-31T16:59:49.823106-03:00",
@@ -23101,7 +23123,7 @@
   "caixadesomjblpartyboxencoreessential2100w": "2026-11-02T09:27:53.485963-03:00",
   "aspiradordepoeaguawapgtw20litros": "2026-11-02T09:32:11.483565-03:00",
   "cafeteiraespressosuperautomaticaphilipswalitaserie1200": "2026-11-02T09:52:14.916314-03:00",
-  "tenismizunoneopryzma": "2026-11-02T10:00:01.595284-03:00",
+  "tenismizunoneopryzma": "2026-11-19T19:29:36.253488-03:00",
   "samsunggalaxywatch844mmlte": "2026-11-02T10:06:53.694242-03:00",
   "parafusadeiraefuradeiradeimpactowapcom11acessorios": "2026-11-02T10:10:36.067917-03:00",
   "perfumeazzaropourhommemasculino": "2026-11-02T10:13:55.751503-03:00",
@@ -24449,7 +24471,11 @@
   "aparadordepelosmondialclassictr01": "2026-11-19T18:15:46.111861-03:00",
   "amazonkindlecolorsoftsignatureedition32gbmodelo2024": "2026-11-19T18:28:34.226179-03:00",
   "aspiradorverticalelectrolux2em11100whepastk13220v": "2026-11-19T18:36:07.151355-03:00",
-  "tenisdecorridaasicssonicblastmasculino": "2026-11-19T18:43:27.534527-03:00"
+  "tenisdecorridaasicssonicblastmasculino": "2026-11-19T18:43:27.534527-03:00",
+  "paneladepressaotramontinasolaracoinox45l22cm": "2026-11-19T18:50:27.906276-03:00",
+  "kit2cremesfaciaisniveanutritivoultraleve7em1100g": "2026-11-19T18:58:57.408987-03:00",
+  "kindle16gbmodelo2024": "2026-11-19T19:13:29.423054-03:00",
+  "smartlampadaspotwifipositivocasainteligente": "2026-11-19T19:22:22.518667-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
@@ -24843,7 +24869,8 @@
  },
  "ig_dm_links": {
   "18113272949143552": "Oi! Aqui é o Papa 😎💎\n\nOs 5 melhores tênis de corrida até R$ 500:\n\n1. Tênis Casual Eros 2 Confortável Unissex - Olympikus — R$ 169,90\nhttps://s.shopee.com.br/1gK0ttEnZk\n\n2. Tênis de Caminhada Casual Index 4 Unissex Confortável - Olym — R$ 157,41\nhttps://s.shopee.com.br/30pOUL9is8\n\n3. Tênis Mizuno CSD Sport — R$ 269,90\nhttps://www.amazon.com.br/dp/B0GV1MKHDB?tag=papagarimpou-20\n\n4. Tênis de Caminhada Unissex Confortável Proof 3 - Olympikus — R$ 162,82\nhttps://s.shopee.com.br/1qdR6CEAEn\n\n5. Tênis de Caminhada Casual Unissex Confortável Beats - Olympi — R$ 199,90\nhttps://s.shopee.com.br/3g5Ah9OC6m\n\nPreço pode mudar a qualquer momento. Publi · link de afiliado",
-  "18247884766315682": "Oi! Aqui é o Papa 😎💎\n\nCupom BLACK30 na Nike (30% em selecionados, até 19/11):\n\n1. Tênis Nike Air Zoom Alphafly 3 Masculino — R$ 1.503,74\nhttps://www.awin1.com/cread.php?awinmid=17652&awinaffid=3137490&ued=https%3A%2F%2Fwww.nike.com.br%2Ftenis-nike-air-zoom-alphafly-3-masculino-028312.html%3Fcor%3D54\n\n2. Tênis Nike Zoom Fly 6 Feminino — R$ 902,24\nhttps://www.awin1.com/cread.php?awinmid=17652&awinaffid=3137490&ued=https%3A%2F%2Fwww.nike.com.br%2Ftenis-nike-zoom-fly-6-feminino-058279.html%3Fcor%3D55\n\n3. Tênis Nike Pegasus Plus Feminino — R$ 827,05\nhttps://www.awin1.com/cread.php?awinmid=17652&awinaffid=3137490&ued=https%3A%2F%2Fwww.nike.com.br%2Ftenis-nike-pegasus-plus-feminino-029398.html%3Fcor%3D54\n\n4. Camisa Nike Corinthians II 2025/26 Torcedor Pro Masculina — R$ 150,36\nhttps://www.awin1.com/cread.php?awinmid=17652&awinaffid=3137490&ued=https%3A%2F%2Fwww.nike.com.br%2Fcamisa-nike-corinthians-ii-2025-26-torcedor-pro-masculina-058825.html%3Fcor%3DID\n\n5. Shorts Nike Form Dri-FIT Masculino — R$ 185,70\nhttps://www.awin1.com/cread.php?awinmid=17652&awinaffid=3137490&ued=https%3A%2F%2Fwww.nike.com.br%2Fshorts-nike-dri-fit-masculino-024961.html%3Fcor%3D1G\n\nPreço pode mudar a qualquer momento. Publi · link de afiliado"
+  "18247884766315682": "Oi! Aqui é o Papa 😎💎\n\nCupom BLACK30 na Nike (30% em selecionados, até 19/11):\n\n1. Tênis Nike Air Zoom Alphafly 3 Masculino — R$ 1.503,74\nhttps://www.awin1.com/cread.php?awinmid=17652&awinaffid=3137490&ued=https%3A%2F%2Fwww.nike.com.br%2Ftenis-nike-air-zoom-alphafly-3-masculino-028312.html%3Fcor%3D54\n\n2. Tênis Nike Zoom Fly 6 Feminino — R$ 902,24\nhttps://www.awin1.com/cread.php?awinmid=17652&awinaffid=3137490&ued=https%3A%2F%2Fwww.nike.com.br%2Ftenis-nike-zoom-fly-6-feminino-058279.html%3Fcor%3D55\n\n3. Tênis Nike Pegasus Plus Feminino — R$ 827,05\nhttps://www.awin1.com/cread.php?awinmid=17652&awinaffid=3137490&ued=https%3A%2F%2Fwww.nike.com.br%2Ftenis-nike-pegasus-plus-feminino-029398.html%3Fcor%3D54\n\n4. Camisa Nike Corinthians II 2025/26 Torcedor Pro Masculina — R$ 150,36\nhttps://www.awin1.com/cread.php?awinmid=17652&awinaffid=3137490&ued=https%3A%2F%2Fwww.nike.com.br%2Fcamisa-nike-corinthians-ii-2025-26-torcedor-pro-masculina-058825.html%3Fcor%3DID\n\n5. Shorts Nike Form Dri-FIT Masculino — R$ 185,70\nhttps://www.awin1.com/cread.php?awinmid=17652&awinaffid=3137490&ued=https%3A%2F%2Fwww.nike.com.br%2Fshorts-nike-dri-fit-masculino-024961.html%3Fcor%3D1G\n\nPreço pode mudar a qualquer momento. Publi · link de afiliado",
+  "17999081340048537": "Oi! Aqui é o Papa 😎💎\n\nOs 5 melhores tênis de corrida até R$ 500:\n\n1. Tênis Mizuno Cool Ride 3 — R$ 189,99\nhttps://www.amazon.com.br/dp/B0FFTQ14WY?tag=papagarimpou-20\n\n2. Tênis Mizuno Neo Pryzma — R$ 294,49\nhttps://www.amazon.com.br/dp/B0FFVG6TKX?tag=papagarimpou-20\n\n3. Tênis de Corrida Puma Pounce Lite — R$ 230,90\nhttps://www.amazon.com.br/dp/B0D1YL2QLB?tag=papagarimpou-20\n\n4. Tênis de Caminhada Casual Index 4 Unissex Confortável - Olym — R$ 157,90\nhttps://s.shopee.com.br/qlBGCe9Hx\n\n5. Tênis Puma Flyer Lite 3 Masculino — R$ 179,90\nhttps://www.amazon.com.br/dp/B0F2J9LHBD?tag=papagarimpou-20\n\nPreço pode mudar a qualquer momento. Publi · link de afiliado"
  },
  "story_link_dia": "2026-11-19",
  "pede_semana": "2026-47",
@@ -24896,7 +24923,7 @@
   "marcas": "2026-11-19T17:28:44.035506-03:00"
  },
  "top10_dia": "2026-11-14",
- "manuais_lidos": "2026-11-19T18:43:06.576184-03:00",
+ "manuais_lidos": "2026-11-19T19:29:35.851232-03:00",
  "reserva_resultado": {
   "2026-11-07": {
    "achadinhos": {
@@ -25185,7 +25212,7 @@
    "hora": "2026-11-19T18:35:22.821634-03:00"
   }
  },
- "ig_respondido_em": "2026-11-19T18:43:06.576184-03:00",
+ "ig_respondido_em": "2026-11-19T19:21:10.025391-03:00",
  "dm_auto": {
   "2026-11-12": {
    "com_palavra": 0,
@@ -25433,8 +25460,8 @@
    "feed": 3
   },
   "2026-11-19": {
-   "story": 26,
-   "feed": 2
+   "story": 28,
+   "feed": 3
   }
  },
  "ig_conta_ok": "2026-11-19",
@@ -25506,5 +25533,8 @@
   "media_id": "18247884766315682",
   "quando": "2026-11-17T19:04:12.003155-03:00"
  },
- "gta_fixado": 538
+ "gta_fixado": 538,
+ "ig_gta_stories": [
+  "shopee-40084160591"
+ ]
 }

@@ -54,6 +54,57 @@
      "canal": "achadinhos"
     }
    ]
+  },
+  {
+   "tipo": "carrossel_salvavel",
+   "hora": "19:21",
+   "produtos": [
+    {
+     "nome": "Tênis Mizuno Cool Ride 3",
+     "preco_antigo": 399.99,
+     "preco": 189.99,
+     "desconto": 53,
+     "link": "https://www.amazon.com.br/dp/B0FFTQ14WY?tag=papagarimpou-20",
+     "loja": "Vendido e entregue pela Amazon",
+     "canal": "marcas"
+    },
+    {
+     "nome": "Tênis Mizuno Neo Pryzma",
+     "preco_antigo": 599.99,
+     "preco": 294.49,
+     "desconto": 51,
+     "link": "https://www.amazon.com.br/dp/B0FFVG6TKX?tag=papagarimpou-20",
+     "loja": "Vendido e entregue pela Amazon",
+     "canal": "marcas"
+    },
+    {
+     "nome": "Tênis de Corrida Puma Pounce Lite",
+     "preco_antigo": 449.99,
+     "preco": 230.9,
+     "desconto": 49,
+     "link": "https://www.amazon.com.br/dp/B0D1YL2QLB?tag=papagarimpou-20",
+     "loja": "Vendido e entregue pela Amazon",
+     "canal": "marcas"
+    },
+    {
+     "nome": "Tênis de Caminhada Casual Index 4 Unissex Confortável - Olympikus",
+     "preco_antigo": 292.41,
+     "preco": 157.9,
+     "desconto": 46,
+     "link": "https://s.shopee.com.br/qlBGCe9Hx",
+     "loja": "Tubarão Max",
+     "canal": "marcas"
+    },
+    {
+     "nome": "Tênis Puma Flyer Lite 3 Masculino",
+     "preco_antigo": 329.99,
+     "preco": 179.9,
+     "desconto": 45,
+     "link": "https://www.amazon.com.br/dp/B0F2J9LHBD?tag=papagarimpou-20",
+     "loja": "Vendido e entregue pela Amazon",
+     "canal": "marcas"
+    }
+   ]
   }
  ]
 }
