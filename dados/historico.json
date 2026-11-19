@@ -1790,7 +1790,11 @@
   "2026-11-18 marcas 19:35 shopee-58260024078",
   "2026-11-18 achadinhos 20:00 shopee-55014684903",
   "2026-11-18 tech 20:08 shopee-58002598728",
-  "2026-11-18 achadinhos 20:21 shopee-58209674589"
+  "2026-11-18 achadinhos 20:21 shopee-58209674589",
+  "2026-11-18 tech 20:28 shopee-22195023298",
+  "2026-11-18 tech 20:39 shopee-58260087298",
+  "2026-11-18 achadinhos 20:57 shopee-22394417163",
+  "2026-11-18 achadinhos 21:04 shopee-19161663389"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -2463,7 +2467,7 @@
   "amz-B0BCV3YJZ9": "2026-11-08T14:05:06.127737-03:00",
   "shopee-58002598728": "2026-11-18T20:08:45.000593-03:00",
   "shopee-49064981274": "2026-11-08T14:30:20.393231-03:00",
-  "shopee-22195023298": "2026-11-08T14:47:15.342899-03:00",
+  "shopee-22195023298": "2026-11-18T20:28:43.668725-03:00",
   "shopee-11444965462": "2026-11-18T17:55:55.314319-03:00",
   "shopee-22192651105": "2026-11-08T15:28:25.308685-03:00",
   "shopee-58206236149": "2026-11-16T12:56:15.055550-03:00",
@@ -2471,7 +2475,7 @@
   "shopee-46611963995": "2026-11-18T12:22:07.386987-03:00",
   "shopee-21049729949": "2026-11-18T19:27:20.189225-03:00",
   "shopee-44106064553": "2026-11-16T12:06:47.567675-03:00",
-  "shopee-58260087298": "2026-11-08T16:22:02.216589-03:00",
+  "shopee-58260087298": "2026-11-18T20:39:18.268545-03:00",
   "shopee-23398535010": "2026-11-08T16:28:20.218160-03:00",
   "shopee-49507610530": "2026-11-08T16:34:35.146641-03:00",
   "shopee-58203329255": "2026-11-08T16:44:48.311865-03:00",
@@ -2528,7 +2532,7 @@
   "shopee-21998281414": "2026-11-09T11:09:14.410157-03:00",
   "shopee-19997803637": "2026-11-09T11:56:23.407354-03:00",
   "shopee-23295873027": "2026-11-09T13:00:13.400616-03:00",
-  "shopee-19161663389": "2026-11-09T13:09:16.430629-03:00",
+  "shopee-19161663389": "2026-11-18T21:04:04.519583-03:00",
   "shopee-43430912812": "2026-11-09T13:15:51.025310-03:00",
   "shopee-58266090290": "2026-11-09T13:23:34.793102-03:00",
   "shopee-19299842169": "2026-11-09T13:32:26.630891-03:00",
@@ -3474,7 +3478,8 @@
   "amz-B07BB3MT83": "2026-11-18T18:17:02.460139-03:00",
   "amz-B0H6QGYFNT": "2026-11-18T18:25:28.466174-03:00",
   "amz-B08HZHHQK9": "2026-11-18T19:01:57.807566-03:00",
-  "shopee-55014684903": "2026-11-18T20:00:26.090563-03:00"
+  "shopee-55014684903": "2026-11-18T20:00:26.090563-03:00",
+  "shopee-22394417163": "2026-11-18T20:57:22.976983-03:00"
  },
  "ofertas_dia": [
   {
@@ -22481,6 +22486,82 @@
    "entrou": "2026-11-18T19:35:54.772091-03:00",
    "reprise_dias": 3,
    "dia": "2026-11-18"
+  },
+  {
+   "id": "shopee-22195023298",
+   "plataforma": "Shopee",
+   "nome": "TP-Link EX3000 Roteador Wi-Fi 6 AX3000 Dual Band, 4 portas Gigabit",
+   "loja": "TP-Link Brasil",
+   "loja_oficial": true,
+   "preco": 241.05,
+   "preco_antigo": 376.64,
+   "desconto": 36,
+   "vendas": 182,
+   "nota": 4.9,
+   "comissao_pct": 11.0,
+   "imagem": "https://cf.shopee.com.br/file/br-11134207-820la-moifp6zqrk003c",
+   "link": "https://s.shopee.com.br/9Kjhm0UmRM",
+   "quase": true,
+   "canal": "tech",
+   "entrou": "2026-11-18T19:54:48.541798-03:00",
+   "dia": "2026-11-18"
+  },
+  {
+   "id": "shopee-58260087298",
+   "plataforma": "Shopee",
+   "nome": "TP-Link EX1500 Roteador Wi-Fi 6 AX1500 Dual Band, 4 portas Gigabit",
+   "loja": "TP-Link Brasil",
+   "loja_oficial": true,
+   "preco": 179.0,
+   "preco_antigo": 248.61,
+   "desconto": 28,
+   "vendas": 292,
+   "nota": 4.9,
+   "comissao_pct": 8.0,
+   "imagem": "https://cf.shopee.com.br/file/br-11134207-820lq-mq5aj15b1hxd47",
+   "link": "https://s.shopee.com.br/6L66CUgCWk",
+   "quase": true,
+   "canal": "tech",
+   "entrou": "2026-11-18T19:54:48.541798-03:00",
+   "dia": "2026-11-18"
+  },
+  {
+   "id": "shopee-22394417163",
+   "plataforma": "Shopee",
+   "nome": "Kit Câmera Externa Inteligente Intelbras IM5 SC - 4 unidades",
+   "loja": "Intelbras Oficial",
+   "loja_oficial": true,
+   "preco": 990.0,
+   "preco_antigo": 1434.78,
+   "desconto": 31,
+   "vendas": 129,
+   "nota": 5.0,
+   "comissao_pct": 8.0,
+   "imagem": "https://cf.shopee.com.br/file/sg-11134201-8224v-mhhldlk21x51db",
+   "link": "https://s.shopee.com.br/AKcFhYHJSA",
+   "quase": true,
+   "canal": "achadinhos",
+   "entrou": "2026-11-18T20:51:55.832524-03:00",
+   "dia": "2026-11-18"
+  },
+  {
+   "id": "shopee-19161663389",
+   "plataforma": "Shopee",
+   "nome": "Câmera Inteligente iM3 C Black Intelbras ",
+   "loja": "Intelbras Oficial",
+   "loja_oficial": true,
+   "preco": 179.9,
+   "preco_antigo": 260.72,
+   "desconto": 31,
+   "vendas": 185,
+   "nota": 5.0,
+   "comissao_pct": 5.0,
+   "imagem": "https://cf.shopee.com.br/file/sg-11134201-825au-mvc5yqi9ko3q4c",
+   "link": "https://s.shopee.com.br/80EKvGQCBk",
+   "quase": true,
+   "canal": "achadinhos",
+   "entrou": "2026-11-18T20:51:55.832524-03:00",
+   "dia": "2026-11-18"
   }
  ],
  "ig_feitos": [
@@ -22636,7 +22717,10 @@
   "2026-11-18 feed",
   "2026-11-18 19:15 post_achado",
   "2026-11-18 19:17 story_oferta",
-  "2026-11-18 20:03 story_oferta"
+  "2026-11-18 20:03 story_oferta",
+  "2026-11-18 20:30 reels",
+  "2026-11-18 20:35 story_top4",
+  "2026-11-18 20:38 story_oferta"
  ],
  "ig_ofertas_usadas": [
   "shopee-52364763614",
@@ -22842,7 +22926,7 @@
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
- "ig_ultimo_reel": "2026-11-18T18:33:26.755377-03:00",
+ "ig_ultimo_reel": "2026-11-18T20:36:50.602630-03:00",
  "pecas_usadas": {
   "ac-preco-inflado": "2026-10-27",
   "dc-7-dias": "2026-10-27",
@@ -22970,40 +23054,22 @@
  "ultimo_pilar": "anticilada",
  "fila": [
   {
-   "id": "shopee-22195023298",
+   "id": "shopee-20298661104",
    "plataforma": "Shopee",
-   "nome": "TP-Link EX3000 Roteador Wi-Fi 6 AX3000 Dual Band, 4 portas Gigabit",
-   "loja": "TP-Link Brasil",
+   "nome": "Sanduicheira Britânia Chapas Antiaderentes 750W BGR02PI",
+   "loja": "Britânia Oficial",
    "loja_oficial": true,
-   "preco": 241.05,
-   "preco_antigo": 376.64,
-   "desconto": 36,
-   "vendas": 182,
+   "preco": 59.9,
+   "preco_antigo": 149.75,
+   "desconto": 60,
+   "vendas": 667,
    "nota": 4.9,
-   "comissao_pct": 11.0,
-   "imagem": "https://cf.shopee.com.br/file/br-11134207-820la-moifp6zqrk003c",
-   "link": "https://s.shopee.com.br/9Kjhm0UmRM",
-   "quase": true,
-   "canal": "tech",
-   "entrou": "2026-11-18T19:54:48.541798-03:00"
-  },
-  {
-   "id": "shopee-58260087298",
-   "plataforma": "Shopee",
-   "nome": "TP-Link EX1500 Roteador Wi-Fi 6 AX1500 Dual Band, 4 portas Gigabit",
-   "loja": "TP-Link Brasil",
-   "loja_oficial": true,
-   "preco": 179.0,
-   "preco_antigo": 248.61,
-   "desconto": 28,
-   "vendas": 292,
-   "nota": 4.9,
-   "comissao_pct": 8.0,
-   "imagem": "https://cf.shopee.com.br/file/br-11134207-820lq-mq5aj15b1hxd47",
-   "link": "https://s.shopee.com.br/6L66CUgCWk",
-   "quase": true,
-   "canal": "tech",
-   "entrou": "2026-11-18T19:54:48.541798-03:00"
+   "comissao_pct": 3.0,
+   "imagem": "https://cf.shopee.com.br/file/sg-11134201-825b1-mudio5k1r2ti36",
+   "link": "https://s.shopee.com.br/9AQHs85H4o",
+   "canal": "achadinhos",
+   "entrou": "2026-11-18T20:51:55.832524-03:00",
+   "reprise_dias": 3
   }
  ],
  "menus_fixados": [
@@ -23536,7 +23602,7 @@
   "tenisolympikusultraleve130gfeminino": "2026-11-08T14:05:06.127737-03:00",
   "carregadorportatilbaseuspicogoam415000mah10000mah20wmagneticomagsafeusbc60wpowerbank": "2026-11-18T20:08:45.000593-03:00",
   "desodorantecorporalnaturahomemcoragio100ml": "2026-11-08T14:30:20.393231-03:00",
-  "tplinkex3000roteadorwifi6ax3000dualband4portasgigabit": "2026-11-08T14:47:15.342899-03:00",
+  "tplinkex3000roteadorwifi6ax3000dualband4portasgigabit": "2026-11-18T20:28:43.668725-03:00",
   "cabousbdedadosmotorolaoriginalusbc1metro": "2026-11-18T17:55:55.314319-03:00",
   "eudoraclub6voyagedeocoloniamasculino95ml": "2026-11-08T15:28:25.308685-03:00",
   "caixadesomjblboombox4aprovadeaguamarrom": "2026-11-16T12:56:15.055550-03:00",
@@ -23544,7 +23610,7 @@
   "presentenaturaessencialmasculinominiaturas3un": "2026-11-18T12:22:07.386987-03:00",
   "creatinapura300gmaxtitanium": "2026-11-18T19:27:20.189225-03:00",
   "barradeproteinaovomaltineproteincrispbar45gdisplay12unidadesintegralmedica": "2026-11-16T12:06:47.567675-03:00",
-  "tplinkex1500roteadorwifi6ax1500dualband4portasgigabit": "2026-11-08T16:22:02.216589-03:00",
+  "tplinkex1500roteadorwifi6ax1500dualband4portasgigabit": "2026-11-18T20:39:18.268545-03:00",
   "sanduicheiraegrill2em1redstone750wbgr16corpretocompratabritania": "2026-11-08T16:28:20.218160-03:00",
   "teniscasualeros2confortavelunissexolympikus": "2026-11-08T16:34:35.146641-03:00",
   "eudorainstancemorangoirresistivelspray200ml": "2026-11-08T16:44:48.311865-03:00",
@@ -23601,7 +23667,7 @@
   "caixadesombluetoothjblboombox4originalaprovadaguaeresistenteapoeiranf": "2026-11-09T11:09:14.410157-03:00",
   "bettdowsamsungtabs9s9felite11polegadastecladobluetoothcapacomslotparacanetatabletnaoincluso": "2026-11-09T11:56:23.407354-03:00",
   "jogodefrigideirastramontina3pcscariberevestimentoantiaderentestarflonmax": "2026-11-09T13:00:13.400616-03:00",
-  "camerainteligenteim3cblackintelbras": "2026-11-09T13:09:16.430629-03:00",
+  "camerainteligenteim3cblackintelbras": "2026-11-18T21:04:04.519583-03:00",
   "tenisdecaminhadacasualindex4unissexconfortavelolympikus": "2026-11-09T13:15:51.025310-03:00",
   "camerainteligenteinternawifiintelbrasimxc": "2026-11-09T13:23:34.793102-03:00",
   "tenisdecaminhadaunissexconfortavelproof3olympikus": "2026-11-09T13:32:26.630891-03:00",
@@ -24536,7 +24602,8 @@
   "paneladepressaoeletricaelectrolux5l": "2026-11-18T18:17:02.460139-03:00",
   "kitcozinhatramontinaturim12pecaspanelasutensilios": "2026-11-18T18:25:28.466174-03:00",
   "cafeteiraeletricamondialsmartcoffeec42110v": "2026-11-18T19:01:57.807566-03:00",
-  "desodorantecorporalnaturakriskadrama100ml": "2026-11-18T20:00:26.090563-03:00"
+  "desodorantecorporalnaturakriskadrama100ml": "2026-11-18T20:00:26.090563-03:00",
+  "kitcameraexternainteligenteintelbrasim5sc4unidades": "2026-11-18T20:57:22.976983-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
@@ -24816,12 +24883,17 @@
    "shopee-20111903242"
   ],
   "2026-11-18": [
+   "shopee-21049729949",
+   "shopee-14788823787",
    "shopee-29083433141",
    "shopee-11098381324",
-   "shopee-14788823787",
+   "shopee-23593120156",
    "shopee-22997647570",
-   "shopee-23298467238",
-   "shopee-23593120156"
+   "shopee-41117508450",
+   "shopee-58209674589",
+   "shopee-20299205359",
+   "shopee-58260024078",
+   "shopee-23298467238"
   ]
  },
  "vendas_shopee": {},
@@ -24954,14 +25026,14 @@
   "2026-11-13 noite achadinhos",
   "2026-11-13 noite marcas"
  ],
- "reserva_meio": "2026-11-18T20:15:26.845860-03:00",
+ "reserva_meio": "2026-11-18T20:51:55.832524-03:00",
  "reserva_cheia": {
-  "achadinhos": "2026-11-18T19:35:54.772091-03:00",
+  "achadinhos": "2026-11-18T20:51:55.832524-03:00",
   "tech": "2026-11-18T19:54:48.541798-03:00",
   "marcas": "2026-11-18T20:15:26.845860-03:00"
  },
  "top10_dia": "2026-11-14",
- "manuais_lidos": "2026-11-18T20:08:16.855885-03:00",
+ "manuais_lidos": "2026-11-18T21:04:00.357311-03:00",
  "reserva_resultado": {
   "2026-11-07": {
    "achadinhos": {
@@ -25148,8 +25220,8 @@
   "2026-11-18": {
    "achadinhos": {
     "busca": 0,
-    "quase": 8,
-    "reprise": 3
+    "quase": 10,
+    "reprise": 4
    },
    "marcas": {
     "busca": 0,
@@ -25229,7 +25301,7 @@
    "hora": "2026-11-18T18:33:26.755377-03:00"
   }
  },
- "ig_respondido_em": "2026-11-18T20:08:16.855885-03:00",
+ "ig_respondido_em": "2026-11-18T21:04:00.357311-03:00",
  "dm_auto": {
   "2026-11-11": {
    "com_palavra": 0,
@@ -25453,6 +25525,12 @@
     "capa": "uma_oferta",
     "legenda": "Manda pra quem tá precisando disso 👇\n😎💎 Escova secador Modeladora Taiff Oval Easy Pink Original\n\nOfertas todo dia no Telegram: papagarimpouofertas 💎\n\nPubli · link de afiliado",
     "url": "https://raw.githubusercontent.com/felipenery99-alt/papa-garimpou-robo/tiktok-midia/20261118-1833-tiktok.mp4"
+   },
+   {
+    "hora": "20:36",
+    "capa": "ate_off",
+    "legenda": "Manda pra quem tá precisando disso 👇\n😎💎 Até 75% OFF em marca boa: os 5 achados do Papa hoje\n\nOfertas todo dia no Telegram: papagarimpouofertas 💎\n\nPubli · link de afiliado",
+    "url": "https://raw.githubusercontent.com/felipenery99-alt/papa-garimpou-robo/tiktok-midia/20261118-2036-tiktok.mp4"
    }
   ]
  },
