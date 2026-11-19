@@ -1846,7 +1846,13 @@
   "2026-11-19 marcas 19:06 amz-B0BHPNV15B",
   "2026-11-19 tech 19:13 amz-B0CP31QS6R",
   "2026-11-19 achadinhos 19:22 amz-B084J67FST",
-  "2026-11-19 marcas 19:29 amz-B0FFVG6TKX"
+  "2026-11-19 marcas 19:29 amz-B0FFVG6TKX",
+  "2026-11-19 achadinhos 19:36 amz-B085M29TKS",
+  "2026-11-19 achadinhos 19:43 amz-B0FXM6MSHK",
+  "2026-11-19 marcas 19:49 amz-B0F2J9LHBD",
+  "2026-11-19 tech 19:56 amz-B09B8XVSDP",
+  "2026-11-19 achadinhos 20:04 amz-B00KD799EI",
+  "2026-11-19 marcas 20:12 amz-B0D1YL2QLB"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -3555,7 +3561,13 @@
   "amz-B0BHPNV15B": "2026-11-19T19:06:58.728608-03:00",
   "amz-B0CP31QS6R": "2026-11-19T19:13:29.423054-03:00",
   "amz-B084J67FST": "2026-11-19T19:22:22.518667-03:00",
-  "amz-B0FFVG6TKX": "2026-11-19T19:29:36.253488-03:00"
+  "amz-B0FFVG6TKX": "2026-11-19T19:29:36.253488-03:00",
+  "amz-B085M29TKS": "2026-11-19T19:36:09.946497-03:00",
+  "amz-B0FXM6MSHK": "2026-11-19T19:43:36.099315-03:00",
+  "amz-B0F2J9LHBD": "2026-11-19T19:49:40.503284-03:00",
+  "amz-B09B8XVSDP": "2026-11-19T19:56:26.621976-03:00",
+  "amz-B00KD799EI": "2026-11-19T20:04:12.161250-03:00",
+  "amz-B0D1YL2QLB": "2026-11-19T20:12:01.234140-03:00"
  },
  "ofertas_dia": [
   {
@@ -21806,6 +21818,110 @@
    "preco_em": "2026-11-19T17:50:00-03:00",
    "entrou": "2026-11-19T18:02:59.575836-03:00",
    "dia": "2026-11-19"
+  },
+  {
+   "id": "amz-B085M29TKS",
+   "canal": "achadinhos",
+   "nome": "Ferro a Vapor Arno Steamgliss Base Antiaderente",
+   "preco_antigo": 219.99,
+   "preco": 112.97,
+   "desconto": 49,
+   "link": "https://www.amazon.com.br/dp/B085M29TKS?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51+0kG4m5BL._AC_SL1200_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-20T22:00:00-03:00",
+   "coletado_em": "2026-11-19T17:50:00-03:00",
+   "preco_em": "2026-11-19T17:50:00-03:00",
+   "entrou": "2026-11-19T18:02:59.575836-03:00",
+   "dia": "2026-11-19"
+  },
+  {
+   "id": "amz-B0FXM6MSHK",
+   "canal": "achadinhos",
+   "nome": "Protetor Solar com Cor L'Oréal Paris Expertise FPS 70",
+   "preco_antigo": 59.99,
+   "preco": 40.41,
+   "desconto": 33,
+   "link": "https://www.amazon.com.br/dp/B0FXM6MSHK?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61woE46PLxL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-20T22:00:00-03:00",
+   "coletado_em": "2026-11-19T17:50:00-03:00",
+   "preco_em": "2026-11-19T17:50:00-03:00",
+   "entrou": "2026-11-19T18:02:59.575836-03:00",
+   "dia": "2026-11-19"
+  },
+  {
+   "id": "amz-B0F2J9LHBD",
+   "canal": "marcas",
+   "nome": "Tênis Puma Flyer Lite 3 Masculino",
+   "preco_antigo": 329.99,
+   "preco": 179.9,
+   "desconto": 45,
+   "link": "https://www.amazon.com.br/dp/B0F2J9LHBD?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51cmaHJWe1L._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-20T22:00:00-03:00",
+   "coletado_em": "2026-11-19T17:50:00-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "preco_em": "2026-11-19T17:50:00-03:00",
+   "entrou": "2026-11-19T18:02:59.575836-03:00",
+   "dia": "2026-11-19"
+  },
+  {
+   "id": "amz-B09B8XVSDP",
+   "canal": "tech",
+   "nome": "Echo Dot com Alexa, som vibrante, Wi-Fi e Bluetooth",
+   "preco_antigo": 649.0,
+   "preco": 289.0,
+   "desconto": 55,
+   "link": "https://www.amazon.com.br/dp/B09B8XVSDP?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61aCuWauwBL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-20T22:00:00-03:00",
+   "coletado_em": "2026-11-19T17:50:00-03:00",
+   "preco_em": "2026-11-19T17:50:00-03:00",
+   "entrou": "2026-11-19T18:02:59.575836-03:00",
+   "dia": "2026-11-19"
+  },
+  {
+   "id": "amz-B00KD799EI",
+   "canal": "achadinhos",
+   "nome": "Conjunto para Churrasco Tramontina 12 Peças Vermelho",
+   "preco_antigo": 139.24,
+   "preco": 96.98,
+   "desconto": 30,
+   "link": "https://www.amazon.com.br/dp/B00KD799EI?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/81elkzTNU0L._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-20T22:00:00-03:00",
+   "coletado_em": "2026-11-19T17:50:00-03:00",
+   "preco_em": "2026-11-19T17:50:00-03:00",
+   "entrou": "2026-11-19T18:02:59.575836-03:00",
+   "dia": "2026-11-19"
+  },
+  {
+   "id": "amz-B0D1YL2QLB",
+   "canal": "marcas",
+   "nome": "Tênis de Corrida Puma Pounce Lite",
+   "preco_antigo": 449.99,
+   "preco": 230.9,
+   "desconto": 49,
+   "link": "https://www.amazon.com.br/dp/B0D1YL2QLB?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61K-WglX+7L._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-20T22:00:00-03:00",
+   "coletado_em": "2026-11-19T17:50:00-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "preco_em": "2026-11-19T17:50:00-03:00",
+   "entrou": "2026-11-19T18:02:59.575836-03:00",
+   "dia": "2026-11-19"
   }
  ],
  "ig_feitos": [
@@ -21973,10 +22089,10 @@
   "2026-11-19 gta story 2",
   "2026-11-19 feed",
   "2026-11-19 19:15 post_achado",
-  "2026-11-19 19:17 story_oferta"
+  "2026-11-19 19:17 story_oferta",
+  "2026-11-19 20:03 story_oferta"
  ],
  "ig_ofertas_usadas": [
-  "shopee-21916807534",
   "shopee-20999203046",
   "shopee-58261216325",
   "shopee-18216465769",
@@ -22175,7 +22291,8 @@
   "shopee-22194978721",
   "shopee-23792931493",
   "shopee-18797677549",
-  "shopee-23198376314"
+  "shopee-23198376314",
+  "shopee-9739004991"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
@@ -22307,54 +22424,6 @@
  },
  "ultimo_pilar": "blackfriday",
  "fila": [
-  {
-   "id": "amz-B085M29TKS",
-   "canal": "achadinhos",
-   "nome": "Ferro a Vapor Arno Steamgliss Base Antiaderente",
-   "preco_antigo": 219.99,
-   "preco": 112.97,
-   "desconto": 49,
-   "link": "https://www.amazon.com.br/dp/B085M29TKS?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51+0kG4m5BL._AC_SL1200_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-20T22:00:00-03:00",
-   "coletado_em": "2026-11-19T17:50:00-03:00",
-   "preco_em": "2026-11-19T17:50:00-03:00",
-   "entrou": "2026-11-19T18:02:59.575836-03:00"
-  },
-  {
-   "id": "amz-B0FXM6MSHK",
-   "canal": "achadinhos",
-   "nome": "Protetor Solar com Cor L'Oréal Paris Expertise FPS 70",
-   "preco_antigo": 59.99,
-   "preco": 40.41,
-   "desconto": 33,
-   "link": "https://www.amazon.com.br/dp/B0FXM6MSHK?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61woE46PLxL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-20T22:00:00-03:00",
-   "coletado_em": "2026-11-19T17:50:00-03:00",
-   "preco_em": "2026-11-19T17:50:00-03:00",
-   "entrou": "2026-11-19T18:02:59.575836-03:00"
-  },
-  {
-   "id": "amz-B00KD799EI",
-   "canal": "achadinhos",
-   "nome": "Conjunto para Churrasco Tramontina 12 Peças Vermelho",
-   "preco_antigo": 139.24,
-   "preco": 96.98,
-   "desconto": 30,
-   "link": "https://www.amazon.com.br/dp/B00KD799EI?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/81elkzTNU0L._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-20T22:00:00-03:00",
-   "coletado_em": "2026-11-19T17:50:00-03:00",
-   "preco_em": "2026-11-19T17:50:00-03:00",
-   "entrou": "2026-11-19T18:02:59.575836-03:00"
-  },
   {
    "id": "amz-B008R7SQPY",
    "canal": "achadinhos",
@@ -22564,40 +22633,6 @@
    "entrou": "2026-11-19T18:02:59.575836-03:00"
   },
   {
-   "id": "amz-B0F2J9LHBD",
-   "canal": "marcas",
-   "nome": "Tênis Puma Flyer Lite 3 Masculino",
-   "preco_antigo": 329.99,
-   "preco": 179.9,
-   "desconto": 45,
-   "link": "https://www.amazon.com.br/dp/B0F2J9LHBD?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51cmaHJWe1L._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-20T22:00:00-03:00",
-   "coletado_em": "2026-11-19T17:50:00-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "preco_em": "2026-11-19T17:50:00-03:00",
-   "entrou": "2026-11-19T18:02:59.575836-03:00"
-  },
-  {
-   "id": "amz-B0D1YL2QLB",
-   "canal": "marcas",
-   "nome": "Tênis de Corrida Puma Pounce Lite",
-   "preco_antigo": 449.99,
-   "preco": 230.9,
-   "desconto": 49,
-   "link": "https://www.amazon.com.br/dp/B0D1YL2QLB?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61K-WglX+7L._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-20T22:00:00-03:00",
-   "coletado_em": "2026-11-19T17:50:00-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "preco_em": "2026-11-19T17:50:00-03:00",
-   "entrou": "2026-11-19T18:02:59.575836-03:00"
-  },
-  {
    "id": "amz-B0CJJXQ1CF",
    "canal": "marcas",
    "nome": "Kit 5 Camisetas Masculinas Básicas Hering",
@@ -22696,22 +22731,6 @@
    "valida_ate": "2026-11-20T22:00:00-03:00",
    "coletado_em": "2026-11-19T17:50:00-03:00",
    "extra": "Preço a partir de: varia por tamanho e cor",
-   "preco_em": "2026-11-19T17:50:00-03:00",
-   "entrou": "2026-11-19T18:02:59.575836-03:00"
-  },
-  {
-   "id": "amz-B09B8XVSDP",
-   "canal": "tech",
-   "nome": "Echo Dot com Alexa, som vibrante, Wi-Fi e Bluetooth",
-   "preco_antigo": 649.0,
-   "preco": 289.0,
-   "desconto": 55,
-   "link": "https://www.amazon.com.br/dp/B09B8XVSDP?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61aCuWauwBL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-20T22:00:00-03:00",
-   "coletado_em": "2026-11-19T17:50:00-03:00",
    "preco_em": "2026-11-19T17:50:00-03:00",
    "entrou": "2026-11-19T18:02:59.575836-03:00"
   },
@@ -22922,6 +22941,23 @@
    "coletado_em": "2026-11-19T17:50:00-03:00",
    "preco_em": "2026-11-19T17:50:00-03:00",
    "entrou": "2026-11-19T18:02:59.575836-03:00"
+  },
+  {
+   "id": "shopee-58261870157",
+   "plataforma": "Shopee",
+   "nome": "GameSir G7 SE Wired Controller for Xbox One, Series S/X PC with Hall Effect Membrane Buttons Paddles",
+   "loja": "NovaPeak Brand Oficial",
+   "loja_oficial": true,
+   "preco": 299.0,
+   "preco_antigo": 460.0,
+   "desconto": 35,
+   "vendas": 631,
+   "nota": 5.0,
+   "comissao_pct": 7.0,
+   "imagem": "https://cf.shopee.com.br/file/br-11134207-820mc-mq34da0sesjme7",
+   "link": "https://s.shopee.com.br/1C5XKLvpH",
+   "canal": "tech",
+   "entrou": "2026-11-19T19:30:04.463072-03:00"
   }
  ],
  "menus_fixados": [
@@ -23087,7 +23123,7 @@
   "poteshermeticoselectroluxcomtampadebambu": "2026-11-01T17:25:54.623454-03:00",
   "tenisolympikusverticefeminino": "2026-11-17T11:10:26.277104-03:00",
   "parafusadeiraefuradeiradeimpactowapwf12k4212v": "2026-11-01T17:44:39.272566-03:00",
-  "tenisdecorridapumapouncelite": "2026-11-01T17:51:43.192545-03:00",
+  "tenisdecorridapumapouncelite": "2026-11-19T20:12:01.234140-03:00",
   "fonedeouvidosemfiojblwavebuds": "2026-11-01T18:04:51.357295-03:00",
   "caldeiraotramontinaparisantiaderente": "2026-11-01T18:09:42.641353-03:00",
   "mousesemfiologitechmxanywhere3s": "2026-11-01T18:22:47.572021-03:00",
@@ -23742,7 +23778,7 @@
   "growthbasicwhey1kg": "2026-11-11T15:27:15.499349-03:00",
   "epsonmultifuncionalecotankl4360": "2026-11-11T15:33:55.361351-03:00",
   "philcopranchaceramicblackppr08bivolt": "2026-11-11T15:41:57.548118-03:00",
-  "tenispumaflyerlite3masculino": "2026-11-11T15:49:39.544421-03:00",
+  "tenispumaflyerlite3masculino": "2026-11-19T19:49:40.503284-03:00",
   "dragonballthebreakersedespecialxbox": "2026-11-11T15:57:42.153748-03:00",
   "tramontinajogodechavescombinadas": "2026-11-11T16:05:50.192457-03:00",
   "growthcreatina500gpouch": "2026-11-11T16:13:29.433182-03:00",
@@ -24475,7 +24511,11 @@
   "paneladepressaotramontinasolaracoinox45l22cm": "2026-11-19T18:50:27.906276-03:00",
   "kit2cremesfaciaisniveanutritivoultraleve7em1100g": "2026-11-19T18:58:57.408987-03:00",
   "kindle16gbmodelo2024": "2026-11-19T19:13:29.423054-03:00",
-  "smartlampadaspotwifipositivocasainteligente": "2026-11-19T19:22:22.518667-03:00"
+  "smartlampadaspotwifipositivocasainteligente": "2026-11-19T19:22:22.518667-03:00",
+  "ferroavaporarnosteamglissbaseantiaderente": "2026-11-19T19:36:09.946497-03:00",
+  "protetorsolarcomcorlorealparisexpertisefps70": "2026-11-19T19:43:36.099315-03:00",
+  "echodotcomalexasomvibrantewifiebluetooth": "2026-11-19T19:56:26.621976-03:00",
+  "conjuntoparachurrascotramontina12pecasvermelho": "2026-11-19T20:04:12.161250-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
@@ -24923,7 +24963,7 @@
   "marcas": "2026-11-19T17:28:44.035506-03:00"
  },
  "top10_dia": "2026-11-14",
- "manuais_lidos": "2026-11-19T19:29:35.851232-03:00",
+ "manuais_lidos": "2026-11-19T20:12:00.856229-03:00",
  "reserva_resultado": {
   "2026-11-07": {
    "achadinhos": {
@@ -25212,7 +25252,7 @@
    "hora": "2026-11-19T18:35:22.821634-03:00"
   }
  },
- "ig_respondido_em": "2026-11-19T19:21:10.025391-03:00",
+ "ig_respondido_em": "2026-11-19T20:03:49.415165-03:00",
  "dm_auto": {
   "2026-11-12": {
    "com_palavra": 0,
@@ -25460,7 +25500,7 @@
    "feed": 3
   },
   "2026-11-19": {
-   "story": 28,
+   "story": 29,
    "feed": 3
   }
  },
