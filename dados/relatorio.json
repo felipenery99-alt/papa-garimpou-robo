@@ -3636,15 +3636,15 @@
    "erro em 2026-11-18 marcas 12:29 shopee-22493521596 (foto): 503 Server Error: Service Unavailable for url: https://cf.shopee.com.br/file/br-11134207-820lw-mspog5ou4v0ncf. Não postei.",
    "erro em 2026-11-18 achadinhos 12:59 shopee-55014684903 (foto): 403 Client Error: Forbidden for url: https://cf.shopee.com.br/file/sg-11134201-825ad-mr0o35kmaa6989. Não postei.",
    "erro em 2026-11-18 achadinhos 13:02 shopee-19161663389 (foto): 503 Server Error: Service Unavailable for url: https://cf.shopee.com.br/file/sg-11134201-825au-mvc5yqi9ko3q4c. Não postei.",
-   "erro em 2026-11-18 marcas 14:43 amz-B0GTR9N84L (envio ao Telegram): HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot8405810184:AAGXrdPpTxxaVAUClbMix_JMGwqgq8vhwwA/sendPhoto (Caused by NewConnectionError(\"HTTPSConnection(host='api.telegram.org', port=443): F",
+   "erro em 2026-11-18 marcas 14:43 amz-B0GTR9N84L (envio ao Telegram): HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot***/sendPhoto (Caused by NewConnectionError(\"HTTPSConnection(host='api.telegram.org', port=443): F",
    "⚠️ Fila vazia (tech), último garimpo 13:19 — abrir o app Claude e conferir as rotinas",
    "canal geral não recebeu amz-B09LQGKF2J: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))",
    "⚠️ Fila vazia (achadinhos, tech), último garimpo 13:19 — abrir o app Claude e conferir as rotinas",
    "canal marcas sem oferta na fila há 90 min (busca extra também não achou). Abastecer ofertas_manuais.json.",
    "canal tech sem oferta na fila há 71 min (busca extra também não achou). Abastecer ofertas_manuais.json."
   ],
-  "ultima_execucao": "23:31",
-  "execucoes": 27,
+  "ultima_execucao": "23:47",
+  "execucoes": 28,
   "telegram_posts": {
    "achadinhos": 45,
    "marcas": 29,
@@ -3710,10 +3710,8 @@
    "16:44 story_oferta",
    "18:05 a_ou_b",
    "18:09 story_oferta",
-   "feed",
    "18:30 reels",
    "18:42 story_oferta",
-   "feed",
    "19:15 post_achado",
    "19:17 story_oferta",
    "20:03 story_oferta",
@@ -8179,11 +8177,20 @@
    "shopee-18498318913": "vendas longe",
    "shopee-58219641887": "vendas longe",
    "shopee-58269497342": "vendas longe",
-   "shopee-40869294118": "vendas longe"
+   "shopee-40869294118": "vendas longe",
+   "shopee-56068386881": "nota",
+   "shopee-58208615087": "vendas longe",
+   "shopee-23700908906": "vendas longe",
+   "shopee-22297144626": "vendas longe",
+   "shopee-19199611579": "vendas longe",
+   "shopee-22994451783": "nota",
+   "shopee-22394299565": "vendas longe",
+   "shopee-58271597088": "nota",
+   "shopee-12545063765": "vendas longe"
   },
   "shopee_oficial": {
-   "vendas longe": 2206,
-   "nota": 1801,
+   "vendas longe": 2212,
+   "nota": 1804,
    "vendas perto (125+)": 113,
    "outro: marca fora da lista boa": 104,
    "desconto longe": 75,
@@ -8437,7 +8444,7 @@
    "stories_ativos": 25
   },
   "reels_alcance": {
-   "atualizado": "2026-11-18T23:31:03.571175-03:00",
+   "atualizado": "2026-11-18T23:47:25.327516-03:00",
    "itens": [
     {
      "id": "18020475830955680",
