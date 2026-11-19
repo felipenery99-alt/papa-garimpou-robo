@@ -1812,7 +1812,11 @@
   "2026-11-19 marcas 10:10 shopee-43430912812",
   "2026-11-19 tech 10:17 shopee-40275577235",
   "2026-11-19 achadinhos 10:26 shopee-18797677549",
-  "2026-11-19 marcas 10:34 shopee-45758904446"
+  "2026-11-19 marcas 10:34 shopee-45758904446",
+  "2026-11-19 marcas 10:41 shopee-22597140327",
+  "2026-11-19 tech 10:50 shopee-23592990089",
+  "2026-11-19 achadinhos 11:08 shopee-12317759781",
+  "2026-11-19 achadinhos 11:15 shopee-23098514649"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -2395,7 +2399,7 @@
   "shopee-23995913697": "2026-11-06T12:21:25.928234-03:00",
   "amz-B003DQPBXE": "2026-11-06T12:29:17.646740-03:00",
   "amz-B0G15924MD": "2026-11-06T12:36:04.600819-03:00",
-  "shopee-12317759781": "2026-11-06T12:44:02.952171-03:00",
+  "shopee-12317759781": "2026-11-19T11:08:50.394690-03:00",
   "shopee-13361302152": "2026-11-06T12:51:44.606191-03:00",
   "amz-B076M7GRNZ": "2026-11-06T13:00:45.336565-03:00",
   "amz-B079VVY5FG": "2026-11-06T13:07:29.572964-03:00",
@@ -2428,7 +2432,7 @@
   "amz-B0CSK79LMB": "2026-11-06T16:49:48.237388-03:00",
   "shopee-3258773144": "2026-11-16T21:19:16.694387-03:00",
   "shopee-41117508450": "2026-11-18T19:18:17.820255-03:00",
-  "shopee-23592990089": "2026-11-06T19:35:50.027373-03:00",
+  "shopee-23592990089": "2026-11-19T10:50:22.180998-03:00",
   "shopee-41478796304": "2026-11-15T12:35:27.439078-03:00",
   "shopee-22693266079": "2026-11-16T14:07:36.539639-03:00",
   "shopee-21916807534": "2026-11-15T12:42:32.473472-03:00",
@@ -2503,7 +2507,7 @@
   "shopee-23702004611": "2026-11-17T18:17:55.702033-03:00",
   "shopee-58217263099": "2026-11-18T19:10:20.708749-03:00",
   "shopee-23298537624": "2026-11-19T08:24:53.939178-03:00",
-  "shopee-23098514649": "2026-11-08T17:47:33.139384-03:00",
+  "shopee-23098514649": "2026-11-19T11:15:39.325630-03:00",
   "shopee-58250795411": "2026-11-08T18:01:32.288471-03:00",
   "shopee-18199337362": "2026-11-18T13:45:25.768408-03:00",
   "shopee-16887696614": "2026-11-08T18:26:11.622997-03:00",
@@ -2840,7 +2844,7 @@
   "shopee-18499921197": "2026-11-12T09:56:29.363763-03:00",
   "shopee-22091991704": "2026-11-12T10:03:29.760836-03:00",
   "shopee-48660343762": "2026-11-12T10:11:19.456142-03:00",
-  "shopee-22597140327": "2026-11-12T10:28:36.195300-03:00",
+  "shopee-22597140327": "2026-11-19T10:41:13.387723-03:00",
   "shopee-57657281247": "2026-11-12T10:34:28.074723-03:00",
   "shopee-7975402525": "2026-11-12T10:58:48.764310-03:00",
   "shopee-23494511696": "2026-11-12T11:05:48.090022-03:00",
@@ -21475,6 +21479,82 @@
    "canal": "marcas",
    "entrou": "2026-11-19T08:52:00.429777-03:00",
    "dia": "2026-11-19"
+  },
+  {
+   "id": "shopee-22597140327",
+   "plataforma": "Shopee",
+   "nome": "Camiseta Básica Masculina Slim Em Malha Flamê Hering",
+   "loja": "Hering_Oficial",
+   "loja_oficial": true,
+   "preco": 29.99,
+   "preco_antigo": 69.74,
+   "desconto": 57,
+   "vendas": 223,
+   "nota": 4.9,
+   "comissao_pct": 3.0,
+   "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m0d3fzym930h2a",
+   "link": "https://s.shopee.com.br/2qWFdoyTqY",
+   "quase": true,
+   "canal": "marcas",
+   "entrou": "2026-11-19T08:52:00.429777-03:00",
+   "reprise_dias": 3,
+   "dia": "2026-11-19"
+  },
+  {
+   "id": "shopee-23592990089",
+   "plataforma": "Shopee",
+   "nome": "Baseus Carregador De Parede Rápido Tipo C Super Si Qc 20w para Celulares iPhone Samsung e Outros",
+   "loja": "Baseus Oficial",
+   "loja_oficial": true,
+   "preco": 89.9,
+   "preco_antigo": 169.62,
+   "desconto": 47,
+   "vendas": 482,
+   "nota": 5.0,
+   "comissao_pct": 8.0,
+   "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdvh8jhg6v2198",
+   "link": "https://s.shopee.com.br/3B9637X727",
+   "canal": "tech",
+   "entrou": "2026-11-19T08:52:00.429777-03:00",
+   "dia": "2026-11-19"
+  },
+  {
+   "id": "shopee-12317759781",
+   "plataforma": "Shopee",
+   "nome": "Protetor Solar Nivea Sun Protect & Hidrata Fps50 100ml",
+   "loja": "MUNDO DA LELE",
+   "loja_oficial": true,
+   "preco": 32.99,
+   "preco_antigo": 45.82,
+   "desconto": 28,
+   "vendas": 753,
+   "nota": 4.9,
+   "comissao_pct": 3.0,
+   "imagem": "https://cf.shopee.com.br/file/br-11134207-820lb-msk34uxjpcsnf4",
+   "link": "https://s.shopee.com.br/9V39a0NWB3",
+   "quase": true,
+   "canal": "achadinhos",
+   "entrou": "2026-11-19T11:03:58.211688-03:00",
+   "dia": "2026-11-19"
+  },
+  {
+   "id": "shopee-23098514649",
+   "plataforma": "Shopee",
+   "nome": "Cafeteira Elétrica Electrolux Digital 38 Xícaras Experience Programável com Timer Cor Inox (ECM30)",
+   "loja": "Electrolux",
+   "loja_oficial": true,
+   "preco": 259.9,
+   "preco_antigo": 351.22,
+   "desconto": 26,
+   "vendas": 1100,
+   "nota": 5.0,
+   "comissao_pct": 3.0,
+   "imagem": "https://cf.shopee.com.br/file/sg-11134201-8260g-ml5mgbjd1edd42",
+   "link": "https://s.shopee.com.br/1LhRqvTxlJ",
+   "quase": true,
+   "canal": "achadinhos",
+   "entrou": "2026-11-19T11:03:58.211688-03:00",
+   "dia": "2026-11-19"
   }
  ],
  "ig_feitos": [
@@ -21614,10 +21694,10 @@
   "2026-11-19 09:40 story_convite",
   "2026-11-19 09:38 story_oferta",
   "2026-11-19 10:20 story_oferta",
-  "2026-11-19 10:24 story_oferta"
+  "2026-11-19 10:24 story_oferta",
+  "2026-11-19 11:11 story_oferta"
  ],
  "ig_ofertas_usadas": [
-  "amz-B094X2N4HV",
   "shopee-13361302152",
   "shopee-21116473058",
   "amz-B0F3FTNCXK",
@@ -21816,7 +21896,8 @@
   "shopee-45910145137",
   "shopee-58204904664",
   "shopee-22898889018",
-  "shopee-23002006891"
+  "shopee-23002006891",
+  "shopee-21516474306"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
@@ -21949,40 +22030,41 @@
  "ultimo_pilar": "blackfriday",
  "fila": [
   {
-   "id": "shopee-22597140327",
+   "id": "shopee-23892413591",
    "plataforma": "Shopee",
-   "nome": "Camiseta Básica Masculina Slim Em Malha Flamê Hering",
-   "loja": "Hering_Oficial",
+   "nome": "Chapinha Prancha Taiff Cerâmica PTC Action 180ºC Bivolt",
+   "loja": "Perfumaria Sumirê",
    "loja_oficial": true,
-   "preco": 29.99,
-   "preco_antigo": 69.74,
-   "desconto": 57,
-   "vendas": 223,
+   "preco": 94.9,
+   "preco_antigo": 249.74,
+   "desconto": 62,
+   "vendas": 849,
    "nota": 4.9,
-   "comissao_pct": 3.0,
-   "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m0d3fzym930h2a",
-   "link": "https://s.shopee.com.br/2qWFdoyTqY",
+   "comissao_pct": 11.0,
+   "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lsjz9ggk6xot07",
+   "link": "https://s.shopee.com.br/8AXlzWXnlG",
    "quase": true,
-   "canal": "marcas",
-   "entrou": "2026-11-19T08:52:00.429777-03:00",
+   "canal": "achadinhos",
+   "entrou": "2026-11-19T11:03:58.211688-03:00",
    "reprise_dias": 3
   },
   {
-   "id": "shopee-23592990089",
+   "id": "shopee-20999203046",
    "plataforma": "Shopee",
-   "nome": "Baseus Carregador De Parede Rápido Tipo C Super Si Qc 20w para Celulares iPhone Samsung e Outros",
-   "loja": "Baseus Oficial",
+   "nome": "Ventilador Mondial 30cm Vsp 30 B 60hz Loi",
+   "loja": "LOI BRASIL",
    "loja_oficial": true,
-   "preco": 89.9,
-   "preco_antigo": 169.62,
+   "preco": 147.99,
+   "preco_antigo": 279.23,
    "desconto": 47,
-   "vendas": 482,
-   "nota": 5.0,
-   "comissao_pct": 8.0,
-   "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdvh8jhg6v2198",
-   "link": "https://s.shopee.com.br/3B9637X727",
-   "canal": "tech",
-   "entrou": "2026-11-19T08:52:00.429777-03:00"
+   "vendas": 13850,
+   "nota": 4.9,
+   "comissao_pct": 6.0,
+   "imagem": "https://cf.shopee.com.br/file/br-11134207-820lg-mralqrfevhfp9f",
+   "link": "https://s.shopee.com.br/4fxtp5BvY8",
+   "canal": "achadinhos",
+   "entrou": "2026-11-19T11:03:58.211688-03:00",
+   "reprise_dias": 3
   }
  ],
  "menus_fixados": [
@@ -22425,7 +22507,7 @@
   "protetorsolarniveafacialantissinaisfps70toqueseco40ml": "2026-11-06T12:21:25.928234-03:00",
   "oculosdesoloakleyholbrookoo9102lmasculino": "2026-11-06T12:29:17.646740-03:00",
   "jogometroidprime4beyondnintendoswitch2": "2026-11-06T12:36:04.600819-03:00",
-  "protetorsolarniveasunprotecthidratafps50100ml": "2026-11-06T12:44:02.952171-03:00",
+  "protetorsolarniveasunprotecthidratafps50100ml": "2026-11-19T11:08:50.394690-03:00",
   "kit6paresmeiaslupocanocurtobaixosoquetealgodaoconfortavelunissexmasculinafemininaoriginal": "2026-11-06T12:51:44.606191-03:00",
   "paneladepressaotramontinasolaracoinox6l": "2026-11-06T13:00:45.336565-03:00",
   "protetorsolarcorporalneutrogenasunfreshfps70200ml": "2026-11-06T13:07:29.572964-03:00",
@@ -22458,7 +22540,7 @@
   "tablettcla1plus128gbtela122": "2026-11-06T16:49:48.237388-03:00",
   "baseusenerfillfn22fastcharger1cpd20w30w45wsafetyprotectionsminigantechadapterforiphone17": "2026-11-16T21:19:16.694387-03:00",
   "headphonebaseusbh1ncsemfiobluetooth60anc45dbgravesfortes80hbateriasomhires": "2026-11-18T19:18:17.820255-03:00",
-  "baseuscarregadordeparederapidotipocsupersiqc20wparacelularesiphonesamsungeoutros": "2026-11-06T19:35:50.027373-03:00",
+  "baseuscarregadordeparederapidotipocsupersiqc20wparacelularesiphonesamsungeoutros": "2026-11-19T10:50:22.180998-03:00",
   "cuscuzeirapequenatramontinaemaluminiocomrevestimentointernoeexternoemantiaderente10cm08l": "2026-11-15T12:35:27.439078-03:00",
   "faqueirotramontinaacoinoxbuzios36pecas": "2026-11-16T14:07:36.539639-03:00",
   "kitcom6paresdemeiasluposportcanomedioesportivaadultoemalgodao": "2026-11-15T12:42:32.473472-03:00",
@@ -22533,7 +22615,7 @@
   "secadortaiffstylepreto2000w220v": "2026-11-17T18:17:55.702033-03:00",
   "tenispumacourtclassiccleanmasculinooriginalcomnotafiscalegarantia": "2026-11-18T19:10:20.708749-03:00",
   "tampaparamicroondaselectroluxpretabpafreetampaparamicroondaselectroluxpretabpafree": "2026-11-19T08:24:53.939178-03:00",
-  "cafeteiraeletricaelectroluxdigital38xicarasexperienceprogramavelcomtimercorinoxecm30": "2026-11-08T17:47:33.139384-03:00",
+  "cafeteiraeletricaelectroluxdigital38xicarasexperienceprogramavelcomtimercorinoxecm30": "2026-11-19T11:15:39.325630-03:00",
   "controleparaxboxsemfiocarbonblack": "2026-11-08T18:01:32.288471-03:00",
   "parafusadeiraefuradeiraabateria12vgsr120licom1bateriaemaletaboschbivolt": "2026-11-18T13:45:25.768408-03:00",
   "kitniveaprotetorsolarfps30200mlprotetorfps30100ml": "2026-11-08T18:26:11.622997-03:00",
@@ -22867,7 +22949,7 @@
   "controleparaxboxsemfiopretocabousbc": "2026-11-12T09:56:29.363763-03:00",
   "chapinhadecabelotaiffsupermini200ocpretabivolt": "2026-11-12T10:03:29.760836-03:00",
   "jogodepanelastramontina9pecasturimantiaderentestarflonmaxgrafite": "2026-11-12T10:11:19.456142-03:00",
-  "camisetabasicamasculinaslimemmalhaflamehering": "2026-11-12T10:28:36.195300-03:00",
+  "camisetabasicamasculinaslimemmalhaflamehering": "2026-11-19T10:41:13.387723-03:00",
   "tenisfemininoolympikusapolisoriginal": "2026-11-12T10:34:28.074723-03:00",
   "ugreenpdqcpps100w60wusbcparacabodecargarapidatipo20v5ausbtipocparaiphone15samsunggalaxytablet": "2026-11-12T10:58:48.764310-03:00",
   "kitcamerainteligenteim3cblackintelbras2unidades": "2026-11-12T11:05:48.090022-03:00",
@@ -23944,14 +24026,14 @@
   "2026-11-18 noite marcas",
   "2026-11-18 noite tech"
  ],
- "reserva_meio": "2026-11-19T10:32:16.583711-03:00",
+ "reserva_meio": "2026-11-19T11:03:58.211688-03:00",
  "reserva_cheia": {
-  "achadinhos": "2026-11-19T09:11:36.584693-03:00",
+  "achadinhos": "2026-11-19T11:03:58.211688-03:00",
   "tech": "2026-11-19T08:32:45.513564-03:00",
   "marcas": "2026-11-19T08:52:00.429777-03:00"
  },
  "top10_dia": "2026-11-14",
- "manuais_lidos": "2026-11-19T10:32:16.583711-03:00",
+ "manuais_lidos": "2026-11-19T11:15:10.901783-03:00",
  "reserva_resultado": {
   "2026-11-07": {
    "achadinhos": {
@@ -24155,8 +24237,8 @@
   "2026-11-19": {
    "achadinhos": {
     "busca": 0,
-    "quase": 4,
-    "reprise": 2
+    "quase": 6,
+    "reprise": 4
    },
    "marcas": {
     "busca": 2,
@@ -24236,7 +24318,7 @@
    "hora": "2026-11-18T18:33:26.755377-03:00"
   }
  },
- "ig_respondido_em": "2026-11-19T10:25:24.897141-03:00",
+ "ig_respondido_em": "2026-11-19T11:15:10.901783-03:00",
  "dm_auto": {
   "2026-11-12": {
    "com_palavra": 0,
@@ -24484,7 +24566,7 @@
    "feed": 3
   },
   "2026-11-19": {
-   "story": 8,
+   "story": 9,
    "feed": 0
   }
  },
