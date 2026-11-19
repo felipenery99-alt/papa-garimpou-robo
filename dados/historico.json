@@ -1830,7 +1830,9 @@
   "2026-11-19 tech 13:14 shopee-22893747649",
   "2026-11-19 achadinhos 13:26 shopee-7380179382",
   "2026-11-19 achadinhos 13:33 shopee-22194978721",
-  "2026-11-19 tech 13:43 shopee-40084160591"
+  "2026-11-19 tech 13:43 shopee-40084160591",
+  "2026-11-19 tech 16:01 shopee-19399263103",
+  "2026-11-19 marcas 16:22 shopee-45766835949"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -2453,7 +2455,7 @@
   "shopee-58261216325": "2026-11-07T09:18:22.433210-03:00",
   "shopee-18216465769": "2026-11-07T09:26:34.269334-03:00",
   "shopee-58254966835": "2026-11-07T09:33:22.565900-03:00",
-  "shopee-19399263103": "2026-11-15T12:27:24.241956-03:00",
+  "shopee-19399263103": "2026-11-19T16:01:07.447476-03:00",
   "shopee-23792931413": "2026-11-07T14:15:35.733417-03:00",
   "shopee-20198314386": "2026-11-19T09:27:49.265741-03:00",
   "amz-B076KRB8LP": "2026-11-07T20:53:04.320175-03:00",
@@ -3524,7 +3526,8 @@
   "shopee-23198376314": "2026-11-19T12:12:57.918633-03:00",
   "shopee-43630230308": "2026-11-19T13:06:41.617483-03:00",
   "shopee-22893747649": "2026-11-19T13:14:40.199395-03:00",
-  "shopee-7380179382": "2026-11-19T13:26:50.044292-03:00"
+  "shopee-7380179382": "2026-11-19T13:26:50.044292-03:00",
+  "shopee-45766835949": "2026-11-19T16:22:38.514244-03:00"
  },
  "ofertas_dia": [
   {
@@ -21844,6 +21847,44 @@
    "entrou": "2026-11-19T12:39:43.410200-03:00",
    "reprise_dias": 3,
    "dia": "2026-11-19"
+  },
+  {
+   "id": "shopee-19399263103",
+   "plataforma": "Shopee",
+   "nome": "Baseus Cabo Rápido Usb Para Tipo- C Baseus Cafule Nylon 2a 2 Metros Preto para iPhone 15 16 Android",
+   "loja": "Baseus Oficial",
+   "loja_oficial": true,
+   "preco": 39.9,
+   "preco_antigo": 65.41,
+   "desconto": 39,
+   "vendas": 536,
+   "nota": 5.0,
+   "comissao_pct": 11.0,
+   "imagem": "https://cf.shopee.com.br/file/br-11134207-820lj-mo7yfc2x4w040d",
+   "link": "https://s.shopee.com.br/8pnSnWu0ec",
+   "canal": "tech",
+   "entrou": "2026-11-19T15:43:59.915729-03:00",
+   "reprise_dias": 3,
+   "dia": "2026-11-19"
+  },
+  {
+   "id": "shopee-45766835949",
+   "plataforma": "Shopee",
+   "nome": "Creatina Monohidratada - Growth Supplements - Sem sabor em pó",
+   "loja": "GROWTH SUPPLEMENTS",
+   "loja_oficial": true,
+   "preco": 62.9,
+   "preco_antigo": 78.62,
+   "desconto": 20,
+   "vendas": 3830,
+   "nota": 4.9,
+   "comissao_pct": 11.0,
+   "imagem": "https://cf.shopee.com.br/file/br-11134207-820lp-mvi3boyxil1e82",
+   "link": "https://s.shopee.com.br/1C4GgPFay",
+   "quase": true,
+   "canal": "marcas",
+   "entrou": "2026-11-19T16:16:00.074019-03:00",
+   "dia": "2026-11-19"
   }
  ],
  "ig_feitos": [
@@ -21997,7 +22038,8 @@
   "2026-11-19 13:22 story_oferta",
   "2026-11-19 14:08 story_oferta",
   "2026-11-19 15:00 adivinha",
-  "2026-11-19 15:03 story_oferta"
+  "2026-11-19 15:03 story_oferta",
+  "2026-11-19 16:05 adivinha_resposta"
  ],
  "ig_ofertas_usadas": [
   "shopee-41117508450",
@@ -22811,7 +22853,7 @@
   "camerainteligenteinternaim12mpintelbras": "2026-11-07T09:18:22.433210-03:00",
   "kit10paresmeiasluposportcanoinvisivelalgodaosoquetesapatilhaunissexoriginalconfortavel": "2026-11-07T09:26:34.269334-03:00",
   "ventiladordemesa40cm6paspretomondialvsp40127v": "2026-11-07T09:33:22.565900-03:00",
-  "baseuscaborapidousbparatipocbaseuscafulenylon2a2metrospretoparaiphone1516android": "2026-11-15T12:27:24.241956-03:00",
+  "baseuscaborapidousbparatipocbaseuscafulenylon2a2metrospretoparaiphone1516android": "2026-11-19T16:01:07.447476-03:00",
   "baseuscabousbparatipocnylon3a1metrocafulecarregamentorapidoiphone1516android": "2026-11-07T14:15:35.733417-03:00",
   "caixadesomjblboombox4bluetooth34hip68210rmspreta": "2026-11-19T09:27:49.265741-03:00",
   "marteleteperfuradorboschgbh224d820wcommaleta": "2026-11-07T20:53:04.320175-03:00",
@@ -23120,7 +23162,7 @@
   "kit4cuecasboxerluposemcostura": "2026-11-11T11:58:58.415821-03:00",
   "tecladomecanicogamerredragonvalheim": "2026-11-11T12:06:14.386369-03:00",
   "batedeiramondialpratica400w": "2026-11-11T12:13:44.152850-03:00",
-  "creatinamonohidratadagrowthsupplementssemsaborempo": "2026-11-11T12:21:45.450275-03:00",
+  "creatinamonohidratadagrowthsupplementssemsaborempo": "2026-11-19T16:22:38.514244-03:00",
   "batedeirabritaniaperola550": "2026-11-11T12:29:42.052826-03:00",
   "webcamfullhdlogitechbrio500": "2026-11-11T12:36:06.722111-03:00",
   "aspiradorrobophilcocomfuncaomop": "2026-11-11T12:43:53.988972-03:00",
@@ -24306,14 +24348,14 @@
   "2026-11-19 tarde achadinhos",
   "2026-11-19 tarde tech"
  ],
- "reserva_meio": "2026-11-19T15:39:26.388492-03:00",
+ "reserva_meio": "2026-11-19T16:16:00.074019-03:00",
  "reserva_cheia": {
   "achadinhos": "2026-11-19T15:39:26.388492-03:00",
   "tech": "2026-11-19T15:23:54.003132-03:00",
-  "marcas": "2026-11-19T15:08:23.642448-03:00"
+  "marcas": "2026-11-19T16:16:00.074019-03:00"
  },
  "top10_dia": "2026-11-14",
- "manuais_lidos": "2026-11-19T15:31:23.071870-03:00",
+ "manuais_lidos": "2026-11-19T16:29:53.526057-03:00",
  "reserva_resultado": {
   "2026-11-07": {
    "achadinhos": {
@@ -24522,13 +24564,13 @@
    },
    "marcas": {
     "busca": 2,
-    "quase": 9,
+    "quase": 10,
     "reprise": 3
    },
    "tech": {
     "busca": 2,
     "quase": 8,
-    "reprise": 3
+    "reprise": 4
    }
   }
  },
@@ -24598,7 +24640,7 @@
    "hora": "2026-11-18T18:33:26.755377-03:00"
   }
  },
- "ig_respondido_em": "2026-11-19T15:31:23.071870-03:00",
+ "ig_respondido_em": "2026-11-19T16:29:53.526057-03:00",
  "dm_auto": {
   "2026-11-12": {
    "com_palavra": 0,
@@ -24834,7 +24876,7 @@
    "feed": 3
   },
   "2026-11-19": {
-   "story": 19,
+   "story": 20,
    "feed": 1
   }
  },
