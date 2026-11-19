@@ -196,5 +196,11 @@
   "vezes": 1,
   "ultimo": "2026-11-19T00:15+00:00",
   "texto": "canal marcas sem oferta na fila há 90 min (busca extra também não achou). Abastecer ofertas_manuais.json."
+ },
+ "canal tech sem oferta na fila há # min (busca extra também não achou). Abastecer": {
+  "primeiro": "2026-11-19T01:00+00:00",
+  "vezes": 1,
+  "ultimo": "2026-11-19T01:00+00:00",
+  "texto": "canal tech sem oferta na fila há 71 min (busca extra também não achou). Abastecer ofertas_manuais.json."
  }
 }
