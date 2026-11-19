@@ -1,10 +1,4 @@
 {
- "canal geral não recebeu amz-B#FBSB#F: ('Connection aborted.', ConnectionResetErr": {
-  "primeiro": "2026-11-16T14:25+00:00",
-  "vezes": 1,
-  "ultimo": "2026-11-16T14:25+00:00",
-  "texto": "canal geral não recebeu amz-B0FBSB719F: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
- },
  "canal geral não recebeu shopee-#: ('Connection aborted.', ConnectionResetError(#": {
   "primeiro": "2026-11-16T15:06+00:00",
   "vezes": 1,
@@ -199,14 +193,20 @@
  },
  "⚠️ Garimpo parado desde #/# #:# — abrir o app Claude e conferir as rotinas\nPouca": {
   "primeiro": "2026-11-19T11:29+00:00",
-  "vezes": 1,
-  "ultimo": "2026-11-19T11:29+00:00",
-  "texto": "⚠️ Garimpo parado desde 18/11 13:19 — abrir o app Claude e conferir as rotinas\nPouca oferta na fila: achadinhos 1, tech 0."
+  "vezes": 2,
+  "ultimo": "2026-11-19T14:43+00:00",
+  "texto": "⚠️ Garimpo parado desde 18/11 13:19 — abrir o app Claude e conferir as rotinas\nPouca oferta na fila: achadinhos 0, tech 1."
  },
  "erro em #-#-# achadinhos #:# shopee-# (envio ao Telegram): HTTPSConnectionPool(h": {
   "primeiro": "2026-11-19T13:03+00:00",
   "vezes": 1,
   "ultimo": "2026-11-19T13:03+00:00",
   "texto": "erro em 2026-11-19 achadinhos 10:02 shopee-23892413591 (envio ao Telegram): HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=60). Não postei."
+ },
+ "erro em #-#-# marcas #:# shopee-# (envio ao Telegram): HTTPSConnectionPool(host=": {
+  "primeiro": "2026-11-19T14:47+00:00",
+  "vezes": 1,
+  "ultimo": "2026-11-19T14:47+00:00",
+  "texto": "erro em 2026-11-19 marcas 11:46 shopee-45766835949 (envio ao Telegram): HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=60). Não postei."
  }
 }
