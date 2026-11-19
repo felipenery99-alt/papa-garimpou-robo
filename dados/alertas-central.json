@@ -190,5 +190,11 @@
   "vezes": 1,
   "ultimo": "2026-11-18T22:06+00:00",
   "texto": "⚠️ Fila vazia (achadinhos, tech), último garimpo 13:19 — abrir o app Claude e conferir as rotinas"
+ },
+ "canal marcas sem oferta na fila há # min (busca extra também não achou). Abastec": {
+  "primeiro": "2026-11-19T00:15+00:00",
+  "vezes": 1,
+  "ultimo": "2026-11-19T00:15+00:00",
+  "texto": "canal marcas sem oferta na fila há 90 min (busca extra também não achou). Abastecer ofertas_manuais.json."
  }
 }
