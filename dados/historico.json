@@ -1824,7 +1824,11 @@
   "2026-11-19 marcas 12:12 shopee-23198376314",
   "2026-11-19 achadinhos 12:24 shopee-19497608994",
   "2026-11-19 achadinhos 12:33 shopee-21897631761",
-  "2026-11-19 tech 12:46 shopee-9739004991"
+  "2026-11-19 tech 12:46 shopee-9739004991",
+  "2026-11-19 tech 12:54 shopee-23792931493",
+  "2026-11-19 tech 13:06 shopee-43630230308",
+  "2026-11-19 tech 13:14 shopee-22893747649",
+  "2026-11-19 achadinhos 13:26 shopee-7380179382"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -2579,7 +2583,7 @@
   "amz-B09B15RDJ6": "2026-11-09T14:58:54.368595-03:00",
   "amz-B0FTJ8941C": "2026-11-09T15:06:04.882463-03:00",
   "amz-B09XFD2YMF": "2026-11-09T16:01:16.403930-03:00",
-  "shopee-23792931493": "2026-11-09T16:09:42.508897-03:00",
+  "shopee-23792931493": "2026-11-19T12:54:50.412129-03:00",
   "amz-B0GW9M4TXB": "2026-11-09T16:17:20.767941-03:00",
   "amz-B0F8Y8N2ST": "2026-11-09T16:25:14.206250-03:00",
   "shopee-23094785146": "2026-11-09T17:08:13.173005-03:00",
@@ -3515,7 +3519,10 @@
   "shopee-21516474306": "2026-11-19T09:43:34.367006-03:00",
   "shopee-19999048954": "2026-11-19T11:54:34.281888-03:00",
   "shopee-13439327530": "2026-11-19T12:03:13.923775-03:00",
-  "shopee-23198376314": "2026-11-19T12:12:57.918633-03:00"
+  "shopee-23198376314": "2026-11-19T12:12:57.918633-03:00",
+  "shopee-43630230308": "2026-11-19T13:06:41.617483-03:00",
+  "shopee-22893747649": "2026-11-19T13:14:40.199395-03:00",
+  "shopee-7380179382": "2026-11-19T13:26:50.044292-03:00"
  },
  "ofertas_dia": [
   {
@@ -21719,6 +21726,82 @@
    "canal": "tech",
    "entrou": "2026-11-19T12:39:43.410200-03:00",
    "dia": "2026-11-19"
+  },
+  {
+   "id": "shopee-23792931493",
+   "plataforma": "Shopee",
+   "nome": "Baseus Cabo Turbo Tipo-C P/ Tipo-C Cafule 60w 20v 3a 2m Quick Charge 3.0 iPhone 15 e Android",
+   "loja": "Baseus Oficial",
+   "loja_oficial": true,
+   "preco": 39.9,
+   "preco_antigo": 53.2,
+   "desconto": 25,
+   "vendas": 882,
+   "nota": 5.0,
+   "comissao_pct": 11.0,
+   "imagem": "https://cf.shopee.com.br/file/br-11134207-820lg-modrimw9i8ee31",
+   "link": "https://s.shopee.com.br/20x8ejpzxx",
+   "quase": true,
+   "canal": "tech",
+   "entrou": "2026-11-19T12:39:43.410200-03:00",
+   "dia": "2026-11-19"
+  },
+  {
+   "id": "shopee-43630230308",
+   "plataforma": "Shopee",
+   "nome": "Baseus Power Bank  FC11 10000mAh/20000mAh 22.5W Rápido Portátil Bateria Carregador Portátil Display Digital USB-C",
+   "loja": "Baseus Oficial",
+   "loja_oficial": true,
+   "preco": 257.0,
+   "preco_antigo": 352.05,
+   "desconto": 27,
+   "vendas": 135,
+   "nota": 5.0,
+   "comissao_pct": 8.0,
+   "imagem": "https://cf.shopee.com.br/file/br-11134207-820lx-mn9y0gk13m68f4",
+   "link": "https://s.shopee.com.br/8KrCCJ7VR5",
+   "quase": true,
+   "canal": "tech",
+   "entrou": "2026-11-19T12:39:43.410200-03:00",
+   "dia": "2026-11-19"
+  },
+  {
+   "id": "shopee-22893747649",
+   "plataforma": "Shopee",
+   "nome": "Controle Sem Fio Microsoft Xbox Wireless Series X|s Cor Carbon Black Preto",
+   "loja": "Cadê Meu Eletro®",
+   "loja_oficial": true,
+   "preco": 359.91,
+   "preco_antigo": 499.88,
+   "desconto": 28,
+   "vendas": 152,
+   "nota": 4.9,
+   "comissao_pct": 3.0,
+   "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m6uhvgr4n4o72b",
+   "link": "https://s.shopee.com.br/9AQJBx6O2p",
+   "quase": true,
+   "canal": "tech",
+   "entrou": "2026-11-19T12:39:43.410200-03:00",
+   "dia": "2026-11-19"
+  },
+  {
+   "id": "shopee-7380179382",
+   "plataforma": "Shopee",
+   "nome": "Faqueiro Tramontina Búzios 24 peças talheres em Aço Inox cozinha garfo faca colher",
+   "loja": "DOMUS.",
+   "loja_oficial": true,
+   "preco": 79.9,
+   "preco_antigo": 140.18,
+   "desconto": 43,
+   "vendas": 202,
+   "nota": 4.9,
+   "comissao_pct": 3.0,
+   "imagem": "https://cf.shopee.com.br/file/br-11134207-7qukw-lhibi2bzzkm534",
+   "link": "https://s.shopee.com.br/2qWFdhauWG",
+   "quase": true,
+   "canal": "achadinhos",
+   "entrou": "2026-11-19T13:21:07.978347-03:00",
+   "dia": "2026-11-19"
   }
  ],
  "ig_feitos": [
@@ -21866,10 +21949,11 @@
   "2026-11-19 12:00 reels",
   "2026-11-19 11:56 story_oferta",
   "2026-11-19 12:15 story_top4",
-  "2026-11-19 12:19 story_oferta"
+  "2026-11-19 12:19 story_oferta",
+  "2026-11-19 12:47 story_oferta",
+  "2026-11-19 13:20 story_convite"
  ],
  "ig_ofertas_usadas": [
-  "amz-B0F3FTNCXK",
   "amz-B0D6Z9YQFD",
   "shopee-3258773144",
   "amz-B0D2RKQWB4",
@@ -22068,7 +22152,8 @@
   "shopee-23002006891",
   "shopee-21516474306",
   "shopee-23098820695",
-  "shopee-43430912812"
+  "shopee-43430912812",
+  "shopee-45758904446"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
@@ -22201,60 +22286,6 @@
  "ultimo_pilar": "blackfriday",
  "fila": [
   {
-   "id": "shopee-23792931493",
-   "plataforma": "Shopee",
-   "nome": "Baseus Cabo Turbo Tipo-C P/ Tipo-C Cafule 60w 20v 3a 2m Quick Charge 3.0 iPhone 15 e Android",
-   "loja": "Baseus Oficial",
-   "loja_oficial": true,
-   "preco": 39.9,
-   "preco_antigo": 53.2,
-   "desconto": 25,
-   "vendas": 882,
-   "nota": 5.0,
-   "comissao_pct": 11.0,
-   "imagem": "https://cf.shopee.com.br/file/br-11134207-820lg-modrimw9i8ee31",
-   "link": "https://s.shopee.com.br/20x8ejpzxx",
-   "quase": true,
-   "canal": "tech",
-   "entrou": "2026-11-19T12:39:43.410200-03:00"
-  },
-  {
-   "id": "shopee-43630230308",
-   "plataforma": "Shopee",
-   "nome": "Baseus Power Bank  FC11 10000mAh/20000mAh 22.5W Rápido Portátil Bateria Carregador Portátil Display Digital USB-C",
-   "loja": "Baseus Oficial",
-   "loja_oficial": true,
-   "preco": 257.0,
-   "preco_antigo": 352.05,
-   "desconto": 27,
-   "vendas": 135,
-   "nota": 5.0,
-   "comissao_pct": 8.0,
-   "imagem": "https://cf.shopee.com.br/file/br-11134207-820lx-mn9y0gk13m68f4",
-   "link": "https://s.shopee.com.br/8KrCCJ7VR5",
-   "quase": true,
-   "canal": "tech",
-   "entrou": "2026-11-19T12:39:43.410200-03:00"
-  },
-  {
-   "id": "shopee-22893747649",
-   "plataforma": "Shopee",
-   "nome": "Controle Sem Fio Microsoft Xbox Wireless Series X|s Cor Carbon Black Preto",
-   "loja": "Cadê Meu Eletro®",
-   "loja_oficial": true,
-   "preco": 359.91,
-   "preco_antigo": 499.88,
-   "desconto": 28,
-   "vendas": 152,
-   "nota": 4.9,
-   "comissao_pct": 3.0,
-   "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m6uhvgr4n4o72b",
-   "link": "https://s.shopee.com.br/9AQJBx6O2p",
-   "quase": true,
-   "canal": "tech",
-   "entrou": "2026-11-19T12:39:43.410200-03:00"
-  },
-  {
    "id": "shopee-40084160591",
    "plataforma": "Shopee",
    "nome": "Monitor Gamer LG UltraGear 27\" FHD 144Hz IPS - 27G411B-B",
@@ -22271,6 +22302,25 @@
    "quase": true,
    "canal": "tech",
    "entrou": "2026-11-19T12:39:43.410200-03:00",
+   "reprise_dias": 3
+  },
+  {
+   "id": "shopee-22194978721",
+   "plataforma": "Shopee",
+   "nome": "Deo Parfum Natura Una Brilho 75ml",
+   "loja": "NATURA",
+   "loja_oficial": true,
+   "preco": 230.93,
+   "preco_antigo": 329.9,
+   "desconto": 30,
+   "vendas": 257,
+   "nota": 4.9,
+   "comissao_pct": 13.0,
+   "imagem": "https://cf.shopee.com.br/file/sg-11134201-820mw-mnk65zzdxpfk6a",
+   "link": "https://s.shopee.com.br/2gCpRR1CgA",
+   "quase": true,
+   "canal": "achadinhos",
+   "entrou": "2026-11-19T13:21:07.978347-03:00",
    "reprise_dias": 3
   }
  ],
@@ -22886,7 +22936,7 @@
   "ventiladordemesamondial40cmsuperpower": "2026-11-09T14:58:54.368595-03:00",
   "wheyconcentradomaismusaborpacoca": "2026-11-09T15:06:04.882463-03:00",
   "jogodefacastramontinaplenusinox4pecas": "2026-11-09T16:01:16.403930-03:00",
-  "baseuscaboturbotipocptipoccafule60w20v3a2mquickcharge30iphone15eandroid": "2026-11-09T16:09:42.508897-03:00",
+  "baseuscaboturbotipocptipoccafule60w20v3a2mquickcharge30iphone15eandroid": "2026-11-19T12:54:50.412129-03:00",
   "tenisfilarecoverymasculino": "2026-11-09T16:17:20.767941-03:00",
   "ventiladordemesaarnoxtreme740cm": "2026-11-09T16:25:14.206250-03:00",
   "barradeproteinawheycrispbar12unintegralmedicaproteinadequalidadebaixacaloriaemuitosabor": "2026-11-09T17:08:13.173005-03:00",
@@ -23811,7 +23861,10 @@
   "kitde12paresmeiaslupokidsinfantilcanocurtoalgodaotamanho24ao35": "2026-11-19T09:43:34.367006-03:00",
   "kitcom2camisetasfemininasbasicashering": "2026-11-19T11:54:34.281888-03:00",
   "cabodedadosecargamotorolamotousbcparausbc1metrooriginalpreto": "2026-11-19T12:03:13.923775-03:00",
-  "camisetafemininatechinsider": "2026-11-19T12:12:57.918633-03:00"
+  "camisetafemininatechinsider": "2026-11-19T12:12:57.918633-03:00",
+  "baseuspowerbankfc1110000mah20000mah225wrapidoportatilbateriacarregadorportatildisplaydigitalusbc": "2026-11-19T13:06:41.617483-03:00",
+  "controlesemfiomicrosoftxboxwirelessseriesxscorcarbonblackpreto": "2026-11-19T13:14:40.199395-03:00",
+  "faqueirotramontinabuzios24pecastalheresemacoinoxcozinhagarfofacacolher": "2026-11-19T13:26:50.044292-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
@@ -24243,14 +24296,14 @@
   "2026-11-18 noite marcas",
   "2026-11-18 noite tech"
  ],
- "reserva_meio": "2026-11-19T12:39:43.410200-03:00",
+ "reserva_meio": "2026-11-19T13:21:07.978347-03:00",
  "reserva_cheia": {
-  "achadinhos": "2026-11-19T12:06:22.172727-03:00",
+  "achadinhos": "2026-11-19T13:21:07.978347-03:00",
   "tech": "2026-11-19T12:39:43.410200-03:00",
-  "marcas": "2026-11-19T11:21:16.963709-03:00"
+  "marcas": "2026-11-19T12:47:09.434877-03:00"
  },
  "top10_dia": "2026-11-14",
- "manuais_lidos": "2026-11-19T12:32:59.788601-03:00",
+ "manuais_lidos": "2026-11-19T13:14:37.418028-03:00",
  "reserva_resultado": {
   "2026-11-07": {
    "achadinhos": {
@@ -24454,8 +24507,8 @@
   "2026-11-19": {
    "achadinhos": {
     "busca": 0,
-    "quase": 6,
-    "reprise": 6
+    "quase": 7,
+    "reprise": 7
    },
    "marcas": {
     "busca": 2,
@@ -24535,7 +24588,7 @@
    "hora": "2026-11-18T18:33:26.755377-03:00"
   }
  },
- "ig_respondido_em": "2026-11-19T12:32:59.788601-03:00",
+ "ig_respondido_em": "2026-11-19T13:21:07.978347-03:00",
  "dm_auto": {
   "2026-11-12": {
    "com_palavra": 0,
@@ -24771,7 +24824,7 @@
    "feed": 3
   },
   "2026-11-19": {
-   "story": 13,
+   "story": 15,
    "feed": 1
   }
  },

@@ -3749,17 +3749,17 @@
    "erro em 2026-11-19 marcas 11:46 shopee-45766835949 (envio ao Telegram): HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=60). Não postei.",
    "canal geral não recebeu shopee-23198376314: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
   ],
-  "ultima_execucao": "12:06",
-  "execucoes": 10,
+  "ultima_execucao": "12:47",
+  "execucoes": 11,
   "telegram_posts": {
-   "achadinhos": 14,
+   "achadinhos": 15,
    "marcas": 9,
-   "tech": 6
+   "tech": 9
   },
   "ultimo_post": {
-   "achadinhos": "12:33",
+   "achadinhos": "13:26",
    "marcas": "12:12",
-   "tech": "12:46"
+   "tech": "13:14"
   },
   "meta_token": {
    "tipo": "SYSTEM_USER",
@@ -3805,7 +3805,9 @@
    "12:00 reels",
    "11:56 story_oferta",
    "12:15 story_top4",
-   "12:19 story_oferta"
+   "12:19 story_oferta",
+   "12:47 story_oferta",
+   "13:20 story_convite"
   ],
   "shopee_ligada": true,
   "dm_auto": {
@@ -3835,8 +3837,8 @@
   "reserva_resultado": {
    "achadinhos": {
     "busca": 0,
-    "quase": 6,
-    "reprise": 6
+    "quase": 7,
+    "reprise": 7
    },
    "marcas": {
     "busca": 2,
@@ -8161,11 +8163,15 @@
    "shopee-58221537382": "nota",
    "shopee-58221541445": "nota",
    "shopee-22698552682": "nota",
-   "shopee-20999888706": "vendas longe"
+   "shopee-20999888706": "vendas longe",
+   "shopee-53669413982": "nota",
+   "shopee-56318994500": "vendas longe",
+   "shopee-20999832251": "vendas longe",
+   "shopee-58266500239": "vendas longe"
   },
   "shopee_oficial": {
-   "vendas longe": 2128,
-   "nota": 1769,
+   "vendas longe": 2131,
+   "nota": 1770,
    "vendas perto (125+)": 111,
    "outro: marca fora da lista boa": 102,
    "aprovada": 75,
@@ -8329,12 +8335,12 @@
    "seguidores": 511,
    "posts": 135,
    "reach": 26,
-   "profile_views": 14,
+   "profile_views": 15,
    "website_clicks": 0,
    "stories_ativos": 25
   },
   "reels_alcance": {
-   "atualizado": "2026-11-19T12:06:22.172727-03:00",
+   "atualizado": "2026-11-19T12:47:09.434877-03:00",
    "itens": [
     {
      "id": "18020475830955680",
