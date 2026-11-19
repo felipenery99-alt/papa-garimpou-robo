@@ -1,10 +1,4 @@
 {
- "erro em #-#-# achadinhos #:# amz-B#DD#KQWZF (envio ao Telegram): ('Connection ab": {
-  "primeiro": "2026-11-16T15:42+00:00",
-  "vezes": 1,
-  "ultimo": "2026-11-16T15:42+00:00",
-  "texto": "erro em 2026-11-16 achadinhos 12:42 amz-B0DD5KQWZF (envio ao Telegram): ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer')). Não postei."
- },
  "erro em #-#-# tech #:# shopee-# (foto): # Server Error: Service Unavailable for ": {
   "primeiro": "2026-11-16T16:18+00:00",
   "vezes": 2,
@@ -169,9 +163,9 @@
  },
  "canal marcas sem oferta na fila há # min (busca extra também não achou). Abastec": {
   "primeiro": "2026-11-19T00:15+00:00",
-  "vezes": 1,
-  "ultimo": "2026-11-19T00:15+00:00",
-  "texto": "canal marcas sem oferta na fila há 90 min (busca extra também não achou). Abastecer ofertas_manuais.json."
+  "vezes": 2,
+  "ultimo": "2026-11-19T16:37+00:00",
+  "texto": "canal marcas sem oferta na fila há 75 min (busca extra também não achou). Abastecer ofertas_manuais.json."
  },
  "canal tech sem oferta na fila há # min (busca extra também não achou). Abastecer": {
   "primeiro": "2026-11-19T01:00+00:00",
@@ -202,5 +196,11 @@
   "vezes": 1,
   "ultimo": "2026-11-19T15:13+00:00",
   "texto": "canal geral não recebeu shopee-23198376314: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
+ },
+ "erro em #-#-# marcas #:# shopee-# (envio ao Telegram): ('Connection aborted.', C": {
+  "primeiro": "2026-11-19T17:02+00:00",
+  "vezes": 1,
+  "ultimo": "2026-11-19T17:02+00:00",
+  "texto": "erro em 2026-11-19 marcas 14:02 shopee-55816802474 (envio ao Telegram): ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer')). Não postei."
  }
 }

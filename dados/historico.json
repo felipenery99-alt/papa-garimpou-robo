@@ -1828,7 +1828,9 @@
   "2026-11-19 tech 12:54 shopee-23792931493",
   "2026-11-19 tech 13:06 shopee-43630230308",
   "2026-11-19 tech 13:14 shopee-22893747649",
-  "2026-11-19 achadinhos 13:26 shopee-7380179382"
+  "2026-11-19 achadinhos 13:26 shopee-7380179382",
+  "2026-11-19 achadinhos 13:33 shopee-22194978721",
+  "2026-11-19 tech 13:43 shopee-40084160591"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -2905,7 +2907,7 @@
   "amz-B0GVT7XMDC": "2026-11-12T17:18:39.154171-03:00",
   "amz-B0GVT6FMNG": "2026-11-12T17:25:11.761325-03:00",
   "shopee-23892413591": "2026-11-19T11:23:31.424035-03:00",
-  "shopee-22194978721": "2026-11-12T18:28:29.410534-03:00",
+  "shopee-22194978721": "2026-11-19T13:33:25.676270-03:00",
   "amz-B0CTHXYDYD": "2026-11-12T18:36:38.538452-03:00",
   "amz-B0CZPK4JBV": "2026-11-12T18:43:47.401292-03:00",
   "amz-B07HZMBBBQ": "2026-11-12T18:51:48.884087-03:00",
@@ -3064,7 +3066,7 @@
   "amz-B0FSG7GZDY": "2026-11-14T11:41:38.574720-03:00",
   "amz-B0FXJBVK45": "2026-11-14T11:48:54.405125-03:00",
   "amz-B0GW92MKCH": "2026-11-14T12:00:13.548636-03:00",
-  "shopee-40084160591": "2026-11-14T12:07:16.821731-03:00",
+  "shopee-40084160591": "2026-11-19T13:43:05.924793-03:00",
   "amz-B0FH3K45PH": "2026-11-14T12:22:50.486101-03:00",
   "shopee-23494293697": "2026-11-14T12:31:06.146612-03:00",
   "amz-B076M8G7VT": "2026-11-14T12:38:48.225449-03:00",
@@ -21802,6 +21804,46 @@
    "canal": "achadinhos",
    "entrou": "2026-11-19T13:21:07.978347-03:00",
    "dia": "2026-11-19"
+  },
+  {
+   "id": "shopee-22194978721",
+   "plataforma": "Shopee",
+   "nome": "Deo Parfum Natura Una Brilho 75ml",
+   "loja": "NATURA",
+   "loja_oficial": true,
+   "preco": 230.93,
+   "preco_antigo": 329.9,
+   "desconto": 30,
+   "vendas": 257,
+   "nota": 4.9,
+   "comissao_pct": 13.0,
+   "imagem": "https://cf.shopee.com.br/file/sg-11134201-820mw-mnk65zzdxpfk6a",
+   "link": "https://s.shopee.com.br/2gCpRR1CgA",
+   "quase": true,
+   "canal": "achadinhos",
+   "entrou": "2026-11-19T13:21:07.978347-03:00",
+   "reprise_dias": 3,
+   "dia": "2026-11-19"
+  },
+  {
+   "id": "shopee-40084160591",
+   "plataforma": "Shopee",
+   "nome": "Monitor Gamer LG UltraGear 27\" FHD 144Hz IPS - 27G411B-B",
+   "loja": "NegociuN",
+   "loja_oficial": true,
+   "preco": 811.85,
+   "preco_antigo": 1176.59,
+   "desconto": 31,
+   "vendas": 159,
+   "nota": 4.9,
+   "comissao_pct": 3.0,
+   "imagem": "https://cf.shopee.com.br/file/br-11134207-820me-msmwwza1qebpc7",
+   "link": "https://s.shopee.com.br/9zzQBSTwG3",
+   "quase": true,
+   "canal": "tech",
+   "entrou": "2026-11-19T12:39:43.410200-03:00",
+   "reprise_dias": 3,
+   "dia": "2026-11-19"
   }
  ],
  "ig_feitos": [
@@ -21951,11 +21993,11 @@
   "2026-11-19 12:15 story_top4",
   "2026-11-19 12:19 story_oferta",
   "2026-11-19 12:47 story_oferta",
-  "2026-11-19 13:20 story_convite"
+  "2026-11-19 13:20 story_convite",
+  "2026-11-19 13:22 story_oferta",
+  "2026-11-19 14:08 story_oferta"
  ],
  "ig_ofertas_usadas": [
-  "amz-B0D6Z9YQFD",
-  "shopee-3258773144",
   "amz-B0D2RKQWB4",
   "amz-B0941752F2",
   "shopee-41117508450",
@@ -22153,7 +22195,9 @@
   "shopee-21516474306",
   "shopee-23098820695",
   "shopee-43430912812",
-  "shopee-45758904446"
+  "shopee-45758904446",
+  "shopee-23592990089",
+  "shopee-12317759781"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
@@ -22284,46 +22328,7 @@
   "2026-11-19": 1
  },
  "ultimo_pilar": "blackfriday",
- "fila": [
-  {
-   "id": "shopee-40084160591",
-   "plataforma": "Shopee",
-   "nome": "Monitor Gamer LG UltraGear 27\" FHD 144Hz IPS - 27G411B-B",
-   "loja": "NegociuN",
-   "loja_oficial": true,
-   "preco": 811.85,
-   "preco_antigo": 1176.59,
-   "desconto": 31,
-   "vendas": 159,
-   "nota": 4.9,
-   "comissao_pct": 3.0,
-   "imagem": "https://cf.shopee.com.br/file/br-11134207-820me-msmwwza1qebpc7",
-   "link": "https://s.shopee.com.br/9zzQBSTwG3",
-   "quase": true,
-   "canal": "tech",
-   "entrou": "2026-11-19T12:39:43.410200-03:00",
-   "reprise_dias": 3
-  },
-  {
-   "id": "shopee-22194978721",
-   "plataforma": "Shopee",
-   "nome": "Deo Parfum Natura Una Brilho 75ml",
-   "loja": "NATURA",
-   "loja_oficial": true,
-   "preco": 230.93,
-   "preco_antigo": 329.9,
-   "desconto": 30,
-   "vendas": 257,
-   "nota": 4.9,
-   "comissao_pct": 13.0,
-   "imagem": "https://cf.shopee.com.br/file/sg-11134201-820mw-mnk65zzdxpfk6a",
-   "link": "https://s.shopee.com.br/2gCpRR1CgA",
-   "quase": true,
-   "canal": "achadinhos",
-   "entrou": "2026-11-19T13:21:07.978347-03:00",
-   "reprise_dias": 3
-  }
- ],
+ "fila": [],
  "menus_fixados": [
   "v1 @papagarimpou",
   "v1 @papagarimpoumarcas",
@@ -23255,7 +23260,7 @@
   "celularsamsunggalaxya575g128gb": "2026-11-12T17:18:39.154171-03:00",
   "celularsamsunggalaxya375g256gb": "2026-11-12T17:25:11.761325-03:00",
   "chapinhapranchataiffceramicaptcaction180ocbivolt": "2026-11-19T11:23:31.424035-03:00",
-  "deoparfumnaturaunabrilho75ml": "2026-11-12T18:28:29.410534-03:00",
+  "deoparfumnaturaunabrilho75ml": "2026-11-19T13:33:25.676270-03:00",
   "perfumeazzarochromelegendedt100ml": "2026-11-12T18:36:38.538452-03:00",
   "carregadordeparedesamsung25w": "2026-11-12T18:43:47.401292-03:00",
   "detergenteypeneutro5l": "2026-11-12T18:51:48.884087-03:00",
@@ -23414,7 +23419,7 @@
   "airfryerbritaniasilverstone42l1500w127v": "2026-11-14T11:41:38.574720-03:00",
   "tenisfilaagil": "2026-11-14T11:48:54.405125-03:00",
   "tenisfilarunner2kfeminino": "2026-11-14T12:00:13.548636-03:00",
-  "monitorgamerlgultragear27fhd144hzips27g411bb": "2026-11-14T12:07:16.821731-03:00",
+  "monitorgamerlgultragear27fhd144hzips27g411bb": "2026-11-19T13:43:05.924793-03:00",
   "tenisfilafreestyleiimasculino": "2026-11-14T12:22:50.486101-03:00",
   "aspiradordepoeaguawapgtw15inox1700w148l220vfw008810": "2026-11-14T12:31:06.146612-03:00",
   "maletadeferramentastramontina65pecas": "2026-11-14T12:38:48.225449-03:00",
@@ -24294,16 +24299,17 @@
   "2026-11-13 noite achadinhos",
   "2026-11-13 noite marcas",
   "2026-11-18 noite marcas",
-  "2026-11-18 noite tech"
+  "2026-11-18 noite tech",
+  "2026-11-19 tarde marcas"
  ],
- "reserva_meio": "2026-11-19T13:21:07.978347-03:00",
+ "reserva_meio": "2026-11-19T14:12:03.543978-03:00",
  "reserva_cheia": {
   "achadinhos": "2026-11-19T13:21:07.978347-03:00",
   "tech": "2026-11-19T12:39:43.410200-03:00",
-  "marcas": "2026-11-19T12:47:09.434877-03:00"
+  "marcas": "2026-11-19T13:56:48.164707-03:00"
  },
  "top10_dia": "2026-11-14",
- "manuais_lidos": "2026-11-19T13:14:37.418028-03:00",
+ "manuais_lidos": "2026-11-19T14:10:43.316302-03:00",
  "reserva_resultado": {
   "2026-11-07": {
    "achadinhos": {
@@ -24512,7 +24518,7 @@
    },
    "marcas": {
     "busca": 2,
-    "quase": 7,
+    "quase": 8,
     "reprise": 3
    },
    "tech": {
@@ -24588,7 +24594,7 @@
    "hora": "2026-11-18T18:33:26.755377-03:00"
   }
  },
- "ig_respondido_em": "2026-11-19T13:21:07.978347-03:00",
+ "ig_respondido_em": "2026-11-19T14:10:43.316302-03:00",
  "dm_auto": {
   "2026-11-12": {
    "com_palavra": 0,
@@ -24824,7 +24830,7 @@
    "feed": 3
   },
   "2026-11-19": {
-   "story": 15,
+   "story": 17,
    "feed": 1
   }
  },
