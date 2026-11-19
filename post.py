@@ -61,6 +61,11 @@ def gancho(oferta: dict) -> str:
 
 def legenda(oferta: dict, canal: str) -> str:
     linhas = ["😎💎 PAPA GARIMPOU", "", f"🔥 {gancho(oferta)}", "", oferta["nome"].strip(), ""]
+    if canal == "tech":   # 19/11: especial GTA VI até config.ESPECIAL_GAMES_ATE (some sozinho depois)
+        from datetime import datetime
+        from zoneinfo import ZoneInfo
+        if config.especial_games(datetime.now(ZoneInfo(config.FUSO))):
+            linhas.insert(0, config.ESPECIAL_GAMES_TOPO)
     if oferta.get("preco_antigo") and oferta["preco_antigo"] > oferta["preco"]:
         linhas.append(f"❌ De: {_brl(oferta['preco_antigo'])}")
     linhas.append(f"✅ Por: {_brl(oferta['preco'])} ({oferta['desconto']}% OFF)")

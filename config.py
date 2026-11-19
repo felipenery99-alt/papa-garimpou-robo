@@ -267,3 +267,26 @@ FB_CONVITE_HORA = "20:10"
 PASTA_TELEGRAM = "https://t.me/addlist/ibNzKthuoBI3NzVh"
 USAR_PASTA = True
 AWIN_SEGURAR = False   # 17/11 17h45: 20 de 20 testes do Brasil já com o nome novo → Awin liberada (PG · Robô)
+
+# 19/11 (Central 2, dono): ESPECIAL GTA VI — o jogo lançou; foco em videogame, console, controle e PC até 26/11
+# (desliga sozinho depois). Buscas de games entram NA FRENTE das do Tech; oferta de game passa na frente na fila;
+# legenda do Tech com "🎮 Especial GTA VI" no topo; Instagram: 1 carrossel "Setup pra jogar GTA VI" + 2 stories/dia
+# de item de game, com o convite rastreado "ig-gta" (canal Tech). Sem logo, arte ou print do jogo (direito autoral):
+# só a foto do produto e o texto "GTA VI".
+ESPECIAL_GAMES_ATE = "2026-11-26T23:59"
+ESPECIAL_GAMES_TOPO = "🎮 Especial GTA VI"
+BUSCAS_GAMES = [
+    "playstation 5", "console ps5", "xbox series", "controle dualsense", "controle xbox series",
+    "headset gamer hyperx", "headset gamer logitech", "ssd nvme kingston", "ssd nvme wd", "ssd nvme samsung",
+    "monitor gamer lg", "monitor gamer samsung", "teclado gamer logitech", "mouse gamer logitech",
+    "mouse gamer razer", "notebook gamer lenovo", "notebook gamer acer", "notebook gamer asus", "gta vi ps5",
+]
+STORIES_GAMES_HORAS = [("12:00", "14:30"), ("19:00", "21:45")]   # 2 stories por dia, 1 em cada janela
+MARCAS_ACHADINHOS += [
+    "hyperx", "razer", "wd", "western digital", "acer", "asus", "rog", "sony playstation", "dualsense",
+    "rockstar", "rockstar games", "nintendo",
+]
+
+
+def especial_games(agora) -> bool:
+    return f"{agora:%Y-%m-%dT%H:%M}" <= ESPECIAL_GAMES_ATE

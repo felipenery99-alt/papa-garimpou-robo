@@ -1,4 +1,5 @@
 """Filtro de qualidade: só passa oferta boa e de marca boa."""
+import re
 import unicodedata
 
 import config
@@ -73,3 +74,13 @@ def pontuar(oferta: dict) -> float:
 def eh_perfume(oferta: dict) -> bool:
     nome = _norm(oferta.get("nome", ""))
     return any(_norm(p).strip() in nome for p in config.PALAVRAS_PERFUME)
+
+
+# 19/11 (especial GTA VI): item de videogame/PC gamer (console, controle, headset, SSD NVMe, monitor/teclado/mouse
+# gamer, notebook gamer, o jogo físico). "controle" sozinho não conta (pega controle remoto).
+_GAME = re.compile(r"\b(ps5|playstation|xbox|dualsense|nintendo|switch 2|gamer|gaming|nvme|gta|console|"
+                   r"controle (sem fio )?(xbox|ps5|playstation|dualsense|gamer|pro))\b", re.I)
+
+
+def eh_game(oferta: dict) -> bool:
+    return bool(_GAME.search(_norm(oferta.get("nome", ""))))

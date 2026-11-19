@@ -156,13 +156,21 @@ def _motivo_oficial(o: dict, canal: str, ok: bool, motivo: str) -> str:
     return "outro: " + re.sub(r"\(.*?\)|\d+", "", motivo).strip()[:40]
 
 
+def buscas_canal(canal: str, agora: datetime) -> list[str]:
+    """19/11: durante o especial GTA VI (até config.ESPECIAL_GAMES_ATE) as buscas de games vêm na frente no Tech
+    (se a Shopee travar no limite, o que já foi buscado é game)."""
+    if canal == "tech" and config.especial_games(agora):
+        return config.BUSCAS_GAMES + [t for t in config.BUSCAS[canal] if t not in config.BUSCAS_GAMES]
+    return config.BUSCAS[canal]
+
+
 def garimpar_todas(canal: str, fonte, h: dict, agora: datetime, termos: list[str] | None = None,
                    quase: bool = False) -> list[dict]:
     """Todas as ofertas boas e não postadas de todas as buscas do canal, melhores primeiro.
     Sem cota: o único filtro é a qualidade (regra do dono: achou coisa boa, posta)."""
     reprovados = {}
     boas = {}
-    lista = termos or config.BUSCAS[canal]
+    lista = termos or buscas_canal(canal, agora)
     falhas = []
     for termo in lista:
         try:
@@ -202,7 +210,9 @@ def garimpar_todas(canal: str, fonte, h: dict, agora: datetime, termos: list[str
     perfumes = sum(1 for o in h.get("ofertas_dia", []) + h.get("fila", [])
                    if o.get("dia", hoje) == hoje and qualidade.eh_perfume(o))
     escolhidas = []
-    for o in sorted(boas.values(), key=lambda o: (qualidade.eh_perfume(o), qualidade.pontuar(o)), reverse=True):
+    games = canal == "tech" and config.especial_games(agora)   # 19/11: especial GTA VI → game na frente
+    for o in sorted(boas.values(), key=lambda o: (qualidade.eh_perfume(o), games and qualidade.eh_game(o),
+                                                  qualidade.pontuar(o)), reverse=True):
         m = qualidade.marca_da_oferta(o, canal)
         if por_marca.get(m, 0) >= config.MAX_MESMA_MARCA_DIA:
             continue
@@ -708,7 +718,7 @@ def socorrer_parados(h: dict, telegram, buscar_fundo, agora: datetime) -> None:
         if any(f["canal"] == canal for f in h.get("fila", [])) or minutos_parado(h, canal, agora) < config.CANAL_PARADO_MIN:
             continue
         if buscar_fundo:
-            termos = random.sample(config.BUSCAS[canal], min(config.BUSCA_EXTRA_TERMOS, len(config.BUSCAS[canal])))
+            termos = random.sample(buscas_canal(canal, agora), min(config.BUSCA_EXTRA_TERMOS, len(buscas_canal(canal, agora))))
             try:
                 entrar_na_fila(h, canal, garimpar_todas(canal, buscar_fundo, h, agora, termos), agora)
             except Exception as e:
@@ -765,14 +775,14 @@ def garimpo_reserva(h: dict, shopee, agora: datetime, ult_garimpo: datetime | No
         res = h.setdefault("reserva_resultado", {}).setdefault(agora.date().isoformat(), {}).setdefault(
             canal, {"busca": 0, "quase": 0, "reprise": 0})
         if shopee and not shopee.LIMITE_ATINGIDO[0]:
-            termos = random.sample(config.BUSCAS[canal], min(config.RESERVA_TERMOS, len(config.BUSCAS[canal])))
+            termos = random.sample(buscas_canal(canal, agora), min(config.RESERVA_TERMOS, len(buscas_canal(canal, agora))))
             fonte = shopee.buscar_fundo
             # 06/11 (fila vazia 15h–18h): canal zerado faz varredura completa (todos os termos, páginas 3–6),
             # no máximo 1 vez por hora por canal, para não estourar o limite da API
             cheia = h.setdefault("reserva_cheia", {})
             if zerado and cheia.get(canal, "") < (agora - timedelta(hours=1)).isoformat():
                 cheia[canal] = agora.isoformat()
-                termos = list(config.BUSCAS[canal])
+                termos = list(buscas_canal(canal, agora))
                 fonte = lambda t: shopee.buscar_fundo(t, paginas=(3, 4, 5, 6))
                 if longo:
                     # 08/11 (CEO: reserva_resultado zerado em 07 e 08/11): a faixa quase boa só olhava as páginas
@@ -1196,6 +1206,82 @@ PORTA = PASTA / "dados" / "porta.txt"
 PORTA_VERSAO = "porta-v1"
 
 
+def convite_gta(h: dict) -> str:
+    """19/11 (especial GTA VI): convite rastreado "ig-gta" no canal Tech, criado uma vez (contagem em
+    convites_story["ig-gta"]). Vai no direct do carrossel e em dados/convite-gta.txt (adesivo dos stories)."""
+    import telegram
+    conv = h.setdefault("convites_story", {})
+    if "ig-gta" not in conv:
+        conv["ig-gta"] = {"link": telegram.criar_convite(config.CANAIS["tech"], "ig-gta"), "entradas": []}
+    CONVITE_GTA.write_text(f"ig-gta {conv['ig-gta']['link']}\n", encoding="utf-8")
+    return conv["ig-gta"]["link"]
+
+
+def publicar_especial_games(h: dict, agora: datetime, tag: str, feitos: list) -> None:
+    """19/11 (Central 2, dono: GTA VI lançou): até config.ESPECIAL_GAMES_ATE, 1 carrossel "Setup pra jogar GTA VI"
+    (capa + 5 itens de game do dia com o preço real da loja + final chamando para o Telegram) e 2 stories por dia
+    de item de game. Sem logo/arte/print do jogo: só a foto do produto e o texto "GTA VI"."""
+    if not config.especial_games(agora):
+        return
+    import artes
+    import instagram
+    hoje = agora.date().isoformat()
+    games = sorted([o for o in h.get("ofertas_dia", []) if o.get("dia") == hoje and o.get("imagem")
+                    and qualidade.eh_game(o) and liberada_ig(o, agora) and not awin_segurado(o.get("link"))],
+                   key=lambda o: ((o.get("desconto") or 0), qualidade.pontuar(o)), reverse=True)
+    try:
+        link_gta = convite_gta(h)
+    except Exception as e:
+        print(f"[gta] convite ig-gta falhou: {e}")
+        link_gta = "t.me/papagarimpoutech"
+    if "especial gta-setup" not in feitos and len(games) >= 5 and agora.hour >= 11:
+        top = games[:5]
+        try:
+            capa = artes.card_porta(["SETUP PRA", "JOGAR GTA VI"], ["5 achados de marca", "com o preço real de hoje"],
+                                    3, "arrasta pro lado →")
+            final = artes.card_porta(["ENTRA NO", "PAPA TECH"], ["comenta QUERO que o Papa", "manda os links e o",
+                                     "convite do canal no direct"], 3, "ESPECIAL GTA VI ATÉ 26/11")
+            slides = [capa] + [artes.post_oferta(o, o["canal"]) for o in top] + [final]
+            itens = "\n".join(f"{i+1}. {o['nome'].strip()[:55]}: "
+                              + (f"de {post._brl(o['preco_antigo'])} " if o.get("preco_antigo") else "")
+                              + f"por {post._brl(o['preco'])}" for i, o in enumerate(top))
+            legenda = ("🎮 GTA VI chegou. O Papa montou o setup com marca boa e preço de hoje:\n\n" + itens +
+                       "\n\nComenta QUERO que o Papa manda os links no direct, junto com o convite do canal Tech "
+                       "(games e eletrônicos todo dia) 💎\nPreço da loja na hora do post, pode mudar. "
+                       "Publi · link de afiliado")
+            mid = instagram.carrossel(slides, f"{tag}-gta-setup", legenda)
+            links = [f"{i+1}. {o['nome'][:60]} — {post._brl(o['preco'])}\n{o['link']}" for i, o in enumerate(top)]
+            h.setdefault("ig_dm_links", {})[mid] = (
+                "Oi! Aqui é o Papa 😎💎\n\nSetup pra jogar GTA VI:\n\n" + "\n\n".join(links) +
+                f"\n\n🎮 Canal Tech do Papa, com games e eletrônicos todo dia: {link_gta}\n\n"
+                "Preço pode mudar a qualquer momento. Publi · link de afiliado")
+            h["ig_gta_carrossel"] = {"media_id": mid, "quando": agora.isoformat(), "ids": [o["id"] for o in top]}
+            print(f"[ig] carrossel gta-setup publicado ({mid})")
+        except Exception as e:
+            telegram_aviso(f"Instagram: carrossel Setup GTA VI falhou: {e}")
+        feitos.append("especial gta-setup")
+    usados = set(h.get("ig_gta_stories", []))
+    for n, (ini, fim) in enumerate(config.STORIES_GAMES_HORAS, 1):
+        chave = f"{hoje} gta story {n}"
+        if chave in feitos or not (ini <= f"{agora:%H:%M}" <= fim):
+            continue
+        o = next((x for x in games if x["id"] not in usados), None)
+        if not o:
+            continue   # sem item de game hoje ainda: tenta na próxima execução da janela
+        try:
+            instagram.story(artes.story_oferta(o, o["canal"], selo="ESPECIAL GTA VI"), f"{tag}-gta-{n}.jpg")
+            h["ig_gta_stories"] = (h.get("ig_gta_stories", []) + [o["id"]])[-40:]
+            print(f"[ig] story gta {n} publicado ({o['id']})")
+        except Exception as e:
+            telegram_aviso(f"Instagram: story GTA VI {n} falhou: {e}")
+        feitos.append(chave)
+
+
+def telegram_aviso(txt: str) -> None:
+    import telegram
+    telegram.avisar_dono(txt)
+
+
 def publicar_porta(h: dict, agora: datetime, tag: str) -> None:
     """06/11 (CEO): carrossel "porta de entrada" para fixar no topo do perfil (seguidor → membro do Telegram).
     Sai uma vez (PORTA_VERSAO). 3 cartões de texto + 3 ofertas reais da semana ainda no preço (reconferidas).
@@ -1530,6 +1616,10 @@ def rodar_instagram(h: dict, agora: datetime) -> None:
                 except Exception as e:
                     telegram.avisar_dono(f"Instagram: carrossel especial {esp['id']} falhou: {e}")
                 feitos.append(f"especial {esp['id']}")
+        try:   # 19/11: especial GTA VI (carrossel + 2 stories/dia até 26/11)
+            publicar_especial_games(h, agora, tag, feitos)
+        except Exception as e:
+            telegram.avisar_dono(f"Instagram: especial GTA VI falhou: {e}")
         # Parcerias de divulgação (troca de story com outro perfil): cada uma sai uma vez, no story e no Telegram
         parc_arq = Path(__file__).parent / "parcerias.json"
         if parc_arq.exists():
@@ -1780,6 +1870,8 @@ CONVITES_ORIGEM = ("ig-bio", "ig-story", "ig-dm", "ig-dm-auto", "fb-pagina", "ig
 # somando os tg-share-* (relatorio.json → convites_story).
 SHARE_CONVITE = {**{d: f"tg-share-{c}" for c, d in config.CANAIS.items()}, config.GERAL: "tg-share-geral"}
 CONVITE_CANAL = {n: d for d, n in SHARE_CONVITE.items()}   # convite que não é do canal geral
+CONVITE_CANAL["ig-gta"] = config.CANAIS["tech"]   # 19/11: especial GTA VI (convite do Tech)
+CONVITE_GTA = PASTA / "dados" / "convite-gta.txt"
 
 
 def link_share(h: dict, telegram, destino: str) -> str | None:
