@@ -1,16 +1,4 @@
 {
- "canal geral não recebeu shopee-#: ('Connection aborted.', ConnectionResetError(#": {
-  "primeiro": "2026-11-16T15:06+00:00",
-  "vezes": 1,
-  "ultimo": "2026-11-16T15:06+00:00",
-  "texto": "canal geral não recebeu shopee-44106064553: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
- },
- "Instagram: parceria grupodiv-# falhou: ('Connection aborted.', ConnectionResetEr": {
-  "primeiro": "2026-11-16T15:13+00:00",
-  "vezes": 1,
-  "ultimo": "2026-11-16T15:13+00:00",
-  "texto": "Instagram: parceria grupodiv-20261116 falhou: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
- },
  "erro em #-#-# achadinhos #:# amz-B#DD#KQWZF (envio ao Telegram): ('Connection ab": {
   "primeiro": "2026-11-16T15:42+00:00",
   "vezes": 1,
@@ -208,5 +196,11 @@
   "vezes": 1,
   "ultimo": "2026-11-19T14:47+00:00",
   "texto": "erro em 2026-11-19 marcas 11:46 shopee-45766835949 (envio ao Telegram): HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=60). Não postei."
+ },
+ "canal geral não recebeu shopee-#: ('Connection aborted.', ConnectionResetError(#": {
+  "primeiro": "2026-11-19T15:13+00:00",
+  "vezes": 1,
+  "ultimo": "2026-11-19T15:13+00:00",
+  "texto": "canal geral não recebeu shopee-23198376314: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
  }
 }
