@@ -3636,15 +3636,15 @@
    "erro em 2026-11-18 marcas 12:29 shopee-22493521596 (foto): 503 Server Error: Service Unavailable for url: https://cf.shopee.com.br/file/br-11134207-820lw-mspog5ou4v0ncf. Não postei.",
    "erro em 2026-11-18 achadinhos 12:59 shopee-55014684903 (foto): 403 Client Error: Forbidden for url: https://cf.shopee.com.br/file/sg-11134201-825ad-mr0o35kmaa6989. Não postei.",
    "erro em 2026-11-18 achadinhos 13:02 shopee-19161663389 (foto): 503 Server Error: Service Unavailable for url: https://cf.shopee.com.br/file/sg-11134201-825au-mvc5yqi9ko3q4c. Não postei.",
-   "erro em 2026-11-18 marcas 14:43 amz-B0GTR9N84L (envio ao Telegram): HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot***/sendPhoto (Caused by NewConnectionError(\"HTTPSConnection(host='api.telegram.org', port=443): F",
+   "erro em 2026-11-18 marcas 14:43 amz-B0GTR9N84L (envio ao Telegram): HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot8405810184:AAGXrdPpTxxaVAUClbMix_JMGwqgq8vhwwA/sendPhoto (Caused by NewConnectionError(\"HTTPSConnection(host='api.telegram.org', port=443): F",
    "⚠️ Fila vazia (tech), último garimpo 13:19 — abrir o app Claude e conferir as rotinas",
    "canal geral não recebeu amz-B09LQGKF2J: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))",
    "⚠️ Fila vazia (achadinhos, tech), último garimpo 13:19 — abrir o app Claude e conferir as rotinas",
    "canal marcas sem oferta na fila há 90 min (busca extra também não achou). Abastecer ofertas_manuais.json.",
    "canal tech sem oferta na fila há 71 min (busca extra também não achou). Abastecer ofertas_manuais.json."
   ],
-  "ultima_execucao": "22:58",
-  "execucoes": 26,
+  "ultima_execucao": "23:31",
+  "execucoes": 27,
   "telegram_posts": {
    "achadinhos": 45,
    "marcas": 29,
@@ -4854,7 +4854,7 @@
    "shopee-45567748268": "nota",
    "shopee-45917743204": "nota",
    "shopee-55917736155": "nota",
-   "shopee-41434390755": "nota",
+   "shopee-41434390755": "vendas longe",
    "shopee-46969947590": "nota",
    "shopee-45867748337": "nota",
    "shopee-51556146106": "nota",
@@ -8173,10 +8173,16 @@
    "shopee-52204405622": "vendas longe",
    "shopee-58256575689": "nota",
    "shopee-51066018661": "nota",
-   "shopee-58263370404": "vendas longe"
+   "shopee-58263370404": "vendas longe",
+   "shopee-20999888700": "nota",
+   "shopee-21598315295": "vendas longe",
+   "shopee-18498318913": "vendas longe",
+   "shopee-58219641887": "vendas longe",
+   "shopee-58269497342": "vendas longe",
+   "shopee-40869294118": "vendas longe"
   },
   "shopee_oficial": {
-   "vendas longe": 2200,
+   "vendas longe": 2206,
    "nota": 1801,
    "vendas perto (125+)": 113,
    "outro: marca fora da lista boa": 104,
@@ -8425,13 +8431,13 @@
   "instagram": {
    "seguidores": 508,
    "posts": 134,
-   "reach": 35,
-   "profile_views": 36,
+   "reach": 36,
+   "profile_views": 37,
    "website_clicks": 0,
    "stories_ativos": 25
   },
   "reels_alcance": {
-   "atualizado": "2026-11-18T22:58:59.370898-03:00",
+   "atualizado": "2026-11-18T23:31:03.571175-03:00",
    "itens": [
     {
      "id": "18020475830955680",
