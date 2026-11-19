@@ -1,10 +1,4 @@
 {
- "erro em #-#-# achadinhos #:# amz-B#QCBC#G (envio ao Telegram): ('Connection abor": {
-  "primeiro": "2026-11-16T12:29+00:00",
-  "vezes": 1,
-  "ultimo": "2026-11-16T12:29+00:00",
-  "texto": "erro em 2026-11-16 achadinhos 09:29 amz-B076QCBC3G (envio ao Telegram): ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer')). Não postei."
- },
  "canal geral não recebeu amz-B#FBSB#F: ('Connection aborted.', ConnectionResetErr": {
   "primeiro": "2026-11-16T14:25+00:00",
   "vezes": 1,
@@ -208,5 +202,11 @@
   "vezes": 1,
   "ultimo": "2026-11-19T11:29+00:00",
   "texto": "⚠️ Garimpo parado desde 18/11 13:19 — abrir o app Claude e conferir as rotinas\nPouca oferta na fila: achadinhos 1, tech 0."
+ },
+ "erro em #-#-# achadinhos #:# shopee-# (envio ao Telegram): HTTPSConnectionPool(h": {
+  "primeiro": "2026-11-19T13:03+00:00",
+  "vezes": 1,
+  "ultimo": "2026-11-19T13:03+00:00",
+  "texto": "erro em 2026-11-19 achadinhos 10:02 shopee-23892413591 (envio ao Telegram): HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=60). Não postei."
  }
 }
