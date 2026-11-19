@@ -1795,7 +1795,12 @@
   "2026-11-18 tech 20:39 shopee-58260087298",
   "2026-11-18 achadinhos 20:57 shopee-22394417163",
   "2026-11-18 achadinhos 21:04 shopee-19161663389",
-  "2026-11-18 achadinhos 21:11 shopee-20298661104"
+  "2026-11-18 achadinhos 21:11 shopee-20298661104",
+  "2026-11-19 achadinhos 08:17 shopee-22994673009",
+  "2026-11-19 achadinhos 08:24 shopee-23298537624",
+  "2026-11-19 achadinhos 08:37 shopee-22593528984",
+  "2026-11-19 tech 08:44 shopee-45910145137",
+  "2026-11-19 marcas 08:59 shopee-58209674409"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -2485,7 +2490,7 @@
   "shopee-23899333842": "2026-11-18T17:11:02.693260-03:00",
   "shopee-23702004611": "2026-11-17T18:17:55.702033-03:00",
   "shopee-58217263099": "2026-11-18T19:10:20.708749-03:00",
-  "shopee-23298537624": "2026-11-08T17:29:48.929494-03:00",
+  "shopee-23298537624": "2026-11-19T08:24:53.939178-03:00",
   "shopee-23098514649": "2026-11-08T17:47:33.139384-03:00",
   "shopee-58250795411": "2026-11-08T18:01:32.288471-03:00",
   "shopee-18199337362": "2026-11-18T13:45:25.768408-03:00",
@@ -2507,7 +2512,7 @@
   "amz-B08YLQNL4W": "2026-11-08T21:42:24.458979-03:00",
   "amz-B0GZX265S5": "2026-11-08T21:49:46.896219-03:00",
   "amz-B0B46TH84S": "2026-11-08T21:59:37.526698-03:00",
-  "shopee-22593528984": "2026-11-09T08:17:39.845562-03:00",
+  "shopee-22593528984": "2026-11-19T08:37:15.751416-03:00",
   "amz-B0CNS3HRM3": "2026-11-09T08:24:13.237400-03:00",
   "amz-B0B4PG4XP7": "2026-11-09T08:26:43.120112-03:00",
   "amz-B0F5ZGSCQ5": "2026-11-09T08:34:37.994198-03:00",
@@ -2528,7 +2533,7 @@
   "amz-B07DP2S4PC": "2026-11-09T10:34:56.879845-03:00",
   "shopee-21316811936": "2026-11-09T10:40:37.324794-03:00",
   "shopee-23999162333": "2026-11-17T08:46:03.065036-03:00",
-  "shopee-45910145137": "2026-11-09T10:53:58.818905-03:00",
+  "shopee-45910145137": "2026-11-19T08:44:20.833621-03:00",
   "shopee-29083433141": "2026-11-18T08:39:28.807559-03:00",
   "shopee-21998281414": "2026-11-09T11:09:14.410157-03:00",
   "shopee-19997803637": "2026-11-09T11:56:23.407354-03:00",
@@ -2584,7 +2589,7 @@
   "shopee-11098381324": "2026-11-18T10:47:44.432462-03:00",
   "shopee-21299179885": "2026-11-10T08:12:08.371528-03:00",
   "shopee-23099169510": "2026-11-18T13:24:31.354124-03:00",
-  "shopee-22994673009": "2026-11-10T08:30:38.285684-03:00",
+  "shopee-22994673009": "2026-11-19T08:17:39.186964-03:00",
   "amz-B0F6NQY99G": "2026-11-10T08:37:49.692665-03:00",
   "amz-B0BGT1VQGJ": "2026-11-10T08:44:38.768711-03:00",
   "amz-B0FP6JN5VR": "2026-11-10T08:52:41.441508-03:00",
@@ -2743,7 +2748,7 @@
   "shopee-47066824855": "2026-11-11T13:53:26.698896-03:00",
   "amz-B0FQG1MHRH": "2026-11-11T14:01:03.978370-03:00",
   "amz-B0CF2NCWGV": "2026-11-11T14:09:01.217833-03:00",
-  "shopee-58209674409": "2026-11-11T14:16:49.995595-03:00",
+  "shopee-58209674409": "2026-11-19T08:59:31.911872-03:00",
   "amz-B0CX8MT2M2": "2026-11-11T14:23:19.293662-03:00",
   "amz-B09CV4Q6CM": "2026-11-11T14:30:14.790066-03:00",
   "amz-B07L8SH6NK": "2026-11-11T14:31:13.629701-03:00",
@@ -21137,6 +21142,98 @@
    "canal": "achadinhos",
    "entrou": "2026-11-18T20:51:55.832524-03:00",
    "dia": "2026-11-18"
+  },
+  {
+   "id": "shopee-22994673009",
+   "plataforma": "Shopee",
+   "nome": "Kit Liquidificador 550W Turbo Power L-99-FR + Batedeira 400W Prática - B-44-R Mondial",
+   "loja": "Dutra Máquinas",
+   "loja_oficial": true,
+   "preco": 206.91,
+   "preco_antigo": 313.5,
+   "desconto": 34,
+   "vendas": 681,
+   "nota": 4.9,
+   "comissao_pct": 7.0,
+   "imagem": "https://cf.shopee.com.br/file/sg-11134201-8259e-muwh8y1jmvib4a",
+   "link": "https://s.shopee.com.br/2qWFdhwZ2y",
+   "canal": "achadinhos",
+   "entrou": "2026-11-19T04:40:29.273107-03:00",
+   "dia": "2026-11-19"
+  },
+  {
+   "id": "shopee-23298537624",
+   "plataforma": "Shopee",
+   "nome": "Tampa para Microondas Electrolux Preta BPA Free Tampa para Micro-Ondas Electrolux Preta BPA Free",
+   "loja": "Electrolux",
+   "loja_oficial": true,
+   "preco": 24.9,
+   "preco_antigo": 40.16,
+   "desconto": 38,
+   "vendas": 259,
+   "nota": 4.9,
+   "comissao_pct": 3.0,
+   "imagem": "https://cf.shopee.com.br/file/sg-11134201-7ratm-ma3a1z6myzypf6",
+   "link": "https://s.shopee.com.br/2LZz2lQ9jb",
+   "canal": "achadinhos",
+   "entrou": "2026-11-19T04:40:29.273107-03:00",
+   "dia": "2026-11-19"
+  },
+  {
+   "id": "shopee-22593528984",
+   "plataforma": "Shopee",
+   "nome": "Jogo de Panelas Tramontina Turim Antiaderente Vermelha 10 Peças",
+   "loja": "Efácil Oficial",
+   "loja_oficial": true,
+   "preco": 357.1,
+   "preco_antigo": 549.38,
+   "desconto": 35,
+   "vendas": 314,
+   "nota": 4.9,
+   "comissao_pct": 3.0,
+   "imagem": "https://cf.shopee.com.br/file/sg-11134201-824j9-mpib3puiv40c23",
+   "link": "https://s.shopee.com.br/5VX0oYNdjY",
+   "canal": "achadinhos",
+   "entrou": "2026-11-19T04:40:29.273107-03:00",
+   "dia": "2026-11-19"
+  },
+  {
+   "id": "shopee-45910145137",
+   "plataforma": "Shopee",
+   "nome": "Caixa de Som JBL PartyBox Encore 2 Bluetooth 100W RMS - Preto",
+   "loja": "NegociuN",
+   "loja_oficial": true,
+   "preco": 1999.9,
+   "preco_antigo": 3076.77,
+   "desconto": 35,
+   "vendas": 148,
+   "nota": 4.9,
+   "comissao_pct": 5.0,
+   "imagem": "https://cf.shopee.com.br/file/br-11134207-820lu-mnyf3tupajuo65",
+   "link": "https://s.shopee.com.br/5fqR3vGiap",
+   "quase": true,
+   "canal": "tech",
+   "entrou": "2026-11-19T08:32:45.513564-03:00",
+   "dia": "2026-11-19"
+  },
+  {
+   "id": "shopee-58209674409",
+   "plataforma": "Shopee",
+   "nome": "Deo Colônia Natura Kaiak Ultra Masculino 100 ml",
+   "loja": "NATURA",
+   "loja_oficial": true,
+   "preco": 151.92,
+   "preco_antigo": 189.9,
+   "desconto": 20,
+   "vendas": 168,
+   "nota": 5.0,
+   "comissao_pct": 13.0,
+   "imagem": "https://cf.shopee.com.br/file/sg-11134201-820nx-mnk652h5or2gb6",
+   "link": "https://s.shopee.com.br/AUvgmDWQ06",
+   "quase": true,
+   "canal": "marcas",
+   "entrou": "2026-11-19T08:52:00.429777-03:00",
+   "dia": "2026-11-19"
   }
  ],
  "ig_feitos": [
@@ -21268,11 +21365,12 @@
   "2026-11-18 20:35 story_top4",
   "2026-11-18 20:38 story_oferta",
   "2026-11-18 21:20 story_convite",
-  "2026-11-18 21:24 story_oferta"
+  "2026-11-18 21:24 story_oferta",
+  "2026-11-19 08:07 story_oferta",
+  "2026-11-19 08:45 story_oferta",
+  "2026-11-19 08:52 story_oferta"
  ],
  "ig_ofertas_usadas": [
-  "shopee-52364763614",
-  "amz-B07K8XJF9D",
   "amz-B09SNCWJYL",
   "amz-B0CXL7LNPQ",
   "shopee-21897631761",
@@ -21470,7 +21568,9 @@
   "shopee-58257621281",
   "shopee-58262394728",
   "shopee-22697099204",
-  "shopee-58217263099"
+  "shopee-58217263099",
+  "shopee-23298537624",
+  "shopee-45910145137"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
@@ -21594,63 +21694,67 @@
   "bf-2026-11-18": "2026-11-18",
   "ac-perfume-barato": "2026-11-18",
   "dc-ficha-tecnica": "2026-11-18",
-  "ac-app-cupom": "2026-11-18"
+  "ac-app-cupom": "2026-11-18",
+  "bf-2026-11-19": "2026-11-19"
  },
  "pecas_dia": {
-  "2026-11-18": 4
+  "2026-11-19": 1
  },
- "ultimo_pilar": "anticilada",
+ "ultimo_pilar": "blackfriday",
  "fila": [
   {
-   "id": "shopee-22994673009",
+   "id": "shopee-20198314386",
    "plataforma": "Shopee",
-   "nome": "Kit Liquidificador 550W Turbo Power L-99-FR + Batedeira 400W Prática - B-44-R Mondial",
-   "loja": "Dutra Máquinas",
+   "nome": "Caixa de Som Jbl Boombox 4 Bluetooth 34h Ip68 210rms Preta",
+   "loja": "Rep Store",
    "loja_oficial": true,
-   "preco": 206.91,
-   "preco_antigo": 313.5,
-   "desconto": 34,
-   "vendas": 681,
+   "preco": 2599.0,
+   "preco_antigo": 4125.4,
+   "desconto": 37,
+   "vendas": 230,
+   "nota": 4.9,
+   "comissao_pct": 3.0,
+   "imagem": "https://cf.shopee.com.br/file/sg-11134201-824g9-mernkc7rt8naf6",
+   "link": "https://s.shopee.com.br/7AfEqgB0Xy",
+   "quase": true,
+   "canal": "tech",
+   "entrou": "2026-11-19T08:32:45.513564-03:00"
+  },
+  {
+   "id": "shopee-40275577235",
+   "plataforma": "Shopee",
+   "nome": "Smart TV Samsung 32\" HD Tizen HDR Wi-Fi HDMI Bivolt Preta",
+   "loja": "123 Comprou!",
+   "loja_oficial": true,
+   "preco": 1119.0,
+   "preco_antigo": 1621.74,
+   "desconto": 31,
+   "vendas": 239,
+   "nota": 5.0,
+   "comissao_pct": 3.0,
+   "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mg5gx2k4a9s06d",
+   "link": "https://s.shopee.com.br/AKcH6IZwWX",
+   "quase": true,
+   "canal": "tech",
+   "entrou": "2026-11-19T08:32:45.513564-03:00"
+  },
+  {
+   "id": "shopee-58204904664",
+   "plataforma": "Shopee",
+   "nome": "Kit 3 Creatina Max Titanium 300g Cada Pura",
+   "loja": "Hard Extreme",
+   "loja_oficial": true,
+   "preco": 123.99,
+   "preco_antigo": 302.41,
+   "desconto": 59,
+   "vendas": 217,
    "nota": 4.9,
    "comissao_pct": 7.0,
-   "imagem": "https://cf.shopee.com.br/file/sg-11134201-8259e-muwh8y1jmvib4a",
-   "link": "https://s.shopee.com.br/2qWFdhwZ2y",
-   "canal": "achadinhos",
-   "entrou": "2026-11-19T04:40:29.273107-03:00"
-  },
-  {
-   "id": "shopee-23298537624",
-   "plataforma": "Shopee",
-   "nome": "Tampa para Microondas Electrolux Preta BPA Free Tampa para Micro-Ondas Electrolux Preta BPA Free",
-   "loja": "Electrolux",
-   "loja_oficial": true,
-   "preco": 24.9,
-   "preco_antigo": 40.16,
-   "desconto": 38,
-   "vendas": 259,
-   "nota": 4.9,
-   "comissao_pct": 3.0,
-   "imagem": "https://cf.shopee.com.br/file/sg-11134201-7ratm-ma3a1z6myzypf6",
-   "link": "https://s.shopee.com.br/2LZz2lQ9jb",
-   "canal": "achadinhos",
-   "entrou": "2026-11-19T04:40:29.273107-03:00"
-  },
-  {
-   "id": "shopee-22593528984",
-   "plataforma": "Shopee",
-   "nome": "Jogo de Panelas Tramontina Turim Antiaderente Vermelha 10 Peças",
-   "loja": "Efácil Oficial",
-   "loja_oficial": true,
-   "preco": 357.1,
-   "preco_antigo": 549.38,
-   "desconto": 35,
-   "vendas": 314,
-   "nota": 4.9,
-   "comissao_pct": 3.0,
-   "imagem": "https://cf.shopee.com.br/file/sg-11134201-824j9-mpib3puiv40c23",
-   "link": "https://s.shopee.com.br/5VX0oYNdjY",
-   "canal": "achadinhos",
-   "entrou": "2026-11-19T04:40:29.273107-03:00"
+   "imagem": "https://cf.shopee.com.br/file/br-11134207-820mc-mvnhk6dnuosj61",
+   "link": "https://s.shopee.com.br/1BO1f1kpOs",
+   "quase": true,
+   "canal": "marcas",
+   "entrou": "2026-11-19T08:52:00.429777-03:00"
   },
   {
    "id": "shopee-20716465989",
@@ -21667,24 +21771,25 @@
    "imagem": "https://cf.shopee.com.br/file/br-11134207-820l8-mseej1ezbjt320",
    "link": "https://s.shopee.com.br/70LobhGcZp",
    "canal": "marcas",
-   "entrou": "2026-11-19T04:40:29.273107-03:00"
+   "entrou": "2026-11-19T08:52:00.429777-03:00"
   },
   {
-   "id": "shopee-18716453608",
+   "id": "shopee-21516474306",
    "plataforma": "Shopee",
-   "nome": "Kit De 6 Pares Meias Lupo Infantil Cano Médio Em Algodão Tamanho 24 ao 35",
+   "nome": "Kit De 12 Pares Meias Lupo Kids Infantil Cano Curto Algodão Tamanho 24 ao 35",
    "loja": "Deccó",
    "loja_oficial": true,
-   "preco": 51.93,
-   "preco_antigo": 85.13,
-   "desconto": 39,
-   "vendas": 480,
-   "nota": 4.9,
-   "comissao_pct": 10.0,
-   "imagem": "https://cf.shopee.com.br/file/br-11134207-820mf-mv3i1326ddky27",
-   "link": "https://s.shopee.com.br/4fxtpPPVJb",
+   "preco": 114.63,
+   "preco_antigo": 191.05,
+   "desconto": 40,
+   "vendas": 153,
+   "nota": 5.0,
+   "comissao_pct": 13.0,
+   "imagem": "https://cf.shopee.com.br/file/br-11134207-820m5-mv3i1326akg2a2",
+   "link": "https://s.shopee.com.br/1W0s3abYkI",
+   "quase": true,
    "canal": "marcas",
-   "entrou": "2026-11-19T04:40:29.273107-03:00"
+   "entrou": "2026-11-19T08:52:00.429777-03:00"
   },
   {
    "id": "shopee-43430912812",
@@ -21701,7 +21806,7 @@
    "imagem": "https://cf.shopee.com.br/file/br-11134207-820md-mr8vnxc447pg56",
    "link": "https://s.shopee.com.br/qlBGCe9Hx",
    "canal": "marcas",
-   "entrou": "2026-11-19T04:40:29.273107-03:00"
+   "entrou": "2026-11-19T08:52:00.429777-03:00"
   },
   {
    "id": "shopee-45758904446",
@@ -21719,8 +21824,43 @@
    "link": "https://s.shopee.com.br/114bSVdVx0",
    "quase": true,
    "canal": "marcas",
-   "entrou": "2026-11-19T04:40:29.273107-03:00",
-   "reprise_dias": 7
+   "entrou": "2026-11-19T08:52:00.429777-03:00"
+  },
+  {
+   "id": "shopee-22597140327",
+   "plataforma": "Shopee",
+   "nome": "Camiseta Básica Masculina Slim Em Malha Flamê Hering",
+   "loja": "Hering_Oficial",
+   "loja_oficial": true,
+   "preco": 29.99,
+   "preco_antigo": 69.74,
+   "desconto": 57,
+   "vendas": 223,
+   "nota": 4.9,
+   "comissao_pct": 3.0,
+   "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m0d3fzym930h2a",
+   "link": "https://s.shopee.com.br/2qWFdoyTqY",
+   "quase": true,
+   "canal": "marcas",
+   "entrou": "2026-11-19T08:52:00.429777-03:00",
+   "reprise_dias": 3
+  },
+  {
+   "id": "shopee-23592990089",
+   "plataforma": "Shopee",
+   "nome": "Baseus Carregador De Parede Rápido Tipo C Super Si Qc 20w para Celulares iPhone Samsung e Outros",
+   "loja": "Baseus Oficial",
+   "loja_oficial": true,
+   "preco": 89.9,
+   "preco_antigo": 169.62,
+   "desconto": 47,
+   "vendas": 482,
+   "nota": 5.0,
+   "comissao_pct": 8.0,
+   "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdvh8jhg6v2198",
+   "link": "https://s.shopee.com.br/3B9637X727",
+   "canal": "tech",
+   "entrou": "2026-11-19T08:52:00.429777-03:00"
   }
  ],
  "menus_fixados": [
@@ -22270,7 +22410,7 @@
   "smartphonemotorolamotog064g256gb4gbramcameratraseira50mpcamerafrontal8mptelade695200mahbege": "2026-11-18T17:11:02.693260-03:00",
   "secadortaiffstylepreto2000w220v": "2026-11-17T18:17:55.702033-03:00",
   "tenispumacourtclassiccleanmasculinooriginalcomnotafiscalegarantia": "2026-11-18T19:10:20.708749-03:00",
-  "tampaparamicroondaselectroluxpretabpafreetampaparamicroondaselectroluxpretabpafree": "2026-11-08T17:29:48.929494-03:00",
+  "tampaparamicroondaselectroluxpretabpafreetampaparamicroondaselectroluxpretabpafree": "2026-11-19T08:24:53.939178-03:00",
   "cafeteiraeletricaelectroluxdigital38xicarasexperienceprogramavelcomtimercorinoxecm30": "2026-11-08T17:47:33.139384-03:00",
   "controleparaxboxsemfiocarbonblack": "2026-11-08T18:01:32.288471-03:00",
   "parafusadeiraefuradeiraabateria12vgsr120licom1bateriaemaletaboschbivolt": "2026-11-18T13:45:25.768408-03:00",
@@ -22292,7 +22432,7 @@
   "serumfacialnivealuminous630": "2026-11-08T21:42:24.458979-03:00",
   "wheyproteinintegralmedicanutriwhey": "2026-11-08T21:49:46.896219-03:00",
   "serumnoturnolorealrevitalift": "2026-11-08T21:59:37.526698-03:00",
-  "jogodepanelastramontinaturimantiaderentevermelha10pecas": "2026-11-09T08:17:39.845562-03:00",
+  "jogodepanelastramontinaturimantiaderentevermelha10pecas": "2026-11-19T08:37:15.751416-03:00",
   "lavadoradealtapressaovonderlav1300": "2026-11-09T08:24:13.237400-03:00",
   "chapinhataiffredionbivolt": "2026-11-09T08:26:43.120112-03:00",
   "copotermicostanley3em1comtampaecanudo": "2026-11-09T08:34:37.994198-03:00",
@@ -22313,7 +22453,7 @@
   "aparadordepelosmondialsupergroom10": "2026-11-09T10:34:56.879845-03:00",
   "kitde4cuecasoriginaislupobasicboxerboxmicrofibrasemcostura": "2026-11-09T10:40:37.324794-03:00",
   "smarttvmonitorhd32samsungls32h5000fgxzdpreta": "2026-11-17T08:46:03.065036-03:00",
-  "caixadesomjblpartyboxencore2bluetooth100wrmspreto": "2026-11-09T10:53:58.818905-03:00",
+  "caixadesomjblpartyboxencore2bluetooth100wrmspreto": "2026-11-19T08:44:20.833621-03:00",
   "kit4cuecasboxerlupomicrofibrapoliamidasemcosturaconfortavelcuecamasculinapacoteoriginal": "2026-11-18T08:39:28.807559-03:00",
   "caixadesombluetoothjblboombox4originalaprovadaguaeresistenteapoeiranf": "2026-11-09T11:09:14.410157-03:00",
   "bettdowsamsungtabs9s9felite11polegadastecladobluetoothcapacomslotparacanetatabletnaoincluso": "2026-11-09T11:56:23.407354-03:00",
@@ -22369,7 +22509,7 @@
   "secadortaifftourmalineionceramica127v2100w": "2026-11-18T10:47:44.432462-03:00",
   "extratorahigienizadoraportatilborrifaesfregaeextraisujeiracolchaosofaw31450wwap": "2026-11-10T08:12:08.371528-03:00",
   "kitliquidificador550wturbopowerl99fbbatedeira400wpraticab44bmondial": "2026-11-18T13:24:31.354124-03:00",
-  "kitliquidificador550wturbopowerl99frbatedeira400wpraticab44rmondial": "2026-11-10T08:30:38.285684-03:00",
+  "kitliquidificador550wturbopowerl99frbatedeira400wpraticab44rmondial": "2026-11-19T08:17:39.186964-03:00",
   "tabletsamsunggalaxytabs10fe5g128gbtela131": "2026-11-10T08:37:49.692665-03:00",
   "webcamfullhdlogitechbrio500commicrofonesduplos": "2026-11-10T08:44:38.768711-03:00",
   "tabletsamsunggalaxytabs10lite256gb8gbcomspen": "2026-11-10T08:52:41.441508-03:00",
@@ -22527,7 +22667,7 @@
   "basicwhey1kggrowthsupplements": "2026-11-11T13:53:26.698896-03:00",
   "applewatchse3gpscaixadealuminio": "2026-11-11T14:01:03.978370-03:00",
   "shampooeudorasiageestimulaocrescimento": "2026-11-11T14:09:01.217833-03:00",
-  "deocolonianaturakaiakultramasculino100ml": "2026-11-11T14:16:49.995595-03:00",
+  "deocolonianaturakaiakultramasculino100ml": "2026-11-19T08:59:31.911872-03:00",
   "kindlecolorsoft16gb": "2026-11-11T14:23:19.293662-03:00",
   "batedeiraplanetariadigitaloster": "2026-11-11T14:30:14.790066-03:00",
   "paneladepressaodigitalmondialmaster": "2026-11-11T14:31:13.629701-03:00",
@@ -23642,7 +23782,7 @@
  "pede_semana": "2026-47",
  "ultimo_garimpo": "2026-11-18T13:19:58-03:00",
  "vigia_aviso_post": "2026-11-09T18:27:03.734589-03:00",
- "vigia_aviso_garimpo": "2026-11-18T18:55:20.381645-03:00",
+ "vigia_aviso_garimpo": "2026-11-19T08:17:39.169677-03:00",
  "resumo_enviado": "2026-11-17",
  "token_conferido": "2026-11-19",
  "meta_token": {
@@ -23679,14 +23819,14 @@
   "2026-11-18 noite marcas",
   "2026-11-18 noite tech"
  ],
- "reserva_meio": "2026-11-19T04:50:29.914402-03:00",
+ "reserva_meio": "2026-11-19T08:52:00.429777-03:00",
  "reserva_cheia": {
   "achadinhos": "2026-11-18T20:51:55.832524-03:00",
-  "tech": "2026-11-18T19:54:48.541798-03:00",
-  "marcas": "2026-11-18T20:15:26.845860-03:00"
+  "tech": "2026-11-19T08:32:45.513564-03:00",
+  "marcas": "2026-11-19T08:52:00.429777-03:00"
  },
  "top10_dia": "2026-11-14",
- "manuais_lidos": "2026-11-19T04:50:29.914402-03:00",
+ "manuais_lidos": "2026-11-19T08:44:16.107613-03:00",
  "reserva_resultado": {
   "2026-11-07": {
    "achadinhos": {
@@ -23894,13 +24034,13 @@
     "reprise": 0
    },
    "marcas": {
-    "busca": 0,
-    "quase": 0,
-    "reprise": 2
+    "busca": 2,
+    "quase": 4,
+    "reprise": 3
    },
    "tech": {
-    "busca": 1,
-    "quase": 0,
+    "busca": 2,
+    "quase": 3,
     "reprise": 0
    }
   }
@@ -23971,7 +24111,7 @@
    "hora": "2026-11-18T18:33:26.755377-03:00"
   }
  },
- "ig_respondido_em": "2026-11-19T04:50:29.914402-03:00",
+ "ig_respondido_em": "2026-11-19T08:52:00.429777-03:00",
  "dm_auto": {
   "2026-11-12": {
    "com_palavra": 0,
@@ -24219,7 +24359,7 @@
    "feed": 3
   },
   "2026-11-19": {
-   "story": 0,
+   "story": 3,
    "feed": 0
   }
  },
