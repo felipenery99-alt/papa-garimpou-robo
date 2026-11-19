@@ -3745,17 +3745,17 @@
   "erros": [
    "⚠️ Garimpo parado desde 18/11 13:19 — abrir o app Claude e conferir as rotinas\nPouca oferta na fila: achadinhos 1, tech 0."
   ],
-  "ultima_execucao": "08:17",
-  "execucoes": 5,
+  "ultima_execucao": "09:02",
+  "execucoes": 6,
   "telegram_posts": {
-   "achadinhos": 3,
-   "marcas": 1,
-   "tech": 1
+   "achadinhos": 5,
+   "marcas": 4,
+   "tech": 2
   },
   "ultimo_post": {
-   "achadinhos": "08:37",
-   "marcas": "08:59",
-   "tech": "08:44"
+   "achadinhos": "09:35",
+   "marcas": "09:43",
+   "tech": "09:27"
   },
   "meta_token": {
    "tipo": "SYSTEM_USER",
@@ -3790,7 +3790,9 @@
   "instagram_feito": [
    "08:07 story_oferta",
    "08:45 story_oferta",
-   "08:52 story_oferta"
+   "08:52 story_oferta",
+   "09:40 story_convite",
+   "09:38 story_oferta"
   ],
   "shopee_ligada": true,
   "dm_auto": {
@@ -3820,8 +3822,8 @@
   "reserva_resultado": {
    "achadinhos": {
     "busca": 0,
-    "quase": 0,
-    "reprise": 0
+    "quase": 4,
+    "reprise": 2
    },
    "marcas": {
     "busca": 2,
@@ -4080,7 +4082,7 @@
    "shopee-22394417240": "vendas perto (125+)",
    "shopee-23494511696": "vendas perto (125+)",
    "shopee-22394417163": "vendas perto (125+)",
-   "shopee-58263073170": "aprovada",
+   "shopee-58263073170": "desconto perto (até 10 pts)",
    "shopee-19161663389": "vendas perto (125+)",
    "shopee-23194395728": "vendas perto (125+)",
    "shopee-58213070757": "vendas longe",
@@ -7803,17 +7805,58 @@
    "shopee-58262827826": "nota",
    "shopee-58212851738": "nota",
    "shopee-58212848215": "nota",
-   "shopee-58212827671": "nota"
+   "shopee-58212827671": "nota",
+   "shopee-58269400631": "vendas longe",
+   "shopee-58259338318": "vendas longe",
+   "shopee-22994064297": "nota",
+   "shopee-22394065827": "nota",
+   "shopee-21599774279": "nota",
+   "shopee-58210375834": "vendas longe",
+   "shopee-58206308242": "vendas longe",
+   "shopee-22593168968": "vendas longe",
+   "shopee-58206304587": "vendas longe",
+   "shopee-58206307157": "vendas longe",
+   "shopee-20099894768": "vendas longe",
+   "shopee-47215364678": "vendas longe",
+   "shopee-58206084489": "vendas longe",
+   "shopee-23792956243": "vendas longe",
+   "shopee-23799553092": "vendas longe",
+   "shopee-43054036228": "vendas longe",
+   "shopee-20199775343": "vendas longe",
+   "shopee-58259849999": "vendas longe",
+   "shopee-23002006981": "vendas longe",
+   "shopee-22997590172": "vendas longe",
+   "shopee-55667680999": "vendas longe",
+   "shopee-23093093691": "vendas longe",
+   "shopee-40529326569": "nota",
+   "shopee-22599687370": "vendas longe",
+   "shopee-49817750316": "vendas longe",
+   "shopee-58269395672": "vendas longe",
+   "shopee-20798546255": "vendas longe",
+   "shopee-52168863363": "vendas longe",
+   "shopee-29438825044": "vendas longe",
+   "shopee-58266367121": "vendas longe",
+   "shopee-42359033916": "vendas longe",
+   "shopee-49319307093": "vendas longe",
+   "shopee-58068913047": "nota",
+   "shopee-23693252973": "vendas longe",
+   "shopee-57168988296": "nota",
+   "shopee-50269100920": "nota",
+   "shopee-48619017683": "nota",
+   "shopee-43960927932": "vendas longe",
+   "shopee-58220463910": "nota",
+   "shopee-58256719481": "vendas longe",
+   "shopee-58270479897": "vendas longe"
   },
   "shopee_oficial": {
-   "vendas longe": 1982,
-   "nota": 1576,
+   "vendas longe": 2014,
+   "nota": 1585,
    "vendas perto (125+)": 109,
    "outro: marca fora da lista boa": 102,
-   "aprovada": 76,
+   "aprovada": 75,
    "desconto longe": 69,
    "outro: palavra proibida: compatível": 30,
-   "desconto perto (até 10 pts)": 24,
+   "desconto perto (até 10 pts)": 25,
    "outro: palavra proibida: universal": 1
   },
   "manuais_descartados_ids": {
@@ -7968,7 +8011,7 @@
    "vencida": 1
   },
   "instagram": {
-   "seguidores": 511,
+   "seguidores": 512,
    "posts": 134,
    "reach": 24,
    "profile_views": 11,
@@ -7976,7 +8019,7 @@
    "stories_ativos": 25
   },
   "reels_alcance": {
-   "atualizado": "2026-11-19T08:17:39.169677-03:00",
+   "atualizado": "2026-11-19T09:02:38.392665-03:00",
    "itens": [
     {
      "id": "18020475830955680",
