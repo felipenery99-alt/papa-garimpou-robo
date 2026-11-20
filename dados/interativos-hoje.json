@@ -1,107 +1,17 @@
 {
- "dia": "2026-11-19",
+ "dia": "2026-11-20",
  "itens": [
   {
    "tipo": "adivinha",
-   "hora": "15:08",
+   "hora": "15:03",
    "produtos": [
     {
-     "nome": "Extratora e Higienizadora Portatil WAP SpotCleaner W3 1450W",
-     "preco_antigo": 1204.06,
-     "preco": 589.99,
-     "desconto": 51,
-     "link": "https://s.shopee.com.br/30pfpxF95a",
-     "loja": "LOI BRASIL",
-     "canal": "achadinhos"
-    }
-   ]
-  },
-  {
-   "tipo": "adivinha_resposta",
-   "hora": "16:07",
-   "produtos": [
-    {
-     "nome": "Extratora e Higienizadora Portatil WAP SpotCleaner W3 1450W",
-     "preco_antigo": 1204.06,
-     "preco": 589.99,
-     "desconto": 51,
-     "link": "https://s.shopee.com.br/30pfpxF95a",
-     "loja": "LOI BRASIL",
-     "canal": "achadinhos"
-    }
-   ]
-  },
-  {
-   "tipo": "a_ou_b",
-   "hora": "18:15",
-   "produtos": [
-    {
-     "nome": "Secador De Cabelo Taiff New Tourmaline Profissional 2100W",
-     "preco_antigo": 610.15,
-     "preco": 359.99,
-     "desconto": 41,
-     "link": "https://s.shopee.com.br/AUvglkvKdI",
-     "loja": "Beleza Renovada Oficial",
-     "canal": "achadinhos"
-    },
-    {
-     "nome": "Deo Parfum Natura Una Brilho 75ml",
-     "preco_antigo": 329.9,
-     "preco": 230.93,
-     "desconto": 30,
-     "link": "https://s.shopee.com.br/2gCpRR1CgA",
-     "loja": "NATURA",
-     "canal": "achadinhos"
-    }
-   ]
-  },
-  {
-   "tipo": "carrossel_salvavel",
-   "hora": "19:21",
-   "produtos": [
-    {
-     "nome": "Tênis Mizuno Cool Ride 3",
-     "preco_antigo": 399.99,
-     "preco": 189.99,
-     "desconto": 53,
-     "link": "https://www.amazon.com.br/dp/B0FFTQ14WY?tag=papagarimpou-20",
-     "loja": "Vendido e entregue pela Amazon",
-     "canal": "marcas"
-    },
-    {
-     "nome": "Tênis Mizuno Neo Pryzma",
-     "preco_antigo": 599.99,
-     "preco": 294.49,
-     "desconto": 51,
-     "link": "https://www.amazon.com.br/dp/B0FFVG6TKX?tag=papagarimpou-20",
-     "loja": "Vendido e entregue pela Amazon",
-     "canal": "marcas"
-    },
-    {
-     "nome": "Tênis de Corrida Puma Pounce Lite",
-     "preco_antigo": 449.99,
-     "preco": 230.9,
-     "desconto": 49,
-     "link": "https://www.amazon.com.br/dp/B0D1YL2QLB?tag=papagarimpou-20",
-     "loja": "Vendido e entregue pela Amazon",
-     "canal": "marcas"
-    },
-    {
-     "nome": "Tênis de Caminhada Casual Index 4 Unissex Confortável - Olympikus",
-     "preco_antigo": 292.41,
-     "preco": 157.9,
-     "desconto": 46,
-     "link": "https://s.shopee.com.br/qlBGCe9Hx",
+     "nome": "Tênis de Caminhada Acqua Unissex Confortável - Olympikus",
+     "preco_antigo": 319.51,
+     "preco": 194.9,
+     "desconto": 39,
+     "link": "https://s.shopee.com.br/70LobXGfmV",
      "loja": "Tubarão Max",
-     "canal": "marcas"
-    },
-    {
-     "nome": "Tênis Puma Flyer Lite 3 Masculino",
-     "preco_antigo": 329.99,
-     "preco": 179.9,
-     "desconto": 45,
-     "link": "https://www.amazon.com.br/dp/B0F2J9LHBD?tag=papagarimpou-20",
-     "loja": "Vendido e entregue pela Amazon",
      "canal": "marcas"
     }
    ]
