@@ -3759,8 +3759,8 @@
    "⚠️ Garimpo parado desde 18/11 13:19 — abrir o app Claude e conferir as rotinas\nPouca oferta na fila: achadinhos 0, marcas 0, tech 0.",
    "erro em 2026-11-19 marcas 21:15 amz-B0BL13KLRW (envio ao Telegram): HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=60). Não postei."
   ],
-  "ultima_execucao": "21:40",
-  "execucoes": 23,
+  "ultima_execucao": "21:57",
+  "execucoes": 24,
   "telegram_posts": {
    "achadinhos": 33,
    "marcas": 20,
@@ -8573,11 +8573,40 @@
    "shopee-58272391935": "nota",
    "shopee-58272391469": "nota",
    "shopee-58272390984": "nota",
-   "shopee-58272379063": "nota"
+   "shopee-58272379063": "nota",
+   "shopee-40782259679": "vendas longe",
+   "shopee-58255062757": "vendas longe",
+   "shopee-58220514519": "nota",
+   "shopee-19699907953": "nota",
+   "shopee-57266568990": "nota",
+   "shopee-56571502249": "nota",
+   "shopee-46364946583": "nota",
+   "shopee-18899303389": "nota",
+   "shopee-58213500136": "nota",
+   "shopee-40282430532": "nota",
+   "shopee-23998697708": "vendas longe",
+   "shopee-23998697649": "vendas longe",
+   "shopee-58269245887": "nota",
+   "shopee-23694217070": "nota",
+   "shopee-23598713930": "nota",
+   "shopee-58215813140": "nota",
+   "shopee-58204737105": "nota",
+   "shopee-58204561201": "vendas longe",
+   "shopee-58265799629": "nota",
+   "shopee-23299882076": "nota",
+   "shopee-22499881916": "nota",
+   "shopee-58266643801": "nota",
+   "shopee-58222364634": "nota",
+   "shopee-58222364547": "nota",
+   "shopee-58254723015": "nota",
+   "shopee-58217303868": "nota",
+   "shopee-58216456346": "nota",
+   "shopee-58215811489": "nota",
+   "shopee-58215808459": "nota"
   },
   "shopee_oficial": {
-   "vendas longe": 2244,
-   "nota": 2006,
+   "vendas longe": 2249,
+   "nota": 2030,
    "vendas perto (125+)": 119,
    "outro: marca fora da lista boa": 103,
    "desconto longe": 77,
@@ -8761,10 +8790,11 @@
    "amz-B0DKLPWQKS": "ja_postado_30d",
    "amz-B0G21TBYDG": "ja_postado_30d",
    "amz-B0DDQJ7GJQ": "ja_postado_30d",
-   "amz-B0DP5N9HS6": "ja_postado_30d"
+   "amz-B0DP5N9HS6": "ja_postado_30d",
+   "amz-B09GSRYL69": "ja_postado_30d"
   },
   "manuais_descartados": {
-   "ja_postado_30d": 174,
+   "ja_postado_30d": 175,
    "vencida": 1
   },
   "instagram": {
@@ -8776,7 +8806,7 @@
    "stories_ativos": 25
   },
   "reels_alcance": {
-   "atualizado": "2026-11-19T21:40:24.509252-03:00",
+   "atualizado": "2026-11-19T21:57:24.584693-03:00",
    "itens": [
     {
      "id": "18084047555366923",
