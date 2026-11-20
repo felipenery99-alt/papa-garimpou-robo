@@ -3759,8 +3759,8 @@
    "⚠️ Garimpo parado desde 18/11 13:19 — abrir o app Claude e conferir as rotinas\nPouca oferta na fila: achadinhos 0, marcas 0, tech 0.",
    "erro em 2026-11-19 marcas 21:15 amz-B0BL13KLRW (envio ao Telegram): HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=60). Não postei."
   ],
-  "ultima_execucao": "21:57",
-  "execucoes": 24,
+  "ultima_execucao": "22:27",
+  "execucoes": 25,
   "telegram_posts": {
    "achadinhos": 33,
    "marcas": 20,
@@ -3797,7 +3797,7 @@
    "ig-gta": 0
   },
   "telegram_membros": {
-   "achadinhos": 3,
+   "achadinhos": null,
    "marcas": 6,
    "tech": 7,
    "geral": 5
@@ -4935,7 +4935,7 @@
    "shopee-43430912812": "aprovada",
    "shopee-45758904446": "vendas perto (125+)",
    "shopee-50559775356": "aprovada",
-   "shopee-22493521596": "desconto longe",
+   "shopee-22493521596": "aprovada",
    "shopee-58265921131": "vendas perto (125+)",
    "shopee-56159571991": "vendas perto (125+)",
    "shopee-58265908859": "vendas longe",
@@ -6138,7 +6138,7 @@
    "shopee-42135141564": "vendas longe",
    "shopee-50659436659": "vendas longe",
    "shopee-19498104885": "vendas longe",
-   "shopee-51919187916": "nota",
+   "shopee-51919187916": "vendas longe",
    "shopee-23799229847": "vendas longe",
    "shopee-58220047860": "vendas longe",
    "shopee-58220043402": "vendas longe",
@@ -8369,7 +8369,7 @@
    "shopee-14196738380": "nota",
    "shopee-23798455217": "nota",
    "shopee-58268222056": "vendas longe",
-   "shopee-54564408899": "nota",
+   "shopee-54564408899": "vendas longe",
    "shopee-58270353470": "nota",
    "shopee-58220414552": "nota",
    "shopee-58219232005": "nota",
@@ -8602,15 +8602,19 @@
    "shopee-58217303868": "nota",
    "shopee-58216456346": "nota",
    "shopee-58215811489": "nota",
-   "shopee-58215808459": "nota"
+   "shopee-58215808459": "nota",
+   "shopee-23093823316": "desconto longe",
+   "shopee-46617187383": "nota",
+   "shopee-47616627018": "nota",
+   "shopee-48020045390": "nota"
   },
   "shopee_oficial": {
-   "vendas longe": 2249,
-   "nota": 2030,
+   "vendas longe": 2251,
+   "nota": 2031,
    "vendas perto (125+)": 119,
    "outro: marca fora da lista boa": 103,
    "desconto longe": 77,
-   "aprovada": 71,
+   "aprovada": 72,
    "outro: palavra proibida: compatível": 38,
    "desconto perto (até 10 pts)": 29,
    "outro: palavra proibida: universal": 1
@@ -8806,7 +8810,7 @@
    "stories_ativos": 25
   },
   "reels_alcance": {
-   "atualizado": "2026-11-19T21:57:24.584693-03:00",
+   "atualizado": "2026-11-19T22:27:05.383106-03:00",
    "itens": [
     {
      "id": "18084047555366923",
