@@ -1905,7 +1905,8 @@
   "2026-11-20 tech 14:44 shopee-57516793403",
   "2026-11-20 tech 14:52 shopee-21198261099",
   "2026-11-20 tech 15:11 shopee-23999162333",
-  "2026-11-20 achadinhos 17:01 shopee-58221428383"
+  "2026-11-20 achadinhos 17:01 shopee-58221428383",
+  "2026-11-20 tech 17:11 shopee-54306272132"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -3663,7 +3664,8 @@
   "shopee-23899230870": "2026-11-20T14:06:58.183637-03:00",
   "shopee-57516793403": "2026-11-20T14:44:22.134367-03:00",
   "shopee-21198261099": "2026-11-20T14:52:09.839633-03:00",
-  "shopee-58221428383": "2026-11-20T17:01:14.001630-03:00"
+  "shopee-58221428383": "2026-11-20T17:01:14.001630-03:00",
+  "shopee-54306272132": "2026-11-20T17:11:21.474309-03:00"
  },
  "ofertas_dia": [
   {
@@ -21932,6 +21934,25 @@
    "canal": "achadinhos",
    "entrou": "2026-11-20T16:50:05.656855-03:00",
    "dia": "2026-11-20"
+  },
+  {
+   "id": "shopee-54306272132",
+   "plataforma": "Shopee",
+   "nome": "Powerbank Baseus EnerFill FM11 10000mAh 22.5W Magnético Mag Safe Ultra Mini + Cabo Type-C",
+   "loja": "Baseus Oficial",
+   "loja_oficial": true,
+   "preco": 249.9,
+   "preco_antigo": 396.67,
+   "desconto": 37,
+   "vendas": 130,
+   "nota": 4.9,
+   "comissao_pct": 8.0,
+   "imagem": "https://cf.shopee.com.br/file/br-11134207-820ll-mo6hewu3puyp11",
+   "link": "https://s.shopee.com.br/9pfzz41nOU",
+   "quase": true,
+   "canal": "tech",
+   "entrou": "2026-11-20T16:50:05.656855-03:00",
+   "dia": "2026-11-20"
   }
  ],
  "ig_feitos": [
@@ -22099,10 +22120,11 @@
   "2026-11-20 15:00 adivinha",
   "2026-11-20 15:03 story_oferta",
   "2026-11-20 16:05 adivinha_resposta",
-  "2026-11-20 16:44 story_oferta"
+  "2026-11-20 16:44 story_oferta",
+  "story especial pede-pro-papa 2026-11-20",
+  "2026-11-20 17:36 story_oferta"
  ],
  "ig_ofertas_usadas": [
-  "amz-B07JZFBJ9P",
   "amz-B07JQKQ91F",
   "amz-B0D693LTY5",
   "amz-B0G4SQ89P1",
@@ -22301,7 +22323,8 @@
   "shopee-7975402525",
   "shopee-23899230870",
   "shopee-58253934349",
-  "shopee-58204159335"
+  "shopee-58204159335",
+  "shopee-57516793403"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
@@ -22436,26 +22459,7 @@
   "2026-11-20": 4
  },
  "ultimo_pilar": "humor",
- "fila": [
-  {
-   "id": "shopee-54306272132",
-   "plataforma": "Shopee",
-   "nome": "Powerbank Baseus EnerFill FM11 10000mAh 22.5W Magnético Mag Safe Ultra Mini + Cabo Type-C",
-   "loja": "Baseus Oficial",
-   "loja_oficial": true,
-   "preco": 249.9,
-   "preco_antigo": 396.67,
-   "desconto": 37,
-   "vendas": 130,
-   "nota": 4.9,
-   "comissao_pct": 8.0,
-   "imagem": "https://cf.shopee.com.br/file/br-11134207-820ll-mo6hewu3puyp11",
-   "link": "https://s.shopee.com.br/9pfzz41nOU",
-   "quase": true,
-   "canal": "tech",
-   "entrou": "2026-11-20T16:50:05.656855-03:00"
-  }
- ],
+ "fila": [],
  "menus_fixados": [
   "v1 @papagarimpou",
   "v1 @papagarimpoumarcas",
@@ -24049,7 +24053,8 @@
   "tenisdecaminhadaacquaunissexconfortavelolympikus": "2026-11-20T14:06:58.183637-03:00",
   "controlesemfiops5dualsensegraycamouflage": "2026-11-20T14:44:22.134367-03:00",
   "fonedeouvidojblwavebuds2pretobluetoothsemfiocomcancelamentoderuido": "2026-11-20T14:52:09.839633-03:00",
-  "secadordecabelotaiffstyleblackrede2000w127v": "2026-11-20T17:01:14.001630-03:00"
+  "secadordecabelotaiffstyleblackrede2000w127v": "2026-11-20T17:01:14.001630-03:00",
+  "powerbankbaseusenerfillfm1110000mah225wmagneticomagsafeultraminicabotypec": "2026-11-20T17:11:21.474309-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
@@ -24458,7 +24463,7 @@
   "18247884766315682": "Oi! Aqui é o Papa 😎💎\n\nCupom BLACK30 na Nike (30% em selecionados, até 19/11):\n\n1. Tênis Nike Air Zoom Alphafly 3 Masculino — R$ 1.503,74\nhttps://www.awin1.com/cread.php?awinmid=17652&awinaffid=3137490&ued=https%3A%2F%2Fwww.nike.com.br%2Ftenis-nike-air-zoom-alphafly-3-masculino-028312.html%3Fcor%3D54\n\n2. Tênis Nike Zoom Fly 6 Feminino — R$ 902,24\nhttps://www.awin1.com/cread.php?awinmid=17652&awinaffid=3137490&ued=https%3A%2F%2Fwww.nike.com.br%2Ftenis-nike-zoom-fly-6-feminino-058279.html%3Fcor%3D55\n\n3. Tênis Nike Pegasus Plus Feminino — R$ 827,05\nhttps://www.awin1.com/cread.php?awinmid=17652&awinaffid=3137490&ued=https%3A%2F%2Fwww.nike.com.br%2Ftenis-nike-pegasus-plus-feminino-029398.html%3Fcor%3D54\n\n4. Camisa Nike Corinthians II 2025/26 Torcedor Pro Masculina — R$ 150,36\nhttps://www.awin1.com/cread.php?awinmid=17652&awinaffid=3137490&ued=https%3A%2F%2Fwww.nike.com.br%2Fcamisa-nike-corinthians-ii-2025-26-torcedor-pro-masculina-058825.html%3Fcor%3DID\n\n5. Shorts Nike Form Dri-FIT Masculino — R$ 185,70\nhttps://www.awin1.com/cread.php?awinmid=17652&awinaffid=3137490&ued=https%3A%2F%2Fwww.nike.com.br%2Fshorts-nike-dri-fit-masculino-024961.html%3Fcor%3D1G\n\nPreço pode mudar a qualquer momento. Publi · link de afiliado",
   "17999081340048537": "Oi! Aqui é o Papa 😎💎\n\nOs 5 melhores tênis de corrida até R$ 500:\n\n1. Tênis Mizuno Cool Ride 3 — R$ 189,99\nhttps://www.amazon.com.br/dp/B0FFTQ14WY?tag=papagarimpou-20\n\n2. Tênis Mizuno Neo Pryzma — R$ 294,49\nhttps://www.amazon.com.br/dp/B0FFVG6TKX?tag=papagarimpou-20\n\n3. Tênis de Corrida Puma Pounce Lite — R$ 230,90\nhttps://www.amazon.com.br/dp/B0D1YL2QLB?tag=papagarimpou-20\n\n4. Tênis de Caminhada Casual Index 4 Unissex Confortável - Olym — R$ 157,90\nhttps://s.shopee.com.br/qlBGCe9Hx\n\n5. Tênis Puma Flyer Lite 3 Masculino — R$ 179,90\nhttps://www.amazon.com.br/dp/B0F2J9LHBD?tag=papagarimpou-20\n\nPreço pode mudar a qualquer momento. Publi · link de afiliado"
  },
- "story_link_dia": "2026-11-19",
+ "story_link_dia": "2026-11-20",
  "pede_semana": "2026-47",
  "ultimo_garimpo": "2026-11-19T17:57:32-03:00",
  "vigia_aviso_post": "2026-11-20T16:20:59.630039-03:00",
@@ -24503,14 +24508,14 @@
   "2026-11-20 tarde marcas",
   "2026-11-20 tarde tech"
  ],
- "reserva_meio": "2026-11-20T16:50:05.656855-03:00",
+ "reserva_meio": "2026-11-20T17:44:51.535905-03:00",
  "reserva_cheia": {
   "achadinhos": "2026-11-20T16:50:05.656855-03:00",
   "tech": "2026-11-20T16:50:05.656855-03:00",
-  "marcas": "2026-11-20T16:13:29.240521-03:00"
+  "marcas": "2026-11-20T17:28:58.243406-03:00"
  },
  "top10_dia": "2026-11-14",
- "manuais_lidos": "2026-11-20T16:44:24.744881-03:00",
+ "manuais_lidos": "2026-11-20T17:36:35.537662-03:00",
  "reserva_resultado": {
   "2026-11-07": {
    "achadinhos": {
@@ -24816,7 +24821,7 @@
    "hora": "2026-11-19T18:35:22.821634-03:00"
   }
  },
- "ig_respondido_em": "2026-11-20T16:44:24.744881-03:00",
+ "ig_respondido_em": "2026-11-20T17:36:35.537662-03:00",
  "dm_auto": {
   "2026-11-13": {
    "com_palavra": 0,
@@ -25064,7 +25069,7 @@
    "feed": 3
   },
   "2026-11-20": {
-   "story": 20,
+   "story": 22,
    "feed": 1
   }
  },
