@@ -1896,7 +1896,11 @@
   "2026-11-20 tech 11:58 amz-B08RX3343D",
   "2026-11-20 tech 12:06 shopee-58261870157",
   "2026-11-20 tech 12:15 shopee-47802618294",
-  "2026-11-20 achadinhos 12:39 shopee-3971058214"
+  "2026-11-20 achadinhos 12:39 shopee-3971058214",
+  "2026-11-20 tech 13:23 shopee-7975402525",
+  "2026-11-20 achadinhos 13:31 shopee-58253934349",
+  "2026-11-20 achadinhos 13:39 shopee-58204159335",
+  "2026-11-20 tech 13:47 shopee-58206236149"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -2572,7 +2576,7 @@
   "shopee-22195023298": "2026-11-18T20:28:43.668725-03:00",
   "shopee-11444965462": "2026-11-18T17:55:55.314319-03:00",
   "shopee-22192651105": "2026-11-08T15:28:25.308685-03:00",
-  "shopee-58206236149": "2026-11-16T12:56:15.055550-03:00",
+  "shopee-58206236149": "2026-11-20T13:47:26.972682-03:00",
   "shopee-58262394728": "2026-11-18T18:47:56.150068-03:00",
   "shopee-46611963995": "2026-11-18T12:22:07.386987-03:00",
   "shopee-21049729949": "2026-11-18T19:27:20.189225-03:00",
@@ -2926,7 +2930,7 @@
   "shopee-48660343762": "2026-11-12T10:11:19.456142-03:00",
   "shopee-22597140327": "2026-11-19T10:41:13.387723-03:00",
   "shopee-57657281247": "2026-11-20T10:00:30.457588-03:00",
-  "shopee-7975402525": "2026-11-12T10:58:48.764310-03:00",
+  "shopee-7975402525": "2026-11-20T13:23:46.302482-03:00",
   "shopee-23494511696": "2026-11-20T10:04:57.652061-03:00",
   "shopee-22394417240": "2026-11-20T09:14:48.358144-03:00",
   "amz-B0GLHRCQDJ": "2026-11-12T12:04:10.042453-03:00",
@@ -3648,7 +3652,9 @@
   "amz-B0DYC2GV1Z": "2026-11-20T11:45:43.860193-03:00",
   "amz-B08RX3343D": "2026-11-20T11:58:10.753626-03:00",
   "shopee-58261870157": "2026-11-20T12:06:10.579626-03:00",
-  "shopee-3971058214": "2026-11-20T12:39:01.355882-03:00"
+  "shopee-3971058214": "2026-11-20T12:39:01.355882-03:00",
+  "shopee-58253934349": "2026-11-20T13:31:02.437791-03:00",
+  "shopee-58204159335": "2026-11-20T13:39:31.551052-03:00"
  },
  "ofertas_dia": [
   {
@@ -21746,6 +21752,82 @@
    "canal": "achadinhos",
    "entrou": "2026-11-20T12:36:54.029560-03:00",
    "dia": "2026-11-20"
+  },
+  {
+   "id": "shopee-7975402525",
+   "plataforma": "Shopee",
+   "nome": "UGREEN PD QC PPS 100W 60W USB-C Para Cabo De Carga Rápida Tipo 20V 5A USB Tipo C Para iPhone 15 Samsung Galaxy Tablet",
+   "loja": "Ugreen Official Shop",
+   "loja_oficial": true,
+   "preco": 19.9,
+   "preco_antigo": 71.07,
+   "desconto": 72,
+   "vendas": 156,
+   "nota": 5.0,
+   "comissao_pct": 3.0,
+   "imagem": "https://cf.shopee.com.br/file/cn-11134207-7ras8-m6z7zhcb0tqja8",
+   "link": "https://s.shopee.com.br/8fU2b4yHLd",
+   "quase": true,
+   "canal": "tech",
+   "entrou": "2026-11-20T13:03:42.681683-03:00",
+   "dia": "2026-11-20"
+  },
+  {
+   "id": "shopee-58253934349",
+   "plataforma": "Shopee",
+   "nome": "Kit 2 Ventiladores de mesa 30 cm 6 pás 3 velocidades Super Power VSP-30-W Mondial",
+   "loja": "Dutra Máquinas",
+   "loja_oficial": true,
+   "preco": 239.9,
+   "preco_antigo": 324.19,
+   "desconto": 26,
+   "vendas": 169,
+   "nota": 4.9,
+   "comissao_pct": 7.0,
+   "imagem": "https://cf.shopee.com.br/file/sg-11134201-8259r-mujj7epnb37o06",
+   "link": "https://s.shopee.com.br/8fU2aQwhRY",
+   "quase": true,
+   "canal": "achadinhos",
+   "entrou": "2026-11-20T13:18:47.851367-03:00",
+   "dia": "2026-11-20"
+  },
+  {
+   "id": "shopee-58204159335",
+   "plataforma": "Shopee",
+   "nome": "Ventilador Coluna 40cm Super Power Mondial Preto e Prata 140W VSP-40C-NB",
+   "loja": "Mercado Fácil",
+   "loja_oficial": true,
+   "preco": 214.0,
+   "preco_antigo": 301.41,
+   "desconto": 29,
+   "vendas": 593,
+   "nota": 4.9,
+   "comissao_pct": 3.0,
+   "imagem": "https://cf.shopee.com.br/file/sg-11134201-8262z-mjzydkl6vabob3",
+   "link": "https://s.shopee.com.br/2qWFdiIuGz",
+   "quase": true,
+   "canal": "achadinhos",
+   "entrou": "2026-11-20T13:18:47.851367-03:00",
+   "dia": "2026-11-20"
+  },
+  {
+   "id": "shopee-58206236149",
+   "plataforma": "Shopee",
+   "nome": "Caixa de Som Jbl Boombox 4 a Prova de Água - Marrom",
+   "loja": "Rep Store",
+   "loja_oficial": true,
+   "preco": 2559.0,
+   "preco_antigo": 4569.64,
+   "desconto": 44,
+   "vendas": 342,
+   "nota": 4.9,
+   "comissao_pct": 3.0,
+   "imagem": "https://cf.shopee.com.br/file/sg-11134201-8261k-mlf849w40mx1ea",
+   "link": "https://s.shopee.com.br/6fiyFlCuYr",
+   "canal": "tech",
+   "entrou": "2026-11-20T13:03:42.681683-03:00",
+   "reprise_dias": 3,
+   "dia": "2026-11-20"
   }
  ],
  "ig_feitos": [
@@ -21906,10 +21988,11 @@
   "2026-11-20 gta story 1",
   "2026-11-20 12:15 story_top4",
   "2026-11-20 12:19 story_oferta",
-  "2026-11-20 12:47 story_oferta"
+  "2026-11-20 12:47 story_oferta",
+  "2026-11-20 13:20 story_convite",
+  "2026-11-20 13:22 story_oferta"
  ],
  "ig_ofertas_usadas": [
-  "amz-B076KRB8LP",
   "amz-B0CPT5XTTC",
   "amz-B0CBSZ6YXZ",
   "amz-B0B5XFFPYN",
@@ -22108,7 +22191,8 @@
   "shopee-23897159576",
   "shopee-8607385860",
   "shopee-22693266079",
-  "shopee-58261870157"
+  "shopee-58261870157",
+  "shopee-3971058214"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
@@ -22777,7 +22861,7 @@
   "tplinkex3000roteadorwifi6ax3000dualband4portasgigabit": "2026-11-18T20:28:43.668725-03:00",
   "cabousbdedadosmotorolaoriginalusbc1metro": "2026-11-18T17:55:55.314319-03:00",
   "eudoraclub6voyagedeocoloniamasculino95ml": "2026-11-08T15:28:25.308685-03:00",
-  "caixadesomjblboombox4aprovadeaguamarrom": "2026-11-16T12:56:15.055550-03:00",
+  "caixadesomjblboombox4aprovadeaguamarrom": "2026-11-20T13:47:26.972682-03:00",
   "fonedeouvidobluetoothjbltune530btoverearsemfioate76horasdebateriapreto": "2026-11-18T18:47:56.150068-03:00",
   "presentenaturaessencialmasculinominiaturas3un": "2026-11-18T12:22:07.386987-03:00",
   "creatinapura300gmaxtitanium": "2026-11-18T19:27:20.189225-03:00",
@@ -23128,7 +23212,7 @@
   "jogodepanelastramontina9pecasturimantiaderentestarflonmaxgrafite": "2026-11-12T10:11:19.456142-03:00",
   "camisetabasicamasculinaslimemmalhaflamehering": "2026-11-19T10:41:13.387723-03:00",
   "tenisfemininoolympikusapolisoriginal": "2026-11-20T10:00:30.457588-03:00",
-  "ugreenpdqcpps100w60wusbcparacabodecargarapidatipo20v5ausbtipocparaiphone15samsunggalaxytablet": "2026-11-12T10:58:48.764310-03:00",
+  "ugreenpdqcpps100w60wusbcparacabodecargarapidatipo20v5ausbtipocparaiphone15samsunggalaxytablet": "2026-11-20T13:23:46.302482-03:00",
   "kitcamerainteligenteim3cblackintelbras2unidades": "2026-11-20T10:04:57.652061-03:00",
   "kitcamerainteligenteintelbrasim5sc2unidades": "2026-11-20T09:14:48.358144-03:00",
   "headsetgamersemfiologitechg325bluetooth": "2026-11-12T12:04:10.042453-03:00",
@@ -23831,7 +23915,9 @@
   "amazonechoshow8geracaomaisrecente": "2026-11-20T11:45:43.860193-03:00",
   "ssdportatilsandiskextremepro4tbusbc": "2026-11-20T11:58:10.753626-03:00",
   "gamesirg7sewiredcontrollerforxboxoneseriessxpcwithhalleffectmembranebuttonspaddles": "2026-11-20T12:06:10.579626-03:00",
-  "protetorsolarniveasunprotecthidratafps50200ml": "2026-11-20T12:39:01.355882-03:00"
+  "protetorsolarniveasunprotecthidratafps50200ml": "2026-11-20T12:39:01.355882-03:00",
+  "kit2ventiladoresdemesa30cm6pas3velocidadessuperpowervsp30wmondial": "2026-11-20T13:31:02.437791-03:00",
+  "ventiladorcoluna40cmsuperpowermondialpretoeprata140wvsp40cnb": "2026-11-20T13:39:31.551052-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
@@ -24243,8 +24329,8 @@
  "story_link_dia": "2026-11-19",
  "pede_semana": "2026-47",
  "ultimo_garimpo": "2026-11-19T17:57:32-03:00",
- "vigia_aviso_post": "2026-11-19T14:14:05.582304-03:00",
- "vigia_aviso_garimpo": "2026-11-20T09:48:27.558282-03:00",
+ "vigia_aviso_post": "2026-11-20T13:03:42.681683-03:00",
+ "vigia_aviso_garimpo": "2026-11-20T13:03:42.681683-03:00",
  "resumo_enviado": "2026-11-19",
  "token_conferido": "2026-11-20",
  "meta_token": {
@@ -24285,14 +24371,14 @@
   "2026-11-20 tarde achadinhos",
   "2026-11-20 tarde marcas"
  ],
- "reserva_meio": "2026-11-20T12:52:43.319986-03:00",
+ "reserva_meio": "2026-11-20T13:38:01.365159-03:00",
  "reserva_cheia": {
-  "achadinhos": "2026-11-20T11:52:53.857322-03:00",
+  "achadinhos": "2026-11-20T13:18:47.851367-03:00",
   "tech": "2026-11-20T12:52:43.319986-03:00",
   "marcas": "2026-11-20T12:52:43.319986-03:00"
  },
  "top10_dia": "2026-11-14",
- "manuais_lidos": "2026-11-20T12:46:18.781184-03:00",
+ "manuais_lidos": "2026-11-20T13:47:22.045243-03:00",
  "reserva_resultado": {
   "2026-11-07": {
    "achadinhos": {
@@ -24513,7 +24599,7 @@
   "2026-11-20": {
    "achadinhos": {
     "busca": 0,
-    "quase": 2,
+    "quase": 4,
     "reprise": 4
    },
    "marcas": {
@@ -24523,8 +24609,8 @@
    },
    "tech": {
     "busca": 0,
-    "quase": 0,
-    "reprise": 1
+    "quase": 1,
+    "reprise": 2
    }
   }
  },
@@ -24598,7 +24684,7 @@
    "hora": "2026-11-19T18:35:22.821634-03:00"
   }
  },
- "ig_respondido_em": "2026-11-20T12:47:24.627324-03:00",
+ "ig_respondido_em": "2026-11-20T13:47:22.045243-03:00",
  "dm_auto": {
   "2026-11-13": {
    "com_palavra": 0,
@@ -24846,7 +24932,7 @@
    "feed": 3
   },
   "2026-11-20": {
-   "story": 13,
+   "story": 15,
    "feed": 1
   }
  },

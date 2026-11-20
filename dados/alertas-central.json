@@ -11,12 +11,6 @@
   "ultimo": "2026-11-18T16:02+00:00",
   "texto": "erro em 2026-11-18 achadinhos 13:02 shopee-19161663389 (foto): 503 Server Error: Service Unavailable for url: https://cf.shopee.com.br/file/sg-11134201-825au-mvc5yqi9ko3q4c. Não postei."
  },
- "Instagram #-#-# #:# reels falhou # vezes: # Server Error: Service Unavailable fo": {
-  "primeiro": "2026-11-17T15:27+00:00",
-  "vezes": 1,
-  "ultimo": "2026-11-17T15:27+00:00",
-  "texto": "Instagram 2026-11-17 12:00 reels falhou 3 vezes: 503 Server Error: Service Unavailable for url: https://cf.shopee.com.br/file/br-11134207-820lo-mv3i1326hlaa96. Não publiquei."
- },
  "erro em #-#-# marcas #:# shopee-# (foto): # Server Error: Service Unavailable fo": {
   "primeiro": "2026-11-17T16:06+00:00",
   "vezes": 3,
@@ -133,9 +127,9 @@
  },
  "⚠️ Garimpo parado desde #/# #:# — abrir o app Claude e conferir as rotinas\nPouca": {
   "primeiro": "2026-11-19T11:29+00:00",
-  "vezes": 3,
-  "ultimo": "2026-11-19T18:08+00:00",
-  "texto": "⚠️ Garimpo parado desde 18/11 13:19 — abrir o app Claude e conferir as rotinas\nPouca oferta na fila: achadinhos 0, marcas 0, tech 0."
+  "vezes": 4,
+  "ultimo": "2026-11-20T16:17+00:00",
+  "texto": "⚠️ Garimpo parado desde 19/11 17:57 — abrir o app Claude e conferir as rotinas\nPouca oferta na fila: achadinhos 0, marcas 0, tech 2."
  },
  "erro em #-#-# achadinhos #:# shopee-# (envio ao Telegram): HTTPSConnectionPool(h": {
   "primeiro": "2026-11-19T13:03+00:00",
@@ -163,8 +157,8 @@
  },
  "⚠️ Canal sem post: marcas # h — abrir o app Claude e conferir as rotinas": {
   "primeiro": "2026-11-19T17:28+00:00",
-  "vezes": 1,
-  "ultimo": "2026-11-19T17:28+00:00",
+  "vezes": 2,
+  "ultimo": "2026-11-20T16:17+00:00",
   "texto": "⚠️ Canal sem post: marcas 2 h — abrir o app Claude e conferir as rotinas"
  },
  "erro em #-#-# tech #:# shopee-# (envio ao Telegram): Telegram recusou: {'ok': Fa": {
