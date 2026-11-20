@@ -17,12 +17,6 @@
   "ultimo": "2026-11-18T15:29+00:00",
   "texto": "erro em 2026-11-18 marcas 12:29 shopee-22493521596 (foto): 503 Server Error: Service Unavailable for url: https://cf.shopee.com.br/file/br-11134207-820lw-mspog5ou4v0ncf. Não postei."
  },
- "Awin liberada: o redirecionamento já traz o nome novo; soltei o cupom BLACK# e o": {
-  "primeiro": "2026-11-17T16:29+00:00",
-  "vezes": 1,
-  "ultimo": "2026-11-17T16:29+00:00",
-  "texto": "Awin liberada: o redirecionamento já traz o nome novo; soltei o cupom BLACK30 e os links Awin."
- },
  "erro em #-#-# marcas #:# nike-#-# (foto): cannot identify image file <_io.BytesI": {
   "primeiro": "2026-11-17T23:24+00:00",
   "vezes": 9,
@@ -121,15 +115,15 @@
  },
  "canal tech sem oferta na fila há # min (busca extra também não achou). Abastecer": {
   "primeiro": "2026-11-19T01:00+00:00",
-  "vezes": 2,
-  "ultimo": "2026-11-19T18:06+00:00",
-  "texto": "canal tech sem oferta na fila há 72 min (busca extra também não achou). Abastecer ofertas_manuais.json."
+  "vezes": 3,
+  "ultimo": "2026-11-20T19:32+00:00",
+  "texto": "canal tech sem oferta na fila há 70 min (busca extra também não achou). Abastecer ofertas_manuais.json."
  },
  "⚠️ Garimpo parado desde #/# #:# — abrir o app Claude e conferir as rotinas\nPouca": {
   "primeiro": "2026-11-19T11:29+00:00",
-  "vezes": 4,
-  "ultimo": "2026-11-20T16:17+00:00",
-  "texto": "⚠️ Garimpo parado desde 19/11 17:57 — abrir o app Claude e conferir as rotinas\nPouca oferta na fila: achadinhos 0, marcas 0, tech 2."
+  "vezes": 5,
+  "ultimo": "2026-11-20T19:34+00:00",
+  "texto": "⚠️ Garimpo parado desde 19/11 17:57 — abrir o app Claude e conferir as rotinas\nPouca oferta na fila: achadinhos 0, marcas 0, tech 0."
  },
  "erro em #-#-# achadinhos #:# shopee-# (envio ao Telegram): HTTPSConnectionPool(h": {
   "primeiro": "2026-11-19T13:03+00:00",
@@ -190,5 +184,11 @@
   "vezes": 1,
   "ultimo": "2026-11-20T13:01+00:00",
   "texto": "⚠️ Fila vazia (marcas), último garimpo 19/11 17:57 — abrir o app Claude e conferir as rotinas"
+ },
+ "⚠️ Canal sem post: achadinhos # h, marcas # h — abrir o app Claude e conferir as": {
+  "primeiro": "2026-11-20T19:34+00:00",
+  "vezes": 1,
+  "ultimo": "2026-11-20T19:34+00:00",
+  "texto": "⚠️ Canal sem post: achadinhos 3 h, marcas 2 h — abrir o app Claude e conferir as rotinas"
  }
 }

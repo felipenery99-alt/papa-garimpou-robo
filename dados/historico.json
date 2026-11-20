@@ -1904,7 +1904,8 @@
   "2026-11-20 marcas 14:06 shopee-23899230870",
   "2026-11-20 tech 14:44 shopee-57516793403",
   "2026-11-20 tech 14:52 shopee-21198261099",
-  "2026-11-20 tech 15:11 shopee-23999162333"
+  "2026-11-20 tech 15:11 shopee-23999162333",
+  "2026-11-20 achadinhos 17:01 shopee-58221428383"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -3661,7 +3662,8 @@
   "shopee-58204159335": "2026-11-20T13:39:31.551052-03:00",
   "shopee-23899230870": "2026-11-20T14:06:58.183637-03:00",
   "shopee-57516793403": "2026-11-20T14:44:22.134367-03:00",
-  "shopee-21198261099": "2026-11-20T14:52:09.839633-03:00"
+  "shopee-21198261099": "2026-11-20T14:52:09.839633-03:00",
+  "shopee-58221428383": "2026-11-20T17:01:14.001630-03:00"
  },
  "ofertas_dia": [
   {
@@ -21911,6 +21913,25 @@
    "entrou": "2026-11-20T14:31:52.238795-03:00",
    "reprise_dias": 2,
    "dia": "2026-11-20"
+  },
+  {
+   "id": "shopee-58221428383",
+   "plataforma": "Shopee",
+   "nome": "Secador De Cabelo Taiff Style Black Rede 2000W 127V",
+   "loja": "Lojas REDE",
+   "loja_oficial": true,
+   "preco": 179.9,
+   "preco_antigo": 367.14,
+   "desconto": 51,
+   "vendas": 134,
+   "nota": 4.9,
+   "comissao_pct": 3.0,
+   "imagem": "https://cf.shopee.com.br/file/sg-11134201-825a1-muy2znlnb37tbf",
+   "link": "https://s.shopee.com.br/9zzQApxEeF",
+   "quase": true,
+   "canal": "achadinhos",
+   "entrou": "2026-11-20T16:50:05.656855-03:00",
+   "dia": "2026-11-20"
   }
  ],
  "ig_feitos": [
@@ -22077,10 +22098,10 @@
   "2026-11-20 14:08 story_oferta",
   "2026-11-20 15:00 adivinha",
   "2026-11-20 15:03 story_oferta",
-  "2026-11-20 16:05 adivinha_resposta"
+  "2026-11-20 16:05 adivinha_resposta",
+  "2026-11-20 16:44 story_oferta"
  ],
  "ig_ofertas_usadas": [
-  "amz-B0G5ZWQR36",
   "amz-B07JZFBJ9P",
   "amz-B07JQKQ91F",
   "amz-B0D693LTY5",
@@ -22279,7 +22300,8 @@
   "shopee-3971058214",
   "shopee-7975402525",
   "shopee-23899230870",
-  "shopee-58253934349"
+  "shopee-58253934349",
+  "shopee-58204159335"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
@@ -22414,7 +22436,26 @@
   "2026-11-20": 4
  },
  "ultimo_pilar": "humor",
- "fila": [],
+ "fila": [
+  {
+   "id": "shopee-54306272132",
+   "plataforma": "Shopee",
+   "nome": "Powerbank Baseus EnerFill FM11 10000mAh 22.5W Magnético Mag Safe Ultra Mini + Cabo Type-C",
+   "loja": "Baseus Oficial",
+   "loja_oficial": true,
+   "preco": 249.9,
+   "preco_antigo": 396.67,
+   "desconto": 37,
+   "vendas": 130,
+   "nota": 4.9,
+   "comissao_pct": 8.0,
+   "imagem": "https://cf.shopee.com.br/file/br-11134207-820ll-mo6hewu3puyp11",
+   "link": "https://s.shopee.com.br/9pfzz41nOU",
+   "quase": true,
+   "canal": "tech",
+   "entrou": "2026-11-20T16:50:05.656855-03:00"
+  }
+ ],
  "menus_fixados": [
   "v1 @papagarimpou",
   "v1 @papagarimpoumarcas",
@@ -24007,7 +24048,8 @@
   "ventiladorcoluna40cmsuperpowermondialpretoeprata140wvsp40cnb": "2026-11-20T13:39:31.551052-03:00",
   "tenisdecaminhadaacquaunissexconfortavelolympikus": "2026-11-20T14:06:58.183637-03:00",
   "controlesemfiops5dualsensegraycamouflage": "2026-11-20T14:44:22.134367-03:00",
-  "fonedeouvidojblwavebuds2pretobluetoothsemfiocomcancelamentoderuido": "2026-11-20T14:52:09.839633-03:00"
+  "fonedeouvidojblwavebuds2pretobluetoothsemfiocomcancelamentoderuido": "2026-11-20T14:52:09.839633-03:00",
+  "secadordecabelotaiffstyleblackrede2000w127v": "2026-11-20T17:01:14.001630-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
@@ -24419,8 +24461,8 @@
  "story_link_dia": "2026-11-19",
  "pede_semana": "2026-47",
  "ultimo_garimpo": "2026-11-19T17:57:32-03:00",
- "vigia_aviso_post": "2026-11-20T13:03:42.681683-03:00",
- "vigia_aviso_garimpo": "2026-11-20T13:03:42.681683-03:00",
+ "vigia_aviso_post": "2026-11-20T16:20:59.630039-03:00",
+ "vigia_aviso_garimpo": "2026-11-20T16:20:59.630039-03:00",
  "resumo_enviado": "2026-11-19",
  "token_conferido": "2026-11-20",
  "meta_token": {
@@ -24430,7 +24472,6 @@
   "acesso_vence": "-"
  },
  "avisos_parado": [
-  "2026-11-06 tarde achadinhos",
   "2026-11-06 tarde marcas",
   "2026-11-06 tarde tech",
   "2026-11-06 noite achadinhos",
@@ -24459,16 +24500,17 @@
   "2026-11-19 tarde achadinhos",
   "2026-11-19 tarde tech",
   "2026-11-20 tarde achadinhos",
-  "2026-11-20 tarde marcas"
+  "2026-11-20 tarde marcas",
+  "2026-11-20 tarde tech"
  ],
- "reserva_meio": "2026-11-20T16:13:29.240521-03:00",
+ "reserva_meio": "2026-11-20T16:50:05.656855-03:00",
  "reserva_cheia": {
-  "achadinhos": "2026-11-20T15:42:29.881745-03:00",
-  "tech": "2026-11-20T15:42:29.881745-03:00",
+  "achadinhos": "2026-11-20T16:50:05.656855-03:00",
+  "tech": "2026-11-20T16:50:05.656855-03:00",
   "marcas": "2026-11-20T16:13:29.240521-03:00"
  },
  "top10_dia": "2026-11-14",
- "manuais_lidos": "2026-11-20T16:05:11.959068-03:00",
+ "manuais_lidos": "2026-11-20T16:44:24.744881-03:00",
  "reserva_resultado": {
   "2026-11-07": {
    "achadinhos": {
@@ -24689,7 +24731,7 @@
   "2026-11-20": {
    "achadinhos": {
     "busca": 0,
-    "quase": 4,
+    "quase": 5,
     "reprise": 4
    },
    "marcas": {
@@ -24699,7 +24741,7 @@
    },
    "tech": {
     "busca": 0,
-    "quase": 3,
+    "quase": 4,
     "reprise": 3
    }
   }
@@ -24774,7 +24816,7 @@
    "hora": "2026-11-19T18:35:22.821634-03:00"
   }
  },
- "ig_respondido_em": "2026-11-20T16:05:11.959068-03:00",
+ "ig_respondido_em": "2026-11-20T16:44:24.744881-03:00",
  "dm_auto": {
   "2026-11-13": {
    "com_palavra": 0,
@@ -25022,7 +25064,7 @@
    "feed": 3
   },
   "2026-11-20": {
-   "story": 19,
+   "story": 20,
    "feed": 1
   }
  },
