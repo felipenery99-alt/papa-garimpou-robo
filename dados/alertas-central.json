@@ -121,8 +121,8 @@
  },
  "⚠️ Garimpo parado desde #/# #:# — abrir o app Claude e conferir as rotinas\nPouca": {
   "primeiro": "2026-11-19T11:29+00:00",
-  "vezes": 5,
-  "ultimo": "2026-11-20T19:34+00:00",
+  "vezes": 6,
+  "ultimo": "2026-11-20T22:40+00:00",
   "texto": "⚠️ Garimpo parado desde 19/11 17:57 — abrir o app Claude e conferir as rotinas\nPouca oferta na fila: achadinhos 0, marcas 0, tech 0."
  },
  "erro em #-#-# achadinhos #:# shopee-# (envio ao Telegram): HTTPSConnectionPool(h": {
@@ -190,5 +190,11 @@
   "vezes": 1,
   "ultimo": "2026-11-20T19:34+00:00",
   "texto": "⚠️ Canal sem post: achadinhos 3 h, marcas 2 h — abrir o app Claude e conferir as rotinas"
+ },
+ "⚠️ Canal sem post: achadinhos # h, marcas # h, tech # h — abrir o app Claude e c": {
+  "primeiro": "2026-11-20T22:40+00:00",
+  "vezes": 1,
+  "ultimo": "2026-11-20T22:40+00:00",
+  "texto": "⚠️ Canal sem post: achadinhos 2 h, marcas 5 h, tech 2 h — abrir o app Claude e conferir as rotinas"
  }
 }

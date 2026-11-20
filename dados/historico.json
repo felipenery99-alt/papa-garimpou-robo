@@ -22131,7 +22131,8 @@
   "2026-11-20 gta story 2",
   "2026-11-20 feed",
   "2026-11-20 19:15 post_achado",
-  "2026-11-20 19:17 story_oferta"
+  "2026-11-20 19:17 story_oferta",
+  "2026-11-20 20:03 story_oferta"
  ],
  "ig_ofertas_usadas": [
   "amz-B08R8246HC",
@@ -22465,12 +22466,13 @@
   "hu-sexta": "2026-11-20",
   "dc-tv-sofa": "2026-11-20",
   "cv-academia": "2026-11-20",
-  "dc-cancelar-cedo": "2026-11-20"
+  "dc-cancelar-cedo": "2026-11-20",
+  "hu-caiu-depois": "2026-11-20"
  },
  "pecas_dia": {
-  "2026-11-20": 6
+  "2026-11-20": 7
  },
- "ultimo_pilar": "dica",
+ "ultimo_pilar": "humor",
  "fila": [],
  "menus_fixados": [
   "v1 @papagarimpou",
@@ -24478,8 +24480,8 @@
  "story_link_dia": "2026-11-20",
  "pede_semana": "2026-47",
  "ultimo_garimpo": "2026-11-19T17:57:32-03:00",
- "vigia_aviso_post": "2026-11-20T16:20:59.630039-03:00",
- "vigia_aviso_garimpo": "2026-11-20T16:20:59.630039-03:00",
+ "vigia_aviso_post": "2026-11-20T19:25:34.177318-03:00",
+ "vigia_aviso_garimpo": "2026-11-20T19:25:34.177318-03:00",
  "resumo_enviado": "2026-11-19",
  "token_conferido": "2026-11-20",
  "meta_token": {
@@ -24520,14 +24522,14 @@
   "2026-11-20 noite marcas",
   "2026-11-20 noite tech"
  ],
- "reserva_meio": "2026-11-20T19:22:34.021200-03:00",
+ "reserva_meio": "2026-11-20T19:55:46.980327-03:00",
  "reserva_cheia": {
   "achadinhos": "2026-11-20T19:06:47.169130-03:00",
   "tech": "2026-11-20T19:06:47.169130-03:00",
-  "marcas": "2026-11-20T18:32:05.878352-03:00"
+  "marcas": "2026-11-20T19:40:31.139018-03:00"
  },
  "top10_dia": "2026-11-14",
- "manuais_lidos": "2026-11-20T19:20:46.390909-03:00",
+ "manuais_lidos": "2026-11-20T20:01:21.060814-03:00",
  "reserva_resultado": {
   "2026-11-07": {
    "achadinhos": {
@@ -24837,7 +24839,7 @@
    "hora": "2026-11-20T18:30:12.713496-03:00"
   }
  },
- "ig_respondido_em": "2026-11-20T19:20:46.390909-03:00",
+ "ig_respondido_em": "2026-11-20T20:03:25.959904-03:00",
  "dm_auto": {
   "2026-11-13": {
    "com_palavra": 0,
@@ -25091,7 +25093,7 @@
    "feed": 3
   },
   "2026-11-20": {
-   "story": 27,
+   "story": 28,
    "feed": 3
   }
  },
