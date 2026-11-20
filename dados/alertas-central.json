@@ -1,10 +1,4 @@
 {
- "erro em #-#-# tech #:# shopee-# (foto): # Server Error: Service Unavailable for ": {
-  "primeiro": "2026-11-16T16:18+00:00",
-  "vezes": 2,
-  "ultimo": "2026-11-17T15:19+00:00",
-  "texto": "erro em 2026-11-17 tech 12:19 shopee-41117508450 (foto): 503 Server Error: Service Unavailable for url: https://cf.shopee.com.br/file/br-11134207-820mb-moeztwaqtibpb4. Não postei."
- },
  "⚠️ Fila vazia (achadinhos), último garimpo #:# — abrir o app Claude e conferir a": {
   "primeiro": "2026-11-16T20:51+00:00",
   "vezes": 3,
@@ -16,12 +10,6 @@
   "vezes": 3,
   "ultimo": "2026-11-18T16:02+00:00",
   "texto": "erro em 2026-11-18 achadinhos 13:02 shopee-19161663389 (foto): 503 Server Error: Service Unavailable for url: https://cf.shopee.com.br/file/sg-11134201-825au-mvc5yqi9ko3q4c. Não postei."
- },
- "Awin liberada: o redirecionamento saiu sem o nome antigo; soltei o cupom BLACK# ": {
-  "primeiro": "2026-11-17T14:57+00:00",
-  "vezes": 1,
-  "ultimo": "2026-11-17T14:57+00:00",
-  "texto": "Awin liberada: o redirecionamento saiu sem o nome antigo; soltei o cupom BLACK30 e os links Awin."
  },
  "Instagram #-#-# #:# reels falhou # vezes: # Server Error: Service Unavailable fo": {
   "primeiro": "2026-11-17T15:27+00:00",
@@ -133,9 +121,9 @@
  },
  "canal marcas sem oferta na fila há # min (busca extra também não achou). Abastec": {
   "primeiro": "2026-11-19T00:15+00:00",
-  "vezes": 2,
-  "ultimo": "2026-11-19T16:37+00:00",
-  "texto": "canal marcas sem oferta na fila há 75 min (busca extra também não achou). Abastecer ofertas_manuais.json."
+  "vezes": 3,
+  "ultimo": "2026-11-20T15:20+00:00",
+  "texto": "canal marcas sem oferta na fila há 70 min (busca extra também não achou). Abastecer ofertas_manuais.json."
  },
  "canal tech sem oferta na fila há # min (busca extra também não achou). Abastecer": {
   "primeiro": "2026-11-19T01:00+00:00",
@@ -193,9 +181,9 @@
  },
  "canal achadinhos sem oferta na fila há # min (busca extra também não achou). Aba": {
   "primeiro": "2026-11-19T18:05+00:00",
-  "vezes": 1,
-  "ultimo": "2026-11-19T18:05+00:00",
-  "texto": "canal achadinhos sem oferta na fila há 82 min (busca extra também não achou). Abastecer ofertas_manuais.json."
+  "vezes": 2,
+  "ultimo": "2026-11-20T15:19+00:00",
+  "texto": "canal achadinhos sem oferta na fila há 53 min (busca extra também não achou). Abastecer ofertas_manuais.json."
  },
  "erro em #-#-# marcas #:# amz-B#BL#KLRW (envio ao Telegram): HTTPSConnectionPool(": {
   "primeiro": "2026-11-20T00:16+00:00",

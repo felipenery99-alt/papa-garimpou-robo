@@ -1894,7 +1894,9 @@
   "2026-11-20 tech 11:29 amz-B0DXN7BPPX",
   "2026-11-20 tech 11:45 amz-B0DYC2GV1Z",
   "2026-11-20 tech 11:58 amz-B08RX3343D",
-  "2026-11-20 tech 12:06 shopee-58261870157"
+  "2026-11-20 tech 12:06 shopee-58261870157",
+  "2026-11-20 tech 12:15 shopee-47802618294",
+  "2026-11-20 achadinhos 12:39 shopee-3971058214"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -2910,7 +2912,7 @@
   "amz-B0BNP2NSRT": "2026-11-12T08:32:03.204419-03:00",
   "amz-B08JPLVFF7": "2026-11-12T08:38:33.703452-03:00",
   "amz-B07C91RQZ4": "2026-11-12T08:47:20.634485-03:00",
-  "shopee-47802618294": "2026-11-12T08:53:56.393989-03:00",
+  "shopee-47802618294": "2026-11-20T12:15:04.781860-03:00",
   "amz-B07W8X4F48": "2026-11-12T09:01:14.314143-03:00",
   "amz-B08YHR9C4S": "2026-11-12T09:06:44.798626-03:00",
   "amz-B0GZX5BR6D": "2026-11-12T09:13:47.892417-03:00",
@@ -3645,7 +3647,8 @@
   "amz-B0DXN7BPPX": "2026-11-20T11:29:29.159885-03:00",
   "amz-B0DYC2GV1Z": "2026-11-20T11:45:43.860193-03:00",
   "amz-B08RX3343D": "2026-11-20T11:58:10.753626-03:00",
-  "shopee-58261870157": "2026-11-20T12:06:10.579626-03:00"
+  "shopee-58261870157": "2026-11-20T12:06:10.579626-03:00",
+  "shopee-3971058214": "2026-11-20T12:39:01.355882-03:00"
  },
  "ofertas_dia": [
   {
@@ -21704,6 +21707,45 @@
    "canal": "tech",
    "entrou": "2026-11-20T09:02:45.936986-03:00",
    "dia": "2026-11-20"
+  },
+  {
+   "id": "shopee-47802618294",
+   "plataforma": "Shopee",
+   "nome": "PowerBank Baseus FC51 Bipow2 Pro 10000mAh/20000mAh 22.5W com Cabo Integrado e Display Digital EnerFill",
+   "loja": "Baseus Oficial",
+   "loja_oficial": true,
+   "preco": 215.9,
+   "preco_antigo": 287.87,
+   "desconto": 25,
+   "vendas": 399,
+   "nota": 4.9,
+   "comissao_pct": 8.0,
+   "imagem": "https://cf.shopee.com.br/file/br-11134207-820lq-mo3x6myifi8190",
+   "link": "https://s.shopee.com.br/W8KsDPjZD",
+   "quase": true,
+   "canal": "tech",
+   "entrou": "2026-11-20T11:21:54.459564-03:00",
+   "reprise_dias": 7,
+   "dia": "2026-11-20"
+  },
+  {
+   "id": "shopee-3971058214",
+   "plataforma": "Shopee",
+   "nome": "Protetor Solar Nivea Sun Protect & Hidrata Fps50 200ml",
+   "loja": "MUNDO DA LELE",
+   "loja_oficial": true,
+   "preco": 37.59,
+   "preco_antigo": 50.12,
+   "desconto": 25,
+   "vendas": 1478,
+   "nota": 4.9,
+   "comissao_pct": 3.0,
+   "imagem": "https://cf.shopee.com.br/file/br-11134207-820m2-msle028qyakn5e",
+   "link": "https://s.shopee.com.br/9KjjNhO9W0",
+   "quase": true,
+   "canal": "achadinhos",
+   "entrou": "2026-11-20T12:36:54.029560-03:00",
+   "dia": "2026-11-20"
   }
  ],
  "ig_feitos": [
@@ -21859,11 +21901,14 @@
   "2026-11-20 feed",
   "2026-11-20 11:50 carrossel_top5",
   "2026-11-20 12:00 reels",
-  "2026-11-20 11:56 story_oferta"
+  "2026-11-20 11:56 story_oferta",
+  "2026-11-20 gta tiktok",
+  "2026-11-20 gta story 1",
+  "2026-11-20 12:15 story_top4",
+  "2026-11-20 12:19 story_oferta",
+  "2026-11-20 12:47 story_oferta"
  ],
  "ig_ofertas_usadas": [
-  "shopee-20198314386",
-  "amz-B0DXR7GNWJ",
   "amz-B076KRB8LP",
   "amz-B0CPT5XTTC",
   "amz-B0CBSZ6YXZ",
@@ -22061,7 +22106,9 @@
   "shopee-22394417240",
   "shopee-20816821905",
   "shopee-23897159576",
-  "shopee-8607385860"
+  "shopee-8607385860",
+  "shopee-22693266079",
+  "shopee-58261870157"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
@@ -22196,27 +22243,7 @@
   "2026-11-20": 4
  },
  "ultimo_pilar": "humor",
- "fila": [
-  {
-   "id": "shopee-47802618294",
-   "plataforma": "Shopee",
-   "nome": "PowerBank Baseus FC51 Bipow2 Pro 10000mAh/20000mAh 22.5W com Cabo Integrado e Display Digital EnerFill",
-   "loja": "Baseus Oficial",
-   "loja_oficial": true,
-   "preco": 215.9,
-   "preco_antigo": 287.87,
-   "desconto": 25,
-   "vendas": 399,
-   "nota": 4.9,
-   "comissao_pct": 8.0,
-   "imagem": "https://cf.shopee.com.br/file/br-11134207-820lq-mo3x6myifi8190",
-   "link": "https://s.shopee.com.br/W8KsDPjZD",
-   "quase": true,
-   "canal": "tech",
-   "entrou": "2026-11-20T11:21:54.459564-03:00",
-   "reprise_dias": 7
-  }
- ],
+ "fila": [],
  "menus_fixados": [
   "v1 @papagarimpou",
   "v1 @papagarimpoumarcas",
@@ -23089,7 +23116,7 @@
   "camisetabasicaheringsupercottoncombolsomasculina": "2026-11-12T08:32:03.204419-03:00",
   "cafeteiranescafedolcegustoarnogeniosbasic220v": "2026-11-12T08:38:33.703452-03:00",
   "liquidificadormondialturbofull900w220v": "2026-11-12T08:47:20.634485-03:00",
-  "powerbankbaseusfc51bipow2pro10000mah20000mah225wcomcabointegradoedisplaydigitalenerfill": "2026-11-12T08:53:56.393989-03:00",
+  "powerbankbaseusfc51bipow2pro10000mah20000mah225wcomcabointegradoedisplaydigitalenerfill": "2026-11-20T12:15:04.781860-03:00",
   "mousegamersemfiologitechg703lightspeedrgb": "2026-11-12T09:01:14.314143-03:00",
   "mixer3em1britaniabmx400500w110v": "2026-11-12T09:06:44.798626-03:00",
   "wheyproteinintegralmedicanutriwheybaunilha12kg": "2026-11-12T09:13:47.892417-03:00",
@@ -23803,7 +23830,8 @@
   "tplinkdecox102unmeshwifi6paraacasatoda": "2026-11-20T11:29:29.159885-03:00",
   "amazonechoshow8geracaomaisrecente": "2026-11-20T11:45:43.860193-03:00",
   "ssdportatilsandiskextremepro4tbusbc": "2026-11-20T11:58:10.753626-03:00",
-  "gamesirg7sewiredcontrollerforxboxoneseriessxpcwithhalleffectmembranebuttonspaddles": "2026-11-20T12:06:10.579626-03:00"
+  "gamesirg7sewiredcontrollerforxboxoneseriessxpcwithhalleffectmembranebuttonspaddles": "2026-11-20T12:06:10.579626-03:00",
+  "protetorsolarniveasunprotecthidratafps50200ml": "2026-11-20T12:39:01.355882-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
@@ -24226,7 +24254,6 @@
   "acesso_vence": "-"
  },
  "avisos_parado": [
-  "2026-11-05 noite tech",
   "2026-11-06 tarde achadinhos",
   "2026-11-06 tarde marcas",
   "2026-11-06 tarde tech",
@@ -24254,16 +24281,18 @@
   "2026-11-18 noite tech",
   "2026-11-19 tarde marcas",
   "2026-11-19 tarde achadinhos",
-  "2026-11-19 tarde tech"
+  "2026-11-19 tarde tech",
+  "2026-11-20 tarde achadinhos",
+  "2026-11-20 tarde marcas"
  ],
- "reserva_meio": "2026-11-20T11:52:53.857322-03:00",
+ "reserva_meio": "2026-11-20T12:52:43.319986-03:00",
  "reserva_cheia": {
   "achadinhos": "2026-11-20T11:52:53.857322-03:00",
-  "tech": "2026-11-19T17:44:35.680517-03:00",
-  "marcas": "2026-11-20T11:37:23.049315-03:00"
+  "tech": "2026-11-20T12:52:43.319986-03:00",
+  "marcas": "2026-11-20T12:52:43.319986-03:00"
  },
  "top10_dia": "2026-11-14",
- "manuais_lidos": "2026-11-20T12:05:33.970005-03:00",
+ "manuais_lidos": "2026-11-20T12:46:18.781184-03:00",
  "reserva_resultado": {
   "2026-11-07": {
    "achadinhos": {
@@ -24484,7 +24513,7 @@
   "2026-11-20": {
    "achadinhos": {
     "busca": 0,
-    "quase": 1,
+    "quase": 2,
     "reprise": 4
    },
    "marcas": {
@@ -24569,7 +24598,7 @@
    "hora": "2026-11-19T18:35:22.821634-03:00"
   }
  },
- "ig_respondido_em": "2026-11-20T12:05:33.970005-03:00",
+ "ig_respondido_em": "2026-11-20T12:47:24.627324-03:00",
  "dm_auto": {
   "2026-11-13": {
    "com_palavra": 0,
@@ -24793,6 +24822,12 @@
     "capa": "ate_off",
     "legenda": "Manda pra quem tá precisando disso 👇\n😎💎 Até 44% OFF em marca boa: os 5 achados do Papa hoje\n\nOfertas todo dia no Telegram: papagarimpouofertas 💎\nE os achados do dia no Insta: @papa.garimpou 👀\n\nPubli · link de afiliado",
     "url": "https://raw.githubusercontent.com/felipenery99-alt/papa-garimpou-robo/tiktok-midia/20261120-1205-tiktok.mp4"
+   },
+   {
+    "hora": "12:06",
+    "capa": "gta",
+    "legenda": "Manda pra quem tá precisando disso 👇\n🎮 GTA VI: GameSir G7 SE Wired Controller for Xbox One, Series S/X PC with Hall Effect Membrane Butto de R$ 460,00 por R$ 299,00\n\nOfertas todo dia no Telegram: papagarimpouofertas 💎\nE os achados do dia no Insta: @papa.garimpou 👀\n\nPubli · link de afiliado",
+    "url": "https://raw.githubusercontent.com/felipenery99-alt/papa-garimpou-robo/tiktok-midia/20261120-1206-tiktok.mp4"
    }
   ]
  },
@@ -24811,7 +24846,7 @@
    "feed": 3
   },
   "2026-11-20": {
-   "story": 9,
+   "story": 13,
    "feed": 1
   }
  },
@@ -24886,6 +24921,7 @@
  },
  "gta_fixado": 538,
  "ig_gta_stories": [
-  "shopee-40084160591"
+  "shopee-40084160591",
+  "shopee-58261870157"
  ]
 }
