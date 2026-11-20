@@ -1889,7 +1889,12 @@
   "2026-11-20 tech 10:45 amz-B0CFPL6CFY",
   "2026-11-20 marcas 10:57 shopee-23897159576",
   "2026-11-20 achadinhos 11:06 shopee-8607385860",
-  "2026-11-20 achadinhos 11:14 shopee-22693266079"
+  "2026-11-20 achadinhos 11:14 shopee-22693266079",
+  "2026-11-20 tech 11:21 amz-B0FJ32RXFV",
+  "2026-11-20 tech 11:29 amz-B0DXN7BPPX",
+  "2026-11-20 tech 11:45 amz-B0DYC2GV1Z",
+  "2026-11-20 tech 11:58 amz-B08RX3343D",
+  "2026-11-20 tech 12:06 shopee-58261870157"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -3635,7 +3640,12 @@
   "amz-B098JK6G5N": "2026-11-20T10:36:57.337937-03:00",
   "amz-B0CFPL6CFY": "2026-11-20T10:45:48.127675-03:00",
   "shopee-23897159576": "2026-11-20T10:57:32.250196-03:00",
-  "shopee-8607385860": "2026-11-20T11:06:29.848671-03:00"
+  "shopee-8607385860": "2026-11-20T11:06:29.848671-03:00",
+  "amz-B0FJ32RXFV": "2026-11-20T11:21:54.473413-03:00",
+  "amz-B0DXN7BPPX": "2026-11-20T11:29:29.159885-03:00",
+  "amz-B0DYC2GV1Z": "2026-11-20T11:45:43.860193-03:00",
+  "amz-B08RX3343D": "2026-11-20T11:58:10.753626-03:00",
+  "shopee-58261870157": "2026-11-20T12:06:10.579626-03:00"
  },
  "ofertas_dia": [
   {
@@ -21608,6 +21618,92 @@
    "entrou": "2026-11-20T10:34:21.304083-03:00",
    "reprise_dias": 3,
    "dia": "2026-11-20"
+  },
+  {
+   "id": "amz-B0FJ32RXFV",
+   "canal": "tech",
+   "nome": "Teclado Sem Fio Logitech K250 Bluetooth",
+   "preco_antigo": 129.9,
+   "preco": 88.16,
+   "desconto": 32,
+   "link": "https://www.amazon.com.br/dp/B0FJ32RXFV?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61vowVVLzqL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-20T22:00:00-03:00",
+   "coletado_em": "2026-11-19T17:50:00-03:00",
+   "preco_em": "2026-11-19T17:50:00-03:00",
+   "entrou": "2026-11-20T08:34:30.724190-03:00",
+   "dia": "2026-11-20"
+  },
+  {
+   "id": "amz-B0DXN7BPPX",
+   "canal": "tech",
+   "nome": "TP-Link Deco X10 (2 un.) Mesh Wi-Fi 6 para a casa toda",
+   "preco_antigo": 575.25,
+   "preco": 377.95,
+   "desconto": 34,
+   "link": "https://www.amazon.com.br/dp/B0DXN7BPPX?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/41HPajBqIAL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-20T22:00:00-03:00",
+   "coletado_em": "2026-11-19T17:50:00-03:00",
+   "preco_em": "2026-11-19T17:50:00-03:00",
+   "entrou": "2026-11-20T08:34:30.724190-03:00",
+   "dia": "2026-11-20"
+  },
+  {
+   "id": "amz-B0DYC2GV1Z",
+   "canal": "tech",
+   "nome": "Amazon Echo Show 8 (Geração mais recente)",
+   "preco_antigo": 1999.0,
+   "preco": 1349.0,
+   "desconto": 33,
+   "link": "https://www.amazon.com.br/dp/B0DYC2GV1Z?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71iIMpnRXEL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-20T22:00:00-03:00",
+   "coletado_em": "2026-11-19T17:50:00-03:00",
+   "preco_em": "2026-11-19T17:50:00-03:00",
+   "entrou": "2026-11-20T08:34:30.724190-03:00",
+   "dia": "2026-11-20"
+  },
+  {
+   "id": "amz-B08RX3343D",
+   "canal": "tech",
+   "nome": "SSD Portátil SanDisk Extreme Pro 4 TB USB-C",
+   "preco_antigo": 5955.67,
+   "preco": 3519.9,
+   "desconto": 41,
+   "link": "https://www.amazon.com.br/dp/B08RX3343D?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71z2lEHwfNL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-20T22:00:00-03:00",
+   "coletado_em": "2026-11-19T17:50:00-03:00",
+   "preco_em": "2026-11-19T17:50:00-03:00",
+   "entrou": "2026-11-20T08:34:30.724190-03:00",
+   "dia": "2026-11-20"
+  },
+  {
+   "id": "shopee-58261870157",
+   "plataforma": "Shopee",
+   "nome": "GameSir G7 SE Wired Controller for Xbox One, Series S/X PC with Hall Effect Membrane Buttons Paddles",
+   "loja": "NovaPeak Brand Oficial",
+   "loja_oficial": true,
+   "preco": 299.0,
+   "preco_antigo": 460.0,
+   "desconto": 35,
+   "vendas": 631,
+   "nota": 5.0,
+   "comissao_pct": 7.0,
+   "imagem": "https://cf.shopee.com.br/file/br-11134207-820mc-mq34da0sesjme7",
+   "link": "https://s.shopee.com.br/1C5XKLvpH",
+   "canal": "tech",
+   "entrou": "2026-11-20T09:02:45.936986-03:00",
+   "dia": "2026-11-20"
   }
  ],
  "ig_feitos": [
@@ -21759,10 +21855,13 @@
   "2026-11-20 09:38 story_oferta",
   "2026-11-20 10:20 story_oferta",
   "2026-11-20 10:24 story_oferta",
-  "2026-11-20 11:11 story_oferta"
+  "2026-11-20 11:11 story_oferta",
+  "2026-11-20 feed",
+  "2026-11-20 11:50 carrossel_top5",
+  "2026-11-20 12:00 reels",
+  "2026-11-20 11:56 story_oferta"
  ],
  "ig_ofertas_usadas": [
-  "shopee-23792931413",
   "shopee-20198314386",
   "amz-B0DXR7GNWJ",
   "amz-B076KRB8LP",
@@ -21961,11 +22060,12 @@
   "shopee-20999203046",
   "shopee-22394417240",
   "shopee-20816821905",
-  "shopee-23897159576"
+  "shopee-23897159576",
+  "shopee-8607385860"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
- "ig_ultimo_reel": "2026-11-19T20:33:13.324464-03:00",
+ "ig_ultimo_reel": "2026-11-20T12:05:33.970005-03:00",
  "pecas_usadas": {
   "ac-preco-inflado": "2026-10-27",
   "dc-7-dias": "2026-10-27",
@@ -22098,85 +22198,23 @@
  "ultimo_pilar": "humor",
  "fila": [
   {
-   "id": "amz-B0FJ32RXFV",
-   "canal": "tech",
-   "nome": "Teclado Sem Fio Logitech K250 Bluetooth",
-   "preco_antigo": 129.9,
-   "preco": 88.16,
-   "desconto": 32,
-   "link": "https://www.amazon.com.br/dp/B0FJ32RXFV?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61vowVVLzqL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-20T22:00:00-03:00",
-   "coletado_em": "2026-11-19T17:50:00-03:00",
-   "preco_em": "2026-11-19T17:50:00-03:00",
-   "entrou": "2026-11-20T08:34:30.724190-03:00"
-  },
-  {
-   "id": "amz-B0DXN7BPPX",
-   "canal": "tech",
-   "nome": "TP-Link Deco X10 (2 un.) Mesh Wi-Fi 6 para a casa toda",
-   "preco_antigo": 575.25,
-   "preco": 377.95,
-   "desconto": 34,
-   "link": "https://www.amazon.com.br/dp/B0DXN7BPPX?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/41HPajBqIAL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-20T22:00:00-03:00",
-   "coletado_em": "2026-11-19T17:50:00-03:00",
-   "preco_em": "2026-11-19T17:50:00-03:00",
-   "entrou": "2026-11-20T08:34:30.724190-03:00"
-  },
-  {
-   "id": "amz-B0DYC2GV1Z",
-   "canal": "tech",
-   "nome": "Amazon Echo Show 8 (Geração mais recente)",
-   "preco_antigo": 1999.0,
-   "preco": 1349.0,
-   "desconto": 33,
-   "link": "https://www.amazon.com.br/dp/B0DYC2GV1Z?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/71iIMpnRXEL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-20T22:00:00-03:00",
-   "coletado_em": "2026-11-19T17:50:00-03:00",
-   "preco_em": "2026-11-19T17:50:00-03:00",
-   "entrou": "2026-11-20T08:34:30.724190-03:00"
-  },
-  {
-   "id": "amz-B08RX3343D",
-   "canal": "tech",
-   "nome": "SSD Portátil SanDisk Extreme Pro 4 TB USB-C",
-   "preco_antigo": 5955.67,
-   "preco": 3519.9,
-   "desconto": 41,
-   "link": "https://www.amazon.com.br/dp/B08RX3343D?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/71z2lEHwfNL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-20T22:00:00-03:00",
-   "coletado_em": "2026-11-19T17:50:00-03:00",
-   "preco_em": "2026-11-19T17:50:00-03:00",
-   "entrou": "2026-11-20T08:34:30.724190-03:00"
-  },
-  {
-   "id": "shopee-58261870157",
+   "id": "shopee-47802618294",
    "plataforma": "Shopee",
-   "nome": "GameSir G7 SE Wired Controller for Xbox One, Series S/X PC with Hall Effect Membrane Buttons Paddles",
-   "loja": "NovaPeak Brand Oficial",
+   "nome": "PowerBank Baseus FC51 Bipow2 Pro 10000mAh/20000mAh 22.5W com Cabo Integrado e Display Digital EnerFill",
+   "loja": "Baseus Oficial",
    "loja_oficial": true,
-   "preco": 299.0,
-   "preco_antigo": 460.0,
-   "desconto": 35,
-   "vendas": 631,
-   "nota": 5.0,
-   "comissao_pct": 7.0,
-   "imagem": "https://cf.shopee.com.br/file/br-11134207-820mc-mq34da0sesjme7",
-   "link": "https://s.shopee.com.br/1C5XKLvpH",
+   "preco": 215.9,
+   "preco_antigo": 287.87,
+   "desconto": 25,
+   "vendas": 399,
+   "nota": 4.9,
+   "comissao_pct": 8.0,
+   "imagem": "https://cf.shopee.com.br/file/br-11134207-820lq-mo3x6myifi8190",
+   "link": "https://s.shopee.com.br/W8KsDPjZD",
+   "quase": true,
    "canal": "tech",
-   "entrou": "2026-11-20T09:02:45.936986-03:00"
+   "entrou": "2026-11-20T11:21:54.459564-03:00",
+   "reprise_dias": 7
   }
  ],
  "menus_fixados": [
@@ -23760,7 +23798,12 @@
   "demonssoulsplaystation5": "2026-11-20T10:28:21.686589-03:00",
   "amazonkindlepaperwhite16gbmodelo2024": "2026-11-20T10:45:48.127675-03:00",
   "kitcom3camisetasfemininasslimbasicashering": "2026-11-20T10:57:32.250196-03:00",
-  "kitconjuntojogodefaqueirobuzios24pecasacoinoxtramontina": "2026-11-20T11:06:29.848671-03:00"
+  "kitconjuntojogodefaqueirobuzios24pecasacoinoxtramontina": "2026-11-20T11:06:29.848671-03:00",
+  "tecladosemfiologitechk250bluetooth": "2026-11-20T11:21:54.473413-03:00",
+  "tplinkdecox102unmeshwifi6paraacasatoda": "2026-11-20T11:29:29.159885-03:00",
+  "amazonechoshow8geracaomaisrecente": "2026-11-20T11:45:43.860193-03:00",
+  "ssdportatilsandiskextremepro4tbusbc": "2026-11-20T11:58:10.753626-03:00",
+  "gamesirg7sewiredcontrollerforxboxoneseriessxpcwithhalleffectmembranebuttonspaddles": "2026-11-20T12:06:10.579626-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
@@ -24064,6 +24107,13 @@
    "shopee-21516474306",
    "shopee-22597140327",
    "shopee-18797677549"
+  ],
+  "2026-11-20": [
+   "shopee-21316811936",
+   "shopee-8607385860",
+   "shopee-22394417240",
+   "shopee-20816821905",
+   "shopee-22693266079"
   ]
  },
  "vendas_shopee": {},
@@ -24206,14 +24256,14 @@
   "2026-11-19 tarde achadinhos",
   "2026-11-19 tarde tech"
  ],
- "reserva_meio": "2026-11-20T11:05:24.400638-03:00",
+ "reserva_meio": "2026-11-20T11:52:53.857322-03:00",
  "reserva_cheia": {
-  "achadinhos": "2026-11-20T10:34:21.304083-03:00",
+  "achadinhos": "2026-11-20T11:52:53.857322-03:00",
   "tech": "2026-11-19T17:44:35.680517-03:00",
-  "marcas": "2026-11-20T10:34:21.304083-03:00"
+  "marcas": "2026-11-20T11:37:23.049315-03:00"
  },
  "top10_dia": "2026-11-14",
- "manuais_lidos": "2026-11-20T11:14:08.145240-03:00",
+ "manuais_lidos": "2026-11-20T12:05:33.970005-03:00",
  "reserva_resultado": {
   "2026-11-07": {
    "achadinhos": {
@@ -24441,6 +24491,11 @@
     "busca": 0,
     "quase": 1,
     "reprise": 1
+   },
+   "tech": {
+    "busca": 0,
+    "quase": 0,
+    "reprise": 1
    }
   }
  },
@@ -24514,7 +24569,7 @@
    "hora": "2026-11-19T18:35:22.821634-03:00"
   }
  },
- "ig_respondido_em": "2026-11-20T11:14:08.145240-03:00",
+ "ig_respondido_em": "2026-11-20T12:05:33.970005-03:00",
  "dm_auto": {
   "2026-11-13": {
    "com_palavra": 0,
@@ -24592,26 +24647,6 @@
   }
  },
  "tiktok": {
-  "2026-11-12": [
-   {
-    "hora": "12:03",
-    "capa": "ate_off",
-    "legenda": "Manda pra quem tá precisando disso 👇\n😎💎 Até 71% OFF em marca boa: os 5 achados do Papa hoje\n\nOfertas todo dia no Telegram: papagarimpouofertas 💎\n\nPubli · link de afiliado",
-    "url": "https://raw.githubusercontent.com/felipenery99-alt/papa-garimpou-robo/tiktok-midia/20261112-1203-tiktok.mp4"
-   },
-   {
-    "hora": "18:36",
-    "capa": "uma_oferta",
-    "legenda": "Manda pra quem tá precisando disso 👇\n😎💎 Chapinha Prancha Taiff Cerâmica PTC Action 180ºC Bivolt\n\nOfertas todo dia no Telegram: papagarimpouofertas 💎\n\nPubli · link de afiliado",
-    "url": "https://raw.githubusercontent.com/felipenery99-alt/papa-garimpou-robo/tiktok-midia/20261112-1836-tiktok.mp4"
-   },
-   {
-    "hora": "20:32",
-    "capa": "ate_off",
-    "legenda": "Manda pra quem tá precisando disso 👇\n😎💎 Até 75% OFF em marca boa: os 5 achados do Papa hoje\n\nOfertas todo dia no Telegram: papagarimpouofertas 💎\n\nPubli · link de afiliado",
-    "url": "https://raw.githubusercontent.com/felipenery99-alt/papa-garimpou-robo/tiktok-midia/20261112-2032-tiktok.mp4"
-   }
-  ],
   "2026-11-13": [
    {
     "hora": "12:06",
@@ -24751,6 +24786,14 @@
     "legenda": "Manda pra quem tá precisando disso 👇\n😎💎 Até 57% OFF em marca boa: os 5 achados do Papa hoje\n\nOfertas todo dia no Telegram: papagarimpouofertas 💎\n\nPubli · link de afiliado",
     "url": "https://raw.githubusercontent.com/felipenery99-alt/papa-garimpou-robo/tiktok-midia/20261119-2033-tiktok.mp4"
    }
+  ],
+  "2026-11-20": [
+   {
+    "hora": "12:05",
+    "capa": "ate_off",
+    "legenda": "Manda pra quem tá precisando disso 👇\n😎💎 Até 44% OFF em marca boa: os 5 achados do Papa hoje\n\nOfertas todo dia no Telegram: papagarimpouofertas 💎\nE os achados do dia no Insta: @papa.garimpou 👀\n\nPubli · link de afiliado",
+    "url": "https://raw.githubusercontent.com/felipenery99-alt/papa-garimpou-robo/tiktok-midia/20261120-1205-tiktok.mp4"
+   }
   ]
  },
  "amz_visto": {},
@@ -24768,8 +24811,8 @@
    "feed": 3
   },
   "2026-11-20": {
-   "story": 8,
-   "feed": 0
+   "story": 9,
+   "feed": 1
   }
  },
  "ig_conta_ok": "2026-11-20",
