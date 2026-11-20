@@ -22126,7 +22126,12 @@
   "2026-11-20 18:05 a_ou_b",
   "2026-11-20 18:09 story_oferta",
   "2026-11-20 feed",
-  "2026-11-20 18:30 reels"
+  "2026-11-20 18:30 reels",
+  "2026-11-20 18:42 story_oferta",
+  "2026-11-20 gta story 2",
+  "2026-11-20 feed",
+  "2026-11-20 19:15 post_achado",
+  "2026-11-20 19:17 story_oferta"
  ],
  "ig_ofertas_usadas": [
   "amz-B08R8246HC",
@@ -22457,12 +22462,15 @@
   "dc-fone-bateria": "2026-11-20",
   "bf-2026-11-20": "2026-11-20",
   "dc-air-fryer-litros": "2026-11-20",
-  "hu-sexta": "2026-11-20"
+  "hu-sexta": "2026-11-20",
+  "dc-tv-sofa": "2026-11-20",
+  "cv-academia": "2026-11-20",
+  "dc-cancelar-cedo": "2026-11-20"
  },
  "pecas_dia": {
-  "2026-11-20": 4
+  "2026-11-20": 6
  },
- "ultimo_pilar": "humor",
+ "ultimo_pilar": "dica",
  "fila": [],
  "menus_fixados": [
   "v1 @papagarimpou",
@@ -22476,8 +22484,7 @@
   "v2 @papagarimpoutech"
  ],
  "feed_dia": {
-  "2026-11-15": 2,
-  "2026-11-16": 1
+  "2026-11-20": 1
  },
  "postados_nome": {
   "escovasecadormodeladorataiffovaleasypinkoriginal": "2026-11-18T13:49:35.968741-03:00",
@@ -24482,9 +24489,6 @@
   "acesso_vence": "-"
  },
  "avisos_parado": [
-  "2026-11-06 tarde marcas",
-  "2026-11-06 tarde tech",
-  "2026-11-06 noite achadinhos",
   "2026-11-06 noite tech",
   "2026-11-06 noite marcas",
   "2026-11-07 manhã tech",
@@ -24511,16 +24515,19 @@
   "2026-11-19 tarde tech",
   "2026-11-20 tarde achadinhos",
   "2026-11-20 tarde marcas",
-  "2026-11-20 tarde tech"
+  "2026-11-20 tarde tech",
+  "2026-11-20 noite achadinhos",
+  "2026-11-20 noite marcas",
+  "2026-11-20 noite tech"
  ],
- "reserva_meio": "2026-11-20T18:32:05.878352-03:00",
+ "reserva_meio": "2026-11-20T19:22:34.021200-03:00",
  "reserva_cheia": {
-  "achadinhos": "2026-11-20T18:00:27.153405-03:00",
-  "tech": "2026-11-20T18:00:27.153405-03:00",
+  "achadinhos": "2026-11-20T19:06:47.169130-03:00",
+  "tech": "2026-11-20T19:06:47.169130-03:00",
   "marcas": "2026-11-20T18:32:05.878352-03:00"
  },
  "top10_dia": "2026-11-14",
- "manuais_lidos": "2026-11-20T18:32:05.878352-03:00",
+ "manuais_lidos": "2026-11-20T19:20:46.390909-03:00",
  "reserva_resultado": {
   "2026-11-07": {
    "achadinhos": {
@@ -24830,7 +24837,7 @@
    "hora": "2026-11-20T18:30:12.713496-03:00"
   }
  },
- "ig_respondido_em": "2026-11-20T18:30:12.713496-03:00",
+ "ig_respondido_em": "2026-11-20T19:20:46.390909-03:00",
  "dm_auto": {
   "2026-11-13": {
    "com_palavra": 0,
@@ -25084,8 +25091,8 @@
    "feed": 3
   },
   "2026-11-20": {
-   "story": 24,
-   "feed": 2
+   "story": 27,
+   "feed": 3
   }
  },
  "ig_conta_ok": "2026-11-20",
@@ -25160,6 +25167,7 @@
  "gta_fixado": 538,
  "ig_gta_stories": [
   "shopee-40084160591",
-  "shopee-58261870157"
+  "shopee-58261870157",
+  "shopee-57516793403"
  ]
 }
