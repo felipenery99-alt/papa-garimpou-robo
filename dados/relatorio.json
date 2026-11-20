@@ -3873,22 +3873,22 @@
  },
  "2026-11-20": {
   "erros": [],
-  "ultima_execucao": "04:31",
-  "execucoes": 4,
+  "ultima_execucao": "08:17",
+  "execucoes": 5,
   "telegram_posts": {
-   "achadinhos": 0,
-   "marcas": 0,
-   "tech": 0
+   "achadinhos": 4,
+   "marcas": 2,
+   "tech": 1
   },
   "ultimo_post": {
-   "achadinhos": null,
-   "marcas": null,
-   "tech": null
+   "achadinhos": "08:55",
+   "marcas": "09:02",
+   "tech": "08:48"
   },
   "games": {
-   "posts": 0,
-   "amazon": 0,
-   "tech": 0
+   "posts": 1,
+   "amazon": 1,
+   "tech": 1
   },
   "meta_token": {
    "tipo": "SYSTEM_USER",
@@ -3921,7 +3921,11 @@
    "tech": 7,
    "geral": 5
   },
-  "instagram_feito": [],
+  "instagram_feito": [
+   "08:07 story_oferta",
+   "08:45 story_oferta",
+   "08:52 story_oferta"
+  ],
   "shopee_ligada": true,
   "dm_auto": {
    "com_palavra": 0,
@@ -5050,7 +5054,7 @@
    "shopee-58265421507": "vendas longe",
    "shopee-50317727388": "nota",
    "shopee-22095398095": "nota",
-   "shopee-46167757324": "nota",
+   "shopee-46167757324": "vendas longe",
    "shopee-55617732154": "nota",
    "shopee-58221007654": "nota",
    "shopee-47819929278": "nota",
@@ -6868,14 +6872,20 @@
    "shopee-58220444287": "vendas longe",
    "shopee-58220452271": "vendas longe",
    "shopee-58268872616": "nota",
-   "shopee-58219495312": "vendas longe"
+   "shopee-58219495312": "vendas longe",
+   "shopee-40873387489": "desconto longe",
+   "shopee-57061308811": "nota",
+   "shopee-58222978052": "nota",
+   "shopee-58219552537": "nota",
+   "shopee-55218936776": "nota",
+   "shopee-42135014258": "nota"
   },
   "shopee_oficial": {
-   "vendas longe": 1498,
-   "nota": 1047,
+   "vendas longe": 1499,
+   "nota": 1051,
    "vendas perto (125+)": 115,
    "outro: marca fora da lista boa": 77,
-   "desconto longe": 73,
+   "desconto longe": 74,
    "aprovada": 65,
    "desconto perto (até 10 pts)": 28,
    "outro: palavra proibida: compatível": 18
@@ -6962,21 +6972,27 @@
    "amz-B0G21TBYDG": "ja_postado_30d",
    "amz-B0DP5N9HS6": "ja_postado_30d",
    "amz-B09GSRYL69": "ja_postado_30d",
-   "amz-B0DDQJ7GJQ": "ja_postado_30d"
+   "amz-B0DDQJ7GJQ": "ja_postado_30d",
+   "amz-B09SVQTDJB": "ja_postado_30d",
+   "amz-B076HXTSTL": "ja_postado_30d",
+   "amz-B0BL13KLRW": "ja_postado_30d",
+   "amz-B09HXWRWB4": "ja_postado_30d",
+   "amz-B07BB3PYD8": "ja_postado_30d",
+   "amz-B0FR9V63M6": "ja_postado_30d"
   },
   "manuais_descartados": {
-   "ja_postado_30d": 82
+   "ja_postado_30d": 88
   },
   "instagram": {
    "seguidores": 512,
    "posts": 137,
-   "reach": 34,
-   "profile_views": 16,
+   "reach": 18,
+   "profile_views": 5,
    "website_clicks": 0,
    "stories_ativos": 25
   },
   "reels_alcance": {
-   "atualizado": "2026-11-20T04:31:49.302370-03:00",
+   "atualizado": "2026-11-20T08:17:24.426525-03:00",
    "itens": [
     {
      "id": "18084047555366923",
@@ -7022,6 +7038,13 @@
     }
    },
    "campeao": null
+  },
+  "reserva_resultado": {
+   "achadinhos": {
+    "busca": 0,
+    "quase": 0,
+    "reprise": 0
+   }
   }
  }
 }

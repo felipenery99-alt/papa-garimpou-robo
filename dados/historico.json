@@ -1865,7 +1865,14 @@
   "2026-11-19 achadinhos 21:32 amz-B0G21TBYDG",
   "2026-11-19 marcas 21:39 amz-B0DDQJ7GJQ",
   "2026-11-19 achadinhos 21:46 amz-B0DP5N9HS6",
-  "2026-11-19 achadinhos 21:54 amz-B09GSRYL69"
+  "2026-11-19 achadinhos 21:54 amz-B09GSRYL69",
+  "2026-11-20 achadinhos 08:17 amz-B09SVQTDJB",
+  "2026-11-20 achadinhos 08:25 amz-B076HXTSTL",
+  "2026-11-20 achadinhos 08:34 amz-B09HXWRWB4",
+  "2026-11-20 marcas 08:40 amz-B0BL13KLRW",
+  "2026-11-20 tech 08:48 amz-B07BB3PYD8",
+  "2026-11-20 achadinhos 08:55 amz-B0FR9V63M6",
+  "2026-11-20 marcas 09:02 amz-B0CDQHSFJS"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -3593,7 +3600,14 @@
   "amz-B0G21TBYDG": "2026-11-19T21:32:02.327572-03:00",
   "amz-B0DDQJ7GJQ": "2026-11-19T21:39:57.487026-03:00",
   "amz-B0DP5N9HS6": "2026-11-19T21:46:36.956931-03:00",
-  "amz-B09GSRYL69": "2026-11-19T21:54:03.878272-03:00"
+  "amz-B09GSRYL69": "2026-11-19T21:54:03.878272-03:00",
+  "amz-B09SVQTDJB": "2026-11-20T08:17:24.439368-03:00",
+  "amz-B076HXTSTL": "2026-11-20T08:25:09.119718-03:00",
+  "amz-B09HXWRWB4": "2026-11-20T08:34:36.809400-03:00",
+  "amz-B0BL13KLRW": "2026-11-20T08:40:44.415288-03:00",
+  "amz-B07BB3PYD8": "2026-11-20T08:48:13.390302-03:00",
+  "amz-B0FR9V63M6": "2026-11-20T08:55:22.282217-03:00",
+  "amz-B0CDQHSFJS": "2026-11-20T09:02:16.394897-03:00"
  },
  "ofertas_dia": [
   {
@@ -21135,6 +21149,127 @@
    "preco_em": "2026-11-19T17:50:00-03:00",
    "entrou": "2026-11-19T18:02:59.575836-03:00",
    "dia": "2026-11-19"
+  },
+  {
+   "id": "amz-B09SVQTDJB",
+   "canal": "achadinhos",
+   "nome": "Cafeteira Elétrica Electrolux Inox Filtro Permanente",
+   "preco_antigo": 209.0,
+   "preco": 129.0,
+   "desconto": 38,
+   "link": "https://www.amazon.com.br/dp/B09SVQTDJB?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/41QniS6pVmL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-20T22:00:00-03:00",
+   "coletado_em": "2026-11-19T17:50:00-03:00",
+   "preco_em": "2026-11-19T17:50:00-03:00",
+   "entrou": "2026-11-20T04:31:49.302370-03:00",
+   "dia": "2026-11-20"
+  },
+  {
+   "id": "amz-B076HXTSTL",
+   "canal": "achadinhos",
+   "nome": "Sanduicheira Britânia Bello Pane",
+   "preco_antigo": 145.37,
+   "preco": 61.51,
+   "desconto": 58,
+   "link": "https://www.amazon.com.br/dp/B076HXTSTL?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51Xa9j61OqL._AC_SL1200_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-20T22:00:00-03:00",
+   "coletado_em": "2026-11-19T17:50:00-03:00",
+   "preco_em": "2026-11-19T17:50:00-03:00",
+   "entrou": "2026-11-20T04:31:49.302370-03:00",
+   "dia": "2026-11-20"
+  },
+  {
+   "id": "amz-B09HXWRWB4",
+   "canal": "achadinhos",
+   "nome": "Lâmpada Smart LED Tramontina E27 10W Wi-Fi + Bluetooth",
+   "preco_antigo": 49.9,
+   "preco": 23.9,
+   "desconto": 52,
+   "link": "https://www.amazon.com.br/dp/B09HXWRWB4?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71XrlaQ3ScL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-20T22:00:00-03:00",
+   "coletado_em": "2026-11-19T17:50:00-03:00",
+   "preco_em": "2026-11-19T17:50:00-03:00",
+   "entrou": "2026-11-20T08:34:30.724190-03:00",
+   "dia": "2026-11-20"
+  },
+  {
+   "id": "amz-B0BL13KLRW",
+   "canal": "marcas",
+   "nome": "Kit 2 Cuecas Calvin Klein Trunk C11.02",
+   "preco_antigo": 171.8,
+   "preco": 89.99,
+   "desconto": 48,
+   "link": "https://www.amazon.com.br/dp/B0BL13KLRW?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61LMKGrF-kL._AC_SL1200_.jpg",
+   "loja": "Vendido por parceiro · entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-20T22:00:00-03:00",
+   "coletado_em": "2026-11-19T17:50:00-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "preco_em": "2026-11-19T17:50:00-03:00",
+   "entrou": "2026-11-20T08:17:24.426525-03:00",
+   "dia": "2026-11-20"
+  },
+  {
+   "id": "amz-B07BB3PYD8",
+   "canal": "tech",
+   "nome": "Headset Gamer HyperX Cloud Stinger Core PS4/Xbox One/Nintendo Switch",
+   "preco_antigo": 249.9,
+   "preco": 165.52,
+   "desconto": 34,
+   "link": "https://www.amazon.com.br/dp/B07BB3PYD8?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71lTdPhs0YL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-20T22:00:00-03:00",
+   "coletado_em": "2026-11-19T17:50:00-03:00",
+   "preco_em": "2026-11-19T17:50:00-03:00",
+   "entrou": "2026-11-20T08:34:30.724190-03:00",
+   "dia": "2026-11-20"
+  },
+  {
+   "id": "amz-B0FR9V63M6",
+   "canal": "achadinhos",
+   "nome": "Aparador e Barbeador Philips Série 5000 All-in-One 13 em 1",
+   "preco_antigo": 569.9,
+   "preco": 329.0,
+   "desconto": 42,
+   "link": "https://www.amazon.com.br/dp/B0FR9V63M6?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71r01i7ZH6L._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-20T22:00:00-03:00",
+   "coletado_em": "2026-11-19T17:50:00-03:00",
+   "preco_em": "2026-11-19T17:50:00-03:00",
+   "entrou": "2026-11-20T08:34:30.724190-03:00",
+   "dia": "2026-11-20"
+  },
+  {
+   "id": "amz-B0CDQHSFJS",
+   "canal": "marcas",
+   "nome": "Chuteira Mizuno Morelia Club",
+   "preco_antigo": 399.99,
+   "preco": 197.14,
+   "desconto": 51,
+   "link": "https://www.amazon.com.br/dp/B0CDQHSFJS?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51fhiF324yL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-20T22:00:00-03:00",
+   "coletado_em": "2026-11-19T17:50:00-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "preco_em": "2026-11-19T17:50:00-03:00",
+   "entrou": "2026-11-20T08:34:30.724190-03:00",
+   "dia": "2026-11-20"
   }
  ],
  "ig_feitos": [
@@ -21278,7 +21413,10 @@
   "2026-11-19 20:35 story_top4",
   "2026-11-19 20:38 story_oferta",
   "2026-11-19 21:20 story_convite",
-  "2026-11-19 21:24 story_oferta"
+  "2026-11-19 21:24 story_oferta",
+  "2026-11-20 08:07 story_oferta",
+  "2026-11-20 08:45 story_oferta",
+  "2026-11-20 08:52 story_oferta"
  ],
  "ig_ofertas_usadas": [
   "shopee-18216465769",
@@ -21605,94 +21743,16 @@
   "ac-perfume-barato": "2026-11-18",
   "dc-ficha-tecnica": "2026-11-18",
   "ac-app-cupom": "2026-11-18",
-  "bf-2026-11-19": "2026-11-19"
+  "bf-2026-11-19": "2026-11-19",
+  "dc-fone-bateria": "2026-11-20",
+  "bf-2026-11-20": "2026-11-20",
+  "dc-air-fryer-litros": "2026-11-20"
  },
  "pecas_dia": {
-  "2026-11-19": 1
+  "2026-11-20": 3
  },
- "ultimo_pilar": "blackfriday",
+ "ultimo_pilar": "dica",
  "fila": [
-  {
-   "id": "amz-B0BL13KLRW",
-   "canal": "marcas",
-   "nome": "Kit 2 Cuecas Calvin Klein Trunk C11.02",
-   "preco_antigo": 171.8,
-   "preco": 89.99,
-   "desconto": 48,
-   "link": "https://www.amazon.com.br/dp/B0BL13KLRW?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61LMKGrF-kL._AC_SL1200_.jpg",
-   "loja": "Vendido por parceiro · entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-20T22:00:00-03:00",
-   "coletado_em": "2026-11-19T17:50:00-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "preco_em": "2026-11-19T17:50:00-03:00",
-   "entrou": "2026-11-20T01:26:15.538156-03:00"
-  },
-  {
-   "id": "amz-B09SVQTDJB",
-   "canal": "achadinhos",
-   "nome": "Cafeteira Elétrica Electrolux Inox Filtro Permanente",
-   "preco_antigo": 209.0,
-   "preco": 129.0,
-   "desconto": 38,
-   "link": "https://www.amazon.com.br/dp/B09SVQTDJB?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/41QniS6pVmL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-20T22:00:00-03:00",
-   "coletado_em": "2026-11-19T17:50:00-03:00",
-   "preco_em": "2026-11-19T17:50:00-03:00",
-   "entrou": "2026-11-20T04:31:49.302370-03:00"
-  },
-  {
-   "id": "amz-B076HXTSTL",
-   "canal": "achadinhos",
-   "nome": "Sanduicheira Britânia Bello Pane",
-   "preco_antigo": 145.37,
-   "preco": 61.51,
-   "desconto": 58,
-   "link": "https://www.amazon.com.br/dp/B076HXTSTL?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51Xa9j61OqL._AC_SL1200_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-20T22:00:00-03:00",
-   "coletado_em": "2026-11-19T17:50:00-03:00",
-   "preco_em": "2026-11-19T17:50:00-03:00",
-   "entrou": "2026-11-20T04:31:49.302370-03:00"
-  },
-  {
-   "id": "amz-B09HXWRWB4",
-   "canal": "achadinhos",
-   "nome": "Lâmpada Smart LED Tramontina E27 10W Wi-Fi + Bluetooth",
-   "preco_antigo": 49.9,
-   "preco": 23.9,
-   "desconto": 52,
-   "link": "https://www.amazon.com.br/dp/B09HXWRWB4?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/71XrlaQ3ScL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-20T22:00:00-03:00",
-   "coletado_em": "2026-11-19T17:50:00-03:00",
-   "preco_em": "2026-11-19T17:50:00-03:00",
-   "entrou": "2026-11-20T04:31:49.302370-03:00"
-  },
-  {
-   "id": "amz-B0FR9V63M6",
-   "canal": "achadinhos",
-   "nome": "Aparador e Barbeador Philips Série 5000 All-in-One 13 em 1",
-   "preco_antigo": 569.9,
-   "preco": 329.0,
-   "desconto": 42,
-   "link": "https://www.amazon.com.br/dp/B0FR9V63M6?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/71r01i7ZH6L._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-20T22:00:00-03:00",
-   "coletado_em": "2026-11-19T17:50:00-03:00",
-   "preco_em": "2026-11-19T17:50:00-03:00",
-   "entrou": "2026-11-20T04:31:49.302370-03:00"
-  },
   {
    "id": "amz-B07B63NTRZ",
    "canal": "achadinhos",
@@ -21707,24 +21767,7 @@
    "valida_ate": "2026-11-20T22:00:00-03:00",
    "coletado_em": "2026-11-19T17:50:00-03:00",
    "preco_em": "2026-11-19T17:50:00-03:00",
-   "entrou": "2026-11-20T04:31:49.302370-03:00"
-  },
-  {
-   "id": "amz-B0CDQHSFJS",
-   "canal": "marcas",
-   "nome": "Chuteira Mizuno Morelia Club",
-   "preco_antigo": 399.99,
-   "preco": 197.14,
-   "desconto": 51,
-   "link": "https://www.amazon.com.br/dp/B0CDQHSFJS?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51fhiF324yL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-20T22:00:00-03:00",
-   "coletado_em": "2026-11-19T17:50:00-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "preco_em": "2026-11-19T17:50:00-03:00",
-   "entrou": "2026-11-20T04:31:49.302370-03:00"
+   "entrou": "2026-11-20T08:34:30.724190-03:00"
   },
   {
    "id": "amz-B0FFTQ14WY",
@@ -21741,23 +21784,7 @@
    "coletado_em": "2026-11-19T17:50:00-03:00",
    "extra": "Preço a partir de: varia por tamanho e cor",
    "preco_em": "2026-11-19T17:50:00-03:00",
-   "entrou": "2026-11-20T04:31:49.302370-03:00"
-  },
-  {
-   "id": "amz-B07BB3PYD8",
-   "canal": "tech",
-   "nome": "Headset Gamer HyperX Cloud Stinger Core PS4/Xbox One/Nintendo Switch",
-   "preco_antigo": 249.9,
-   "preco": 165.52,
-   "desconto": 34,
-   "link": "https://www.amazon.com.br/dp/B07BB3PYD8?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/71lTdPhs0YL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-20T22:00:00-03:00",
-   "coletado_em": "2026-11-19T17:50:00-03:00",
-   "preco_em": "2026-11-19T17:50:00-03:00",
-   "entrou": "2026-11-20T04:31:49.302370-03:00"
+   "entrou": "2026-11-20T08:34:30.724190-03:00"
   },
   {
    "id": "amz-B017RD10X8",
@@ -21773,7 +21800,7 @@
    "valida_ate": "2026-11-20T22:00:00-03:00",
    "coletado_em": "2026-11-19T17:50:00-03:00",
    "preco_em": "2026-11-19T17:50:00-03:00",
-   "entrou": "2026-11-20T04:31:49.302370-03:00"
+   "entrou": "2026-11-20T08:34:30.724190-03:00"
   },
   {
    "id": "amz-B0B8JP1HLR",
@@ -21789,7 +21816,7 @@
    "valida_ate": "2026-11-20T22:00:00-03:00",
    "coletado_em": "2026-11-19T17:50:00-03:00",
    "preco_em": "2026-11-19T17:50:00-03:00",
-   "entrou": "2026-11-20T04:31:49.302370-03:00"
+   "entrou": "2026-11-20T08:34:30.724190-03:00"
   },
   {
    "id": "amz-B0B9PHQWPH",
@@ -21805,7 +21832,7 @@
    "valida_ate": "2026-11-20T22:00:00-03:00",
    "coletado_em": "2026-11-19T17:50:00-03:00",
    "preco_em": "2026-11-19T17:50:00-03:00",
-   "entrou": "2026-11-20T04:31:49.302370-03:00"
+   "entrou": "2026-11-20T08:34:30.724190-03:00"
   },
   {
    "id": "amz-B08QTLJDD2",
@@ -21821,7 +21848,7 @@
    "valida_ate": "2026-11-20T22:00:00-03:00",
    "coletado_em": "2026-11-19T17:50:00-03:00",
    "preco_em": "2026-11-19T17:50:00-03:00",
-   "entrou": "2026-11-20T04:31:49.302370-03:00"
+   "entrou": "2026-11-20T08:34:30.724190-03:00"
   },
   {
    "id": "amz-B098JK6G5N",
@@ -21837,7 +21864,7 @@
    "valida_ate": "2026-11-20T22:00:00-03:00",
    "coletado_em": "2026-11-19T17:50:00-03:00",
    "preco_em": "2026-11-19T17:50:00-03:00",
-   "entrou": "2026-11-20T04:31:49.302370-03:00"
+   "entrou": "2026-11-20T08:34:30.724190-03:00"
   },
   {
    "id": "amz-B0CFPL6CFY",
@@ -21853,7 +21880,7 @@
    "valida_ate": "2026-11-20T22:00:00-03:00",
    "coletado_em": "2026-11-19T17:50:00-03:00",
    "preco_em": "2026-11-19T17:50:00-03:00",
-   "entrou": "2026-11-20T04:31:49.302370-03:00"
+   "entrou": "2026-11-20T08:34:30.724190-03:00"
   },
   {
    "id": "amz-B0FJ32RXFV",
@@ -21869,7 +21896,7 @@
    "valida_ate": "2026-11-20T22:00:00-03:00",
    "coletado_em": "2026-11-19T17:50:00-03:00",
    "preco_em": "2026-11-19T17:50:00-03:00",
-   "entrou": "2026-11-20T04:31:49.302370-03:00"
+   "entrou": "2026-11-20T08:34:30.724190-03:00"
   },
   {
    "id": "amz-B0DXN7BPPX",
@@ -21885,7 +21912,7 @@
    "valida_ate": "2026-11-20T22:00:00-03:00",
    "coletado_em": "2026-11-19T17:50:00-03:00",
    "preco_em": "2026-11-19T17:50:00-03:00",
-   "entrou": "2026-11-20T04:31:49.302370-03:00"
+   "entrou": "2026-11-20T08:34:30.724190-03:00"
   },
   {
    "id": "amz-B0DYC2GV1Z",
@@ -21901,7 +21928,7 @@
    "valida_ate": "2026-11-20T22:00:00-03:00",
    "coletado_em": "2026-11-19T17:50:00-03:00",
    "preco_em": "2026-11-19T17:50:00-03:00",
-   "entrou": "2026-11-20T04:31:49.302370-03:00"
+   "entrou": "2026-11-20T08:34:30.724190-03:00"
   },
   {
    "id": "amz-B08RX3343D",
@@ -21917,58 +21944,7 @@
    "valida_ate": "2026-11-20T22:00:00-03:00",
    "coletado_em": "2026-11-19T17:50:00-03:00",
    "preco_em": "2026-11-19T17:50:00-03:00",
-   "entrou": "2026-11-20T04:31:49.302370-03:00"
-  },
-  {
-   "id": "shopee-18716453608",
-   "plataforma": "Shopee",
-   "nome": "Kit De 6 Pares Meias Lupo Infantil Cano Médio Em Algodão Tamanho 24 ao 35",
-   "loja": "Deccó",
-   "loja_oficial": true,
-   "preco": 42.75,
-   "preco_antigo": 85.5,
-   "desconto": 50,
-   "vendas": 482,
-   "nota": 4.9,
-   "comissao_pct": 10.0,
-   "imagem": "https://cf.shopee.com.br/file/br-11134207-820mf-mv3i1326ddky27",
-   "link": "https://s.shopee.com.br/4fxtpPPVJb",
-   "canal": "marcas",
-   "entrou": "2026-11-20T04:31:49.302370-03:00"
-  },
-  {
-   "id": "shopee-21316811936",
-   "plataforma": "Shopee",
-   "nome": "Kit De 4 Cuecas Originais Lupo Basic Boxer Box Microfibra Sem Costura",
-   "loja": "Deccó",
-   "loja_oficial": true,
-   "preco": 101.78,
-   "preco_antigo": 181.75,
-   "desconto": 44,
-   "vendas": 656,
-   "nota": 4.9,
-   "comissao_pct": 7.0,
-   "imagem": "https://cf.shopee.com.br/file/br-11134207-820li-mukqo93lk3k3af",
-   "link": "https://s.shopee.com.br/8pnSmothai",
-   "canal": "marcas",
-   "entrou": "2026-11-20T04:31:49.302370-03:00"
-  },
-  {
-   "id": "shopee-58261870157",
-   "plataforma": "Shopee",
-   "nome": "GameSir G7 SE Wired Controller for Xbox One, Series S/X PC with Hall Effect Membrane Buttons Paddles",
-   "loja": "NovaPeak Brand Oficial",
-   "loja_oficial": true,
-   "preco": 299.0,
-   "preco_antigo": 460.0,
-   "desconto": 35,
-   "vendas": 631,
-   "nota": 5.0,
-   "comissao_pct": 7.0,
-   "imagem": "https://cf.shopee.com.br/file/br-11134207-820mc-mq34da0sesjme7",
-   "link": "https://s.shopee.com.br/1C5XKLvpH",
-   "canal": "tech",
-   "entrou": "2026-11-20T04:31:49.302370-03:00"
+   "entrou": "2026-11-20T08:34:30.724190-03:00"
   }
  ],
  "menus_fixados": [
@@ -22754,7 +22730,7 @@
   "tecladomecanicoredragondarkavenger": "2026-11-11T11:17:41.197337-03:00",
   "cafeteiranescafedolcegustogenioarno": "2026-11-11T11:23:29.313221-03:00",
   "airfryerwapbarbecueheatdigital": "2026-11-11T11:29:36.723784-03:00",
-  "chuteiramizunomoreliaclub": "2026-11-11T11:36:47.376445-03:00",
+  "chuteiramizunomoreliaclub": "2026-11-20T09:02:16.394897-03:00",
   "mortalkombat1playstation5": "2026-11-11T11:43:52.429931-03:00",
   "sanduicheiramondialfastgrill": "2026-11-11T11:51:24.159401-03:00",
   "kit4cuecasboxerluposemcostura": "2026-11-11T11:58:58.415821-03:00",
@@ -23537,7 +23513,13 @@
   "barbeadoreletricophilipsshaverserie7000skiniq": "2026-11-19T21:32:02.327572-03:00",
   "tenisasicsjapansbrancoepreto": "2026-11-19T21:39:57.487026-03:00",
   "furadeiraphilco850wmandril13mmpfu04127v": "2026-11-19T21:46:36.956931-03:00",
-  "shampoolorealprofessionnelsilver": "2026-11-19T21:54:03.878272-03:00"
+  "shampoolorealprofessionnelsilver": "2026-11-19T21:54:03.878272-03:00",
+  "cafeteiraeletricaelectroluxinoxfiltropermanente": "2026-11-20T08:17:24.439368-03:00",
+  "sanduicheirabritaniabellopane": "2026-11-20T08:25:09.119718-03:00",
+  "lampadasmartledtramontinae2710wwifibluetooth": "2026-11-20T08:34:36.809400-03:00",
+  "kit2cuecascalvinkleintrunkc1102": "2026-11-20T08:40:44.415288-03:00",
+  "headsetgamerhyperxcloudstingercoreps4xboxonenintendoswitch": "2026-11-20T08:48:13.390302-03:00",
+  "aparadorebarbeadorphilipsserie5000allinone13em1": "2026-11-20T08:55:22.282217-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
@@ -23990,7 +23972,7 @@
   "marcas": "2026-11-19T17:28:44.035506-03:00"
  },
  "top10_dia": "2026-11-14",
- "manuais_lidos": "2026-11-20T04:45:10.378120-03:00",
+ "manuais_lidos": "2026-11-20T09:02:15.983951-03:00",
  "reserva_resultado": {
   "2026-11-07": {
    "achadinhos": {
@@ -24207,6 +24189,13 @@
     "quase": 9,
     "reprise": 4
    }
+  },
+  "2026-11-20": {
+   "achadinhos": {
+    "busca": 0,
+    "quase": 0,
+    "reprise": 0
+   }
   }
  },
  "ig_reels_log": {
@@ -24279,7 +24268,7 @@
    "hora": "2026-11-19T18:35:22.821634-03:00"
   }
  },
- "ig_respondido_em": "2026-11-20T04:45:10.378120-03:00",
+ "ig_respondido_em": "2026-11-20T08:55:05.918395-03:00",
  "dm_auto": {
   "2026-11-13": {
    "com_palavra": 0,
@@ -24533,7 +24522,7 @@
    "feed": 3
   },
   "2026-11-20": {
-   "story": 0,
+   "story": 3,
    "feed": 0
   }
  },
