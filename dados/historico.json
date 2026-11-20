@@ -21613,23 +21613,6 @@
  "ultimo_pilar": "blackfriday",
  "fila": [
   {
-   "id": "amz-B0BL13KLRW",
-   "canal": "marcas",
-   "nome": "Kit 2 Cuecas Calvin Klein Trunk C11.02",
-   "preco_antigo": 171.8,
-   "preco": 89.99,
-   "desconto": 48,
-   "link": "https://www.amazon.com.br/dp/B0BL13KLRW?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61LMKGrF-kL._AC_SL1200_.jpg",
-   "loja": "Vendido por parceiro · entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-20T22:00:00-03:00",
-   "coletado_em": "2026-11-19T17:50:00-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "preco_em": "2026-11-19T17:50:00-03:00",
-   "entrou": "2026-11-19T21:24:30.017865-03:00"
-  },
-  {
    "id": "amz-B09SVQTDJB",
    "canal": "achadinhos",
    "nome": "Cafeteira Elétrica Electrolux Inox Filtro Permanente",
@@ -21969,6 +21952,23 @@
    "link": "https://s.shopee.com.br/8pnSmothai",
    "canal": "marcas",
    "entrou": "2026-11-20T00:14:33.491042-03:00"
+  },
+  {
+   "id": "amz-B0BL13KLRW",
+   "canal": "marcas",
+   "nome": "Kit 2 Cuecas Calvin Klein Trunk C11.02",
+   "preco_antigo": 171.8,
+   "preco": 89.99,
+   "desconto": 48,
+   "link": "https://www.amazon.com.br/dp/B0BL13KLRW?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61LMKGrF-kL._AC_SL1200_.jpg",
+   "loja": "Vendido por parceiro · entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-20T22:00:00-03:00",
+   "coletado_em": "2026-11-19T17:50:00-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "preco_em": "2026-11-19T17:50:00-03:00",
+   "entrou": "2026-11-20T01:26:15.538156-03:00"
   }
  ],
  "menus_fixados": [
@@ -23990,7 +23990,7 @@
   "marcas": "2026-11-19T17:28:44.035506-03:00"
  },
  "top10_dia": "2026-11-14",
- "manuais_lidos": "2026-11-20T01:09:56.117228-03:00",
+ "manuais_lidos": "2026-11-20T01:26:15.538156-03:00",
  "reserva_resultado": {
   "2026-11-07": {
    "achadinhos": {
@@ -24279,7 +24279,7 @@
    "hora": "2026-11-19T18:35:22.821634-03:00"
   }
  },
- "ig_respondido_em": "2026-11-20T01:09:56.117228-03:00",
+ "ig_respondido_em": "2026-11-20T01:26:15.538156-03:00",
  "dm_auto": {
   "2026-11-13": {
    "com_palavra": 0,
