@@ -199,7 +199,7 @@ def _segurar(texto: str) -> bool:
         v["enviado"] = agora.isoformat()
     try:
         ALERTAS.parent.mkdir(exist_ok=True)
-        ALERTAS.write_text(json.dumps(vistos, ensure_ascii=False, indent=1), encoding="utf-8")
+        ALERTAS.write_text(limpar_segredos(json.dumps(vistos, ensure_ascii=False, indent=1)), encoding="utf-8")
     except Exception:
         pass
     return segura
@@ -226,7 +226,8 @@ def _para_central(texto: str) -> None:
     v.update(ultimo=agora.isoformat(timespec="minutes"), texto=texto[:500], vezes=v["vezes"] + 1)
     try:
         ALERTAS_CENTRAL.parent.mkdir(exist_ok=True)
-        ALERTAS_CENTRAL.write_text(json.dumps(lista, ensure_ascii=False, indent=1), encoding="utf-8")
+        # 20/11: limpa o arquivo inteiro (não só o aviso novo): uma execução antiga regravou o token de 18/11.
+        ALERTAS_CENTRAL.write_text(limpar_segredos(json.dumps(lista, ensure_ascii=False, indent=1)), encoding="utf-8")
     except Exception as e:
         print(f"[ALERTA] não gravei alertas-central.json: {e}")
 
@@ -247,7 +248,7 @@ def _ja_avisou_24h(texto: str) -> bool:
     vistos[assin] = {"primeiro": agora.isoformat(), "ultimo": agora.isoformat(), "enviado": agora.isoformat()}
     try:
         ALERTAS.parent.mkdir(exist_ok=True)
-        ALERTAS.write_text(json.dumps(vistos, ensure_ascii=False, indent=1), encoding="utf-8")
+        ALERTAS.write_text(limpar_segredos(json.dumps(vistos, ensure_ascii=False, indent=1)), encoding="utf-8")
     except Exception:
         pass
     return False

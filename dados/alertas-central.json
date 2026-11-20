@@ -111,7 +111,7 @@
   "primeiro": "2026-11-18T17:43+00:00",
   "vezes": 1,
   "ultimo": "2026-11-18T17:43+00:00",
-  "texto": "erro em 2026-11-18 marcas 14:43 amz-B0GTR9N84L (envio ao Telegram): HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot8405810184:AAGXrdPpTxxaVAUClbMix_JMGwqgq8vhwwA/sendPhoto (Caused by NewConnectionError(\"HTTPSConnection(host='api.telegram.org', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable\")). Não postei."
+  "texto": "erro em 2026-11-18 marcas 14:43 amz-B0GTR9N84L (envio ao Telegram): HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot***/sendPhoto (Caused by NewConnectionError(\"HTTPSConnection(host='api.telegram.org', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable\")). Não postei."
  },
  "⚠️ Fila vazia (tech), último garimpo #:# — abrir o app Claude e conferir as roti": {
   "primeiro": "2026-11-18T18:21+00:00",

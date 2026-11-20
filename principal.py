@@ -1057,7 +1057,10 @@ def soltar_fila(h: dict, telegram, limite: datetime, atraso: bool = True) -> int
 # "link no perfil" (TikTok não tem link clicável na legenda). O vídeo fica no ramo de mídia do dia; o PC baixa
 # com baixar_tiktok.py para posts\tiktok\AAAAMMDD e a PG · Instagram publica pelo Chrome M.
 # 11/11 (PG · TikTok): a bio do TikTok não tem link → fecho com o @ do Telegram para buscar
-TIKTOK_FECHO = "\n\nOfertas todo dia no Telegram: papagarimpouofertas 💎\n\nPubli · link de afiliado"
+# 20/11 (CEO): alcance do Instagram caiu para ~30/dia desde 16/11; o TikTok (4 vídeos/dia) é a vitrine que ainda
+# alcança gente nova e não citava o Instagram. Fecho passa a chamar para os dois (sem hashtag, publi mantido).
+TIKTOK_FECHO = ("\n\nOfertas todo dia no Telegram: papagarimpouofertas 💎"
+                "\nE os achados do dia no Insta: @papa.garimpou 👀\n\nPubli · link de afiliado")
 
 
 def legenda_tiktok(leg: str) -> str:

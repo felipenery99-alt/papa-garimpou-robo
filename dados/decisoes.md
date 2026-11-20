@@ -203,3 +203,11 @@
 - Alavanca nova: carrossel salvável ("5 melhores X de marca", QUERO → DM com links) também no **domingo** até a Black Friday (sábado 19h15 já é o Top 5 da semana); a categoria agora gira a cada salvável, sem repetir a do anterior. Voltar a só quinta em 28/11. Ensaio OK.
 - Próximo: em 20/11 conferir se nenhum erro novo traz token; em 21/11 22h fechar o teste da pasta.
 - Pedido ao dono: (1) **URGENTE: gerar token novo do bot no @BotFather (/revoke) e trocar o segredo `TELEGRAM_BOT_TOKEN` no GitHub** — o antigo ficou público no histórico; (2) rodadas de seguir/comentar todo dia (seguidores pararam); (3) PC do garimpo ligado à tarde.
+
+## 2026-11-20 (rotina do CEO)
+- Visto (19/11): 27 execuções, 25 stories ativos (piso ok), feed ok (carrossel 11:50, Reels 18:30, post 19:15). Telegram: 33 achadinhos, 20 marcas, 17 tech (caiu: fila vazia à tarde, garimpo local parado desde 18/11 13:19). Seguidores 508→512 (+4), **alcance 30, visitas 16** (caindo desde 16/11), 0 cliques. Reels 18:30 com alcance 0–3. Membros 3+6+7+5 = 21 (parado há 10 dias).
+- Erros: 🔴 **o token do bot voltou para `alertas-central.json`** — uma execução que começou antes da correção de 19/11 regravou o arquivo antigo às 02:47. Corrigido: a gravação de `alertas-central.json` e `alertas.json` agora limpa o arquivo inteiro (`limpar_segredos`), não só o aviso novo; apaguei o token de novo. `relatorio.json` está limpo. Resto: timeouts/500/502 do Telegram (lado deles).
+- META: Instagram 512 de 780 até 27/11 (**atrasado**: precisa ~38/dia, fez +4). Telegram (meta de trabalho) 21 de 60 até 27/11 (**atrasado**; pasta em teste até 21/11 22h).
+- Alavanca nova: o TikTok (4 vídeos/dia) é a vitrine que ainda chega a gente nova e não citava o Instagram. O fecho da legenda do TikTok agora chama também "os achados do dia no Insta: @papa.garimpou" (sem hashtag, publi mantido). Ensaio OK.
+- Próximo: em 21/11 conferir que nenhum arquivo de `dados/` traz token e fechar às 22h o teste da pasta.
+- Pedido ao dono: (1) **URGENTE (se ainda não fez): /revoke do token no @BotFather e trocar o segredo `TELEGRAM_BOT_TOKEN`** — ficou público de novo; (2) **ligar o garimpo do PC** (parado desde 18/11 13:19, filas vazias à tarde); (3) rodadas de seguir/comentar todo dia (alcance em ~30).
