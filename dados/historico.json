@@ -22333,11 +22333,9 @@
   "2026-11-19 gta tiktok",
   "2026-11-19 18:05 a_ou_b",
   "2026-11-19 18:09 story_oferta",
-  "2026-11-19 feed",
   "2026-11-19 18:30 reels",
   "2026-11-19 18:42 story_oferta",
   "2026-11-19 gta story 2",
-  "2026-11-19 feed",
   "2026-11-19 19:15 post_achado",
   "2026-11-19 19:17 story_oferta",
   "2026-11-19 20:03 story_oferta",
@@ -22985,6 +22983,23 @@
    "coletado_em": "2026-11-19T17:50:00-03:00",
    "preco_em": "2026-11-19T17:50:00-03:00",
    "entrou": "2026-11-19T22:12:01.005517-03:00"
+  },
+  {
+   "id": "shopee-58261870157",
+   "plataforma": "Shopee",
+   "nome": "GameSir G7 SE Wired Controller for Xbox One, Series S/X PC with Hall Effect Membrane Buttons Paddles",
+   "loja": "NovaPeak Brand Oficial",
+   "loja_oficial": true,
+   "preco": 299.0,
+   "preco_antigo": 460.0,
+   "desconto": 35,
+   "vendas": 631,
+   "nota": 5.0,
+   "comissao_pct": 7.0,
+   "imagem": "https://cf.shopee.com.br/file/br-11134207-820mc-mq34da0sesjme7",
+   "link": "https://s.shopee.com.br/1C5XKLvpH",
+   "canal": "tech",
+   "entrou": "2026-11-19T23:34:30.516816-03:00"
   }
  ],
  "menus_fixados": [
@@ -25006,7 +25021,7 @@
   "marcas": "2026-11-19T17:28:44.035506-03:00"
  },
  "top10_dia": "2026-11-14",
- "manuais_lidos": "2026-11-19T23:31:54.400575-03:00",
+ "manuais_lidos": "2026-11-19T23:50:44.395842-03:00",
  "reserva_resultado": {
   "2026-11-07": {
    "achadinhos": {
@@ -25295,7 +25310,7 @@
    "hora": "2026-11-19T18:35:22.821634-03:00"
   }
  },
- "ig_respondido_em": "2026-11-19T23:31:54.400575-03:00",
+ "ig_respondido_em": "2026-11-19T23:50:44.395842-03:00",
  "dm_auto": {
   "2026-11-12": {
    "com_palavra": 0,
