@@ -22132,7 +22132,10 @@
   "2026-11-20 feed",
   "2026-11-20 19:15 post_achado",
   "2026-11-20 19:17 story_oferta",
-  "2026-11-20 20:03 story_oferta"
+  "2026-11-20 20:03 story_oferta",
+  "2026-11-20 20:30 reels",
+  "2026-11-20 20:35 story_top4",
+  "2026-11-20 20:38 story_oferta"
  ],
  "ig_ofertas_usadas": [
   "amz-B08R8246HC",
@@ -22338,7 +22341,7 @@
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
- "ig_ultimo_reel": "2026-11-20T18:30:12.713496-03:00",
+ "ig_ultimo_reel": "2026-11-20T20:32:59.762807-03:00",
  "pecas_usadas": {
   "ac-preco-inflado": "2026-10-27",
   "dc-7-dias": "2026-10-27",
@@ -22467,12 +22470,13 @@
   "dc-tv-sofa": "2026-11-20",
   "cv-academia": "2026-11-20",
   "dc-cancelar-cedo": "2026-11-20",
-  "hu-caiu-depois": "2026-11-20"
+  "hu-caiu-depois": "2026-11-20",
+  "dc-presente-troca": "2026-11-20"
  },
  "pecas_dia": {
-  "2026-11-20": 7
+  "2026-11-20": 8
  },
- "ultimo_pilar": "humor",
+ "ultimo_pilar": "dica",
  "fila": [],
  "menus_fixados": [
   "v1 @papagarimpou",
@@ -24373,12 +24377,17 @@
    "shopee-18797677549"
   ],
   "2026-11-20": [
-   "shopee-7975402525",
-   "shopee-20816821905",
-   "shopee-22394417240",
-   "shopee-8607385860",
    "shopee-22693266079",
-   "shopee-21316811936"
+   "shopee-8607385860",
+   "shopee-54306272132",
+   "shopee-58206236149",
+   "shopee-58221428383",
+   "shopee-22394417240",
+   "shopee-21316811936",
+   "shopee-23999162333",
+   "shopee-20816821905",
+   "shopee-58261870157",
+   "shopee-7975402525"
   ]
  },
  "vendas_shopee": {},
@@ -24522,14 +24531,14 @@
   "2026-11-20 noite marcas",
   "2026-11-20 noite tech"
  ],
- "reserva_meio": "2026-11-20T19:55:46.980327-03:00",
+ "reserva_meio": "2026-11-20T20:48:12.507774-03:00",
  "reserva_cheia": {
-  "achadinhos": "2026-11-20T19:06:47.169130-03:00",
-  "tech": "2026-11-20T19:06:47.169130-03:00",
-  "marcas": "2026-11-20T19:40:31.139018-03:00"
+  "achadinhos": "2026-11-20T20:11:12.567730-03:00",
+  "tech": "2026-11-20T20:11:12.567730-03:00",
+  "marcas": "2026-11-20T20:48:12.507774-03:00"
  },
  "top10_dia": "2026-11-14",
- "manuais_lidos": "2026-11-20T20:01:21.060814-03:00",
+ "manuais_lidos": "2026-11-20T20:43:12.138921-03:00",
  "reserva_resultado": {
   "2026-11-07": {
    "achadinhos": {
@@ -24839,7 +24848,7 @@
    "hora": "2026-11-20T18:30:12.713496-03:00"
   }
  },
- "ig_respondido_em": "2026-11-20T20:03:25.959904-03:00",
+ "ig_respondido_em": "2026-11-20T20:38:51.835702-03:00",
  "dm_auto": {
   "2026-11-13": {
    "com_palavra": 0,
@@ -25075,6 +25084,12 @@
     "capa": "uma_oferta",
     "legenda": "Manda pra quem tá precisando disso 👇\n😎💎 UGREEN PD QC PPS 100W 60W USB-C Para Cabo De Carga Rápida Tipo 20V 5A USB Tipo C Para iPho\n\nOfertas todo dia no Telegram: papagarimpouofertas 💎\nE os achados do dia no Insta: @papa.garimpou 👀\n\nPubli · link de afiliado",
     "url": "https://raw.githubusercontent.com/felipenery99-alt/papa-garimpou-robo/tiktok-midia/20261120-1830-tiktok.mp4"
+   },
+   {
+    "hora": "20:32",
+    "capa": "ate_off",
+    "legenda": "Manda pra quem tá precisando disso 👇\n😎💎 Até 51% OFF em marca boa: os 5 achados do Papa hoje\n\nOfertas todo dia no Telegram: papagarimpouofertas 💎\nE os achados do dia no Insta: @papa.garimpou 👀\n\nPubli · link de afiliado",
+    "url": "https://raw.githubusercontent.com/felipenery99-alt/papa-garimpou-robo/tiktok-midia/20261120-2032-tiktok.mp4"
    }
   ]
  },
@@ -25093,7 +25108,7 @@
    "feed": 3
   },
   "2026-11-20": {
-   "story": 28,
+   "story": 30,
    "feed": 3
   }
  },
