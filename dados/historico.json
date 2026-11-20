@@ -1878,7 +1878,13 @@
   "2026-11-20 marcas 09:21 amz-B0FFTQ14WY",
   "2026-11-20 tech 09:28 amz-B017RD10X8",
   "2026-11-20 achadinhos 09:36 shopee-22091991704",
-  "2026-11-20 marcas 09:44 shopee-21316811936"
+  "2026-11-20 marcas 09:44 shopee-21316811936",
+  "2026-11-20 marcas 09:51 shopee-20816821905",
+  "2026-11-20 marcas 10:00 shopee-57657281247",
+  "2026-11-20 achadinhos 10:04 shopee-23494511696",
+  "2026-11-20 tech 10:12 amz-B0B8JP1HLR",
+  "2026-11-20 tech 10:20 amz-B0B9PHQWPH",
+  "2026-11-20 tech 10:28 amz-B08QTLJDD2"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -2907,9 +2913,9 @@
   "shopee-22091991704": "2026-11-20T09:36:41.187086-03:00",
   "shopee-48660343762": "2026-11-12T10:11:19.456142-03:00",
   "shopee-22597140327": "2026-11-19T10:41:13.387723-03:00",
-  "shopee-57657281247": "2026-11-12T10:34:28.074723-03:00",
+  "shopee-57657281247": "2026-11-20T10:00:30.457588-03:00",
   "shopee-7975402525": "2026-11-12T10:58:48.764310-03:00",
-  "shopee-23494511696": "2026-11-12T11:05:48.090022-03:00",
+  "shopee-23494511696": "2026-11-20T10:04:57.652061-03:00",
   "shopee-22394417240": "2026-11-20T09:14:48.358144-03:00",
   "amz-B0GLHRCQDJ": "2026-11-12T12:04:10.042453-03:00",
   "amz-B0CRYX4LP7": "2026-11-12T12:29:30.488657-03:00",
@@ -3616,7 +3622,11 @@
   "amz-B0CDQHSFJS": "2026-11-20T09:02:16.394897-03:00",
   "amz-B07B63NTRZ": "2026-11-20T09:12:17.461248-03:00",
   "amz-B0FFTQ14WY": "2026-11-20T09:21:20.410093-03:00",
-  "amz-B017RD10X8": "2026-11-20T09:28:52.134912-03:00"
+  "amz-B017RD10X8": "2026-11-20T09:28:52.134912-03:00",
+  "shopee-20816821905": "2026-11-20T09:51:25.570113-03:00",
+  "amz-B0B8JP1HLR": "2026-11-20T10:12:05.778961-03:00",
+  "amz-B0B9PHQWPH": "2026-11-20T10:20:48.940798-03:00",
+  "amz-B08QTLJDD2": "2026-11-20T10:28:21.686589-03:00"
  },
  "ofertas_dia": [
   {
@@ -21389,6 +21399,115 @@
    "canal": "marcas",
    "entrou": "2026-11-20T09:02:45.936986-03:00",
    "dia": "2026-11-20"
+  },
+  {
+   "id": "shopee-20816821905",
+   "plataforma": "Shopee",
+   "nome": "Kit De 4 Cuecas Originais Lupo Boxer Box Básica Em Algodão Cotton Com Elastano",
+   "loja": "Deccó",
+   "loja_oficial": true,
+   "preco": 80.94,
+   "preco_antigo": 134.9,
+   "desconto": 40,
+   "vendas": 336,
+   "nota": 4.9,
+   "comissao_pct": 7.0,
+   "imagem": "https://cf.shopee.com.br/file/br-11134207-820me-mqw32pxf7j7p83",
+   "link": "https://s.shopee.com.br/9AQJBQsQuo",
+   "canal": "marcas",
+   "entrou": "2026-11-20T09:02:45.936986-03:00",
+   "dia": "2026-11-20"
+  },
+  {
+   "id": "shopee-57657281247",
+   "plataforma": "Shopee",
+   "nome": "Tênis Feminino Olympikus Apolis Original",
+   "loja": "Cabana Magazine®",
+   "loja_oficial": true,
+   "preco": 179.04,
+   "preco_antigo": 238.72,
+   "desconto": 25,
+   "vendas": 152,
+   "nota": 4.9,
+   "comissao_pct": 8.0,
+   "imagem": "https://cf.shopee.com.br/file/br-11134207-820ma-mo405ss003ya28",
+   "link": "https://s.shopee.com.br/6q2OPEHJ7Q",
+   "quase": true,
+   "canal": "marcas",
+   "entrou": "2026-11-20T09:02:45.936986-03:00",
+   "reprise_dias": 7,
+   "dia": "2026-11-20"
+  },
+  {
+   "id": "shopee-23494511696",
+   "plataforma": "Shopee",
+   "nome": "Kit Câmera Inteligente iM3 C Black Intelbras - 2 unidades ",
+   "loja": "Intelbras Oficial",
+   "loja_oficial": true,
+   "preco": 353.32,
+   "preco_antigo": 560.83,
+   "desconto": 37,
+   "vendas": 204,
+   "nota": 5.0,
+   "comissao_pct": 5.0,
+   "imagem": "https://cf.shopee.com.br/file/sg-11134201-824je-mfmmo3yat4wcae",
+   "link": "https://s.shopee.com.br/9fMZmFFpxy",
+   "quase": true,
+   "canal": "achadinhos",
+   "entrou": "2026-11-20T09:48:27.558282-03:00",
+   "reprise_dias": 7,
+   "dia": "2026-11-20"
+  },
+  {
+   "id": "amz-B0B8JP1HLR",
+   "canal": "tech",
+   "nome": "Mouse Gamer Sem Fio Logitech G502 X PLUS LIGHTSPEED RGB",
+   "preco_antigo": 999.9,
+   "preco": 699.99,
+   "desconto": 30,
+   "link": "https://www.amazon.com.br/dp/B0B8JP1HLR?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/617m54J4LbL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-20T22:00:00-03:00",
+   "coletado_em": "2026-11-19T17:50:00-03:00",
+   "preco_em": "2026-11-19T17:50:00-03:00",
+   "entrou": "2026-11-20T08:34:30.724190-03:00",
+   "dia": "2026-11-20"
+  },
+  {
+   "id": "amz-B0B9PHQWPH",
+   "canal": "tech",
+   "nome": "Monitor Gamer Samsung Odyssey 27\"",
+   "preco_antigo": 2199.0,
+   "preco": 1424.05,
+   "desconto": 35,
+   "link": "https://www.amazon.com.br/dp/B0B9PHQWPH?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51Cu-Uh2WrL._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-20T22:00:00-03:00",
+   "coletado_em": "2026-11-19T17:50:00-03:00",
+   "preco_em": "2026-11-19T17:50:00-03:00",
+   "entrou": "2026-11-20T08:34:30.724190-03:00",
+   "dia": "2026-11-20"
+  },
+  {
+   "id": "amz-B08QTLJDD2",
+   "canal": "tech",
+   "nome": "Demon's Souls - PlayStation 5",
+   "preco_antigo": 235.0,
+   "preco": 160.89,
+   "desconto": 32,
+   "link": "https://www.amazon.com.br/dp/B08QTLJDD2?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/81dV2v47vpL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-20T22:00:00-03:00",
+   "coletado_em": "2026-11-19T17:50:00-03:00",
+   "preco_em": "2026-11-19T17:50:00-03:00",
+   "entrou": "2026-11-20T08:34:30.724190-03:00",
+   "dia": "2026-11-20"
   }
  ],
  "ig_feitos": [
@@ -21537,10 +21656,11 @@
   "2026-11-20 08:45 story_oferta",
   "2026-11-20 08:52 story_oferta",
   "2026-11-20 09:40 story_convite",
-  "2026-11-20 09:38 story_oferta"
+  "2026-11-20 09:38 story_oferta",
+  "2026-11-20 10:20 story_oferta",
+  "2026-11-20 10:24 story_oferta"
  ],
  "ig_ofertas_usadas": [
-  "shopee-58254966835",
   "shopee-19399263103",
   "shopee-23792931413",
   "shopee-20198314386",
@@ -21739,7 +21859,8 @@
   "shopee-9739004991",
   "shopee-43630230308",
   "shopee-20999203046",
-  "shopee-22394417240"
+  "shopee-22394417240",
+  "shopee-20816821905"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
@@ -21867,61 +21988,14 @@
   "bf-2026-11-19": "2026-11-19",
   "dc-fone-bateria": "2026-11-20",
   "bf-2026-11-20": "2026-11-20",
-  "dc-air-fryer-litros": "2026-11-20"
+  "dc-air-fryer-litros": "2026-11-20",
+  "hu-sexta": "2026-11-20"
  },
  "pecas_dia": {
-  "2026-11-20": 3
+  "2026-11-20": 4
  },
- "ultimo_pilar": "dica",
+ "ultimo_pilar": "humor",
  "fila": [
-  {
-   "id": "amz-B0B8JP1HLR",
-   "canal": "tech",
-   "nome": "Mouse Gamer Sem Fio Logitech G502 X PLUS LIGHTSPEED RGB",
-   "preco_antigo": 999.9,
-   "preco": 699.99,
-   "desconto": 30,
-   "link": "https://www.amazon.com.br/dp/B0B8JP1HLR?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/617m54J4LbL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-20T22:00:00-03:00",
-   "coletado_em": "2026-11-19T17:50:00-03:00",
-   "preco_em": "2026-11-19T17:50:00-03:00",
-   "entrou": "2026-11-20T08:34:30.724190-03:00"
-  },
-  {
-   "id": "amz-B0B9PHQWPH",
-   "canal": "tech",
-   "nome": "Monitor Gamer Samsung Odyssey 27\"",
-   "preco_antigo": 2199.0,
-   "preco": 1424.05,
-   "desconto": 35,
-   "link": "https://www.amazon.com.br/dp/B0B9PHQWPH?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51Cu-Uh2WrL._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-20T22:00:00-03:00",
-   "coletado_em": "2026-11-19T17:50:00-03:00",
-   "preco_em": "2026-11-19T17:50:00-03:00",
-   "entrou": "2026-11-20T08:34:30.724190-03:00"
-  },
-  {
-   "id": "amz-B08QTLJDD2",
-   "canal": "tech",
-   "nome": "Demon's Souls - PlayStation 5",
-   "preco_antigo": 235.0,
-   "preco": 160.89,
-   "desconto": 32,
-   "link": "https://www.amazon.com.br/dp/B08QTLJDD2?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/81dV2v47vpL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-20T22:00:00-03:00",
-   "coletado_em": "2026-11-19T17:50:00-03:00",
-   "preco_em": "2026-11-19T17:50:00-03:00",
-   "entrou": "2026-11-20T08:34:30.724190-03:00"
-  },
   {
    "id": "amz-B098JK6G5N",
    "canal": "tech",
@@ -22019,23 +22093,6 @@
    "entrou": "2026-11-20T08:34:30.724190-03:00"
   },
   {
-   "id": "shopee-20816821905",
-   "plataforma": "Shopee",
-   "nome": "Kit De 4 Cuecas Originais Lupo Boxer Box Básica Em Algodão Cotton Com Elastano",
-   "loja": "Deccó",
-   "loja_oficial": true,
-   "preco": 80.94,
-   "preco_antigo": 134.9,
-   "desconto": 40,
-   "vendas": 336,
-   "nota": 4.9,
-   "comissao_pct": 7.0,
-   "imagem": "https://cf.shopee.com.br/file/br-11134207-820me-mqw32pxf7j7p83",
-   "link": "https://s.shopee.com.br/9AQJBQsQuo",
-   "canal": "marcas",
-   "entrou": "2026-11-20T09:02:45.936986-03:00"
-  },
-  {
    "id": "shopee-58261870157",
    "plataforma": "Shopee",
    "nome": "GameSir G7 SE Wired Controller for Xbox One, Series S/X PC with Hall Effect Membrane Buttons Paddles",
@@ -22051,25 +22108,6 @@
    "link": "https://s.shopee.com.br/1C5XKLvpH",
    "canal": "tech",
    "entrou": "2026-11-20T09:02:45.936986-03:00"
-  },
-  {
-   "id": "shopee-57657281247",
-   "plataforma": "Shopee",
-   "nome": "Tênis Feminino Olympikus Apolis Original",
-   "loja": "Cabana Magazine®",
-   "loja_oficial": true,
-   "preco": 179.04,
-   "preco_antigo": 238.72,
-   "desconto": 25,
-   "vendas": 152,
-   "nota": 4.9,
-   "comissao_pct": 8.0,
-   "imagem": "https://cf.shopee.com.br/file/br-11134207-820ma-mo405ss003ya28",
-   "link": "https://s.shopee.com.br/6q2OPEHJ7Q",
-   "quase": true,
-   "canal": "marcas",
-   "entrou": "2026-11-20T09:02:45.936986-03:00",
-   "reprise_dias": 7
   }
  ],
  "menus_fixados": [
@@ -22955,9 +22993,9 @@
   "chapinhadecabelotaiffsupermini200ocpretabivolt": "2026-11-20T09:36:41.187086-03:00",
   "jogodepanelastramontina9pecasturimantiaderentestarflonmaxgrafite": "2026-11-12T10:11:19.456142-03:00",
   "camisetabasicamasculinaslimemmalhaflamehering": "2026-11-19T10:41:13.387723-03:00",
-  "tenisfemininoolympikusapolisoriginal": "2026-11-12T10:34:28.074723-03:00",
+  "tenisfemininoolympikusapolisoriginal": "2026-11-20T10:00:30.457588-03:00",
   "ugreenpdqcpps100w60wusbcparacabodecargarapidatipo20v5ausbtipocparaiphone15samsunggalaxytablet": "2026-11-12T10:58:48.764310-03:00",
-  "kitcamerainteligenteim3cblackintelbras2unidades": "2026-11-12T11:05:48.090022-03:00",
+  "kitcamerainteligenteim3cblackintelbras2unidades": "2026-11-20T10:04:57.652061-03:00",
   "kitcamerainteligenteintelbrasim5sc2unidades": "2026-11-20T09:14:48.358144-03:00",
   "headsetgamersemfiologitechg325bluetooth": "2026-11-12T12:04:10.042453-03:00",
   "perfumehugobossbottledintenseedpmasculino75ml": "2026-11-12T12:29:30.488657-03:00",
@@ -23646,7 +23684,11 @@
   "headsetgamerhyperxcloudstingercoreps4xboxonenintendoswitch": "2026-11-20T08:48:13.390302-03:00",
   "aparadorebarbeadorphilipsserie5000allinone13em1": "2026-11-20T08:55:22.282217-03:00",
   "grillesanduicheiraphilcoinoxpgr021127v": "2026-11-20T09:12:17.461248-03:00",
-  "pendrivesandisk64gbcruzerglide30": "2026-11-20T09:28:52.134912-03:00"
+  "pendrivesandisk64gbcruzerglide30": "2026-11-20T09:28:52.134912-03:00",
+  "kitde4cuecasoriginaislupoboxerboxbasicaemalgodaocottoncomelastano": "2026-11-20T09:51:25.570113-03:00",
+  "mousegamersemfiologitechg502xpluslightspeedrgb": "2026-11-20T10:12:05.778961-03:00",
+  "monitorgamersamsungodyssey27": "2026-11-20T10:20:48.940798-03:00",
+  "demonssoulsplaystation5": "2026-11-20T10:28:21.686589-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
@@ -24052,7 +24094,7 @@
  "pede_semana": "2026-47",
  "ultimo_garimpo": "2026-11-19T17:57:32-03:00",
  "vigia_aviso_post": "2026-11-19T14:14:05.582304-03:00",
- "vigia_aviso_garimpo": "2026-11-19T14:55:27.917379-03:00",
+ "vigia_aviso_garimpo": "2026-11-20T09:48:27.558282-03:00",
  "resumo_enviado": "2026-11-19",
  "token_conferido": "2026-11-20",
  "meta_token": {
@@ -24092,14 +24134,14 @@
   "2026-11-19 tarde achadinhos",
   "2026-11-19 tarde tech"
  ],
- "reserva_meio": "2026-11-20T09:42:59.445995-03:00",
+ "reserva_meio": "2026-11-20T10:19:46.318330-03:00",
  "reserva_cheia": {
   "achadinhos": "2026-11-19T17:28:44.035506-03:00",
   "tech": "2026-11-19T17:44:35.680517-03:00",
   "marcas": "2026-11-19T17:28:44.035506-03:00"
  },
  "top10_dia": "2026-11-14",
- "manuais_lidos": "2026-11-20T09:42:59.445995-03:00",
+ "manuais_lidos": "2026-11-20T10:19:46.318330-03:00",
  "reserva_resultado": {
   "2026-11-07": {
    "achadinhos": {
@@ -24321,7 +24363,7 @@
    "achadinhos": {
     "busca": 0,
     "quase": 0,
-    "reprise": 2
+    "reprise": 3
    },
    "marcas": {
     "busca": 0,
@@ -24400,7 +24442,7 @@
    "hora": "2026-11-19T18:35:22.821634-03:00"
   }
  },
- "ig_respondido_em": "2026-11-20T09:42:59.445995-03:00",
+ "ig_respondido_em": "2026-11-20T10:27:47.223605-03:00",
  "dm_auto": {
   "2026-11-13": {
    "com_palavra": 0,
@@ -24654,7 +24696,7 @@
    "feed": 3
   },
   "2026-11-20": {
-   "story": 5,
+   "story": 7,
    "feed": 0
   }
  },
