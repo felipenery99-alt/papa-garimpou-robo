@@ -1863,7 +1863,9 @@
   "2026-11-19 achadinhos 21:07 amz-B07GHMP97F",
   "2026-11-19 tech 21:25 amz-B0DKLPWQKS",
   "2026-11-19 achadinhos 21:32 amz-B0G21TBYDG",
-  "2026-11-19 marcas 21:39 amz-B0DDQJ7GJQ"
+  "2026-11-19 marcas 21:39 amz-B0DDQJ7GJQ",
+  "2026-11-19 achadinhos 21:46 amz-B0DP5N9HS6",
+  "2026-11-19 achadinhos 21:54 amz-B09GSRYL69"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -3589,7 +3591,9 @@
   "amz-B07GHMP97F": "2026-11-19T21:07:34.962405-03:00",
   "amz-B0DKLPWQKS": "2026-11-19T21:25:18.129082-03:00",
   "amz-B0G21TBYDG": "2026-11-19T21:32:02.327572-03:00",
-  "amz-B0DDQJ7GJQ": "2026-11-19T21:39:57.487026-03:00"
+  "amz-B0DDQJ7GJQ": "2026-11-19T21:39:57.487026-03:00",
+  "amz-B0DP5N9HS6": "2026-11-19T21:46:36.956931-03:00",
+  "amz-B09GSRYL69": "2026-11-19T21:54:03.878272-03:00"
  },
  "ofertas_dia": [
   {
@@ -22134,6 +22138,40 @@
    "preco_em": "2026-11-19T17:50:00-03:00",
    "entrou": "2026-11-19T18:02:59.575836-03:00",
    "dia": "2026-11-19"
+  },
+  {
+   "id": "amz-B0DP5N9HS6",
+   "canal": "achadinhos",
+   "nome": "Furadeira Philco 850W Mandril 13 mm PFU04 127V",
+   "preco_antigo": 180.5,
+   "preco": 119.9,
+   "desconto": 34,
+   "link": "https://www.amazon.com.br/dp/B0DP5N9HS6?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51pZhhaFwcL._AC_SL1200_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-20T22:00:00-03:00",
+   "coletado_em": "2026-11-19T17:50:00-03:00",
+   "preco_em": "2026-11-19T17:50:00-03:00",
+   "entrou": "2026-11-19T18:02:59.575836-03:00",
+   "dia": "2026-11-19"
+  },
+  {
+   "id": "amz-B09GSRYL69",
+   "canal": "achadinhos",
+   "nome": "Shampoo L'Oréal Professionnel Silver",
+   "preco_antigo": 116.9,
+   "preco": 74.89,
+   "desconto": 36,
+   "link": "https://www.amazon.com.br/dp/B09GSRYL69?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/41UcCc+6L5L._AC_SL1000_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-20T22:00:00-03:00",
+   "coletado_em": "2026-11-19T17:50:00-03:00",
+   "preco_em": "2026-11-19T17:50:00-03:00",
+   "entrou": "2026-11-19T18:02:59.575836-03:00",
+   "dia": "2026-11-19"
   }
  ],
  "ig_feitos": [
@@ -22641,38 +22679,6 @@
  },
  "ultimo_pilar": "blackfriday",
  "fila": [
-  {
-   "id": "amz-B0DP5N9HS6",
-   "canal": "achadinhos",
-   "nome": "Furadeira Philco 850W Mandril 13 mm PFU04 127V",
-   "preco_antigo": 180.5,
-   "preco": 119.9,
-   "desconto": 34,
-   "link": "https://www.amazon.com.br/dp/B0DP5N9HS6?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51pZhhaFwcL._AC_SL1200_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-20T22:00:00-03:00",
-   "coletado_em": "2026-11-19T17:50:00-03:00",
-   "preco_em": "2026-11-19T17:50:00-03:00",
-   "entrou": "2026-11-19T18:02:59.575836-03:00"
-  },
-  {
-   "id": "amz-B09GSRYL69",
-   "canal": "achadinhos",
-   "nome": "Shampoo L'Oréal Professionnel Silver",
-   "preco_antigo": 116.9,
-   "preco": 74.89,
-   "desconto": 36,
-   "link": "https://www.amazon.com.br/dp/B09GSRYL69?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/41UcCc+6L5L._AC_SL1000_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-20T22:00:00-03:00",
-   "coletado_em": "2026-11-19T17:50:00-03:00",
-   "preco_em": "2026-11-19T17:50:00-03:00",
-   "entrou": "2026-11-19T18:02:59.575836-03:00"
-  },
   {
    "id": "amz-B09SVQTDJB",
    "canal": "achadinhos",
@@ -24562,7 +24568,9 @@
   "secadordecabelowapintenseprows2500infraionic2400w": "2026-11-19T21:02:11.796762-03:00",
   "cafeteiraeletricamondialdolcearome": "2026-11-19T21:07:34.962405-03:00",
   "barbeadoreletricophilipsshaverserie7000skiniq": "2026-11-19T21:32:02.327572-03:00",
-  "tenisasicsjapansbrancoepreto": "2026-11-19T21:39:57.487026-03:00"
+  "tenisasicsjapansbrancoepreto": "2026-11-19T21:39:57.487026-03:00",
+  "furadeiraphilco850wmandril13mmpfu04127v": "2026-11-19T21:46:36.956931-03:00",
+  "shampoolorealprofessionnelsilver": "2026-11-19T21:54:03.878272-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
@@ -25015,7 +25023,7 @@
   "marcas": "2026-11-19T17:28:44.035506-03:00"
  },
  "top10_dia": "2026-11-14",
- "manuais_lidos": "2026-11-19T21:39:52.242661-03:00",
+ "manuais_lidos": "2026-11-19T21:53:59.726055-03:00",
  "reserva_resultado": {
   "2026-11-07": {
    "achadinhos": {
@@ -25304,7 +25312,7 @@
    "hora": "2026-11-19T18:35:22.821634-03:00"
   }
  },
- "ig_respondido_em": "2026-11-19T21:39:52.242661-03:00",
+ "ig_respondido_em": "2026-11-19T21:53:59.726055-03:00",
  "dm_auto": {
   "2026-11-12": {
    "com_palavra": 0,
