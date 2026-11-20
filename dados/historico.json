@@ -1858,7 +1858,12 @@
   "2026-11-19 marcas 20:33 amz-B0CJJXQ1CF",
   "2026-11-19 tech 20:41 amz-B0H7H2K9Q8",
   "2026-11-19 achadinhos 20:48 amz-B0C95DYZ1P",
-  "2026-11-19 marcas 20:55 amz-B0HJRL7CCS"
+  "2026-11-19 marcas 20:55 amz-B0HJRL7CCS",
+  "2026-11-19 achadinhos 21:02 amz-B0FP6BRPKF",
+  "2026-11-19 achadinhos 21:07 amz-B07GHMP97F",
+  "2026-11-19 tech 21:25 amz-B0DKLPWQKS",
+  "2026-11-19 achadinhos 21:32 amz-B0G21TBYDG",
+  "2026-11-19 marcas 21:39 amz-B0DDQJ7GJQ"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -3579,7 +3584,12 @@
   "amz-B0CJJXQ1CF": "2026-11-19T20:33:37.436377-03:00",
   "amz-B0H7H2K9Q8": "2026-11-19T20:41:24.936775-03:00",
   "amz-B0C95DYZ1P": "2026-11-19T20:48:12.033867-03:00",
-  "amz-B0HJRL7CCS": "2026-11-19T20:55:08.809301-03:00"
+  "amz-B0HJRL7CCS": "2026-11-19T20:55:08.809301-03:00",
+  "amz-B0FP6BRPKF": "2026-11-19T21:02:11.796762-03:00",
+  "amz-B07GHMP97F": "2026-11-19T21:07:34.962405-03:00",
+  "amz-B0DKLPWQKS": "2026-11-19T21:25:18.129082-03:00",
+  "amz-B0G21TBYDG": "2026-11-19T21:32:02.327572-03:00",
+  "amz-B0DDQJ7GJQ": "2026-11-19T21:39:57.487026-03:00"
  },
  "ofertas_dia": [
   {
@@ -22038,6 +22048,92 @@
    "preco_em": "2026-11-19T17:50:00-03:00",
    "entrou": "2026-11-19T18:02:59.575836-03:00",
    "dia": "2026-11-19"
+  },
+  {
+   "id": "amz-B0FP6BRPKF",
+   "canal": "achadinhos",
+   "nome": "Secador de Cabelo WAP Intense Pro WS2500 Infra-Ionic 2400W",
+   "preco_antigo": 419.9,
+   "preco": 237.4,
+   "desconto": 43,
+   "link": "https://www.amazon.com.br/dp/B0FP6BRPKF?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61R8hc5wWWL._AC_SL1500_.jpg",
+   "loja": "Vendido por parceiro · entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-20T22:00:00-03:00",
+   "coletado_em": "2026-11-19T17:50:00-03:00",
+   "preco_em": "2026-11-19T17:50:00-03:00",
+   "entrou": "2026-11-19T18:02:59.575836-03:00",
+   "dia": "2026-11-19"
+  },
+  {
+   "id": "amz-B07GHMP97F",
+   "canal": "achadinhos",
+   "nome": "Cafeteira Elétrica Mondial Dolce Arome",
+   "preco_antigo": 239.9,
+   "preco": 137.9,
+   "desconto": 43,
+   "link": "https://www.amazon.com.br/dp/B07GHMP97F?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/41z+zYCAHeL.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-20T22:00:00-03:00",
+   "coletado_em": "2026-11-19T17:50:00-03:00",
+   "preco_em": "2026-11-19T17:50:00-03:00",
+   "entrou": "2026-11-19T18:02:59.575836-03:00",
+   "dia": "2026-11-19"
+  },
+  {
+   "id": "amz-B0DKLPWQKS",
+   "canal": "tech",
+   "nome": "Amazon Echo Dot Max (Geração mais recente)",
+   "preco_antigo": 999.0,
+   "preco": 599.0,
+   "desconto": 40,
+   "link": "https://www.amazon.com.br/dp/B0DKLPWQKS?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/71vf2e-+XtL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-20T22:00:00-03:00",
+   "coletado_em": "2026-11-19T17:50:00-03:00",
+   "preco_em": "2026-11-19T17:50:00-03:00",
+   "entrou": "2026-11-19T18:02:59.575836-03:00",
+   "dia": "2026-11-19"
+  },
+  {
+   "id": "amz-B0G21TBYDG",
+   "canal": "achadinhos",
+   "nome": "Barbeador Elétrico Philips Shaver Série 7000 SkinIQ",
+   "preco_antigo": 1394.9,
+   "preco": 898.94,
+   "desconto": 36,
+   "link": "https://www.amazon.com.br/dp/B0G21TBYDG?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/81oKRvjx3tL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-20T22:00:00-03:00",
+   "coletado_em": "2026-11-19T17:50:00-03:00",
+   "preco_em": "2026-11-19T17:50:00-03:00",
+   "entrou": "2026-11-19T18:02:59.575836-03:00",
+   "dia": "2026-11-19"
+  },
+  {
+   "id": "amz-B0DDQJ7GJQ",
+   "canal": "marcas",
+   "nome": "Tênis ASICS Japan S Branco e Preto",
+   "preco_antigo": 399.99,
+   "preco": 224.99,
+   "desconto": 44,
+   "link": "https://www.amazon.com.br/dp/B0DDQJ7GJQ?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51Mwt7Ex6fL._AC_SL1200_.jpg",
+   "loja": "Loja oficial ASICS Brasil · Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-20T22:00:00-03:00",
+   "coletado_em": "2026-11-19T17:50:00-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "preco_em": "2026-11-19T17:50:00-03:00",
+   "entrou": "2026-11-19T18:02:59.575836-03:00",
+   "dia": "2026-11-19"
   }
  ],
  "ig_feitos": [
@@ -22209,10 +22305,11 @@
   "2026-11-19 20:03 story_oferta",
   "2026-11-19 20:30 reels",
   "2026-11-19 20:35 story_top4",
-  "2026-11-19 20:38 story_oferta"
+  "2026-11-19 20:38 story_oferta",
+  "2026-11-19 21:20 story_convite",
+  "2026-11-19 21:24 story_oferta"
  ],
  "ig_ofertas_usadas": [
-  "shopee-58261216325",
   "shopee-18216465769",
   "shopee-58254966835",
   "shopee-19399263103",
@@ -22411,7 +22508,8 @@
   "shopee-18797677549",
   "shopee-23198376314",
   "shopee-9739004991",
-  "shopee-43630230308"
+  "shopee-43630230308",
+  "shopee-20999203046"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
@@ -22544,54 +22642,6 @@
  "ultimo_pilar": "blackfriday",
  "fila": [
   {
-   "id": "amz-B0FP6BRPKF",
-   "canal": "achadinhos",
-   "nome": "Secador de Cabelo WAP Intense Pro WS2500 Infra-Ionic 2400W",
-   "preco_antigo": 419.9,
-   "preco": 237.4,
-   "desconto": 43,
-   "link": "https://www.amazon.com.br/dp/B0FP6BRPKF?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61R8hc5wWWL._AC_SL1500_.jpg",
-   "loja": "Vendido por parceiro · entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-20T22:00:00-03:00",
-   "coletado_em": "2026-11-19T17:50:00-03:00",
-   "preco_em": "2026-11-19T17:50:00-03:00",
-   "entrou": "2026-11-19T18:02:59.575836-03:00"
-  },
-  {
-   "id": "amz-B07GHMP97F",
-   "canal": "achadinhos",
-   "nome": "Cafeteira Elétrica Mondial Dolce Arome",
-   "preco_antigo": 239.9,
-   "preco": 137.9,
-   "desconto": 43,
-   "link": "https://www.amazon.com.br/dp/B07GHMP97F?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/41z+zYCAHeL.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-20T22:00:00-03:00",
-   "coletado_em": "2026-11-19T17:50:00-03:00",
-   "preco_em": "2026-11-19T17:50:00-03:00",
-   "entrou": "2026-11-19T18:02:59.575836-03:00"
-  },
-  {
-   "id": "amz-B0G21TBYDG",
-   "canal": "achadinhos",
-   "nome": "Barbeador Elétrico Philips Shaver Série 7000 SkinIQ",
-   "preco_antigo": 1394.9,
-   "preco": 898.94,
-   "desconto": 36,
-   "link": "https://www.amazon.com.br/dp/B0G21TBYDG?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/81oKRvjx3tL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-20T22:00:00-03:00",
-   "coletado_em": "2026-11-19T17:50:00-03:00",
-   "preco_em": "2026-11-19T17:50:00-03:00",
-   "entrou": "2026-11-19T18:02:59.575836-03:00"
-  },
-  {
    "id": "amz-B0DP5N9HS6",
    "canal": "achadinhos",
    "nome": "Furadeira Philco 850W Mandril 13 mm PFU04 127V",
@@ -22704,40 +22754,6 @@
    "entrou": "2026-11-19T18:02:59.575836-03:00"
   },
   {
-   "id": "amz-B0BL13KLRW",
-   "canal": "marcas",
-   "nome": "Kit 2 Cuecas Calvin Klein Trunk C11.02",
-   "preco_antigo": 171.8,
-   "preco": 89.99,
-   "desconto": 48,
-   "link": "https://www.amazon.com.br/dp/B0BL13KLRW?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61LMKGrF-kL._AC_SL1200_.jpg",
-   "loja": "Vendido por parceiro · entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-20T22:00:00-03:00",
-   "coletado_em": "2026-11-19T17:50:00-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "preco_em": "2026-11-19T17:50:00-03:00",
-   "entrou": "2026-11-19T18:02:59.575836-03:00"
-  },
-  {
-   "id": "amz-B0DDQJ7GJQ",
-   "canal": "marcas",
-   "nome": "Tênis ASICS Japan S Branco e Preto",
-   "preco_antigo": 399.99,
-   "preco": 224.99,
-   "desconto": 44,
-   "link": "https://www.amazon.com.br/dp/B0DDQJ7GJQ?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51Mwt7Ex6fL._AC_SL1200_.jpg",
-   "loja": "Loja oficial ASICS Brasil · Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-20T22:00:00-03:00",
-   "coletado_em": "2026-11-19T17:50:00-03:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "preco_em": "2026-11-19T17:50:00-03:00",
-   "entrou": "2026-11-19T18:02:59.575836-03:00"
-  },
-  {
    "id": "amz-B0CDQHSFJS",
    "canal": "marcas",
    "nome": "Chuteira Mizuno Morelia Club",
@@ -22768,22 +22784,6 @@
    "valida_ate": "2026-11-20T22:00:00-03:00",
    "coletado_em": "2026-11-19T17:50:00-03:00",
    "extra": "Preço a partir de: varia por tamanho e cor",
-   "preco_em": "2026-11-19T17:50:00-03:00",
-   "entrou": "2026-11-19T18:02:59.575836-03:00"
-  },
-  {
-   "id": "amz-B0DKLPWQKS",
-   "canal": "tech",
-   "nome": "Amazon Echo Dot Max (Geração mais recente)",
-   "preco_antigo": 999.0,
-   "preco": 599.0,
-   "desconto": 40,
-   "link": "https://www.amazon.com.br/dp/B0DKLPWQKS?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/71vf2e-+XtL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-20T22:00:00-03:00",
-   "coletado_em": "2026-11-19T17:50:00-03:00",
    "preco_em": "2026-11-19T17:50:00-03:00",
    "entrou": "2026-11-19T18:02:59.575836-03:00"
   },
@@ -22979,6 +22979,23 @@
    "link": "https://s.shopee.com.br/1C5XKLvpH",
    "canal": "tech",
    "entrou": "2026-11-19T19:30:04.463072-03:00"
+  },
+  {
+   "id": "amz-B0BL13KLRW",
+   "canal": "marcas",
+   "nome": "Kit 2 Cuecas Calvin Klein Trunk C11.02",
+   "preco_antigo": 171.8,
+   "preco": 89.99,
+   "desconto": 48,
+   "link": "https://www.amazon.com.br/dp/B0BL13KLRW?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61LMKGrF-kL._AC_SL1200_.jpg",
+   "loja": "Vendido por parceiro · entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-20T22:00:00-03:00",
+   "coletado_em": "2026-11-19T17:50:00-03:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "preco_em": "2026-11-19T17:50:00-03:00",
+   "entrou": "2026-11-19T21:24:30.017865-03:00"
   }
  ],
  "menus_fixados": [
@@ -23195,7 +23212,7 @@
   "tenispumaflyerflexmasculino": "2026-11-02T11:39:33.413427-03:00",
   "camisetaheringworldmangacurtamasculina": "2026-11-02T11:44:54.031749-03:00",
   "camisetaheringsupercottoncombolsomasculina": "2026-11-02T11:50:39.236510-03:00",
-  "amazonechodotmaxgeracaomaisrecente": "2026-11-02T12:16:52.936091-03:00",
+  "amazonechodotmaxgeracaomaisrecente": "2026-11-19T21:25:18.129082-03:00",
   "jogodepanelastramontinacaribe5pecasantiaderente": "2026-11-02T12:37:20.540538-03:00",
   "kitde3paresmeiaslupokidsinfantilcanocurtoalgodaotamanho24ao35": "2026-11-13T13:31:31.057037-03:00",
   "easportsfc26playstation5": "2026-11-02T13:43:08.347333-03:00",
@@ -24541,7 +24558,11 @@
   "secadortaiffuniqueduobivolt": "2026-11-19T20:25:43.910153-03:00",
   "notebooklenovoideapadslim3amdryzen57535hs": "2026-11-19T20:41:24.936775-03:00",
   "jogodealicatestramontinamastercomalicatedebico3pecas": "2026-11-19T20:48:12.033867-03:00",
-  "tenismizunowaveskyway": "2026-11-19T20:55:08.809301-03:00"
+  "tenismizunowaveskyway": "2026-11-19T20:55:08.809301-03:00",
+  "secadordecabelowapintenseprows2500infraionic2400w": "2026-11-19T21:02:11.796762-03:00",
+  "cafeteiraeletricamondialdolcearome": "2026-11-19T21:07:34.962405-03:00",
+  "barbeadoreletricophilipsshaverserie7000skiniq": "2026-11-19T21:32:02.327572-03:00",
+  "tenisasicsjapansbrancoepreto": "2026-11-19T21:39:57.487026-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
@@ -24994,7 +25015,7 @@
   "marcas": "2026-11-19T17:28:44.035506-03:00"
  },
  "top10_dia": "2026-11-14",
- "manuais_lidos": "2026-11-19T20:55:03.724633-03:00",
+ "manuais_lidos": "2026-11-19T21:39:52.242661-03:00",
  "reserva_resultado": {
   "2026-11-07": {
    "achadinhos": {
@@ -25283,7 +25304,7 @@
    "hora": "2026-11-19T18:35:22.821634-03:00"
   }
  },
- "ig_respondido_em": "2026-11-19T20:55:03.724633-03:00",
+ "ig_respondido_em": "2026-11-19T21:39:52.242661-03:00",
  "dm_auto": {
   "2026-11-12": {
    "com_palavra": 0,
@@ -25537,7 +25558,7 @@
    "feed": 3
   },
   "2026-11-19": {
-   "story": 31,
+   "story": 33,
    "feed": 3
   }
  },

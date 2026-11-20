@@ -3756,19 +3756,20 @@
    "erro em 2026-11-19 tech 14:53 shopee-19399263103 (envio ao Telegram): Telegram recusou: {'ok': False, 'error_code': 500, 'description': 'Internal Server Error'}. Não postei.",
    "canal achadinhos sem oferta na fila há 82 min (busca extra também não achou). Abastecer ofertas_manuais.json.",
    "canal tech sem oferta na fila há 72 min (busca extra também não achou). Abastecer ofertas_manuais.json.",
-   "⚠️ Garimpo parado desde 18/11 13:19 — abrir o app Claude e conferir as rotinas\nPouca oferta na fila: achadinhos 0, marcas 0, tech 0."
+   "⚠️ Garimpo parado desde 18/11 13:19 — abrir o app Claude e conferir as rotinas\nPouca oferta na fila: achadinhos 0, marcas 0, tech 0.",
+   "erro em 2026-11-19 marcas 21:15 amz-B0BL13KLRW (envio ao Telegram): HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=60). Não postei."
   ],
-  "ultima_execucao": "20:12",
-  "execucoes": 21,
+  "ultima_execucao": "20:55",
+  "execucoes": 22,
   "telegram_posts": {
-   "achadinhos": 28,
-   "marcas": 19,
-   "tech": 16
+   "achadinhos": 31,
+   "marcas": 20,
+   "tech": 17
   },
   "ultimo_post": {
-   "achadinhos": "20:48",
-   "marcas": "20:55",
-   "tech": "20:41"
+   "achadinhos": "21:32",
+   "marcas": "21:39",
+   "tech": "21:25"
   },
   "meta_token": {
    "tipo": "SYSTEM_USER",
@@ -3838,7 +3839,9 @@
    "20:03 story_oferta",
    "20:30 reels",
    "20:35 story_top4",
-   "20:38 story_oferta"
+   "20:38 story_oferta",
+   "21:20 story_convite",
+   "21:24 story_oferta"
   ],
   "shopee_ligada": true,
   "dm_auto": {
@@ -8540,11 +8543,12 @@
    "shopee-58221022782": "nota",
    "shopee-58217366845": "nota",
    "shopee-58272932085": "nota",
-   "shopee-51621588355": "nota"
+   "shopee-51621588355": "nota",
+   "shopee-58221813098": "nota"
   },
   "shopee_oficial": {
    "vendas longe": 2244,
-   "nota": 1977,
+   "nota": 1978,
    "vendas perto (125+)": 118,
    "outro: marca fora da lista boa": 103,
    "desconto longe": 76,
@@ -8721,10 +8725,15 @@
    "amz-B086QZ9T6C": "ja_postado_30d",
    "amz-B0CJJXQ1CF": "ja_postado_30d",
    "amz-B0H7H2K9Q8": "ja_postado_30d",
-   "amz-B0C95DYZ1P": "ja_postado_30d"
+   "amz-B0C95DYZ1P": "ja_postado_30d",
+   "amz-B0HJRL7CCS": "ja_postado_30d",
+   "amz-B0FP6BRPKF": "ja_postado_30d",
+   "amz-B07GHMP97F": "ja_postado_30d",
+   "amz-B0DKLPWQKS": "ja_postado_30d",
+   "amz-B0G21TBYDG": "ja_postado_30d"
   },
   "manuais_descartados": {
-   "ja_postado_30d": 167,
+   "ja_postado_30d": 172,
    "vencida": 1
   },
   "instagram": {
@@ -8736,7 +8745,7 @@
    "stories_ativos": 25
   },
   "reels_alcance": {
-   "atualizado": "2026-11-19T20:12:27.634755-03:00",
+   "atualizado": "2026-11-19T20:55:34.885292-03:00",
    "itens": [
     {
      "id": "18084047555366923",
