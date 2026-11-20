@@ -22122,12 +22122,13 @@
   "2026-11-20 16:05 adivinha_resposta",
   "2026-11-20 16:44 story_oferta",
   "story especial pede-pro-papa 2026-11-20",
-  "2026-11-20 17:36 story_oferta"
+  "2026-11-20 17:36 story_oferta",
+  "2026-11-20 18:05 a_ou_b",
+  "2026-11-20 18:09 story_oferta",
+  "2026-11-20 feed",
+  "2026-11-20 18:30 reels"
  ],
  "ig_ofertas_usadas": [
-  "amz-B07JQKQ91F",
-  "amz-B0D693LTY5",
-  "amz-B0G4SQ89P1",
   "amz-B08R8246HC",
   "amz-B0FD4QYX8Q",
   "amz-B0FTZN4CM3",
@@ -22324,11 +22325,14 @@
   "shopee-23899230870",
   "shopee-58253934349",
   "shopee-58204159335",
-  "shopee-57516793403"
+  "shopee-57516793403",
+  "shopee-54306272132",
+  "shopee-21198261099",
+  "shopee-58221428383"
  ],
  "ig_giro": 2,
  "ig_comentarios": [],
- "ig_ultimo_reel": "2026-11-20T12:05:33.970005-03:00",
+ "ig_ultimo_reel": "2026-11-20T18:30:12.713496-03:00",
  "pecas_usadas": {
   "ac-preco-inflado": "2026-10-27",
   "dc-7-dias": "2026-10-27",
@@ -24360,11 +24364,12 @@
    "shopee-18797677549"
   ],
   "2026-11-20": [
-   "shopee-21316811936",
-   "shopee-8607385860",
-   "shopee-22394417240",
+   "shopee-7975402525",
    "shopee-20816821905",
-   "shopee-22693266079"
+   "shopee-22394417240",
+   "shopee-8607385860",
+   "shopee-22693266079",
+   "shopee-21316811936"
   ]
  },
  "vendas_shopee": {},
@@ -24508,14 +24513,14 @@
   "2026-11-20 tarde marcas",
   "2026-11-20 tarde tech"
  ],
- "reserva_meio": "2026-11-20T17:44:51.535905-03:00",
+ "reserva_meio": "2026-11-20T18:32:05.878352-03:00",
  "reserva_cheia": {
-  "achadinhos": "2026-11-20T16:50:05.656855-03:00",
-  "tech": "2026-11-20T16:50:05.656855-03:00",
-  "marcas": "2026-11-20T17:28:58.243406-03:00"
+  "achadinhos": "2026-11-20T18:00:27.153405-03:00",
+  "tech": "2026-11-20T18:00:27.153405-03:00",
+  "marcas": "2026-11-20T18:32:05.878352-03:00"
  },
  "top10_dia": "2026-11-14",
- "manuais_lidos": "2026-11-20T17:36:35.537662-03:00",
+ "manuais_lidos": "2026-11-20T18:32:05.878352-03:00",
  "reserva_resultado": {
   "2026-11-07": {
    "achadinhos": {
@@ -24819,9 +24824,13 @@
   "18084047555366923": {
    "capa": "uma_oferta",
    "hora": "2026-11-19T18:35:22.821634-03:00"
+  },
+  "18150672790559013": {
+   "capa": "uma_oferta",
+   "hora": "2026-11-20T18:30:12.713496-03:00"
   }
  },
- "ig_respondido_em": "2026-11-20T17:36:35.537662-03:00",
+ "ig_respondido_em": "2026-11-20T18:30:12.713496-03:00",
  "dm_auto": {
   "2026-11-13": {
    "com_palavra": 0,
@@ -25051,6 +25060,12 @@
     "capa": "gta",
     "legenda": "Manda pra quem tá precisando disso 👇\n🎮 GTA VI: GameSir G7 SE Wired Controller for Xbox One, Series S/X PC with Hall Effect Membrane Butto de R$ 460,00 por R$ 299,00\n\nOfertas todo dia no Telegram: papagarimpouofertas 💎\nE os achados do dia no Insta: @papa.garimpou 👀\n\nPubli · link de afiliado",
     "url": "https://raw.githubusercontent.com/felipenery99-alt/papa-garimpou-robo/tiktok-midia/20261120-1206-tiktok.mp4"
+   },
+   {
+    "hora": "18:30",
+    "capa": "uma_oferta",
+    "legenda": "Manda pra quem tá precisando disso 👇\n😎💎 UGREEN PD QC PPS 100W 60W USB-C Para Cabo De Carga Rápida Tipo 20V 5A USB Tipo C Para iPho\n\nOfertas todo dia no Telegram: papagarimpouofertas 💎\nE os achados do dia no Insta: @papa.garimpou 👀\n\nPubli · link de afiliado",
+    "url": "https://raw.githubusercontent.com/felipenery99-alt/papa-garimpou-robo/tiktok-midia/20261120-1830-tiktok.mp4"
    }
   ]
  },
@@ -25069,8 +25084,8 @@
    "feed": 3
   },
   "2026-11-20": {
-   "story": 22,
-   "feed": 1
+   "story": 24,
+   "feed": 2
   }
  },
  "ig_conta_ok": "2026-11-20",

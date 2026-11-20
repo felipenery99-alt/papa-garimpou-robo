@@ -30,6 +30,30 @@
      "canal": "marcas"
     }
    ]
+  },
+  {
+   "tipo": "a_ou_b",
+   "hora": "18:09",
+   "produtos": [
+    {
+     "nome": "Powerbank Baseus EnerFill FM11 10000mAh 22.5W Magnético Mag Safe Ultra Mini + Cabo Type-C",
+     "preco_antigo": 396.67,
+     "preco": 249.9,
+     "desconto": 37,
+     "link": "https://s.shopee.com.br/9pfzz41nOU",
+     "loja": "Baseus Oficial",
+     "canal": "tech"
+    },
+    {
+     "nome": "Fone De Ouvido JBL Wave Buds 2 Preto Bluetooth Sem Fio com Cancelamento de Ruido",
+     "preco_antigo": 388.09,
+     "preco": 263.9,
+     "desconto": 32,
+     "link": "https://s.shopee.com.br/LoufZlyuA",
+     "loja": "Cadê Meu Eletro®",
+     "canal": "tech"
+    }
+   ]
   }
  ]
 }
