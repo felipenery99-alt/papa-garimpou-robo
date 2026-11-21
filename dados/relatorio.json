@@ -3996,17 +3996,17 @@
   "erros": [
    "⚠️ Garimpo parado desde 19/11 17:57 — abrir o app Claude e conferir as rotinas\nPouca oferta na fila: marcas 2, tech 1."
   ],
-  "ultima_execucao": "08:17",
-  "execucoes": 5,
+  "ultima_execucao": "09:02",
+  "execucoes": 6,
   "telegram_posts": {
-   "achadinhos": 3,
-   "marcas": 1,
-   "tech": 0
+   "achadinhos": 5,
+   "marcas": 4,
+   "tech": 2
   },
   "ultimo_post": {
-   "achadinhos": "08:48",
-   "marcas": "08:57",
-   "tech": null
+   "achadinhos": "09:35",
+   "marcas": "09:43",
+   "tech": "09:28"
   },
   "games": {
    "posts": 0,
@@ -4019,7 +4019,7 @@
    "vence": "não vence",
    "acesso_vence": "-"
   },
-  "ultimo_garimpo": "19/11 17:57",
+  "ultimo_garimpo": "21/11 09:10",
   "convites_story": {
    "story-20261101": 0,
    "story-20261102": 0,
@@ -4047,7 +4047,9 @@
   "instagram_feito": [
    "08:07 story_oferta",
    "08:45 story_oferta",
-   "08:52 story_oferta"
+   "08:52 story_oferta",
+   "09:40 story_convite",
+   "09:38 story_oferta"
   ],
   "shopee_ligada": true,
   "dm_auto": {
@@ -8041,15 +8043,25 @@
    "shopee-22094065260": "nota",
    "shopee-58206577602": "vendas longe",
    "shopee-48805038629": "vendas longe",
-   "shopee-23994281188": "vendas longe"
+   "shopee-23994281188": "vendas longe",
+   "shopee-22998796938": "aprovada",
+   "shopee-23093815030": "vendas perto (125+)",
+   "shopee-22893962454": "vendas longe",
+   "shopee-58257255473": "vendas longe",
+   "shopee-54563116969": "nota",
+   "shopee-16289721340": "vendas longe",
+   "shopee-22098675807": "nota",
+   "shopee-19899757428": "vendas longe",
+   "shopee-42280592501": "vendas longe",
+   "shopee-42221693561": "vendas longe"
   },
   "shopee_oficial": {
-   "vendas longe": 2023,
-   "nota": 1492,
-   "vendas perto (125+)": 124,
+   "vendas longe": 2029,
+   "nota": 1494,
+   "vendas perto (125+)": 125,
    "outro: marca fora da lista boa": 87,
    "desconto longe": 79,
-   "aprovada": 73,
+   "aprovada": 74,
    "outro: palavra proibida: compatível": 38,
    "desconto perto (até 10 pts)": 33,
    "outro: palavra proibida: universal": 1
@@ -8155,10 +8167,12 @@
    "amz-B0DYC2GV1Z": "ja_postado_30d",
    "amz-B07B63NTRZ": "ja_postado_30d",
    "amz-B08RX3343D": "ja_postado_30d",
-   "amz-B0FFTQ14WY": "ja_postado_30d"
+   "amz-B0FFTQ14WY": "ja_postado_30d",
+   "amz-B0F2GQWVS3": "ja_postado_30d",
+   "amz-B08J88RH23": "ja_postado_30d"
   },
   "manuais_descartados": {
-   "ja_postado_30d": 101
+   "ja_postado_30d": 103
   },
   "instagram": {
    "seguidores": 512,
@@ -8169,7 +8183,7 @@
    "stories_ativos": 25
   },
   "reels_alcance": {
-   "atualizado": "2026-11-21T08:17:47.499424-03:00",
+   "atualizado": "2026-11-21T09:02:49.198912-03:00",
    "itens": [
     {
      "id": "18150672790559013",
