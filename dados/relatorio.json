@@ -3887,8 +3887,8 @@
    "⚠️ Garimpo parado desde 19/11 17:57 — abrir o app Claude e conferir as rotinas\nPouca oferta na fila: achadinhos 0, marcas 0, tech 0.",
    "⚠️ Canal sem post: achadinhos 2 h, marcas 5 h, tech 2 h — abrir o app Claude e conferir as rotinas"
   ],
-  "ultima_execucao": "21:42",
-  "execucoes": 22,
+  "ultima_execucao": "22:00",
+  "execucoes": 23,
   "telegram_posts": {
    "achadinhos": 14,
    "marcas": 8,
@@ -8796,10 +8796,23 @@
    "shopee-58262827826": "nota",
    "shopee-58212851738": "nota",
    "shopee-58212848215": "nota",
-   "shopee-58212827671": "nota"
+   "shopee-58212827671": "nota",
+   "shopee-48453256384": "vendas longe",
+   "shopee-9986130255": "vendas longe",
+   "shopee-23918337314": "vendas longe",
+   "shopee-8086416973": "vendas longe",
+   "shopee-20799894846": "vendas longe",
+   "shopee-40959469298": "vendas longe",
+   "shopee-10123338308": "vendas longe",
+   "shopee-22298142190": "vendas longe",
+   "shopee-41527320236": "vendas longe",
+   "shopee-58202613791": "vendas longe",
+   "shopee-43977308309": "vendas longe",
+   "shopee-22597347421": "vendas longe",
+   "shopee-22229845135": "vendas longe"
   },
   "shopee_oficial": {
-   "vendas longe": 2264,
+   "vendas longe": 2277,
    "nota": 2083,
    "vendas perto (125+)": 118,
    "outro: marca fora da lista boa": 109,
@@ -8924,7 +8937,7 @@
    "stories_ativos": 25
   },
   "reels_alcance": {
-   "atualizado": "2026-11-20T21:42:48.155590-03:00",
+   "atualizado": "2026-11-20T22:00:03.221844-03:00",
    "itens": [
     {
      "id": "18150672790559013",
