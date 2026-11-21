@@ -20751,21 +20751,21 @@
  "ultimo_pilar": "humor",
  "fila": [
   {
-   "id": "shopee-17673633826",
+   "id": "shopee-53416418014",
    "plataforma": "Shopee",
-   "nome": "Tampa Para Microondas 27x7 Anti Sujeira Respingos Protetora de Alimentos Eletrolux Brastemp Bpa Free",
-   "loja": "Âncora Shopp",
+   "nome": "MICROONDAS ELECTROLUX 31L INOX 127V ESPELHADO 1600W E FUNÇÃO TIRA ODOR",
+   "loja": "Tudão Tech  Ltda",
    "loja_oficial": true,
-   "preco": 25.9,
-   "preco_antigo": 39.85,
-   "desconto": 35,
-   "vendas": 350,
+   "preco": 752.9,
+   "preco_antigo": 1298.1,
+   "desconto": 42,
+   "vendas": 413,
    "nota": 4.9,
-   "comissao_pct": 10.3,
-   "imagem": "https://cf.shopee.com.br/file/br-11134207-820ma-mszl2lh5cvlw09",
-   "link": "https://s.shopee.com.br/1qdlb5LTp0",
+   "comissao_pct": 3.0,
+   "imagem": "https://cf.shopee.com.br/file/sg-11134201-8258d-ms5rof8u8kjq21",
+   "link": "https://s.shopee.com.br/9KjmclufqQ",
    "canal": "achadinhos",
-   "entrou": "2026-11-20T23:47:47.445153-03:00"
+   "entrou": "2026-11-21T01:14:03.467098-03:00"
   },
   {
    "id": "shopee-54114684881",
@@ -20782,7 +20782,7 @@
    "imagem": "https://cf.shopee.com.br/file/sg-11134201-825ar-mr0o2v3qr3es84",
    "link": "https://s.shopee.com.br/3qOmpZwlJJ",
    "canal": "achadinhos",
-   "entrou": "2026-11-21T00:13:07.679379-03:00"
+   "entrou": "2026-11-21T04:27:29.567617-03:00"
   },
   {
    "id": "shopee-22594959465",
@@ -20799,7 +20799,24 @@
    "imagem": "https://cf.shopee.com.br/file/sg-11134201-820lr-mnk67stocg0843",
    "link": "https://s.shopee.com.br/40iD1sw7yI",
    "canal": "achadinhos",
-   "entrou": "2026-11-21T00:13:07.679379-03:00"
+   "entrou": "2026-11-21T04:27:29.567617-03:00"
+  },
+  {
+   "id": "shopee-17673633826",
+   "plataforma": "Shopee",
+   "nome": "Tampa Para Microondas 27x7 Anti Sujeira Respingos Protetora de Alimentos Eletrolux Brastemp Bpa Free",
+   "loja": "Âncora Shopp",
+   "loja_oficial": true,
+   "preco": 25.9,
+   "preco_antigo": 39.85,
+   "desconto": 35,
+   "vendas": 350,
+   "nota": 4.9,
+   "comissao_pct": 10.3,
+   "imagem": "https://cf.shopee.com.br/file/br-11134207-820ma-mszl2lh5cvlw09",
+   "link": "https://s.shopee.com.br/8KrFQvyTsK",
+   "canal": "achadinhos",
+   "entrou": "2026-11-21T04:27:29.567617-03:00"
   },
   {
    "id": "shopee-18716453608",
@@ -20816,7 +20833,7 @@
    "imagem": "https://cf.shopee.com.br/file/br-11134207-820mf-mv3i1326ddky27",
    "link": "https://s.shopee.com.br/4fxtpPPVJb",
    "canal": "marcas",
-   "entrou": "2026-11-21T00:13:07.679379-03:00"
+   "entrou": "2026-11-21T04:27:29.567617-03:00"
   },
   {
    "id": "shopee-18516472597",
@@ -20833,7 +20850,7 @@
    "imagem": "https://cf.shopee.com.br/file/br-11134207-820mb-mv3i13266cqqdb",
    "link": "https://s.shopee.com.br/60THPrKQbj",
    "canal": "marcas",
-   "entrou": "2026-11-21T00:13:07.679379-03:00"
+   "entrou": "2026-11-21T04:27:29.567617-03:00"
   },
   {
    "id": "shopee-50801661798",
@@ -20850,24 +20867,7 @@
    "imagem": "https://cf.shopee.com.br/file/sg-11134201-821d7-mh7w8c1tekg93a",
    "link": "https://s.shopee.com.br/6q2OS4CHDs",
    "canal": "tech",
-   "entrou": "2026-11-21T00:13:07.679379-03:00"
-  },
-  {
-   "id": "shopee-53416418014",
-   "plataforma": "Shopee",
-   "nome": "MICROONDAS ELECTROLUX 31L INOX 127V ESPELHADO 1600W E FUNÇÃO TIRA ODOR",
-   "loja": "Tudão Tech  Ltda",
-   "loja_oficial": true,
-   "preco": 752.9,
-   "preco_antigo": 1298.1,
-   "desconto": 42,
-   "vendas": 413,
-   "nota": 4.9,
-   "comissao_pct": 3.0,
-   "imagem": "https://cf.shopee.com.br/file/sg-11134201-8258d-ms5rof8u8kjq21",
-   "link": "https://s.shopee.com.br/9KjmclufqQ",
-   "canal": "achadinhos",
-   "entrou": "2026-11-21T01:14:03.467098-03:00"
+   "entrou": "2026-11-21T04:27:29.567617-03:00"
   }
  ],
  "menus_fixados": [
@@ -22930,7 +22930,7 @@
   "marcas": "2026-11-20T20:48:12.507774-03:00"
  },
  "top10_dia": "2026-11-14",
- "manuais_lidos": "2026-11-21T01:27:51.012342-03:00",
+ "manuais_lidos": "2026-11-21T04:44:15.751166-03:00",
  "reserva_resultado": {
   "2026-11-07": {
    "achadinhos": {
@@ -23257,7 +23257,7 @@
    "hora": "2026-11-20T18:30:12.713496-03:00"
   }
  },
- "ig_respondido_em": "2026-11-21T01:27:51.012342-03:00",
+ "ig_respondido_em": "2026-11-21T04:44:15.751166-03:00",
  "dm_auto": {
   "2026-11-14": {
    "com_palavra": 0,
