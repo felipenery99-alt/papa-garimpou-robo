@@ -1265,7 +1265,7 @@ def publicar_especial_games(h: dict, agora: datetime, tag: str, feitos: list) ->
         print(f"[gta] convite ig-gta falhou: {e}")
         link_gta = "t.me/papagarimpoutech"
     # 21/11: Amazon não vai ao Instagram (acordo 12/11), então 5 itens de game no dia quase nunca fecham → mínimo 3
-    if "especial gta-setup" not in feitos and len(games) >= 3 and agora.hour >= 11:
+    if "especial gta-setup" not in feitos and len(games) >= 3 and agora.hour >= 11 and ig_cabe("feed", agora):
         top = games[:5]
         try:
             capa = artes.card_porta(["SETUP PRA", "JOGAR GTA VI"], [f"{len(top)} achados de marca", "com o preço real de hoje"],
@@ -1315,6 +1315,8 @@ def publicar_especial_games(h: dict, agora: datetime, tag: str, feitos: list) ->
         o = next((x for x in games if x["id"] not in usados), None)
         if not o:
             continue   # sem item de game hoje ainda: tenta na próxima execução da janela
+        if not ig_cabe("story", agora):
+            continue   # 21/11: teto enxuto do dia cheio
         try:
             instagram.story(artes.story_oferta(o, o["canal"], selo="ESPECIAL GTA VI"), f"{tag}-gta-{n}.jpg")
             h["ig_gta_stories"] = (h.get("ig_gta_stories", []) + [o["id"]])[-40:]
@@ -1334,6 +1336,8 @@ def publicar_story_exclusiva(h: dict, agora: datetime, tag: str, feitos: list) -
     chave = f"{hoje} story exclusiva"
     if chave in feitos or not any(o.get("so_telegram") and o.get("dia") == hoje for o in h.get("ofertas_dia", [])):
         return
+    if not ig_cabe("story", agora):
+        return   # 21/11: teto enxuto do dia cheio
     import artes
     import instagram
     import telegram
@@ -1576,6 +1580,60 @@ def so_tiktok(hora: str, tipo: str) -> bool:
     return tipo == "reels" and hora in getattr(config, "REELS_SO_TIKTOK", ())
 
 
+def reels_teste(h: dict, agora: datetime, top: list) -> tuple | None:
+    """21/11 (Central 2): teste de 5 dias (REELS_TESTE), 1 Reels/dia às 18h30 girando 3 capas/ganchos diferentes do
+    uma_oferta. O formato fica em ig_reels_log (capa) e o reach entra em reels_alcance. Preço sempre o real da loja."""
+    import artes
+    ini, fim = config.REELS_TESTE
+    hoje = agora.date().isoformat()
+    if not (ini <= hoje <= fim):
+        return None
+    fmts = config.REELS_TESTE_FORMATOS
+    fmt = fmts[(agora.date() - datetime.fromisoformat(ini).date()).days % len(fmts)]
+    games = [o for o in top if qualidade.eh_game(o)] or sorted(
+        (o for o in h.get("ofertas_dia", []) if o.get("dia") == hoje and qualidade.eh_game(o) and liberada_ig(o, agora)
+         and o["id"] not in set(h.get("ig_reels_ofertas", {}).get(hoje, []))),
+        key=qualidade.pontuar, reverse=True)
+    if fmt == "gta" and not (config.especial_games(agora) and games):
+        fmt = "achei_por"
+    if fmt == "gta":
+        o = games[0]
+    elif top:
+        o = top[0]
+    else:
+        return None
+    preco = (f"De {post._brl(o['preco_antigo'])} por {post._brl(o['preco'])} ({o['desconto']}% OFF)"
+             if o.get("preco_antigo") else f"Por {post._brl(o['preco'])}")
+    nome = o["nome"].strip()
+    if fmt == "achei_por":
+        capa = artes.capa_reel(("ACHEI POR", post._brl(o["preco"])), "loja oficial · preço de hoje")
+        topo = f"😎💎 Achei por {post._brl(o['preco'])}: {nome[:90]}"
+        selo = ""
+    elif fmt == "antes_de_comprar":
+        item = re.sub(r"[^\wÀ-ú ]", "", nome.split()[0]).upper()[:14] or "ONLINE"
+        capa = artes.capa_reel(("ANTES DE COMPRAR", f"{item}, VEJA"), "o preço real na loja oficial")
+        topo = f"😎💎 Antes de comprar {nome.split()[0].lower()}, veja esse: {nome[:90]}"
+        selo = ""
+    else:
+        capa = artes.capa_reel(("SETUP PRA", "JOGAR GTA VI"), "marca boa · preço real de hoje")
+        topo = f"🎮 Setup pra jogar GTA VI: {nome[:90]}"
+        selo = "ESPECIAL GTA VI"
+    quadros = [capa, artes.story_oferta(o, o["canal"], selo=selo), artes.story_convite(), artes.quadro_compartilhar()]
+    leg = topo + f"\n\n{preco}" + SIGA_REEL + LEGENDA_CTA
+    return quadros, leg, fmt, {o["id"]}
+
+
+def ig_enxuto(agora: datetime) -> bool:
+    return agora.date().isoformat() >= config.IG_ENXUTO_DESDE
+
+
+def ig_cabe(tipo: str, agora: datetime, folga: int = 1) -> bool:
+    """21/11: peça fora da agenda (story GTA, story exclusiva) só sai se sobrar lugar no teto do dia, deixando
+    `folga` para o convite da noite."""
+    import instagram
+    return not ig_enxuto(agora) or instagram.CONT.get(tipo, 0) < config.IG_TETO_DIA[tipo] - folga
+
+
 def ig_teto(h: dict, agora: datetime) -> dict:
     """Teto do dia na rampa (None = sem teto): fração × volume normal, arredondado, no mínimo 1."""
     f = ig_fracao(h, agora)
@@ -1754,6 +1812,10 @@ def rodar_instagram(h: dict, agora: datetime) -> None:
                 telegram.avisar_dono(f"Instagram: pedido atendido {o['id']} falhou: {ex}")
             feitos.append(f"pedido {o['id']}")
     instagram.LIMITE.update(ig_teto(h, agora))   # 12/11: rampa da volta (porta/especial/pedido acima contam no teto)
+    if ig_enxuto(agora):   # 21/11: teto do dia vale também para o vigia de stories (mesmo sem horário da agenda)
+        convite_ok = any(f.startswith(hoje) and f.endswith("story_convite") for f in feitos)
+        instagram.LIMITE.update(story=config.IG_TETO_DIA["story"] - (0 if convite_ok else 1),
+                                feed=config.IG_TETO_DIA["feed"])
     for hora, tipo, publica in agenda_ig(h, agora):   # 11/11 pausado: só o vídeo do TikTok; 12/11 rampa: horários espalhados
         if not publica and tipo != "reels":
             continue
@@ -1763,6 +1825,12 @@ def rodar_instagram(h: dict, agora: datetime) -> None:
         if chave in feitos or not (momento <= agora <= momento + timedelta(minutes=50)):
             continue
         ENTRE_TAREFAS[0]()   # 05/11: solta 1 post do Telegram entre as peças do Instagram, se já deu o intervalo
+        if ig_enxuto(agora):
+            # 21/11 (Central 2): teto do dia (8 stories, feed 2 + Reels); o último story fica guardado para o convite
+            rampa = ig_teto(h, agora)
+            convite_ok = tipo == "story_convite" or any(f.startswith(hoje) and f.endswith("story_convite") for f in feitos)
+            teto = {"story": config.IG_TETO_DIA["story"] - (0 if convite_ok else 1), "feed": config.IG_TETO_DIA["feed"]}
+            instagram.LIMITE.update({k: min(v, rampa[k]) if rampa.get(k) else v for k, v in teto.items()})
         try:
             if tipo in ("adivinha", "adivinha_resposta", "a_ou_b"):
                 if publicar_interativo(tipo, h, agora, tag, ofertas, usadas):
@@ -1837,7 +1905,11 @@ def rodar_instagram(h: dict, agora: datetime) -> None:
                              key=qualidade.pontuar, reverse=True)[:5]
                 # 08/11 (CEO): a capa campeã da medição (reels_alcance) manda no formato
                 campeao = (h.get("reels_alcance") or {}).get("campeao")
-                if top and agora.hour == 18 and campeao != "banco":
+                teste = reels_teste(h, agora, top) if agora.hour == 18 else None
+                if teste:
+                    quadros, leg, tipo_capa, ids = teste
+                    h["ig_reels_ofertas"][hoje] = list(ja | ids)
+                elif top and agora.hour == 18 and campeao != "banco":
                     # 09/11 (CEO): Reels de lista com capa de texto ficam em 3–5 de alcance. O das 18h30 testa
                     # 1 oferta só (a mais forte): o produto com o preço real já no 1º quadro, vídeo curto (~8 s).
                     o = top[0]
@@ -2274,6 +2346,8 @@ def main() -> int:
     args = ap.parse_args()
     sys.stdout.reconfigure(encoding="utf-8")
     agora = datetime.now(FUSO)
+    if ig_enxuto(agora):   # 21/11 (Central 2): Instagram enxuto, no máximo 10 peças/dia
+        config.INSTAGRAM_AGENDA = config.INSTAGRAM_AGENDA_ENXUTA
     if args.agenda:
         # Telegram não tem agenda (posta na hora que acha); só o Instagram tem horários fixos.
         for hora, tipo in config.INSTAGRAM_AGENDA:

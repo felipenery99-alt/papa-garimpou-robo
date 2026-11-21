@@ -296,3 +296,19 @@ def especial_games(agora) -> bool:
     return f"{agora:%Y-%m-%dT%H:%M}" <= ESPECIAL_GAMES_ATE
 
 EXCLUSIVA_ATE = "2026-11-27T22:00"   # 21/11 (PG · Telegram): teste do story "saiu só no canal"; ≥5 entradas pela ig-exclusiva ou desliga
+
+# 21/11 (Central 2, mudança de estratégia): Reels "uma_oferta" com alcance 0–3, alcance diário ~26, 40 publicações
+# em 20/11, DM QUERO = 0 e convites = 0 → volume sem alcance só queima a conta. A partir de 22/11: no máximo 10
+# peças/dia no Instagram = feed 2 (carrossel Top 5 11h50 + achado 19h15) + 8 stories (7 de oferta + 1 convite),
+# mais 1 Reels/dia de TESTE (18h30). Os Reels de 12:00 e 20:30 continuam só no TikTok (REELS_SO_TIKTOK).
+IG_ENXUTO_DESDE = "2026-11-22"
+IG_TETO_DIA = {"story": 8, "feed": 3}   # feed 3 = 2 posts + o Reels do teste
+INSTAGRAM_AGENDA_ENXUTA = [
+    ("08:52", "story_oferta"), ("10:24", "story_oferta"), ("11:50", "carrossel_top5"), ("12:00", "reels"),
+    ("12:15", "story_top4"), ("14:08", "story_oferta"), ("16:44", "story_oferta"), ("18:30", "reels"),
+    ("19:15", "post_achado"), ("20:30", "reels"), ("20:35", "story_top4"), ("21:20", "story_convite"),
+]
+# Teste de Reels 22–26/11: 1/dia às 18h30 girando 3 capas/ganchos (reach de cada um em reels_alcance pela capa).
+# Em 26/11 a Central escolhe o vencedor.
+REELS_TESTE = ("2026-11-22", "2026-11-26")
+REELS_TESTE_FORMATOS = ["achei_por", "antes_de_comprar", "gta"]
