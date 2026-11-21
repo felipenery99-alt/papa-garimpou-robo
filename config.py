@@ -269,7 +269,7 @@ FB_CONVITE_HORA = "20:10"
 # Teste até 21/11 22h: se o total de membros não sair de 21 para 30 ou mais, voltar USAR_PASTA = False (tudo volta
 # a ser como antes: menus v1, boas-vindas bv1, direct com os convites rastreados).
 PASTA_TELEGRAM = "https://t.me/addlist/ibNzKthuoBI3NzVh"
-USAR_PASTA = True
+USAR_PASTA = False   # 21/11 CEO: teste encerrado — 21 → 21 membros em 4 dias (meta 30); volta aos convites rastreados
 AWIN_SEGURAR = False   # 17/11 17h45: 20 de 20 testes do Brasil já com o nome novo → Awin liberada (PG · Robô)
 
 # 19/11 (Central 2, dono): ESPECIAL GTA VI — o jogo lançou; foco em videogame, console, controle e PC até 26/11
