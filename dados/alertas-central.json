@@ -17,54 +17,6 @@
   "ultimo": "2026-11-18T15:29+00:00",
   "texto": "erro em 2026-11-18 marcas 12:29 shopee-22493521596 (foto): 503 Server Error: Service Unavailable for url: https://cf.shopee.com.br/file/br-11134207-820lw-mspog5ou4v0ncf. Não postei."
  },
- "erro em #-#-# marcas #:# nike-#-# (foto): cannot identify image file <_io.BytesI": {
-  "primeiro": "2026-11-17T23:24+00:00",
-  "vezes": 9,
-  "ultimo": "2026-11-18T00:30+00:00",
-  "texto": "erro em 2026-11-17 marcas 21:30 nike-058279-55 (foto): cannot identify image file <_io.BytesIO object at 0x7e5de0dd23e0>. Não postei."
- },
- "erro em #-#-# marcas #:# nike-#-ID (foto): cannot identify image file <_io.Bytes": {
-  "primeiro": "2026-11-18T00:02+00:00",
-  "vezes": 2,
-  "ultimo": "2026-11-18T00:12+00:00",
-  "texto": "erro em 2026-11-17 marcas 21:12 nike-058825-ID (foto): cannot identify image file <_io.BytesIO object at 0x7e5de0dd24d0>. Não postei."
- },
- "erro em #-#-# marcas #:# nike-#-#G (foto): cannot identify image file <_io.Bytes": {
-  "primeiro": "2026-11-18T00:02+00:00",
-  "vezes": 2,
-  "ultimo": "2026-11-18T00:15+00:00",
-  "texto": "erro em 2026-11-17 marcas 21:15 nike-024961-1G (foto): cannot identify image file <_io.BytesIO object at 0x7e5de0be6c50>. Não postei."
- },
- "erro em #-#-# achadinhos #:# amz-B#GHL#B# (envio ao Telegram): Telegram recusou:": {
-  "primeiro": "2026-11-18T00:43+00:00",
-  "vezes": 1,
-  "ultimo": "2026-11-18T00:43+00:00",
-  "texto": "erro em 2026-11-17 achadinhos 21:43 amz-B09GHL35B3 (envio ao Telegram): Telegram recusou: {'ok': False, 'error_code': 502, 'description': 'Bad Gateway'}. Não postei."
- },
- "erro em #-#-# achadinhos #:# amz-B#DMTYSX#Y (envio ao Telegram): Telegram recuso": {
-  "primeiro": "2026-11-18T00:47+00:00",
-  "vezes": 1,
-  "ultimo": "2026-11-18T00:47+00:00",
-  "texto": "erro em 2026-11-17 achadinhos 21:47 amz-B0DMTYSX8Y (envio ao Telegram): Telegram recusou: {'ok': False, 'error_code': 502, 'description': 'Bad Gateway'}. Não postei."
- },
- "erro em #-#-# achadinhos #:# amz-B#F#QN#FKK (envio ao Telegram): Telegram recuso": {
-  "primeiro": "2026-11-18T00:47+00:00",
-  "vezes": 1,
-  "ultimo": "2026-11-18T00:47+00:00",
-  "texto": "erro em 2026-11-17 achadinhos 21:47 amz-B0F3QN6FKK (envio ao Telegram): Telegram recusou: {'ok': False, 'error_code': 502, 'description': 'Bad Gateway'}. Não postei."
- },
- "erro em #-#-# achadinhos #:# amz-B#JK#GVS (envio ao Telegram): HTTPSConnectionPo": {
-  "primeiro": "2026-11-18T00:53+00:00",
-  "vezes": 1,
-  "ultimo": "2026-11-18T00:53+00:00",
-  "texto": "erro em 2026-11-17 achadinhos 21:52 amz-B076JK9GVS (envio ao Telegram): HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=60). Não postei."
- },
- "erro em #-#-# achadinhos #:# amz-B#CMW#FDQ (envio ao Telegram): HTTPSConnectionP": {
-  "primeiro": "2026-11-18T00:55+00:00",
-  "vezes": 1,
-  "ultimo": "2026-11-18T00:55+00:00",
-  "texto": "erro em 2026-11-17 achadinhos 21:54 amz-B0CMW94FDQ (envio ao Telegram): HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=60). Não postei."
- },
  "erro em #-#-# marcas #:# amz-B#GZJV#MB (envio ao Telegram): ('Connection aborted": {
   "primeiro": "2026-11-18T14:36+00:00",
   "vezes": 1,
@@ -121,9 +73,9 @@
  },
  "⚠️ Garimpo parado desde #/# #:# — abrir o app Claude e conferir as rotinas\nPouca": {
   "primeiro": "2026-11-19T11:29+00:00",
-  "vezes": 6,
-  "ultimo": "2026-11-20T22:40+00:00",
-  "texto": "⚠️ Garimpo parado desde 19/11 17:57 — abrir o app Claude e conferir as rotinas\nPouca oferta na fila: achadinhos 0, marcas 0, tech 0."
+  "vezes": 7,
+  "ultimo": "2026-11-21T11:31+00:00",
+  "texto": "⚠️ Garimpo parado desde 19/11 17:57 — abrir o app Claude e conferir as rotinas\nPouca oferta na fila: marcas 2, tech 1."
  },
  "erro em #-#-# achadinhos #:# shopee-# (envio ao Telegram): HTTPSConnectionPool(h": {
   "primeiro": "2026-11-19T13:03+00:00",
