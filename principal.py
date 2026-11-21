@@ -1264,10 +1264,11 @@ def publicar_especial_games(h: dict, agora: datetime, tag: str, feitos: list) ->
     except Exception as e:
         print(f"[gta] convite ig-gta falhou: {e}")
         link_gta = "t.me/papagarimpoutech"
-    if "especial gta-setup" not in feitos and len(games) >= 5 and agora.hour >= 11:
+    # 21/11: Amazon não vai ao Instagram (acordo 12/11), então 5 itens de game no dia quase nunca fecham → mínimo 3
+    if "especial gta-setup" not in feitos and len(games) >= 3 and agora.hour >= 11:
         top = games[:5]
         try:
-            capa = artes.card_porta(["SETUP PRA", "JOGAR GTA VI"], ["5 achados de marca", "com o preço real de hoje"],
+            capa = artes.card_porta(["SETUP PRA", "JOGAR GTA VI"], [f"{len(top)} achados de marca", "com o preço real de hoje"],
                                     3, "arrasta pro lado →")
             final = artes.card_porta(["ENTRA NO", "PAPA TECH"], ["comenta QUERO que o Papa", "manda os links e o",
                                      "convite do canal no direct"], 3, "ESPECIAL GTA VI ATÉ 26/11")
@@ -2147,6 +2148,62 @@ def enviar_resumo_dono(h: dict, telegram, agora: datetime) -> None:
         print(f"[resumo] resumo de {dia} enviado ao dono")
 
 
+def resumo_reserva(h: dict, telegram, agora: datetime) -> None:
+    """21/11 (Central 2: o resumo do PC falhou em 18 e 20/11 com o PC desligado): a partir de 22h20, se ninguém
+    gravou resumo_dono.json de hoje e o resumo de hoje não saiu, o robô monta sozinho pelo relatorio.json e manda
+    uma vez (marca resumo_enviado; o do PC que chegar depois não é reenviado)."""
+    hoje = agora.date().isoformat()
+    if (agora.hour, agora.minute) < (22, 20) or h.get("resumo_enviado", "") >= hoje:
+        return
+    try:
+        if RESUMO_DONO.exists() and json.loads(RESUMO_DONO.read_text(encoding="utf-8")).get("dia") == hoje:
+            return   # o do PC existe: enviar_resumo_dono cuida
+    except Exception:
+        pass
+    rel = json.loads(RELATORIO.read_text(encoding="utf-8")) if RELATORIO.exists() else {}
+    d = rel.get(hoje) or {}
+    ant = rel.get((agora.date() - timedelta(days=1)).isoformat()) or {}
+    ig, ig0 = d.get("instagram") or {}, ant.get("instagram") or {}
+    mb, mb0 = d.get("telegram_membros") or {}, ant.get("telegram_membros") or {}
+    tp = d.get("telegram_posts") or {}
+
+    def delta(a, b):
+        return f" ({a - b:+d})" if isinstance(a, int) and isinstance(b, int) else ""
+    seg = ig.get("seguidores")
+    tot, tot0 = sum(v for v in mb.values() if isinstance(v, int)), sum(v for v in mb0.values() if isinstance(v, int))
+    nums = [f"• Instagram: {seg if seg is not None else '?'} seguidores{delta(seg, ig0.get('seguidores'))}",
+            f"• Telegram: {tot} membros{delta(tot, tot0) if mb0 else ''} · Achad. {mb.get('achadinhos', '?')} · "
+            f"Marcas {mb.get('marcas', '?')} · Tech {mb.get('tech', '?')} · Geral {mb.get('geral', '?')}",
+            f"• Cliques na bio do Instagram: {ig.get('website_clicks', '?')}"]
+    posts = [f"• Telegram: {sum(tp.values())} (Achad. {tp.get('achadinhos', 0)} · Marcas {tp.get('marcas', 0)} · "
+             f"Tech {tp.get('tech', 0)})",
+             f"• Instagram: {len(d.get('instagram_feito') or [])} publicações · {ig.get('stories_ativos', '?')} stories ativos",
+             f"• TikTok: {len(d.get('tiktok') or [])} vídeos prontos"]
+    probs, vistos = [], set()
+    for e in d.get("erros") or []:
+        chave = re.sub(r"\d+", "#", str(e))[:60]
+        if chave in vistos:
+            continue
+        vistos.add(chave)
+        probs.append("• " + str(e).replace("⚠️", "").strip()[:110])
+        if len(probs) == 3:
+            break
+    texto = "\n\n".join([f"📊 PAPA GARIMPOU · {agora:%d/%m}",
+                         "📈 NÚMEROS\n" + "\n".join(nums),
+                         "📤 POSTS\n" + "\n".join(posts),
+                         "🛠 PROBLEMAS\n" + ("\n".join(probs) or "• nenhum"),
+                         "👉 PRA VOCÊ\n• nada, pode descansar"])
+    ok = telegram.mensagem_dono(texto)
+    log = h.setdefault("resumo_log", [])
+    log.append({"dia": hoje, "quando": agora.strftime("%d/%m %H:%M"), "ok": ok, "reserva": True,
+                **getattr(telegram, "ENTREGA", {})})
+    h["resumo_log"] = log[-7:]
+    if ok:
+        h["resumo_enviado"] = hoje
+        salvar_hist(h)
+        print(f"[resumo] reserva de {hoje} enviada ao dono")
+
+
 def checar_vendas_shopee(h: dict, telegram, agora: datetime) -> None:
     """01/11 (dono pediu aviso de venda): olha as conversões dos últimos 3 dias e avisa cada venda
     nova uma vez só no chat de alertas. Erro aqui nunca para a postagem; avisa no máximo 1x por dia."""
@@ -2339,6 +2396,10 @@ def main() -> int:
         telegram.avisar_dono(f"Instagram: erro geral {e}")
     um_post()
     enviar_resumo_dono(h, telegram, agora)
+    try:
+        resumo_reserva(h, telegram, agora)
+    except Exception as e:
+        print(f"[resumo] reserva falhou: {e}")
     conferir_token_meta(h, telegram, agora)
     if not os.environ.get("TELEGRAM_BOT_TOKEN"):
         print("TELEGRAM_BOT_TOKEN ausente — nada postado")
