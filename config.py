@@ -294,3 +294,5 @@ MARCAS_ACHADINHOS += [
 
 def especial_games(agora) -> bool:
     return f"{agora:%Y-%m-%dT%H:%M}" <= ESPECIAL_GAMES_ATE
+
+EXCLUSIVA_ATE = "2026-11-27T22:00"   # 21/11 (PG · Telegram): teste do story "saiu só no canal"; ≥5 entradas pela ig-exclusiva ou desliga

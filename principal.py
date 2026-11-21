@@ -1324,6 +1324,30 @@ def publicar_especial_games(h: dict, agora: datetime, tag: str, feitos: list) ->
         feitos.append(chave)
 
 
+def publicar_story_exclusiva(h: dict, agora: datetime, tag: str, feitos: list) -> None:
+    """21/11 (PG · Telegram, teste até 27/11 22h: ≥5 entradas pela ig-exclusiva, senão desliga): no dia em que a
+    oferta marcada "so_telegram" sai no canal, 1 story no Instagram sem preço nem produto, só a chamada para o
+    canal geral. Convite rastreado "ig-exclusiva" (@papagarimpouofertas) em dados/convite-exclusiva.txt (adesivo)."""
+    if f"{agora:%Y-%m-%dT%H:%M}" > config.EXCLUSIVA_ATE:
+        return
+    hoje = agora.date().isoformat()
+    chave = f"{hoje} story exclusiva"
+    if chave in feitos or not any(o.get("so_telegram") and o.get("dia") == hoje for o in h.get("ofertas_dia", [])):
+        return
+    import artes
+    import instagram
+    import telegram
+    conv = h.setdefault("convites_story", {})
+    if "ig-exclusiva" not in conv:
+        conv["ig-exclusiva"] = {"link": telegram.criar_convite(config.GERAL, "ig-exclusiva"), "entradas": []}
+    CONVITE_EXCLUSIVA.write_text(f"ig-exclusiva {conv['ig-exclusiva']['link']}\n", encoding="utf-8")
+    instagram.story(artes.story_especial(["O ACHADO DE HOJE", "SAIU SÓ NO CANAL"],
+                                         ["não vai aparecer aqui no Instagram", "quem tá no Telegram já viu"], 2,
+                                         "ENTRA NO CANAL"), f"{tag}-exclusiva.jpg")
+    feitos.append(chave)
+    print("[ig] story exclusiva publicado")
+
+
 def telegram_aviso(txt: str) -> None:
     import telegram
     telegram.avisar_dono(txt)
@@ -1379,7 +1403,7 @@ def publicar_salvavel(h: dict, agora: datetime, tag: str) -> bool:
     import instagram
     semana = (agora - timedelta(days=7)).date().isoformat()
     pool = [o for o in h.get("ofertas_dia", []) if o.get("dia", "") >= semana and liberada_ig(o, agora)] \
-        + [o for o in carregar_manuais(h, agora) if "so_telegram_ate" not in o]
+        + [o for o in carregar_manuais(h, agora) if "so_telegram_ate" not in o and not o.get("so_telegram")]
     n = len(config.SALVAVEIS)
     # 19/11 (CEO): a categoria gira a cada dia de salvável (contados desde 01/11), não pela semana: com domingo,
     # segunda e quinta nenhum dia seguido repete a categoria do anterior.
@@ -1418,7 +1442,7 @@ def liberada_ig(o: dict, agora: datetime) -> bool:
     """05/11 (CEO): oferta com "so_telegram_ate" só vai ao Instagram depois dessa hora.
     12/11 (acordo Amazon): oferta da Amazon nunca vai para Instagram/Reels/TikTok — o preço ficaria na arte
     para sempre, sem data e sem atualizar em 24 h."""
-    if eh_amazon(o):
+    if eh_amazon(o) or o.get("so_telegram"):   # 21/11 (PG · Telegram): "só no Telegram" nunca vai ao Instagram
         return False
     return not o.get("so_telegram_ate") or str(o["so_telegram_ate"]) <= agora.isoformat()
 
@@ -1667,6 +1691,10 @@ def rodar_instagram(h: dict, agora: datetime) -> None:
             publicar_especial_games(h, agora, tag, feitos)
         except Exception as e:
             telegram.avisar_dono(f"Instagram: especial GTA VI falhou: {e}")
+        try:   # 21/11: story "o achado de hoje saiu só no canal" (teste até 27/11)
+            publicar_story_exclusiva(h, agora, tag, feitos)
+        except Exception as e:
+            telegram.avisar_dono(f"Instagram: story exclusiva falhou: {e}")
         # Parcerias de divulgação (troca de story com outro perfil): cada uma sai uma vez, no story e no Telegram
         parc_arq = Path(__file__).parent / "parcerias.json"
         if parc_arq.exists():
@@ -1918,6 +1946,8 @@ CONVITES_ORIGEM = ("ig-bio", "ig-story", "ig-dm", "ig-dm-auto", "fb-pagina", "ig
 SHARE_CONVITE = {**{d: f"tg-share-{c}" for c, d in config.CANAIS.items()}, config.GERAL: "tg-share-geral"}
 CONVITE_CANAL = {n: d for d, n in SHARE_CONVITE.items()}   # convite que não é do canal geral
 CONVITE_CANAL["ig-gta"] = config.CANAIS["tech"]   # 19/11: especial GTA VI (convite do Tech)
+CONVITE_CANAL["ig-exclusiva"] = config.GERAL       # 21/11: story "saiu só no canal" (não entra na limpeza)
+CONVITE_EXCLUSIVA = PASTA / "dados" / "convite-exclusiva.txt"
 CONVITE_GTA = PASTA / "dados" / "convite-gta.txt"
 
 
