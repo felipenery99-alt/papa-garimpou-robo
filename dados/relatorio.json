@@ -3887,8 +3887,8 @@
    "⚠️ Garimpo parado desde 19/11 17:57 — abrir o app Claude e conferir as rotinas\nPouca oferta na fila: achadinhos 0, marcas 0, tech 0.",
    "⚠️ Canal sem post: achadinhos 2 h, marcas 5 h, tech 2 h — abrir o app Claude e conferir as rotinas"
   ],
-  "ultima_execucao": "22:00",
-  "execucoes": 23,
+  "ultima_execucao": "22:42",
+  "execucoes": 24,
   "telegram_posts": {
    "achadinhos": 14,
    "marcas": 8,
@@ -4286,7 +4286,7 @@
    "shopee-20599648306": "desconto longe",
    "shopee-23094056729": "aprovada",
    "shopee-8607385860": "vendas perto (125+)",
-   "shopee-23298467238": "aprovada",
+   "shopee-23298467238": "desconto perto (até 10 pts)",
    "shopee-22693266079": "aprovada",
    "shopee-7380179382": "vendas perto (125+)",
    "shopee-23793046202": "vendas perto (125+)",
@@ -8809,17 +8809,19 @@
    "shopee-58202613791": "vendas longe",
    "shopee-43977308309": "vendas longe",
    "shopee-22597347421": "vendas longe",
-   "shopee-22229845135": "vendas longe"
+   "shopee-22229845135": "vendas longe",
+   "shopee-58271552511": "vendas longe",
+   "shopee-18498318913": "vendas longe"
   },
   "shopee_oficial": {
-   "vendas longe": 2277,
+   "vendas longe": 2279,
    "nota": 2083,
    "vendas perto (125+)": 118,
    "outro: marca fora da lista boa": 109,
    "desconto longe": 78,
-   "aprovada": 72,
+   "aprovada": 71,
    "outro: palavra proibida: compatível": 39,
-   "desconto perto (até 10 pts)": 30,
+   "desconto perto (até 10 pts)": 31,
    "outro: palavra proibida: universal": 1
   },
   "manuais_descartados_ids": {
@@ -8937,7 +8939,7 @@
    "stories_ativos": 25
   },
   "reels_alcance": {
-   "atualizado": "2026-11-20T22:00:03.221844-03:00",
+   "atualizado": "2026-11-20T22:42:51.827340-03:00",
    "itens": [
     {
      "id": "18150672790559013",
