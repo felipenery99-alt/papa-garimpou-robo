@@ -3996,22 +3996,22 @@
   "erros": [
    "⚠️ Garimpo parado desde 19/11 17:57 — abrir o app Claude e conferir as rotinas\nPouca oferta na fila: marcas 2, tech 1."
   ],
-  "ultima_execucao": "10:34",
-  "execucoes": 8,
+  "ultima_execucao": "11:21",
+  "execucoes": 9,
   "telegram_posts": {
-   "achadinhos": 13,
-   "marcas": 8,
-   "tech": 4
+   "achadinhos": 17,
+   "marcas": 10,
+   "tech": 5
   },
   "ultimo_post": {
-   "achadinhos": "11:09",
-   "marcas": "11:17",
-   "tech": "11:02"
+   "achadinhos": "11:56",
+   "marcas": "12:03",
+   "tech": "11:49"
   },
   "games": {
-   "posts": 1,
-   "amazon": 1,
-   "tech": 1
+   "posts": 2,
+   "amazon": 2,
+   "tech": 2
   },
   "meta_token": {
    "tipo": "SYSTEM_USER",
@@ -4054,7 +4054,11 @@
    "10:20 story_oferta",
    "10:24 story_oferta",
    "story exclusiva",
-   "11:11 story_oferta"
+   "11:11 story_oferta",
+   "feed",
+   "11:50 carrossel_top5",
+   "12:00 reels",
+   "11:56 story_oferta"
   ],
   "shopee_ligada": true,
   "dm_auto": {
@@ -8082,14 +8086,16 @@
    "shopee-58272807162": "vendas longe",
    "shopee-58268226015": "nota",
    "shopee-58268401368": "nota",
-   "shopee-58268401354": "nota"
+   "shopee-58268401354": "nota",
+   "shopee-49064981274": "desconto longe",
+   "shopee-23198367840": "vendas longe"
   },
   "shopee_oficial": {
-   "vendas longe": 2045,
+   "vendas longe": 2046,
    "nota": 1500,
    "vendas perto (125+)": 126,
    "outro: marca fora da lista boa": 87,
-   "desconto longe": 81,
+   "desconto longe": 82,
    "aprovada": 73,
    "outro: palavra proibida: compatível": 38,
    "desconto perto (até 10 pts)": 33,
@@ -8209,28 +8215,34 @@
    "amz-B0CXFBZLY5": "ja_postado_30d",
    "amz-B0918FHY6P": "ja_postado_30d",
    "amz-B099H1RFQR": "ja_postado_30d",
-   "amz-B09H8P5L6J": "ja_postado_30d"
+   "amz-B09H8P5L6J": "ja_postado_30d",
+   "amz-B0GCC5LNLM": "ja_postado_30d",
+   "amz-B076H5HQ28": "ja_postado_30d",
+   "amz-B0F4L616L5": "ja_postado_30d",
+   "amz-B0HBT28H8C": "ja_postado_30d",
+   "amz-B0D2YYKQHF": "ja_postado_30d",
+   "amz-B0FLKGNYJ8": "ja_postado_30d"
   },
   "manuais_descartados": {
-   "ja_postado_30d": 114
+   "ja_postado_30d": 120
   },
   "instagram": {
    "seguidores": 513,
-   "posts": 140,
+   "posts": 141,
    "reach": 16,
-   "profile_views": 17,
+   "profile_views": 20,
    "website_clicks": 3,
    "stories_ativos": 25
   },
   "reels_alcance": {
-   "atualizado": "2026-11-21T10:34:52.784563-03:00",
+   "atualizado": "2026-11-21T11:21:38.308135-03:00",
    "itens": [
     {
      "id": "18150672790559013",
      "hora": "20/11 18:30",
      "capa": "uma_oferta",
      "reach": 2,
-     "views": 6,
+     "views": 10,
      "shares": 0,
      "saved": 0
     },
@@ -8278,6 +8290,13 @@
     }
    },
    "campeao": null
-  }
+  },
+  "tiktok": [
+   {
+    "hora": "12:02",
+    "capa": "ate_off",
+    "url": "https://raw.githubusercontent.com/felipenery99-alt/papa-garimpou-robo/tiktok-midia/20261121-1202-tiktok.mp4"
+   }
+  ]
  }
 }
