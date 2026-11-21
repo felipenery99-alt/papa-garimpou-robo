@@ -1924,7 +1924,14 @@
   "2026-11-21 marcas 10:09 shopee-42130479011",
   "2026-11-21 tech 10:16 shopee-11444965462",
   "2026-11-21 achadinhos 10:23 amz-B07X83MH7M",
-  "2026-11-21 marcas 10:31 amz-B084PTP3NH"
+  "2026-11-21 marcas 10:31 amz-B084PTP3NH",
+  "2026-11-21 achadinhos 10:37 amz-B0999PPKHM",
+  "2026-11-21 achadinhos 10:45 amz-B079VR3QVN",
+  "2026-11-21 achadinhos 10:48 amz-B0918FHY6P",
+  "2026-11-21 marcas 10:56 amz-B0CXFBZLY5",
+  "2026-11-21 tech 11:02 amz-B099H1RFQR",
+  "2026-11-21 achadinhos 11:09 amz-B09H8P5L6J",
+  "2026-11-21 marcas 11:17 amz-B0GCC5LNLM"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -3693,7 +3700,14 @@
   "amz-B0F671617M": "2026-11-21T10:00:55.538842-03:00",
   "amz-B0D7NZ3N7P": "2026-11-21T10:01:57.835343-03:00",
   "amz-B07X83MH7M": "2026-11-21T10:23:46.306383-03:00",
-  "amz-B084PTP3NH": "2026-11-21T10:31:35.901028-03:00"
+  "amz-B084PTP3NH": "2026-11-21T10:31:35.901028-03:00",
+  "amz-B0999PPKHM": "2026-11-21T10:37:31.456421-03:00",
+  "amz-B079VR3QVN": "2026-11-21T10:45:59.754226-03:00",
+  "amz-B0918FHY6P": "2026-11-21T10:48:59.779112-03:00",
+  "amz-B0CXFBZLY5": "2026-11-21T10:56:12.877955-03:00",
+  "amz-B099H1RFQR": "2026-11-21T11:02:57.076447-03:00",
+  "amz-B09H8P5L6J": "2026-11-21T11:09:56.392453-03:00",
+  "amz-B0GCC5LNLM": "2026-11-21T11:17:02.602383-03:00"
  },
  "ofertas_dia": [
   {
@@ -20366,6 +20380,128 @@
    "preco_em": "2026-11-21T12:05:21+00:00",
    "entrou": "2026-11-21T09:14:32.808230-03:00",
    "dia": "2026-11-21"
+  },
+  {
+   "id": "amz-B0999PPKHM",
+   "canal": "achadinhos",
+   "nome": "Liquidificador Oster New Osterizer Clássico",
+   "preco_antigo": 699.9,
+   "preco": 467.98,
+   "desconto": 33,
+   "link": "https://www.amazon.com.br/dp/B0999PPKHM?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/511vI4x2rTL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-22T22:00:00-03:00",
+   "coletado_em": "2026-11-21T12:06:46+00:00",
+   "preco_em": "2026-11-21T12:06:46+00:00",
+   "entrou": "2026-11-21T09:14:32.808230-03:00",
+   "dia": "2026-11-21"
+  },
+  {
+   "id": "amz-B079VR3QVN",
+   "canal": "achadinhos",
+   "nome": "Base BB Cream L'Oréal Paris FPS 20",
+   "preco_antigo": 63.49,
+   "preco": 36.99,
+   "desconto": 42,
+   "link": "https://www.amazon.com.br/dp/B079VR3QVN?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61XNI0BsFlL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-22T22:00:00-03:00",
+   "coletado_em": "2026-11-21T12:07:14+00:00",
+   "preco_em": "2026-11-21T12:07:14+00:00",
+   "entrou": "2026-11-21T09:14:32.808230-03:00",
+   "dia": "2026-11-21"
+  },
+  {
+   "id": "amz-B0918FHY6P",
+   "canal": "achadinhos",
+   "nome": "Óleo L'Oréal Professionnel 10 em 1 Absolut Repair",
+   "preco_antigo": 247.9,
+   "preco": 149.9,
+   "desconto": 40,
+   "link": "https://www.amazon.com.br/dp/B0918FHY6P?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61wfwHNv-NL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-22T22:00:00-03:00",
+   "coletado_em": "2026-11-21T12:07:21+00:00",
+   "preco_em": "2026-11-21T12:07:21+00:00",
+   "entrou": "2026-11-21T09:14:32.808230-03:00",
+   "dia": "2026-11-21"
+  },
+  {
+   "id": "amz-B0CXFBZLY5",
+   "canal": "marcas",
+   "nome": "Tênis Mizuno Street Wind",
+   "preco_antigo": 289.99,
+   "preco": 189.9,
+   "desconto": 35,
+   "link": "https://www.amazon.com.br/dp/B0CXFBZLY5?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51EPlrPdHwL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-22T22:00:00-03:00",
+   "coletado_em": "2026-11-21T12:05:07+00:00",
+   "extra": "Preço a partir de: varia por tamanho e cor",
+   "preco_em": "2026-11-21T12:05:07+00:00",
+   "entrou": "2026-11-21T09:14:32.808230-03:00",
+   "dia": "2026-11-21"
+  },
+  {
+   "id": "amz-B099H1RFQR",
+   "canal": "tech",
+   "nome": "Ghost of Tsushima Versão Do Diretor - PlayStation 5",
+   "preco_antigo": 259.01,
+   "preco": 158.01,
+   "desconto": 39,
+   "link": "https://www.amazon.com.br/dp/B099H1RFQR?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/61tiYH7F6LS._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-22T22:00:00-03:00",
+   "coletado_em": "2026-11-21T12:04:26+00:00",
+   "gancho": "🎮 Especial GTA VI",
+   "so_telegram": true,
+   "preco_em": "2026-11-21T12:04:26+00:00",
+   "entrou": "2026-11-21T09:14:32.808230-03:00",
+   "dia": "2026-11-21"
+  },
+  {
+   "id": "amz-B09H8P5L6J",
+   "canal": "achadinhos",
+   "nome": "Kit Hidratante Facial L'Oréal Paris",
+   "preco_antigo": 118.22,
+   "preco": 73.05,
+   "desconto": 38,
+   "link": "https://www.amazon.com.br/dp/B09H8P5L6J?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/51CqsKH0b9L._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-22T22:00:00-03:00",
+   "coletado_em": "2026-11-21T12:07:05+00:00",
+   "preco_em": "2026-11-21T12:07:05+00:00",
+   "entrou": "2026-11-21T09:14:32.808230-03:00",
+   "dia": "2026-11-21"
+  },
+  {
+   "id": "amz-B0GCC5LNLM",
+   "canal": "marcas",
+   "nome": "Copo Térmico Stanley Stacking Ash 473ml",
+   "preco_antigo": 159.0,
+   "preco": 82.08,
+   "desconto": 48,
+   "link": "https://www.amazon.com.br/dp/B0GCC5LNLM?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/41mMynEsBLL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-22T22:00:00-03:00",
+   "coletado_em": "2026-11-21T12:08:27+00:00",
+   "preco_em": "2026-11-21T12:08:27+00:00",
+   "entrou": "2026-11-21T09:14:32.808230-03:00",
+   "dia": "2026-11-21"
   }
  ],
  "ig_feitos": [
@@ -20523,7 +20659,9 @@
   "2026-11-21 09:40 story_convite",
   "2026-11-21 09:38 story_oferta",
   "2026-11-21 10:20 story_oferta",
-  "2026-11-21 10:24 story_oferta"
+  "2026-11-21 10:24 story_oferta",
+  "2026-11-21 story exclusiva",
+  "2026-11-21 11:11 story_oferta"
  ],
  "ig_ofertas_usadas": [
   "shopee-49064981274",
@@ -20861,78 +20999,14 @@
   "hu-caiu-depois": "2026-11-20",
   "dc-presente-troca": "2026-11-20",
   "hu-rastreio": "2026-11-20",
-  "bf-2026-11-21": "2026-11-21"
+  "bf-2026-11-21": "2026-11-21",
+  "hu-caixa": "2026-11-21"
  },
  "pecas_dia": {
-  "2026-11-20": 9,
-  "2026-11-21": 1
+  "2026-11-21": 2
  },
- "ultimo_pilar": "blackfriday",
+ "ultimo_pilar": "humor",
  "fila": [
-  {
-   "id": "amz-B0999PPKHM",
-   "canal": "achadinhos",
-   "nome": "Liquidificador Oster New Osterizer Clássico",
-   "preco_antigo": 699.9,
-   "preco": 467.98,
-   "desconto": 33,
-   "link": "https://www.amazon.com.br/dp/B0999PPKHM?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/511vI4x2rTL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-22T22:00:00-03:00",
-   "coletado_em": "2026-11-21T12:06:46+00:00",
-   "preco_em": "2026-11-21T12:06:46+00:00",
-   "entrou": "2026-11-21T09:14:32.808230-03:00"
-  },
-  {
-   "id": "amz-B079VR3QVN",
-   "canal": "achadinhos",
-   "nome": "Base BB Cream L'Oréal Paris FPS 20",
-   "preco_antigo": 63.49,
-   "preco": 36.99,
-   "desconto": 42,
-   "link": "https://www.amazon.com.br/dp/B079VR3QVN?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61XNI0BsFlL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-22T22:00:00-03:00",
-   "coletado_em": "2026-11-21T12:07:14+00:00",
-   "preco_em": "2026-11-21T12:07:14+00:00",
-   "entrou": "2026-11-21T09:14:32.808230-03:00"
-  },
-  {
-   "id": "amz-B0918FHY6P",
-   "canal": "achadinhos",
-   "nome": "Óleo L'Oréal Professionnel 10 em 1 Absolut Repair",
-   "preco_antigo": 247.9,
-   "preco": 149.9,
-   "desconto": 40,
-   "link": "https://www.amazon.com.br/dp/B0918FHY6P?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61wfwHNv-NL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-22T22:00:00-03:00",
-   "coletado_em": "2026-11-21T12:07:21+00:00",
-   "preco_em": "2026-11-21T12:07:21+00:00",
-   "entrou": "2026-11-21T09:14:32.808230-03:00"
-  },
-  {
-   "id": "amz-B09H8P5L6J",
-   "canal": "achadinhos",
-   "nome": "Kit Hidratante Facial L'Oréal Paris",
-   "preco_antigo": 118.22,
-   "preco": 73.05,
-   "desconto": 38,
-   "link": "https://www.amazon.com.br/dp/B09H8P5L6J?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51CqsKH0b9L._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-22T22:00:00-03:00",
-   "coletado_em": "2026-11-21T12:07:05+00:00",
-   "preco_em": "2026-11-21T12:07:05+00:00",
-   "entrou": "2026-11-21T09:14:32.808230-03:00"
-  },
   {
    "id": "amz-B076H5HQ28",
    "canal": "achadinhos",
@@ -20979,39 +21053,6 @@
    "valida_ate": "2026-11-22T22:00:00-03:00",
    "coletado_em": "2026-11-21T12:07:42+00:00",
    "preco_em": "2026-11-21T12:07:42+00:00",
-   "entrou": "2026-11-21T09:14:32.808230-03:00"
-  },
-  {
-   "id": "amz-B0CXFBZLY5",
-   "canal": "marcas",
-   "nome": "Tênis Mizuno Street Wind",
-   "preco_antigo": 289.99,
-   "preco": 189.9,
-   "desconto": 35,
-   "link": "https://www.amazon.com.br/dp/B0CXFBZLY5?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/51EPlrPdHwL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-22T22:00:00-03:00",
-   "coletado_em": "2026-11-21T12:05:07+00:00",
-   "extra": "Preço a partir de: varia por tamanho e cor",
-   "preco_em": "2026-11-21T12:05:07+00:00",
-   "entrou": "2026-11-21T09:14:32.808230-03:00"
-  },
-  {
-   "id": "amz-B0GCC5LNLM",
-   "canal": "marcas",
-   "nome": "Copo Térmico Stanley Stacking Ash 473ml",
-   "preco_antigo": 159.0,
-   "preco": 82.08,
-   "desconto": 48,
-   "link": "https://www.amazon.com.br/dp/B0GCC5LNLM?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/41mMynEsBLL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-22T22:00:00-03:00",
-   "coletado_em": "2026-11-21T12:08:27+00:00",
-   "preco_em": "2026-11-21T12:08:27+00:00",
    "entrou": "2026-11-21T09:14:32.808230-03:00"
   },
   {
@@ -21077,24 +21118,6 @@
    "valida_ate": "2026-11-22T22:00:00-03:00",
    "coletado_em": "2026-11-21T12:08:31+00:00",
    "preco_em": "2026-11-21T12:08:31+00:00",
-   "entrou": "2026-11-21T09:14:32.808230-03:00"
-  },
-  {
-   "id": "amz-B099H1RFQR",
-   "canal": "tech",
-   "nome": "Ghost of Tsushima Versão Do Diretor - PlayStation 5",
-   "preco_antigo": 259.01,
-   "preco": 158.01,
-   "desconto": 39,
-   "link": "https://www.amazon.com.br/dp/B099H1RFQR?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/61tiYH7F6LS._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-22T22:00:00-03:00",
-   "coletado_em": "2026-11-21T12:04:26+00:00",
-   "gancho": "🎮 Especial GTA VI",
-   "so_telegram": true,
-   "preco_em": "2026-11-21T12:04:26+00:00",
    "entrou": "2026-11-21T09:14:32.808230-03:00"
   },
   {
@@ -21180,6 +21203,23 @@
    "coletado_em": "2026-11-21T12:04:33+00:00",
    "preco_em": "2026-11-21T12:04:33+00:00",
    "entrou": "2026-11-21T09:14:32.808230-03:00"
+  },
+  {
+   "id": "shopee-17673633826",
+   "plataforma": "Shopee",
+   "nome": "Tampa Para Microondas 27x7 Anti Sujeira Respingos Protetora de Alimentos Eletrolux Brastemp Bpa Free",
+   "loja": "Âncora Shopp",
+   "loja_oficial": true,
+   "preco": 25.9,
+   "preco_antigo": 39.85,
+   "desconto": 35,
+   "vendas": 350,
+   "nota": 4.9,
+   "comissao_pct": 10.3,
+   "imagem": "https://cf.shopee.com.br/file/br-11134207-820ma-mszl2lh5cvlw09",
+   "link": "https://s.shopee.com.br/8KrFQvyTsK",
+   "canal": "achadinhos",
+   "entrou": "2026-11-21T10:34:52.784563-03:00"
   }
  ],
  "menus_fixados": [
@@ -22785,7 +22825,14 @@
   "chaleiraeletricaphilipswalitaserie3000": "2026-11-21T10:00:55.538842-03:00",
   "mascaralorealprofessionnelabsolutrepair": "2026-11-21T10:01:57.835343-03:00",
   "fraldapamperspremiumcarepants": "2026-11-21T10:23:46.306383-03:00",
-  "camisetabasicaheringworldunissex": "2026-11-21T10:31:35.901028-03:00"
+  "camisetabasicaheringworldunissex": "2026-11-21T10:31:35.901028-03:00",
+  "liquidificadorosternewosterizerclassico": "2026-11-21T10:37:31.456421-03:00",
+  "basebbcreamlorealparisfps20": "2026-11-21T10:45:59.754226-03:00",
+  "oleolorealprofessionnel10em1absolutrepair": "2026-11-21T10:48:59.779112-03:00",
+  "tenismizunostreetwind": "2026-11-21T10:56:12.877955-03:00",
+  "ghostoftsushimaversaododiretorplaystation5": "2026-11-21T11:02:57.076447-03:00",
+  "kithidratantefaciallorealparis": "2026-11-21T11:09:56.392453-03:00",
+  "copotermicostanleystackingash473ml": "2026-11-21T11:17:02.602383-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
@@ -23170,6 +23217,10 @@
   "ig-gta": {
    "link": "https://t.me/+Ry4dtHtvo1I3MWEx",
    "entradas": []
+  },
+  "ig-exclusiva": {
+   "link": "https://t.me/+v6wjlny_pDhhODMx",
+   "entradas": []
   }
  },
  "tg_offset": 354369952,
@@ -23252,7 +23303,7 @@
   "marcas": "2026-11-21T08:34:16.099160-03:00"
  },
  "top10_dia": "2026-11-14",
- "manuais_lidos": "2026-11-21T10:31:19.454291-03:00",
+ "manuais_lidos": "2026-11-21T11:16:34.197930-03:00",
  "reserva_resultado": {
   "2026-11-07": {
    "achadinhos": {
@@ -23579,7 +23630,7 @@
    "hora": "2026-11-20T18:30:12.713496-03:00"
   }
  },
- "ig_respondido_em": "2026-11-21T10:31:19.454291-03:00",
+ "ig_respondido_em": "2026-11-21T11:16:34.197930-03:00",
  "dm_auto": {
   "2026-11-14": {
    "com_palavra": 0,
@@ -23839,7 +23890,7 @@
    "feed": 3
   },
   "2026-11-21": {
-   "story": 7,
+   "story": 9,
    "feed": 0
   }
  },
