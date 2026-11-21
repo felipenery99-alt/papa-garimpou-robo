@@ -237,6 +237,10 @@ BUSCAS = {
         # 03/11 (CEO): Black Friday — casa de marca que mais vende na data
         "air fryer philips walita", "robô aspirador wap", "panela elétrica de arroz mondial",
         "cafeteira oster", "kit panelas tramontina antiaderente",
+        # 21/11 (CEO): garimpo do PC parado desde 19/11 17:57 e achadinhos com 14 posts em 20/11 (reserva achou 0
+        # na busca) → mais termos de casa/presente de marca da lista boa para a reserva da nuvem ter onde procurar
+        "garrafa térmica stanley", "panela de pressão rochedo", "ferro de passar arno", "micro-ondas electrolux",
+        "secador de cabelo philips", "jogo de facas tramontina",
     ],
 }
 

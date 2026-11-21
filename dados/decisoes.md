@@ -211,3 +211,11 @@
 - Alavanca nova: o TikTok (4 vídeos/dia) é a vitrine que ainda chega a gente nova e não citava o Instagram. O fecho da legenda do TikTok agora chama também "os achados do dia no Insta: @papa.garimpou" (sem hashtag, publi mantido). Ensaio OK.
 - Próximo: em 21/11 conferir que nenhum arquivo de `dados/` traz token e fechar às 22h o teste da pasta.
 - Pedido ao dono: (1) **URGENTE (se ainda não fez): /revoke do token no @BotFather e trocar o segredo `TELEGRAM_BOT_TOKEN`** — ficou público de novo; (2) **ligar o garimpo do PC** (parado desde 18/11 13:19, filas vazias à tarde); (3) rodadas de seguir/comentar todo dia (alcance em ~30).
+
+## 2026-11-21 (rotina do CEO)
+- Visto (20/11): 25 execuções, 25 stories ativos (piso ok), feed ok (carrossel 11:50, Reels 18:30, post 19:15). **Telegram caiu forte: 14 achadinhos, 8 marcas (último 14:06), 19 tech** (em 19/11: 33/20/17) — o garimpo do PC está parado desde 19/11 17:57 e a reserva da nuvem achou 0 na busca (só 11 "quase" + reprises). Seguidores 512→513 (+1), alcance 26, visitas 10, 3 cliques na bio; Reels com alcance 2. Membros 3+6+7+5 = 21 (parado há 11 dias).
+- Erros: só o vigia (filas vazias, canais 2–5 h sem post). **Nenhum token em `dados/`** (conferido). Sem erros do Telegram em 20/11.
+- META: Instagram 513 de 780 até 27/11 (**atrasado**: precisa ~45/dia, fez +1). Telegram (meta de trabalho) 21 de 60 até 27/11 (**atrasado**; teste da pasta fecha hoje 22h, funil intocado até lá).
+- Decisão: sem o PC, quem abastece é a reserva da nuvem, e o Achadinhos tinha a menor lista (31 termos). +6 termos de casa/presente de marca já aprovada (Stanley, Rochedo, Arno, Electrolux, Philips, Tramontina) para a reserva ter onde achar oferta boa na semana da Black Friday. Regras de qualidade intactas. Ensaio OK.
+- Próximo: em 22/11 (domingo) +30 peças no `conteudo.py`, pesquisa de contas grandes, resultado da pasta e ver se o Achadinhos voltou acima de 25 posts.
+- Pedido ao dono: (1) **ligar o garimpo do PC** (parado desde 19/11 17:57; a 6 dias da Black Friday os canais ficam horas sem post); (2) se ainda não fez, /revoke do token no @BotFather e trocar `TELEGRAM_BOT_TOKEN`; (3) rodadas de seguir/comentar todo dia (alcance em ~26, seguidores parados).
