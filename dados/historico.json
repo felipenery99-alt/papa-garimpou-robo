@@ -22135,7 +22135,9 @@
   "2026-11-20 20:03 story_oferta",
   "2026-11-20 20:30 reels",
   "2026-11-20 20:35 story_top4",
-  "2026-11-20 20:38 story_oferta"
+  "2026-11-20 20:38 story_oferta",
+  "2026-11-20 21:20 story_convite",
+  "2026-11-20 21:24 story_oferta"
  ],
  "ig_ofertas_usadas": [
   "amz-B08R8246HC",
@@ -22471,12 +22473,13 @@
   "cv-academia": "2026-11-20",
   "dc-cancelar-cedo": "2026-11-20",
   "hu-caiu-depois": "2026-11-20",
-  "dc-presente-troca": "2026-11-20"
+  "dc-presente-troca": "2026-11-20",
+  "hu-rastreio": "2026-11-20"
  },
  "pecas_dia": {
-  "2026-11-20": 8
+  "2026-11-20": 9
  },
- "ultimo_pilar": "dica",
+ "ultimo_pilar": "humor",
  "fila": [],
  "menus_fixados": [
   "v1 @papagarimpou",
@@ -24531,14 +24534,14 @@
   "2026-11-20 noite marcas",
   "2026-11-20 noite tech"
  ],
- "reserva_meio": "2026-11-20T20:48:12.507774-03:00",
+ "reserva_meio": "2026-11-20T21:41:01.814251-03:00",
  "reserva_cheia": {
   "achadinhos": "2026-11-20T20:11:12.567730-03:00",
   "tech": "2026-11-20T20:11:12.567730-03:00",
   "marcas": "2026-11-20T20:48:12.507774-03:00"
  },
  "top10_dia": "2026-11-14",
- "manuais_lidos": "2026-11-20T20:43:12.138921-03:00",
+ "manuais_lidos": "2026-11-20T21:31:58.111288-03:00",
  "reserva_resultado": {
   "2026-11-07": {
    "achadinhos": {
@@ -24848,7 +24851,7 @@
    "hora": "2026-11-20T18:30:12.713496-03:00"
   }
  },
- "ig_respondido_em": "2026-11-20T20:38:51.835702-03:00",
+ "ig_respondido_em": "2026-11-20T21:34:58.378926-03:00",
  "dm_auto": {
   "2026-11-13": {
    "com_palavra": 0,
@@ -25108,7 +25111,7 @@
    "feed": 3
   },
   "2026-11-20": {
-   "story": 30,
+   "story": 32,
    "feed": 3
   }
  },
