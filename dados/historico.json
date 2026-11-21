@@ -1944,7 +1944,12 @@
   "2026-11-21 tech 12:30 amz-B0GWCCBDRR",
   "2026-11-21 marcas 12:39 amz-B0DY2WXVZ3",
   "2026-11-21 tech 12:46 amz-B0H472V29J",
-  "2026-11-21 tech 12:52 amz-B0B8JG9GMK"
+  "2026-11-21 tech 12:52 amz-B0B8JG9GMK",
+  "2026-11-21 tech 13:01 amz-B0FX36FTBX",
+  "2026-11-21 achadinhos 13:16 shopee-58204551307",
+  "2026-11-21 achadinhos 13:23 shopee-22598956519",
+  "2026-11-21 achadinhos 13:31 shopee-48660343762",
+  "2026-11-21 achadinhos 13:39 shopee-20111903242"
  ],
  "postados": {
   "amz-B0GP7KDZRJ": "2026-10-28T11:22:11.003600-03:00",
@@ -2491,7 +2496,7 @@
   "amz-B0DZ33GNYP": "2026-11-05T21:43:37.174072-03:00",
   "amz-B0FWS5QZH2": "2026-11-05T21:49:43.552108-03:00",
   "amz-B0H5MJ2GZS": "2026-11-05T21:56:09.479086-03:00",
-  "shopee-20111903242": "2026-11-17T08:32:20.588458-03:00",
+  "shopee-20111903242": "2026-11-21T13:39:06.548809-03:00",
   "amz-B0BYK5T45C": "2026-11-06T08:28:02.579395-03:00",
   "amz-B076X6TXTC": "2026-11-06T08:33:23.925164-03:00",
   "amz-B0FBY8JN4T": "2026-11-06T08:41:14.884192-03:00",
@@ -2971,7 +2976,7 @@
   "amz-B07RT1NRVP": "2026-11-12T09:48:25.700814-03:00",
   "shopee-18499921197": "2026-11-12T09:56:29.363763-03:00",
   "shopee-22091991704": "2026-11-20T09:36:41.187086-03:00",
-  "shopee-48660343762": "2026-11-12T10:11:19.456142-03:00",
+  "shopee-48660343762": "2026-11-21T13:31:38.125758-03:00",
   "shopee-22597140327": "2026-11-19T10:41:13.387723-03:00",
   "shopee-57657281247": "2026-11-20T10:00:30.457588-03:00",
   "shopee-7975402525": "2026-11-20T13:23:46.302482-03:00",
@@ -3081,7 +3086,7 @@
   "amz-B0BHMHWW2K": "2026-11-13T12:38:08.865595-03:00",
   "shopee-22998796938": "2026-11-21T08:48:33.674736-03:00",
   "amz-B0BNNYSZPX": "2026-11-13T12:53:04.069528-03:00",
-  "shopee-58204551307": "2026-11-13T13:00:58.237428-03:00",
+  "shopee-58204551307": "2026-11-21T13:16:55.447094-03:00",
   "amz-B09YZ2Y1W3": "2026-11-13T13:08:51.650185-03:00",
   "shopee-40717702468": "2026-11-13T13:15:50.988227-03:00",
   "shopee-10677614679": "2026-11-13T13:23:29.167705-03:00",
@@ -3732,7 +3737,9 @@
   "amz-B0GWCCBDRR": "2026-11-21T12:30:54.468059-03:00",
   "amz-B0DY2WXVZ3": "2026-11-21T12:39:39.751867-03:00",
   "amz-B0H472V29J": "2026-11-21T12:46:20.310311-03:00",
-  "amz-B0B8JG9GMK": "2026-11-21T12:52:47.896799-03:00"
+  "amz-B0B8JG9GMK": "2026-11-21T12:52:47.896799-03:00",
+  "amz-B0FX36FTBX": "2026-11-21T13:01:50.803767-03:00",
+  "shopee-22598956519": "2026-11-21T13:23:42.850715-03:00"
  },
  "ofertas_dia": [
   {
@@ -20755,6 +20762,99 @@
    "preco_em": "2026-11-21T12:05:38+00:00",
    "entrou": "2026-11-21T09:14:32.808230-03:00",
    "dia": "2026-11-21"
+  },
+  {
+   "id": "amz-B0FX36FTBX",
+   "canal": "tech",
+   "nome": "Headset com fio USB-C Logitech H390",
+   "preco_antigo": 229.9,
+   "preco": 125.91,
+   "desconto": 45,
+   "link": "https://www.amazon.com.br/dp/B0FX36FTBX?tag=papagarimpou-20",
+   "imagem": "https://m.media-amazon.com/images/I/613tcQCXRgL._AC_SL1500_.jpg",
+   "loja": "Vendido e entregue pela Amazon",
+   "plataforma": "Amazon",
+   "valida_ate": "2026-11-22T22:00:00-03:00",
+   "coletado_em": "2026-11-21T12:04:33+00:00",
+   "preco_em": "2026-11-21T12:04:33+00:00",
+   "entrou": "2026-11-21T09:14:32.808230-03:00",
+   "dia": "2026-11-21"
+  },
+  {
+   "id": "shopee-58204551307",
+   "plataforma": "Shopee",
+   "nome": "Aspirador Portátil Wap Car Potente 180W Com Reservatório 420ml Bicos Extras Cabo 3,7metros 12v - WAP",
+   "loja": "Auto Equip Sc",
+   "loja_oficial": true,
+   "preco": 96.7,
+   "preco_antigo": 189.61,
+   "desconto": 49,
+   "vendas": 243,
+   "nota": 4.9,
+   "comissao_pct": 7.0,
+   "imagem": "https://cf.shopee.com.br/file/sg-11134201-8261q-mk9lfrj7jnd1bb",
+   "link": "https://s.shopee.com.br/9zzR1wDp59",
+   "quase": true,
+   "canal": "achadinhos",
+   "entrou": "2026-11-21T12:53:18.570442-03:00",
+   "dia": "2026-11-21"
+  },
+  {
+   "id": "shopee-22598956519",
+   "plataforma": "Shopee",
+   "nome": "Ferro de Passar Roupa a Vapor Ecogliss com Modo Econômico FEC1 - Arno",
+   "loja": "Tubarão Max",
+   "loja_oficial": true,
+   "preco": 141.9,
+   "preco_antigo": 232.62,
+   "desconto": 39,
+   "vendas": 163,
+   "nota": 4.9,
+   "comissao_pct": 3.0,
+   "imagem": "https://cf.shopee.com.br/file/sg-11134201-824hi-mfa2pw3p06xb91",
+   "link": "https://s.shopee.com.br/70LrkZbtUB",
+   "quase": true,
+   "canal": "achadinhos",
+   "entrou": "2026-11-21T12:53:18.570442-03:00",
+   "dia": "2026-11-21"
+  },
+  {
+   "id": "shopee-48660343762",
+   "plataforma": "Shopee",
+   "nome": "Jogo de Panelas Tramontina 9 Peças Turim Antiaderente Starflon Max Grafite",
+   "loja": "MONTLAR",
+   "loja_oficial": true,
+   "preco": 258.43,
+   "preco_antigo": 358.93,
+   "desconto": 28,
+   "vendas": 164,
+   "nota": 4.9,
+   "comissao_pct": 3.0,
+   "imagem": "https://cf.shopee.com.br/file/br-11134207-820lj-mo4gvnfaql8gaa",
+   "link": "https://s.shopee.com.br/AUvkWuGpha",
+   "quase": true,
+   "canal": "achadinhos",
+   "entrou": "2026-11-21T12:53:18.570442-03:00",
+   "dia": "2026-11-21"
+  },
+  {
+   "id": "shopee-20111903242",
+   "plataforma": "Shopee",
+   "nome": "Frigideira Funda Antiaderente Tramontina 24Cm",
+   "loja": "Lojas Montre",
+   "loja_oficial": true,
+   "preco": 72.99,
+   "preco_antigo": 155.3,
+   "desconto": 53,
+   "vendas": 642,
+   "nota": 4.9,
+   "comissao_pct": 13.0,
+   "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m1d3d2xvparkc5",
+   "link": "https://s.shopee.com.br/6VPY0OJphi",
+   "canal": "achadinhos",
+   "entrou": "2026-11-21T12:53:18.570442-03:00",
+   "reprise_dias": 3,
+   "dia": "2026-11-21"
   }
  ],
  "ig_feitos": [
@@ -20921,7 +21021,9 @@
   "2026-11-21 11:56 story_oferta",
   "2026-11-21 12:15 story_top4",
   "2026-11-21 12:19 story_oferta",
-  "2026-11-21 12:47 story_oferta"
+  "2026-11-21 12:47 story_oferta",
+  "2026-11-21 13:20 story_convite",
+  "2026-11-21 13:22 story_oferta"
  ],
  "ig_ofertas_usadas": [
   "amz-B0B9V6YMM5",
@@ -21261,28 +21363,50 @@
   "hu-rastreio": "2026-11-20",
   "bf-2026-11-21": "2026-11-21",
   "hu-caixa": "2026-11-21",
-  "mv-frete-gratis": "2026-11-21"
+  "mv-frete-gratis": "2026-11-21",
+  "hu-cupom-venceu": "2026-11-21"
  },
  "pecas_dia": {
-  "2026-11-21": 3
+  "2026-11-21": 4
  },
- "ultimo_pilar": "mito",
+ "ultimo_pilar": "humor",
  "fila": [
   {
-   "id": "amz-B0FX36FTBX",
-   "canal": "tech",
-   "nome": "Headset com fio USB-C Logitech H390",
-   "preco_antigo": 229.9,
-   "preco": 125.91,
-   "desconto": 45,
-   "link": "https://www.amazon.com.br/dp/B0FX36FTBX?tag=papagarimpou-20",
-   "imagem": "https://m.media-amazon.com/images/I/613tcQCXRgL._AC_SL1500_.jpg",
-   "loja": "Vendido e entregue pela Amazon",
-   "plataforma": "Amazon",
-   "valida_ate": "2026-11-22T22:00:00-03:00",
-   "coletado_em": "2026-11-21T12:04:33+00:00",
-   "preco_em": "2026-11-21T12:04:33+00:00",
-   "entrou": "2026-11-21T09:14:32.808230-03:00"
+   "id": "shopee-22599383562",
+   "plataforma": "Shopee",
+   "nome": "Furadeira De Impacto GSB 450 RE STD Bosch 450w + Kit Maleta Com 300 Pçs E Acessórios",
+   "loja": "Ismafer",
+   "loja_oficial": true,
+   "preco": 349.9,
+   "preco_antigo": 744.47,
+   "desconto": 53,
+   "vendas": 356,
+   "nota": 5.0,
+   "comissao_pct": 11.0,
+   "imagem": "https://cf.shopee.com.br/file/br-11134207-81zti-ml5egumek07909",
+   "link": "https://s.shopee.com.br/4fxtp3labf",
+   "canal": "achadinhos",
+   "entrou": "2026-11-21T12:53:18.570442-03:00",
+   "reprise_dias": 3
+  },
+  {
+   "id": "shopee-20697627058",
+   "plataforma": "Shopee",
+   "nome": "Secador De Cabelo Taiff Style Azul Tifanny Original 2000 W",
+   "loja": "Beleza Renovada Oficial",
+   "loja_oficial": true,
+   "preco": 239.99,
+   "preco_antigo": 421.04,
+   "desconto": 43,
+   "vendas": 263,
+   "nota": 4.9,
+   "comissao_pct": 12.0,
+   "imagem": "https://cf.shopee.com.br/file/sg-11134201-823pg-moid2e5wmw3w59",
+   "link": "https://s.shopee.com.br/5fqR0sDjRR",
+   "quase": true,
+   "canal": "achadinhos",
+   "entrou": "2026-11-21T12:53:18.570442-03:00",
+   "reprise_dias": 3
   }
  ],
  "menus_fixados": [
@@ -21688,7 +21812,7 @@
   "camisetainsiderperformancetshirt20masculina": "2026-11-05T21:43:37.174072-03:00",
   "kit2camisetasreservacombolsopicapau": "2026-11-05T21:49:43.552108-03:00",
   "mochilamizunoendevour22litrosoffwhite": "2026-11-05T21:56:09.479086-03:00",
-  "frigideirafundaantiaderentetramontina24cm": "2026-11-17T08:32:20.588458-03:00",
+  "frigideirafundaantiaderentetramontina24cm": "2026-11-21T13:39:06.548809-03:00",
   "liquidificadorphilcoplq2100pi3l1200w220v": "2026-11-06T08:28:02.579395-03:00",
   "faqueirodechurrascotramontinalagunainox36pecas": "2026-11-06T08:33:23.925164-03:00",
   "tenismasculinoreeboknanogym": "2026-11-06T08:41:14.884192-03:00",
@@ -22165,7 +22289,7 @@
   "kit6paresmeiaslupo3245canomedioalgodao": "2026-11-12T09:48:25.700814-03:00",
   "controleparaxboxsemfiopretocabousbc": "2026-11-12T09:56:29.363763-03:00",
   "chapinhadecabelotaiffsupermini200ocpretabivolt": "2026-11-20T09:36:41.187086-03:00",
-  "jogodepanelastramontina9pecasturimantiaderentestarflonmaxgrafite": "2026-11-12T10:11:19.456142-03:00",
+  "jogodepanelastramontina9pecasturimantiaderentestarflonmaxgrafite": "2026-11-21T13:31:38.125758-03:00",
   "camisetabasicamasculinaslimemmalhaflamehering": "2026-11-19T10:41:13.387723-03:00",
   "tenisfemininoolympikusapolisoriginal": "2026-11-20T10:00:30.457588-03:00",
   "ugreenpdqcpps100w60wusbcparacabodecargarapidatipo20v5ausbtipocparaiphone15samsunggalaxytablet": "2026-11-20T13:23:46.302482-03:00",
@@ -22275,7 +22399,7 @@
   "camisetainsiderdailytshirt": "2026-11-13T12:38:08.865595-03:00",
   "pipoqueiratramontinainducaoacoinoxfundotriploallegra22cm56l": "2026-11-21T08:48:33.674736-03:00",
   "camisetaheringcomfortsupercottoncombolso": "2026-11-13T12:53:04.069528-03:00",
-  "aspiradorportatilwapcarpotente180wcomreservatorio420mlbicosextrascabo37metros12vwap": "2026-11-13T13:00:58.237428-03:00",
+  "aspiradorportatilwapcarpotente180wcomreservatorio420mlbicosextrascabo37metros12vwap": "2026-11-21T13:16:55.447094-03:00",
   "wheyadaptogentastywheyoriginal900g": "2026-11-13T13:08:51.650185-03:00",
   "smarttvls43f6000samsungled43fullhdtizenvoiceready": "2026-11-13T13:15:50.988227-03:00",
   "kit10paresmeiaslupooriginaiscanomedioaltoalgodaomasculinafemininameiaatoalhadagrossas": "2026-11-13T13:23:29.167705-03:00",
@@ -22907,7 +23031,9 @@
   "marvelswolverineplaystation5": "2026-11-21T12:30:54.468059-03:00",
   "copostanleyquencherrosequartz591ml": "2026-11-21T12:39:39.751867-03:00",
   "mousegamersemfiologitechgproxsuperlight2": "2026-11-21T12:46:20.310311-03:00",
-  "mousegamersemfiologitechg502xpluslightspeed": "2026-11-21T12:52:47.896799-03:00"
+  "mousegamersemfiologitechg502xpluslightspeed": "2026-11-21T12:52:47.896799-03:00",
+  "headsetcomfiousbclogitechh390": "2026-11-21T13:01:50.803767-03:00",
+  "ferrodepassarroupaavaporecoglisscommodoeconomicofec1arno": "2026-11-21T13:23:42.850715-03:00"
  },
  "ig_reels_ofertas": {
   "2026-10-30": [
@@ -23378,14 +23504,14 @@
   "2026-11-20 noite marcas",
   "2026-11-20 noite tech"
  ],
- "reserva_meio": "2026-11-21T12:37:48.084755-03:00",
+ "reserva_meio": "2026-11-21T13:30:24.355504-03:00",
  "reserva_cheia": {
-  "achadinhos": "2026-11-20T20:11:12.567730-03:00",
+  "achadinhos": "2026-11-21T12:53:18.570442-03:00",
   "tech": "2026-11-21T08:34:16.099160-03:00",
-  "marcas": "2026-11-21T08:34:16.099160-03:00"
+  "marcas": "2026-11-21T13:12:22.385312-03:00"
  },
  "top10_dia": "2026-11-14",
- "manuais_lidos": "2026-11-21T12:46:15.147273-03:00",
+ "manuais_lidos": "2026-11-21T13:39:01.221628-03:00",
  "reserva_resultado": {
   "2026-11-07": {
    "achadinhos": {
@@ -23623,8 +23749,8 @@
   "2026-11-21": {
    "achadinhos": {
     "busca": 0,
-    "quase": 0,
-    "reprise": 1
+    "quase": 3,
+    "reprise": 4
    },
    "marcas": {
     "busca": 2,
@@ -23712,7 +23838,7 @@
    "hora": "2026-11-20T18:30:12.713496-03:00"
   }
  },
- "ig_respondido_em": "2026-11-21T12:52:27.551548-03:00",
+ "ig_respondido_em": "2026-11-21T13:39:01.221628-03:00",
  "dm_auto": {
   "2026-11-14": {
    "com_palavra": 0,
@@ -23960,7 +24086,7 @@
    "feed": 3
   },
   "2026-11-21": {
-   "story": 13,
+   "story": 15,
    "feed": 1
   }
  },
